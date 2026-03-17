@@ -1,0 +1,85 @@
+---
+import Base from './Base.astro';
+import TLDRBoks from '../components/TLDRBoks.astro';
+import RelaterteBoks from '../components/RelaterteBoks.astro';
+
+interface Props {
+  tittel: string;
+  kortbeskrivelse: string;
+  tolkninger_kort: string[];
+  relaterte: string[];
+  slug: string;
+  kategori: string;
+  dato: Date;
+}
+
+const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, slug, kategori, dato } = Astro.props;
+---
+
+<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/drommer/${slug}`}>
+  <article>
+    <header class="mb-8">
+      <div class="flex items-center gap-2 mb-3">
+        <a
+          href={`/kategori/${kategori}`}
+          class="text-xs uppercase tracking-wide text-[var(--color-subtil)] hover:text-[var(--color-terrakotta)]"
+        >
+          {kategori}
+        </a>
+      </div>
+      <h1 class="text-3xl md:text-[2.5rem] font-bold leading-tight" style="font-family: var(--font-heading);">
+        {tittel}
+      </h1>
+    </header>
+
+    <TLDRBoks tolkninger={tolkninger_kort} />
+
+    <!-- Ezoic ad placement: after TL;DR -->
+    <!-- <div id="ezoic-pub-ad-placeholder-101"></div> -->
+
+    <div class="prose">
+      <slot />
+    </div>
+
+    <!-- Ezoic ad placement: after content -->
+    <!-- <div id="ezoic-pub-ad-placeholder-102"></div> -->
+
+    <RelaterteBoks relaterte={relaterte || []} />
+
+    <!-- Ezoic ad placement: after related symbols -->
+    <!-- <div id="ezoic-pub-ad-placeholder-103"></div> -->
+  </article>
+
+  <!-- FAQPage + Article schema -->
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: tittel,
+          description: kortbeskrivelse,
+          datePublished: dato.toISOString(),
+          url: `https://drommeguiden.no/drommer/${slug}`,
+          publisher: {
+            '@type': 'Organization',
+            name: 'Drømmeguiden',
+            url: 'https://drommeguiden.no',
+          },
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: tolkninger_kort.map((tolkning) => ({
+            '@type': 'Question',
+            name: `Hva betyr det å drømme om ${slug.replace(/-/g, ' ')}?`,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: tolkning,
+            },
+          })),
+        },
+      ],
+    })}
+  />
+</Base>

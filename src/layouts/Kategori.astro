@@ -1,0 +1,46 @@
+---
+import Base from './Base.astro';
+import SymbolKort from '../components/SymbolKort.astro';
+import { getCollection } from 'astro:content';
+
+interface Props {
+  tittel: string;
+  kortbeskrivelse: string;
+  slug: string;
+}
+
+const { tittel, kortbeskrivelse, slug } = Astro.props;
+
+const alleSymboler = await getCollection('drommer');
+const symbolerIKategori = alleSymboler.filter((s) => s.data.kategori === slug);
+---
+
+<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/kategori/${slug}`}>
+  <article>
+    <h1 class="text-3xl md:text-[2.5rem] font-bold leading-tight mb-6" style="font-family: var(--font-heading);">
+      {tittel}
+    </h1>
+
+    <div class="prose mb-12">
+      <slot />
+    </div>
+
+    {symbolerIKategori.length > 0 && (
+      <section>
+        <h2 class="text-xl font-semibold mb-4" style="font-family: var(--font-heading);">
+          Utforsk symbolene
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+          {symbolerIKategori.map((d) => (
+            <SymbolKort
+              tittel={d.data.tittel}
+              slug={d.data.slug}
+              kortbeskrivelse={d.data.kortbeskrivelse}
+              kategori={d.data.kategori}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+  </article>
+</Base>

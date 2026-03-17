@@ -1,0 +1,77 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-natt: #1a1f3a;
+  --color-krem: #f2ede6;
+  --color-sand: #e8e0d4;
+  --color-terrakotta: #c08070;
+  --color-tekst: #2d2926;
+  --color-subtil: #8a7f76;
+
+  --font-heading: 'Cormorant Garamond', serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+:root {
+  --farge-natt: #1a1f3a;
+  --farge-krem: #f2ede6;
+  --farge-sand: #e8e0d4;
+  --farge-terrakotta: #c08070;
+  --farge-tekst: #2d2926;
+  --farge-subtil: #8a7f76;
+}
+
+html {
+  font-family: var(--font-body);
+  color: var(--color-tekst);
+  background-color: var(--color-krem);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--color-natt);
+}
+
+h1 { font-size: 2.5rem; line-height: 1.2; }
+h2 { font-size: 1.75rem; line-height: 1.3; }
+h3 { font-size: 1.25rem; line-height: 1.4; }
+
+a {
+  color: var(--color-terrakotta);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Prose styling for markdown content */
+.prose {
+  max-width: 650px;
+  line-height: 1.75;
+}
+.prose p {
+  margin-bottom: 1.25rem;
+}
+.prose h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+.prose h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+.prose hr {
+  border: none;
+  border-top: 1px solid var(--color-sand);
+  margin: 2rem 0;
+}
+.prose strong {
+  font-weight: 600;
+}
+.prose ul, .prose ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+.prose li {
+  margin-bottom: 0.5rem;
+}

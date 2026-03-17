@@ -1,0 +1,228 @@
+---
+import Base from '../layouts/Base.astro';
+import DrommensDag from '../components/DrommensDag.astro';
+import NewsletterCTA from '../components/NewsletterCTA.astro';
+import { getCollection } from 'astro:content';
+
+const drommer = await getCollection('drommer');
+const guider = await getCollection('guider');
+
+const emojiMap: Record<string, string> = {
+  slange: '🐍', hav: '🌊', falle: '🪂', tann: '🦷', brann: '🔥',
+  hund: '🐕', katt: '🐈', baby: '👶', edderkopp: '🕷️', bjorn: '🐻',
+  bryllup: '💒', flyging: '🕊️', 'morkt-rom': '🌑', skog: '🌲',
+  storm: '⛈️', hender: '🤲', speil: '🪞', ulv: '🐺', fjell: '🏔️',
+  regn: '🌧️', krage: '🦅', hest: '🐴', drukne: '🌀', bil: '🚗',
+  skole: '🏫', sykehus: '🏥', hus: '🏠', blod: '🩸', naken: '😶',
+  eksen: '💔'
+};
+
+// 6 featured symbols in specific order
+const featuredSlugs = ['slange', 'hav', 'eksen', 'tann', 'brann', 'flyging'];
+const featuredSymboler = featuredSlugs
+  .map(slug => drommer.find(d => d.data.slug === slug))
+  .filter(Boolean);
+
+// Categories with symbol counts
+const kategorier = [
+  { slug: 'dyr', tittel: 'Dyr', emoji: '🐾' },
+  { slug: 'vann', tittel: 'Vann', emoji: '🌊' },
+  { slug: 'kropp', tittel: 'Kropp', emoji: '🫀' },
+  { slug: 'steder', tittel: 'Steder', emoji: '🏠' },
+  { slug: 'hendelser', tittel: 'Hendelser', emoji: '⚡' },
+  { slug: 'mennesker', tittel: 'Mennesker', emoji: '👤' },
+  { slug: 'natur', tittel: 'Natur', emoji: '🌿' },
+  { slug: 'gjenstander', tittel: 'Gjenstander', emoji: '🔑' },
+];
+
+// Count symbols per category
+const kategorierMedAntall = kategorier.map(kat => ({
+  ...kat,
+  antall: drommer.filter(d => d.data.kategori === kat.slug).length,
+}));
+---
+
+<Base
+  tittel="Drømmeguiden"
+  beskrivelse="Finn ut hva drømmene dine betyr. Norges mest komplette guide til drømmesymboler og drømmetolkning."
+>
+
+  <!-- 1. HERO with dark gradient -->
+  <section class="text-center py-12 md:py-20 -mx-4 -mt-10 px-4 mb-12 rounded-b-2xl" style="background: linear-gradient(180deg, #1a1f3a 0%, #2d3561 100%);">
+    <h1 class="text-4xl md:text-5xl font-bold mb-4" style="font-family: var(--font-heading); color: var(--color-krem);">
+      Hva drømte du i natt?
+    </h1>
+    <p class="text-lg max-w-xl mx-auto mb-8" style="color: var(--color-sand);">
+      Norges mest komplette drømmetydningsguide
+    </p>
+
+    <!-- Search field -->
+    <div class="max-w-md mx-auto relative">
+      <input
+        type="text"
+        id="sok"
+        placeholder="Søk etter et drømmesymbol..."
+        autocomplete="off"
+        class="w-full px-5 py-3.5 rounded-xl border-0 text-[var(--color-tekst)] placeholder:text-[var(--color-subtil)] focus:outline-none focus:ring-2 focus:ring-[var(--color-terrakotta)]"
+        style="background-color: var(--color-krem); box-shadow: 0 4px 20px rgba(0,0,0,0.2);"
+      />
+      <div
+        id="sok-resultater"
+        class="absolute top-full left-0 right-0 mt-2 rounded-xl overflow-hidden hidden z-50"
+        style="background-color: var(--color-krem); box-shadow: 0 4px 20px rgba(26,31,58,0.2);"
+      ></div>
+    </div>
+  </section>
+
+  <!-- 2. DRØMMENS DAG -->
+  <DrommensDag />
+
+  <!-- 3. POPULÆRE SYMBOLER -->
+  <section class="mb-16">
+    <h2 class="text-2xl font-semibold mb-6" style="font-family: var(--font-heading);">
+      Populære drømmesymboler
+    </h2>
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+      {featuredSymboler.map((d) => d && (
+        <a
+          href={`/drommer/${d.data.slug}`}
+          class="block rounded-xl p-5 hover:translate-y-[-2px] transition-transform"
+          style="background-color: white; box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
+        >
+          <span class="text-3xl block mb-2">{emojiMap[d.data.slug] || '✨'}</span>
+          <h3 class="text-lg font-semibold mb-1 text-[var(--color-natt)]" style="font-family: var(--font-heading);">
+            {d.data.tittel.replace(/ — hva betyr det\?/, '').replace('Drømmer om ', '')}
+          </h3>
+          <p class="text-sm text-[var(--color-tekst)] leading-relaxed line-clamp-2">
+            {d.data.kortbeskrivelse}
+          </p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- 4. KATEGORIER -->
+  <section class="mb-16">
+    <h2 class="text-2xl font-semibold mb-6" style="font-family: var(--font-heading);">
+      Utforsk etter kategori
+    </h2>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+      {kategorierMedAntall.map((kat) => (
+        <a
+          href={`/kategori/${kat.slug}`}
+          class="flex flex-col items-center gap-2 rounded-xl p-5 hover:translate-y-[-2px] transition-transform text-center"
+          style="background-color: var(--color-sand); box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
+        >
+          <span class="text-2xl">{kat.emoji}</span>
+          <span class="font-medium text-[var(--color-natt)]">{kat.tittel}</span>
+          <span class="text-xs text-[var(--color-subtil)]">{kat.antall} symboler</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- 5. SISTE GUIDER -->
+  {guider.length > 0 && (
+    <section class="mb-16">
+      <h2 class="text-2xl font-semibold mb-6" style="font-family: var(--font-heading);">
+        Guider om drømmer
+      </h2>
+      <div class="space-y-4">
+        {guider.map((g) => (
+          <a
+            href={`/guider/${g.data.slug}`}
+            class="block rounded-xl p-5 hover:translate-y-[-1px] transition-transform"
+            style="background-color: white; box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
+          >
+            <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4">
+              <div class="flex-1">
+                <h3 class="text-lg font-semibold text-[var(--color-natt)]" style="font-family: var(--font-heading);">
+                  {g.data.tittel}
+                </h3>
+                <p class="text-sm text-[var(--color-tekst)] mt-1 line-clamp-1">
+                  {g.data.kortbeskrivelse}
+                </p>
+              </div>
+              {g.data.leseminutter && (
+                <span class="text-xs text-[var(--color-subtil)] shrink-0">{g.data.leseminutter} min</span>
+              )}
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- 6. NYHETSBREV CTA -->
+  <section class="mb-16">
+    <NewsletterCTA />
+  </section>
+
+  <!-- WebSite schema with SearchAction -->
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'Drømmeguiden',
+      url: 'https://drommeguiden.no',
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: 'https://drommeguiden.no/?sok={search_term_string}',
+        'query-input': 'required name=search_term_string',
+      },
+    })}
+  />
+
+  <!-- Client-side search script -->
+  <script define:vars={{ symboler: drommer.map((d) => ({ tittel: d.data.tittel, slug: d.data.slug, kortbeskrivelse: d.data.kortbeskrivelse })) }}>
+    const sokInput = document.getElementById('sok');
+    const resultaterDiv = document.getElementById('sok-resultater');
+
+    if (sokInput && resultaterDiv) {
+      sokInput.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase().trim();
+        if (query.length < 2) {
+          resultaterDiv.classList.add('hidden');
+          resultaterDiv.innerHTML = '';
+          return;
+        }
+
+        const treff = symboler.filter(
+          (s) =>
+            s.slug.includes(query) ||
+            s.tittel.toLowerCase().includes(query) ||
+            s.kortbeskrivelse.toLowerCase().includes(query)
+        ).slice(0, 6);
+
+        if (treff.length === 0) {
+          resultaterDiv.classList.add('hidden');
+          resultaterDiv.innerHTML = '';
+          return;
+        }
+
+        resultaterDiv.innerHTML = treff
+          .map(
+            (s) =>
+              `<a href="/drommer/${s.slug}" class="block px-5 py-3 hover:bg-[var(--color-sand)] border-b border-[var(--color-sand)] last:border-b-0 text-left">
+                <span class="font-medium text-[var(--color-natt)]">${s.tittel.replace(/ — hva betyr det\?/, '')}</span>
+                <span class="block text-xs text-[var(--color-subtil)] mt-0.5">${s.kortbeskrivelse.slice(0, 80)}...</span>
+              </a>`
+          )
+          .join('');
+        resultaterDiv.classList.remove('hidden');
+      });
+
+      document.addEventListener('click', (e) => {
+        if (!sokInput.contains(e.target) && !resultaterDiv.contains(e.target)) {
+          resultaterDiv.classList.add('hidden');
+        }
+      });
+
+      // Auto-focus search if ?fokus=sok
+      if (new URLSearchParams(window.location.search).has('fokus')) {
+        sokInput.focus();
+      }
+    }
+  </script>
+</Base>

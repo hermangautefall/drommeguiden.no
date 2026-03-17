@@ -1,0 +1,26 @@
+---
+interface Props {
+  relaterte: string[];
+}
+
+const { relaterte } = Astro.props;
+---
+
+{relaterte.length > 0 && (
+  <div class="mt-12 pt-8 border-t border-[var(--color-sand)]">
+    <h2 class="text-xl font-semibold mb-4" style="font-family: var(--font-heading);">
+      Relaterte drømmesymboler
+    </h2>
+    <div class="flex flex-wrap gap-3">
+      {relaterte.map((slug) => (
+        <a
+          href={`/drommer/${slug}`}
+          class="inline-block bg-[var(--color-sand)] text-[var(--color-tekst)] px-4 py-2 rounded-lg text-sm hover:bg-[var(--color-terrakotta)] hover:text-[var(--color-krem)] transition-colors"
+          style="box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
+        >
+          {slug.replace(/-/g, ' ')}
+        </a>
+      ))}
+    </div>
+  </div>
+)}

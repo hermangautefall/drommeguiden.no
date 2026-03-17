@@ -1,0 +1,27 @@
+---
+import { getCollection, render } from 'astro:content';
+import Symbol from '../../layouts/Symbol.astro';
+
+export async function getStaticPaths() {
+  const drommer = await getCollection('drommer');
+  return drommer.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<Symbol
+  tittel={entry.data.tittel}
+  kortbeskrivelse={entry.data.kortbeskrivelse}
+  tolkninger_kort={entry.data.tolkninger_kort}
+  relaterte={entry.data.relaterte || []}
+  slug={entry.data.slug}
+  kategori={entry.data.kategori}
+  dato={entry.data.dato}
+>
+  <Content />
+</Symbol>

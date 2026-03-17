@@ -1,0 +1,57 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const kategorier = await getCollection('kategorier');
+const drommer = await getCollection('drommer');
+
+const emojiMap: Record<string, string> = {
+  dyr: '🐾',
+  vann: '🌊',
+  kropp: '🫀',
+  steder: '🏠',
+  hendelser: '⚡',
+  mennesker: '👤',
+  natur: '🌿',
+  gjenstander: '🔑',
+};
+
+const kategorierMedAntall = kategorier.map(kat => ({
+  ...kat,
+  antall: drommer.filter(d => d.data.kategori === kat.data.slug).length,
+  emoji: emojiMap[kat.data.slug] || '✨',
+}));
+---
+
+<Base
+  tittel="Alle kategorier"
+  beskrivelse="Utforsk drømmesymboler sortert etter kategori. Dyr, vann, kropp, steder, hendelser og mer."
+>
+  <h1 class="text-3xl md:text-[2.5rem] font-bold mb-2" style="font-family: var(--font-heading);">
+    Alle kategorier
+  </h1>
+  <p class="text-[var(--color-subtil)] mb-8">
+    Utforsk drømmesymboler sortert etter tema.
+  </p>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+    {kategorierMedAntall.map((kat) => (
+      <a
+        href={`/kategori/${kat.data.slug}`}
+        class="flex items-center gap-5 rounded-xl p-6 hover:translate-y-[-2px] transition-transform"
+        style="background-color: var(--color-sand); box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
+      >
+        <span class="text-4xl shrink-0">{kat.emoji}</span>
+        <div>
+          <h2 class="text-xl font-semibold text-[var(--color-natt)]" style="font-family: var(--font-heading);">
+            {kat.data.tittel.replace(/ — tolkninger og symboler/, '')}
+          </h2>
+          <p class="text-sm text-[var(--color-tekst)] mt-1 line-clamp-2">
+            {kat.data.kortbeskrivelse}
+          </p>
+          <span class="text-xs text-[var(--color-subtil)] mt-2 inline-block">{kat.antall} symboler</span>
+        </div>
+      </a>
+    ))}
+  </div>
+</Base>

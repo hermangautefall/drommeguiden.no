@@ -1,0 +1,47 @@
+---
+import Base from './Base.astro';
+
+interface Props {
+  tittel: string;
+  kortbeskrivelse: string;
+  slug: string;
+  leseminutter?: number;
+  dato: Date;
+}
+
+const { tittel, kortbeskrivelse, slug, leseminutter, dato } = Astro.props;
+---
+
+<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/guider/${slug}`}>
+  <article>
+    <header class="mb-8">
+      {leseminutter && (
+        <span class="text-sm text-[var(--color-subtil)]">{leseminutter} min lesetid</span>
+      )}
+      <h1 class="text-3xl md:text-[2.5rem] font-bold leading-tight mt-2" style="font-family: var(--font-heading);">
+        {tittel}
+      </h1>
+    </header>
+
+    <div class="prose">
+      <slot />
+    </div>
+  </article>
+
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: tittel,
+      description: kortbeskrivelse,
+      datePublished: dato.toISOString(),
+      url: `https://drommeguiden.no/guider/${slug}`,
+      publisher: {
+        '@type': 'Organization',
+        name: 'Drømmeguiden',
+        url: 'https://drommeguiden.no',
+      },
+    })}
+  />
+</Base>

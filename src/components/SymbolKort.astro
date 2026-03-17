@@ -1,0 +1,24 @@
+---
+interface Props {
+  tittel: string;
+  slug: string;
+  kortbeskrivelse: string;
+  kategori: string;
+}
+
+const { tittel, slug, kortbeskrivelse, kategori } = Astro.props;
+---
+
+<a
+  href={`/drommer/${slug}`}
+  class="block bg-[var(--color-sand)] rounded-xl p-5 hover:translate-y-[-2px] transition-transform"
+  style="box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
+>
+  <span class="text-xs uppercase tracking-wide text-[var(--color-subtil)]">{kategori}</span>
+  <h3 class="text-lg font-semibold mt-1 mb-2 text-[var(--color-natt)]" style="font-family: var(--font-heading);">
+    {tittel.replace(/ — hva betyr det\?/, '')}
+  </h3>
+  <p class="text-sm text-[var(--color-tekst)] leading-relaxed line-clamp-2">
+    {kortbeskrivelse}
+  </p>
+</a>

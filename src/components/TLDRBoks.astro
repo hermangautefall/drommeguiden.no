@@ -1,0 +1,21 @@
+---
+interface Props {
+  tolkninger: string[];
+}
+
+const { tolkninger } = Astro.props;
+---
+
+<div class="bg-[var(--color-sand)] rounded-xl p-6 mb-8" style="box-shadow: 0 2px 12px rgba(26,31,58,0.08);">
+  <h2 class="text-lg font-semibold mb-3 text-[var(--color-natt)]" style="font-family: var(--font-heading);">
+    Kort oppsummert
+  </h2>
+  <ul class="space-y-2">
+    {tolkninger.map((tolkning) => (
+      <li class="flex items-start gap-2 text-[var(--color-tekst)]">
+        <span class="text-[var(--color-terrakotta)] mt-1 shrink-0">&#10022;</span>
+        <span>{tolkning}</span>
+      </li>
+    ))}
+  </ul>
+</div>

@@ -1,0 +1,97 @@
+---
+// Header with desktop nav and mobile hamburger menu
+---
+
+<header class="bg-[var(--color-natt)] text-[var(--color-krem)] sticky top-0 z-50">
+  <nav class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
+    <!-- Logo -->
+    <a href="/" class="text-[var(--color-krem)] hover:no-underline shrink-0">
+      <span style="font-family: var(--font-heading);" class="text-2xl font-bold tracking-tight">Drømmeguiden</span>
+    </a>
+
+    <!-- Desktop navigation -->
+    <div class="hidden md:flex items-center gap-6 text-sm">
+      <a href="/drommer" class="text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors">Symboler</a>
+      <a href="/kategori" class="text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors">Kategorier</a>
+      <a href="/guider" class="text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors">Guider</a>
+      <button
+        id="desktop-search-btn"
+        aria-label="Søk"
+        class="text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Mobile hamburger button -->
+    <button
+      id="mobile-menu-btn"
+      aria-label="Meny"
+      class="md:hidden text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors"
+    >
+      <svg id="hamburger-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="3" y1="6" x2="21" y2="6"></line>
+        <line x1="3" y1="12" x2="21" y2="12"></line>
+        <line x1="3" y1="18" x2="21" y2="18"></line>
+      </svg>
+      <svg id="close-icon" class="hidden" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="18" y1="6" x2="6" y2="18"></line>
+        <line x1="6" y1="6" x2="18" y2="18"></line>
+      </svg>
+    </button>
+  </nav>
+
+  <!-- Mobile menu overlay -->
+  <div id="mobile-menu" class="hidden md:hidden fixed inset-0 top-[60px] z-40" style="background-color: var(--color-natt);">
+    <div class="flex flex-col items-center gap-8 pt-16 text-lg">
+      <a href="/drommer" class="text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors">Symboler</a>
+      <a href="/kategori" class="text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors">Kategorier</a>
+      <a href="/guider" class="text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors">Guider</a>
+      <a href="/om-oss" class="text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors">Om oss</a>
+      <a href="/kontakt" class="text-[var(--color-sand)] hover:text-[var(--color-krem)] transition-colors">Kontakt</a>
+    </div>
+  </div>
+</header>
+
+<script>
+  const menuBtn = document.getElementById('mobile-menu-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const hamburgerIcon = document.getElementById('hamburger-icon');
+  const closeIcon = document.getElementById('close-icon');
+
+  menuBtn?.addEventListener('click', () => {
+    const isOpen = !mobileMenu?.classList.contains('hidden');
+    if (isOpen) {
+      mobileMenu?.classList.add('hidden');
+      hamburgerIcon?.classList.remove('hidden');
+      closeIcon?.classList.add('hidden');
+    } else {
+      mobileMenu?.classList.remove('hidden');
+      hamburgerIcon?.classList.add('hidden');
+      closeIcon?.classList.remove('hidden');
+    }
+  });
+
+  // Close on click outside
+  mobileMenu?.addEventListener('click', (e) => {
+    if (e.target === mobileMenu) {
+      mobileMenu.classList.add('hidden');
+      hamburgerIcon?.classList.remove('hidden');
+      closeIcon?.classList.add('hidden');
+    }
+  });
+
+  // Desktop search button scrolls to top search field on homepage, or navigates to homepage
+  document.getElementById('desktop-search-btn')?.addEventListener('click', () => {
+    const searchField = document.getElementById('sok');
+    if (searchField) {
+      searchField.scrollIntoView({ behavior: 'smooth' });
+      searchField.focus();
+    } else {
+      window.location.href = '/?fokus=sok';
+    }
+  });
+</script>

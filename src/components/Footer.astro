@@ -1,0 +1,59 @@
+---
+// Three-column footer
+---
+
+<footer class="mt-auto" style="background-color: var(--color-natt);">
+  <div class="max-w-5xl mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-10 mb-10">
+      <!-- Kolonne 1: Om Drømmeguiden -->
+      <div>
+        <a href="/" class="hover:no-underline">
+          <span style="font-family: var(--font-heading); color: var(--color-krem);" class="text-xl font-bold tracking-tight block mb-3">
+            Drømmeguiden
+          </span>
+        </a>
+        <p class="text-sm leading-relaxed" style="color: var(--color-subtil);">
+          Drømmeguiden er Norges mest komplette guide til drømmesymboler og drømmetolkning. Vi hjelper deg å forstå hva drømmene dine kan bety — med varme, nysgjerrighet og respekt.
+        </p>
+      </div>
+
+      <!-- Kolonne 2: Raske lenker -->
+      <div>
+        <h3 class="text-sm font-semibold uppercase tracking-wider mb-4" style="color: var(--color-krem);">
+          Raske lenker
+        </h3>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/drommer" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Alle symboler</a></li>
+          <li><a href="/kategori" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Alle kategorier</a></li>
+          <li><a href="/guider" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Guider</a></li>
+          <li><a href="/om-oss" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Om oss</a></li>
+          <li><a href="/kontakt" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Kontakt</a></li>
+        </ul>
+      </div>
+
+      <!-- Kolonne 3: Populære symboler -->
+      <div>
+        <h3 class="text-sm font-semibold uppercase tracking-wider mb-4" style="color: var(--color-krem);">
+          Populære symboler
+        </h3>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/drommer/slange" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Slange</a></li>
+          <li><a href="/drommer/hav" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Hav</a></li>
+          <li><a href="/drommer/eksen" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Eksen</a></li>
+          <li><a href="/drommer/tann" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Tann</a></li>
+          <li><a href="/drommer/flyging" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Flyging</a></li>
+          <li><a href="/drommer/brann" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Brann</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Bunn av footer -->
+    <div class="border-t pt-6 flex flex-col md:flex-row items-center justify-between gap-4 text-xs" style="border-color: rgba(138, 127, 118, 0.2); color: var(--color-subtil);">
+      <p>&copy; {new Date().getFullYear()} Drømmeguiden. Alle rettigheter reservert.</p>
+      <div class="flex gap-4">
+        <a href="/personvern" class="hover:text-[var(--color-krem)] transition-colors">Personvernerklæring</a>
+        <a href="/cookies" class="hover:text-[var(--color-krem)] transition-colors">Cookiepolicy</a>
+      </div>
+    </div>
+  </div>
+</footer>

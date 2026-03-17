@@ -1,0 +1,40 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  tittel="Siden ble ikke funnet"
+  beskrivelse="Beklager, vi fant ikke siden du lette etter. Prøv å søke etter et drømmesymbol."
+>
+  <div class="text-center py-16 md:py-24">
+    <span class="text-6xl mb-6 block">🌙</span>
+    <h1 class="text-3xl md:text-4xl font-bold mb-4" style="font-family: var(--font-heading);">
+      Denne drømmen fant vi ikke...
+    </h1>
+    <p class="text-lg text-[var(--color-subtil)] max-w-md mx-auto mb-8">
+      Siden du lette etter finnes ikke. Kanskje du kan finne det du ser etter ved å søke?
+    </p>
+
+    <!-- Search -->
+    <div class="max-w-sm mx-auto mb-8">
+      <form action="/drommer" method="get">
+        <input
+          type="text"
+          name="sok"
+          placeholder="Søk etter et drømmesymbol..."
+          autocomplete="off"
+          class="w-full px-5 py-3 rounded-xl border border-[var(--color-sand)] bg-white text-[var(--color-tekst)] placeholder:text-[var(--color-subtil)] focus:outline-none focus:ring-2 focus:ring-[var(--color-terrakotta)] focus:border-transparent"
+          style="box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
+        />
+      </form>
+    </div>
+
+    <a
+      href="/"
+      class="inline-flex items-center gap-2 px-6 py-3 rounded-lg text-sm font-medium transition-opacity hover:opacity-90"
+      style="background-color: var(--color-terrakotta); color: var(--color-krem);"
+    >
+      &larr; Tilbake til forsiden
+    </a>
+  </div>
+</Base>

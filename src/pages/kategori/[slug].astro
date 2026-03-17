@@ -1,0 +1,23 @@
+---
+import { getCollection, render } from 'astro:content';
+import Kategori from '../../layouts/Kategori.astro';
+
+export async function getStaticPaths() {
+  const kategorier = await getCollection('kategorier');
+  return kategorier.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<Kategori
+  tittel={entry.data.tittel}
+  kortbeskrivelse={entry.data.kortbeskrivelse}
+  slug={entry.data.slug}
+>
+  <Content />
+</Kategori>

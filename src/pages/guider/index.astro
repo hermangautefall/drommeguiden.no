@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const guider = await getCollection('guider');
+---
+
+<Base
+  tittel="Guider om drømmer"
+  beskrivelse="Utforsk våre guider om drømmer, søvn og drømmetolkning. Lær om lucid drømming, mareritt og mye mer."
+>
+  <h1 class="text-3xl md:text-[2.5rem] font-bold mb-2" style="font-family: var(--font-heading);">
+    Guider om drømmer
+  </h1>
+  <p class="text-[var(--color-subtil)] mb-8">
+    Dybdeartikler om drømmer, søvn og tolkning.
+  </p>
+
+  <div class="space-y-5">
+    {guider.map((g) => (
+      <a
+        href={`/guider/${g.data.slug}`}
+        class="block rounded-xl p-6 hover:translate-y-[-1px] transition-transform"
+        style="background-color: white; box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
+      >
+        <div class="flex flex-col sm:flex-row sm:items-start gap-3">
+          <div class="flex-1">
+            <h2 class="text-xl font-semibold text-[var(--color-natt)]" style="font-family: var(--font-heading);">
+              {g.data.tittel}
+            </h2>
+            <p class="text-sm text-[var(--color-tekst)] mt-2 leading-relaxed">
+              {g.data.kortbeskrivelse}
+            </p>
+          </div>
+          {g.data.leseminutter && (
+            <span class="text-xs text-[var(--color-subtil)] shrink-0 mt-1">{g.data.leseminutter} min lesetid</span>
+          )}
+        </div>
+      </a>
+    ))}
+  </div>
+
+  {guider.length === 0 && (
+    <p class="text-center text-[var(--color-subtil)] py-12">
+      Guider er på vei — kom tilbake snart!
+    </p>
+  )}
+</Base>

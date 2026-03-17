@@ -1,0 +1,120 @@
+---
+import Base from '../../layouts/Base.astro';
+import SymbolKort from '../../components/SymbolKort.astro';
+import { getCollection } from 'astro:content';
+
+const drommer = await getCollection('drommer');
+const sortert = drommer.sort((a, b) => a.data.tittel.localeCompare(b.data.tittel, 'nb'));
+
+const kategorier = ['dyr', 'vann', 'kropp', 'steder', 'hendelser', 'mennesker', 'natur', 'gjenstander'];
+---
+
+<Base
+  tittel="Alle drømmesymboler"
+  beskrivelse="Utforsk alle drømmesymboler på Drømmeguiden. Søk, filtrer og finn tolkningen av drømmene dine."
+>
+  <h1 class="text-3xl md:text-[2.5rem] font-bold mb-2" style="font-family: var(--font-heading);">
+    Alle drømmesymboler
+  </h1>
+  <p class="text-[var(--color-subtil)] mb-8">
+    {drommer.length} symboler — søk eller filtrer for å finne ditt symbol.
+  </p>
+
+  <!-- Search -->
+  <div class="mb-6">
+    <input
+      type="text"
+      id="filtrer-sok"
+      placeholder="Søk blant symboler..."
+      autocomplete="off"
+      class="w-full max-w-md px-4 py-2.5 rounded-lg border border-[var(--color-sand)] bg-white text-[var(--color-tekst)] placeholder:text-[var(--color-subtil)] focus:outline-none focus:ring-2 focus:ring-[var(--color-terrakotta)] focus:border-transparent text-sm"
+    />
+  </div>
+
+  <!-- Category filter -->
+  <div class="flex flex-wrap gap-2 mb-8">
+    <button class="kategori-filter aktiv px-3 py-1.5 rounded-lg text-sm font-medium transition-colors" data-kategori="alle">
+      Alle
+    </button>
+    {kategorier.map((kat) => (
+      <button class="kategori-filter px-3 py-1.5 rounded-lg text-sm font-medium transition-colors" data-kategori={kat}>
+        {kat.charAt(0).toUpperCase() + kat.slice(1)}
+      </button>
+    ))}
+  </div>
+
+  <!-- Grid -->
+  <div id="symbol-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+    {sortert.map((d) => (
+      <div class="symbol-item" data-kategori={d.data.kategori} data-tittel={d.data.tittel.toLowerCase()} data-slug={d.data.slug}>
+        <SymbolKort
+          tittel={d.data.tittel}
+          slug={d.data.slug}
+          kortbeskrivelse={d.data.kortbeskrivelse}
+          kategori={d.data.kategori}
+        />
+      </div>
+    ))}
+  </div>
+
+  <p id="ingen-treff" class="hidden text-center text-[var(--color-subtil)] py-8">
+    Ingen symboler funnet. Prøv et annet søkeord eller filter.
+  </p>
+
+  <style>
+    .kategori-filter {
+      background-color: var(--color-sand);
+      color: var(--color-tekst);
+    }
+    .kategori-filter.aktiv {
+      background-color: var(--color-terrakotta);
+      color: var(--color-krem);
+    }
+    .kategori-filter:hover:not(.aktiv) {
+      background-color: var(--color-terrakotta);
+      color: var(--color-krem);
+      opacity: 0.8;
+    }
+  </style>
+
+  <script>
+    const filterButtons = document.querySelectorAll('.kategori-filter');
+    const items = document.querySelectorAll('.symbol-item');
+    const searchInput = document.getElementById('filtrer-sok') as HTMLInputElement;
+    const ingenTreff = document.getElementById('ingen-treff');
+    let activeKategori = 'alle';
+
+    function filterItems() {
+      const query = searchInput?.value.toLowerCase().trim() || '';
+      let visibleCount = 0;
+
+      items.forEach((item) => {
+        const el = item as HTMLElement;
+        const matchesKategori = activeKategori === 'alle' || el.dataset.kategori === activeKategori;
+        const matchesSearch = query.length < 2 || el.dataset.tittel?.includes(query) || el.dataset.slug?.includes(query);
+
+        if (matchesKategori && matchesSearch) {
+          el.style.display = '';
+          visibleCount++;
+        } else {
+          el.style.display = 'none';
+        }
+      });
+
+      if (ingenTreff) {
+        ingenTreff.style.display = visibleCount === 0 ? 'block' : 'none';
+      }
+    }
+
+    filterButtons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        filterButtons.forEach((b) => b.classList.remove('aktiv'));
+        btn.classList.add('aktiv');
+        activeKategori = (btn as HTMLElement).dataset.kategori || 'alle';
+        filterItems();
+      });
+    });
+
+    searchInput?.addEventListener('input', filterItems);
+  </script>
+</Base>
