@@ -2,7 +2,7 @@
 tittel: "Drømmer om fjell — hva betyr det?"
 slug: fjell
 kategori: steder
-kortbeskrivelse: "Fjell i drømmer symboliserer ofte mål, utfordringer og åndelig streben. Utforsk hva det betyr å drømme om fjell."
+kortbeskrivelse: "Har du drømt om fjell? Fjell i drømmer symboliserer ofte mål, utfordringer og åndelig streben. Utforsk de vanligste tolkningene og hva drømmen betyr."
 relaterte:
   - flyging
   - skog
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Store mål eller utfordringer du strekker deg mot"
   - "Hindringer og motgang du må forsere"
   - "Åndelig vekst, oversikt og oppnåelse"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/fjell.jpg
 ---
 
 ## Hva betyr det å drømme om fjell?

@@ -2,7 +2,7 @@
 tittel: "Drømmer om bryllup — hva betyr det?"
 slug: bryllup
 kategori: hendelser
-kortbeskrivelse: "Drømmer du om bryllup? Et bryllup i drømmer kan symbolisere forpliktelse, forening og nye livsfaser. Les tolkningene her."
+kortbeskrivelse: "Har du drømt om bryllup? Et bryllup i drømmer kan symbolisere forpliktelse, forening og nye livsfaser. Utforsk de vanligste tolkningene her."
 relaterte:
   - baby
   - eksen
@@ -10,9 +10,10 @@ relaterte:
   - naken
 tolkninger_kort:
   - "Et bryllup kan symbolisere en viktig forpliktelse eller et vendepunkt i livet."
-  - "Drømmen tolkes ofte som en forening av to sider i deg selv — det bevisste og det ubevisste."
-  - "Bryllupsdrømmer kan peke mot frykt for forandring, tap av frihet eller forventningspress."
-dato: 2025-03-17
+  - "Drømmen tolkes ofte som en forening av det bevisste og det ubevisste i deg."
+  - "Bryllupsdrømmer kan peke mot frykt for forandring eller tap av frihet."
+dato: 2026-03-18
+bilde: /bilder/symboler/bryllup.jpg
 ---
 
 ## Hva betyr det å drømme om bryllup?

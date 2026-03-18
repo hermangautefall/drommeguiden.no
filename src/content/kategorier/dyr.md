@@ -3,8 +3,9 @@ tittel: "Drømmer om dyr — tolkninger og symboler"
 slug: dyr
 kortbeskrivelse: "Dyr i drømmer representerer ofte instinkter, følelser og ubevisste krefter. Utforsk hva det betyr å drømme om ulike dyr."
 ikonfil: "dyr.svg"
-antall_symboler: 8
-dato: 2025-03-17
+emoji: "🐾"
+antall_symboler: 7
+dato: 2026-03-18
 ---
 
 ## Drømmer om dyr
@@ -17,9 +18,9 @@ Dyr er blant de vanligste symbolene i drømmeverdenen — og det er ikke tilfeld
 
 I drømmepsykologien representerer dyr ofte de delene av oss selv som er mer instinktive og primitive — følelser vi kanskje ikke erkjenner i hverdagen. Carl Jung så på dyr i drømmer som arketypiske symboler på det ubevisste, der hvert dyr bærer sin egen unike energi og betydning.
 
-Dyr i drømmer kan speile alt fra undertrykte følelser og frykt til kreativitet, styrke og beskyttelsesinstinkter. En hund kan representere lojalitet og vennskap, mens en slange kan symbolisere forvandling eller skjult trussel. Konteksten er avgjørende — hvordan dyret oppfører seg i drømmen, og hvilken følelse det vekker i deg, gir ofte de viktigste ledetrådene.
+Dyr i drømmer kan speile alt fra undertrykte følelser og frykt til kreativitet, styrke og beskyttelsesinstinkter. En [hund](/drommer/hund) kan representere lojalitet og vennskap, mens en [slange](/drommer/slange) kan symbolisere forvandling eller skjult trussel. Konteksten er avgjørende — hvordan dyret oppfører seg i drømmen, og hvilken følelse det vekker i deg, gir ofte de viktigste ledetrådene.
 
-I norsk og nordisk tradisjon har dyr alltid hatt en spesiell plass. Ulven, bjørnen, hesten og ravnen er alle dypt forankret i vår kulturelle bevissthet, og denne arven kan fortsatt påvirke hvordan vi opplever dyr i drømmene våre.
+I norsk og nordisk tradisjon har dyr alltid hatt en spesiell plass. [Ulven](/drommer/ulv), [bjørnen](/drommer/bjorn), [hesten](/drommer/hest) og ravnen er alle dypt forankret i vår kulturelle bevissthet, og denne arven kan fortsatt påvirke hvordan vi opplever dyr i drømmene våre.
 
 ---
 
@@ -30,7 +31,7 @@ I norsk og nordisk tradisjon har dyr alltid hatt en spesiell plass. Ulven, bjør
 ## Vanlige spørsmål om drømmer om dyr
 
 **Hva er den vanligste drømmen om dyr?**
-Mange opplever å drømme om hunder, katter og slanger — dette er blant de mest rapporterte dyredrømmene på tvers av kulturer. Drømmer om ville dyr som bjørn og ulv er også svært vanlige, spesielt i perioder med stress eller store livsendringer.
+Mange opplever å drømme om hunder, [katter](/drommer/katt) og slanger — dette er blant de mest rapporterte dyredrømmene på tvers av kulturer. Drømmer om ville dyr som bjørn og ulv er også svært vanlige, spesielt i perioder med stress eller store livsendringer.
 
 **Er disse drømmene et dårlig tegn?**
 Ikke nødvendigvis. Selv drømmer om skremmende dyr kan ha positive tolkninger — de kan signalisere at du er i ferd med å konfrontere noe viktig. Det handler mer om konteksten og følelsen i drømmen enn om dyret i seg selv.

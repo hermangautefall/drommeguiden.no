@@ -3,13 +3,14 @@ tittel: "Drømmer om gjenstander — tolkninger og symboler"
 slug: gjenstander
 kortbeskrivelse: "Gjenstander i drømmer som speil, biler og hus kan avsløre mye om selvbilde og livssituasjon. Utforsk symbolikken bak."
 ikonfil: "gjenstander.svg"
+emoji: "🔮"
 antall_symboler: 3
-dato: 2025-03-17
+dato: 2026-03-18
 ---
 
 ## Drømmer om gjenstander
 
-Ting vi ser og bruker i hverdagen dukker jevnlig opp i drømmene våre — et speil vi stirrer inn i, en bil vi kjører eller mister kontrollen over, eller et hus med ukjente rom. Gjenstander i drømmer er sjelden bare ting. De er symboler ladet med personlig betydning, og de kan avsløre mye om hvordan du opplever deg selv og verden rundt deg.
+Ting vi ser og bruker i hverdagen dukker jevnlig opp i drømmene våre — et [speil](/drommer/speil) vi stirrer inn i, en [bil](/drommer/bil) vi kjører eller mister kontrollen over, eller et [hus](/drommer/hus) med ukjente rom. Gjenstander i drømmer er sjelden bare ting. De er symboler ladet med personlig betydning, og de kan avsløre mye om hvordan du opplever deg selv og verden rundt deg.
 
 ---
 

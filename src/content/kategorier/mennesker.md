@@ -3,13 +3,14 @@ tittel: "Drømmer om mennesker — tolkninger og symboler"
 slug: mennesker
 kortbeskrivelse: "Mennesker i drømmer representerer ofte relasjoner, sider av deg selv eller ubevisste ønsker. Utforsk hva disse drømmene betyr."
 ikonfil: "mennesker.svg"
+emoji: "👤"
 antall_symboler: 3
-dato: 2025-03-17
+dato: 2026-03-18
 ---
 
 ## Drømmer om mennesker
 
-Mennesker vi møter i drømmene våre — enten det er en baby, en eks-partner eller et par hender som strekker seg mot oss — vekker ofte sterke følelser. Disse drømmene kan handle om de faktiske personene, men like ofte representerer de sider ved oss selv, ubevisste ønsker eller uløste relasjoner. Å forstå hvem som dukker opp i drømmene dine, og hva de gjør der, kan gi verdifull innsikt i ditt eget følelsesliv.
+Mennesker vi møter i drømmene våre — enten det er en [baby](/drommer/baby), en [eks-partner](/drommer/eksen) eller et par [hender](/drommer/hender) som strekker seg mot oss — vekker ofte sterke følelser. Disse drømmene kan handle om de faktiske personene, men like ofte representerer de sider ved oss selv, ubevisste ønsker eller uløste relasjoner. Å forstå hvem som dukker opp i drømmene dine, og hva de gjør der, kan gi verdifull innsikt i ditt eget følelsesliv.
 
 ---
 
@@ -19,7 +20,7 @@ I drømmepsykologien skiller man ofte mellom to typer mennesker i drømmer: de s
 
 Å drømme om en baby kan handle om nye begynnelser eller sårbarhet, mens en eks-partner i drømmen ofte peker tilbake mot uavklarte følelser eller mønstre du gjenkjenner fra nåværende relasjoner. Hender kan symbolisere kontakt, hjelp eller behov for forbindelse.
 
-Det viktigste er å legge merke til hvilken følelse personen vekker i deg — ikke bare hvem det er. Følelsen er ofte den egentlige nøkkelen til drømmens budskap.
+Det viktigste er å legge merke til hvilken følelse personen vekker i deg — ikke bare hvem det er. Følelsen er ofte den egentlige nøkkelen til drømmens budskap. Lær mer om hvordan drømmer fungerer i guiden [hva er drømmer](/guider/hva-er-drommer).
 
 ---
 

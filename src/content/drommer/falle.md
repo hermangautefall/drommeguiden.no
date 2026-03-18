@@ -2,7 +2,7 @@
 tittel: "Drømmer om å falle — hva betyr det?"
 slug: falle
 kategori: hendelser
-kortbeskrivelse: "Drømmer du om å falle? Falledrømmer er blant de vanligste og kan handle om kontroll, frykt og livets usikkerhet. Les tolkningen her."
+kortbeskrivelse: "Har du drømt om å falle? Falledrømmer er blant de vanligste drømmene og kan handle om kontroll, frykt og livets usikkerhet. Les tolkningene her."
 relaterte:
   - flyging
   - fjell
@@ -11,8 +11,9 @@ relaterte:
 tolkninger_kort:
   - "Å falle i en drøm kan symbolisere at du føler deg ute av kontroll i livet."
   - "Drømmen kan gjenspeile frykt for å mislykkes eller tape noe viktig."
-  - "Falledrømmer tolkes noen ganger som et tegn på at du må slippe taket og stole på prosessen."
-dato: 2025-03-17
+  - "Falledrømmer kan bety at du trenger å slippe taket og stole på prosessen."
+dato: 2026-03-18
+bilde: /bilder/symboler/falle.jpg
 ---
 
 ## Hva betyr det å drømme om å falle?

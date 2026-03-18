@@ -2,7 +2,7 @@
 tittel: "Drømmer om skole — hva betyr det?"
 slug: skole
 kategori: steder
-kortbeskrivelse: "Skolen i drømmer handler ofte om prestasjon, tilhørighet og uavsluttede ting. Les de vanligste tolkningene av å drømme om skole."
+kortbeskrivelse: "Har du drømt om skole? Skolen i drømmer handler ofte om prestasjon, tilhørighet og uavsluttede ting. Les de vanligste tolkningene og hva det kan bety."
 relaterte:
   - naken
   - eksen
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Du føler deg testet eller vurdert i en livssituasjon"
   - "Noe uavsluttet fra fortiden melder seg"
   - "Du opplever usikkerhet rundt tilhørighet eller sosial posisjon"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/skole.jpg
 ---
 
 ## Hva betyr det å drømme om skole?

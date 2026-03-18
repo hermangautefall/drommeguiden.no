@@ -2,7 +2,7 @@
 tittel: "Drømmer om mørkt rom — hva betyr det?"
 slug: morkt-rom
 kategori: steder
-kortbeskrivelse: "Å drømme om et mørkt rom kan vekke uro, men symbolikken er rikere enn du kanskje tror. Les om de vanligste tolkningene her."
+kortbeskrivelse: "Har du drømt om et mørkt rom? Å drømme om mørke rom kan vekke uro, men symbolikken er rikere enn du tror. Les de vanligste tolkningene her."
 relaterte:
   - skog
   - speil
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Du bærer på noe uutforsket eller ubevisst som vil frem"
   - "Frykt eller usikkerhet i en livssituasjon speiles"
   - "En invitasjon til introspeksjon og indre arbeid"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/morkt-rom.jpg
 ---
 
 ## Hva betyr det å drømme om et mørkt rom?

@@ -2,7 +2,7 @@
 tittel: "Drømmer om ulv — hva betyr det?"
 slug: ulv
 kategori: dyr
-kortbeskrivelse: "Ulven i drømmer er et sterkt symbol på instinkt, lojalitet og det ville i oss. Her er de vanligste tolkningene."
+kortbeskrivelse: "Har du drømt om ulv? Ulven i drømmer er et sterkt symbol på instinkt, lojalitet og det ville i oss. Utforsk de vanligste tolkningene her."
 relaterte:
   - hund
   - skog
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Dine instinkter og den ville siden av deg melder seg"
   - "Lojalitet, fellesskap og beskyttelse er i fokus"
   - "En ytre trussel eller indre frykt gjør seg gjeldende"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/ulv.jpg
 ---
 
 ## Hva betyr det å drømme om ulv?

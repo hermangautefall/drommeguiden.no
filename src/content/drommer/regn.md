@@ -2,7 +2,7 @@
 tittel: "Drømmer om regn — hva betyr det?"
 slug: regn
 kategori: vann
-kortbeskrivelse: "Regn i drømmer handler om følelser, renselse og fornyelse. Les om hva det kan bety å drømme om regn."
+kortbeskrivelse: "Har du drømt om regn? Regn i drømmer handler ofte om følelser, renselse og indre fornyelse. Utforsk de vanligste tolkningene og finn ut hva drømmen betyr."
 relaterte:
   - storm
   - hav
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Følelsesmessig utløsning eller renselse er i gang"
   - "Sorg, melankoli eller undertrykte følelser kommer til overflaten"
   - "Fornyelse, vekst og nye begynnelser venter"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/regn.jpg
 ---
 
 ## Hva betyr det å drømme om regn?

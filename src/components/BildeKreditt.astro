@@ -1,0 +1,18 @@
+---
+interface Props {
+  filnavn: string;
+}
+
+const { filnavn } = Astro.props;
+
+// Import credits data
+import credits from '../../public/bilder/credits.json';
+
+const credit = (credits as Record<string, { fotograf: string; bilde_url: string }>)[filnavn];
+---
+
+{credit && (
+  <p class="text-xs mt-2 text-[var(--color-subtil)]">
+    Foto: <a href={credit.bilde_url} target="_blank" rel="noopener noreferrer" class="hover:text-[var(--color-terrakotta)] transition-colors">{credit.fotograf}</a> / Pexels
+  </p>
+)}

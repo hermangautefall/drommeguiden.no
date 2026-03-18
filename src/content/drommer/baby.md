@@ -2,7 +2,7 @@
 tittel: "Drømmer om baby — hva betyr det?"
 slug: baby
 kategori: mennesker
-kortbeskrivelse: "Drømmer du om babyer? En baby i drømmen kan symbolisere nye begynnelser, sårbarhet og indre vekst. Les om tolkningene her."
+kortbeskrivelse: "Har du drømt om baby? En baby i drømmen kan symbolisere nye begynnelser, sårbarhet og indre vekst. Utforsk alle de vanligste tolkningene her."
 relaterte:
   - bryllup
   - hus
@@ -11,8 +11,9 @@ relaterte:
 tolkninger_kort:
   - "En baby kan symbolisere en ny begynnelse eller et nytt prosjekt i livet ditt."
   - "Drømmen tolkes ofte som et uttrykk for sårbarhet og behov for omsorg."
-  - "Babyer i drømmer kan peke mot personlig vekst og utvikling av nye sider ved deg selv."
-dato: 2025-03-17
+  - "Babyer i drømmer kan peke mot personlig vekst og nye sider ved deg selv."
+dato: 2026-03-18
+bilde: /bilder/symboler/baby.jpg
 ---
 
 ## Hva betyr det å drømme om baby?

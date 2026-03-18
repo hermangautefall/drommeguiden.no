@@ -2,7 +2,7 @@
 tittel: "Drømmer om blod — hva betyr det?"
 slug: blod
 kategori: kropp
-kortbeskrivelse: "Blod i drømmer kan symbolisere livskraft, emosjonelle sår eller dype bånd. Les de vanligste tolkningene av å drømme om blod."
+kortbeskrivelse: "Har du drømt om blod? Blod i drømmer kan symbolisere livskraft, emosjonelle sår eller dype bånd. Utforsk de vanligste tolkningene og hva drømmen betyr."
 relaterte:
   - tann
   - hender
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Du opplever et emosjonelt tap eller sår som trenger oppmerksomhet"
   - "Blodet representerer livskraft, energi og vitalitet"
   - "Dype bånd til familie eller nære relasjoner er i fokus"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/blod.jpg
 ---
 
 ## Hva betyr det å drømme om blod?

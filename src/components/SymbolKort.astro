@@ -4,21 +4,78 @@ interface Props {
   slug: string;
   kortbeskrivelse: string;
   kategori: string;
+  bilde?: string;
 }
 
-const { tittel, slug, kortbeskrivelse, kategori } = Astro.props;
+const { tittel, slug, kortbeskrivelse, kategori, bilde } = Astro.props;
 ---
 
-<a
-  href={`/drommer/${slug}`}
-  class="block bg-[var(--color-sand)] rounded-xl p-5 hover:translate-y-[-2px] transition-transform"
-  style="box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
->
-  <span class="text-xs uppercase tracking-wide text-[var(--color-subtil)]">{kategori}</span>
-  <h3 class="text-lg font-semibold mt-1 mb-2 text-[var(--color-natt)]" style="font-family: var(--font-heading);">
-    {tittel.replace(/ — hva betyr det\?/, '')}
-  </h3>
-  <p class="text-sm text-[var(--color-tekst)] leading-relaxed line-clamp-2">
-    {kortbeskrivelse}
-  </p>
+<a href={`/drommer/${slug}`} class="symbolkort">
+  {bilde && (
+    <img src={bilde} alt={tittel} class="symbolkort-img" loading="lazy" />
+  )}
+  <div class="symbolkort-body">
+    <span class="symbolkort-kat">{kategori}</span>
+    <h3 class="symbolkort-title">
+      {tittel.replace(/ — hva betyr det\?/, '')}
+    </h3>
+    <p class="symbolkort-desc">{kortbeskrivelse}</p>
+  </div>
 </a>
+
+<style>
+  .symbolkort {
+    display: block;
+    background: var(--color-bg-white);
+    border-radius: var(--border-radius-card);
+    overflow: hidden;
+    text-decoration: none;
+    box-shadow: var(--box-shadow-card);
+    transition: var(--transition);
+  }
+  .symbolkort:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--box-shadow-hover);
+    text-decoration: none;
+  }
+
+  .symbolkort-img {
+    width: 100%;
+    aspect-ratio: 16/10;
+    object-fit: cover;
+  }
+
+  .symbolkort-body {
+    padding: 20px;
+  }
+
+  .symbolkort-kat {
+    display: inline-block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-primary);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .symbolkort-title {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    color: var(--color-text-heading);
+    margin-bottom: 8px;
+    font-weight: 700;
+    line-height: 1.3;
+  }
+
+  .symbolkort-desc {
+    font-size: 14px;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

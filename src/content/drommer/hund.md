@@ -2,17 +2,18 @@
 tittel: "Drømmer om hund — hva betyr det?"
 slug: hund
 kategori: dyr
-kortbeskrivelse: "Drømmer du om hunder? Hunder i drømmer symboliserer ofte lojalitet, vennskap og beskyttelse. Les om de vanligste tolkningene her."
+kortbeskrivelse: "Har du drømt om hund? Hunder i drømmer symboliserer ofte lojalitet, vennskap og beskyttelse. Utforsk de vanligste tolkningene og hva drømmen betyr."
 relaterte:
   - katt
   - ulv
   - bjorn
   - hest
 tolkninger_kort:
-  - "En hund i drømmen kan symbolisere lojalitet, vennskap og pålitelighet i livet ditt."
-  - "En aggressiv hund tolkes ofte som et varsel om en trussel eller en konflikt i nære relasjoner."
-  - "Hunder kan også representere dine egne instinkter og den delen av deg som handler intuitivt."
-dato: 2025-03-17
+  - "En hund i drømmen kan symbolisere lojalitet, vennskap og pålitelighet."
+  - "En aggressiv hund kan varsle om trussel eller konflikt i nære relasjoner."
+  - "Hunder kan representere dine instinkter og den intuitive delen av deg."
+dato: 2026-03-18
+bilde: /bilder/symboler/hund.jpg
 ---
 
 ## Hva betyr det å drømme om hund?

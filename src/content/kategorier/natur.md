@@ -3,8 +3,9 @@ tittel: "Drømmer om naturfenomener — tolkninger og symboler"
 slug: natur
 kortbeskrivelse: "Naturfenomener i drømmer som storm, brann og regn speiler ofte kraftige følelser. Utforsk hva disse symbolene kan bety."
 ikonfil: "natur.svg"
+emoji: "🌿"
 antall_symboler: 4
-dato: 2025-03-17
+dato: 2026-03-18
 ---
 
 ## Drømmer om naturfenomener
@@ -15,7 +16,7 @@ Naturen har en enorm kraft — både i virkeligheten og i drømmene våre. Når 
 
 ## Hva betyr drømmer om naturfenomener generelt?
 
-Naturfenomener i drømmer representerer ofte de kraftigste følelsene våre — de som er for store til å uttrykkes i ord. En storm kan speile indre uro og konflikt, mens brann kan symbolisere alt fra destruktive krefter til lidenskap og fornyelse. Regn kan handle om renselse, og fjell om utfordringer som føles uoverkommelige.
+Naturfenomener i drømmer representerer ofte de kraftigste følelsene våre — de som er for store til å uttrykkes i ord. En [storm](/drommer/storm) kan speile indre uro og konflikt, mens [brann](/drommer/brann) kan symbolisere alt fra destruktive krefter til lidenskap og fornyelse. [Regn](/drommer/regn) kan handle om renselse, og [fjell](/drommer/fjell) om utfordringer som føles uoverkommelige.
 
 I arketypisk psykologi ses naturen som det ubevisste selv — ukontrollerbar, kraftfull og full av mening. Jung mente at naturscener i drømmer ofte representerer den kollektive ubevisste — de universelle følelsene og erfaringene som binder oss sammen som mennesker.
 

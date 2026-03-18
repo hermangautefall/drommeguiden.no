@@ -2,17 +2,18 @@
 tittel: "Drømmer om edderkopp — hva betyr det?"
 slug: edderkopp
 kategori: dyr
-kortbeskrivelse: "Drømmer du om edderkopper? Edderkoppen i drømmer kan symbolisere kreativitet, frykt og skjulte krefter. Les tolkningene her."
+kortbeskrivelse: "Har du drømt om edderkopp? Edderkoppen i drømmer kan symbolisere kreativitet, frykt og skjulte krefter. Utforsk de vanligste tolkningene her."
 relaterte:
   - slange
   - katt
   - morkt-rom
   - skog
 tolkninger_kort:
-  - "Edderkoppen kan symbolisere kreativitet, tålmodighet og evnen til å bygge noe stort."
+  - "Edderkoppen kan symbolisere kreativitet, tålmodighet og skaperkraft."
   - "Drømmen tolkes ofte som et uttrykk for frykt, enten konkret eller symbolsk."
-  - "En edderkopp i drømmen kan representere en manipulativ kraft eller en person som spinner sitt nett."
-dato: 2025-03-17
+  - "Edderkoppen kan representere en manipulativ person som spinner sitt nett."
+dato: 2026-03-18
+bilde: /bilder/symboler/edderkopp.jpg
 ---
 
 ## Hva betyr det å drømme om edderkopp?

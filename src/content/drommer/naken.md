@@ -2,7 +2,7 @@
 tittel: "Drømmer om å være naken — hva betyr det?"
 slug: naken
 kategori: kropp
-kortbeskrivelse: "Å drømme om å være naken handler ofte om sårbarhet og frykt for å bli avslørt. Les de vanligste tolkningene her."
+kortbeskrivelse: "Har du drømt om å være naken? Nakendrømmer handler ofte om sårbarhet og frykt for å bli avslørt. Les de vanligste tolkningene og hva det kan bety."
 relaterte:
   - skole
   - speil
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Du føler deg sårbar eller eksponert i en situasjon"
   - "En frykt for å bli dømt eller avslørt plager deg"
   - "Du lengter etter å vise deg som den du virkelig er"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/naken.jpg
 ---
 
 ## Hva betyr det å drømme om å være naken?

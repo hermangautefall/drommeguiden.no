@@ -2,7 +2,7 @@
 tittel: "Drømmer om speil — hva betyr det?"
 slug: speil
 kategori: gjenstander
-kortbeskrivelse: "Speilet i drømmer handler om selvbilde, sannhet og identitet. Les om de vanligste tolkningene av å drømme om speil."
+kortbeskrivelse: "Har du drømt om speil? Speilet i drømmer handler om selvbilde, sannhet og identitet. Les om de vanligste tolkningene og hva drømmen kan bety for deg."
 relaterte:
   - hender
   - naken
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Selvbildet ditt og hvordan du ser deg selv er i fokus"
   - "En konfrontasjon med sannheten eller skjulte sider av deg selv"
   - "Overganger og forandringer i identitet speiles"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/speil.jpg
 ---
 
 ## Hva betyr det å drømme om speil?

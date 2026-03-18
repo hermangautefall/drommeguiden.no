@@ -2,7 +2,7 @@
 tittel: "Drømmer om skog — hva betyr det?"
 slug: skog
 kategori: steder
-kortbeskrivelse: "Skogen i drømmer er et kraftig symbol på det ubevisste, vekst og villmark. Les om hva det kan bety å drømme om skog."
+kortbeskrivelse: "Har du drømt om skog? Skogen i drømmer er et kraftig symbol på det ubevisste, vekst og villmark. Les de vanligste tolkningene og hva drømmen betyr."
 relaterte:
   - ulv
   - bjorn
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Du befinner deg i en fase av indre utforskning"
   - "Ubevisste følelser eller uløste spørsmål gjør seg gjeldende"
   - "Vekst, fornyelse og kontakt med det naturlige i deg"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/skog.jpg
 ---
 
 ## Hva betyr det å drømme om skog?

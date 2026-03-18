@@ -2,7 +2,7 @@
 tittel: "Drømmer om kråke — hva betyr det?"
 slug: krage
 kategori: dyr
-kortbeskrivelse: "Kråken i drømmer er et symbol på visdom, forandring og det mystiske. Utforsk hva det kan bety å drømme om kråke."
+kortbeskrivelse: "Har du drømt om kråke? Kråken i drømmer er et symbol på visdom, forandring og det mystiske. Utforsk de vanligste tolkningene og hva drømmen betyr."
 relaterte:
   - ulv
   - skog
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Transformasjon og overgang mellom livsfaser"
   - "Skjult visdom eller intuisjon forsøker å nå deg"
   - "Noe i livet ditt trenger din oppmerksomhet"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/krage.jpg
 ---
 
 ## Hva betyr det å drømme om kråke?

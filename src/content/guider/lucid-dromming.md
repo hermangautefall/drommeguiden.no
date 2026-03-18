@@ -3,8 +3,9 @@ tittel: "Lucid drømming — slik tar du kontroll"
 slug: lucid-dromming
 kortbeskrivelse: "Hva er lucid drømming, og kan du lære det? Utforsk teknikker som MILD og WILD, realitetssjekker, og hva forskningen sier om fordeler og ulemper."
 leseminutter: 7
-dato: 2025-03-17
-oppdatert: 2025-03-17
+dato: 2026-03-18
+oppdatert: 2026-03-18
+bilde: /bilder/guider/lucid-dromming.jpg
 ---
 
 ## Lucid drømming — slik tar du kontroll

@@ -2,7 +2,7 @@
 tittel: "Drømmer om storm — hva betyr det?"
 slug: storm
 kategori: natur
-kortbeskrivelse: "Stormen i drømmer symboliserer ofte indre uro, forandring eller emosjonelle omveltninger. Utforsk de vanligste tolkningene."
+kortbeskrivelse: "Har du drømt om storm? Stormen i drømmer symboliserer ofte indre uro, forandring eller emosjonelle omveltninger. Les de vanligste tolkningene her."
 relaterte:
   - regn
   - hav
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Indre uro eller emosjonell turbulens gjør seg gjeldende"
   - "En stor forandring er i ferd med å bryte løs"
   - "Undertrykte følelser presser seg til overflaten"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/storm.jpg
 ---
 
 ## Hva betyr det å drømme om storm?

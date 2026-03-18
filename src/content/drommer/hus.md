@@ -2,7 +2,7 @@
 tittel: "Drømmer om hus — hva betyr det?"
 slug: hus
 kategori: steder
-kortbeskrivelse: "Huset i drømmer er ofte et bilde på deg selv — din psyke, ditt indre liv. Utforsk de vanligste tolkningene av å drømme om hus."
+kortbeskrivelse: "Har du drømt om hus? Huset i drømmer er ofte et bilde på deg selv — din psyke og ditt indre liv. Utforsk de vanligste tolkningene og hva drømmen betyr."
 relaterte:
   - morkt-rom
   - speil
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Huset representerer deg selv — ulike rom speiler ulike sider av psyken"
   - "Du oppdager nye sider ved deg selv eller uutforskede muligheter"
   - "Noe i ditt indre liv trenger vedlikehold eller oppmerksomhet"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/hus.jpg
 ---
 
 ## Hva betyr det å drømme om hus?

@@ -2,17 +2,18 @@
 tittel: "Drømmer om tenner — hva betyr det?"
 slug: tann
 kategori: kropp
-kortbeskrivelse: "Drømmer du om tenner som faller ut? Tanndrømmer er svært vanlige og kan handle om selvbilde, angst og endring. Les tolkningen her."
+kortbeskrivelse: "Har du drømt om tenner som faller ut? Tanndrømmer er svært vanlige og kan handle om selvbilde, angst og endring. Les de vanligste tolkningene."
 relaterte:
   - naken
   - speil
   - blod
   - hender
 tolkninger_kort:
-  - "Tenner som faller ut kan symbolisere usikkerhet rundt eget utseende eller selvbilde."
-  - "Drømmen tolkes ofte som et uttrykk for angst, spesielt knyttet til tap av kontroll."
+  - "Tenner som faller ut kan symbolisere usikkerhet rundt utseende eller selvbilde."
+  - "Drømmen tolkes ofte som et uttrykk for angst knyttet til tap av kontroll."
   - "Tanndrømmer kan også peke mot frykt for aldring eller livsfaseoverganger."
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/tann.jpg
 ---
 
 ## Hva betyr det å drømme om tenner?

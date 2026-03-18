@@ -7,21 +7,15 @@ import { getCollection } from 'astro:content';
 const drommer = await getCollection('drommer');
 const guider = await getCollection('guider');
 
-const emojiMap: Record<string, string> = {
-  slange: '🐍', hav: '🌊', falle: '🪂', tann: '🦷', brann: '🔥',
-  hund: '🐕', katt: '🐈', baby: '👶', edderkopp: '🕷️', bjorn: '🐻',
-  bryllup: '💒', flyging: '🕊️', 'morkt-rom': '🌑', skog: '🌲',
-  storm: '⛈️', hender: '🤲', speil: '🪞', ulv: '🐺', fjell: '🏔️',
-  regn: '🌧️', krage: '🦅', hest: '🐴', drukne: '🌀', bil: '🚗',
-  skole: '🏫', sykehus: '🏥', hus: '🏠', blod: '🩸', naken: '😶',
-  eksen: '💔'
-};
-
 // 6 featured symbols in specific order
 const featuredSlugs = ['slange', 'hav', 'eksen', 'tann', 'brann', 'flyging'];
 const featuredSymboler = featuredSlugs
   .map(slug => drommer.find(d => d.data.slug === slug))
   .filter(Boolean);
+
+const emojiMap: Record<string, string> = {
+  slange: '🐍', hav: '🌊', eksen: '💔', tann: '🦷', brann: '🔥', flyging: '🕊️'
+};
 
 // Categories with symbol counts
 const kategorier = [
@@ -35,11 +29,19 @@ const kategorier = [
   { slug: 'gjenstander', tittel: 'Gjenstander', emoji: '🔑' },
 ];
 
-// Count symbols per category
 const kategorierMedAntall = kategorier.map(kat => ({
   ...kat,
   antall: drommer.filter(d => d.data.kategori === kat.slug).length,
 }));
+
+// Guide emojis
+const guideEmojiMap: Record<string, string> = {
+  'hva-er-drommer': '🧠',
+  'lære-lucid-drommer': '✨',
+  'vanlige-drommer': '🌙',
+  'drommer-og-psykologi': '🔮',
+  'forbedre-drommehukommelse': '📖',
+};
 ---
 
 <Base
@@ -47,104 +49,132 @@ const kategorierMedAntall = kategorier.map(kat => ({
   beskrivelse="Finn ut hva drømmene dine betyr. Norges mest komplette guide til drømmesymboler og drømmetolkning."
 >
 
-  <!-- 1. HERO with dark gradient -->
-  <section class="text-center py-12 md:py-20 -mx-4 -mt-10 px-4 mb-12 rounded-b-2xl" style="background: linear-gradient(180deg, #1a1f3a 0%, #2d3561 100%);">
-    <h1 class="text-4xl md:text-5xl font-bold mb-4" style="font-family: var(--font-heading); color: var(--color-krem);">
-      Hva drømte du i natt?
-    </h1>
-    <p class="text-lg max-w-xl mx-auto mb-8" style="color: var(--color-sand);">
-      Norges mest komplette drømmetydningsguide
-    </p>
+  <!-- 1. HERO — 2-column layout -->
+  <section class="hero-section">
+    <div class="hero-inner">
+      <!-- Left column: text + search -->
+      <div class="hero-text">
+        <p class="hero-label">✦ DRØMMEGUIDEN.NO</p>
+        <h1 class="hero-title">Hva drømte du<br />i natt?</h1>
+        <p class="hero-subtitle">
+          Norges mest komplette guide til drømmesymboler og drømmetolkning. Forstå hva drømmene dine prøver å fortelle deg.
+        </p>
 
-    <!-- Search field -->
-    <div class="max-w-md mx-auto relative">
-      <input
-        type="text"
-        id="sok"
-        placeholder="Søk etter et drømmesymbol..."
-        autocomplete="off"
-        class="w-full px-5 py-3.5 rounded-xl border-0 text-[var(--color-tekst)] placeholder:text-[var(--color-subtil)] focus:outline-none focus:ring-2 focus:ring-[var(--color-terrakotta)]"
-        style="background-color: var(--color-krem); box-shadow: 0 4px 20px rgba(0,0,0,0.2);"
-      />
-      <div
-        id="sok-resultater"
-        class="absolute top-full left-0 right-0 mt-2 rounded-xl overflow-hidden hidden z-50"
-        style="background-color: var(--color-krem); box-shadow: 0 4px 20px rgba(26,31,58,0.2);"
-      ></div>
+        <!-- Search field -->
+        <div class="hero-search-wrapper">
+          <div class="hero-search-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </div>
+          <input
+            type="text"
+            id="sok"
+            placeholder="Søk etter et drømmesymbol..."
+            autocomplete="off"
+            class="hero-search-input"
+          />
+          <div
+            id="sok-resultater"
+            class="hero-search-results hidden"
+          ></div>
+        </div>
+
+        <div class="hero-stats">
+          <span>{drommer.length} symboler</span>
+          <span class="hero-stats-dot">·</span>
+          <span>{kategorier.length} kategorier</span>
+          <span class="hero-stats-dot">·</span>
+          <span>{guider.length} guider</span>
+        </div>
+      </div>
+
+      <!-- Right column: DrommensDag in dark box -->
+      <div class="hero-dag-wrapper">
+        <DrommensDag />
+      </div>
     </div>
   </section>
 
-  <!-- 2. DRØMMENS DAG -->
-  <DrommensDag />
+  <!-- 2. QUOTE STRIP — CSS marquee -->
+  <div class="quote-strip">
+    <div class="quote-track">
+      <span class="quote-item">« Drømmer er sjelens billedspråk »</span>
+      <span class="quote-dot">✦</span>
+      <span class="quote-item">« I drømmer begynner ansvaret »</span>
+      <span class="quote-dot">✦</span>
+      <span class="quote-item">« Natten vet hva dagen har glemt »</span>
+      <span class="quote-dot">✦</span>
+      <span class="quote-item">« En uutforsket drøm er som et ulest brev »</span>
+      <span class="quote-dot">✦</span>
+      <!-- Duplicate for seamless loop -->
+      <span class="quote-item">« Drømmer er sjelens billedspråk »</span>
+      <span class="quote-dot">✦</span>
+      <span class="quote-item">« I drømmer begynner ansvaret »</span>
+      <span class="quote-dot">✦</span>
+      <span class="quote-item">« Natten vet hva dagen har glemt »</span>
+      <span class="quote-dot">✦</span>
+      <span class="quote-item">« En uutforsket drøm er som et ulest brev »</span>
+      <span class="quote-dot">✦</span>
+    </div>
+  </div>
 
   <!-- 3. POPULÆRE SYMBOLER -->
-  <section class="mb-16">
-    <h2 class="text-2xl font-semibold mb-6" style="font-family: var(--font-heading);">
-      Populære drømmesymboler
-    </h2>
-    <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+  <section class="section-block">
+    <div class="section-header">
+      <h2>Populære drømmesymboler</h2>
+      <a href="/drommer" class="section-link">Se alle symboler →</a>
+    </div>
+    <div class="symbols-grid">
       {featuredSymboler.map((d) => d && (
-        <a
-          href={`/drommer/${d.data.slug}`}
-          class="block rounded-xl p-5 hover:translate-y-[-2px] transition-transform"
-          style="background-color: white; box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
-        >
-          <span class="text-3xl block mb-2">{emojiMap[d.data.slug] || '✨'}</span>
-          <h3 class="text-lg font-semibold mb-1 text-[var(--color-natt)]" style="font-family: var(--font-heading);">
+        <a href={`/drommer/${d.data.slug}`} class="symbol-card">
+          <div class="symbol-emoji-circle">
+            <span>{emojiMap[d.data.slug] || '✨'}</span>
+          </div>
+          <h3 class="symbol-card-title">
             {d.data.tittel.replace(/ — hva betyr det\?/, '').replace('Drømmer om ', '')}
           </h3>
-          <p class="text-sm text-[var(--color-tekst)] leading-relaxed line-clamp-2">
-            {d.data.kortbeskrivelse}
-          </p>
+          <p class="symbol-card-desc">{d.data.kortbeskrivelse}</p>
+          <span class="symbol-card-arrow">→</span>
         </a>
       ))}
     </div>
   </section>
 
   <!-- 4. KATEGORIER -->
-  <section class="mb-16">
-    <h2 class="text-2xl font-semibold mb-6" style="font-family: var(--font-heading);">
-      Utforsk etter kategori
-    </h2>
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+  <section class="section-block section-alt">
+    <div class="section-header">
+      <h2>Utforsk etter kategori</h2>
+    </div>
+    <div class="categories-grid">
       {kategorierMedAntall.map((kat) => (
-        <a
-          href={`/kategori/${kat.slug}`}
-          class="flex flex-col items-center gap-2 rounded-xl p-5 hover:translate-y-[-2px] transition-transform text-center"
-          style="background-color: var(--color-sand); box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
-        >
-          <span class="text-2xl">{kat.emoji}</span>
-          <span class="font-medium text-[var(--color-natt)]">{kat.tittel}</span>
-          <span class="text-xs text-[var(--color-subtil)]">{kat.antall} symboler</span>
+        <a href={`/kategori/${kat.slug}`} class="category-card">
+          <span class="category-emoji">{kat.emoji}</span>
+          <div>
+            <span class="category-title">{kat.tittel}</span>
+            <span class="category-count">{kat.antall} symboler</span>
+          </div>
         </a>
       ))}
     </div>
   </section>
 
-  <!-- 5. SISTE GUIDER -->
+  <!-- 5. GUIDER -->
   {guider.length > 0 && (
-    <section class="mb-16">
-      <h2 class="text-2xl font-semibold mb-6" style="font-family: var(--font-heading);">
-        Guider om drømmer
-      </h2>
-      <div class="space-y-4">
+    <section class="section-block">
+      <div class="section-header">
+        <h2>Guider om drømmer</h2>
+        <a href="/guider" class="section-link">Alle guider →</a>
+      </div>
+      <div class="guides-grid">
         {guider.map((g) => (
-          <a
-            href={`/guider/${g.data.slug}`}
-            class="block rounded-xl p-5 hover:translate-y-[-1px] transition-transform"
-            style="background-color: white; box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
-          >
-            <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4">
-              <div class="flex-1">
-                <h3 class="text-lg font-semibold text-[var(--color-natt)]" style="font-family: var(--font-heading);">
-                  {g.data.tittel}
-                </h3>
-                <p class="text-sm text-[var(--color-tekst)] mt-1 line-clamp-1">
-                  {g.data.kortbeskrivelse}
-                </p>
-              </div>
+          <a href={`/guider/${g.data.slug}`} class="guide-card">
+            <div class="guide-left">
+              <span class="guide-emoji">{guideEmojiMap[g.data.slug] || '📘'}</span>
+            </div>
+            <div class="guide-right">
+              <h3 class="guide-title">{g.data.tittel}</h3>
+              <p class="guide-desc">{g.data.kortbeskrivelse}</p>
               {g.data.leseminutter && (
-                <span class="text-xs text-[var(--color-subtil)] shrink-0">{g.data.leseminutter} min</span>
+                <span class="guide-meta">{g.data.leseminutter} min lesetid</span>
               )}
             </div>
           </a>
@@ -154,7 +184,7 @@ const kategorierMedAntall = kategorier.map(kat => ({
   )}
 
   <!-- 6. NYHETSBREV CTA -->
-  <section class="mb-16">
+  <section class="section-block">
     <NewsletterCTA />
   </section>
 
@@ -204,9 +234,9 @@ const kategorierMedAntall = kategorier.map(kat => ({
         resultaterDiv.innerHTML = treff
           .map(
             (s) =>
-              `<a href="/drommer/${s.slug}" class="block px-5 py-3 hover:bg-[var(--color-sand)] border-b border-[var(--color-sand)] last:border-b-0 text-left">
-                <span class="font-medium text-[var(--color-natt)]">${s.tittel.replace(/ — hva betyr det\?/, '')}</span>
-                <span class="block text-xs text-[var(--color-subtil)] mt-0.5">${s.kortbeskrivelse.slice(0, 80)}...</span>
+              `<a href="/drommer/${s.slug}" class="search-result-item">
+                <span class="search-result-title">${s.tittel.replace(/ — hva betyr det\?/, '')}</span>
+                <span class="search-result-desc">${s.kortbeskrivelse.slice(0, 80)}…</span>
               </a>`
           )
           .join('');
@@ -219,10 +249,456 @@ const kategorierMedAntall = kategorier.map(kat => ({
         }
       });
 
-      // Auto-focus search if ?fokus=sok
       if (new URLSearchParams(window.location.search).has('fokus')) {
         sokInput.focus();
       }
     }
   </script>
 </Base>
+
+<style>
+  /* ========== HERO ========== */
+  .hero-section {
+    background: linear-gradient(135deg, var(--color-bg-dark) 0%, #2d3566 100%);
+    margin: -2rem -1rem 0;
+    padding: 64px 24px 72px;
+    overflow: hidden;
+  }
+  @media (min-width: 768px) {
+    .hero-section {
+      margin: -2rem calc(-50vw + 50%) 0;
+      padding: 80px 48px 88px;
+    }
+  }
+
+  .hero-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 48px;
+    align-items: center;
+  }
+  @media (min-width: 768px) {
+    .hero-inner {
+      grid-template-columns: 1fr 380px;
+      gap: 64px;
+    }
+  }
+
+  .hero-label {
+    font-family: var(--font-nav);
+    font-size: 11px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 20px;
+  }
+
+  .hero-title {
+    font-family: var(--font-heading);
+    font-size: 42px;
+    line-height: 1.15;
+    color: #f2ede6;
+    margin-bottom: 20px;
+    font-weight: 700;
+  }
+  @media (min-width: 768px) {
+    .hero-title {
+      font-size: 56px;
+    }
+  }
+
+  .hero-subtitle {
+    font-size: 16px;
+    line-height: 1.7;
+    color: rgba(242, 237, 230, 0.7);
+    max-width: 460px;
+    margin-bottom: 32px;
+  }
+
+  .hero-search-wrapper {
+    position: relative;
+    max-width: 460px;
+    margin-bottom: 24px;
+  }
+
+  .hero-search-icon {
+    position: absolute;
+    left: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--color-text-muted);
+    pointer-events: none;
+  }
+
+  .hero-search-input {
+    width: 100%;
+    padding: 14px 20px 14px 44px;
+    border-radius: var(--border-radius-pill);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.08);
+    color: #f2ede6;
+    font-size: 15px;
+    font-family: var(--font-body);
+    transition: var(--transition);
+    backdrop-filter: blur(8px);
+  }
+  .hero-search-input::placeholder {
+    color: rgba(242, 237, 230, 0.45);
+  }
+  .hero-search-input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  .hero-search-results {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    right: 0;
+    border-radius: var(--border-radius-card);
+    overflow: hidden;
+    z-index: 50;
+    background: var(--color-bg-white);
+    box-shadow: var(--box-shadow-hover);
+  }
+
+  .hero-stats {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    font-size: 13px;
+    color: rgba(242, 237, 230, 0.5);
+    font-family: var(--font-nav);
+  }
+  .hero-stats-dot {
+    color: var(--color-primary);
+  }
+
+  .hero-dag-wrapper {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius-card);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    backdrop-filter: blur(12px);
+    overflow: hidden;
+  }
+  @media (max-width: 767px) {
+    .hero-dag-wrapper {
+      max-width: 380px;
+      margin: 0 auto;
+    }
+  }
+
+  /* ========== QUOTE STRIP ========== */
+  .quote-strip {
+    background: var(--color-primary);
+    padding: 14px 0;
+    overflow: hidden;
+    margin: 0 -1rem;
+  }
+  @media (min-width: 768px) {
+    .quote-strip {
+      margin: 0 calc(-50vw + 50%);
+    }
+  }
+
+  .quote-track {
+    display: flex;
+    gap: 32px;
+    white-space: nowrap;
+    animation: marquee 40s linear infinite;
+  }
+
+  .quote-item {
+    font-family: var(--font-heading);
+    font-size: 15px;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.9);
+    flex-shrink: 0;
+  }
+
+  .quote-dot {
+    color: rgba(255, 255, 255, 0.4);
+    flex-shrink: 0;
+    font-size: 10px;
+  }
+
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* ========== SECTIONS ========== */
+  .section-block {
+    padding: 64px 0;
+  }
+  .section-alt {
+    background: var(--color-bg-section);
+    margin: 0 -1rem;
+    padding: 64px 24px;
+    border-radius: var(--border-radius-card);
+  }
+  @media (min-width: 768px) {
+    .section-alt {
+      margin: 0 -2rem;
+      padding: 64px 48px;
+    }
+  }
+
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 40px;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .section-header h2 {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin: 0;
+  }
+  .section-link {
+    font-family: var(--font-nav);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: var(--transition);
+  }
+  .section-link:hover {
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+
+  /* ========== SYMBOL CARDS ========== */
+  .symbols-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  @media (min-width: 768px) {
+    .symbols-grid {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+  }
+
+  .symbol-card {
+    position: relative;
+    background: var(--color-bg-white);
+    border-radius: var(--border-radius-card);
+    padding: 28px 24px 24px;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: var(--box-shadow-card);
+    transition: var(--transition);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .symbol-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--box-shadow-hover);
+    text-decoration: none;
+  }
+
+  .symbol-emoji-circle {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: var(--color-primary-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 16px;
+    font-size: 28px;
+    transition: var(--transition);
+  }
+  .symbol-card:hover .symbol-emoji-circle {
+    background: var(--color-primary-border);
+    transform: scale(1.08);
+  }
+
+  .symbol-card-title {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    color: var(--color-text-heading);
+    margin-bottom: 8px;
+    font-weight: 700;
+  }
+
+  .symbol-card-desc {
+    font-size: 14px;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 12px;
+  }
+
+  .symbol-card-arrow {
+    font-size: 16px;
+    color: var(--color-primary);
+    opacity: 0;
+    transition: var(--transition);
+    margin-top: auto;
+  }
+  .symbol-card:hover .symbol-card-arrow {
+    opacity: 1;
+    transform: translateX(4px);
+  }
+
+  /* ========== CATEGORY CARDS ========== */
+  .categories-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+  @media (min-width: 768px) {
+    .categories-grid {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+    }
+  }
+
+  .category-card {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 18px 20px;
+    border-radius: var(--border-radius-card);
+    background: var(--color-bg-white);
+    border: 1px solid rgba(123, 111, 160, 0.12);
+    text-decoration: none;
+    transition: var(--transition);
+  }
+  .category-card:hover {
+    border-color: var(--color-primary);
+    box-shadow: var(--box-shadow-card);
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+
+  .category-emoji {
+    font-size: 28px;
+    flex-shrink: 0;
+  }
+
+  .category-title {
+    display: block;
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--color-text-heading);
+  }
+
+  .category-count {
+    display: block;
+    font-size: 12px;
+    color: var(--color-text-muted);
+    margin-top: 2px;
+  }
+
+  /* ========== GUIDE CARDS ========== */
+  .guides-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .guide-card {
+    display: flex;
+    border-radius: var(--border-radius-card);
+    overflow: hidden;
+    background: var(--color-bg-white);
+    box-shadow: var(--box-shadow-card);
+    text-decoration: none;
+    transition: var(--transition);
+  }
+  .guide-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--box-shadow-hover);
+    text-decoration: none;
+  }
+
+  .guide-left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    flex-shrink: 0;
+    background: linear-gradient(135deg, var(--color-bg-dark) 0%, #3a4070 100%);
+    font-size: 36px;
+  }
+  @media (min-width: 768px) {
+    .guide-left {
+      width: 120px;
+    }
+  }
+
+  .guide-right {
+    padding: 20px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+  }
+
+  .guide-title {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    color: var(--color-text-heading);
+    margin-bottom: 6px;
+    font-weight: 700;
+  }
+
+  .guide-desc {
+    font-size: 14px;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .guide-meta {
+    font-size: 12px;
+    color: var(--color-text-muted);
+    margin-top: 8px;
+  }
+
+  /* ========== SEARCH RESULTS ========== */
+  :global(.search-result-item) {
+    display: block;
+    padding: 14px 20px;
+    border-bottom: 1px solid rgba(123, 111, 160, 0.1);
+    text-decoration: none;
+    transition: background 0.15s ease;
+  }
+  :global(.search-result-item:last-child) {
+    border-bottom: none;
+  }
+  :global(.search-result-item:hover) {
+    background: var(--color-primary-light);
+    text-decoration: none;
+  }
+  :global(.search-result-title) {
+    display: block;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--color-text-heading);
+  }
+  :global(.search-result-desc) {
+    display: block;
+    font-size: 13px;
+    color: var(--color-text-muted);
+    margin-top: 2px;
+  }
+</style>

@@ -1,37 +1,138 @@
 ---
-// Newsletter signup section
+// Newsletter signup section — redesigned
 ---
 
-<section class="rounded-xl p-8 md:p-12 text-center" style="background-color: var(--color-natt);">
-  <h2 class="text-2xl md:text-3xl font-bold mb-3" style="font-family: var(--font-heading); color: var(--color-krem);">
-    Få ukens drømmesymbol i innboksen
-  </h2>
-  <p class="text-base mb-6 max-w-md mx-auto" style="color: var(--color-sand);">
-    Meld deg på nyhetsbrevet vårt og få en ukentlig tolkning rett i innboksen — helt gratis.
-  </p>
-  <form
-    action="https://drommeguiden.us00.list-manage.com/subscribe/post"
-    method="POST"
-    class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto"
-  >
-    <!-- Placeholder: bytt ut action-URL med riktig Mailchimp-lenke -->
-    <input
-      type="email"
-      name="EMAIL"
-      placeholder="Din e-postadresse"
-      required
-      class="flex-1 px-4 py-3 rounded-lg border-0 text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-terrakotta)]"
-      style="background-color: rgba(242, 237, 230, 0.1); color: var(--color-krem);"
-    />
-    <button
-      type="submit"
-      class="px-6 py-3 rounded-lg text-sm font-medium transition-opacity hover:opacity-90 shrink-0"
-      style="background-color: var(--color-terrakotta); color: var(--color-krem);"
+<div class="newsletter-wrapper">
+  <div class="newsletter-inner">
+    <p class="newsletter-label">✦ NYHETSBREV</p>
+    <h2 class="newsletter-title">Få ukens drømmesymbol i innboksen</h2>
+    <p class="newsletter-desc">
+      Meld deg på nyhetsbrevet vårt og få en ukentlig tolkning rett i innboksen — helt gratis.
+    </p>
+    <form
+      action="https://drommeguiden.us00.list-manage.com/subscribe/post"
+      method="POST"
+      class="newsletter-form"
     >
-      Meld meg på
-    </button>
-  </form>
-  <p class="text-xs mt-4" style="color: var(--color-subtil);">
-    Vi sender aldri spam. Du kan melde deg av når som helst.
-  </p>
-</section>
+      <input
+        type="email"
+        name="EMAIL"
+        placeholder="Din e-postadresse"
+        required
+        class="newsletter-input"
+      />
+      <button type="submit" class="newsletter-btn">
+        Meld meg på
+      </button>
+    </form>
+    <p class="newsletter-disclaimer">
+      Vi sender aldri spam. Du kan melde deg av når som helst.
+    </p>
+  </div>
+</div>
+
+<style>
+  .newsletter-wrapper {
+    background: linear-gradient(135deg, var(--color-bg-dark) 0%, #2d3566 50%, #3a4070 100%);
+    border-radius: var(--border-radius-card);
+    padding: 48px 24px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  @media (min-width: 768px) {
+    .newsletter-wrapper {
+      padding: 64px 48px;
+    }
+  }
+
+  .newsletter-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 480px;
+    margin: 0 auto;
+  }
+
+  .newsletter-label {
+    font-family: var(--font-nav);
+    font-size: 11px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 16px;
+  }
+
+  .newsletter-title {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    color: #f2ede6;
+    margin-bottom: 12px;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .newsletter-desc {
+    font-size: 15px;
+    color: rgba(242, 237, 230, 0.7);
+    line-height: 1.7;
+    margin-bottom: 28px;
+  }
+
+  .newsletter-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 400px;
+    margin: 0 auto 20px;
+  }
+  @media (min-width: 480px) {
+    .newsletter-form {
+      flex-direction: row;
+    }
+  }
+
+  .newsletter-input {
+    flex: 1;
+    padding: 14px 20px;
+    border-radius: var(--border-radius-pill);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.08);
+    color: #f2ede6;
+    font-size: 14px;
+    font-family: var(--font-body);
+    transition: var(--transition);
+    backdrop-filter: blur(8px);
+  }
+  .newsletter-input::placeholder {
+    color: rgba(242, 237, 230, 0.45);
+  }
+  .newsletter-input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  .newsletter-btn {
+    padding: 14px 28px;
+    border-radius: var(--border-radius-pill);
+    border: none;
+    background: var(--color-accent);
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: var(--font-body);
+    cursor: pointer;
+    transition: var(--transition);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .newsletter-btn:hover {
+    filter: brightness(1.1);
+    transform: translateY(-1px);
+  }
+
+  .newsletter-disclaimer {
+    font-size: 12px;
+    color: rgba(242, 237, 230, 0.4);
+  }
+</style>

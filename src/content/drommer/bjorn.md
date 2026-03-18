@@ -2,17 +2,18 @@
 tittel: "Drømmer om bjørn — hva betyr det?"
 slug: bjorn
 kategori: dyr
-kortbeskrivelse: "Drømmer du om bjørn? Bjørnen i drømmer symboliserer ofte styrke, beskyttelse og behov for hvile. Les om tolkningene her."
+kortbeskrivelse: "Har du drømt om bjørn? Bjørnen i drømmer symboliserer ofte styrke, beskyttelse og behov for hvile. Utforsk de vanligste tolkningene her."
 relaterte:
   - ulv
   - hund
   - skog
   - fjell
 tolkninger_kort:
-  - "Bjørnen kan symbolisere indre styrke, mot og evnen til å stå opp for deg selv."
-  - "Drømmen tolkes ofte som et tegn på at du trenger hvile, tilbaketrekning eller tid for deg selv."
-  - "En bjørn kan også representere beskyttelse — enten din egen beskytterinstinkt eller noen som vokter over deg."
-dato: 2025-03-17
+  - "Bjørnen kan symbolisere indre styrke, mot og evnen til å stå opp for deg."
+  - "Drømmen tolkes ofte som et tegn på behov for hvile og tilbaketrekning."
+  - "En bjørn kan representere beskyttelse — din egen eller noen som vokter deg."
+dato: 2026-03-18
+bilde: /bilder/symboler/bjorn.jpg
 ---
 
 ## Hva betyr det å drømme om bjørn?

@@ -2,7 +2,7 @@
 tittel: "Drømmer om hav — hva betyr det?"
 slug: hav
 kategori: vann
-kortbeskrivelse: "Drømmer du om havet? Havet i drømmer symboliserer ofte følelser, det ubevisste og livets store strømmer. Les mer om tolkningen her."
+kortbeskrivelse: "Har du drømt om havet? Havet i drømmer symboliserer ofte følelser, det ubevisste og livets store strømmer. Les de vanligste tolkningene her."
 relaterte:
   - storm
   - drukne
@@ -11,8 +11,9 @@ relaterte:
 tolkninger_kort:
   - "Havet kan symbolisere dine dypeste følelser og det ubevisste sinnet."
   - "Et rolig hav tolkes ofte som indre fred og emosjonell balanse."
-  - "Et stormfullt hav kan peke mot uro, overveldende følelser eller uløste konflikter."
-dato: 2025-03-17
+  - "Et stormfullt hav kan peke mot uro, overveldende følelser eller konflikt."
+dato: 2026-03-18
+bilde: /bilder/symboler/hav.jpg
 ---
 
 ## Hva betyr det å drømme om hav?

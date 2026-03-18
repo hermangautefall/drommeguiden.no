@@ -2,7 +2,7 @@
 tittel: "Drømmer om flyging — hva betyr det?"
 slug: flyging
 kategori: hendelser
-kortbeskrivelse: "Å drømme om å fly er en av de vanligste drømmeopplevelsene. Utforsk hva flygingsdrømmer kan bety for deg og livet ditt."
+kortbeskrivelse: "Har du drømt om å fly? Flygingsdrømmer er blant de vanligste drømmeopplevelsene og handler ofte om frihet og kontroll. Les de vanligste tolkningene."
 relaterte:
   - falle
   - fjell
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Du opplever frihet og løsrivelse fra begrensninger"
   - "En indre trang til kontroll eller perspektiv melder seg"
   - "Personlig vekst og nye muligheter åpner seg"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/flyging.jpg
 ---
 
 ## Hva betyr det å drømme om flyging?

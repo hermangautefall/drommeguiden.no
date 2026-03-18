@@ -3,8 +3,9 @@ tittel: "Gjentakende drømmer — hva prøver hjernen å si?"
 slug: gjentakende-drommer
 kortbeskrivelse: "Hvorfor drømmer du det samme om igjen? Les om forskningen bak gjentakende drømmer, de vanligste typene, og hvordan du kan tolke og håndtere dem."
 leseminutter: 6
-dato: 2025-03-17
-oppdatert: 2025-03-17
+dato: 2026-03-18
+oppdatert: 2026-03-18
+bilde: /bilder/guider/gjentakende.jpg
 ---
 
 ## Gjentakende drømmer — hva prøver hjernen å si?

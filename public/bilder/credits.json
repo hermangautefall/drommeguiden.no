@@ -1,0 +1,326 @@
+{
+  "hero.jpg": {
+    "fotograf": "Fatih Berat Örer",
+    "fotograf_url": "https://www.pexels.com/@beratorer",
+    "bilde_url": "https://www.pexels.com/photo/captivating-night-sky-star-trails-above-trees-32964070/",
+    "pexels_id": 32964070
+  },
+  "kategori-natur.jpg": {
+    "fotograf": "Yar Demidov",
+    "fotograf_url": "https://www.pexels.com/@yar-demidov-2159772297",
+    "bilde_url": "https://www.pexels.com/photo/misty-mountain-forest-in-early-morning-fog-36285980/",
+    "pexels_id": 36285980
+  },
+  "kategori-vann.jpg": {
+    "fotograf": "Peter Xie",
+    "fotograf_url": "https://www.pexels.com/@peter-xie-371876898",
+    "bilde_url": "https://www.pexels.com/photo/scenic-coastal-view-with-skyline-in-distance-35284067/",
+    "pexels_id": 35284067
+  },
+  "kategori-sovn.jpg": {
+    "fotograf": "Andrea Piacquadio",
+    "fotograf_url": "https://www.pexels.com/@olly",
+    "bilde_url": "https://www.pexels.com/photo/woman-wearing-white-tank-top-sleeping-on-gray-and-white-bedspread-920380/",
+    "pexels_id": 920380
+  },
+  "featured.jpg": {
+    "fotograf": "Jose Rodriguez Ortega",
+    "fotograf_url": "https://www.pexels.com/@jose-rodriguez-ortega-2189823",
+    "bilde_url": "https://www.pexels.com/photo/moon-in-the-sky-11912322/",
+    "pexels_id": 11912322
+  },
+  "slange.jpg": {
+    "fotograf": "Ruben Christen",
+    "fotograf_url": "https://www.pexels.com/@ruben-christen-176523298",
+    "bilde_url": "https://www.pexels.com/photo/fingers-holding-snake-15799790/",
+    "pexels_id": 15799790
+  },
+  "hav.jpg": {
+    "fotograf": "Emma Li",
+    "fotograf_url": "https://www.pexels.com/@emmali",
+    "bilde_url": "https://www.pexels.com/photo/underwater-view-of-the-seafoam-and-waves-5690534/",
+    "pexels_id": 5690534
+  },
+  "falle.jpg": {
+    "fotograf": "Johannes Plenio",
+    "fotograf_url": "https://www.pexels.com/@jplenio",
+    "bilde_url": "https://www.pexels.com/photo/photo-of-maple-leaf-on-ground-1632780/",
+    "pexels_id": 1632780
+  },
+  "tann.jpg": {
+    "fotograf": "www.kaboompics.com",
+    "fotograf_url": "https://www.pexels.com/@karola-g",
+    "bilde_url": "https://www.pexels.com/photo/broken-off-white-teeth-7195448/",
+    "pexels_id": 7195448
+  },
+  "brann.jpg": {
+    "fotograf": "Hannah Gibbs",
+    "fotograf_url": "https://www.pexels.com/@hannahmgibbs",
+    "bilde_url": "https://www.pexels.com/photo/photo-of-bonfire-949273/",
+    "pexels_id": 949273
+  },
+  "hund.jpg": {
+    "fotograf": "Bianca Beltrán",
+    "fotograf_url": "https://www.pexels.com/@bianca-beltran-3824520",
+    "bilde_url": "https://www.pexels.com/photo/portrait-of-chihuahua-dog-15794795/",
+    "pexels_id": 15794795
+  },
+  "katt.jpg": {
+    "fotograf": "Dmytro Koplyk",
+    "fotograf_url": "https://www.pexels.com/@dmytkopl",
+    "bilde_url": "https://www.pexels.com/photo/close-up-of-a-tuxedo-cat-relaxing-on-a-blanket-35257280/",
+    "pexels_id": 35257280
+  },
+  "baby.jpg": {
+    "fotograf": "Sam Rana",
+    "fotograf_url": "https://www.pexels.com/@samrana3003",
+    "bilde_url": "https://www.pexels.com/photo/toddler-lying-on-pink-fleece-pad-1442005/",
+    "pexels_id": 1442005
+  },
+  "edderkopp.jpg": {
+    "fotograf": "Doğan Alpaslan  Demir",
+    "fotograf_url": "https://www.pexels.com/@izafi",
+    "bilde_url": "https://www.pexels.com/photo/spiderweb-between-branches-20857573/",
+    "pexels_id": 20857573
+  },
+  "bjorn.jpg": {
+    "fotograf": "Leon Aschemann",
+    "fotograf_url": "https://www.pexels.com/@leon-aschemann-734730704",
+    "bilde_url": "https://www.pexels.com/photo/cute-brown-bear-cub-playing-in-sunny-spring-meadow-33531971/",
+    "pexels_id": 33531971
+  },
+  "bryllup.jpg": {
+    "fotograf": "Kadir Altıntaş",
+    "fotograf_url": "https://www.pexels.com/@kadirxaltintas",
+    "bilde_url": "https://www.pexels.com/photo/elegant-indoor-wedding-celebration-setup-36154338/",
+    "pexels_id": 36154338
+  },
+  "flyging.jpg": {
+    "fotograf": "Hanifi Sarıkaya",
+    "fotograf_url": "https://www.pexels.com/@hanifi-sarikaya-2146429225",
+    "bilde_url": "https://www.pexels.com/photo/majestic-seagull-soaring-in-blue-sky-31949965/",
+    "pexels_id": 31949965
+  },
+  "morkt-rom.jpg": {
+    "fotograf": "Непарадное в парадных Александр Стрелков",
+    "fotograf_url": "https://www.pexels.com/@129684048",
+    "bilde_url": "https://www.pexels.com/photo/mysterious-shadowy-corridor-with-person-30663177/",
+    "pexels_id": 30663177
+  },
+  "skog.jpg": {
+    "fotograf": "Septimiu Lupea",
+    "fotograf_url": "https://www.pexels.com/@septimiu-lupea-271955805",
+    "bilde_url": "https://www.pexels.com/photo/foggy-road-through-a-dark-forest-in-autumn-34889618/",
+    "pexels_id": 34889618
+  },
+  "storm.jpg": {
+    "fotograf": "Branden Stephenson",
+    "fotograf_url": "https://www.pexels.com/@branden-stephenson-536412020",
+    "bilde_url": "https://www.pexels.com/photo/dramatic-thunderstorm-over-oklahoma-wheat-field-30819539/",
+    "pexels_id": 30819539
+  },
+  "hender.jpg": {
+    "fotograf": "Anna Shvets",
+    "fotograf_url": "https://www.pexels.com/@shvetsa",
+    "bilde_url": "https://www.pexels.com/photo/photo-of-people-reaching-each-other-s-hands-4672717/",
+    "pexels_id": 4672717
+  },
+  "speil.jpg": {
+    "fotograf": "Paul Lichtblau",
+    "fotograf_url": "https://www.pexels.com/@laup",
+    "bilde_url": "https://www.pexels.com/photo/frozen-traffic-mirror-at-dusk-30406025/",
+    "pexels_id": 30406025
+  },
+  "ulv.jpg": {
+    "fotograf": "Sergei Starostin",
+    "fotograf_url": "https://www.pexels.com/@sejio402",
+    "bilde_url": "https://www.pexels.com/photo/siberian-husky-with-blue-eyes-outdoors-29192702/",
+    "pexels_id": 29192702
+  },
+  "fjell.jpg": {
+    "fotograf": "Francesco Ungaro",
+    "fotograf_url": "https://www.pexels.com/@francesco-ungaro",
+    "bilde_url": "https://www.pexels.com/photo/scenic-photo-of-rocky-mountains-during-daytime-2840747/",
+    "pexels_id": 2840747
+  },
+  "regn.jpg": {
+    "fotograf": "Valeriia Miller",
+    "fotograf_url": "https://www.pexels.com/@valeriiamiller",
+    "bilde_url": "https://www.pexels.com/photo/water-droplets-on-glass-window-5135437/",
+    "pexels_id": 5135437
+  },
+  "krage.jpg": {
+    "fotograf": "Christina & Peter",
+    "fotograf_url": "https://www.pexels.com/@christina99999",
+    "bilde_url": "https://www.pexels.com/photo/raven-in-sunlit-forest-clearing-31398413/",
+    "pexels_id": 31398413
+  },
+  "hest.jpg": {
+    "fotograf": "Jana Malenová",
+    "fotograf_url": "https://www.pexels.com/@jana-malenova-300282657",
+    "bilde_url": "https://www.pexels.com/photo/a-horse-running-on-a-grass-field-13340057/",
+    "pexels_id": 13340057
+  },
+  "drukne.jpg": {
+    "fotograf": "Luca Nardone",
+    "fotograf_url": "https://www.pexels.com/@lucanardone",
+    "bilde_url": "https://www.pexels.com/photo/person-drowning-in-water-3651632/",
+    "pexels_id": 3651632
+  },
+  "bil.jpg": {
+    "fotograf": "astesmedia",
+    "fotograf_url": "https://www.pexels.com/@astesmedia-2155232278",
+    "bilde_url": "https://www.pexels.com/photo/white-sports-car-driving-on-rainy-road-at-night-35374558/",
+    "pexels_id": 35374558
+  },
+  "skole.jpg": {
+    "fotograf": "Max Fischer",
+    "fotograf_url": "https://www.pexels.com/@max-fischer",
+    "bilde_url": "https://www.pexels.com/photo/a-teacher-standing-in-the-classroom-5212703/",
+    "pexels_id": 5212703
+  },
+  "sykehus.jpg": {
+    "fotograf": "Odin Reyna",
+    "fotograf_url": "https://www.pexels.com/@odin-reyna-383507",
+    "bilde_url": "https://www.pexels.com/photo/empty-hospital-beds-8410648/",
+    "pexels_id": 8410648
+  },
+  "hus.jpg": {
+    "fotograf": "Petra Kopásková",
+    "fotograf_url": "https://www.pexels.com/@petra-kopaskova-2346624",
+    "bilde_url": "https://www.pexels.com/photo/a-dilapidated-house-in-the-forest-5667849/",
+    "pexels_id": 5667849
+  },
+  "blod.jpg": {
+    "fotograf": "Maksim Goncharenok",
+    "fotograf_url": "https://www.pexels.com/@maksgelatin",
+    "bilde_url": "https://www.pexels.com/photo/a-close-up-shot-of-blood-samples-on-a-blue-surface-5995037/",
+    "pexels_id": 5995037
+  },
+  "naken.jpg": {
+    "fotograf": "Engin Akyurt",
+    "fotograf_url": "https://www.pexels.com/@enginakyurt",
+    "bilde_url": "https://www.pexels.com/photo/sculpture-of-naked-men-and-women-on-a-stone-wall-5209699/",
+    "pexels_id": 5209699
+  },
+  "eksen.jpg": {
+    "fotograf": "Wolfgang Weiser",
+    "fotograf_url": "https://www.pexels.com/@wolfgang-weiser-467045605",
+    "bilde_url": "https://www.pexels.com/photo/expansive-green-fields-in-hoxter-germany-28691843/",
+    "pexels_id": 28691843
+  },
+  "hva-er-drommer.jpg": {
+    "fotograf": "Andrea Piacquadio",
+    "fotograf_url": "https://www.pexels.com/@olly",
+    "bilde_url": "https://www.pexels.com/photo/woman-wearing-white-tank-top-sleeping-on-gray-and-white-bedspread-920380/",
+    "pexels_id": 920380
+  },
+  "drommejournalen.jpg": {
+    "fotograf": "Marta Branco",
+    "fotograf_url": "https://www.pexels.com/@martabranco",
+    "bilde_url": "https://www.pexels.com/photo/black-notebook-with-a-slogan-on-the-cover-25678617/",
+    "pexels_id": 25678617
+  },
+  "lucid-dromming.jpg": {
+    "fotograf": "Yaroslav Shuraev",
+    "fotograf_url": "https://www.pexels.com/@yaroslav-shuraev",
+    "bilde_url": "https://www.pexels.com/photo/a-pretty-woman-in-beige-dress-holding-a-flower-7698514/",
+    "pexels_id": 7698514
+  },
+  "mareritt.jpg": {
+    "fotograf": "Ianmer  Basio",
+    "fotograf_url": "https://www.pexels.com/@ianmer-basio-577127",
+    "bilde_url": "https://www.pexels.com/photo/a-persons-hand-on-dark-background-6141336/",
+    "pexels_id": 6141336
+  },
+  "gjentakende.jpg": {
+    "fotograf": "Toàn Văn",
+    "fotograf_url": "https://www.pexels.com/@vtnt2",
+    "bilde_url": "https://www.pexels.com/photo/geometric-patterned-grate-with-litter-background-29858264/",
+    "pexels_id": 29858264
+  },
+  "drage.jpg": {
+    "fotograf": "Pavel Georgiev",
+    "fotograf_url": "https://www.pexels.com/@pavel-georgiev-941244",
+    "bilde_url": "https://www.pexels.com/photo/two-sculpture-dragons-12650746/",
+    "pexels_id": 12650746
+  },
+  "rev.jpg": {
+    "fotograf": "Steffi Wacker",
+    "fotograf_url": "https://www.pexels.com/@steffi-wacker-1093179",
+    "bilde_url": "https://www.pexels.com/photo/red-foxes-on-grass-field-8537284/",
+    "pexels_id": 8537284
+  },
+  "orn.jpg": {
+    "fotograf": "Frans van Heerden",
+    "fotograf_url": "https://www.pexels.com/@frans-van-heerden-201846",
+    "bilde_url": "https://www.pexels.com/photo/bald-eagle-about-to-fly-1887832/",
+    "pexels_id": 1887832
+  },
+  "love.jpg": {
+    "fotograf": "Elize Bezuidenhout",
+    "fotograf_url": "https://www.pexels.com/@elize-bezuidenhout-266968877",
+    "bilde_url": "https://www.pexels.com/photo/portrait-of-lion-20382404/",
+    "pexels_id": 20382404
+  },
+  "tiger.jpg": {
+    "fotograf": "Anthony 🙂",
+    "fotograf_url": "https://www.pexels.com/@inspiredimages",
+    "bilde_url": "https://www.pexels.com/photo/white-tiger-133408/",
+    "pexels_id": 133408
+  },
+  "elefant.jpg": {
+    "fotograf": "Katie Hollamby",
+    "fotograf_url": "https://www.pexels.com/@qwertypr",
+    "bilde_url": "https://www.pexels.com/photo/photo-of-elephants-sitting-on-the-ground-3691809/",
+    "pexels_id": 3691809
+  },
+  "hai.jpg": {
+    "fotograf": "Vova Kras",
+    "fotograf_url": "https://www.pexels.com/@vovaflame",
+    "bilde_url": "https://www.pexels.com/photo/big-shark-underwater-2747248/",
+    "pexels_id": 2747248
+  },
+  "maur.jpg": {
+    "fotograf": "Skyler Ewing",
+    "fotograf_url": "https://www.pexels.com/@skyler-ewing-266953",
+    "bilde_url": "https://www.pexels.com/photo/black-ant-on-moss-next-to-reservoir-4596857/",
+    "pexels_id": 4596857
+  },
+  "sommerfugl.jpg": {
+    "fotograf": "Belén Montero I Lr Presets & LUTs",
+    "fotograf_url": "https://www.pexels.com/@obradebelu",
+    "bilde_url": "https://www.pexels.com/photo/vibrant-blue-butterfly-resting-on-green-foliage-35746473/",
+    "pexels_id": 35746473
+  },
+  "krokodille.jpg": {
+    "fotograf": "Optical Chemist",
+    "fotograf_url": "https://www.pexels.com/@optical-chemist-340351297",
+    "bilde_url": "https://www.pexels.com/photo/close-up-of-crocodile-resting-on-leaves-in-thailand-31591512/",
+    "pexels_id": 31591512
+  },
+  "papegoy.jpg": {
+    "fotograf": "Dmytro Koplyk",
+    "fotograf_url": "https://www.pexels.com/@dmytkopl",
+    "bilde_url": "https://www.pexels.com/photo/vibrant-blue-and-yellow-macaw-parrot-close-up-35594092/",
+    "pexels_id": 35594092
+  },
+  "frosk.jpg": {
+    "fotograf": "Leon Aschemann",
+    "fotograf_url": "https://www.pexels.com/@leon-aschemann-734730704",
+    "bilde_url": "https://www.pexels.com/photo/golden-poison-frog-close-up-in-natural-habitat-33442876/",
+    "pexels_id": 33442876
+  },
+  "hjort.jpg": {
+    "fotograf": "Dmytro Koplyk",
+    "fotograf_url": "https://www.pexels.com/@dmytkopl",
+    "bilde_url": "https://www.pexels.com/photo/close-up-portrait-of-a-white-tailed-deer-in-forest-35052159/",
+    "pexels_id": 35052159
+  },
+  "pingvin.jpg": {
+    "fotograf": "Pixabay",
+    "fotograf_url": "https://www.pexels.com/@pixabay",
+    "bilde_url": "https://www.pexels.com/photo/penguins-walking-on-brown-surface-209096/",
+    "pexels_id": 209096
+  }
+}

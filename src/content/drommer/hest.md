@@ -2,7 +2,7 @@
 tittel: "Drømmer om hest — hva betyr det?"
 slug: hest
 kategori: dyr
-kortbeskrivelse: "Hesten i drømmer symboliserer ofte frihet, kraft og livsenergi. Utforsk de vanligste tolkningene av å drømme om hest."
+kortbeskrivelse: "Har du drømt om hest? Hesten i drømmer symboliserer ofte frihet, kraft og livsenergi. Utforsk de vanligste tolkningene og hva drømmen kan fortelle deg."
 relaterte:
   - ulv
   - bjorn
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Du lengter etter frihet eller å bryte ut av en begrensende situasjon"
   - "En sterk indre drivkraft eller livsenergi prøver å komme til uttrykk"
   - "Forholdet mellom kontroll og det vilde i deg selv er i fokus"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/hest.jpg
 ---
 
 ## Hva betyr det å drømme om hest?

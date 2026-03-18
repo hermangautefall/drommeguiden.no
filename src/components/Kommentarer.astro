@@ -1,0 +1,69 @@
+---
+// Giscus comment system component
+---
+
+<section class="kommentarer-section">
+  <div class="kommentarer-header">
+    <span class="kommentarer-icon">💬</span>
+    <h2 class="kommentarer-title">Kommentarer</h2>
+  </div>
+  <p class="kommentarer-desc">
+    Har du drømt noe lignende? Del din opplevelse eller still et spørsmål i kommentarfeltet.
+  </p>
+  <div class="giscus-wrapper">
+    <script
+      src="https://giscus.app/client.js"
+      data-repo="hermangautefall/drommeguiden.no"
+      data-repo-id="R_kgDORpoPww"
+      data-category="Announcements"
+      data-category-id="DIC_kwDORpoPw84C4uXs"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="bottom"
+      data-theme="preferred_color_scheme"
+      data-lang="nb"
+      crossorigin="anonymous"
+      async
+    ></script>
+  </div>
+</section>
+
+<style>
+  .kommentarer-section {
+    margin-top: 56px;
+    padding-top: 40px;
+    border-top: 1px solid rgba(123, 111, 160, 0.15);
+  }
+
+  .kommentarer-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+  }
+
+  .kommentarer-icon {
+    font-size: 20px;
+  }
+
+  .kommentarer-title {
+    font-family: var(--font-heading);
+    font-size: 28px;
+    color: var(--color-text-heading);
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .kommentarer-desc {
+    font-size: 15px;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin-bottom: 24px;
+  }
+
+  .giscus-wrapper {
+    min-height: 200px;
+  }
+</style>

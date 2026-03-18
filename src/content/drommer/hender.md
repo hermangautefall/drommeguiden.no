@@ -2,7 +2,7 @@
 tittel: "Drømmer om hender — hva betyr det?"
 slug: hender
 kategori: kropp
-kortbeskrivelse: "Hender i drømmer er symbol på handling, forbindelse og identitet. Utforsk hva det kan bety å drømme om hender."
+kortbeskrivelse: "Har du drømt om hender? Hender i drømmer er et kraftig symbol på handling, forbindelse og identitet. Utforsk de vanligste tolkningene her."
 relaterte:
   - speil
   - blod
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Evnen til å handle og forme livet ditt er i fokus"
   - "Relasjoner og forbindelser med andre mennesker speiles"
   - "Din identitet og selvfølelse uttrykkes gjennom hendenes tilstand"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/hender.jpg
 ---
 
 ## Hva betyr det å drømme om hender?

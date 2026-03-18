@@ -3,13 +3,14 @@ tittel: "Drømmer om kroppen — tolkninger og symboler"
 slug: kropp
 kortbeskrivelse: "Kroppsdrømmer handler ofte om selvbilde, sårbarhet og fysisk bevissthet. Utforsk hva det betyr å drømme om tenner, blod og mer."
 ikonfil: "kropp.svg"
+emoji: "🫀"
 antall_symboler: 4
-dato: 2025-03-17
+dato: 2026-03-18
 ---
 
 ## Drømmer om kroppen
 
-Kroppen er vårt mest personlige territorium, og når den dukker opp i drømmene våre, er det sjelden tilfeldig. Drømmer om å miste tenner, se blod, oppleve seg selv naken eller legge merke til hendene sine berører noe fundamentalt ved hvem vi er og hvordan vi opplever oss selv. Disse drømmene kan føles foruroligende, men de bærer ofte viktige budskap om selvbilde, helse og følelsesmessig tilstand.
+Kroppen er vårt mest personlige territorium, og når den dukker opp i drømmene våre, er det sjelden tilfeldig. Drømmer om å miste [tenner](/drommer/tann), se [blod](/drommer/blod), oppleve seg selv [naken](/drommer/naken) eller legge merke til [hendene](/drommer/hender) sine berører noe fundamentalt ved hvem vi er og hvordan vi opplever oss selv. Disse drømmene kan føles foruroligende, men de bærer ofte viktige budskap om selvbilde, helse og følelsesmessig tilstand.
 
 ---
 

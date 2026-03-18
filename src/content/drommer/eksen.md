@@ -2,7 +2,7 @@
 tittel: "Drømmer om eksen — hva betyr det?"
 slug: eksen
 kategori: mennesker
-kortbeskrivelse: "Å drømme om eksen betyr sjelden at du vil tilbake. Det handler ofte om ubearbeidede følelser eller personlig vekst."
+kortbeskrivelse: "Har du drømt om eksen? Å drømme om eksen betyr sjelden at du vil tilbake — det handler ofte om ubearbeidede følelser. Les de vanligste tolkningene."
 relaterte:
   - bryllup
   - hus
@@ -12,7 +12,8 @@ tolkninger_kort:
   - "Du bearbeider fortsatt følelser knyttet til forholdet eller bruddet"
   - "Eksen representerer en egenskap eller et behov i deg selv"
   - "Du er i ferd med å avslutte et kapittel og gå videre"
-dato: 2025-03-17
+dato: 2026-03-18
+bilde: /bilder/symboler/eksen.jpg
 ---
 
 ## Hva betyr det å drømme om eksen?

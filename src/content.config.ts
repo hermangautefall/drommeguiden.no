@@ -10,6 +10,7 @@ const drommer = defineCollection({
     kortbeskrivelse: z.string(),
     relaterte: z.array(z.string()).optional(),
     tolkninger_kort: z.array(z.string()),
+    bilde: z.string().optional(),
     dato: z.coerce.date(),
   }),
 });
@@ -21,6 +22,7 @@ const kategorier = defineCollection({
     slug: z.string(),
     kortbeskrivelse: z.string(),
     ikonfil: z.string().optional(),
+    emoji: z.string().optional(),
     antall_symboler: z.number().optional(),
     dato: z.coerce.date(),
   }),
@@ -32,6 +34,7 @@ const guider = defineCollection({
     tittel: z.string(),
     slug: z.string(),
     kortbeskrivelse: z.string(),
+    bilde: z.string().optional(),
     leseminutter: z.number().optional(),
     dato: z.coerce.date(),
     oppdatert: z.coerce.date().optional(),

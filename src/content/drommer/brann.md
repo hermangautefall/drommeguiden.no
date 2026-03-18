@@ -2,17 +2,18 @@
 tittel: "Drømmer om brann — hva betyr det?"
 slug: brann
 kategori: natur
-kortbeskrivelse: "Drømmer du om brann eller ild? Brann i drømmer kan symbolisere lidenskap, transformasjon og destruktive krefter. Les tolkningen her."
+kortbeskrivelse: "Har du drømt om brann? Brann i drømmer kan symbolisere lidenskap, transformasjon og destruktive krefter. Les de vanligste tolkningene og hva det betyr."
 relaterte:
   - storm
   - hus
   - hav
   - slange
 tolkninger_kort:
-  - "Brann kan symbolisere sterke følelser som lidenskap, sinne eller kreativ energi."
+  - "Brann kan symbolisere sterke følelser som lidenskap, sinne eller kreativitet."
   - "Ild i drømmer tolkes ofte som et tegn på transformasjon og fornyelse."
-  - "En ukontrollert brann kan peke mot destruktive krefter eller frykt for å miste noe verdifullt."
-dato: 2025-03-17
+  - "Ukontrollert brann kan peke mot destruktive krefter eller frykt for tap."
+dato: 2026-03-18
+bilde: /bilder/symboler/brann.jpg
 ---
 
 ## Hva betyr det å drømme om brann?

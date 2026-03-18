@@ -1,59 +1,184 @@
 ---
-// Three-column footer
+// Redesigned footer with new design system
 ---
 
-<footer class="mt-auto" style="background-color: var(--color-natt);">
-  <div class="max-w-5xl mx-auto px-4 py-12">
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-10 mb-10">
-      <!-- Kolonne 1: Om Drømmeguiden -->
-      <div>
-        <a href="/" class="hover:no-underline">
-          <span style="font-family: var(--font-heading); color: var(--color-krem);" class="text-xl font-bold tracking-tight block mb-3">
-            Drømmeguiden
-          </span>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <!-- Top: 4-column grid -->
+    <div class="footer-grid">
+      <!-- Brand column -->
+      <div class="footer-brand">
+        <a href="/" class="footer-logo">
+          <span class="footer-moon">🌙</span> Drømmeguiden
         </a>
-        <p class="text-sm leading-relaxed" style="color: var(--color-subtil);">
-          Drømmeguiden er Norges mest komplette guide til drømmesymboler og drømmetolkning. Vi hjelper deg å forstå hva drømmene dine kan bety — med varme, nysgjerrighet og respekt.
+        <p class="footer-tagline">
+          Norges mest komplette guide til drømmesymboler og drømmetolkning. Vi hjelper deg å forstå hva drømmene dine kan bety.
         </p>
       </div>
 
-      <!-- Kolonne 2: Raske lenker -->
-      <div>
-        <h3 class="text-sm font-semibold uppercase tracking-wider mb-4" style="color: var(--color-krem);">
-          Raske lenker
-        </h3>
-        <ul class="space-y-2 text-sm">
-          <li><a href="/drommer" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Alle symboler</a></li>
-          <li><a href="/kategori" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Alle kategorier</a></li>
-          <li><a href="/guider" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Guider</a></li>
-          <li><a href="/om-oss" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Om oss</a></li>
-          <li><a href="/kontakt" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Kontakt</a></li>
+      <!-- Navigation -->
+      <div class="footer-col">
+        <h3 class="footer-col-title">Utforsk</h3>
+        <ul class="footer-links">
+          <li><a href="/drommer">Alle symboler</a></li>
+          <li><a href="/kategori">Kategorier</a></li>
+          <li><a href="/guider">Guider</a></li>
         </ul>
       </div>
 
-      <!-- Kolonne 3: Populære symboler -->
-      <div>
-        <h3 class="text-sm font-semibold uppercase tracking-wider mb-4" style="color: var(--color-krem);">
-          Populære symboler
-        </h3>
-        <ul class="space-y-2 text-sm">
-          <li><a href="/drommer/slange" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Slange</a></li>
-          <li><a href="/drommer/hav" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Hav</a></li>
-          <li><a href="/drommer/eksen" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Eksen</a></li>
-          <li><a href="/drommer/tann" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Tann</a></li>
-          <li><a href="/drommer/flyging" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Flyging</a></li>
-          <li><a href="/drommer/brann" class="hover:text-[var(--color-krem)] transition-colors" style="color: var(--color-subtil);">Brann</a></li>
+      <!-- Popular -->
+      <div class="footer-col">
+        <h3 class="footer-col-title">Populære symboler</h3>
+        <ul class="footer-links">
+          <li><a href="/drommer/slange">Slange</a></li>
+          <li><a href="/drommer/hav">Hav</a></li>
+          <li><a href="/drommer/eksen">Eksen</a></li>
+          <li><a href="/drommer/tann">Tann</a></li>
+          <li><a href="/drommer/flyging">Flyging</a></li>
+          <li><a href="/drommer/brann">Brann</a></li>
+        </ul>
+      </div>
+
+      <!-- Info -->
+      <div class="footer-col">
+        <h3 class="footer-col-title">Info</h3>
+        <ul class="footer-links">
+          <li><a href="/om-oss">Om oss</a></li>
+          <li><a href="/kontakt">Kontakt</a></li>
+          <li><a href="/personvern">Personvern</a></li>
+          <li><a href="/cookies">Cookies</a></li>
         </ul>
       </div>
     </div>
 
-    <!-- Bunn av footer -->
-    <div class="border-t pt-6 flex flex-col md:flex-row items-center justify-between gap-4 text-xs" style="border-color: rgba(138, 127, 118, 0.2); color: var(--color-subtil);">
+    <!-- Divider -->
+    <div class="footer-divider"></div>
+
+    <!-- Bottom bar -->
+    <div class="footer-bottom">
       <p>&copy; {new Date().getFullYear()} Drømmeguiden. Alle rettigheter reservert.</p>
-      <div class="flex gap-4">
-        <a href="/personvern" class="hover:text-[var(--color-krem)] transition-colors">Personvernerklæring</a>
-        <a href="/cookies" class="hover:text-[var(--color-krem)] transition-colors">Cookiepolicy</a>
-      </div>
+      <p class="footer-credit">Bilder fra <a href="https://www.pexels.com" target="_blank" rel="noopener">Pexels</a></p>
     </div>
   </div>
 </footer>
+
+<style>
+  .site-footer {
+    margin-top: auto;
+    background: var(--color-bg-dark);
+  }
+
+  .footer-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 56px 24px 32px;
+  }
+  @media (min-width: 768px) {
+    .footer-inner {
+      padding: 72px 48px 40px;
+    }
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    margin-bottom: 0;
+  }
+  @media (min-width: 768px) {
+    .footer-grid {
+      grid-template-columns: 1.5fr 1fr 1fr 1fr;
+      gap: 48px;
+    }
+  }
+
+  /* Brand */
+  .footer-logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--font-heading);
+    font-size: 22px;
+    font-weight: 700;
+    color: #f2ede6;
+    text-decoration: none;
+    margin-bottom: 14px;
+  }
+  .footer-logo:hover {
+    text-decoration: none;
+    color: #f2ede6;
+  }
+  .footer-moon {
+    font-size: 20px;
+  }
+
+  .footer-tagline {
+    font-size: 14px;
+    line-height: 1.7;
+    color: rgba(242, 237, 230, 0.5);
+    max-width: 300px;
+  }
+
+  /* Columns */
+  .footer-col-title {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 16px;
+    font-weight: 600;
+  }
+
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .footer-links a {
+    font-size: 14px;
+    color: rgba(242, 237, 230, 0.55);
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  .footer-links a:hover {
+    color: #f2ede6;
+    text-decoration: none;
+  }
+
+  /* Divider */
+  .footer-divider {
+    height: 1px;
+    background: rgba(255, 255, 255, 0.08);
+    margin: 40px 0 24px;
+  }
+
+  /* Bottom */
+  .footer-bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 12px;
+    color: rgba(242, 237, 230, 0.35);
+  }
+  @media (min-width: 768px) {
+    .footer-bottom {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+
+  .footer-credit a {
+    color: rgba(242, 237, 230, 0.5);
+    text-decoration: none;
+  }
+  .footer-credit a:hover {
+    color: #f2ede6;
+    text-decoration: none;
+  }
+</style>
