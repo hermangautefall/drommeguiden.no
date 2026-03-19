@@ -2,12 +2,12 @@
 // Redesigned header — white bg, non-sticky
 ---
 
-<header style="background-color: var(--color-bg-white); border-bottom: 1px solid rgba(26,31,58,0.08);">
+<header style="background-color: var(--color-accent); border-bottom: none;">
   <nav class="max-w-5xl mx-auto px-4 flex items-center justify-between" style="height: 80px;">
     <!-- Logo -->
-    <a href="/" class="flex items-center gap-2 shrink-0 hover:no-underline">
-      <span style="color: var(--color-primary); font-size: 22px;">🌙</span>
-      <span style="font-family: var(--font-heading); color: var(--color-text-heading); font-size: 22px; font-weight: 700;">Drømmeguiden</span>
+    <a href="/" class="flex items-center gap-2 shrink-0 no-underline hover:no-underline">
+      <span style="font-size: 22px;">🌙</span>
+      <span style="font-family: var(--font-heading); color: #ffffff; font-size: 22px; font-weight: 700;">Drømmeguiden</span>
     </a>
 
     <!-- Desktop navigation -->
@@ -27,7 +27,7 @@
       id="mobile-menu-btn"
       aria-label="Meny"
       class="md:hidden"
-      style="color: var(--color-primary);"
+      style="color: #ffffff;"
     >
       <svg id="hamburger-icon" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <line x1="3" y1="6" x2="21" y2="6"></line>
@@ -69,7 +69,7 @@
   .nav-link {
     font-family: var(--font-nav);
     font-size: var(--font-size-nav);
-    color: var(--color-text-body);
+    color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
     position: relative;
     padding-bottom: 4px;
@@ -82,11 +82,11 @@
     left: 0;
     width: 0;
     height: 2px;
-    background: var(--color-primary);
+    background: #ffffff;
     transition: width 0.25s ease;
   }
   .nav-link:hover {
-    color: var(--color-primary);
+    color: #ffffff;
     text-decoration: none;
   }
   .nav-link:hover::after {
@@ -94,9 +94,9 @@
   }
 
   .start-btn {
-    border: 2px solid var(--color-primary-border);
+    border: 2px solid rgba(255, 255, 255, 0.5);
     border-radius: var(--border-radius-pill);
-    color: var(--color-primary);
+    color: #ffffff;
     font-family: var(--font-nav);
     font-weight: 600;
     padding: 8px 20px;
@@ -104,9 +104,9 @@
     transition: var(--transition);
   }
   .start-btn:hover {
-    background: var(--color-primary);
-    color: white;
-    border-color: var(--color-primary);
+    background: #ffffff;
+    color: var(--color-accent);
+    border-color: #ffffff;
   }
 
   .mobile-nav-link {

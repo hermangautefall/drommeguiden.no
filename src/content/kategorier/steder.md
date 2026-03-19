@@ -4,7 +4,7 @@ slug: steder
 kortbeskrivelse: "Steder i drømmer representerer ofte ulike sider av deg selv og livet ditt. Utforsk hva det betyr å drømme om hus, skog og mer."
 ikonfil: "steder.svg"
 emoji: "🏠"
-antall_symboler: 6
+antall_symboler: 10
 dato: 2026-03-18
 ---
 
@@ -20,7 +20,9 @@ I drømmepsykologien tolkes steder ofte som symboler på ulike sider av sinnet. 
 
 Carl Jung var opptatt av stedene i drømmene og så dem som arketypiske landskap i psyken. Et [fjell](/drommer/fjell) kan symbolisere åndelig streben, mens et [mørkt rom](/drommer/morkt-rom) kan representere uutforskede deler av bevisstheten. Konteksten — hva du gjør på stedet, hvem som er der, og hvilken følelse det vekker — er nøkkelen til tolkningen.
 
-Norsk natur og landskap preger mange nordmenns drømmer. Fjorden, skogen, fjellet og det gamle huset i bygda — disse stedene bærer ofte med seg kulturelle og personlige minner som farger drømmens betydning.
+Norsk natur og landskap preger mange nordmenns drømmer. Fjorden, skogen, fjellet og det gamle huset i bygda — disse stedene bærer ofte med seg kulturelle og personlige minner som farger drømmens betydning. Drømmer om å være i [fengsel](/drommer/fengsel) kan speile følelser av begrensning og ufrihet, mens en [strand](/drommer/strand) ofte representerer grensen mellom det bevisste og det ubevisste.
+
+Også transportmidler og reisemål dukker opp som sterke stedssymboler: et [tog](/drommer/tog) kan handle om livsretning og valg, mens drømmer om å være i [utlandet](/drommer/utlandet) ofte peker mot nye perspektiver eller følelsen av å være utenfor komfortsonen.
 
 ---
 

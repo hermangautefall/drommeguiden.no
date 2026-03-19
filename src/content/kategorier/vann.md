@@ -18,7 +18,7 @@ Vann er et av de mest universelle og kraftfulle symbolene i drømmeverdenen. Ent
 
 I psykologien har vann lenge vært forbundet med det ubevisste sinnets dyp. Carl Jung beskrev vann som selve bildet på det ubevisste — et speil av følelser, minner og prosesser som skjer under overflaten. Vannets tilstand i drømmen gir viktige ledetråder: stille vann kan speile indre ro, mens opprørt hav eller flom kan peke mot følelsesmessig kaos.
 
-Drømmer om vann handler ofte om hvordan du forholder deg til egne følelser. Svømmer du trygt, eller kjemper du mot strømmen? Er vannet klart og rent, eller mørkt og truende? Disse detaljene forteller mye om din nåværende emosjonelle tilstand.
+Drømmer om vann handler ofte om hvordan du forholder deg til egne følelser. Svømmer du trygt, eller kjemper du mot strømmen? Er vannet klart og rent, eller mørkt og truende? Disse detaljene forteller mye om din nåværende emosjonelle tilstand. Også drømmer om [flom](/drommer/flom) hører hjemme i dette landskapet — flom representerer ofte følelser som bryter alle demninger og overvelder deg.
 
 I norsk kultur er vannet en grunnleggende del av landskapet og identiteten — havet, fjordene, regnet. Denne nære forbindelsen til vann gjør at vanndrømmer kan oppleves spesielt sterkt for mange nordmenn, og tolkningene kan farges av vår dype kulturelle tilknytning til elementet.
 

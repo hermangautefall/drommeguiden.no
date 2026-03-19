@@ -4,7 +4,7 @@ slug: dyr
 kortbeskrivelse: "Dyr i drømmer representerer ofte instinkter, følelser og ubevisste krefter. Utforsk hva det betyr å drømme om ulike dyr."
 ikonfil: "dyr.svg"
 emoji: "🐾"
-antall_symboler: 7
+antall_symboler: 30
 dato: 2026-03-18
 ---
 
@@ -18,9 +18,11 @@ Dyr er blant de vanligste symbolene i drømmeverdenen — og det er ikke tilfeld
 
 I drømmepsykologien representerer dyr ofte de delene av oss selv som er mer instinktive og primitive — følelser vi kanskje ikke erkjenner i hverdagen. Carl Jung så på dyr i drømmer som arketypiske symboler på det ubevisste, der hvert dyr bærer sin egen unike energi og betydning.
 
-Dyr i drømmer kan speile alt fra undertrykte følelser og frykt til kreativitet, styrke og beskyttelsesinstinkter. En [hund](/drommer/hund) kan representere lojalitet og vennskap, mens en [slange](/drommer/slange) kan symbolisere forvandling eller skjult trussel. Konteksten er avgjørende — hvordan dyret oppfører seg i drømmen, og hvilken følelse det vekker i deg, gir ofte de viktigste ledetrådene.
+Dyr i drømmer kan speile alt fra undertrykte følelser og frykt til kreativitet, styrke og beskyttelsesinstinkter. En [hund](/drommer/hund) kan representere lojalitet og vennskap, mens en [slange](/drommer/slange) kan symbolisere forvandling eller skjult trussel. Mindre dyr som [mus](/drommer/mus), [gullfisk](/drommer/gullfisk) og [veps](/drommer/veps) kan virke ubetydelige, men bærer ofte overraskende sterk symbolikk i drømmer. Konteksten er avgjørende — hvordan dyret oppfører seg i drømmen, og hvilken følelse det vekker i deg, gir ofte de viktigste ledetrådene.
 
-I norsk og nordisk tradisjon har dyr alltid hatt en spesiell plass. [Ulven](/drommer/ulv), [bjørnen](/drommer/bjorn), [hesten](/drommer/hest) og ravnen er alle dypt forankret i vår kulturelle bevissthet, og denne arven kan fortsatt påvirke hvordan vi opplever dyr i drømmene våre.
+I norsk og nordisk tradisjon har dyr alltid hatt en spesiell plass. [Ulven](/drommer/ulv), [bjørnen](/drommer/bjorn), [hesten](/drommer/hest) og ravnen er alle dypt forankret i vår kulturelle bevissthet, og denne arven kan fortsatt påvirke hvordan vi opplever dyr i drømmene våre. Også gårdsdyr som [ku](/drommer/ku), [sau](/drommer/sau) og [gris](/drommer/gris) har dype røtter i norsk kultur og dukker ofte opp i drømmer med betydning knyttet til arbeid, fruktbarhet og det jordnære.
+
+Drømmer om [fugler](/drommer/fugl) forbindes gjerne med frihet og perspektiv, mens [ormer](/drommer/orm) i drømmer kan speile fornyelse eller skjulte farer — de er nært beslektet med slangesymbolikken, men har sin egen distinkte betydning.
 
 ---
 

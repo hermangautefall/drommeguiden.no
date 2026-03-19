@@ -322,5 +322,345 @@
     "fotograf_url": "https://www.pexels.com/@pixabay",
     "bilde_url": "https://www.pexels.com/photo/penguins-walking-on-brown-surface-209096/",
     "pexels_id": 209096
+  },
+  "mor": {
+    "fotograf": "Weslley Rodrigues",
+    "url": "https://www.pexels.com/photo/mother-with-baby-in-black-and-white-19920398/",
+    "pexels_id": 19920398
+  },
+  "far": {
+    "fotograf": "Josh Willink",
+    "url": "https://www.pexels.com/photo/a-man-hugging-his-baby-on-a-sunny-afternoon-105952/",
+    "pexels_id": 105952
+  },
+  "avdod-person": {
+    "fotograf": "Top5Way Agency",
+    "url": "https://www.pexels.com/photo/red-pillar-candle-with-black-background-6129843/",
+    "pexels_id": 6129843
+  },
+  "barn": {
+    "fotograf": "Atlantic Ambience",
+    "url": "https://www.pexels.com/photo/a-boy-sleeping-on-bed-12932406/",
+    "pexels_id": 12932406
+  },
+  "kjaereste": {
+    "fotograf": "",
+    "url": "https://www.pexels.com/photo/silhouette-photo-of-man-and-woman-kissing-1600128/",
+    "pexels_id": 1600128
+  },
+  "fremmed": {
+    "fotograf": "Marek Piwnicki",
+    "url": "https://www.pexels.com/photo/afraid-15964407/",
+    "pexels_id": 15964407
+  },
+  "sjef": {
+    "fotograf": "Ron Lach",
+    "url": "https://www.pexels.com/photo/a-jail-guard-standing-in-a-prison-cell-10475176/",
+    "pexels_id": 10475176
+  },
+  "gravid": {
+    "fotograf": "Viktoria  Matrosova",
+    "url": "https://www.pexels.com/photo/grayscale-photo-of-a-pregnant-woman-11614113/",
+    "pexels_id": 11614113
+  },
+  "har": {
+    "fotograf": "Sound On",
+    "url": "https://www.pexels.com/photo/woman-in-gray-and-yellow-sweater-holding-white-headphones-3756941/",
+    "pexels_id": 3756941
+  },
+  "oyne": {
+    "fotograf": "rümeysa yalçın",
+    "url": "https://www.pexels.com/photo/close-up-of-a-domestic-cat-s-face-with-intense-gaze-31099362/",
+    "pexels_id": 31099362
+  },
+  "do": {
+    "fotograf": "George Becker",
+    "url": "https://www.pexels.com/photo/silhouette-photo-of-trees-126658/",
+    "pexels_id": 126658
+  },
+  "drepe": {
+    "fotograf": "Maxim Landolfi",
+    "url": "https://www.pexels.com/photo/abstract-3d-cube-structure-on-dark-background-28428592/",
+    "pexels_id": 28428592
+  },
+  "forfulgt": {
+    "fotograf": "Alex Dos Santos",
+    "url": "https://www.pexels.com/photo/dynamic-black-and-white-street-runner-in-buenos-aires-31633741/",
+    "pexels_id": 31633741
+  },
+  "eksamen": {
+    "fotograf": "Andy Barbour",
+    "url": "https://www.pexels.com/photo/a-person-cheating-in-an-exam-6684220/",
+    "pexels_id": 6684220
+  },
+  "sen": {
+    "fotograf": "Pixabay",
+    "url": "https://www.pexels.com/photo/white-jigsaw-puzzle-illustration-262488/",
+    "pexels_id": 262488
+  },
+  "miste-noe": {
+    "fotograf": "cottonbro studio",
+    "url": "https://www.pexels.com/photo/crime-scene-investigator-holding-a-transparent-bag-with-evidence-10481295/",
+    "pexels_id": 10481295
+  },
+  "sykdom": {
+    "fotograf": "Odin Reyna",
+    "url": "https://www.pexels.com/photo/empty-hospital-beds-8410648/",
+    "pexels_id": 8410648
+  },
+  "fengsel": {
+    "fotograf": "RDNE Stock project",
+    "url": "https://www.pexels.com/photo/woman-in-orange-overalls-standing-beside-black-metal-gate-6065076/",
+    "pexels_id": 6065076
+  },
+  "kirke": {
+    "fotograf": "Dua'a Al-Amad",
+    "url": "https://www.pexels.com/photo/historic-norwegian-stave-church-in-scenic-landscape-34362479/",
+    "pexels_id": 34362479
+  },
+  "penger": {
+    "fotograf": "Ravi Roshan",
+    "url": "https://www.pexels.com/photo/close-up-of-indian-money-14907378/",
+    "pexels_id": 14907378
+  },
+  "strand": {
+    "fotograf": "Raul Kozenevski",
+    "url": "https://www.pexels.com/photo/rocky-shoreline-at-lofoten-islands-with-waves-28872415/",
+    "pexels_id": 28872415
+  },
+  "tog": {
+    "fotograf": "Mark Plötz",
+    "url": "https://www.pexels.com/photo/train-in-railway-2790396/",
+    "pexels_id": 2790396
+  },
+  "utlandet": {
+    "fotograf": "lance he",
+    "url": "https://www.pexels.com/photo/cars-on-city-street-14672465/",
+    "pexels_id": 14672465
+  },
+  "telefon": {
+    "fotograf": "상덕 박",
+    "url": "https://www.pexels.com/photo/damaged-cellphone-lying-down-on-sunlit-asphalt-16658257/",
+    "pexels_id": 16658257
+  },
+  "nokler": {
+    "fotograf": "Sueda Gln",
+    "url": "https://www.pexels.com/photo/collection-of-old-keys-in-a-wooden-box-15446635/",
+    "pexels_id": 15446635
+  },
+  "mat": {
+    "fotograf": "Rachel Claire",
+    "url": "https://www.pexels.com/photo/meal-and-cafe-latte-5865690/",
+    "pexels_id": 5865690
+  },
+  "krig": {
+    "fotograf": "Rachan Cha",
+    "url": "https://www.pexels.com/photo/a-cemetery-with-rows-of-graves-and-trees-25745473/",
+    "pexels_id": 25745473
+  },
+  "fly-styrter": {
+    "fotograf": "Koen Swiers",
+    "url": "https://www.pexels.com/photo/grayscale-photo-of-a-plane-wreck-6152596/",
+    "pexels_id": 6152596
+  },
+  "sno": {
+    "fotograf": "stein egil liland",
+    "url": "https://www.pexels.com/photo/snow-covered-mountain-3807981/",
+    "pexels_id": 3807981
+  },
+  "jordskjelv": {
+    "fotograf": "Francesco Ungaro",
+    "url": "https://www.pexels.com/photo/dry-soil-1710813/",
+    "pexels_id": 1710813
+  },
+  "orken": {
+    "fotograf": "Francesco Ungaro",
+    "url": "https://www.pexels.com/photo/green-bushes-on-desert-998653/",
+    "pexels_id": 998653
+  },
+  "flom": {
+    "fotograf": "Helena Jankovičová Kováčová",
+    "url": "https://www.pexels.com/photo/flooded-suburban-house-during-heavy-rain-28447774/",
+    "pexels_id": 28447774
+  },
+  "alkohol": {
+    "fotograf": "Xuân Thống Trần",
+    "url": "https://www.pexels.com/photo/wine-glasses-and-bottles-on-wooden-shelves-11851422/",
+    "pexels_id": 11851422
+  },
+  "musikk": {
+    "fotograf": "Jean-Paul  Wright",
+    "url": "https://www.pexels.com/photo/close-up-photo-of-a-music-sheet-14990223/",
+    "pexels_id": 14990223
+  },
+  "sex": {
+    "fotograf": "Вадим Биць",
+    "url": "https://www.pexels.com/photo/wedding-15418593/",
+    "pexels_id": 15418593
+  },
+  "utroskap": {
+    "fotograf": "cottonbro studio",
+    "url": "https://www.pexels.com/photo/a-sad-couple-wearing-white-shirts-6800022/",
+    "pexels_id": 6800022
+  },
+  "bli-fortapt": {
+    "fotograf": "Denitsa Kireva",
+    "url": "https://www.pexels.com/photo/fog-over-trees-in-deep-forest-18169916/",
+    "pexels_id": 18169916
+  },
+  "innbruddstyv": {
+    "fotograf": "Pixabay",
+    "url": "https://www.pexels.com/photo/deadlock-with-key-on-hole-279810/",
+    "pexels_id": 279810
+  },
+  "soester": {
+    "fotograf": "Ashley  Williams",
+    "url": "https://www.pexels.com/photo/two-women-standing-against-wall-689924/",
+    "pexels_id": 689924
+  },
+  "bror": {
+    "fotograf": "Jason Kenny",
+    "url": "https://www.pexels.com/photo/cute-brothers-4047332/",
+    "pexels_id": 4047332
+  },
+  "gammel-venn": {
+    "fotograf": "Kampus Production",
+    "url": "https://www.pexels.com/photo/elderly-people-holding-a-glass-of-champagne-while-smiling-at-the-camera-7810953/",
+    "pexels_id": 7810953
+  },
+  "bestemor": {
+    "fotograf": "Mike Arturo",
+    "url": "https://www.pexels.com/photo/portrait-of-an-elderly-woman-in-autumn-light-36477164/",
+    "pexels_id": 36477164
+  },
+  "ring": {
+    "fotograf": "Dominika Poláková",
+    "url": "https://www.pexels.com/photo/hands-of-newlyweds-18535623/",
+    "pexels_id": 18535623
+  },
+  "blomst": {
+    "fotograf": "Jeff Yang",
+    "url": "https://www.pexels.com/photo/photo-of-yellow-chrysanthemum-flowers-13714469/",
+    "pexels_id": 13714469
+  },
+  "hode": {
+    "fotograf": "Raphael Brasileiro",
+    "url": "https://www.pexels.com/photo/silhouette-of-a-man-2920849/",
+    "pexels_id": 2920849
+  },
+  "hjerte": {
+    "fotograf": "Designecologist",
+    "url": "https://www.pexels.com/photo/heart-shaped-red-neon-signage-887349/",
+    "pexels_id": 887349
+  },
+  "rygg": {
+    "fotograf": "Ron Lach",
+    "url": "https://www.pexels.com/photo/silhouetted-studio-shot-of-boy-and-girl-9794730/",
+    "pexels_id": 9794730
+  },
+  "mage": {
+    "fotograf": "Andrea Piacquadio",
+    "url": "https://www.pexels.com/photo/woman-suffering-from-a-stomach-pain-3807733/",
+    "pexels_id": 3807733
+  },
+  "ore": {
+    "fotograf": "12photography",
+    "url": "https://www.pexels.com/photo/close-up-photo-of-cute-chonky-rabbit-13460156/",
+    "pexels_id": 13460156
+  },
+  "munn": {
+    "fotograf": "Rodolfo Clix",
+    "url": "https://www.pexels.com/photo/woman-with-lighted-match-graphic-wallpaper-922511/",
+    "pexels_id": 922511
+  },
+  "bein": {
+    "fotograf": "Tobi",
+    "url": "https://www.pexels.com/photo/person-stands-on-brown-pathway-631986/",
+    "pexels_id": 631986
+  },
+  "fingre": {
+    "fotograf": "Abdulvahap Demir",
+    "url": "https://www.pexels.com/photo/close-up-of-a-piano-12091773/",
+    "pexels_id": 12091773
+  },
+  "himmel": {
+    "fotograf": "Pixabay",
+    "url": "https://www.pexels.com/photo/clouds-landscape-photography-531972/",
+    "pexels_id": 531972
+  },
+  "helvete": {
+    "fotograf": "Maxim Landolfi",
+    "url": "https://www.pexels.com/photo/abstract-hexagonal-pattern-sphere-28428588/",
+    "pexels_id": 28428588
+  },
+  "engler": {
+    "fotograf": "Stephen Leonardi",
+    "url": "https://www.pexels.com/photo/dynamic-urban-light-installation-at-night-35291207/",
+    "pexels_id": 35291207
+  },
+  "sol": {
+    "fotograf": "Matvei",
+    "url": "https://www.pexels.com/photo/autumn-morning-sunlight-in-misty-forest-36612667/",
+    "pexels_id": 36612667
+  },
+  "mane": {
+    "fotograf": "Ahmet Enes Yetgin",
+    "url": "https://www.pexels.com/photo/moon-by-the-sea-in-black-and-white-26630843/",
+    "pexels_id": 26630843
+  },
+  "stjerner": {
+    "fotograf": "Erik Schereder",
+    "url": "https://www.pexels.com/photo/starry-sky-5675741/",
+    "pexels_id": 5675741
+  },
+  "lynet": {
+    "fotograf": "Bruno Henrique",
+    "url": "https://www.pexels.com/photo/dramatic-night-lightning-over-urban-landscape-29510214/",
+    "pexels_id": 29510214
+  },
+  "tornado": {
+    "fotograf": "Johannes Plenio",
+    "url": "https://www.pexels.com/photo/tornado-on-body-of-water-during-golden-hour-1119974/",
+    "pexels_id": 1119974
+  },
+  "orm": {
+    "fotograf": "Sippakorn Yamkasikorn",
+    "url": "https://www.pexels.com/photo/earthworms-on-a-persons-hand-3696170/",
+    "pexels_id": 3696170
+  },
+  "fugl": {
+    "fotograf": "Peter Xie",
+    "url": "https://www.pexels.com/photo/seagull-in-flight-against-clear-blue-sky-35284047/",
+    "pexels_id": 35284047
+  },
+  "mus": {
+    "fotograf": "Pixabay",
+    "url": "https://www.pexels.com/photo/brown-and-white-land-animal-301448/",
+    "pexels_id": 301448
+  },
+  "sau": {
+    "fotograf": "Yves Schelpe",
+    "url": "https://www.pexels.com/photo/sheep-in-green-valley-in-mountains-27097400/",
+    "pexels_id": 27097400
+  },
+  "veps": {
+    "fotograf": "Egor Kamelev",
+    "url": "https://www.pexels.com/photo/black-wasp-perched-on-green-leaf-closeup-photography-1136766/",
+    "pexels_id": 1136766
+  },
+  "gullfisk": {
+    "fotograf": "MART  PRODUCTION",
+    "url": "https://www.pexels.com/photo/orange-and-white-fish-in-water-8434607/",
+    "pexels_id": 8434607
+  },
+  "ku": {
+    "fotograf": "eberhard grossgasteiger",
+    "url": "https://www.pexels.com/photo/three-brown-and-white-cows-grazing-outdoors-32582635/",
+    "pexels_id": 32582635
+  },
+  "gris": {
+    "fotograf": "Matthias Zomer",
+    "url": "https://www.pexels.com/photo/pink-pig-66627/",
+    "pexels_id": 66627
   }
 }
