@@ -1,8 +1,11 @@
 ---
-// Redesigned footer with new design system
+// Dreamy footer with gradient and subtle stars
 ---
 
 <footer class="site-footer">
+  <!-- Subtle top gradient transition -->
+  <div class="footer-fade"></div>
+
   <div class="footer-inner">
     <!-- Top: 4-column grid -->
     <div class="footer-grid">
@@ -51,7 +54,7 @@
       </div>
     </div>
 
-    <!-- Divider -->
+    <!-- Divider with glow -->
     <div class="footer-divider"></div>
 
     <!-- Bottom bar -->
@@ -60,15 +63,39 @@
       <p class="footer-credit">Bilder fra <a href="https://www.pexels.com" target="_blank" rel="noopener">Pexels</a></p>
     </div>
   </div>
+
+  <!-- Decorative floating orbs -->
+  <div class="footer-orb footer-orb-1" aria-hidden="true"></div>
+  <div class="footer-orb footer-orb-2" aria-hidden="true"></div>
 </footer>
 
 <style>
   .site-footer {
     margin-top: auto;
-    background: var(--color-bg-dark);
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(
+      180deg,
+      #0f1328 0%,
+      #0c0f22 60%,
+      #080a18 100%
+    );
+  }
+
+  /* Smooth transition from page content */
+  .footer-fade {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background: linear-gradient(to bottom, transparent, #0f1328);
+    pointer-events: none;
   }
 
   .footer-inner {
+    position: relative;
+    z-index: 2;
     max-width: 1100px;
     margin: 0 auto;
     padding: 56px 24px 32px;
@@ -115,7 +142,7 @@
   .footer-tagline {
     font-size: 14px;
     line-height: 1.7;
-    color: rgba(242, 237, 230, 0.5);
+    color: rgba(242, 237, 230, 0.45);
     max-width: 300px;
   }
 
@@ -141,19 +168,20 @@
 
   .footer-links a {
     font-size: 14px;
-    color: rgba(242, 237, 230, 0.55);
+    color: rgba(242, 237, 230, 0.5);
     text-decoration: none;
-    transition: color 0.2s ease;
+    transition: all 0.25s ease;
   }
   .footer-links a:hover {
-    color: #f2ede6;
+    color: rgba(242, 237, 230, 0.9);
     text-decoration: none;
+    padding-left: 4px;
   }
 
   /* Divider */
   .footer-divider {
     height: 1px;
-    background: rgba(255, 255, 255, 0.08);
+    background: linear-gradient(90deg, transparent, rgba(123, 111, 160, 0.2), transparent);
     margin: 40px 0 24px;
   }
 
@@ -163,7 +191,7 @@
     flex-direction: column;
     gap: 8px;
     font-size: 12px;
-    color: rgba(242, 237, 230, 0.35);
+    color: rgba(242, 237, 230, 0.3);
   }
   @media (min-width: 768px) {
     .footer-bottom {
@@ -174,11 +202,34 @@
   }
 
   .footer-credit a {
-    color: rgba(242, 237, 230, 0.5);
+    color: rgba(242, 237, 230, 0.45);
     text-decoration: none;
+    transition: color 0.2s ease;
   }
   .footer-credit a:hover {
     color: #f2ede6;
     text-decoration: none;
+  }
+
+  /* Decorative orbs */
+  .footer-orb {
+    position: absolute;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 1;
+  }
+  .footer-orb-1 {
+    width: 300px;
+    height: 300px;
+    bottom: -100px;
+    left: -100px;
+    background: radial-gradient(circle, rgba(123, 111, 160, 0.08) 0%, transparent 70%);
+  }
+  .footer-orb-2 {
+    width: 200px;
+    height: 200px;
+    top: 20px;
+    right: -60px;
+    background: radial-gradient(circle, rgba(192, 128, 112, 0.06) 0%, transparent 70%);
   }
 </style>
