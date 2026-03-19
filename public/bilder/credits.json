@@ -662,5 +662,15 @@
     "fotograf": "Matthias Zomer",
     "url": "https://www.pexels.com/photo/pink-pig-66627/",
     "pexels_id": 66627
+  },
+  "guider/falsk-oppvakning.jpg": {
+    "fotograf": "J.S. McDuff",
+    "url": "https://www.pexels.com/photo/surreal-infrared-landscape-with-pink-foliage-31688112/",
+    "pexels_id": 31688112
+  },
+  "guider/sovnparalyse.jpg": {
+    "fotograf": "cottonbro studio",
+    "url": "https://www.pexels.com/photo/woman-in-white-crop-toplying-on-bed-6754070/",
+    "pexels_id": 6754070
   }
 }

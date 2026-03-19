@@ -27,6 +27,7 @@ const kategorier = [
   { slug: 'mennesker', tittel: 'Mennesker', emoji: '👤' },
   { slug: 'natur', tittel: 'Natur', emoji: '🌿' },
   { slug: 'gjenstander', tittel: 'Gjenstander', emoji: '🔑' },
+  { slug: 'aandelig', tittel: 'Åndelig', emoji: '✨' },
 ];
 
 const kategorierMedAntall = kategorier.map(kat => ({
@@ -34,13 +35,15 @@ const kategorierMedAntall = kategorier.map(kat => ({
   antall: drommer.filter(d => d.data.kategori === kat.slug).length,
 }));
 
-// Guide emojis
+// Guide emojis (fallback if no image)
 const guideEmojiMap: Record<string, string> = {
   'hva-er-drommer': '🧠',
-  'lære-lucid-drommer': '✨',
-  'vanlige-drommer': '🌙',
-  'drommer-og-psykologi': '🔮',
-  'forbedre-drommehukommelse': '📖',
+  'lucid-dromming': '✨',
+  'mareritt': '🌙',
+  'drommejournalen': '📖',
+  'gjentakende-drommer': '🔮',
+  'falsk-oppvakning': '😵‍💫',
+  'sovnparalyse': '😰',
 };
 ---
 
@@ -168,7 +171,11 @@ const guideEmojiMap: Record<string, string> = {
         {guider.map((g) => (
           <a href={`/guider/${g.data.slug}`} class="guide-card">
             <div class="guide-left">
-              <span class="guide-emoji">{guideEmojiMap[g.data.slug] || '📘'}</span>
+              {g.data.bilde ? (
+                <img src={g.data.bilde} alt={g.data.tittel} class="guide-img" loading="lazy" />
+              ) : (
+                <span class="guide-emoji">{guideEmojiMap[g.data.slug] || '📘'}</span>
+              )}
             </div>
             <div class="guide-right">
               <h3 class="guide-title">{g.data.tittel}</h3>
@@ -631,15 +638,22 @@ const guideEmojiMap: Record<string, string> = {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100px;
+    width: 120px;
     flex-shrink: 0;
     background: linear-gradient(135deg, var(--color-bg-dark) 0%, #3a4070 100%);
     font-size: 36px;
+    overflow: hidden;
   }
   @media (min-width: 768px) {
     .guide-left {
-      width: 120px;
+      width: 180px;
     }
+  }
+
+  .guide-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
 
   .guide-right {

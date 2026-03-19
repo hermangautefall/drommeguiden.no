@@ -20,21 +20,30 @@ const guider = await getCollection('guider');
     {guider.map((g) => (
       <a
         href={`/guider/${g.data.slug}`}
-        class="block rounded-xl p-6 hover:translate-y-[-1px] transition-transform"
+        class="block rounded-xl overflow-hidden hover:translate-y-[-1px] transition-transform"
         style="background-color: white; box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
       >
-        <div class="flex flex-col sm:flex-row sm:items-start gap-3">
-          <div class="flex-1">
-            <h2 class="text-xl font-semibold text-[var(--color-natt)]" style="font-family: var(--font-heading);">
-              {g.data.tittel}
-            </h2>
-            <p class="text-sm text-[var(--color-tekst)] mt-2 leading-relaxed">
-              {g.data.kortbeskrivelse}
-            </p>
-          </div>
-          {g.data.leseminutter && (
-            <span class="text-xs text-[var(--color-subtil)] shrink-0 mt-1">{g.data.leseminutter} min lesetid</span>
+        <div class="flex flex-col sm:flex-row">
+          {g.data.bilde && (
+            <div class="sm:w-48 sm:shrink-0">
+              <img src={g.data.bilde} alt={g.data.tittel} class="w-full h-40 sm:h-full object-cover" loading="lazy" />
+            </div>
           )}
+          <div class="flex-1 p-6">
+            <div class="flex flex-col sm:flex-row sm:items-start gap-3">
+              <div class="flex-1">
+                <h2 class="text-xl font-semibold text-[var(--color-natt)]" style="font-family: var(--font-heading);">
+                  {g.data.tittel}
+                </h2>
+                <p class="text-sm text-[var(--color-tekst)] mt-2 leading-relaxed">
+                  {g.data.kortbeskrivelse}
+                </p>
+              </div>
+              {g.data.leseminutter && (
+                <span class="text-xs text-[var(--color-subtil)] shrink-0 mt-1">{g.data.leseminutter} min lesetid</span>
+              )}
+            </div>
+          </div>
         </div>
       </a>
     ))}
