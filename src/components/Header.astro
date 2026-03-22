@@ -1,133 +1,212 @@
 ---
-// Redesigned header — white bg, non-sticky
+// Glass header — transparent with frosted blur
 ---
 
-<header style="background-color: var(--color-accent); border-bottom: none;">
-  <nav class="max-w-5xl mx-auto px-4 flex items-center justify-between" style="height: 80px;">
+<header class="site-header">
+  <nav class="max-w-5xl mx-auto px-4 flex items-center justify-between" style="height: 72px;">
     <!-- Logo -->
-    <a href="/" class="flex items-center gap-2 shrink-0 no-underline hover:no-underline">
-      <span style="font-size: 22px;">🌙</span>
-      <span style="font-family: var(--font-heading); color: #ffffff; font-size: 22px; font-weight: 700;">Drømmeguiden</span>
+    <a href="/" class="header-logo hover:no-underline">
+      <span class="header-moon">🌙</span>
+      <span class="header-brand">Drømmeguiden</span>
     </a>
 
     <!-- Desktop navigation -->
-    <div class="hidden md:flex items-center gap-8">
+    <div class="hidden md:flex items-center gap-1">
       <a href="/drommer" class="nav-link">Symboler</a>
       <a href="/kategori" class="nav-link">Kategorier</a>
       <a href="/guider" class="nav-link">Guider</a>
+      <a href="/sovn" class="nav-link">Søvn</a>
     </div>
 
     <!-- Desktop CTA -->
     <a href="/drommer" class="hidden md:inline-flex items-center gap-1 start-btn hover:no-underline">
-      Start her <span aria-hidden="true">&rarr;</span>
+      Utforsk <span aria-hidden="true">&rarr;</span>
     </a>
 
     <!-- Mobile hamburger button -->
     <button
       id="mobile-menu-btn"
       aria-label="Meny"
-      class="md:hidden"
-      style="color: #ffffff;"
+      class="md:hidden hamburger-btn"
     >
-      <svg id="hamburger-icon" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <line x1="3" y1="6" x2="21" y2="6"></line>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="3" y1="7" x2="21" y2="7"></line>
         <line x1="3" y1="12" x2="21" y2="12"></line>
-        <line x1="3" y1="18" x2="21" y2="18"></line>
-      </svg>
-      <svg id="close-icon" class="hidden" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <line x1="18" y1="6" x2="6" y2="18"></line>
-        <line x1="6" y1="6" x2="18" y2="18"></line>
+        <line x1="3" y1="17" x2="21" y2="17"></line>
       </svg>
     </button>
   </nav>
 
-  <!-- Mobile menu overlay -->
-  <div id="mobile-menu" class="mobile-menu-hidden md:hidden fixed inset-0 top-0 z-50" style="background-color: var(--color-bg-dark);">
-    <div class="flex items-center justify-between px-4" style="height: 80px;">
-      <a href="/" class="flex items-center gap-2 hover:no-underline">
-        <span style="font-size: 22px;">🌙</span>
-        <span style="font-family: var(--font-heading); color: #f2ede6; font-size: 22px; font-weight: 700;">Drømmeguiden</span>
-      </a>
-      <button id="mobile-close-btn" aria-label="Lukk meny" style="color: #f2ede6;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <line x1="18" y1="6" x2="6" y2="18"></line>
-          <line x1="6" y1="6" x2="18" y2="18"></line>
-        </svg>
-      </button>
-    </div>
-    <div class="flex flex-col items-center gap-10 pt-16">
-      <a href="/drommer" class="mobile-nav-link">Symboler</a>
-      <a href="/kategori" class="mobile-nav-link">Kategorier</a>
-      <a href="/guider" class="mobile-nav-link">Guider</a>
-      <a href="/om-oss" class="mobile-nav-link">Om oss</a>
-      <a href="/kontakt" class="mobile-nav-link">Kontakt</a>
-    </div>
-  </div>
+
 </header>
 
+<!-- Mobile menu overlay — outside header to avoid sticky context issues -->
+<div id="mobile-menu" class="mobile-menu-hidden md:hidden mobile-menu-panel">
+  <div class="flex items-center justify-between px-6" style="height: 72px;">
+    <a href="/" class="header-logo hover:no-underline">
+      <span class="header-moon">🌙</span>
+      <span style="font-family: var(--font-heading); color: #f2ede6; font-size: 20px; font-weight: 700;">Drømmeguiden</span>
+    </a>
+    <button id="mobile-close-btn" aria-label="Lukk meny" class="mobile-close">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="18" y1="6" x2="6" y2="18"></line>
+        <line x1="6" y1="6" x2="18" y2="18"></line>
+      </svg>
+    </button>
+  </div>
+  <div class="mobile-menu-links">
+    <a href="/drommer" class="mobile-nav-link">Symboler</a>
+    <a href="/kategori" class="mobile-nav-link">Kategorier</a>
+    <a href="/guider" class="mobile-nav-link">Guider</a>
+    <a href="/sovn" class="mobile-nav-link">Søvn</a>
+    <div class="mobile-divider"></div>
+    <a href="/om-oss" class="mobile-nav-link mobile-nav-link-small">Om oss</a>
+    <a href="/kontakt" class="mobile-nav-link mobile-nav-link-small">Kontakt</a>
+  </div>
+</div>
+
 <style>
-  .nav-link {
-    font-family: var(--font-nav);
-    font-size: var(--font-size-nav);
-    color: rgba(255, 255, 255, 0.9);
-    text-decoration: none;
-    position: relative;
-    padding-bottom: 4px;
-    transition: color 0.25s ease;
-  }
-  .nav-link::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 0;
-    height: 2px;
-    background: #ffffff;
-    transition: width 0.25s ease;
-  }
-  .nav-link:hover {
-    color: #ffffff;
-    text-decoration: none;
-  }
-  .nav-link:hover::after {
-    width: 100%;
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    background: rgba(245, 240, 236, 0.8);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-bottom: 1px solid rgba(123, 111, 160, 0.08);
   }
 
+  /* Logo */
+  .header-logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+  }
+  .header-moon {
+    font-size: 20px;
+  }
+  .header-brand {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--color-text-heading);
+  }
+
+  /* Nav links */
+  .nav-link {
+    font-family: var(--font-nav);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: var(--border-radius-btn);
+    transition: all 0.2s ease;
+  }
+  .nav-link:hover {
+    color: var(--color-text-heading);
+    background: rgba(123, 111, 160, 0.07);
+    text-decoration: none;
+  }
+
+  /* CTA button */
   .start-btn {
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    background: var(--color-text-heading);
     border-radius: var(--border-radius-pill);
-    color: #ffffff;
+    color: var(--color-bg-cream);
     font-family: var(--font-nav);
     font-weight: 600;
     padding: 8px 20px;
-    font-size: 14px;
+    font-size: 13px;
+    letter-spacing: 0.3px;
     transition: var(--transition);
+    border: none;
   }
   .start-btn:hover {
-    background: #ffffff;
-    color: var(--color-accent);
-    border-color: #ffffff;
+    background: var(--color-primary);
+    color: var(--color-bg-cream);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(123, 111, 160, 0.25);
   }
 
-  .mobile-nav-link {
-    font-family: var(--font-heading);
-    font-size: 32px;
-    color: #f2ede6;
-    text-decoration: none;
-    transition: color 0.25s ease;
+  /* Hamburger */
+  .hamburger-btn {
+    color: var(--color-text-heading);
+    padding: 6px;
+    border-radius: 8px;
+    transition: background 0.2s ease;
   }
-  .mobile-nav-link:hover {
-    color: var(--color-accent);
-    text-decoration: none;
+  .hamburger-btn:hover {
+    background: rgba(123, 111, 160, 0.07);
+  }
+
+</style>
+
+<!-- Global styles for mobile menu (outside header, so scoped styles don't apply) -->
+<style is:global>
+  .mobile-menu-panel {
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    background: linear-gradient(180deg, #1a1f3a 0%, #0f1328 100%);
   }
 
   .mobile-menu-hidden {
     transform: translateX(100%);
     transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
   }
+
   .mobile-menu-visible {
     transform: translateX(0);
     transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .mobile-close {
+    color: rgba(242, 237, 230, 0.6);
+    padding: 6px;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+  }
+  .mobile-close:hover {
+    color: #f2ede6;
+    background: rgba(255, 255, 255, 0.08);
+  }
+
+  .mobile-menu-links {
+    display: flex;
+    flex-direction: column;
+    padding: 32px 24px;
+    gap: 4px;
+  }
+
+  .mobile-nav-link {
+    font-family: var(--font-heading);
+    font-size: 26px;
+    font-weight: 600;
+    color: #f2ede6;
+    text-decoration: none;
+    padding: 14px 16px;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+  }
+  .mobile-nav-link:hover {
+    color: var(--color-accent);
+    background: rgba(255, 255, 255, 0.06);
+    text-decoration: none;
+  }
+
+  .mobile-nav-link-small {
+    font-family: var(--font-nav);
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(242, 237, 230, 0.55);
+  }
+
+  .mobile-divider {
+    height: 1px;
+    background: rgba(255, 255, 255, 0.06);
+    margin: 12px 16px;
   }
 </style>
 
@@ -151,8 +230,8 @@
   menuBtn?.addEventListener('click', openMenu);
   closeBtn?.addEventListener('click', closeMenu);
 
-  // Close on click outside nav links
   mobileMenu?.addEventListener('click', (e) => {
-    if (e.target === mobileMenu) closeMenu();
+    if ((e.target as HTMLElement).closest('.mobile-menu-inner')) return;
+    closeMenu();
   });
 </script>

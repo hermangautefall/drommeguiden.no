@@ -41,4 +41,21 @@ const guider = defineCollection({
   }),
 });
 
-export const collections = { drommer, kategorier, guider };
+const sovn = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/sovn' }),
+  schema: z.object({
+    tittel: z.string(),
+    slug: z.string(),
+    seksjon: z.literal('sovn'),
+    kategori: z.string(),
+    kortbeskrivelse: z.string(),
+    leseminutter: z.number(),
+    dato: z.coerce.date(),
+    oppdatert: z.coerce.date().optional(),
+    bilde: z.string().optional(),
+    relaterte_sovn: z.array(z.string()).optional(),
+    relaterte_drommer: z.array(z.string()).optional(),
+  }),
+});
+
+export const collections = { drommer, kategorier, guider, sovn };

@@ -904,5 +904,25 @@
   "guider/stress-og-drommer.jpg": {
     "fotograf": "cottonbro studio",
     "bilde_url": "https://www.pexels.com/photo/stress/"
+  },
+  "sovn/hva-er-sovn.jpg": {
+    "fotograf": "cottonbro studio",
+    "bilde_url": "https://www.pexels.com/photo/a-man-lying-on-bed-6944002/"
+  },
+  "sovn/sovnfaser.jpg": {
+    "fotograf": "KATRIN BOLOVTSOVA",
+    "bilde_url": "https://www.pexels.com/photo/a-woman-sleeping-on-the-bed-7445175/"
+  },
+  "sovn/hvorfor-drommer-vi.jpg": {
+    "fotograf": "Luis Quintero",
+    "bilde_url": "https://www.pexels.com/photo/pink-clouds-2842734/"
+  },
+  "sovn/sovnhygiene.jpg": {
+    "fotograf": "Alice Castro",
+    "bilde_url": "https://www.pexels.com/photo/mug-by-the-window-1821797/"
+  },
+  "sovn/sovnproblemer.jpg": {
+    "fotograf": "cottonbro studio",
+    "bilde_url": "https://www.pexels.com/photo/woman-in-white-long-sleeve-shirt-sitting-on-a-bed-6941117/"
   }
 }
