@@ -9,9 +9,9 @@
   --color-text-body: #2d2926;
   --color-text-muted: #6b6560;
 
-  --font-heading: 'Cormorant Garamond', serif;
-  --font-body: 'Inter', sans-serif;
-  --font-nav: 'Inter', sans-serif;
+  --font-heading: 'Instrument Serif', serif;
+  --font-body: 'Geist', sans-serif;
+  --font-nav: 'Geist', sans-serif;
 }
 
 :root {
@@ -32,9 +32,9 @@
   --color-star:           #C08070;
 
   /* Typografi */
-  --font-heading: 'Cormorant Garamond', serif;
-  --font-body:    'Inter', sans-serif;
-  --font-nav:     'Inter', sans-serif;
+  --font-heading: 'Instrument Serif', serif;
+  --font-body:    'Geist', sans-serif;
+  --font-nav:     'Geist', sans-serif;
   --font-size-h1:   48px;
   --font-size-h2:   38px;
   --font-size-h3:   26px;
