@@ -672,5 +672,237 @@
     "fotograf": "cottonbro studio",
     "url": "https://www.pexels.com/photo/woman-in-white-crop-toplying-on-bed-6754070/",
     "pexels_id": 6754070
+  },
+  "symboler/toalett.jpg": {
+    "fotograf": "Jesse Bannister",
+    "bilde_url": "https://www.pexels.com/photo/7032208/"
+  },
+  "symboler/trapp.jpg": {
+    "fotograf": "Jan van der Wolf",
+    "bilde_url": "https://www.pexels.com/photo/36470757/"
+  },
+  "symboler/dor.jpg": {
+    "fotograf": "Kelly",
+    "bilde_url": "https://www.pexels.com/photo/2950003/"
+  },
+  "symboler/svomme.jpg": {
+    "fotograf": "Tiago Torres",
+    "bilde_url": "https://www.pexels.com/photo/4674770/"
+  },
+  "symboler/rotte.jpg": {
+    "fotograf": "freestocks.org",
+    "bilde_url": "https://www.pexels.com/photo/177719/"
+  },
+  "symboler/bro.jpg": {
+    "fotograf": "Mateusz Sałaciak",
+    "bilde_url": "https://www.pexels.com/photo/4275884/"
+  },
+  "symboler/kjeller.jpg": {
+    "fotograf": "Sonny Sixteen",
+    "bilde_url": "https://www.pexels.com/photo/1008686/"
+  },
+  "symboler/loft.jpg": {
+    "fotograf": "ClickerHappy",
+    "bilde_url": "https://www.pexels.com/photo/55656/"
+  },
+  "symboler/grate.jpg": {
+    "fotograf": "www.kaboompics.com",
+    "bilde_url": "https://www.pexels.com/photo/4471312/"
+  },
+  "symboler/regnbue.jpg": {
+    "fotograf": "Tobias Bjørkli",
+    "bilde_url": "https://www.pexels.com/photo/4976405/"
+  },
+  "symboler/tre.jpg": {
+    "fotograf": "David Bartus",
+    "bilde_url": "https://www.pexels.com/photo/450100/"
+  },
+  "symboler/elv.jpg": {
+    "fotograf": "Kjetil Hope",
+    "bilde_url": "https://www.pexels.com/photo/6287395/"
+  },
+  "symboler/vei.jpg": {
+    "fotograf": "Onanini",
+    "bilde_url": "https://www.pexels.com/photo/708188/"
+  },
+  "symboler/sloss.jpg": {
+    "fotograf": "cottonbro studio",
+    "bilde_url": "https://www.pexels.com/photo/4753893/"
+  },
+  "symboler/gull.jpg": {
+    "fotograf": "Lisa from Pexels",
+    "bilde_url": "https://www.pexels.com/photo/2248589/"
+  },
+  "symboler/is.jpg": {
+    "fotograf": "Lars Bugge Aarset",
+    "bilde_url": "https://www.pexels.com/photo/36072251/"
+  },
+  "symboler/dans.jpg": {
+    "fotograf": "Bianca Salgado",
+    "bilde_url": "https://www.pexels.com/photo/6153179/"
+  },
+  "symboler/vindu.jpg": {
+    "fotograf": "Griffin Wooldridge",
+    "bilde_url": "https://www.pexels.com/photo/4978526/"
+  },
+  "symboler/koffert.jpg": {
+    "fotograf": "cottonbro studio",
+    "bilde_url": "https://www.pexels.com/photo/5138184/"
+  },
+  "symboler/hage.jpg": {
+    "fotograf": "Rajesh S Balouria",
+    "bilde_url": "https://www.pexels.com/photo/4114665/"
+  },
+  "symboler/bestefar.jpg": {
+    "fotograf": "Steshka Croes",
+    "bilde_url": "https://www.pexels.com/photo/3018993/"
+  },
+  "symboler/hval.jpg": {
+    "fotograf": "Emma Li",
+    "bilde_url": "https://www.pexels.com/photo/5199173/"
+  },
+  "symboler/buss.jpg": {
+    "fotograf": "Jakob Scholz",
+    "bilde_url": "https://www.pexels.com/photo/808846/"
+  },
+  "symboler/skip.jpg": {
+    "fotograf": "Gu Bra",
+    "bilde_url": "https://www.pexels.com/photo/36140352/"
+  },
+  "symboler/lys.jpg": {
+    "fotograf": "Craig Adderley",
+    "bilde_url": "https://www.pexels.com/photo/1652298/"
+  },
+  "symboler/bok.jpg": {
+    "fotograf": "Jess Bailey Designs",
+    "bilde_url": "https://www.pexels.com/photo/762687/"
+  },
+  "symboler/kjole.jpg": {
+    "fotograf": "Magda Ehlers",
+    "bilde_url": "https://www.pexels.com/photo/1057313/"
+  },
+  "symboler/jord.jpg": {
+    "fotograf": "Kari Alfonso",
+    "bilde_url": "https://www.pexels.com/photo/36348357/"
+  },
+  "symboler/stein.jpg": {
+    "fotograf": "Zakhar Vozhdaienko",
+    "bilde_url": "https://www.pexels.com/photo/36183645/"
+  },
+  "symboler/sykkel.jpg": {
+    "fotograf": "Elīna Arāja",
+    "bilde_url": "https://www.pexels.com/photo/4148330/"
+  },
+  "symboler/ulykke.jpg": {
+    "fotograf": "cottonbro studio",
+    "bilde_url": "https://www.pexels.com/photo/5244281/"
+  },
+  "symboler/tante.jpg": {
+    "fotograf": "Helena Lopes",
+    "bilde_url": "https://www.pexels.com/photo/4409125/"
+  },
+  "symboler/onkel.jpg": {
+    "fotograf": "Guillermo Berlin",
+    "bilde_url": "https://www.pexels.com/photo/36217780/"
+  },
+  "symboler/nabo.jpg": {
+    "fotograf": "ClickerHappy",
+    "bilde_url": "https://www.pexels.com/photo/422844/"
+  },
+  "symboler/bad.jpg": {
+    "fotograf": "Diva Plavalaguna",
+    "bilde_url": "https://www.pexels.com/photo/5710334/"
+  },
+  "symboler/operasjon.jpg": {
+    "fotograf": "Pavel Danilyuk",
+    "bilde_url": "https://www.pexels.com/photo/7108120/"
+  },
+  "symboler/bie.jpg": {
+    "fotograf": "Zaryab Haider",
+    "bilde_url": "https://www.pexels.com/photo/36381504/"
+  },
+  "symboler/krabbe.jpg": {
+    "fotograf": "Enrique Pacudan",
+    "bilde_url": "https://www.pexels.com/photo/6541021/"
+  },
+  "symboler/fodsel.jpg": {
+    "fotograf": "Saúl Sigüenza",
+    "bilde_url": "https://www.pexels.com/photo/36288592/"
+  },
+  "symboler/ild.jpg": {
+    "fotograf": "Pixabay",
+    "bilde_url": "https://www.pexels.com/photo/266388/"
+  },
+  "symboler/troll.jpg": {
+    "fotograf": "Rulo Mora",
+    "bilde_url": "https://www.pexels.com/photo/36030122/"
+  },
+  "symboler/nordlys.jpg": {
+    "fotograf": "stein egil liland",
+    "bilde_url": "https://www.pexels.com/photo/1933319/"
+  },
+  "symboler/vikingskip.jpg": {
+    "fotograf": "Erik Mclean",
+    "bilde_url": "https://www.pexels.com/photo/5023761/"
+  },
+  "symboler/fjord.jpg": {
+    "fotograf": "Stefan de Vries",
+    "bilde_url": "https://www.pexels.com/photo/35918800/"
+  },
+  "symboler/hytte.jpg": {
+    "fotograf": "Miluše Weberová",
+    "bilde_url": "https://www.pexels.com/photo/36456706/"
+  },
+  "symboler/elg.jpg": {
+    "fotograf": "Erik Karits",
+    "bilde_url": "https://www.pexels.com/photo/3722624/"
+  },
+  "symboler/laks.jpg": {
+    "fotograf": "Nextvoyage",
+    "bilde_url": "https://www.pexels.com/photo/730659/"
+  },
+  "symboler/nisse.jpg": {
+    "fotograf": "Susanne Jutzeler, suju-foto",
+    "bilde_url": "https://www.pexels.com/photo/1578010/"
+  },
+  "symboler/reinsdyr.jpg": {
+    "fotograf": "Francesco Ungaro",
+    "bilde_url": "https://www.pexels.com/photo/4001926/"
+  },
+  "symboler/snoskred.jpg": {
+    "fotograf": "Gaetan THURIN",
+    "bilde_url": "https://www.pexels.com/photo/36107888/"
+  },
+  "symboler/stavkirke.jpg": {
+    "fotograf": "David Taljat",
+    "bilde_url": "https://www.pexels.com/photo/5654438/"
+  },
+  "symboler/bunad.jpg": {
+    "fotograf": "Martin Portas",
+    "bilde_url": "https://www.pexels.com/photo/4069761/"
+  },
+  "guider/profetiske-drommer.jpg": {
+    "fotograf": "Steve Johnson",
+    "bilde_url": "https://www.pexels.com/photo/abstract-art/"
+  },
+  "guider/drommer-om-avdode.jpg": {
+    "fotograf": "Willians Huerta",
+    "bilde_url": "https://www.pexels.com/photo/memorial-candle/"
+  },
+  "guider/farger-i-drommer.jpg": {
+    "fotograf": "Steve Johnson",
+    "bilde_url": "https://www.pexels.com/photo/abstract-colors/"
+  },
+  "guider/nattskrekk.jpg": {
+    "fotograf": "cottonbro studio",
+    "bilde_url": "https://www.pexels.com/photo/nightmare/"
+  },
+  "guider/barn-og-drommer.jpg": {
+    "fotograf": "Nothing Ahead",
+    "bilde_url": "https://www.pexels.com/photo/child-sleeping/"
+  },
+  "guider/stress-og-drommer.jpg": {
+    "fotograf": "cottonbro studio",
+    "bilde_url": "https://www.pexels.com/photo/stress/"
   }
 }

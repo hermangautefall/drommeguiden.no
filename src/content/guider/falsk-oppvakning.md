@@ -30,7 +30,7 @@ Søvnforskere har tradisjonelt beskrevet to varianter:
 
 Den første er den trivielle varianten — der alt ser normalt ut og du bare tror du har vaknet. Du lever gjennom en helt vanlig morgen, inntil noe avslører at du fortsatt sover: en detalj som ikke stemmer, en person som plutselig er der uten grunn, et rom som er feil. Disse drømmene er gjerne ubevisst korrekte — de speiler livet ditt så nøyaktig at hjernen ikke finner grunn til å stille spørsmål.
 
-Den andre varianten er mer intens — der det noe er merkbart galt med omgivelsene. Rommet er mørkt og trykkende, noe er i ubalanse, en uhyggelig atmosfære henger i luften. Disse drømmene grenset tidvis til det mareritt-aktige, og er mer ubehagelige å oppleve. De kan henge sammen med søvnparalyse og hypnagoge hallusinasjoner — fenomener der kroppen er lam mens bevisstheten er aktiv.
+Den andre varianten er mer intens — der det noe er merkbart galt med omgivelsene. Rommet er mørkt og trykkende, noe er i ubalanse, en uhyggelig atmosfære henger i luften. Disse drømmene grenset tidvis til det mareritt-aktige, og er mer ubehagelige å oppleve. De kan henge sammen med [søvnparalyse](/guider/sovnparalyse) og hypnagoge hallusinasjoner — fenomener der kroppen er lam mens bevisstheten er aktiv.
 
 ## Koblingen til lucid dreaming
 

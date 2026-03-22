@@ -4,7 +4,7 @@ slug: mennesker
 kortbeskrivelse: "Mennesker i drømmer representerer ofte relasjoner, sider av deg selv eller ubevisste ønsker. Utforsk hva disse drømmene betyr."
 ikonfil: "mennesker.svg"
 emoji: "👤"
-antall_symboler: 13
+antall_symboler: 17
 dato: 2026-03-18
 ---
 
@@ -21,6 +21,8 @@ I drømmepsykologien skiller man ofte mellom to typer mennesker i drømmer: de s
 Å drømme om en baby kan handle om nye begynnelser eller sårbarhet, mens en eks-partner i drømmen ofte peker tilbake mot uavklarte følelser eller mønstre du gjenkjenner fra nåværende relasjoner. Hender kan symbolisere kontakt, hjelp eller behov for forbindelse. Familiemedlemmer er spesielt vanlige i drømmer: [mor](/drommer/mor) og [far](/drommer/far) representerer ofte trygghet, autoritet eller ubearbeidede barndomsmønstre, mens [søster](/drommer/soester) og [bror](/drommer/bror) kan speile sider av deg selv eller søskenrelasjoner.
 
 Drømmer om egne [barn](/drommer/barn) berører ofte omsorg og ansvar, mens en [kjæreste](/drommer/kjaereste) i drømmen kan handle om intimitet og tilknytning. Å drømme om en [fremmed](/drommer/fremmed) person representerer gjerne ukjente sider av deg selv. [Sjefen](/drommer/sjef) kan symbolisere autoritet og maktdynamikk, mens en [gammel venn](/drommer/gammel-venn) ofte vekker nostalgi eller uavsluttede kapitler. Drømmer om [bestemor](/drommer/bestemor) knyttes gjerne til visdom, røtter og trygghet, og en [avdød person](/drommer/avdod-person) kan bære viktige budskap om sorg og minner.
+
+Den utvidede familien dukker også ofte opp i drømmer med viktige budskap. [Bestefar](/drommer/bestefar) i drømmen kan representere visdom, veiledning og arv — kanskje verdier og livsvisdom som har blitt overlevert gjennom generasjoner. [Tante](/drommer/tante) og [onkel](/drommer/onkel) symboliserer gjerne sider av familien som er litt mer på avstand, og kan representere alternative livsveier eller egenskaper du beundrer eller strever med. Drømmer om en [nabo](/drommer/nabo) handler ofte om grenser, nærhet og forholdet du har til omgivelsene dine — de som er tett på, men som likevel lever sine egne liv.
 
 Det viktigste er å legge merke til hvilken følelse personen vekker i deg — ikke bare hvem det er. Følelsen er ofte den egentlige nøkkelen til drømmens budskap. Lær mer om hvordan drømmer fungerer i guiden [hva er drømmer](/guider/hva-er-drommer).
 

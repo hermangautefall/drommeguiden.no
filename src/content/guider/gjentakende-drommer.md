@@ -82,7 +82,7 @@ Fordi gjentakende drømmer ofte er knyttet til ubearbeidede emosjonelle temaer, 
 - Tolkning handler mer om følelsene i drømmen enn om de spesifikke bildene.
 - Å ta tak i det underliggende temaet i våken tilstand er den mest effektive måten å bryte syklusen på.
 
-Gjentakende drømmer er ikke straff eller feil. De er invitasjoner til å se nærmere på noe som betyr noe for deg. Når du lytter, har de ofte noe verdifullt å fortelle.
+Gjentakende drømmer er ikke straff eller feil. De er invitasjoner til å se nærmere på noe som betyr noe for deg. Når du lytter, har de ofte noe verdifullt å fortelle. Noen opplever også gjentakende drømmer som føles forutseende — les mer om dette fenomenet i guiden om [profetiske drømmer](/guider/profetiske-drommer).
 
 ---
 

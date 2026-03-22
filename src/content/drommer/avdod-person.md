@@ -27,7 +27,7 @@ Du er ikke alene om å oppleve dette, og det er ingenting å frykte.
 
 Selv lenge etter at et tap har skjedd, jobber hjernen videre med sorgen — særlig under søvn. Drømmer om den avdøde er en normal og sunn del av sorgprosessen. Mange opplever også at de drømmer om [å dø](/drommer/do) selv i forbindelse med sorgperioder. Underbevistheten bruker drømmene til å integrere tapet, prosessere minner og gradvis finne seg til rette med en verden der personen ikke lenger er til stede.
 
-Disse drømmene kan komme hyppig rett etter tapet, avta over tid, og så dukke opp igjen rundt merkedager, bursdager eller i perioder med store livsendringer. Les gjerne vår guide om [drømmejournalen](/guider/drommejournalen) hvis du ønsker å holde fast på disse opplevelsene.
+Disse drømmene kan komme hyppig rett etter tapet, avta over tid, og så dukke opp igjen rundt merkedager, bursdager eller i perioder med store livsendringer. For en grundigere gjennomgang av fenomenet, les guiden vår om [drømmer om avdøde](/guider/drommer-om-avdode). Les også om [drømmejournalen](/guider/drommejournalen) hvis du ønsker å holde fast på disse opplevelsene.
 
 ### Et uoppgjort farvel
 

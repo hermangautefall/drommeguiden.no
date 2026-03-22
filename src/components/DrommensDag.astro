@@ -3,12 +3,13 @@ import { getCollection } from 'astro:content';
 
 const symbolPool = [
   'slange', 'hav', 'falle', 'tann', 'brann', 'hund', 'katt', 'baby',
-  'edderkopp', 'bjorn', 'bryllup', 'flyging', 'morkt-rom', 'skog',
-  'storm', 'hender', 'speil', 'ulv', 'fjell', 'regn', 'krage', 'hest',
-  'drukne', 'bil', 'skole', 'sykehus', 'hus', 'blod', 'naken', 'eksen',
-  'gravid', 'engler', 'himmel', 'sol', 'mane', 'stjerner', 'blomst',
-  'ring', 'kjaereste', 'fugl', 'orm', 'ku', 'gris', 'mor', 'far',
-  'forfulgt', 'do', 'fengsel', 'kirke', 'sno', 'musikk', 'krig'
+  'edderkopp', 'bjorn', 'bryllup', 'flyging', 'skog', 'storm', 'speil',
+  'ulv', 'fjell', 'regn', 'hest', 'bil', 'hus', 'blod', 'naken',
+  'eksen', 'gravid', 'engler', 'himmel', 'sol', 'mane', 'stjerner',
+  'blomst', 'ring', 'kjaereste', 'fugl', 'mor', 'far', 'forfulgt',
+  'kirke', 'sno', 'musikk', 'krig', 'dor', 'trapp', 'bro', 'tre',
+  'elv', 'dans', 'hval', 'skip', 'ild', 'gull', 'troll', 'nordlys',
+  'vikingskip', 'fjord', 'hytte', 'elg', 'laks', 'reinsdyr', 'lys'
 ];
 
 const emojiMap: Record<string, string> = {
@@ -22,7 +23,11 @@ const emojiMap: Record<string, string> = {
   mane: '🌙', stjerner: '⭐', blomst: '🌸', ring: '💍', kjaereste: '❤️',
   fugl: '🐦', orm: '🪱', ku: '🐄', gris: '🐷', mor: '👩', far: '👨',
   forfulgt: '🏃', do: '🕯️', fengsel: '🔒', kirke: '⛪', sno: '❄️',
-  musikk: '🎵', krig: '⚔️'
+  musikk: '🎵', krig: '⚔️',
+  dor: '🚪', trapp: '🪜', bro: '🌉', tre: '🌳', elv: '🏞️',
+  dans: '💃', hval: '🐋', skip: '⛵', ild: '🔥', gull: '✨',
+  troll: '👹', nordlys: '🌌', vikingskip: '⚓', fjord: '🏔️',
+  hytte: '🏡', elg: '🦌', laks: '🐟', reinsdyr: '🦌', lys: '🕯️'
 };
 
 const today = new Date();

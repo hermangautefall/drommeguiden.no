@@ -20,7 +20,7 @@ Et mareritt er en levende og ubehagelig drøm som vanligvis forekommer under REM
 
 Innholdet i mareritt varierer fra person til person, men visse temaer går igjen. Drømmer om å bli jaget er svært vanlig, det samme gjelder drømmer om å [falle](/drommer/falle), [drukne](/drommer/drukne), miste [tenner](/drommer/tann), eller befinne seg i en farlig situasjon med en [brann](/drommer/brann) eller [storm](/drommer/storm). Mange opplever også mareritt der de er [nakne](/drommer/naken) foran andre, eller der de ikke klarer å flykte fra noe truende.
 
-Det er verdt å skille mellom vanlige mareritt og nattskrekk. Nattskrekk skjer i dyp NREM-søvn, typisk i nattens første del. Personen kan rope, sitte opp i sengen, eller virke vettskremt, men husker sjelden noe etterpå. Mareritt, derimot, er drømmer du husker, og de skjer i lettere søvn.
+Det er verdt å skille mellom vanlige mareritt og [nattskrekk](/guider/nattskrekk). Nattskrekk skjer i dyp NREM-søvn, typisk i nattens første del. Personen kan rope, sitte opp i sengen, eller virke vettskremt, men husker sjelden noe etterpå. Mareritt, derimot, er drømmer du husker, og de skjer i lettere søvn.
 
 ---
 
@@ -32,7 +32,7 @@ Det finnes ikke én enkelt årsak til mareritt. Som oftest er det et samspill me
 
 **Traumer.** Mennesker som har opplevd traumatiske hendelser — ulykker, overgrep, krig, plutselige tap — har betydelig høyere risiko for gjentakende mareritt. Traumerelaterte mareritt kan reprodusere den opprinnelige hendelsen ganske nøyaktig, eller presentere den i forkledd form. Ved posttraumatisk stresslidelse (PTSD) er gjentakende mareritt et av de mest fremtredende symptomene, og de kan vedvare i årevis uten behandling.
 
-**Søvnmangel og uregelmessig søvnmønster.** Paradoksalt nok kan det å sove for lite øke sannsynligheten for mareritt. Når du endelig får sove etter en periode med lite søvn, kan kroppen kompensere med lengre og mer intense REM-perioder — noe som kalles REM-rebound. Disse intense periodene er grobunn for levende og ofte ubehagelige drømmer.
+**Søvnmangel og uregelmessig søvnmønster.** Noen opplever også [søvnparalyse](/guider/sovnparalyse) i forbindelse med forstyrret søvn, som kan ledsage eller utløse mareritt. Paradoksalt nok kan det å sove for lite øke sannsynligheten for mareritt. Når du endelig får sove etter en periode med lite søvn, kan kroppen kompensere med lengre og mer intense REM-perioder — noe som kalles REM-rebound. Disse intense periodene er grobunn for levende og ofte ubehagelige drømmer.
 
 **Mat, medisiner og rusmidler.** Noen medisiner, spesielt visse antidepressiva og blodtrykksmedisin, kan påvirke drømmemønsteret. Alkohol undertrykker REM-søvn i nattens første del, noe som fører til en REM-rebound mot morgenen — ofte med intense drømmer eller mareritt. Tung mat sent på kvelden kan også spille en rolle, selv om dette er individuelt.
 
