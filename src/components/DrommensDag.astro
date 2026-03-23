@@ -1,45 +1,69 @@
 ---
 import { getCollection } from 'astro:content';
 
-// Hent ALLE symboler fra arkivet
+// Hent ALLE symboler ved build-tid og send som JSON til klienten
 const alleSymboler = await getCollection('drommer');
-// Sorter alfabetisk for stabil rekkefølge
 const sorterteSymboler = [...alleSymboler].sort((a, b) => a.data.slug.localeCompare(b.data.slug));
 
-// Velg dagens symbol basert på dag-nummer
-const today = new Date();
-const daysSinceEpoch = Math.floor(today.getTime() / (1000 * 60 * 60 * 24));
-const todayIndex = daysSinceEpoch % sorterteSymboler.length;
-const todaySymbol = sorterteSymboler[todayIndex];
-const todaySlug = todaySymbol.data.slug;
-
-const symbolNavn = todaySymbol.data.tittel
-  .replace(/ — hva betyr det\?/, '')
-  .replace('Drømmer om ', '');
-const symbolBeskrivelse = todaySymbol.data.kortbeskrivelse || '';
-const symbolBilde = todaySymbol.data.bilde || '';
-
-const months = ['januar','februar','mars','april','mai','juni','juli','august','september','oktober','november','desember'];
-const datoStr = `${today.getDate()}. ${months[today.getMonth()]} ${today.getFullYear()}`;
+// Bygg en kompakt liste med bare det klienten trenger
+const symbolData = sorterteSymboler.map(s => ({
+  slug: s.data.slug,
+  navn: s.data.tittel.replace(/ — hva betyr det\?/, '').replace('Drømmer om ', ''),
+  desc: s.data.kortbeskrivelse || '',
+  bilde: s.data.bilde || '',
+}));
 ---
 
-<div class="drommens-dag-wrapper">
+<!-- Skjult data brukt av klient-scriptet -->
+<script is:inline define:vars={{ symbolData }}>
+  window.__drommensData = symbolData;
+</script>
+
+<div class="drommens-dag-wrapper" id="drommens-dag">
   <p class="dag-label">✦ SYMBOLET I FOKUS I DAG</p>
-  {symbolBilde ? (
-    <div class="dag-image">
-      <img src={symbolBilde} alt={symbolNavn} loading="lazy" />
-    </div>
-  ) : (
-    <div class="dag-image dag-image-fallback">✨</div>
-  )}
-  <h2 class="dag-navn">{symbolNavn}</h2>
-  <p class="dag-beskrivelse">{symbolBeskrivelse}</p>
+  <div class="dag-image dag-image-fallback" id="dag-image-container">✨</div>
+  <h2 class="dag-navn" id="dag-navn">Laster...</h2>
+  <p class="dag-beskrivelse" id="dag-beskrivelse"></p>
   <div class="dag-separator"></div>
-  <a href={`/drommer/${todaySlug}`} class="dag-link hover:no-underline">
+  <a href="/drommer" class="dag-link hover:no-underline" id="dag-link">
     Les full tolkning <span aria-hidden="true">&rarr;</span>
   </a>
-  <p class="dag-dato">{datoStr}</p>
+  <p class="dag-dato" id="dag-dato"></p>
 </div>
+
+<script is:inline>
+  (function() {
+    var data = window.__drommensData;
+    if (!data || !data.length) return;
+
+    // Beregn dagens symbol basert på brukerens lokale dato
+    var now = new Date();
+    var daysSinceEpoch = Math.floor(now.getTime() / (1000 * 60 * 60 * 24));
+    var index = daysSinceEpoch % data.length;
+    var symbol = data[index];
+
+    // Oppdater DOM
+    var navnEl = document.getElementById('dag-navn');
+    var descEl = document.getElementById('dag-beskrivelse');
+    var linkEl = document.getElementById('dag-link');
+    var datoEl = document.getElementById('dag-dato');
+    var imgContainer = document.getElementById('dag-image-container');
+
+    if (navnEl) navnEl.textContent = symbol.navn;
+    if (descEl) descEl.textContent = symbol.desc;
+    if (linkEl) linkEl.href = '/drommer/' + symbol.slug;
+
+    // Dato på norsk
+    var months = ['januar','februar','mars','april','mai','juni','juli','august','september','oktober','november','desember'];
+    if (datoEl) datoEl.textContent = now.getDate() + '. ' + months[now.getMonth()] + ' ' + now.getFullYear();
+
+    // Bilde
+    if (imgContainer && symbol.bilde) {
+      imgContainer.className = 'dag-image';
+      imgContainer.innerHTML = '<img src="' + symbol.bilde + '" alt="' + symbol.navn + '" loading="lazy" />';
+    }
+  })();
+</script>
 
 <style>
   .drommens-dag-wrapper {
