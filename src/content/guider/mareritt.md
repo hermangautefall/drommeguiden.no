@@ -102,3 +102,6 @@ Mareritt kan føles overveldende i øyeblikket, men de trenger ikke å styre net
 - [Drømmer om storm](/drommer/storm)
 - [Drømmer om mørkt rom](/drommer/morkt-rom)
 - [Gjentakende drømmer — hva prøver hjernen å si?](/guider/gjentakende-drommer)
+
+> 💡 **Les også fra søvnseksjonen:** [Søvnproblemer](/sovn/sovnproblemer) · [PTSD og drømmer](/sovn/ptsd-drommer)
+

@@ -106,3 +106,6 @@ Som med de fleste ferdigheter, krever lucid drømming tålmodighet og regelmessi
 - [Drømmejournalen — slik husker du drømmene dine](/guider/drommejournalen)
 - [Mareritt — hvorfor vi har dem og hva vi kan gjøre](/guider/mareritt)
 - [Hva er drømmer? Det vitenskapen faktisk sier](/guider/hva-er-drommer)
+
+> 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser) · [Polyfasisk søvn](/sovn/polyfasisk-sovn)
+

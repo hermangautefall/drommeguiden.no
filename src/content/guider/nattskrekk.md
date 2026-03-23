@@ -131,3 +131,6 @@ Nattskrekk er annerledes enn mareritt og handler ikke om drømmenes innhold — 
 - Hos voksne kan det signalisere noe psykologisk som trenger oppmerksomhet
 
 Relatert: [mareritt](/guider/mareritt) — [sovnparalyse](/guider/sovnparalyse) — [falsk-oppvakning](/guider/falsk-oppvakning)
+
+> 💡 **Les også fra søvnseksjonen:** [Søvnproblemer](/sovn/sovnproblemer)
+

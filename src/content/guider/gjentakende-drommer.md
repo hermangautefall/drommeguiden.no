@@ -94,3 +94,6 @@ Gjentakende drømmer er ikke straff eller feil. De er invitasjoner til å se næ
 - [Drømmer om ulv](/drommer/ulv)
 - [Mareritt — hvorfor vi har dem og hva vi kan gjøre](/guider/mareritt)
 - [Drømmejournalen — slik husker du drømmene dine](/guider/drommejournalen)
+
+> 💡 **Les også fra søvnseksjonen:** [PTSD og drømmer](/sovn/ptsd-drommer)
+

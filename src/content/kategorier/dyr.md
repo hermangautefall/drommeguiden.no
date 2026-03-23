@@ -4,7 +4,7 @@ slug: dyr
 kortbeskrivelse: "Dyr i drømmer representerer ofte instinkter, følelser og ubevisste krefter. Utforsk hva det betyr å drømme om ulike dyr."
 ikonfil: "dyr.svg"
 emoji: "🐾"
-antall_symboler: 34
+antall_symboler: 35
 dato: 2026-03-18
 ---
 
@@ -23,6 +23,8 @@ Dyr i drømmer kan speile alt fra undertrykte følelser og frykt til kreativitet
 I norsk og nordisk tradisjon har dyr alltid hatt en spesiell plass. [Ulven](/drommer/ulv), [bjørnen](/drommer/bjorn), [hesten](/drommer/hest) og ravnen er alle dypt forankret i vår kulturelle bevissthet, og denne arven kan fortsatt påvirke hvordan vi opplever dyr i drømmene våre. Også gårdsdyr som [ku](/drommer/ku), [sau](/drommer/sau) og [gris](/drommer/gris) har dype røtter i norsk kultur og dukker ofte opp i drømmer med betydning knyttet til arbeid, fruktbarhet og det jordnære.
 
 Drømmer om [fugler](/drommer/fugl) forbindes gjerne med frihet og perspektiv, mens [ormer](/drommer/orm) i drømmer kan speile fornyelse eller skjulte farer — de er nært beslektet med slangesymbolikken, men har sin egen distinkte betydning.
+
+[Delfinen](/drommer/delfin) er ett av drømmeverdenens mest positive dyresymboler — den representerer intelligens, glede og evnen til å bevege seg fritt mellom det bevisste og det ubevisste.
 
 Også dyr fra havet og den norske faunaen bærer viktige budskap. En [rotte](/drommer/rotte) i drømmen kan handle om noe skjult og oversett, eller om overlevelsesevne og tilpasningsdyktighet. [Hvalen](/drommer/hval) symboliserer ofte dyp visdom og det ubevisste — disse mektige havdyrene representerer følelser og innsikter fra de dypeste lagene i psyken. Drømmer om en [bie](/drommer/bie) knyttes gjerne til flid, fellesskap og produktivitet, mens en [krabbe](/drommer/krabbe) kan speile selvbeskyttelse og tendens til å bevege seg sidelengs rundt utfordringer.
 

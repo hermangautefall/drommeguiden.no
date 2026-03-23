@@ -80,3 +80,6 @@ Falsk oppvåkning er et normalt og fascinerende fenomen som forteller deg at hje
 - Angst for fenomenet forsterker det — nysgjerrighet er et bedre svar enn frykt
 
 De fleste som opplever falsk oppvåkning regelmessig, begynner etter hvert å se på det med en slags humor og fascinasjon. Det er et av drømmenes mer eksentriske fenomener — og ett av de mest levende demonstrasjonene på at det vi kaller "virkelighet" er mer konstruert enn vi vanligvis tillater oss å tenke.
+
+> 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser)
+

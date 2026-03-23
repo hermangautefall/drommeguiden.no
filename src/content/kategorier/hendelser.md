@@ -4,7 +4,7 @@ slug: hendelser
 kortbeskrivelse: "Hendelser i drømmer som å falle, fly eller drukne speiler ofte indre prosesser. Utforsk hva disse opplevelsene kan bety."
 ikonfil: "hendelser.svg"
 emoji: "⚡"
-antall_symboler: 27
+antall_symboler: 43
 dato: 2026-03-18
 ---
 
@@ -25,6 +25,10 @@ Andre hendelsesdrømmer berører mer tabubelagte temaer. Drømmer om å [drepe](
 Kroppen og dens handlinger spiller også en sentral rolle i hendelsesdrømmer. Å drømme om å [svømme](/drommer/svomme) kan handle om å navigere følelsesmessig dypt vann, mens drømmer om å [gråte](/drommer/grate) ofte speiler et behov for følelsesmessig utløp. Å [slåss](/drommer/sloss) i en drøm kan representere indre konflikter eller grensesetting, og [dans](/drommer/dans) knyttes gjerne til harmoni, livsglede og forbindelse med andre.
 
 Mer dramatiske hendelser bærer også viktige budskap. En [ulykke](/drommer/ulykke) i drømmen kan speile frykt for å miste kontrollen, mens drømmer om [fødsel](/drommer/fodsel) handler om nye begynnelser og kreativitet. [Ild](/drommer/ild) kan symbolisere både destruksjon og lidenskap, og drømmer om en [operasjon](/drommer/operasjon) peker ofte mot et behov for å fjerne eller reparere noe i livet ditt.
+
+Relasjoner og konflikter er en annen sterk underkategori. Drømmer om [krangling](/drommer/krangel) speiler ofte indre konflikter eller undertrykt frustrasjon. [Forlovelse](/drommer/forlovelse) kan symbolisere en ny forpliktelse — ikke bare romantisk, men overfor et mål eller en verdi. Å [vinne](/drommer/vinne) i drømmer handler om selvtillit og prestasjon, mens å [tape](/drommer/tape) kan peke mot frykt for å ikke strekke til. Redningsdrømmer er særlig kraftfulle: å [redde noen](/drommer/redde-noen) handler om omsorg og ansvar, mens det å [bli reddet](/drommer/bli-reddet) kan speile et dypt behov for støtte. Drømmer om et [barn som drukner](/drommer/drukne-barn) berører ofte foreldreangst og frykt for det sårbare. Å [bli skutt](/drommer/bli-skutt) eller [overfalt](/drommer/overfalt) handler om opplevelsen av å være truet, mens å [miste en flyavgang](/drommer/fly-misser) eller oppleve en [bil uten bremser](/drommer/bil-uten-brems) speiler angst for tapt kontroll.
+
+Også følelsesdrømmer hører hjemme her. [Skam](/drommer/skamme) i drømmer berører selvkritikk og frykten for å bli avslørt. [Lykke](/drommer/lykke) kan speile et dypt håp, mens [ensomhet](/drommer/ensomhet) kan avdekke et uoppfylt behov for tilhørighet. Drømmer om å [jobbe](/drommer/jobbe-drom) eller [vinne penger](/drommer/vinne-penger) handler ofte om identitet, verdi og hva vi presterer i verden.
 
 Fra et psykologisk perspektiv er disse drømmene verdifulle. De gir deg en mulighet til å utforske følelser du kanskje ikke er bevisst på til daglig, og de kan gi ledetråder om hva som foregår under overflaten i livet ditt.
 

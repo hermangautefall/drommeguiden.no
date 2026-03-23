@@ -4,7 +4,7 @@ slug: aandelig
 kortbeskrivelse: "Åndelige drømmer om himmel, helvete, engler og kirke berører livets store spørsmål. Utforsk hva disse symbolene kan bety."
 ikonfil: "aandelig.svg"
 emoji: "✨"
-antall_symboler: 9
+antall_symboler: 17
 dato: 2026-03-18
 ---
 
@@ -21,6 +21,10 @@ I drømmepsykologien ser man åndelige symboler som uttrykk for de mest grunnleg
 Drømmer om [himmelen](/drommer/himmel) kan speile håp og lengsel etter noe større. [Engler](/drommer/engler) kan representere beskyttelse, veiledning eller en del av deg selv som søker det gode. [Helvete](/drommer/helvete) handler ofte om skyld, anger eller frykt for konsekvenser. Og [kirken](/drommer/kirke) som symbol peker gjerne mot fellesskap, ritualer og behovet for tilhørighet.
 
 I norsk og nordisk tradisjon finnes det en rik verden av åndelige symboler som lever videre i drømmene våre. [Troll](/drommer/troll) i drømmer kan representere naturkrefter, farer i det ukjente eller deler av deg selv som er ville og utemmede. [Nordlyset](/drommer/nordlys) er et kraftfullt drømmesymbol som ofte knyttes til undring, spirituell oppvåkning og opplevelsen av noe større enn deg selv. Et [vikingskip](/drommer/vikingskip) kan symbolisere en modig reise, forfedres arv eller styrke til å navigere livets stormfulle farvann. Drømmer om en [stavkirke](/drommer/stavkirke) berører ofte forholdet mellom det gamle og det nye — tro, tradisjon og tidløs visdom. Og [nissen](/drommer/nisse) i drømmen kan handle om tradisjon, beskyttelse av hjemmet eller det lekne og magiske i tilværelsen.
+
+Seksuelle drømmer hører også til blant de mest åndelig ladede opplevelsene vi har i drømmeland. [Samleie](/drommer/samleie) i drømmer handler sjelden om det rent fysiske — det er oftere et bilde på forening av motsetninger i deg selv. [Orgasme](/drommer/orgasme) kan symbolisere frigjøring og intens kreativ energi. Drømmer om [sex med eksen](/drommer/eksen-sex) berører gjerne uavsluttede følelser eller kvaliteter fra forholdet du savner. [Sex med en kollega](/drommer/kollega-sex) handler ofte om beundring eller maktdynamikk, mens [sex med en fremmed](/drommer/fremmed-sex) kan representere det ukjente i deg selv. [Homofile drømmer](/drommer/homofil-drom) handler sjelden om seksuell legning — de speiler ofte integrering av maskuline og feminine sider i psyken.
+
+I kategorien finner du også drømmer om [Gud](/drommer/gud), som ofte representerer møtet med noe større enn deg selv og behovet for veiledning, og [djevelen](/drommer/djevel), som kan symbolisere skyggensiden — de delene av deg selv du helst ikke vil se.
 
 Felles for disse drømmene er at de inviterer til refleksjon over livets store spørsmål — og de fortjener å bli tatt på alvor, uavhengig av religiøs bakgrunn.
 

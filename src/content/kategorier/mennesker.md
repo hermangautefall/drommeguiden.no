@@ -4,7 +4,7 @@ slug: mennesker
 kortbeskrivelse: "Mennesker i drømmer representerer ofte relasjoner, sider av deg selv eller ubevisste ønsker. Utforsk hva disse drømmene betyr."
 ikonfil: "mennesker.svg"
 emoji: "👤"
-antall_symboler: 17
+antall_symboler: 23
 dato: 2026-03-18
 ---
 
@@ -23,6 +23,8 @@ I drømmepsykologien skiller man ofte mellom to typer mennesker i drømmer: de s
 Drømmer om egne [barn](/drommer/barn) berører ofte omsorg og ansvar, mens en [kjæreste](/drommer/kjaereste) i drømmen kan handle om intimitet og tilknytning. Å drømme om en [fremmed](/drommer/fremmed) person representerer gjerne ukjente sider av deg selv. [Sjefen](/drommer/sjef) kan symbolisere autoritet og maktdynamikk, mens en [gammel venn](/drommer/gammel-venn) ofte vekker nostalgi eller uavsluttede kapitler. Drømmer om [bestemor](/drommer/bestemor) knyttes gjerne til visdom, røtter og trygghet, og en [avdød person](/drommer/avdod-person) kan bære viktige budskap om sorg og minner.
 
 Den utvidede familien dukker også ofte opp i drømmer med viktige budskap. [Bestefar](/drommer/bestefar) i drømmen kan representere visdom, veiledning og arv — kanskje verdier og livsvisdom som har blitt overlevert gjennom generasjoner. [Tante](/drommer/tante) og [onkel](/drommer/onkel) symboliserer gjerne sider av familien som er litt mer på avstand, og kan representere alternative livsveier eller egenskaper du beundrer eller strever med. Drømmer om en [nabo](/drommer/nabo) handler ofte om grenser, nærhet og forholdet du har til omgivelsene dine — de som er tett på, men som likevel lever sine egne liv.
+
+Romantiske og relasjonelle drømmer er blant de mest intense. Å drømme om [kjærlighet](/drommer/kjaerlighet) berører det dypeste behovet for tilhørighet og aksept. [Utroskap fra partneren](/drommer/utroskap-partner) handler ofte om utrygghet, mens [skilsmisse](/drommer/skille-lag) kan speile frykt for forandring. Et [kyss](/drommer/kyss) i drømmen symboliserer forening og godkjennelse, og [tvillinger](/drommer/tvillinger) kan peke mot dualitet eller dobling av noe i livet. Drømmer om en [babygitt](/drommer/baby-gutt) berører nye begynnelser og det sårbare i oss.
 
 Det viktigste er å legge merke til hvilken følelse personen vekker i deg — ikke bare hvem det er. Følelsen er ofte den egentlige nøkkelen til drømmens budskap. Lær mer om hvordan drømmer fungerer i guiden [hva er drømmer](/guider/hva-er-drommer).
 

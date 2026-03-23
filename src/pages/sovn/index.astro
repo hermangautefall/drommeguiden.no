@@ -9,6 +9,8 @@ const kategorier = [
   { id: 'vitenskap', label: 'Søvnvitenskap', emoji: '🔬', color: '#7B6FA0', desc: 'Hva skjer i kropp og hjerne når du sover?' },
   { id: 'hygiene', label: 'Søvnhygiene', emoji: '🌿', color: '#1D9E75', desc: 'Vaner og tiltak for bedre søvnkvalitet' },
   { id: 'lidelser', label: 'Søvnlidelser', emoji: '🩺', color: '#C07050', desc: 'Insomni, søvnapné og andre søvnproblemer' },
+  { id: 'livsfaser', label: 'Livsfaser', emoji: '🌱', color: '#4A8BBF', desc: 'Søvn i graviditet, ungdom, aldring og sorg' },
+  { id: 'produkter', label: 'Produkter & tips', emoji: '🛏️', color: '#B8960C', desc: 'Vektede tepper, søvnmasker og apper' },
   { id: 'psykologi', label: 'Søvnpsykologi', emoji: '🧠', color: '#9B7FBF', desc: 'Drømmer, stress og det ubevisste' },
 ];
 
@@ -80,7 +82,7 @@ const artiklerPerKategori = kategorier.map(kat => ({
         <h2 class="sovn-bridge-title">Søvn og drømmer henger sammen</h2>
         <p class="sovn-bridge-text">
           Drømmene skjer under REM-søvn — og søvnkvaliteten påvirker direkte hva du drømmer.
-          Utforsk over 170 drømmesymboler i vår komplette drømmeguide.
+          Utforsk over 200 drømmesymboler i vår komplette drømmeguide.
         </p>
         <div class="sovn-bridge-links">
           <a href="/drommer" class="btn-primary">Utforsk drømmesymboler</a>
@@ -176,7 +178,7 @@ const artiklerPerKategori = kategorier.map(kat => ({
   }
   @media (min-width: 768px) {
     .sovn-cat-grid {
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(3, 1fr);
     }
   }
   .sovn-cat-card {

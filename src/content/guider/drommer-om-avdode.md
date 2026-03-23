@@ -83,3 +83,6 @@ Drømmer om avdøde er normale, vanlige og psykologisk verdifulle. De er et tegn
 Du savner dem. Det er naturlig at de besøker deg i drømmene. Det er en av sjelens mest menneskelige responser på tap.
 
 Relatert: [avdod-person](/drommer/avdod-person) — [drommejournalen](/guider/drommejournalen) — [profetiske-drommer](/guider/profetiske-drommer)
+
+> 💡 **Les også fra søvnseksjonen:** [Sorg og søvn](/sovn/sorg-sovn)
+

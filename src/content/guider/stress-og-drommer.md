@@ -88,3 +88,6 @@ Stress og drømmer henger nøye sammen — og sammenhengen er godt dokumentert:
 - Vedvarende stressdrømmer over lang tid kan peke mot utbrenthet eller angst
 
 Relatert: [mareritt](/guider/mareritt) — [drommejournalen](/guider/drommejournalen) — [gjentakende-drommer](/guider/gjentakende-drommer)
+
+> 💡 **Les også fra søvnseksjonen:** [Angst og søvn](/sovn/angst-sovn) · [Søvnhygiene](/sovn/sovnhygiene)
+

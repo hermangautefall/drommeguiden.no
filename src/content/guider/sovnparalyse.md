@@ -109,3 +109,6 @@ Søvnparalyse er skremmende, men den er harmløs. Her er det viktigste å ta med
 - Mare-en fra norrøn tradisjon er en av kulturens mange forklaringer på nøyaktig dette fenomenet
 
 Kanskje det mest befriende med søvnparalyse er å oppdage at millioner av mennesker gjennom historien har opplevd nøyaktig det samme — og at de fleste kom seg gjennom det med ikke annet skade enn en god historie å fortelle.
+
+> 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser) · [Astralprosjeksjon og søvn](/sovn/astralprosjeksjon)
+

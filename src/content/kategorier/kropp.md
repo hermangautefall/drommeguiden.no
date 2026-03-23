@@ -4,7 +4,7 @@ slug: kropp
 kortbeskrivelse: "Kroppsdrømmer handler ofte om selvbilde, sårbarhet og fysisk bevissthet. Utforsk hva det betyr å drømme om tenner, blod og mer."
 ikonfil: "kropp.svg"
 emoji: "🫀"
-antall_symboler: 14
+antall_symboler: 25
 dato: 2026-03-18
 ---
 
@@ -21,6 +21,8 @@ Kroppen i drømmer fungerer som et speil for den psykologiske tilstanden vår. S
 Å drømme om tenner som faller ut kan handle om frykt for å miste kontroll, mens drømmer om blod kan peke mot livskraft, tap eller intense følelser. Nakendrømmer berører ofte sårbarhet og frykt for å bli avslørt, mens drømmer om hender kan handle om handlekraft og kontakt med andre. Også andre kroppsdeler bærer sterk symbolikk: [hodet](/drommer/hode) knyttes til tanker og intellekt, [hjertet](/drommer/hjerte) til følelser og kjærlighet, og [ryggen](/drommer/rygg) til støtte og det vi bærer med oss.
 
 Drømmer om [magen](/drommer/mage) kan speile intuisjon eller magefølelse, mens [ører](/drommer/ore) og [munn](/drommer/munn) ofte handler om kommunikasjon — hva vi hører og hva vi sier. [Bein](/drommer/bein) i drømmer peker gjerne mot stabilitet og livsfundamentet, og [fingre](/drommer/fingre) kan symbolisere presisjon, kontroll og berøring.
+
+Flere kroppsdeler bærer spesifikk symbolikk i drømmene. [Bryst](/drommer/bryst) knyttes til næring, omsorg og mors-arketypen. [Underlivet](/drommer/underliv) kan speile kreativ kraft, instinkter og intimitet. [Sår](/drommer/saar) i drømmer handler ofte om noe som trenger leging, mens [arr](/drommer/arr) representerer styrke og overvunnede prøvelser. [Negler](/drommer/nagle) kan peke mot grenser og kontroll, [hud](/drommer/hud) mot identitet og sårbarhet, og [føtter](/drommer/fot) mot grunnlag og retning i livet. Drømmer om [menstruasjon](/drommer/menstruasjon) berører syklus, fornyelse og kreativ energi.
 
 I norsk kultur har vi tradisjonelt hatt et nøkternt forhold til kroppen, men i drømmeverdenen får kroppen snakke fritt. Kroppsdrømmer kan avdekke følelser og tanker vi ikke alltid er bevisste på i hverdagen, og de fortjener å bli utforsket med nysgjerrighet.
 
