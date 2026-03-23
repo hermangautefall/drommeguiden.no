@@ -710,8 +710,8 @@
     "bilde_url": "https://www.pexels.com/photo/4471312/"
   },
   "symboler/regnbue.jpg": {
-    "fotograf": "Tobias Bjørkli",
-    "bilde_url": "https://www.pexels.com/photo/4976405/"
+    "fotograf": "Pixabay",
+    "bilde_url": "https://www.pexels.com/photo/rainbow-after-sunset-237250/"
   },
   "symboler/tre.jpg": {
     "fotograf": "David Bartus",
@@ -790,8 +790,8 @@
     "bilde_url": "https://www.pexels.com/photo/36183645/"
   },
   "symboler/sykkel.jpg": {
-    "fotograf": "Elīna Arāja",
-    "bilde_url": "https://www.pexels.com/photo/4148330/"
+    "fotograf": "Min An",
+    "bilde_url": "https://www.pexels.com/photo/person-riding-a-bicycle-cycling-on-road-720360/"
   },
   "symboler/ulykke.jpg": {
     "fotograf": "cottonbro studio",
@@ -858,8 +858,8 @@
     "bilde_url": "https://www.pexels.com/photo/3722624/"
   },
   "symboler/laks.jpg": {
-    "fotograf": "Nextvoyage",
-    "bilde_url": "https://www.pexels.com/photo/730659/"
+    "fotograf": "Héctor Berganza",
+    "bilde_url": "https://www.pexels.com/photo/dynamic-salmon-jumping-over-a-waterfall-34079755/"
   },
   "symboler/nisse.jpg": {
     "fotograf": "Susanne Jutzeler, suju-foto",
@@ -870,8 +870,8 @@
     "bilde_url": "https://www.pexels.com/photo/4001926/"
   },
   "symboler/snoskred.jpg": {
-    "fotograf": "Gaetan THURIN",
-    "bilde_url": "https://www.pexels.com/photo/36107888/"
+    "fotograf": "Bernard Bertrand",
+    "bilde_url": "https://www.pexels.com/photo/snow-falling-down-the-mountain-in-an-avalanche-10804398/"
   },
   "symboler/stavkirke.jpg": {
     "fotograf": "David Taljat",
@@ -1236,5 +1236,53 @@
   "symboler/delfin.jpg": {
     "fotograf": "Jan van der Wolf",
     "bilde_url": "https://www.pexels.com/photo/dolphins-jumping-over-water-16194659/"
+  },
+  "symboler/eksen.jpg": {
+    "fotograf": "MART PRODUCTION",
+    "bilde_url": "https://www.pexels.com/photo/a-person-holding-a-smartphone-7277902/"
+  },
+  "symboler/har.jpg": {
+    "fotograf": "Nikolai Ulltang",
+    "bilde_url": "https://www.pexels.com/photo/women-s-brown-top-285284/"
+  },
+  "symboler/fingre.jpg": {
+    "fotograf": "Alejandro Diaz Osorio",
+    "bilde_url": "https://www.pexels.com/photo/humand-hand-in-close-up-view-17589296/"
+  },
+  "symboler/helvete.jpg": {
+    "fotograf": "ClickerHappy",
+    "bilde_url": "https://www.pexels.com/photo/flame-wallpaper-9270/"
+  },
+  "symboler/speil.jpg": {
+    "fotograf": "Ismael Sánchez",
+    "bilde_url": "https://www.pexels.com/photo/reflection-of-woman-s-eye-on-broken-mirror-2282000/"
+  },
+  "symboler/utlandet.jpg": {
+    "fotograf": "Vlada Karpovich",
+    "bilde_url": "https://www.pexels.com/photo/black-and-green-luggage-bag-on-brown-carpet-7368191/"
+  },
+  "symboler/veps.jpg": {
+    "fotograf": "David Hablützel",
+    "bilde_url": "https://www.pexels.com/photo/macro-photography-of-bee-1061638/"
+  },
+  "symboler/ore.jpg": {
+    "fotograf": "Kindel Media",
+    "bilde_url": "https://www.pexels.com/photo/man-s-ear-in-close-up-photography-7298464/"
+  },
+  "symboler/forfulgt.jpg": {
+    "fotograf": "Michael Foster",
+    "bilde_url": "https://www.pexels.com/photo/person-running-in-the-hallway-796545/"
+  },
+  "symboler/oyne.jpg": {
+    "fotograf": "Victor Freitas",
+    "bilde_url": "https://www.pexels.com/photo/person-eye-865711/"
+  },
+  "symboler/drepe.jpg": {
+    "fotograf": "Rodolpho Zanardo",
+    "bilde_url": "https://www.pexels.com/photo/grayscale-photo-of-person-wearing-mask-5432951/"
+  },
+  "symboler/falle.jpg": {
+    "fotograf": "eberhard grossgasteiger",
+    "bilde_url": "https://www.pexels.com/photo/down-angle-photography-of-red-clouds-and-blue-sky-844297/"
   }
 }
