@@ -8,7 +8,7 @@ relaterte:
   - skole
   - eksamen
 tolkninger_kort:
-  - "Identitet og selvverd — jobben er for mange det primære stedet vi definerer oss selv"
+  - "Identitet og selvverd — jobben er det primære stedet mange definerer seg"
   - "Prestasjonskrav og frykt for å mislykkes med noe du er ansvarlig for"
   - "Grenser mellom arbeid og privatliv — psyken klarer ikke å koble fra"
 bilde: /bilder/symboler/jobbe-drom.jpg

@@ -1,7 +1,7 @@
 ---
 tittel: "Hva er drømmer? Det vitenskapen faktisk sier"
 slug: hva-er-drommer
-kortbeskrivelse: "Hva skjer egentlig når vi drømmer? Utforsk søvnfaser, REM-søvn, Freud og Jung, og hva moderne nevrovitenskap sier om drømmenes funksjon."
+kortbeskrivelse: "Hva skjer egentlig når vi drømmer? Utforsk søvnfaser, REM-søvn, Freud og Jung — og hva moderne nevrovitenskap sier om drømmenes viktige funksjon."
 leseminutter: 8
 dato: 2026-03-18
 oppdatert: 2026-03-18

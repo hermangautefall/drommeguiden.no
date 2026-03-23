@@ -8,9 +8,9 @@ relaterte:
   - ulykke
   - forfulgt
 tolkninger_kort:
-  - "Tap av kontroll over livets retning og tempo — noe bærer av gårde uten at du kan stoppe"
+  - "Tap av kontroll over livets retning — noe bærer av gårde uten at du kan stoppe"
   - "Et liv i for høyt gir — for mye fart, for lite mulighet til å endre kurs"
-  - "Angst for konsekvensene av noe som allerede er satt i bevegelse og ikke kan stoppes"
+  - "Angst for konsekvenser av noe som er satt i bevegelse og ikke kan stoppes"
 bilde: /bilder/symboler/bil-uten-brems.jpg
 dato: 2026-03-18
 ---

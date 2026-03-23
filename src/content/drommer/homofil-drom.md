@@ -10,7 +10,7 @@ relaterte:
 tolkninger_kort:
   - "Selvaksept og forening med sider av deg selv du kanskje holder på avstand"
   - "Jungs anima eller animus — det andre kjønnets egenskaper møtes i deg"
-  - "Et ønske om nærere emosjonell kontakt med eget kjønn — ikke nødvendigvis seksuelt"
+  - "Ønske om nærere emosjonell kontakt med eget kjønn — ikke nødvendigvis seksuelt"
 bilde: /bilder/symboler/homofil-drom.jpg
 dato: 2026-03-18
 ---

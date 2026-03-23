@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om gjenstander — tolkninger og symboler"
 slug: gjenstander
-kortbeskrivelse: "Gjenstander i drømmer som speil, biler og hus kan avsløre mye om selvbilde og livssituasjon. Utforsk symbolikken bak."
+kortbeskrivelse: "Har du drømt om gjenstander? Speil, biler og hus i drømmene kan avsløre mye om selvbilde og livssituasjon. Utforsk symbolikken bak drømmene."
 ikonfil: "gjenstander.svg"
 emoji: "🔮"
 antall_symboler: 19

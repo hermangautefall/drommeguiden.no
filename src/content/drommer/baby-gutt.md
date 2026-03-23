@@ -8,7 +8,7 @@ relaterte:
   - tvillinger
   - gravid
 tolkninger_kort:
-  - "Et guttebarn speiler maskulin, handlingsorientert ny energi — noe aktivt og utovervendt"
+  - "Et guttebarn speiler maskulin ny energi — noe aktivt og utovervendt i deg"
   - "Et jentebarn speiler feminin, intuitiv ny energi — noe innadvendt og skapende"
   - "Barnets kjønn forteller hvilken side av deg selv som er i ferd med å vokse frem"
 bilde: /bilder/symboler/baby-gutt.jpg

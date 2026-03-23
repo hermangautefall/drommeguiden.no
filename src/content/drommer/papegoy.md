@@ -2,7 +2,7 @@
 tittel: "Drømmer om papegøye — hva betyr det?"
 slug: papegoy
 kategori: dyr
-kortbeskrivelse: "Har du drømt om papegøye? Papegøyen i drømmer handler om kommunikasjon, imitasjon og om vi snakker med egen stemme. Les tolkningene her."
+kortbeskrivelse: "Har du drømt om papegøye? Papegøyen i drømmer handler om kommunikasjon, imitasjon og det å finne din egen stemme. Les tolkningene her."
 relaterte:
   - krage
   - speil

@@ -8,9 +8,9 @@ relaterte:
   - kjaerlighet
   - blomst
 tolkninger_kort:
-  - "Et glimt av hva som virkelig gir deg glede — psyken viser deg hva du egentlig trenger"
-  - "Kompensasjon for en periode med lite glede — psyken balanserer det emosjonelle regnskapet"
-  - "En påminnelse om at kapasitet for lykke er i deg — tilgjengelig, om du finner veien"
+  - "Et glimt av hva som virkelig gir deg glede — psyken viser hva du trenger"
+  - "Kompensasjon for lite glede — psyken balanserer det emosjonelle regnskapet"
+  - "Kapasiteten for lykke er i deg — tilgjengelig, om du finner veien til den"
 bilde: /bilder/symboler/lykke.jpg
 dato: 2026-03-18
 ---

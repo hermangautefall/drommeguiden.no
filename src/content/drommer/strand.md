@@ -45,7 +45,7 @@ Indre ro, hvile og en positiv overgang. Du er klar for noe nytt.
 **Hvis havet var urolig mens du sto på land:**
 Følelsesmessig uro du observerer men ikke er midt oppe i — en viss avstand til noe intenst.
 
-**Hvis du gikk ut i [vannet](/drommer/vann):**
+**Hvis du gikk ut i [vannet](/drommer/hav):**
 Du beveger deg mot det ubevisste, mot følelsene, mot noe ukjent. Mot eller mot noe.
 
 **Hvis stranden var tom og øde:**

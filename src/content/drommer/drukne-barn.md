@@ -10,7 +10,7 @@ relaterte:
 tolkninger_kort:
   - "Frykt for å miste noe sårbart og kjært som du er ansvarlig for"
   - "Det symbolske barnet representerer en sårbar side av deg selv som overveldes"
-  - "En foreldre sin dypeste angst — hjernen prosesserer det verste scenarioet for å beskytte"
+  - "En forelders dypeste angst — hjernen prosesserer det verste for å beskytte"
 bilde: /bilder/symboler/drukne-barn.jpg
 dato: 2026-03-18
 ---

@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om dyr — tolkninger og symboler"
 slug: dyr
-kortbeskrivelse: "Dyr i drømmer representerer ofte instinkter, følelser og ubevisste krefter. Utforsk hva det betyr å drømme om ulike dyr."
+kortbeskrivelse: "Har du drømt om dyr? Dyr i drømmer representerer ofte instinkter, følelser og ubevisste krefter. Utforsk hva det betyr å drømme om ulike dyr."
 ikonfil: "dyr.svg"
 emoji: "🐾"
 antall_symboler: 35

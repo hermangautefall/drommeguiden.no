@@ -9,7 +9,7 @@ relaterte:
   - bok
 tolkninger_kort:
   - "Forbundethet og tilgang til det kollektive — et nettverk av kunnskap og kontakt"
-  - "Informasjonsoverbelastning og behovet for å filtrere — hva tar du inn, og hva slipper du ut?"
+  - "Informasjonsoverbelastning — behovet for å filtrere hva du tar inn"
   - "Digital identitet og spørsmålet om hvem du er online kontra offline"
 bilde: /bilder/symboler/internett.jpg
 dato: 2026-03-18

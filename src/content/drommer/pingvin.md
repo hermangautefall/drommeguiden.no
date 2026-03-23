@@ -2,7 +2,7 @@
 tittel: "Drømmer om pingvin — hva betyr det?"
 slug: pingvin
 kategori: dyr
-kortbeskrivelse: "Har du drømt om pingvin? Pingvinen i drømmer symboliserer tilpasningsevne, lojalitet og utholdenhet. Utforsk de vanligste tolkningene her."
+kortbeskrivelse: "Har du drømt om pingvin? Pingvinen i drømmer symboliserer tilpasningsevne, lojalitet og utholdenhet i vanskelige tider. Les tolkningene her."
 relaterte:
   - hav
   - storm

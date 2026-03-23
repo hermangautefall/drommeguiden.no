@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om det åndelige — tolkninger og symboler"
 slug: aandelig
-kortbeskrivelse: "Åndelige drømmer om himmel, helvete, engler og kirke berører livets store spørsmål. Utforsk hva disse symbolene kan bety."
+kortbeskrivelse: "Har du drømt om himmel, helvete, engler eller Gud? Åndelige drømmer berører de store spørsmålene i livet. Utforsk hva disse symbolene kan bety for deg."
 ikonfil: "aandelig.svg"
 emoji: "✨"
 antall_symboler: 17

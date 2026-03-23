@@ -8,7 +8,7 @@ relaterte:
   - helvete
   - morkt-rom
 tolkninger_kort:
-  - "Skyggen i sin tydeligste form — det du fortrenger, frykter og ikke vil vedkjenne deg"
+  - "Skyggen i sin tydeligste form — det du fortrenger og ikke vil vedkjenne deg"
   - "Det fortrengte og avspalte i psyken som krever integrasjon, ikke fornektelse"
   - "Fristelse og det som trekker deg bort fra det du vet er riktig for deg"
 bilde: /bilder/symboler/djevel.jpg

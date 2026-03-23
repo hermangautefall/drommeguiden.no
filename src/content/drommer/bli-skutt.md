@@ -8,7 +8,7 @@ relaterte:
   - forfulgt
   - drepe
 tolkninger_kort:
-  - "Et plutselig og uventet angrep på noe du holder kjært — en svik, en krise, et tap"
+  - "Et plutselig angrep på noe du holder kjært — svik, krise eller tap"
   - "En livssituasjon der du føler deg rammet av noe du ikke hadde forberedt deg på"
   - "Smerte og sårbarhet — noe har nådd gjennom forsvarene dine"
 bilde: /bilder/symboler/bli-skutt.jpg

@@ -9,7 +9,7 @@ relaterte:
   - elv
 tolkninger_kort:
   - "Glede, lekfullhet og evnen til å nærme seg det dype med letthet"
-  - "Intelligens og sosialitet — evnen til å navigere komplekse relasjoner med eleganse"
+  - "Intelligens og sosialitet — evnen til å navigere relasjoner med eleganse"
   - "Bro mellom det bevisste og det ubevisste — delfinen svømmer i begge verdener"
 bilde: /bilder/symboler/delfin.jpg
 dato: 2026-03-18

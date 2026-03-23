@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om mennesker — tolkninger og symboler"
 slug: mennesker
-kortbeskrivelse: "Mennesker i drømmer representerer ofte relasjoner, sider av deg selv eller ubevisste ønsker. Utforsk hva disse drømmene betyr."
+kortbeskrivelse: "Har du drømt om mennesker? Personer i drømmer representerer ofte relasjoner, sider av deg selv eller ubevisste ønsker. Utforsk hva det betyr."
 ikonfil: "mennesker.svg"
 emoji: "👤"
 antall_symboler: 23

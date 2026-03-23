@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om kroppen — tolkninger og symboler"
 slug: kropp
-kortbeskrivelse: "Kroppsdrømmer handler ofte om selvbilde, sårbarhet og fysisk bevissthet. Utforsk hva det betyr å drømme om tenner, blod og mer."
+kortbeskrivelse: "Har du drømt om kroppen din? Kroppsdrømmer handler ofte om selvbilde, sårbarhet og fysisk bevissthet. Utforsk hva drømmene kan fortelle deg."
 ikonfil: "kropp.svg"
 emoji: "🫀"
 antall_symboler: 25

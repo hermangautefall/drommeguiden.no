@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om vann — tolkninger og symboler"
 slug: vann
-kortbeskrivelse: "Vann i drømmer symboliserer ofte følelser, det ubevisste og livets strømninger. Utforsk hva ulike vanndrømmer kan bety."
+kortbeskrivelse: "Har du drømt om vann? Vann i drømmer symboliserer ofte følelser, det ubevisste og livets strømninger. Utforsk hva ulike vanndrømmer kan bety."
 ikonfil: "vann.svg"
 emoji: "🌊"
 antall_symboler: 2

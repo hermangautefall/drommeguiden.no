@@ -9,7 +9,7 @@ relaterte:
   - miste-noe
 tolkninger_kort:
   - "Et dypt behov for forbundethet og ekte kontakt som ikke er oppfylt"
-  - "Isolasjon fra sider av deg selv — en del av deg er avskåret og mangler tilknytning"
+  - "Isolasjon fra sider av deg selv — en del av deg er avskåret fra tilknytning"
   - "En periode med for lite meningsfull nærhet — psyken signaliserer hva som mangler"
 bilde: /bilder/symboler/ensomhet.jpg
 dato: 2026-03-18

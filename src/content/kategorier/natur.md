@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om naturfenomener — tolkninger og symboler"
 slug: natur
-kortbeskrivelse: "Naturfenomener i drømmer som storm, brann og regn speiler ofte kraftige følelser. Utforsk hva disse symbolene kan bety."
+kortbeskrivelse: "Har du drømt om naturen? Storm, brann, regn og fjell i drømmene speiler ofte kraftige følelser og indre prosesser. Utforsk hva symbolene betyr."
 ikonfil: "natur.svg"
 emoji: "🌿"
 antall_symboler: 27

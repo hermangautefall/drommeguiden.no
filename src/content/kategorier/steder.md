@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om steder — tolkninger og symboler"
 slug: steder
-kortbeskrivelse: "Steder i drømmer representerer ofte ulike sider av deg selv og livet ditt. Utforsk hva det betyr å drømme om hus, skog og mer."
+kortbeskrivelse: "Har du drømt om et bestemt sted? Steder i drømmer representerer ofte ulike sider av deg selv og livet ditt. Utforsk hva drømmene dine betyr."
 ikonfil: "steder.svg"
 emoji: "🏠"
 antall_symboler: 23

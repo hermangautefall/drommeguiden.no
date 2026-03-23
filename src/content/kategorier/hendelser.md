@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om hendelser — tolkninger og symboler"
 slug: hendelser
-kortbeskrivelse: "Hendelser i drømmer som å falle, fly eller drukne speiler ofte indre prosesser. Utforsk hva disse opplevelsene kan bety."
+kortbeskrivelse: "Har du drømt om å falle, fly eller drukne? Hendelser i drømmer speiler ofte indre prosesser og sterke følelser. Utforsk hva opplevelsene betyr."
 ikonfil: "hendelser.svg"
 emoji: "⚡"
 antall_symboler: 43

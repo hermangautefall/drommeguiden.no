@@ -2,7 +2,7 @@
 tittel: "Drømmer om tiger — hva betyr det?"
 slug: tiger
 kategori: dyr
-kortbeskrivelse: "Har du drømt om tiger? Tigeren i drømmer er et kraftig symbol på rå energi, lidenskap og instinkter. Utforsk de vanligste tolkningene her."
+kortbeskrivelse: "Har du drømt om tiger? Tigeren i drømmer er et kraftig symbol på rå energi, lidenskap og dype instinkter. Utforsk hva drømmen kan bety her."
 relaterte:
   - love
   - bjorn

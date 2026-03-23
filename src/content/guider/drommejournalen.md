@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmejournalen — slik husker du drømmene dine"
 slug: drommejournalen
-kortbeskrivelse: "Lær hvordan en drømmejournal kan hjelpe deg å huske drømmene dine, oppdage mønstre og forstå deg selv bedre. Praktiske tips og teknikker."
+kortbeskrivelse: "Lær hvordan en drømmejournal kan hjelpe deg å huske drømmene dine, oppdage mønstre og forstå deg selv bedre. Praktiske tips og teknikker inkludert."
 leseminutter: 6
 dato: 2026-03-18
 oppdatert: 2026-03-18

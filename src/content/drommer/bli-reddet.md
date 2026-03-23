@@ -8,8 +8,8 @@ relaterte:
   - forfulgt
   - drukne
 tolkninger_kort:
-  - "Et behov for hjelp, støtte og omsorg som ikke fullt ut er erkjent i det våkne livet"
-  - "Redningspersonen representerer en ressurs i deg selv — styrke, visdom eller en kvalitet du trenger"
+  - "Et behov for hjelp og omsorg som ikke fullt ut er erkjent i våken tilstand"
+  - "Redningspersonen speiler en ressurs i deg selv — styrke eller visdom du trenger"
   - "Å gi slipp på kontroll og akseptere at man ikke klarer alt alene"
 bilde: /bilder/symboler/bli-reddet.jpg
 dato: 2026-03-18

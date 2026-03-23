@@ -8,9 +8,9 @@ relaterte:
   - vinne
   - gull
 tolkninger_kort:
-  - "Lengsel etter frihet og muligheter — penger i drømmene representerer hva de muliggjør"
+  - "Lengsel etter frihet og muligheter — penger i drøm representerer muligheter"
   - "Et behov for trygghet og det å ikke måtte bekymre seg for det grunnleggende"
-  - "En uventet ressurs er på vei — noe uventet godt er i ferd med å komme inn i livet"
+  - "En uventet ressurs er på vei — noe godt er i ferd med å komme inn i livet"
 bilde: /bilder/symboler/vinne-penger.jpg
 dato: 2026-03-18
 ---
