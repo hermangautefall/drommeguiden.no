@@ -302,13 +302,15 @@ const kategorierMedAntall = kategorier.map(kat => ({
         }
 
         resultaterDiv.innerHTML = treff
-          .map(
-            (s) =>
-              `<a href="/drommer/${s.slug}" class="search-result-item">
-                <span class="search-result-title">${s.tittel.replace(/ — hva betyr det\?/, '')}</span>
-                <span class="search-result-desc">${s.kortbeskrivelse.slice(0, 80)}…</span>
-              </a>`
-          )
+          .map((s) => {
+            const href = '/drommer/' + s.slug + '/';
+            const tittelKort = s.tittel.replace(/ — hva betyr det\?/, '');
+            const beskKort = s.kortbeskrivelse.slice(0, 80);
+            return '<a href="' + href + '" class="search-result-item">'
+              + '<span class="search-result-title">' + tittelKort + '</span>'
+              + '<span class="search-result-desc">' + beskKort + '…</span>'
+              + '</a>';
+          })
           .join('');
         resultaterDiv.classList.remove('hidden');
       });

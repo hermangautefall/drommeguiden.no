@@ -1,8 +1,8 @@
 ---
-tittel: "Drømmer om katt — hva betyr det?"
+tittel: "Drømmer om katt – 5 vanlige tolkninger og hva det betyr (2026)"
 slug: katt
 kategori: dyr
-kortbeskrivelse: "Har du drømt om katt? Katter i drømmer symboliserer ofte uavhengighet, intuisjon og det feminine. Utforsk de vanligste tolkningene og hva det betyr."
+kortbeskrivelse: "Drømt om katt? Katter symboliserer uavhengighet, intuisjon og det ukjente – men svart katt betyr noe annet. Les de 5 vanligste tolkningene og hva drømmen din betyr."
 relaterte:
   - hund
   - edderkopp

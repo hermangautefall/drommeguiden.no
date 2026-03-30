@@ -1,8 +1,8 @@
 ---
-tittel: "Drømmer om bil — hva betyr det?"
+tittel: "Drømmer om bil – hva betyr det? 4 tolkninger (2026)"
 slug: bil
 kategori: hendelser
-kortbeskrivelse: "Har du drømt om bil? Bilen i drømmer handler ofte om retning i livet og følelsen av kontroll. Utforsk de vanligste tolkningene og hva drømmen betyr."
+kortbeskrivelse: "Drømt om bil? Bilen i drømmen handler om retning, kontroll og valg i livet – ikke trafikk. Les de 4 vanligste tolkningene og finn ut hva drømmen din egentlig betyr."
 relaterte:
   - falle
   - hest

@@ -16,7 +16,7 @@ const { tittel, kortbeskrivelse, slug, leseminutter, dato, bilde } = Astro.props
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 ---
 
-<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/guider/${slug}`}>
+<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/guider/${slug}/`}>
   <article class="guide-article">
     <!-- Breadcrumb -->
     <nav class="guide-breadcrumb" aria-label="Brødsmuler">
