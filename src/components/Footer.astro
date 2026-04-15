@@ -1,89 +1,64 @@
 ---
-// Dreamy footer with gradient and subtle stars
+// Simplified footer — clean, airy, fewer columns
 ---
 
 <footer class="site-footer">
-  <!-- Subtle top gradient transition -->
-  <div class="footer-fade"></div>
-
   <div class="footer-inner">
-    <!-- Top: 4-column grid -->
-    <div class="footer-grid">
-      <!-- Brand column -->
+    <!-- Top section: brand + nav -->
+    <div class="footer-top">
+      <!-- Brand -->
       <div class="footer-brand">
         <a href="/" class="footer-logo">
-          <span class="footer-moon">🌙</span> Drømmeguiden
+          <span class="footer-moon" aria-hidden="true">🌙</span> Drømmeguiden
         </a>
         <p class="footer-tagline">
-          Norges mest komplette guide til drømmesymboler og drømmetolkning. Vi hjelper deg å forstå hva drømmene dine kan bety.
+          Norges mest komplette guide til drømmesymboler og drømmetolkning.
         </p>
       </div>
 
-      <!-- Navigation -->
-      <div class="footer-col">
-        <h3 class="footer-col-title">Utforsk</h3>
-        <ul class="footer-links">
-          <li><a href="/drommer">Alle symboler</a></li>
-          <li><a href="/kategori">Kategorier</a></li>
-          <li><a href="/kategori/aandelig">Åndelige drømmer</a></li>
-          <li><a href="/guider">Guider</a></li>
-        </ul>
-      </div>
+      <!-- Navigation columns -->
+      <div class="footer-columns">
+        <div class="footer-col">
+          <h3 class="footer-col-title">Utforsk</h3>
+          <ul class="footer-links">
+            <li><a href="/drommer/">Alle symboler</a></li>
+            <li><a href="/kategori/">Kategorier</a></li>
+            <li><a href="/guider/">Guider</a></li>
+            <li><a href="/sovn/">Søvn</a></li>
+          </ul>
+        </div>
 
-      <!-- Popular -->
-      <div class="footer-col">
-        <h3 class="footer-col-title">Populære symboler</h3>
-        <ul class="footer-links">
-          <li><a href="/drommer/slange">Slange</a></li>
-          <li><a href="/drommer/hav">Hav</a></li>
-          <li><a href="/drommer/eksen">Eksen</a></li>
-          <li><a href="/drommer/tann">Tann</a></li>
-          <li><a href="/drommer/flyging">Flyging</a></li>
-          <li><a href="/drommer/brann">Brann</a></li>
-        </ul>
-      </div>
+        <div class="footer-col">
+          <h3 class="footer-col-title">Populært</h3>
+          <ul class="footer-links">
+            <li><a href="/drommer/slange/">Slange</a></li>
+            <li><a href="/drommer/hav/">Hav</a></li>
+            <li><a href="/drommer/eksen/">Eksen</a></li>
+            <li><a href="/drommer/flyging/">Flyging</a></li>
+          </ul>
+        </div>
 
-      <!-- Søvn -->
-      <div class="footer-col">
-        <h3 class="footer-col-title">Søvn</h3>
-        <ul class="footer-links">
-          <li><a href="/sovn">Alle artikler</a></li>
-          <li><a href="/sovn/hva-er-sovn">Hva er søvn?</a></li>
-          <li><a href="/sovn/sovnfaser">Søvnfaser</a></li>
-          <li><a href="/sovn/sovnproblemer">Søvnproblemer</a></li>
-          <li><a href="/sovn/sovnhygiene">Søvnhygiene</a></li>
-          <li><a href="/sovn/melatonin">Melatonin</a></li>
-          <li><a href="/sovn/angst-sovn">Angst og søvn</a></li>
-          <li><a href="/sovn/sovn-graviditet">Søvn i graviditet</a></li>
-          <li><a href="/sovn/vektet-teppe">Vektet teppe</a></li>
-        </ul>
-      </div>
-
-      <!-- Info -->
-      <div class="footer-col">
-        <h3 class="footer-col-title">Info</h3>
-        <ul class="footer-links">
-          <li><a href="/om-oss">Om oss</a></li>
-          <li><a href="/kontakt">Kontakt</a></li>
-          <li><a href="/personvern">Personvern</a></li>
-          <li><a href="/cookies">Cookies</a></li>
-        </ul>
+        <div class="footer-col">
+          <h3 class="footer-col-title">Info</h3>
+          <ul class="footer-links">
+            <li><a href="/om-oss/">Om oss</a></li>
+            <li><a href="/kontakt/">Kontakt</a></li>
+            <li><a href="/personvern/">Personvern</a></li>
+            <li><a href="/cookies/">Cookies</a></li>
+          </ul>
+        </div>
       </div>
     </div>
 
-    <!-- Divider with glow -->
+    <!-- Divider -->
     <div class="footer-divider"></div>
 
     <!-- Bottom bar -->
     <div class="footer-bottom">
-      <p>&copy; {new Date().getFullYear()} Drømmeguiden. Alle rettigheter reservert.</p>
+      <p>&copy; {new Date().getFullYear()} Drømmeguiden</p>
       <p class="footer-credit">Bilder fra <a href="https://www.pexels.com" target="_blank" rel="noopener">Pexels</a></p>
     </div>
   </div>
-
-  <!-- Decorative floating orbs -->
-  <div class="footer-orb footer-orb-1" aria-hidden="true"></div>
-  <div class="footer-orb footer-orb-2" aria-hidden="true"></div>
 </footer>
 
 <style>
@@ -91,85 +66,84 @@
     margin-top: auto;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(
-      180deg,
-      #0f1328 0%,
-      #0c0f22 60%,
-      #080a18 100%
-    );
-  }
-
-  /* Smooth transition from page content */
-  .footer-fade {
-    position: absolute;
-    top: -40px;
-    left: 0;
-    right: 0;
-    height: 40px;
-    background: linear-gradient(to bottom, transparent, #0f1328);
-    pointer-events: none;
+    background: linear-gradient(180deg, #1a1f3a 0%, #0f1328 100%);
   }
 
   .footer-inner {
     position: relative;
     z-index: 2;
-    max-width: 1100px;
+    max-width: 1000px;
     margin: 0 auto;
-    padding: 56px 24px 32px;
+    padding: 64px 24px 32px;
   }
   @media (min-width: 768px) {
     .footer-inner {
-      padding: 72px 48px 40px;
+      padding: 80px 48px 40px;
     }
   }
 
-  .footer-grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 40px;
-    margin-bottom: 0;
+  .footer-top {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
   }
   @media (min-width: 768px) {
-    .footer-grid {
-      grid-template-columns: 1.5fr 1fr 1fr 1fr 1fr;
-      gap: 48px;
+    .footer-top {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 64px;
     }
   }
 
   /* Brand */
+  .footer-brand {
+    max-width: 320px;
+  }
   .footer-logo {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
+    gap: 10px;
     font-family: var(--font-heading);
-    font-size: 22px;
-    font-weight: 700;
+    font-size: 24px;
+    font-weight: 400;
     color: #f2ede6;
     text-decoration: none;
-    margin-bottom: 14px;
+    margin-bottom: 16px;
   }
   .footer-logo:hover {
     text-decoration: none;
     color: #f2ede6;
   }
   .footer-moon {
-    font-size: 20px;
+    font-size: 22px;
   }
 
   .footer-tagline {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.7;
-    color: rgba(242, 237, 230, 0.45);
-    max-width: 300px;
+    color: rgba(242, 237, 230, 0.4);
   }
 
   /* Columns */
+  .footer-columns {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+  }
+  @media (max-width: 480px) {
+    .footer-columns {
+      grid-template-columns: 1fr 1fr;
+      gap: 32px 24px;
+    }
+  }
+
   .footer-col-title {
     font-family: var(--font-nav);
-    font-size: 12px;
+    font-size: 11px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    color: var(--color-accent);
+    color: rgba(242, 237, 230, 0.3);
     margin-bottom: 16px;
     font-weight: 600;
   }
@@ -185,30 +159,29 @@
 
   .footer-links a {
     font-size: 14px;
-    color: rgba(242, 237, 230, 0.5);
+    color: rgba(242, 237, 230, 0.55);
     text-decoration: none;
-    transition: all 0.25s ease;
+    transition: color 0.2s ease;
   }
   .footer-links a:hover {
-    color: rgba(242, 237, 230, 0.9);
+    color: #f2ede6;
     text-decoration: none;
-    padding-left: 4px;
   }
 
   /* Divider */
   .footer-divider {
     height: 1px;
-    background: linear-gradient(90deg, transparent, rgba(123, 111, 160, 0.2), transparent);
-    margin: 40px 0 24px;
+    background: rgba(255, 255, 255, 0.06);
+    margin: 48px 0 24px;
   }
 
   /* Bottom */
   .footer-bottom {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 6px;
     font-size: 12px;
-    color: rgba(242, 237, 230, 0.3);
+    color: rgba(242, 237, 230, 0.25);
   }
   @media (min-width: 768px) {
     .footer-bottom {
@@ -219,34 +192,12 @@
   }
 
   .footer-credit a {
-    color: rgba(242, 237, 230, 0.45);
+    color: rgba(242, 237, 230, 0.35);
     text-decoration: none;
     transition: color 0.2s ease;
   }
   .footer-credit a:hover {
     color: #f2ede6;
     text-decoration: none;
-  }
-
-  /* Decorative orbs */
-  .footer-orb {
-    position: absolute;
-    border-radius: 50%;
-    pointer-events: none;
-    z-index: 1;
-  }
-  .footer-orb-1 {
-    width: 300px;
-    height: 300px;
-    bottom: -100px;
-    left: -100px;
-    background: radial-gradient(circle, rgba(123, 111, 160, 0.08) 0%, transparent 70%);
-  }
-  .footer-orb-2 {
-    width: 200px;
-    height: 200px;
-    top: 20px;
-    right: -60px;
-    background: radial-gradient(circle, rgba(192, 128, 112, 0.06) 0%, transparent 70%);
   }
 </style>

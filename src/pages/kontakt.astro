@@ -6,29 +6,64 @@ import Base from '../layouts/Base.astro';
   tittel="Kontakt oss"
   beskrivelse="Har du spørsmål, tilbakemeldinger eller forslag til nye drømmesymboler? Ta kontakt med Drømmeguiden."
 >
-  <article class="prose max-w-2xl">
-    <h1 class="text-3xl md:text-[2.5rem] font-bold mb-6" style="font-family: var(--font-heading);">
-      Kontakt oss
-    </h1>
+  <div class="static-page">
+    <span class="static-label">Kontakt</span>
+    <h1 class="static-title">Kontakt oss</h1>
 
-    <p>
-      Vi setter pris på å høre fra leserne våre! Enten du har et spørsmål om et drømmesymbol, ønsker å foreslå et nytt symbol vi bør dekke, eller bare vil dele en spennende drøm — vi leser alle meldinger.
-    </p>
+    <div class="prose">
+      <p>
+        Vi setter pris på å høre fra leserne våre! Enten du har et spørsmål om et drømmesymbol, ønsker å foreslå et nytt symbol vi bør dekke, eller bare vil dele en spennende drøm — vi leser alle meldinger.
+      </p>
 
-    <p>
-      Send oss en e-post:
-    </p>
+      <p>
+        Send oss en e-post:
+      </p>
 
-    <p class="text-xl font-semibold" style="color: var(--color-terrakotta);">
-      <a href="mailto:hei@drommeguiden.no">hei@drommeguiden.no</a>
-    </p>
+      <p class="kontakt-email">
+        <a href="mailto:hei@drommeguiden.no">hei@drommeguiden.no</a>
+      </p>
 
-    <p>
-      Vi prøver å svare innen et par virkedager. Merk gjerne emnefeltet med hva henvendelsen gjelder, så er det enklere for oss å hjelpe deg.
-    </p>
+      <p>
+        Vi prøver å svare innen et par virkedager. Merk gjerne emnefeltet med hva henvendelsen gjelder, så er det enklere for oss å hjelpe deg.
+      </p>
 
-    <p>
-      Drømmeguiden tilbyr ikke personlig drømmetolkning eller terapeutisk rådgivning. Hvis du opplever gjentakende mareritt eller søvnproblemer som påvirker hverdagen din, anbefaler vi å ta kontakt med fastlegen din.
-    </p>
-  </article>
+      <p>
+        Drømmeguiden tilbyr ikke personlig drømmetolkning eller terapeutisk rådgivning. Hvis du opplever gjentakende mareritt eller søvnproblemer som påvirker hverdagen din, anbefaler vi å ta kontakt med fastlegen din.
+      </p>
+    </div>
+  </div>
 </Base>
+
+<style>
+  .static-page {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 32px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+  .kontakt-email {
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .kontakt-email a {
+    color: var(--color-primary);
+  }
+</style>

@@ -6,48 +6,76 @@ import Base from '../layouts/Base.astro';
   tittel="Cookiepolicy"
   beskrivelse="Les Drømmeguidens cookiepolicy. Informasjon om hvilke informasjonskapsler vi bruker og hvordan du kan administrere dem."
 >
-  <article class="prose max-w-2xl">
-    <h1 class="text-3xl md:text-[2.5rem] font-bold mb-6" style="font-family: var(--font-heading);">
-      Cookiepolicy
-    </h1>
+  <div class="static-page">
+    <span class="static-label">Juridisk</span>
+    <h1 class="static-title">Cookiepolicy</h1>
 
-    <p><em>Sist oppdatert: 17. mars 2025</em></p>
+    <div class="prose">
+      <p><em>Sist oppdatert: 17. mars 2025</em></p>
 
-    <h2>Hva er informasjonskapsler?</h2>
-    <p>
-      Informasjonskapsler (cookies) er små tekstfiler som lagres på enheten din når du besøker en nettside. De brukes til å huske innstillinger, forbedre brukeropplevelsen og samle inn statistikk.
-    </p>
+      <h2>Hva er informasjonskapsler?</h2>
+      <p>
+        Informasjonskapsler (cookies) er små tekstfiler som lagres på enheten din når du besøker en nettside. De brukes til å huske innstillinger, forbedre brukeropplevelsen og samle inn statistikk.
+      </p>
 
-    <h2>Hvilke informasjonskapsler bruker vi?</h2>
+      <h2>Hvilke informasjonskapsler bruker vi?</h2>
 
-    <h3>Nødvendige informasjonskapsler</h3>
-    <p>
-      Disse er nødvendige for at nettstedet skal fungere korrekt. De kan ikke deaktiveres.
-    </p>
+      <h3>Nødvendige informasjonskapsler</h3>
+      <p>
+        Disse er nødvendige for at nettstedet skal fungere korrekt. De kan ikke deaktiveres.
+      </p>
 
-    <h3>Analytiske informasjonskapsler</h3>
-    <p>
-      Vi bruker Google Analytics for å forstå hvordan besøkende bruker nettstedet. Disse informasjonskapslene samler inn anonymisert informasjon om sidevisninger, besøkslengde og lignende. Dataene hjelper oss å forbedre innholdet og brukeropplevelsen.
-    </p>
+      <h3>Analytiske informasjonskapsler</h3>
+      <p>
+        Vi bruker Google Analytics for å forstå hvordan besøkende bruker nettstedet. Disse informasjonskapslene samler inn anonymisert informasjon om sidevisninger, besøkslengde og lignende. Dataene hjelper oss å forbedre innholdet og brukeropplevelsen.
+      </p>
 
-    <h3>Annonseinformasjonskapsler</h3>
-    <p>
-      Vi viser annonser via Ezoic/Mediavine. Disse tjenestene kan bruke informasjonskapsler for å vise relevante annonser basert på dine interesser og besøkshistorikk. Du kan administrere annonseinnstillingene dine via annonsørenes egne verktøy.
-    </p>
+      <h3>Annonseinformasjonskapsler</h3>
+      <p>
+        Vi viser annonser via Ezoic/Mediavine. Disse tjenestene kan bruke informasjonskapsler for å vise relevante annonser basert på dine interesser og besøkshistorikk. Du kan administrere annonseinnstillingene dine via annonsørenes egne verktøy.
+      </p>
 
-    <h2>Hvordan administrere informasjonskapsler</h2>
-    <p>
-      Du kan administrere og slette informasjonskapsler via nettleserens innstillinger. Merk at blokkering av visse informasjonskapsler kan påvirke funksjonaliteten på nettstedet.
-    </p>
-    <ul>
-      <li><strong>Chrome:</strong> Innstillinger &rarr; Personvern og sikkerhet &rarr; Informasjonskapsler</li>
-      <li><strong>Firefox:</strong> Innstillinger &rarr; Personvern og sikkerhet &rarr; Informasjonskapsler og nettstedsdata</li>
-      <li><strong>Safari:</strong> Innstillinger &rarr; Personvern &rarr; Administrer nettstedsdata</li>
-    </ul>
+      <h2>Hvordan administrere informasjonskapsler</h2>
+      <p>
+        Du kan administrere og slette informasjonskapsler via nettleserens innstillinger. Merk at blokkering av visse informasjonskapsler kan påvirke funksjonaliteten på nettstedet.
+      </p>
+      <ul>
+        <li><strong>Chrome:</strong> Innstillinger &rarr; Personvern og sikkerhet &rarr; Informasjonskapsler</li>
+        <li><strong>Firefox:</strong> Innstillinger &rarr; Personvern og sikkerhet &rarr; Informasjonskapsler og nettstedsdata</li>
+        <li><strong>Safari:</strong> Innstillinger &rarr; Personvern &rarr; Administrer nettstedsdata</li>
+      </ul>
 
-    <h2>Kontakt</h2>
-    <p>
-      Har du spørsmål om informasjonskapsler, kan du kontakte oss på <a href="mailto:hei@drommeguiden.no">hei@drommeguiden.no</a>.
-    </p>
-  </article>
+      <h2>Kontakt</h2>
+      <p>
+        Har du spørsmål om informasjonskapsler, kan du kontakte oss på <a href="mailto:hei@drommeguiden.no">hei@drommeguiden.no</a>.
+      </p>
+    </div>
+  </div>
 </Base>
+
+<style>
+  .static-page {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 32px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+</style>

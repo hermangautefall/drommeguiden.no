@@ -8,8 +8,7 @@ const { tolkninger } = Astro.props;
 
 <div class="tldr-box">
   <div class="tldr-header">
-    <span class="tldr-icon">✦</span>
-    <h2 class="tldr-title">Kort oppsummert</h2>
+    <span class="tldr-label">Kort oppsummert</span>
   </div>
   <ul class="tldr-list">
     {tolkninger.map((tolkning) => (
@@ -23,33 +22,36 @@ const { tolkninger } = Astro.props;
 
 <style>
   .tldr-box {
-    background: var(--color-bg-white);
-    border: 1px solid var(--color-primary-border);
-    border-left: 4px solid var(--color-primary);
-    border-radius: var(--border-radius-card);
+    background: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(123, 111, 160, 0.15);
+    border-radius: 16px;
     padding: 28px 28px 24px;
     margin-bottom: 40px;
-    box-shadow: var(--box-shadow-card);
+    position: relative;
+    overflow: hidden;
+  }
+  .tldr-box::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(180deg, var(--color-primary) 0%, var(--color-accent) 100%);
+    border-radius: 4px 0 0 4px;
   }
 
   .tldr-header {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    margin-bottom: 16px;
+    margin-bottom: 18px;
   }
 
-  .tldr-icon {
+  .tldr-label {
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
     color: var(--color-primary);
-    font-size: 14px;
-  }
-
-  .tldr-title {
-    font-family: var(--font-heading);
-    font-size: 22px;
-    color: var(--color-text-heading);
-    font-weight: 700;
-    margin: 0;
   }
 
   .tldr-list {
@@ -58,24 +60,24 @@ const { tolkninger } = Astro.props;
     margin: 0;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 14px;
   }
 
   .tldr-item {
     display: flex;
     align-items: flex-start;
-    gap: 12px;
+    gap: 14px;
     font-size: 15px;
-    line-height: 1.65;
+    line-height: 1.7;
     color: var(--color-text-body);
   }
 
   .tldr-bullet {
-    width: 8px;
-    height: 8px;
+    width: 6px;
+    height: 6px;
     border-radius: 50%;
     background: var(--color-accent);
     flex-shrink: 0;
-    margin-top: 8px;
+    margin-top: 10px;
   }
 </style>

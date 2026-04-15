@@ -1,51 +1,49 @@
 ---
-// Glass header — transparent with frosted blur
+// Glass header — light, frosted with subtle presence
 ---
 
 <header class="site-header">
-  <nav class="max-w-5xl mx-auto px-4 flex items-center justify-between" style="height: 72px;">
+  <nav class="header-nav">
     <!-- Logo -->
     <a href="/" class="header-logo hover:no-underline">
-      <span class="header-moon">🌙</span>
+      <span class="header-moon" aria-hidden="true">🌙</span>
       <span class="header-brand">Drømmeguiden</span>
     </a>
 
     <!-- Desktop navigation -->
-    <div class="hidden md:flex items-center gap-1">
-      <a href="/drommer" class="nav-link">Symboler</a>
-      <a href="/kategori" class="nav-link">Kategorier</a>
-      <a href="/guider" class="nav-link">Guider</a>
-      <a href="/sovn" class="nav-link">Søvn</a>
+    <div class="header-links">
+      <a href="/drommer/" class="nav-link">Symboler</a>
+      <a href="/kategori/" class="nav-link">Kategorier</a>
+      <a href="/guider/" class="nav-link">Guider</a>
+      <a href="/sovn/" class="nav-link">Søvn</a>
     </div>
 
     <!-- Desktop CTA -->
-    <a href="/drommer" class="hidden md:inline-flex items-center gap-1 start-btn hover:no-underline">
-      Utforsk <span aria-hidden="true">&rarr;</span>
+    <a href="/drommer/" class="header-cta hover:no-underline">
+      Utforsk symboler
     </a>
 
     <!-- Mobile hamburger button -->
     <button
       id="mobile-menu-btn"
       aria-label="Meny"
-      class="md:hidden hamburger-btn"
+      class="hamburger-btn"
     >
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <line x1="3" y1="7" x2="21" y2="7"></line>
         <line x1="3" y1="12" x2="21" y2="12"></line>
         <line x1="3" y1="17" x2="21" y2="17"></line>
       </svg>
     </button>
   </nav>
-
-
 </header>
 
-<!-- Mobile menu overlay — outside header to avoid sticky context issues -->
+<!-- Mobile menu overlay -->
 <div id="mobile-menu" class="mobile-menu-hidden md:hidden mobile-menu-panel">
-  <div class="flex items-center justify-between px-6" style="height: 72px;">
+  <div class="mobile-menu-top">
     <a href="/" class="header-logo hover:no-underline">
-      <span class="header-moon">🌙</span>
-      <span style="font-family: var(--font-heading); color: #f2ede6; font-size: 20px; font-weight: 700;">Drømmeguiden</span>
+      <span class="header-moon" aria-hidden="true">🌙</span>
+      <span style="font-family: var(--font-heading); color: #f2ede6; font-size: 22px; font-weight: 400;">Drømmeguiden</span>
     </a>
     <button id="mobile-close-btn" aria-label="Lukk meny" class="mobile-close">
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
@@ -55,14 +53,15 @@
     </button>
   </div>
   <div class="mobile-menu-links">
-    <a href="/drommer" class="mobile-nav-link">Symboler</a>
-    <a href="/kategori" class="mobile-nav-link">Kategorier</a>
-    <a href="/guider" class="mobile-nav-link">Guider</a>
-    <a href="/sovn" class="mobile-nav-link">Søvn</a>
+    <a href="/drommer/" class="mobile-nav-link">Symboler</a>
+    <a href="/kategori/" class="mobile-nav-link">Kategorier</a>
+    <a href="/guider/" class="mobile-nav-link">Guider</a>
+    <a href="/sovn/" class="mobile-nav-link">Søvn</a>
     <div class="mobile-divider"></div>
-    <a href="/om-oss" class="mobile-nav-link mobile-nav-link-small">Om oss</a>
-    <a href="/kontakt" class="mobile-nav-link mobile-nav-link-small">Kontakt</a>
+    <a href="/om-oss/" class="mobile-nav-link mobile-nav-link-small">Om oss</a>
+    <a href="/kontakt/" class="mobile-nav-link mobile-nav-link-small">Kontakt</a>
   </div>
+  <div class="mobile-menu-orb" aria-hidden="true"></div>
 </div>
 
 <style>
@@ -76,11 +75,21 @@
     border-bottom: 1px solid rgba(123, 111, 160, 0.08);
   }
 
+  .header-nav {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+  }
+
   /* Logo */
   .header-logo {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
+    gap: 10px;
     text-decoration: none;
   }
   .header-moon {
@@ -88,20 +97,32 @@
   }
   .header-brand {
     font-family: var(--font-heading);
-    font-size: 20px;
-    font-weight: 700;
+    font-size: 21px;
+    font-weight: 400;
     color: var(--color-text-heading);
+    letter-spacing: -0.3px;
   }
 
   /* Nav links */
+  .header-links {
+    display: none;
+    align-items: center;
+    gap: 2px;
+  }
+  @media (min-width: 768px) {
+    .header-links {
+      display: flex;
+    }
+  }
+
   .nav-link {
     font-family: var(--font-nav);
     font-size: 14px;
     font-weight: 500;
     color: var(--color-text-muted);
     text-decoration: none;
-    padding: 6px 14px;
-    border-radius: var(--border-radius-btn);
+    padding: 7px 16px;
+    border-radius: 8px;
     transition: all 0.2s ease;
   }
   .nav-link:hover {
@@ -111,45 +132,61 @@
   }
 
   /* CTA button */
-  .start-btn {
+  .header-cta {
+    display: none;
+    align-items: center;
     background: var(--color-text-heading);
     border-radius: var(--border-radius-pill);
     color: var(--color-bg-cream);
     font-family: var(--font-nav);
     font-weight: 600;
-    padding: 8px 20px;
+    padding: 8px 22px;
     font-size: 13px;
     letter-spacing: 0.3px;
-    transition: var(--transition);
+    transition: all 0.25s ease;
     border: none;
   }
-  .start-btn:hover {
+  @media (min-width: 768px) {
+    .header-cta {
+      display: inline-flex;
+    }
+  }
+  .header-cta:hover {
     background: var(--color-primary);
     color: var(--color-bg-cream);
     transform: translateY(-1px);
     box-shadow: 0 4px 12px rgba(123, 111, 160, 0.25);
+    text-decoration: none;
   }
 
   /* Hamburger */
   .hamburger-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: var(--color-text-heading);
-    padding: 6px;
+    padding: 8px;
     border-radius: 8px;
-    transition: background 0.2s ease;
+    transition: all 0.2s ease;
+  }
+  @media (min-width: 768px) {
+    .hamburger-btn {
+      display: none;
+    }
   }
   .hamburger-btn:hover {
     background: rgba(123, 111, 160, 0.07);
   }
-
 </style>
 
-<!-- Global styles for mobile menu (outside header, so scoped styles don't apply) -->
+<!-- Global styles for mobile menu -->
 <style is:global>
   .mobile-menu-panel {
     position: fixed;
     inset: 0;
     z-index: 50;
     background: linear-gradient(180deg, #1a1f3a 0%, #0f1328 100%);
+    overflow: hidden;
   }
 
   .mobile-menu-hidden {
@@ -162,9 +199,17 @@
     transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
   }
 
+  .mobile-menu-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+    height: 64px;
+  }
+
   .mobile-close {
-    color: rgba(242, 237, 230, 0.6);
-    padding: 6px;
+    color: rgba(242, 237, 230, 0.5);
+    padding: 8px;
     border-radius: 8px;
     transition: all 0.2s ease;
   }
@@ -176,37 +221,48 @@
   .mobile-menu-links {
     display: flex;
     flex-direction: column;
-    padding: 32px 24px;
+    padding: 40px 24px;
     gap: 4px;
   }
 
   .mobile-nav-link {
     font-family: var(--font-heading);
-    font-size: 26px;
-    font-weight: 600;
+    font-size: 32px;
+    font-weight: 400;
     color: #f2ede6;
     text-decoration: none;
     padding: 14px 16px;
-    border-radius: 10px;
+    border-radius: 12px;
     transition: all 0.2s ease;
   }
   .mobile-nav-link:hover {
     color: var(--color-accent);
-    background: rgba(255, 255, 255, 0.06);
+    background: rgba(255, 255, 255, 0.05);
     text-decoration: none;
   }
 
   .mobile-nav-link-small {
     font-family: var(--font-nav);
     font-size: 16px;
-    font-weight: 500;
-    color: rgba(242, 237, 230, 0.55);
+    font-weight: 400;
+    color: rgba(242, 237, 230, 0.45);
   }
 
   .mobile-divider {
     height: 1px;
     background: rgba(255, 255, 255, 0.06);
-    margin: 12px 16px;
+    margin: 16px 16px;
+  }
+
+  .mobile-menu-orb {
+    position: absolute;
+    bottom: -80px;
+    right: -60px;
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(123, 111, 160, 0.12) 0%, transparent 70%);
+    pointer-events: none;
   }
 </style>
 
@@ -231,7 +287,7 @@
   closeBtn?.addEventListener('click', closeMenu);
 
   mobileMenu?.addEventListener('click', (e) => {
-    if ((e.target as HTMLElement).closest('.mobile-menu-inner')) return;
+    if ((e.target as HTMLElement).closest('.mobile-menu-links, .mobile-menu-top')) return;
     closeMenu();
   });
 </script>

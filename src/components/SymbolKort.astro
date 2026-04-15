@@ -10,9 +10,11 @@ interface Props {
 const { tittel, slug, kortbeskrivelse, kategori, bilde } = Astro.props;
 ---
 
-<a href={`/drommer/${slug}`} class="symbolkort">
+<a href={`/drommer/${slug}/`} class="symbolkort">
   {bilde && (
-    <img src={bilde} alt={tittel} class="symbolkort-img" loading="lazy" />
+    <div class="symbolkort-img-wrap">
+      <img src={bilde} alt={tittel} class="symbolkort-img" loading="lazy" />
+    </div>
   )}
   <div class="symbolkort-body">
     <span class="symbolkort-kat">{kategori}</span>
@@ -26,34 +28,43 @@ const { tittel, slug, kortbeskrivelse, kategori, bilde } = Astro.props;
 <style>
   .symbolkort {
     display: block;
-    background: var(--color-bg-white);
-    border-radius: var(--border-radius-card);
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 16px;
     overflow: hidden;
     text-decoration: none;
-    box-shadow: var(--box-shadow-card);
-    transition: var(--transition);
+    border: 1px solid rgba(123, 111, 160, 0.08);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
   }
   .symbolkort:hover {
     transform: translateY(-4px);
-    box-shadow: var(--box-shadow-hover);
+    box-shadow: 0 8px 24px rgba(26, 31, 58, 0.08), 0 24px 48px rgba(26, 31, 58, 0.06);
     text-decoration: none;
+    border-color: rgba(123, 111, 160, 0.15);
+  }
+
+  .symbolkort-img-wrap {
+    overflow: hidden;
   }
 
   .symbolkort-img {
     width: 100%;
     aspect-ratio: 16/10;
     object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+  .symbolkort:hover .symbolkort-img {
+    transform: scale(1.03);
   }
 
   .symbolkort-body {
-    padding: 20px;
+    padding: 20px 22px;
   }
 
   .symbolkort-kat {
     display: inline-block;
     font-family: var(--font-nav);
     font-size: 11px;
-    letter-spacing: 1.5px;
+    letter-spacing: 1.2px;
     text-transform: uppercase;
     color: var(--color-primary);
     font-weight: 600;
@@ -65,7 +76,7 @@ const { tittel, slug, kortbeskrivelse, kategori, bilde } = Astro.props;
     font-size: 20px;
     color: var(--color-text-heading);
     margin-bottom: 8px;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 1.3;
   }
 

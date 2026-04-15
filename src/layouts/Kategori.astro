@@ -19,59 +19,78 @@ const emojiMap: Record<string, string> = {
   hendelser: '⚡', mennesker: '👤', natur: '🌿', gjenstander: '🔑',
 };
 const emoji = emojiMap[slug] || '✨';
+const displayTitle = tittel.replace('Drømmesymboler: ', '');
 ---
 
 <Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/kategori/${slug}/`}>
-  <!-- Category Hero -->
-  <div class="kategori-hero">
-    <nav class="kategori-breadcrumb" aria-label="Brødsmuler">
-      <a href="/">Hjem</a>
-      <span>›</span>
-      <a href="/kategori">Kategorier</a>
-      <span>›</span>
-      <span class="current">{tittel.replace('Drømmesymboler: ', '')}</span>
-    </nav>
-    <span class="kategori-emoji">{emoji}</span>
-    <h1 class="kategori-title">{tittel}</h1>
-    <p class="kategori-desc">{kortbeskrivelse}</p>
-    <p class="kategori-count">{symbolerIKategori.length} drømmesymboler i denne kategorien</p>
-  </div>
-
-  <article class="kategori-article">
-    <div class="prose kategori-prose">
-      <slot />
+  <div class="kategori-page">
+    <!-- Hero -->
+    <div class="kategori-hero">
+      <nav class="kategori-breadcrumb" aria-label="Brødsmuler">
+        <a href="/">Hjem</a>
+        <span aria-hidden="true">/</span>
+        <a href="/kategori/">Kategorier</a>
+        <span aria-hidden="true">/</span>
+        <span class="current">{displayTitle}</span>
+      </nav>
+      <span class="kategori-emoji" aria-hidden="true">{emoji}</span>
+      <h1 class="kategori-title">{tittel}</h1>
+      <p class="kategori-desc">{kortbeskrivelse}</p>
+      <p class="kategori-count">{symbolerIKategori.length} drømmesymboler</p>
     </div>
 
-    {symbolerIKategori.length > 0 && (
-      <section class="kategori-symbols">
-        <h2 class="kategori-symbols-title">Utforsk symbolene</h2>
-        <div class="kategori-grid">
-          {symbolerIKategori.map((d) => (
-            <SymbolKort
-              tittel={d.data.tittel}
-              slug={d.data.slug}
-              kortbeskrivelse={d.data.kortbeskrivelse}
-              kategori={d.data.kategori}
-              bilde={d.data.bilde}
-            />
-          ))}
-        </div>
-      </section>
-    )}
-  </article>
+    <!-- Wave transition -->
+    <div class="kategori-wave" aria-hidden="true">
+      <svg viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 60 C200 20 400 40 600 25 C800 10 1000 35 1200 15 L1200 0 L0 0Z" fill="var(--color-bg-cream)" opacity="0.5"/>
+        <path d="M0 60 C150 35 350 50 550 30 C750 10 950 45 1200 20 L1200 0 L0 0Z" fill="var(--color-bg-cream)"/>
+      </svg>
+    </div>
+
+    <article class="kategori-article">
+      <div class="prose kategori-prose">
+        <slot />
+      </div>
+
+      {symbolerIKategori.length > 0 && (
+        <section class="kategori-symbols">
+          <span class="kategori-symbols-label">Alle symboler</span>
+          <h2 class="kategori-symbols-title">Utforsk symbolene</h2>
+          <div class="kategori-grid">
+            {symbolerIKategori.map((d) => (
+              <SymbolKort
+                tittel={d.data.tittel}
+                slug={d.data.slug}
+                kortbeskrivelse={d.data.kortbeskrivelse}
+                kategori={d.data.kategori}
+                bilde={d.data.bilde}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+    </article>
+  </div>
 </Base>
 
 <style>
+  .kategori-page {
+    margin: -40px -16px 0;
+  }
+  @media (min-width: 768px) {
+    .kategori-page {
+      margin: -40px -24px 0;
+    }
+  }
+
   .kategori-hero {
-    background: linear-gradient(135deg, var(--color-bg-dark) 0%, #2d3566 60%, #3a4070 100%);
-    margin: -2rem -1rem 0;
-    padding: 48px 24px 56px;
+    background: linear-gradient(160deg, #0f1328 0%, #1a2340 40%, #0f2030 100%);
+    padding: 56px 24px 64px;
     text-align: center;
   }
   @media (min-width: 768px) {
     .kategori-hero {
-      margin: -2rem calc(-50vw + 50%) 0;
-      padding: 64px 48px 72px;
+      padding: 72px 48px 80px;
     }
   }
 
@@ -82,11 +101,11 @@ const emoji = emojiMap[slug] || '✨';
     gap: 6px;
     font-size: 13px;
     font-family: var(--font-nav);
-    margin-bottom: 24px;
-    color: rgba(242, 237, 230, 0.5);
+    margin-bottom: 28px;
+    color: rgba(242, 237, 230, 0.35);
   }
   .kategori-breadcrumb a {
-    color: rgba(242, 237, 230, 0.5);
+    color: rgba(242, 237, 230, 0.45);
     text-decoration: none;
   }
   .kategori-breadcrumb a:hover {
@@ -94,13 +113,12 @@ const emoji = emojiMap[slug] || '✨';
     text-decoration: none;
   }
   .kategori-breadcrumb .current {
-    color: rgba(242, 237, 230, 0.8);
-    font-weight: 600;
+    color: rgba(242, 237, 230, 0.7);
   }
 
   .kategori-emoji {
     display: block;
-    font-size: 56px;
+    font-size: 48px;
     margin-bottom: 16px;
   }
 
@@ -108,42 +126,70 @@ const emoji = emojiMap[slug] || '✨';
     font-family: var(--font-heading);
     font-size: 40px;
     color: #f2ede6;
-    margin-bottom: 12px;
-    font-weight: 700;
+    margin-bottom: 14px;
+    font-weight: 400;
   }
   @media (min-width: 768px) {
     .kategori-title {
-      font-size: 48px;
+      font-size: 52px;
     }
   }
 
   .kategori-desc {
     font-size: 16px;
-    color: rgba(242, 237, 230, 0.7);
+    color: rgba(242, 237, 230, 0.65);
     line-height: 1.7;
-    max-width: 560px;
+    max-width: 540px;
     margin: 0 auto 16px;
   }
 
   .kategori-count {
     font-family: var(--font-nav);
     font-size: 13px;
-    color: var(--color-accent);
+    color: rgba(242, 237, 230, 0.35);
     letter-spacing: 0.5px;
+  }
+
+  /* Wave transition */
+  .kategori-wave {
+    margin-top: -30px;
+    position: relative;
+    z-index: 3;
+  }
+  .kategori-wave svg {
+    display: block;
+    width: 100%;
+    height: 40px;
   }
 
   .kategori-article {
     max-width: 960px;
     margin: 0 auto;
-    padding-top: 48px;
+    padding: 32px 24px 0;
+  }
+  @media (min-width: 768px) {
+    .kategori-article {
+      padding: 48px 24px 0;
+    }
   }
 
   .kategori-prose {
-    margin-bottom: 48px;
+    margin-bottom: 56px;
   }
 
   .kategori-symbols {
     margin-bottom: 48px;
+  }
+
+  .kategori-symbols-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 8px;
   }
 
   .kategori-symbols-title {
@@ -151,7 +197,7 @@ const emoji = emojiMap[slug] || '✨';
     font-size: 32px;
     color: var(--color-text-heading);
     margin-bottom: 28px;
-    font-weight: 700;
+    font-weight: 400;
   }
 
   .kategori-grid {

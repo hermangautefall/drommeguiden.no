@@ -27,31 +27,129 @@ const kategorierMedAntall = kategorier.map(kat => ({
   tittel="Alle kategorier"
   beskrivelse="Utforsk drømmesymboler sortert etter kategori. Dyr, vann, kropp, steder, hendelser og mer."
 >
-  <h1 class="text-3xl md:text-[2.5rem] font-bold mb-2" style="font-family: var(--font-heading);">
-    Alle kategorier
-  </h1>
-  <p class="text-[var(--color-subtil)] mb-8">
-    Utforsk drømmesymboler sortert etter tema.
-  </p>
+  <div class="kategori-index">
+    <span class="kategori-label">Tematisk oversikt</span>
+    <h1 class="kategori-title">Alle kategorier</h1>
+    <p class="kategori-subtitle">
+      Utforsk drømmesymboler sortert etter tema.
+    </p>
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
-    {kategorierMedAntall.map((kat) => (
-      <a
-        href={`/kategori/${kat.data.slug}`}
-        class="flex items-center gap-5 rounded-xl p-6 hover:translate-y-[-2px] transition-transform"
-        style="background-color: var(--color-sand); box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
-      >
-        <span class="text-4xl shrink-0">{kat.emoji}</span>
-        <div>
-          <h2 class="text-xl font-semibold text-[var(--color-natt)]" style="font-family: var(--font-heading);">
-            {kat.data.tittel.replace(/ — tolkninger og symboler/, '')}
-          </h2>
-          <p class="text-sm text-[var(--color-tekst)] mt-1 line-clamp-2">
-            {kat.data.kortbeskrivelse}
-          </p>
-          <span class="text-xs text-[var(--color-subtil)] mt-2 inline-block">{kat.antall} symboler</span>
-        </div>
-      </a>
-    ))}
+    <div class="kategori-grid">
+      {kategorierMedAntall.map((kat) => (
+        <a href={`/kategori/${kat.data.slug}/`} class="kategori-card">
+          <span class="kategori-card-emoji" aria-hidden="true">{kat.emoji}</span>
+          <div class="kategori-card-body">
+            <h2 class="kategori-card-title">
+              {kat.data.tittel.replace(/ — tolkninger og symboler/, '')}
+            </h2>
+            <p class="kategori-card-desc">
+              {kat.data.kortbeskrivelse}
+            </p>
+            <span class="kategori-card-count">{kat.antall} symboler</span>
+          </div>
+        </a>
+      ))}
+    </div>
   </div>
 </Base>
+
+<style>
+  .kategori-index {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .kategori-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+
+  .kategori-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 10px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .kategori-title { font-size: 48px; }
+  }
+
+  .kategori-subtitle {
+    font-size: 16px;
+    color: var(--color-text-muted);
+    margin-bottom: 36px;
+  }
+
+  .kategori-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  @media (min-width: 640px) {
+    .kategori-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .kategori-card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 28px 24px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(123, 111, 160, 0.08);
+    border-radius: 16px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+  }
+  .kategori-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(26, 31, 58, 0.08), 0 24px 48px rgba(26, 31, 58, 0.06);
+    text-decoration: none;
+    border-color: rgba(123, 111, 160, 0.15);
+  }
+
+  .kategori-card-emoji {
+    font-size: 36px;
+    flex-shrink: 0;
+  }
+
+  .kategori-card-body {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .kategori-card-title {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    color: var(--color-text-heading);
+    font-weight: 400;
+    margin-bottom: 6px;
+    line-height: 1.3;
+  }
+
+  .kategori-card-desc {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 8px;
+  }
+
+  .kategori-card-count {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    color: var(--color-text-muted);
+    letter-spacing: 0.3px;
+  }
+</style>

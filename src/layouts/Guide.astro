@@ -21,16 +21,16 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
     <!-- Breadcrumb -->
     <nav class="guide-breadcrumb" aria-label="Brødsmuler">
       <a href="/">Hjem</a>
-      <span class="guide-sep">›</span>
-      <a href="/guider">Guider</a>
-      <span class="guide-sep">›</span>
+      <span class="guide-sep" aria-hidden="true">/</span>
+      <a href="/guider/">Guider</a>
+      <span class="guide-sep" aria-hidden="true">/</span>
       <span class="guide-current">{tittel}</span>
     </nav>
 
     <!-- Header -->
     <header class="guide-header">
       {leseminutter && (
-        <span class="guide-meta">📖 {leseminutter} min lesetid</span>
+        <span class="guide-meta">{leseminutter} min lesetid</span>
       )}
       <h1 class="guide-title">{tittel}</h1>
       <p class="guide-intro">{kortbeskrivelse}</p>
@@ -54,8 +54,6 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 
       <div class="guide-content prose" id="guide-content">
         <slot />
-
-        <!-- Comments -->
         <Kommentarer />
       </div>
     </div>
@@ -102,7 +100,6 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
         });
         tocNav.appendChild(list);
 
-        // Highlight active section on scroll
         const links = tocNav.querySelectorAll('.toc-link');
         const observer = new IntersectionObserver((entries) => {
           entries.forEach(entry => {
@@ -116,7 +113,6 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 
         headings.forEach(h => observer.observe(h));
       } else {
-        // Hide TOC if no headings
         const toc = document.getElementById('guide-toc');
         if (toc) toc.style.display = 'none';
       }
@@ -149,26 +145,29 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
     color: var(--color-primary);
     text-decoration: none;
   }
-  .guide-sep { color: var(--color-text-muted); opacity: 0.5; }
-  .guide-current { color: var(--color-text-heading); font-weight: 600; }
+  .guide-sep { color: var(--color-text-muted); opacity: 0.35; font-size: 11px; }
+  .guide-current { color: var(--color-text-body); }
 
   /* Header */
   .guide-header {
-    margin-bottom: 32px;
+    margin-bottom: 36px;
   }
   .guide-meta {
     display: inline-block;
-    font-size: 13px;
+    font-family: var(--font-nav);
+    font-size: 12px;
+    font-weight: 500;
     color: var(--color-text-muted);
-    margin-bottom: 12px;
+    letter-spacing: 0.5px;
+    margin-bottom: 14px;
   }
   .guide-title {
     font-family: var(--font-heading);
     font-size: 40px;
-    line-height: 1.2;
+    line-height: 1.15;
     color: var(--color-text-heading);
     margin-bottom: 16px;
-    font-weight: 700;
+    font-weight: 400;
   }
   @media (min-width: 768px) {
     .guide-title { font-size: 48px; }
@@ -177,7 +176,7 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
     font-size: 17px;
     line-height: 1.7;
     color: var(--color-text-muted);
-    max-width: 640px;
+    max-width: 600px;
   }
 
   /* Image */
@@ -188,8 +187,7 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
     width: 100%;
     max-height: 400px;
     object-fit: cover;
-    border-radius: var(--border-radius-card);
-    box-shadow: var(--box-shadow-card);
+    border-radius: 16px;
   }
 
   /* 2-column layout */
@@ -212,7 +210,7 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
   @media (min-width: 768px) {
     .guide-toc {
       display: block;
-      width: 220px;
+      width: 200px;
       flex-shrink: 0;
       position: sticky;
       top: 100px;
@@ -225,7 +223,7 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
   .toc-label {
     font-family: var(--font-nav);
     font-size: 11px;
-    letter-spacing: 2px;
+    letter-spacing: 1.5px;
     text-transform: uppercase;
     color: var(--color-text-muted);
     margin-bottom: 16px;
@@ -238,8 +236,8 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
     margin: 0;
     display: flex;
     flex-direction: column;
-    gap: 4px;
-    border-left: 2px solid rgba(123, 111, 160, 0.15);
+    gap: 2px;
+    border-left: 1px solid rgba(123, 111, 160, 0.12);
   }
 
   :global(.toc-link) {
@@ -251,7 +249,7 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
     text-decoration: none;
     transition: all 0.2s ease;
     border-left: 2px solid transparent;
-    margin-left: -2px;
+    margin-left: -1px;
   }
   :global(.toc-link:hover) {
     color: var(--color-primary);
@@ -263,7 +261,6 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
     font-weight: 600;
   }
 
-  /* Content takes remaining space */
   .guide-content {
     flex: 1;
     min-width: 0;

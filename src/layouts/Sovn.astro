@@ -20,24 +20,21 @@ interface Props {
 const { tittel, kortbeskrivelse, slug, kategori, leseminutter, dato, oppdatert, bilde, relaterte_sovn, relaterte_drommer } = Astro.props;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 
-// Category colors and labels
-const kategoriMap: Record<string, { label: string; color: string; bg: string; border: string }> = {
-  vitenskap: { label: 'Søvnvitenskap', color: '#7B6FA0', bg: 'rgba(123, 111, 160, 0.12)', border: 'rgba(123, 111, 160, 0.3)' },
-  hygiene: { label: 'Søvnhygiene', color: '#1D9E75', bg: 'rgba(29, 158, 117, 0.12)', border: 'rgba(29, 158, 117, 0.3)' },
-  lidelser: { label: 'Søvnlidelser', color: '#C07050', bg: 'rgba(192, 112, 80, 0.12)', border: 'rgba(192, 112, 80, 0.3)' },
-  livsfaser: { label: 'Livsfaser', color: '#4A8BBF', bg: 'rgba(74, 139, 191, 0.12)', border: 'rgba(74, 139, 191, 0.3)' },
-  produkter: { label: 'Produkter', color: '#B8960C', bg: 'rgba(184, 150, 12, 0.12)', border: 'rgba(184, 150, 12, 0.3)' },
-  psykologi: { label: 'Søvnpsykologi', color: '#9B7FBF', bg: 'rgba(155, 127, 191, 0.12)', border: 'rgba(155, 127, 191, 0.3)' },
+const kategoriMap: Record<string, { label: string; color: string; bg: string }> = {
+  vitenskap: { label: 'Søvnvitenskap', color: '#7B6FA0', bg: 'rgba(123, 111, 160, 0.1)' },
+  hygiene: { label: 'Søvnhygiene', color: '#1D9E75', bg: 'rgba(29, 158, 117, 0.1)' },
+  lidelser: { label: 'Søvnlidelser', color: '#C07050', bg: 'rgba(192, 112, 80, 0.1)' },
+  livsfaser: { label: 'Livsfaser', color: '#4A8BBF', bg: 'rgba(74, 139, 191, 0.1)' },
+  produkter: { label: 'Produkter', color: '#B8960C', bg: 'rgba(184, 150, 12, 0.1)' },
+  psykologi: { label: 'Søvnpsykologi', color: '#9B7FBF', bg: 'rgba(155, 127, 191, 0.1)' },
 };
 const kat = kategoriMap[kategori] || kategoriMap.vitenskap;
 
-// Fetch related sovn articles
 const alleSovn = await getCollection('sovn');
 const relaterteSovnArtikler = (relaterte_sovn || [])
   .map(slug => alleSovn.find(a => a.data.slug === slug))
   .filter(Boolean);
 
-// Fetch related dream guides
 const alleGuider = await getCollection('guider');
 const relaterteDrommerArtikler = (relaterte_drommer || [])
   .map(slug => alleGuider.find(g => g.data.slug === slug))
@@ -49,19 +46,19 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     <!-- Breadcrumb -->
     <nav class="sovn-breadcrumb" aria-label="Brødsmuler">
       <a href="/">Hjem</a>
-      <span class="sovn-sep">›</span>
-      <a href="/sovn">Søvn</a>
-      <span class="sovn-sep">›</span>
+      <span class="sovn-sep" aria-hidden="true">/</span>
+      <a href="/sovn/">Søvn</a>
+      <span class="sovn-sep" aria-hidden="true">/</span>
       <span class="sovn-current">{tittel}</span>
     </nav>
 
     <!-- Header -->
     <header class="sovn-header">
-      <span class="sovn-badge" style={`color: ${kat.color}; background: ${kat.bg}; border-color: ${kat.border};`}>
+      <span class="sovn-badge" style={`color: ${kat.color}; background: ${kat.bg};`}>
         {kat.label}
       </span>
       <div class="sovn-meta-row">
-        <span class="sovn-meta">📖 {leseminutter} min lesetid</span>
+        <span class="sovn-meta">{leseminutter} min lesetid</span>
         {oppdatert && (
           <span class="sovn-meta">Oppdatert {oppdatert.toLocaleDateString('nb-NO', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
         )}
@@ -90,12 +87,13 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
         <!-- Related sovn articles -->
         {relaterteSovnArtikler.length > 0 && (
           <div class="sovn-related">
+            <span class="sovn-related-label">Relatert</span>
             <h3 class="sovn-related-title">Les mer om søvn</h3>
             <div class="sovn-related-grid">
               {relaterteSovnArtikler.map((art: any) => {
                 const artKat = kategoriMap[art.data.kategori] || kategoriMap.vitenskap;
                 return (
-                  <a href={`/sovn/${art.data.slug}`} class="sovn-related-card">
+                  <a href={`/sovn/${art.data.slug}/`} class="sovn-related-card">
                     <span class="sovn-related-badge" style={`color: ${artKat.color};`}>{artKat.label}</span>
                     <span class="sovn-related-name">{art.data.tittel}</span>
                   </a>
@@ -108,10 +106,11 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
         <!-- Related dream content -->
         {relaterteDrommerArtikler.length > 0 && (
           <div class="sovn-related sovn-related-drommer">
-            <h3 class="sovn-related-title">Fra drømmeguiden</h3>
+            <span class="sovn-related-label">Fra drømmeguiden</span>
+            <h3 class="sovn-related-title">Drømmer og søvn</h3>
             <div class="sovn-related-grid">
               {relaterteDrommerArtikler.map((art: any) => (
-                <a href={`/guider/${art.data.slug}`} class="sovn-related-card sovn-related-card-dream">
+                <a href={`/guider/${art.data.slug}/`} class="sovn-related-card">
                   <span class="sovn-related-badge" style="color: var(--color-accent);">Guide</span>
                   <span class="sovn-related-name">{art.data.tittel}</span>
                 </a>
@@ -120,7 +119,6 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
           </div>
         )}
 
-        <!-- Comments -->
         <Kommentarer />
       </div>
     </div>
@@ -213,12 +211,12 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     color: #1D9E75;
     text-decoration: none;
   }
-  .sovn-sep { color: var(--color-text-muted); opacity: 0.5; }
-  .sovn-current { color: var(--color-text-heading); font-weight: 600; }
+  .sovn-sep { color: var(--color-text-muted); opacity: 0.35; font-size: 11px; }
+  .sovn-current { color: var(--color-text-body); }
 
   /* Header */
   .sovn-header {
-    margin-bottom: 32px;
+    margin-bottom: 36px;
   }
   .sovn-badge {
     display: inline-block;
@@ -230,25 +228,27 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     padding: 5px 14px;
     border-radius: var(--border-radius-pill);
     margin-bottom: 16px;
-    border: 1px solid;
   }
   .sovn-meta-row {
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
-    margin-bottom: 12px;
+    margin-bottom: 14px;
   }
   .sovn-meta {
-    font-size: 13px;
+    font-family: var(--font-nav);
+    font-size: 12px;
+    font-weight: 500;
     color: var(--color-text-muted);
+    letter-spacing: 0.3px;
   }
   .sovn-title {
     font-family: var(--font-heading);
     font-size: 40px;
-    line-height: 1.2;
+    line-height: 1.15;
     color: var(--color-text-heading);
     margin-bottom: 16px;
-    font-weight: 700;
+    font-weight: 400;
   }
   @media (min-width: 768px) {
     .sovn-title { font-size: 48px; }
@@ -257,7 +257,7 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     font-size: 17px;
     line-height: 1.7;
     color: var(--color-text-muted);
-    max-width: 640px;
+    max-width: 600px;
   }
 
   /* Image */
@@ -268,8 +268,7 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     width: 100%;
     max-height: 400px;
     object-fit: cover;
-    border-radius: var(--border-radius-card);
-    box-shadow: var(--box-shadow-card);
+    border-radius: 16px;
   }
 
   /* 2-column layout */
@@ -292,7 +291,7 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
   @media (min-width: 768px) {
     .sovn-toc {
       display: block;
-      width: 220px;
+      width: 200px;
       flex-shrink: 0;
       position: sticky;
       top: 100px;
@@ -305,7 +304,7 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
   .toc-label {
     font-family: var(--font-nav);
     font-size: 11px;
-    letter-spacing: 2px;
+    letter-spacing: 1.5px;
     text-transform: uppercase;
     color: var(--color-text-muted);
     margin-bottom: 16px;
@@ -318,8 +317,8 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     margin: 0;
     display: flex;
     flex-direction: column;
-    gap: 4px;
-    border-left: 2px solid rgba(29, 158, 117, 0.2);
+    gap: 2px;
+    border-left: 1px solid rgba(29, 158, 117, 0.15);
   }
 
   :global(.toc-link) {
@@ -331,7 +330,7 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     text-decoration: none;
     transition: all 0.2s ease;
     border-left: 2px solid transparent;
-    margin-left: -2px;
+    margin-left: -1px;
   }
   :global(.toc-link:hover) {
     color: #1D9E75;
@@ -343,32 +342,53 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     font-weight: 600;
   }
 
-  /* Content takes remaining space */
   .sovn-content {
     flex: 1;
     min-width: 0;
   }
 
+  /* Green prose overrides for søvn articles */
+  .sovn-content :global(h2) {
+    border-left-color: #1D9E75;
+  }
+  .sovn-content :global(a) {
+    color: #1D9E75;
+    text-decoration-color: rgba(29, 158, 117, 0.3);
+  }
+  .sovn-content :global(a:hover) {
+    text-decoration-color: #1D9E75;
+  }
+
   /* Related boxes */
   .sovn-related {
-    margin-top: 48px;
-    padding: 24px;
+    margin-top: 56px;
+    padding: 28px;
     background: rgba(29, 158, 117, 0.04);
-    border: 1px solid rgba(29, 158, 117, 0.15);
-    border-radius: var(--border-radius-card);
+    border: 1px solid rgba(29, 158, 117, 0.1);
+    border-radius: 16px;
   }
   .sovn-related-drommer {
     background: rgba(123, 111, 160, 0.04);
-    border-color: rgba(123, 111, 160, 0.15);
+    border-color: rgba(123, 111, 160, 0.1);
   }
-  .sovn-related-title {
+
+  .sovn-related-label {
+    display: block;
     font-family: var(--font-nav);
-    font-size: 12px;
+    font-size: 11px;
+    font-weight: 600;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: var(--color-text-muted);
-    margin-bottom: 16px;
-    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .sovn-related-title {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    color: var(--color-text-heading);
+    margin-bottom: 18px;
+    font-weight: 400;
     border: none;
     padding: 0;
   }
@@ -381,21 +401,17 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     display: flex;
     flex-direction: column;
     gap: 4px;
-    padding: 12px 16px;
+    padding: 14px 18px;
     background: rgba(255, 255, 255, 0.6);
-    border-radius: 10px;
+    border-radius: 12px;
     text-decoration: none;
     transition: all 0.2s ease;
-    border: 1px solid rgba(0, 0, 0, 0.04);
   }
   .sovn-related-card:hover {
     background: rgba(255, 255, 255, 0.9);
     text-decoration: none;
     transform: translateY(-1px);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-  }
-  .sovn-related-card-dream:hover {
-    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   }
   .sovn-related-badge {
     font-family: var(--font-nav);

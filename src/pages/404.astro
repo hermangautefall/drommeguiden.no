@@ -6,35 +6,85 @@ import Base from '../layouts/Base.astro';
   tittel="Siden ble ikke funnet"
   beskrivelse="Beklager, vi fant ikke siden du lette etter. Prøv å søke etter et drømmesymbol."
 >
-  <div class="text-center py-16 md:py-24">
-    <span class="text-6xl mb-6 block">🌙</span>
-    <h1 class="text-3xl md:text-4xl font-bold mb-4" style="font-family: var(--font-heading);">
-      Denne drømmen fant vi ikke...
-    </h1>
-    <p class="text-lg text-[var(--color-subtil)] max-w-md mx-auto mb-8">
+  <div class="not-found">
+    <span class="not-found-moon" aria-hidden="true">🌙</span>
+    <h1 class="not-found-title">Denne drømmen fant vi ikke...</h1>
+    <p class="not-found-desc">
       Siden du lette etter finnes ikke. Kanskje du kan finne det du ser etter ved å søke?
     </p>
 
-    <!-- Search -->
-    <div class="max-w-sm mx-auto mb-8">
+    <div class="not-found-search">
       <form action="/drommer" method="get">
         <input
           type="text"
           name="sok"
           placeholder="Søk etter et drømmesymbol..."
           autocomplete="off"
-          class="w-full px-5 py-3 rounded-xl border border-[var(--color-sand)] bg-white text-[var(--color-tekst)] placeholder:text-[var(--color-subtil)] focus:outline-none focus:ring-2 focus:ring-[var(--color-terrakotta)] focus:border-transparent"
-          style="box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
+          class="not-found-input"
         />
       </form>
     </div>
 
-    <a
-      href="/"
-      class="inline-flex items-center gap-2 px-6 py-3 rounded-lg text-sm font-medium transition-opacity hover:opacity-90"
-      style="background-color: var(--color-terrakotta); color: var(--color-krem);"
-    >
+    <a href="/" class="btn-primary">
       &larr; Tilbake til forsiden
     </a>
   </div>
 </Base>
+
+<style>
+  .not-found {
+    text-align: center;
+    padding: 64px 0 80px;
+    max-width: 480px;
+    margin: 0 auto;
+  }
+
+  .not-found-moon {
+    display: block;
+    font-size: 56px;
+    margin-bottom: 24px;
+  }
+
+  .not-found-title {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    color: var(--color-text-heading);
+    margin-bottom: 12px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .not-found-title { font-size: 40px; }
+  }
+
+  .not-found-desc {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+    margin-bottom: 32px;
+  }
+
+  .not-found-search {
+    max-width: 360px;
+    margin: 0 auto 32px;
+  }
+
+  .not-found-input {
+    width: 100%;
+    padding: 14px 20px;
+    border-radius: 12px;
+    border: 1px solid rgba(123, 111, 160, 0.15);
+    background: rgba(255, 255, 255, 0.7);
+    color: var(--color-text-body);
+    font-size: 15px;
+    font-family: var(--font-body);
+    transition: all 0.2s ease;
+  }
+  .not-found-input::placeholder {
+    color: var(--color-text-muted);
+  }
+  .not-found-input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px rgba(123, 111, 160, 0.1);
+  }
+</style>

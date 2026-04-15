@@ -24,7 +24,7 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
 
 <Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/drommer/${slug}/`}>
   <article class="symbol-article">
-    <!-- Immersive Hero -->
+    <!-- Hero -->
     <div class="symbol-hero">
       {bilde && (
         <div class="symbol-hero-bg">
@@ -36,11 +36,11 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
         <!-- Breadcrumb -->
         <nav class="breadcrumb" aria-label="Brødsmuler">
           <a href="/">Hjem</a>
-          <span class="breadcrumb-sep">›</span>
-          <a href="/drommer">Symboler</a>
-          <span class="breadcrumb-sep">›</span>
-          <a href={`/kategori/${kategori}`}>{kategoriTittel}</a>
-          <span class="breadcrumb-sep">›</span>
+          <span class="breadcrumb-sep" aria-hidden="true">/</span>
+          <a href="/drommer/">Symboler</a>
+          <span class="breadcrumb-sep" aria-hidden="true">/</span>
+          <a href={`/kategori/${kategori}/`}>{kategoriTittel}</a>
+          <span class="breadcrumb-sep" aria-hidden="true">/</span>
           <span class="breadcrumb-current">{displayTitle}</span>
         </nav>
 
@@ -55,20 +55,23 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
       )}
     </div>
 
+    <!-- Wave transition -->
+    <div class="symbol-wave" aria-hidden="true">
+      <svg viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 60 C200 20 400 40 600 25 C800 10 1000 35 1200 15 L1200 0 L0 0Z" fill="var(--color-bg-cream)" opacity="0.5"/>
+        <path d="M0 60 C150 35 350 50 550 30 C750 10 950 45 1200 20 L1200 0 L0 0Z" fill="var(--color-bg-cream)"/>
+      </svg>
+    </div>
+
     <!-- Content area -->
     <div class="symbol-content">
-      <!-- TL;DR box -->
       <TLDRBoks tolkninger={tolkninger_kort} />
 
-      <!-- Article body -->
       <div class="prose">
         <slot />
       </div>
 
-      <!-- Related symbols -->
       <RelaterteBoks relaterte={relaterte || []} />
-
-      <!-- Comments -->
       <Kommentarer />
     </div>
   </article>
@@ -109,21 +112,26 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
 </Base>
 
 <style>
-  /* ========== IMMERSIVE HERO ========== */
+  .symbol-article {
+    margin: -40px -16px 0;
+  }
+  @media (min-width: 768px) {
+    .symbol-article {
+      margin: -40px -24px 0;
+    }
+  }
+
+  /* ========== HERO ========== */
   .symbol-hero {
     position: relative;
-    margin: -32px -24px 0;
-    min-height: 340px;
+    min-height: 360px;
     display: flex;
     align-items: flex-end;
     overflow: hidden;
-    border-radius: 0 0 24px 24px;
   }
   @media (min-width: 768px) {
     .symbol-hero {
-      margin: -32px -48px 0;
-      min-height: 420px;
-      border-radius: 0 0 32px 32px;
+      min-height: 440px;
     }
   }
 
@@ -143,22 +151,22 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
     background: linear-gradient(
       to top,
       rgba(15, 19, 40, 0.92) 0%,
-      rgba(15, 19, 40, 0.65) 40%,
-      rgba(15, 19, 40, 0.3) 70%,
-      rgba(15, 19, 40, 0.15) 100%
+      rgba(15, 19, 40, 0.6) 40%,
+      rgba(15, 19, 40, 0.25) 70%,
+      rgba(15, 19, 40, 0.1) 100%
     );
   }
 
   .symbol-hero-content {
     position: relative;
     z-index: 2;
-    padding: 80px 24px 40px;
-    max-width: 700px;
-    animation: fadeInUp 0.6s ease-out both;
+    padding: 100px 24px 48px;
+    max-width: 720px;
+    animation: fadeInUp 0.5s ease-out both;
   }
   @media (min-width: 768px) {
     .symbol-hero-content {
-      padding: 120px 48px 48px;
+      padding: 140px 48px 56px;
     }
   }
 
@@ -167,14 +175,20 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
     bottom: 12px;
     right: 16px;
     z-index: 3;
-    opacity: 0.6;
+    opacity: 0.5;
     font-size: 11px;
   }
-  @media (min-width: 768px) {
-    .symbol-hero-credit {
-      bottom: 16px;
-      right: 24px;
-    }
+
+  /* ========== WAVE TRANSITION ========== */
+  .symbol-wave {
+    margin-top: -30px;
+    position: relative;
+    z-index: 3;
+  }
+  .symbol-wave svg {
+    display: block;
+    width: 100%;
+    height: 40px;
   }
 
   /* ========== BREADCRUMB ========== */
@@ -188,7 +202,7 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
     margin-bottom: 24px;
   }
   .breadcrumb a {
-    color: rgba(242, 237, 230, 0.55);
+    color: rgba(242, 237, 230, 0.5);
     text-decoration: none;
     transition: color 0.2s ease;
   }
@@ -197,11 +211,11 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
     text-decoration: none;
   }
   .breadcrumb-sep {
-    color: rgba(242, 237, 230, 0.3);
+    color: rgba(242, 237, 230, 0.25);
+    font-size: 11px;
   }
   .breadcrumb-current {
-    color: rgba(242, 237, 230, 0.8);
-    font-weight: 600;
+    color: rgba(242, 237, 230, 0.75);
   }
 
   /* ========== BADGE ========== */
@@ -217,57 +231,56 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
     padding: 5px 14px;
     border-radius: var(--border-radius-pill);
     margin-bottom: 16px;
-    border: 1px solid rgba(192, 128, 112, 0.25);
   }
 
   /* ========== TITLE & INTRO ========== */
   .symbol-title {
     font-family: var(--font-heading);
-    font-size: 34px;
+    font-size: 36px;
     line-height: 1.15;
     color: #f2ede6;
     margin-bottom: 14px;
-    font-weight: 700;
+    font-weight: 400;
     text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
   }
   @media (min-width: 768px) {
     .symbol-title {
-      font-size: 46px;
+      font-size: 48px;
     }
   }
 
   .symbol-intro {
     font-size: 16px;
     line-height: 1.7;
-    color: rgba(242, 237, 230, 0.75);
-    max-width: 560px;
+    color: rgba(242, 237, 230, 0.7);
+    max-width: 540px;
   }
 
   /* ========== CONTENT AREA ========== */
   .symbol-content {
-    max-width: 760px;
+    max-width: 720px;
     margin: 0 auto;
-    padding-top: 40px;
+    padding: 32px 24px 0;
   }
   @media (min-width: 768px) {
     .symbol-content {
-      padding-top: 56px;
+      padding: 48px 0 0;
     }
   }
 
   /* ========== NO-IMAGE FALLBACK ========== */
   .symbol-hero:not(:has(.symbol-hero-bg)) {
     background: linear-gradient(
-      135deg,
-      var(--color-bg-dark) 0%,
-      rgba(123, 111, 160, 0.3) 50%,
-      var(--color-bg-dark) 100%
+      160deg,
+      #0f1328 0%,
+      #1a2340 40%,
+      #0f2030 100%
     );
-    min-height: 280px;
+    min-height: 300px;
   }
   @media (min-width: 768px) {
     .symbol-hero:not(:has(.symbol-hero-bg)) {
-      min-height: 340px;
+      min-height: 360px;
     }
   }
 

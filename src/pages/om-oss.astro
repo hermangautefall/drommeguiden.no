@@ -6,33 +6,61 @@ import Base from '../layouts/Base.astro';
   tittel="Om oss"
   beskrivelse="Drømmeguiden er laget for deg som våkner med en drøm i hodet og lurer på hva den betyr. Les mer om hvem vi er."
 >
-  <article class="prose max-w-2xl">
-    <h1 class="text-3xl md:text-[2.5rem] font-bold mb-6" style="font-family: var(--font-heading);">
-      Om Drømmeguiden
-    </h1>
+  <div class="static-page">
+    <span class="static-label">Om oss</span>
+    <h1 class="static-title">Om Drømmeguiden</h1>
 
-    <p>
-      Drømmeguiden er laget for deg som våkner med en drøm i hodet og lurer på hva den betyr. Vi tror at drømmer er en verdifull kilde til selvinnsikt — ikke magi eller spådomskunst, men et vindu inn i det ubevisste som fortjener å bli tatt på alvor.
-    </p>
+    <div class="prose">
+      <p>
+        Drømmeguiden er laget for deg som våkner med en drøm i hodet og lurer på hva den betyr. Vi tror at drømmer er en verdifull kilde til selvinnsikt — ikke magi eller spådomskunst, men et vindu inn i det ubevisste som fortjener å bli tatt på alvor.
+      </p>
 
-    <p>
-      Målet vårt er å være Norges mest komplette og tilgjengelige ressurs for drømmetolkning. Vi skriver på norsk, i en varm og respektfull tone, og vi unngår bevisst absolutte påstander. Drømmer er personlige, og tolkningen er alltid din egen.
-    </p>
+      <p>
+        Målet vårt er å være Norges mest komplette og tilgjengelige ressurs for drømmetolkning. Vi skriver på norsk, i en varm og respektfull tone, og vi unngår bevisst absolutte påstander. Drømmer er personlige, og tolkningen er alltid din egen.
+      </p>
 
-    <p>
-      Innholdet vårt er basert på anerkjent drømmepsykologi, arketypisk symbolikk og kulturell kontekst — med særlig vekt på nordisk og norsk tradisjon. Vi trekker på innsikt fra Carl Jung, moderne søvnforskning og folkelige drømmetradisjoner.
-    </p>
+      <p>
+        Innholdet vårt er basert på anerkjent drømmepsykologi, arketypisk symbolikk og kulturell kontekst — med særlig vekt på nordisk og norsk tradisjon. Vi trekker på innsikt fra Carl Jung, moderne søvnforskning og folkelige drømmetradisjoner.
+      </p>
 
-    <p>
-      Drømmeguiden er et uavhengig prosjekt drevet av nysgjerrighet og en genuin interesse for drømmenes verden. Vi er ikke terapeuter eller psykologer, og innholdet vårt erstatter ikke profesjonell rådgivning. Men vi håper at sidene våre kan gi deg et godt utgangspunkt for refleksjon — og kanskje en liten aha-opplevelse neste gang du husker en drøm.
-    </p>
+      <p>
+        Drømmeguiden er et uavhengig prosjekt drevet av nysgjerrighet og en genuin interesse for drømmenes verden. Vi er ikke terapeuter eller psykologer, og innholdet vårt erstatter ikke profesjonell rådgivning. Men vi håper at sidene våre kan gi deg et godt utgangspunkt for refleksjon — og kanskje en liten aha-opplevelse neste gang du husker en drøm.
+      </p>
 
-    <p>
-      Har du spørsmål, tilbakemeldinger eller ønsker om nye symboler? Vi vil gjerne høre fra deg.
-    </p>
+      <p>
+        Har du spørsmål, tilbakemeldinger eller ønsker om nye symboler? Vi vil gjerne høre fra deg.
+      </p>
 
-    <p>
-      <a href="/kontakt">Ta kontakt med oss her &rarr;</a>
-    </p>
-  </article>
+      <p>
+        <a href="/kontakt/">Ta kontakt med oss her &rarr;</a>
+      </p>
+    </div>
+  </div>
 </Base>
+
+<style>
+  .static-page {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 32px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+</style>

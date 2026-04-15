@@ -3,12 +3,10 @@
 ---
 
 <section class="kommentarer-section">
-  <div class="kommentarer-header">
-    <span class="kommentarer-icon">💬</span>
-    <h2 class="kommentarer-title">Kommentarer</h2>
-  </div>
+  <span class="kommentarer-label">Delta i samtalen</span>
+  <h2 class="kommentarer-title">Kommentarer</h2>
   <p class="kommentarer-desc">
-    Har du drømt noe lignende? Del din opplevelse eller still et spørsmål i kommentarfeltet.
+    Har du drømt noe lignende? Del din opplevelse eller still et spørsmål.
   </p>
   <div class="giscus-wrapper">
     <script
@@ -32,35 +30,35 @@
 
 <style>
   .kommentarer-section {
-    margin-top: 56px;
-    padding-top: 40px;
-    border-top: 1px solid rgba(123, 111, 160, 0.15);
+    margin-top: 64px;
+    padding-top: 48px;
+    border-top: 1px solid rgba(123, 111, 160, 0.1);
   }
 
-  .kommentarer-header {
-    display: flex;
-    align-items: center;
-    gap: 10px;
+  .kommentarer-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
     margin-bottom: 8px;
-  }
-
-  .kommentarer-icon {
-    font-size: 20px;
   }
 
   .kommentarer-title {
     font-family: var(--font-heading);
     font-size: 28px;
     color: var(--color-text-heading);
-    font-weight: 700;
-    margin: 0;
+    font-weight: 400;
+    margin: 0 0 8px 0;
   }
 
   .kommentarer-desc {
     font-size: 15px;
     color: var(--color-text-muted);
     line-height: 1.6;
-    margin-bottom: 24px;
+    margin-bottom: 28px;
   }
 
   .giscus-wrapper {

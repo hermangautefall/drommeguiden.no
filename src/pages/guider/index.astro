@@ -9,49 +9,172 @@ const guider = await getCollection('guider');
   tittel="Guider om drømmer"
   beskrivelse="Utforsk våre guider om drømmer, søvn og drømmetolkning. Lær om lucid drømming, mareritt og mye mer."
 >
-  <h1 class="text-3xl md:text-[2.5rem] font-bold mb-2" style="font-family: var(--font-heading);">
-    Guider om drømmer
-  </h1>
-  <p class="text-[var(--color-subtil)] mb-8">
-    Dybdeartikler om drømmer, søvn og tolkning.
-  </p>
+  <div class="guider-page">
+    <!-- Header -->
+    <div class="guider-header">
+      <span class="guider-label">Dybdeartikler</span>
+      <h1 class="guider-title">Guider om drømmer</h1>
+      <p class="guider-subtitle">
+        Utforsk drømmenes verden gjennom våre grundige guider om tolkning, søvn og det ubevisste.
+      </p>
+    </div>
 
-  <div class="space-y-5">
-    {guider.map((g) => (
-      <a
-        href={`/guider/${g.data.slug}`}
-        class="block rounded-xl overflow-hidden hover:translate-y-[-1px] transition-transform"
-        style="background-color: white; box-shadow: 0 2px 12px rgba(26,31,58,0.08);"
-      >
-        <div class="flex flex-col sm:flex-row">
+    <!-- Guide list -->
+    <div class="guider-list">
+      {guider.map((g) => (
+        <a href={`/guider/${g.data.slug}/`} class="guide-card">
           {g.data.bilde && (
-            <div class="sm:w-48 sm:shrink-0">
-              <img src={g.data.bilde} alt={g.data.tittel} class="w-full h-40 sm:h-full object-cover" loading="lazy" />
+            <div class="guide-card-img">
+              <img src={g.data.bilde} alt={g.data.tittel} loading="lazy" />
             </div>
           )}
-          <div class="flex-1 p-6">
-            <div class="flex flex-col sm:flex-row sm:items-start gap-3">
-              <div class="flex-1">
-                <h2 class="text-xl font-semibold text-[var(--color-natt)]" style="font-family: var(--font-heading);">
-                  {g.data.tittel}
-                </h2>
-                <p class="text-sm text-[var(--color-tekst)] mt-2 leading-relaxed">
-                  {g.data.kortbeskrivelse}
-                </p>
-              </div>
-              {g.data.leseminutter && (
-                <span class="text-xs text-[var(--color-subtil)] shrink-0 mt-1">{g.data.leseminutter} min lesetid</span>
-              )}
-            </div>
+          <div class="guide-card-body">
+            {g.data.leseminutter && (
+              <span class="guide-card-meta">{g.data.leseminutter} min lesetid</span>
+            )}
+            <h2 class="guide-card-title">{g.data.tittel}</h2>
+            <p class="guide-card-desc">{g.data.kortbeskrivelse}</p>
           </div>
-        </div>
-      </a>
-    ))}
+        </a>
+      ))}
+    </div>
+
+    {guider.length === 0 && (
+      <p class="guider-empty">
+        Guider er på vei — kom tilbake snart!
+      </p>
+    )}
   </div>
 
-  {guider.length === 0 && (
-    <p class="text-center text-[var(--color-subtil)] py-12">
-      Guider er på vei — kom tilbake snart!
-    </p>
-  )}
+  <style>
+    .guider-page {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .guider-header {
+      margin-bottom: 40px;
+    }
+
+    .guider-label {
+      display: block;
+      font-family: var(--font-nav);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: var(--color-text-muted);
+      margin-bottom: 10px;
+    }
+
+    .guider-title {
+      font-family: var(--font-heading);
+      font-size: 36px;
+      color: var(--color-text-heading);
+      margin-bottom: 10px;
+      font-weight: 400;
+    }
+    @media (min-width: 768px) {
+      .guider-title { font-size: 48px; }
+    }
+
+    .guider-subtitle {
+      font-size: 16px;
+      color: var(--color-text-muted);
+      line-height: 1.7;
+      max-width: 540px;
+    }
+
+    /* Guide cards */
+    .guider-list {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .guide-card {
+      display: flex;
+      flex-direction: column;
+      background: rgba(255, 255, 255, 0.7);
+      border-radius: 16px;
+      overflow: hidden;
+      text-decoration: none;
+      border: 1px solid rgba(123, 111, 160, 0.08);
+      transition: all 0.25s ease;
+    }
+    @media (min-width: 640px) {
+      .guide-card {
+        flex-direction: row;
+      }
+    }
+    .guide-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(26, 31, 58, 0.08), 0 24px 48px rgba(26, 31, 58, 0.06);
+      text-decoration: none;
+      border-color: rgba(123, 111, 160, 0.15);
+    }
+
+    .guide-card-img {
+      width: 100%;
+      height: 180px;
+      flex-shrink: 0;
+      overflow: hidden;
+    }
+    @media (min-width: 640px) {
+      .guide-card-img {
+        width: 220px;
+        height: auto;
+      }
+    }
+    .guide-card-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.4s ease;
+    }
+    .guide-card:hover .guide-card-img img {
+      transform: scale(1.03);
+    }
+
+    .guide-card-body {
+      padding: 24px;
+      flex: 1;
+    }
+
+    .guide-card-meta {
+      display: inline-block;
+      font-family: var(--font-nav);
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--color-text-muted);
+      letter-spacing: 0.3px;
+      margin-bottom: 10px;
+    }
+
+    .guide-card-title {
+      font-family: var(--font-heading);
+      font-size: 22px;
+      color: var(--color-text-heading);
+      margin-bottom: 8px;
+      font-weight: 400;
+      line-height: 1.3;
+    }
+
+    .guide-card-desc {
+      font-size: 14px;
+      line-height: 1.6;
+      color: var(--color-text-muted);
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .guider-empty {
+      text-align: center;
+      color: var(--color-text-muted);
+      padding: 64px 0;
+      font-size: 15px;
+    }
+  </style>
 </Base>
