@@ -14,7 +14,7 @@ tolkninger_kort:
   - "Exet representerar en egenskap eller ett behov i dig själv"
   - "Du är på väg att avsluta ett kapitel och gå vidare"
 dato: 2026-03-18
-bilde: /bilder/symboler/ex.jpg
+bilde: /bilder/symboler/eksen.jpg
 ---
 
 ## Vad betyder det att drömma om ex?

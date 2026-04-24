@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Något du vill säga har inte funnit vägen ut ännu"
   - "Ord, kommunikation och det du uttrycker är i fokus"
   - "Gränsen mellan din inre värld och det du delar med andra"
-bilde: /bilder/symboler/mun.jpg
+bilde: /bilder/symboler/munn.jpg
 dato: 2026-03-18
 ---
 

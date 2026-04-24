@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Du saknar riktning eller vet inte vilken väg du ska gå vidare"
   - "En situation eller fas i livet känns oöverskådlig och förvirrande"
   - "En del av dig har kommit bort från den du egentligen är"
-bilde: /bilder/symboler/vilse.jpg
+bilde: /bilder/symboler/bli-fortapt.jpg
 dato: 2026-03-18
 ---
 

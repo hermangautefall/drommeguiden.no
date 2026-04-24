@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Dold tillväxt och nätverk — något utvecklas under ytan, utom synhåll"
   - "Transformation och nedbrytning — svamp lever i gränslandet mellan död och nytt liv"
   - "Intuition och det omedvetna — svamp växer i mörkret, som tankar och insikter gör"
-bilde: /bilder/symboler/svamp.jpg
+bilde: /bilder/symboler/sopp.jpg
 dato: 2026-03-18
 ---
 

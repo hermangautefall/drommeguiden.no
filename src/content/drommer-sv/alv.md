@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Livets flöde och rörelse framåt — tid som passerar"
   - "Dina känslor i kontinuerlig ström och förändring"
   - "Din livsriktning — dit strömmen tar dig"
-bilde: /bilder/symboler/alv.jpg
+bilde: /bilder/symboler/elv.jpg
 dato: 2026-03-18
 ---
 

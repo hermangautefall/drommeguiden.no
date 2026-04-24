@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Du undviker något i livet som börjar hinna upp dig"
   - "En obearbetad rädsla eller konflikt följer efter dig"
   - "Stress och tryck från något du inte har tagit itu med"
-bilde: /bilder/symboler/forfoljd.jpg
+bilde: /bilder/symboler/forfulgt.jpg
 dato: 2026-03-18
 ---
 

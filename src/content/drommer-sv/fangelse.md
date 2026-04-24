@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Du känner dig fångad i en situation du inte ser utvägen ur"
   - "Självpålagda begränsningar håller dig tillbaka från det du vill"
   - "Skuld, skam eller en ouppgjord handling tynger dig"
-bilde: /bilder/symboler/fangelse.jpg
+bilde: /bilder/symboler/fengsel.jpg
 dato: 2026-03-18
 ---
 

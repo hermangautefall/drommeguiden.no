@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Rädsla att förlora något sårbart och kärt som du är ansvarig för"
   - "Det symboliska barnet representerar en sårbar sida av dig själv som överväldigas"
   - "En förälders djupaste ångest — hjärnan processar det värsta för att skydda"
-bilde: /bilder/symboler/drunkna-barn.jpg
+bilde: /bilder/symboler/drukne-barn.jpg
 dato: 2026-03-18
 ---
 

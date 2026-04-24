@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Din förmåga att skapa, forma och beröra livet runt dig"
   - "Detaljer och precision — något kräver noggrann hantering"
   - "Anknytning och beröring — det att nå och bli nådd"
-bilde: /bilder/symboler/fingrar.jpg
+bilde: /bilder/symboler/fingre.jpg
 dato: 2026-03-18
 ---
 

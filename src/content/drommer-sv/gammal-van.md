@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Du saknar en kvalitet eller period i livet som vännen representerar"
   - "En ouppklarad situation från det förflutna vill bearbetas"
   - "Din nuvarande situation påminner dig om något från den tiden"
-bilde: /bilder/symboler/gammal-van.jpg
+bilde: /bilder/symboler/gammel-venn.jpg
 dato: 2026-03-18
 ---
 

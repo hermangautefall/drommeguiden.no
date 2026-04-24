@@ -14,7 +14,7 @@ tolkninger_kort:
   - "Relationer och förbindelser med andra människor speglas"
   - "Din identitet och självkänsla uttrycks genom händernas tillstånd"
 dato: 2026-03-18
-bilde: /bilder/symboler/hander.jpg
+bilde: /bilder/symboler/hender.jpg
 ---
 
 ## Vad betyder det att drömma om händer?

@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Nationell och lokal identitet — vem du är och var du hör hemma"
   - "Högtid och markering av något viktigt och värdigt"
   - "Tradition och tillhörighet till något större än dig själv"
-bilde: /bilder/symboler/folkdrakt.jpg
+bilde: /bilder/symboler/bunad.jpg
 dato: 2026-03-18
 ---
 

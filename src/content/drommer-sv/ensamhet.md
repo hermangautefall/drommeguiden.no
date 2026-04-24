@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Ett djupt behov av samhörighet och äkta kontakt som inte är uppfyllt"
   - "Isolering från sidor av dig själv — en del av dig är avskuren från anknytning"
   - "En period med för lite meningsfull närhet — psyket signalerar vad som saknas"
-bilde: /bilder/symboler/ensamhet.jpg
+bilde: /bilder/symboler/ensomhet.jpg
 dato: 2026-03-18
 ---
 

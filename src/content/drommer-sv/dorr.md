@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En övergång, ett val eller en ny möjlighet står framför dig"
   - "Något är stängt för dig — eller du håller något stängt själv"
   - "Gränsen mellan det kända och det okända, det trygga och det nya"
-bilde: /bilder/symboler/dorr.jpg
+bilde: /bilder/symboler/dor.jpg
 dato: 2026-03-18
 ---
 

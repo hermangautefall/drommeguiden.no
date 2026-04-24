@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Identitet och självvärde — jobbet är den primära platsen många definierar sig"
   - "Prestationskrav och rädsla för att misslyckas med något du är ansvarig för"
   - "Gränser mellan arbete och privatliv — psyket klarar inte att koppla bort"
-bilde: /bilder/symboler/jobb-drom.jpg
+bilde: /bilder/symboler/jobbe-drom.jpg
 dato: 2026-03-18
 ---
 

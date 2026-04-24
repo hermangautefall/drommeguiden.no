@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En inre konflikt mellan två sidor av dig själv, dramatiserad genom två personer"
   - "Något oavklarat eller osagt i en verklig relation som behöver uppmärksamhet"
   - "Undertryckt ilska eller frustration som finner ett utlopp i drömmens trygga rum"
-bilde: /bilder/symboler/gral.jpg
+bilde: /bilder/symboler/krangel.jpg
 dato: 2026-03-18
 ---
 

@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Det omedvetna — där saker lagras och göms i psykets djup"
   - "Något undertryckt, glömt eller dolt vill fram i ljuset"
   - "En rädsla eller mörk sida du inte vill konfrontera"
-bilde: /bilder/symboler/kallare.jpg
+bilde: /bilder/symboler/kjeller.jpg
 dato: 2026-03-18
 ---
 

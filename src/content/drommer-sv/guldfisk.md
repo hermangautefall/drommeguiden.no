@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En önskan eller dröm som vill bli erkänd"
   - "Lycka och välstånd är tillgängligt — men kanske i begränsad form"
   - "Något vackert lever i ett begränsat rum — behöver det mer plats?"
-bilde: /bilder/symboler/guldfisk.jpg
+bilde: /bilder/symboler/gullfisk.jpg
 dato: 2026-03-18
 ---
 

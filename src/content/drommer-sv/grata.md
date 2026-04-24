@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En emotionell urladdning — något behöver få komma ut"
   - "En sorg, en förlust eller en längtan som inte är färdigbearbetad"
   - "Lättnad — något svårt släpper taget"
-bilde: /bilder/symboler/grata.jpg
+bilde: /bilder/symboler/grate.jpg
 dato: 2026-03-18
 ---
 

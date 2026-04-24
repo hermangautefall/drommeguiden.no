@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Det omedvetna och din inre värld vill ha uppmärksamhet"
   - "En cykel i ditt liv är i sin naturliga rytm"
   - "Intuition och känsloliv är starkare än vanligt just nu"
-bilde: /bilder/symboler/manen.jpg
+bilde: /bilder/symboler/mane.jpg
 dato: 2026-03-18
 ---
 

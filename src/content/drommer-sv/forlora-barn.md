@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Djup rädsla för att misslyckas med något sårbart och värdefullt du är ansvarig för"
   - "Ångest för förlust — av kontroll, av något viktigt, av ett nytt kapitel i livet"
   - "För föräldrar: bearbetning av den verkliga, permanenta rädsla som följer med föräldraskap"
-bilde: /bilder/symboler/forlora-barn.jpg
+bilde: /bilder/symboler/miste-baby.jpg
 dato: 2026-03-18
 ---
 

@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Det glömda och arkiverade — minnen och sidor av dig du har lagt undan"
   - "Ditt högre medvetande och intellektuella sida"
   - "Något från det förflutna är redo att plockas fram igen"
-bilde: /bilder/symboler/vind.jpg
+bilde: /bilder/symboler/loft.jpg
 dato: 2026-03-18
 ---
 

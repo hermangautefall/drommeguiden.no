@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Transformation — något bränns bort för att något nytt ska växa"
   - "Passion, livsenergi och en kraft som är svår att kontrollera"
   - "Rening och förnyelse genom det som förtärs"
-bilde: /bilder/symboler/eld.jpg
+bilde: /bilder/symboler/ild.jpg
 dato: 2026-03-18
 ---
 

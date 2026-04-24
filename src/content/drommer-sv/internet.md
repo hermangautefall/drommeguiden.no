@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Förbundenhet och tillgång till det kollektiva — ett nätverk av kunskap och kontakt"
   - "Informationsöverbelastning — behovet att filtrera vad du tar in"
   - "Digital identitet och frågan om vem du är online kontra offline"
-bilde: /bilder/symboler/internet.jpg
+bilde: /bilder/symboler/internett.jpg
 dato: 2026-03-18
 ---
 

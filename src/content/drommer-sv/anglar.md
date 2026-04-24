@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Ett budskap, ett skydd eller en vägledning är tillgänglig för dig"
   - "Tröst och försäkran i en krävande period"
   - "Ditt högre medvetande eller intuition talar till dig"
-bilde: /bilder/symboler/anglar.jpg
+bilde: /bilder/symboler/engler.jpg
 dato: 2026-03-18
 ---
 

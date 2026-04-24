@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Den nära gemenskapen och relationer som är tätt inpå utan att vara intima"
   - "Gränser mellan det som är ditt och det som är andras"
   - "Något i din närmiljö som kräver uppmärksamhet"
-bilde: /bilder/symboler/granne.jpg
+bilde: /bilder/symboler/nabo.jpg
 dato: 2026-03-18
 ---
 

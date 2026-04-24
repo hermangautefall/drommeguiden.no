@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Nostalgi och sorg över något som var — inte nödvändigtvis över personen själv"
   - "Oavslutat känslomässigt arbete som fortfarande lever i dig"
   - "Expartnern representerar en egenskap eller period i livet du saknar"
-bilde: /bilder/symboler/ex-sex.jpg
+bilde: /bilder/symboler/eksen-sex.jpg
 dato: 2026-03-18
 ---
 

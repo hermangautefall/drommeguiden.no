@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Sorgen och saknaden bearbetas vidare medan du sover"
   - "Ett ouppklarat tema mellan er söker sin avslutning"
   - "Drömmen känns som ett äkta besök — och den tröstar"
-bilde: /bilder/symboler/avliden-person.jpg
+bilde: /bilder/symboler/avdod-person.jpg
 dato: 2026-03-18
 ---
 

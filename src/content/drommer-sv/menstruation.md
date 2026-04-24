@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Cykel och förnyelse — det regelbundna reningsmönstret i kropp och liv"
   - "Kreativ kraft och feminin vitalitet — menstruationen som livets rytm"
   - "Ett naturligt avslut som gör plats för något nytt — rening och ny början"
-bilde: /bilder/symboler/menstruation.jpg
+bilde: /bilder/symboler/menstruasjon.jpg
 dato: 2026-03-18
 ---
 

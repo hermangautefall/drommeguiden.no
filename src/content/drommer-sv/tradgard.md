@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Ditt odlade inre liv — det du har planterat och skött om över tid"
   - "Växt, fruktbarhet och det som frodas när det får omsorg"
   - "En fristad och ett rum för ro, skönhet och fördjupning"
-bilde: /bilder/symboler/tradgard.jpg
+bilde: /bilder/symboler/hage.jpg
 dato: 2026-03-18
 ---
 

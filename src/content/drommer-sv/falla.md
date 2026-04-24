@@ -14,7 +14,7 @@ tolkninger_kort:
   - "Drömmen kan spegla rädsla att misslyckas eller att förlora något viktigt."
   - "Falldrömmar kan betyda att du behöver släppa taget och lita på processen."
 dato: 2026-03-18
-bilde: /bilder/symboler/falla.jpg
+bilde: /bilder/symboler/falle.jpg
 ---
 
 ## Vad betyder det att drömma om att falla?

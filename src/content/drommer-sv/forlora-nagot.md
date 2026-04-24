@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En rädsla för att förlora kontrollen över något viktigt i livet"
   - "Förlust av identitet, trygghet eller tillhörighet märks"
   - "Något du håller fast vid riskerar att försvinna"
-bilde: /bilder/symboler/forlora-nagot.jpg
+bilde: /bilder/symboler/miste-noe.jpg
 dato: 2026-03-18
 ---
 

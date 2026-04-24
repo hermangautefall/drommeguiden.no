@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En oupptäckt sida av dig själv som psyket presenterar i mänsklig form"
   - "Jungs anima eller animus — den inre representanten för det andra könet"
   - "En längtan efter det nya, okända och outforskade i ditt liv"
-bilde: /bilder/symboler/frammande-sex.jpg
+bilde: /bilder/symboler/fremmed-sex.jpg
 dato: 2026-03-18
 ---
 

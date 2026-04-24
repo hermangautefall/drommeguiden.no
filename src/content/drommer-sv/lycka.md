@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En glimt av vad som verkligen ger dig glädje — psyket visar vad du behöver"
   - "Kompensation för lite glädje — psyket balanserar det emotionella bokslutet"
   - "Kapaciteten för lycka finns i dig — tillgänglig, om du finner vägen till den"
-bilde: /bilder/symboler/lycka.jpg
+bilde: /bilder/symboler/lykke.jpg
 dato: 2026-03-18
 ---
 

@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Ett behov att koppla bort och hitta tillbaka till det enkla"
   - "Tillhörighet och frihet från vardagens krav och förväntningar"
   - "Din anknytning till natur, rötter och det genuint nordiska"
-bilde: /bilder/symboler/stuga.jpg
+bilde: /bilder/symboler/hytte.jpg
 dato: 2026-03-18
 ---
 

@@ -13,7 +13,7 @@ tolkninger_kort:
   - "En person i ditt liv är kall, beräknande eller rovgirig"
   - "Din egen kraft och förmåga att navigera djupa känslor"
 dato: 2026-03-18
-bilde: /bilder/symboler/haj.jpg
+bilde: /bilder/symboler/hai.jpg
 ---
 
 ## Vad betyder det att drömma om haj?

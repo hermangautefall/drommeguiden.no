@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Din emotionella kärna och förmåga att älska och bli älskad"
   - "Mod — att ha hjärtat med sig i något viktigt"
   - "En oro för något nära och vitalt i ditt liv"
-bilde: /bilder/symboler/hjarta.jpg
+bilde: /bilder/symboler/hjerte.jpg
 dato: 2026-03-18
 ---
 

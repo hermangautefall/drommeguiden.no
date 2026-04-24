@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En gräns du satt kränks av något eller någon"
   - "Något okänt och oönskat tränger in i din privata sfär"
   - "En sida av dig själv du inte vill kännas vid bankar på"
-bilde: /bilder/symboler/inbrottstjuv.jpg
+bilde: /bilder/symboler/innbruddstyv.jpg
 dato: 2026-03-18
 ---
 

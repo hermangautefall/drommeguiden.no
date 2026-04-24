@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Du undviker att gå rakt fram — rör dig sidledes runt något"
   - "Ett hårt skal utanpå och något sårbart inuti — skydd och sårbarhet"
   - "Klamring och att hålla fast — något du inte vill släppa"
-bilde: /bilder/symboler/krabba.jpg
+bilde: /bilder/symboler/krabbe.jpg
 dato: 2026-03-18
 ---
 

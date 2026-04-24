@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Persona och mask — vem är du online kontra vem du egentligen är?"
   - "Behovet av att bli sedd, bekräftad och erkänd av andra"
   - "Jämförelse och den sociala rangordning du kanske inte vill erkänna att du gör"
-bilde: /bilder/symboler/sociala-medier.jpg
+bilde: /bilder/symboler/sosiale-medier.jpg
 dato: 2026-03-18
 ---
 

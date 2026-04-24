@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En undertryckt ilska eller frustration söker utlopp"
   - "Du vill avsluta något — inte en person, utan det de representerar"
   - "En inre konflikt mellan olika sidor av dig själv spelas upp"
-bilde: /bilder/symboler/doda.jpg
+bilde: /bilder/symboler/drepe.jpg
 dato: 2026-03-18
 ---
 

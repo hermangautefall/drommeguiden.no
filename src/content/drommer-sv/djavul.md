@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Skuggan i sin tydligaste form — det du förtränger och inte vill kännas vid"
   - "Det förträngda och avspaltade i psyket som kräver integration, inte förnekelse"
   - "Frestelse och det som drar dig bort från det du vet är rätt för dig"
-bilde: /bilder/symboler/djavul.jpg
+bilde: /bilder/symboler/djevel.jpg
 dato: 2026-03-18
 ---
 

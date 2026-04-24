@@ -14,7 +14,7 @@ tolkninger_kort:
   - "Drömmen tolkas ofta som ett uttryck för rädsla, antingen konkret eller symbolisk."
   - "Spindeln kan representera en manipulativ person som spinner sitt nät."
 dato: 2026-03-18
-bilde: /bilder/symboler/spindel.jpg
+bilde: /bilder/symboler/edderkopp.jpg
 ---
 
 ## Vad betyder det att drömma om spindel?

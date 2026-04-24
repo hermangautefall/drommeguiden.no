@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Förlust av kontroll över livets riktning — något bär iväg utan att du kan stoppa det"
   - "Ett liv i för hög växel — för mycket fart, för lite möjlighet att ändra kurs"
   - "Ångest för konsekvenserna av något som satts i rörelse och inte kan stoppas"
-bilde: /bilder/symboler/bil-utan-bromsar.jpg
+bilde: /bilder/symboler/bil-uten-brems.jpg
 dato: 2026-03-18
 ---
 

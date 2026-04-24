@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En sida av dig själv som du ser i systern speglas tillbaka till dig"
   - "Något ouppklarat eller obearbetat mellan er vill ha uppmärksamhet"
   - "Systerskap, konkurrens och tillhörighet utforskas"
-bilde: /bilder/symboler/syster.jpg
+bilde: /bilder/symboler/soester.jpg
 dato: 2026-03-18
 ---
 

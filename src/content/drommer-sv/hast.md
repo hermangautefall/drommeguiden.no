@@ -14,7 +14,7 @@ tolkninger_kort:
   - "En stark inre drivkraft eller livsenergi försöker komma till uttryck"
   - "Förhållandet mellan kontroll och det vilda i dig själv är i fokus"
 dato: 2026-03-18
-bilde: /bilder/symboler/hast.jpg
+bilde: /bilder/symboler/hest.jpg
 ---
 
 ## Vad betyder det att drömma om häst?

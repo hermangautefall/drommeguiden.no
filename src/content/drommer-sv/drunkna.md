@@ -14,7 +14,7 @@ tolkninger_kort:
   - "Något obearbetat från det förflutna försöker komma upp till ytan"
   - "Du är på väg att förlora kontrollen över något viktigt i ditt liv"
 dato: 2026-03-18
-bilde: /bilder/symboler/drunkna.jpg
+bilde: /bilder/symboler/drukne.jpg
 ---
 
 ## Vad betyder det att drömma om att drunkna?

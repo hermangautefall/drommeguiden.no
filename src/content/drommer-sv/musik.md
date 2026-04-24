@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Din kreativa och känslomässiga sida önskar mer uttryck"
   - "Harmoni eller disharmoni i ditt liv speglas i musiken"
   - "Själen kommunicerar något som inte låter sig sägas i ord"
-bilde: /bilder/symboler/musik.jpg
+bilde: /bilder/symboler/musikk.jpg
 dato: 2026-03-18
 ---
 

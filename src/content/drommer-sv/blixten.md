@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En plötslig insikt eller avslöjande träffar dig"
   - "Elektrisk energi och intensitet — något är laddat och spänt"
   - "En kris eller konflikt som slår till utan förvarning"
-bilde: /bilder/symboler/blixten.jpg
+bilde: /bilder/symboler/lynet.jpg
 dato: 2026-03-18
 ---
 

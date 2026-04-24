@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Det omedvetna och det okända — mörkret är inte tomt, utan fullt av det du ännu inte ser"
   - "Rädsla för det okontrollerade och oöverskådliga — det som inte kan planeras"
   - "Början mörker — skapelse startar i mörkret, före ljuset"
-bilde: /bilder/symboler/morker.jpg
+bilde: /bilder/symboler/moerke.jpg
 dato: 2026-03-18
 ---
 

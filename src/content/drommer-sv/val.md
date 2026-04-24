@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Något enormt och djupt rör sig i ditt inre liv"
   - "Det kollektiva omedvetna och de stora, uråldriga krafterna i psyket"
   - "Kommunikation och intelligens på en djupare nivå än den dagliga"
-bilde: /bilder/symboler/val.jpg
+bilde: /bilder/symboler/hval.jpg
 dato: 2026-03-18
 ---
 

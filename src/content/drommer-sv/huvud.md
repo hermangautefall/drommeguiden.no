@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Ditt medvetande, din identitet och tankesätt är i fokus"
   - "Något du tänker mycket på kräver ett beslut eller en klargöring"
   - "Förhållandet mellan huvudet och hjärtat — förnuft kontra känsla"
-bilde: /bilder/symboler/huvud.jpg
+bilde: /bilder/symboler/hode.jpg
 dato: 2026-03-18
 ---
 

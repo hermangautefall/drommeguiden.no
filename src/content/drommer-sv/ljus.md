@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Medvetenhet, klarhet och förståelse som träder fram"
   - "Hopp och vägledning i mörkret — något lyser upp vägen"
   - "Det gudomliga, det andliga och det som är större än dig själv"
-bilde: /bilder/symboler/ljus.jpg
+bilde: /bilder/symboler/lys.jpg
 dato: 2026-03-18
 ---
 

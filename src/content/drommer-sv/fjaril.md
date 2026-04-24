@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En djupgående förvandling pågår eller är på väg"
   - "Lätthet, frihet och glädje vill komma till uttryck"
   - "Din själ är i rörelse mot något nytt och vackert"
-bilde: /bilder/symboler/fjaril.jpg
+bilde: /bilder/symboler/sommerfugl.jpg
 dato: 2026-03-18
 ---
 

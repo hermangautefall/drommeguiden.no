@@ -13,7 +13,7 @@ tolkninger_kort:
   - "Rening och en ny början är på väg"
   - "Du lever mellan två världar och behöver hitta balansen"
 dato: 2026-03-18
-bilde: /bilder/symboler/groda.jpg
+bilde: /bilder/symboler/frosk.jpg
 ---
 
 ## Vad betyder det att drömma om groda?

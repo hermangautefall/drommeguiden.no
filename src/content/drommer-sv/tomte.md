@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En skyddande kraft som vakar över hemmet och det nära"
   - "Något gammalt och traditionstungt som kräver respekt och erkännande"
   - "En liten men mäktig kraft — det lilla som vakar över det stora"
-bilde: /bilder/symboler/tomte.jpg
+bilde: /bilder/symboler/nisse.jpg
 dato: 2026-03-18
 ---
 

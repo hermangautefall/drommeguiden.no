@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En lösning eller möjlighet är inom räckhåll"
   - "Du söker tillgång till något som är låst för dig"
   - "Kontroll och trygghet i ditt eget liv är i fokus"
-bilde: /bilder/symboler/nycklar.jpg
+bilde: /bilder/symboler/nokler.jpg
 dato: 2026-03-18
 ---
 

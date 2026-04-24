@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En plötslig attack mot något du håller kärt — svek, kris eller förlust"
   - "En livssituation där du känner dig träffad av något du inte var förberedd på"
   - "Smärta och sårbarhet — något har nått igenom dina försvar"
-bilde: /bilder/symboler/bli-skjuten.jpg
+bilde: /bilder/symboler/bli-skutt.jpg
 dato: 2026-03-18
 ---
 

@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Överväldigande känslor eller situationer håller på att ta över"
   - "Något du inte har klarat att hantera svämmar över sina bräddar"
   - "En kraftfull rening och förvandling är igång"
-bilde: /bilder/symboler/oversvamning.jpg
+bilde: /bilder/symboler/flom.jpg
 dato: 2026-03-18
 ---
 

@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En plötslig och oväntad omvälvning skakar din grund"
   - "Något du trodde var stabilt och tryggt är i rörelse"
   - "En inre eller yttre kris kräver ny anpassning"
-bilde: /bilder/symboler/jordbavning.jpg
+bilde: /bilder/symboler/jordskjelv.jpg
 dato: 2026-03-18
 ---
 

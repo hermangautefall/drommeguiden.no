@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En okänd sida av dig själv söker kontakt"
   - "Något nytt och okänt är på väg in i ditt liv"
   - "Din skuggsida eller en undertryckt aspekt visar sig"
-bilde: /bilder/symboler/frammande.jpg
+bilde: /bilder/symboler/fremmed.jpg
 dato: 2026-03-18
 ---
 

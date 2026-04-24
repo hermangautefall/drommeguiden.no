@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Auktoritet och förväntningar — dina egna eller andras"
   - "Din inre kritiker eller stödjare har ordet"
   - "Ett ouppgjort tema mellan er söker bearbetning"
-bilde: /bilder/symboler/pappa.jpg
+bilde: /bilder/symboler/far.jpg
 dato: 2026-03-18
 ---
 

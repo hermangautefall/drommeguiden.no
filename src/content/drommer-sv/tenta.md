@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En situation i livet där du känner dig bedömd och testad"
   - "Rädsla att inte räcka till eller att bli avslöjad som otillräcklig"
   - "Ett obearbetat tryck från en krävande period i ditt liv"
-bilde: /bilder/symboler/tenta.jpg
+bilde: /bilder/symboler/eksamen.jpg
 dato: 2026-03-18
 ---
 

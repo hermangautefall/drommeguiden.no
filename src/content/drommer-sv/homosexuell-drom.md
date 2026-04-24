@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Självacceptans och förening med sidor av dig själv du kanske håller på avstånd"
   - "Jungs anima eller animus — det andra könets egenskaper möts i dig"
   - "Önskan om närmare emotionell kontakt med eget kön — inte nödvändigtvis sexuellt"
-bilde: /bilder/symboler/homosexuell-drom.jpg
+bilde: /bilder/symboler/homofil-drom.jpg
 dato: 2026-03-18
 ---
 

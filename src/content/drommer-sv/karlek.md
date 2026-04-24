@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En längtan efter förbundenhet och att bli sedd — av andra och av dig själv"
   - "Självkärlek och acceptans — psyket visar dig vad du behöver mer av"
   - "En kvalitet du saknar, personifierad i den du älskar i drömmen"
-bilde: /bilder/symboler/karlek.jpg
+bilde: /bilder/symboler/kjaerlighet.jpg
 dato: 2026-03-18
 ---
 

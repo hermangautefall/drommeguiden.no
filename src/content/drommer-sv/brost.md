@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Näring och omsorg — något eller någon behöver det du har att ge"
   - "Sårbarhet och det intima — att visa det mest skyddade hos dig själv"
   - "Mors-arketypens kärnsymbol — livgivande kraft och feminin styrka"
-bilde: /bilder/symboler/brost.jpg
+bilde: /bilder/symboler/bryst.jpg
 dato: 2026-03-18
 ---
 

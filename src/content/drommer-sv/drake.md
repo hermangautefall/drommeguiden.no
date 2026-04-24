@@ -13,7 +13,7 @@ tolkninger_kort:
   - "Du besitter mer styrka och potential än du är medveten om"
   - "En överväldigande situation eller person i ditt liv"
 dato: 2026-03-18
-bilde: /bilder/symboler/drake.jpg
+bilde: /bilder/symboler/drage.jpg
 ---
 
 ## Vad betyder det att drömma om drake?

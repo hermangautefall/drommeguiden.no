@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Det du bär med dig — bagaget, värdena och din börda"
   - "En resa eller övergång som närmar sig"
   - "Något du vill ta med dig eller lämna kvar"
-bilde: /bilder/symboler/resvaska.jpg
+bilde: /bilder/symboler/koffert.jpg
 dato: 2026-03-18
 ---
 

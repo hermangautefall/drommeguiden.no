@@ -13,7 +13,7 @@ tolkninger_kort:
   - "Du möter eller är själv en stark auktoritetsfigur"
   - "En ilska eller en kraft inom dig kräver uppmärksamhet"
 dato: 2026-03-18
-bilde: /bilder/symboler/lejon.jpg
+bilde: /bilder/symboler/love.jpg
 ---
 
 ## Vad betyder det att drömma om lejon?

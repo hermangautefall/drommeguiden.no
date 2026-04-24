@@ -14,7 +14,7 @@ tolkninger_kort:
   - "Eld i drömmar tolkas ofta som ett tecken på transformation och förnyelse."
   - "Okontrollerad brand kan peka mot destruktiva krafter eller rädsla för förlust."
 dato: 2026-03-18
-bilde: /bilder/symboler/brand.jpg
+bilde: /bilder/symboler/brann.jpg
 ---
 
 ## Vad betyder det att drömma om brand?

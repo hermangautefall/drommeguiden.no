@@ -13,7 +13,7 @@ tolkninger_kort:
   - "Något smått och irriterande har hopat sig och kräver uppmärksamhet"
   - "Samarbete och gemenskap är viktigt just nu"
 dato: 2026-03-18
-bilde: /bilder/symboler/myra.jpg
+bilde: /bilder/symboler/maur.jpg
 ---
 
 ## Vad betyder det att drömma om myror?

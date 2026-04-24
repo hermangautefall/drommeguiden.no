@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Majestätisk kraft och värdighet — något är stort och stabilt i ditt liv"
   - "Skogens tysta härskare — en stark kraft som inte låter sig pressas"
   - "Något oväntat och imponerande dyker upp — var uppmärksam"
-bilde: /bilder/symboler/alg.jpg
+bilde: /bilder/symboler/elg.jpg
 dato: 2026-03-18
 ---
 

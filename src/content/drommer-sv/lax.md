@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Kraften att simma mot strömmen mot något du vet är ditt mål"
   - "Instinktiv hemlängtan och återvändande till rötterna"
   - "En transformerande resa som kostar allt — men som är nödvändig"
-bilde: /bilder/symboler/lax.jpg
+bilde: /bilder/symboler/laks.jpg
 dato: 2026-03-18
 ---
 

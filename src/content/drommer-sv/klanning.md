@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Identiteten du visar upp och rollen du spelar för andra"
   - "Något feminint, festligt eller för ett särskilt tillfälle"
   - "Hur du önskar framstå — eller bli sedd"
-bilde: /bilder/symboler/klanning.jpg
+bilde: /bilder/symboler/kjole.jpg
 dato: 2026-03-18
 ---
 

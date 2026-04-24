@@ -14,7 +14,7 @@ tolkninger_kort:
   - "Rädsla eller osäkerhet i en livssituation speglas"
   - "En inbjudan till introspektion och inre arbete"
 dato: 2026-03-18
-bilde: /bilder/symboler/morkt-rum.jpg
+bilde: /bilder/symboler/morkt-rom.jpg
 ---
 
 ## Vad betyder det att drömma om ett mörkt rum?

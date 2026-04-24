@@ -14,7 +14,7 @@ tolkninger_kort:
   - "Dold visdom eller intuition försöker nå dig"
   - "Något i ditt liv behöver din uppmärksamhet"
 dato: 2026-03-18
-bilde: /bilder/symboler/kraka.jpg
+bilde: /bilder/symboler/krage.jpg
 ---
 
 ## Vad betyder det att drömma om kråka?

@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En pojkbebis speglar maskulin ny energi — något aktivt och utåtriktat i dig"
   - "En flickbebis speglar feminin, intuitiv ny energi — något inåtvänt och skapande"
   - "Barnets kön berättar vilken sida av dig själv som håller på att växa fram"
-bilde: /bilder/symboler/baby-pojke.jpg
+bilde: /bilder/symboler/baby-gutt.jpg
 dato: 2026-03-18
 ---
 

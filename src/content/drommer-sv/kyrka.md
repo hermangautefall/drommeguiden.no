@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En andlig sökan eller en fråga om mening anmäler sig"
   - "En viktig övergång i livet — födelse, äktenskap eller död — bearbetas"
   - "Din relation till tro, tillhörighet och det transcendenta utforskas"
-bilde: /bilder/symboler/kyrka.jpg
+bilde: /bilder/symboler/kirke.jpg
 dato: 2026-03-18
 ---
 

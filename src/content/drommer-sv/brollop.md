@@ -14,7 +14,7 @@ tolkninger_kort:
   - "Drömmen tolkas ofta som en förening av det medvetna och det omedvetna i dig."
   - "Bröllopsdrömmar kan peka mot rädsla för förändring eller förlust av frihet."
 dato: 2026-03-18
-bilde: /bilder/symboler/brollop.jpg
+bilde: /bilder/symboler/bryllup.jpg
 ---
 
 ## Vad betyder det att drömma om bröllop?

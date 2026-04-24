@@ -12,7 +12,7 @@ tolkninger_kort:
   - "En förpliktelse du är redo för — ett beslut om att gå helt in i något"
   - "En övergång från en livsfas till en annan — något nytt bekräftas och beseglas"
   - "En önskan om djupare anknytning — till en person, ett projekt eller dig själv"
-bilde: /bilder/symboler/forlovning.jpg
+bilde: /bilder/symboler/forlovelse.jpg
 dato: 2026-03-18
 ---
 

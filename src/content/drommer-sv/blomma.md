@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Något vackert och levande är i växt i ditt liv"
   - "Känslor, kärlek eller kreativitet är i full blom"
   - "Sårbarhet och kortvarighet — något skönt men flyktigt"
-bilde: /bilder/symboler/blomma.jpg
+bilde: /bilder/symboler/blomst.jpg
 dato: 2026-03-18
 ---
 

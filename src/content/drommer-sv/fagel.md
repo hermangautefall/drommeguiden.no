@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Frihet, lätthet och önskan att höja sig över det jordiska"
   - "Ett budskap är på väg — från intuitionen eller från något större"
   - "Själen i rörelse — något i dig söker mot det högre"
-bilde: /bilder/symboler/fagel.jpg
+bilde: /bilder/symboler/fugl.jpg
 dato: 2026-03-18
 ---
 

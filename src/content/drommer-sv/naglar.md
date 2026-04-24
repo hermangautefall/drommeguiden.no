@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Gränser och självförsvar — naglarna är kroppens naturliga skydd"
   - "Kontroll och grepp — vad håller du fast vid, och vad håller fast i dig?"
   - "Yttre uttryck och självpresentation — naglarna är synliga för världen"
-bilde: /bilder/symboler/naglar.jpg
+bilde: /bilder/symboler/nagle.jpg
 dato: 2026-03-18
 ---
 

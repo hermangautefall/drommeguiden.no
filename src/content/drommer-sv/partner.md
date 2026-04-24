@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Din relation speglas — trygghet, längtan eller osäkerhet"
   - "Något du önskar säga eller göra tar form i drömmen"
   - "Din egen rädsla för att förlora eller bli sviken visar sig"
-bilde: /bilder/symboler/partner.jpg
+bilde: /bilder/symboler/kjaereste.jpg
 dato: 2026-03-18
 ---
 

@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Ett behov av hjälp och omsorg som inte fullt ut är erkänt i vaket tillstånd"
   - "Räddaren speglar en resurs i dig själv — styrka eller visdom du behöver"
   - "Att släppa kontrollen och acceptera att man inte klarar allt ensam"
-bilde: /bilder/symboler/bli-raddad.jpg
+bilde: /bilder/symboler/bli-reddet.jpg
 dato: 2026-03-18
 ---
 

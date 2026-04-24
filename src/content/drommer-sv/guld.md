@@ -12,7 +12,7 @@ tolkninger_kort:
   - "Det mest värdefulla i ditt liv — äkta rikedom, inte nödvändigtvis pengar"
   - "Din högsta värdering och det du strävar efter"
   - "Självets kärnsubstans — det äkta och autentiska i dig"
-bilde: /bilder/symboler/guld.jpg
+bilde: /bilder/symboler/gull.jpg
 dato: 2026-03-18
 ---
 
