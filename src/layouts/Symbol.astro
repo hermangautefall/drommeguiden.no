@@ -183,7 +183,7 @@ const labels = lang === 'sv'
   .symbol-hero-content {
     position: relative;
     z-index: 2;
-    padding: 100px 24px 48px;
+    padding: 80px 20px 40px;
     max-width: 720px;
     animation: fadeInUp 0.5s ease-out both;
   }
@@ -259,12 +259,19 @@ const labels = lang === 'sv'
   /* ========== TITLE & INTRO ========== */
   .symbol-title {
     font-family: var(--font-heading);
-    font-size: 36px;
+    font-size: 30px;
     line-height: 1.15;
     color: #f2ede6;
     margin-bottom: 14px;
     font-weight: 400;
     text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+    word-wrap: break-word;
+    hyphens: auto;
+  }
+  @media (min-width: 480px) {
+    .symbol-title {
+      font-size: 36px;
+    }
   }
   @media (min-width: 768px) {
     .symbol-title {
@@ -283,7 +290,7 @@ const labels = lang === 'sv'
   .symbol-content {
     max-width: 720px;
     margin: 0 auto;
-    padding: 32px 24px 0;
+    padding: 32px 20px 0;
   }
   @media (min-width: 768px) {
     .symbol-content {

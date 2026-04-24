@@ -178,11 +178,16 @@ const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
   }
   .guide-title {
     font-family: var(--font-heading);
-    font-size: 40px;
+    font-size: 30px;
     line-height: 1.15;
     color: var(--color-text-heading);
     margin-bottom: 16px;
     font-weight: 400;
+    word-wrap: break-word;
+    hyphens: auto;
+  }
+  @media (min-width: 480px) {
+    .guide-title { font-size: 40px; }
   }
   @media (min-width: 768px) {
     .guide-title { font-size: 48px; }

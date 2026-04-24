@@ -125,7 +125,7 @@ const categoriesHref = lang === 'sv' ? '/sv/kategori/' : '/kategori/';
 
   .kategori-hero {
     background: linear-gradient(160deg, #0f1328 0%, #1a2340 40%, #0f2030 100%);
-    padding: 56px 24px 64px;
+    padding: 56px 20px 64px;
     text-align: center;
   }
   @media (min-width: 768px) {
@@ -164,10 +164,17 @@ const categoriesHref = lang === 'sv' ? '/sv/kategori/' : '/kategori/';
 
   .kategori-title {
     font-family: var(--font-heading);
-    font-size: 40px;
+    font-size: 30px;
     color: #f2ede6;
     margin-bottom: 14px;
     font-weight: 400;
+    word-wrap: break-word;
+    hyphens: auto;
+  }
+  @media (min-width: 480px) {
+    .kategori-title {
+      font-size: 40px;
+    }
   }
   @media (min-width: 768px) {
     .kategori-title {
@@ -205,7 +212,7 @@ const categoriesHref = lang === 'sv' ? '/sv/kategori/' : '/kategori/';
   .kategori-article {
     max-width: 960px;
     margin: 0 auto;
-    padding: 32px 24px 0;
+    padding: 32px 20px 0;
   }
   @media (min-width: 768px) {
     .kategori-article {
@@ -234,10 +241,13 @@ const categoriesHref = lang === 'sv' ? '/sv/kategori/' : '/kategori/';
 
   .kategori-symbols-title {
     font-family: var(--font-heading);
-    font-size: 32px;
+    font-size: 26px;
     color: var(--color-text-heading);
     margin-bottom: 28px;
     font-weight: 400;
+  }
+  @media (min-width: 480px) {
+    .kategori-symbols-title { font-size: 32px; }
   }
 
   .kategori-grid {

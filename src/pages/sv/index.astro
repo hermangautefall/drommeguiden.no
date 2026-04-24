@@ -129,9 +129,10 @@ const kategorierMedAntall = kategorier.map(kat => ({
       text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 16px; font-weight: 600;
     }
     .hero-title {
-      font-family: var(--font-heading); font-size: 48px; line-height: 1.1;
+      font-family: var(--font-heading); font-size: 36px; line-height: 1.1;
       color: var(--color-text-heading); margin-bottom: 20px; font-weight: 400;
     }
+    @media (min-width: 480px) { .hero-title { font-size: 48px; } }
     @media (min-width: 768px) { .hero-title { font-size: 64px; } }
     .hero-subtitle {
       font-size: 17px; line-height: 1.7; color: var(--color-text-muted);

@@ -155,11 +155,17 @@ const langLinks = (Object.keys(languages) as Lang[]).map(l => {
   .header-nav {
     max-width: 1100px;
     margin: 0 auto;
-    padding: 0 24px;
+    padding: 0 16px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     height: 64px;
+    gap: 8px;
+  }
+  @media (min-width: 768px) {
+    .header-nav {
+      padding: 0 24px;
+    }
   }
 
   /* Logo */

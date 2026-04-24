@@ -29,10 +29,16 @@ const label = lang === 'sv' ? 'Kort sammanfattat' : 'Kort oppsummert';
     background: rgba(255, 255, 255, 0.8);
     border: 1px solid rgba(123, 111, 160, 0.15);
     border-radius: 16px;
-    padding: 28px 28px 24px;
-    margin-bottom: 40px;
+    padding: 22px 20px 20px;
+    margin-bottom: 32px;
     position: relative;
     overflow: hidden;
+  }
+  @media (min-width: 480px) {
+    .tldr-box {
+      padding: 28px 28px 24px;
+      margin-bottom: 40px;
+    }
   }
   .tldr-box::before {
     content: '';
