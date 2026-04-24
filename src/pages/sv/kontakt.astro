@@ -1,0 +1,71 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="sv"
+  tittel="Kontakta oss"
+  beskrivelse="Har du frågor, återkoppling eller förslag på nya drömsymboler? Kontakta Drömguiden."
+  alternates={[{ lang: 'nb', url: 'https://drommeguiden.no/kontakt/' }]}
+>
+  <div class="static-page">
+    <span class="static-label">Kontakt</span>
+    <h1 class="static-title">Kontakta oss</h1>
+
+    <div class="prose">
+      <p>
+        Vi uppskattar att höra från våra läsare! Oavsett om du har en fråga om en drömsymbol, vill föreslå en ny symbol vi bör täcka, eller bara vill dela en spännande dröm — vi läser alla meddelanden.
+      </p>
+
+      <p>
+        Skicka ett mejl till oss:
+      </p>
+
+      <p class="kontakt-email">
+        <a href="mailto:hei@drommeguiden.no">hei@drommeguiden.no</a>
+      </p>
+
+      <p>
+        Vi försöker svara inom ett par arbetsdagar. Märk gärna ämnesraden med vad ärendet gäller, så blir det enklare för oss att hjälpa dig.
+      </p>
+
+      <p>
+        Drömguiden erbjuder inte personlig drömtydning eller terapeutisk rådgivning. Om du upplever återkommande mardrömmar eller sömnproblem som påverkar din vardag, rekommenderar vi att du kontaktar din vårdcentral.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 32px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+  .kontakt-email {
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .kontakt-email a {
+    color: var(--color-primary);
+  }
+</style>

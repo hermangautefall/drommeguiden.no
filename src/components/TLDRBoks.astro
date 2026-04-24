@@ -1,14 +1,18 @@
 ---
+import { defaultLang, type Lang } from '../i18n/config';
+
 interface Props {
   tolkninger: string[];
+  lang?: Lang;
 }
 
-const { tolkninger } = Astro.props;
+const { tolkninger, lang = defaultLang } = Astro.props;
+const label = lang === 'sv' ? 'Kort sammanfattat' : 'Kort oppsummert';
 ---
 
 <div class="tldr-box">
   <div class="tldr-header">
-    <span class="tldr-label">Kort oppsummert</span>
+    <span class="tldr-label">{label}</span>
   </div>
   <ul class="tldr-list">
     {tolkninger.map((tolkning) => (

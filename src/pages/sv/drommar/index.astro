@@ -1,0 +1,154 @@
+---
+import Base from '../../../layouts/Base.astro';
+import SymbolKort from '../../../components/SymbolKort.astro';
+import { getCollection } from 'astro:content';
+
+const drommer = await getCollection('drommer-sv');
+const sortert = drommer.sort((a, b) => a.data.tittel.localeCompare(b.data.tittel, 'sv'));
+
+const kategorier = ['dyr', 'vann', 'kropp', 'steder', 'hendelser', 'mennesker', 'natur', 'gjenstander'];
+const kategoriLabels: Record<string, string> = {
+  dyr: 'Djur',
+  vann: 'Vatten',
+  kropp: 'Kropp',
+  steder: 'Platser',
+  hendelser: 'Händelser',
+  mennesker: 'Människor',
+  natur: 'Natur',
+  gjenstander: 'Föremål',
+};
+---
+
+<Base
+  tittel="Drömsymboler — hitta betydelsen av din dröm"
+  beskrivelse="Utforska drömsymboler med tolkningar på svenska. Sök efter din symbol och ta reda på vad din dröm betyder — sorterat efter kategori och tema."
+  lang="sv"
+  canonicalUrl="https://drommeguiden.no/sv/drommar/"
+  alternates={[
+    { lang: 'nb', url: 'https://drommeguiden.no/drommer/' },
+    { lang: 'sv', url: 'https://drommeguiden.no/sv/drommar/' },
+  ]}
+>
+  <div class="drommer-page">
+    <div class="drommer-header">
+      <span class="drommer-label">Komplett översikt</span>
+      <h1 class="drommer-title">Alla drömsymboler</h1>
+      <p class="drommer-subtitle">
+        {drommer.length} symboler — sök eller filtrera för att hitta din symbol.
+      </p>
+    </div>
+
+    <div class="drommer-search">
+      <input
+        type="text"
+        id="filtrer-sok"
+        placeholder="Sök bland symboler..."
+        autocomplete="off"
+        class="drommer-search-input"
+      />
+    </div>
+
+    <div class="drommer-filters">
+      <button class="kategori-filter aktiv" data-kategori="alle">Alla</button>
+      {kategorier.map((kat) => (
+        <button class="kategori-filter" data-kategori={kat}>
+          {kategoriLabels[kat] || kat}
+        </button>
+      ))}
+    </div>
+
+    <div id="symbol-grid" class="drommer-grid">
+      {sortert.map((d) => (
+        <div class="symbol-item" data-kategori={d.data.kategori} data-tittel={d.data.tittel.toLowerCase()} data-slug={d.data.slug}>
+          <SymbolKort
+            tittel={d.data.tittel}
+            slug={d.data.slug}
+            kortbeskrivelse={d.data.kortbeskrivelse}
+            kategori={d.data.kategori}
+            bilde={d.data.bilde}
+            lang="sv"
+          />
+        </div>
+      ))}
+    </div>
+
+    <p id="ingen-treff" class="drommer-empty hidden">
+      Inga symboler hittades. Prova ett annat sökord eller filter.
+    </p>
+  </div>
+
+  <style>
+    .drommer-page { max-width: 960px; margin: 0 auto; }
+    .drommer-header { margin-bottom: 32px; }
+    .drommer-label {
+      display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+      letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px;
+    }
+    .drommer-title {
+      font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+      margin-bottom: 10px; font-weight: 400;
+    }
+    @media (min-width: 768px) { .drommer-title { font-size: 48px; } }
+    .drommer-subtitle { font-size: 16px; color: var(--color-text-muted); line-height: 1.6; }
+
+    .drommer-search { margin-bottom: 20px; }
+    .drommer-search-input {
+      width: 100%; max-width: 400px; padding: 12px 18px; border-radius: 12px;
+      border: 1px solid rgba(123, 111, 160, 0.15); background: rgba(255, 255, 255, 0.7);
+      color: var(--color-text-body); font-size: 15px; font-family: var(--font-body); transition: all 0.2s ease;
+    }
+    .drommer-search-input::placeholder { color: var(--color-text-muted); }
+    .drommer-search-input:focus {
+      outline: none; border-color: var(--color-primary);
+      box-shadow: 0 0 0 3px rgba(123, 111, 160, 0.1);
+    }
+
+    .drommer-filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 32px; }
+    .kategori-filter {
+      padding: 8px 16px; border-radius: 100px; font-size: 13px; font-family: var(--font-nav);
+      font-weight: 500; border: 1px solid rgba(123, 111, 160, 0.12);
+      background: rgba(255, 255, 255, 0.6); color: var(--color-text-muted);
+      cursor: pointer; transition: all 0.2s ease;
+    }
+    .kategori-filter:hover:not(.aktiv) { border-color: var(--color-primary); color: var(--color-primary); }
+    .kategori-filter.aktiv { background: var(--color-primary); color: white; border-color: var(--color-primary); }
+
+    .drommer-grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
+    @media (min-width: 480px) { .drommer-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 768px) { .drommer-grid { grid-template-columns: repeat(3, 1fr); } }
+
+    .drommer-empty { text-align: center; color: var(--color-text-muted); padding: 48px 0; font-size: 15px; }
+    .hidden { display: none; }
+  </style>
+
+  <script>
+    const filterButtons = document.querySelectorAll('.kategori-filter');
+    const items = document.querySelectorAll('.symbol-item');
+    const searchInput = document.getElementById('filtrer-sok') as HTMLInputElement;
+    const ingenTreff = document.getElementById('ingen-treff');
+    let activeKategori = 'alle';
+
+    function filterItems() {
+      const query = searchInput?.value.toLowerCase().trim() || '';
+      let visibleCount = 0;
+      items.forEach((item) => {
+        const el = item as HTMLElement;
+        const matchesKategori = activeKategori === 'alle' || el.dataset.kategori === activeKategori;
+        const matchesSearch = query.length < 2 || el.dataset.tittel?.includes(query) || el.dataset.slug?.includes(query);
+        if (matchesKategori && matchesSearch) { el.style.display = ''; visibleCount++; }
+        else { el.style.display = 'none'; }
+      });
+      if (ingenTreff) ingenTreff.style.display = visibleCount === 0 ? 'block' : 'none';
+    }
+
+    filterButtons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        filterButtons.forEach((b) => b.classList.remove('aktiv'));
+        btn.classList.add('aktiv');
+        activeKategori = (btn as HTMLElement).dataset.kategori || 'alle';
+        filterItems();
+      });
+    });
+    searchInput?.addEventListener('input', filterItems);
+  </script>
+</Base>

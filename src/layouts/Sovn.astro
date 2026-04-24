@@ -3,6 +3,13 @@ import Base from './Base.astro';
 import BildeKreditt from '../components/BildeKreditt.astro';
 import Kommentarer from '../components/Kommentarer.astro';
 import { getCollection } from 'astro:content';
+import { defaultLang, languages, type Lang } from '../i18n/config';
+import { pathFor, homePath } from '../i18n/utils';
+
+interface AlternateLink {
+  lang: Lang;
+  url: string;
+}
 
 interface Props {
   tittel: string;
@@ -15,12 +22,15 @@ interface Props {
   bilde?: string;
   relaterte_sovn?: string[];
   relaterte_drommer?: string[];
+  lang?: Lang;
+  alternates?: AlternateLink[];
 }
 
-const { tittel, kortbeskrivelse, slug, kategori, leseminutter, dato, oppdatert, bilde, relaterte_sovn, relaterte_drommer } = Astro.props;
+const { tittel, kortbeskrivelse, slug, kategori, leseminutter, dato, oppdatert, bilde, relaterte_sovn, relaterte_drommer, lang = defaultLang, alternates = [] } = Astro.props;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
+const langConfig = languages[lang];
 
-const kategoriMap: Record<string, { label: string; color: string; bg: string }> = {
+const kategoriMapNb: Record<string, { label: string; color: string; bg: string }> = {
   vitenskap: { label: 'Søvnvitenskap', color: '#7B6FA0', bg: 'rgba(123, 111, 160, 0.1)' },
   hygiene: { label: 'Søvnhygiene', color: '#1D9E75', bg: 'rgba(29, 158, 117, 0.1)' },
   lidelser: { label: 'Søvnlidelser', color: '#C07050', bg: 'rgba(192, 112, 80, 0.1)' },
@@ -28,26 +38,45 @@ const kategoriMap: Record<string, { label: string; color: string; bg: string }> 
   produkter: { label: 'Produkter', color: '#B8960C', bg: 'rgba(184, 150, 12, 0.1)' },
   psykologi: { label: 'Søvnpsykologi', color: '#9B7FBF', bg: 'rgba(155, 127, 191, 0.1)' },
 };
+const kategoriMapSv: Record<string, { label: string; color: string; bg: string }> = {
+  vitenskap: { label: 'Sömnvetenskap', color: '#7B6FA0', bg: 'rgba(123, 111, 160, 0.1)' },
+  hygiene: { label: 'Sömnhygien', color: '#1D9E75', bg: 'rgba(29, 158, 117, 0.1)' },
+  lidelser: { label: 'Sömnstörningar', color: '#C07050', bg: 'rgba(192, 112, 80, 0.1)' },
+  livsfaser: { label: 'Livsfaser', color: '#4A8BBF', bg: 'rgba(74, 139, 191, 0.1)' },
+  produkter: { label: 'Produkter', color: '#B8960C', bg: 'rgba(184, 150, 12, 0.1)' },
+  psykologi: { label: 'Sömnpsykologi', color: '#9B7FBF', bg: 'rgba(155, 127, 191, 0.1)' },
+};
+const kategoriMap = lang === 'sv' ? kategoriMapSv : kategoriMapNb;
 const kat = kategoriMap[kategori] || kategoriMap.vitenskap;
 
-const alleSovn = await getCollection('sovn');
+const labels = lang === 'sv'
+  ? { hjem: 'Hem', sovn: 'Sömn', breadcrumb: 'Brödsmulor', lesetid: 'min läsning', oppdatert: 'Uppdaterad', innhold: 'Innehåll', relatert: 'Relaterat', lesMer: 'Läs mer om sömn', fraGuiden: 'Från drömguiden', drommerOgSovn: 'Drömmar och sömn', guideLabel: 'Guide', dateLocale: 'sv-SE' }
+  : { hjem: 'Hjem', sovn: 'Søvn', breadcrumb: 'Brødsmuler', lesetid: 'min lesetid', oppdatert: 'Oppdatert', innhold: 'Innhold', relatert: 'Relatert', lesMer: 'Les mer om søvn', fraGuiden: 'Fra drømmeguiden', drommerOgSovn: 'Drømmer og søvn', guideLabel: 'Guide', dateLocale: 'nb-NO' };
+
+const sovnCollection = lang === 'sv' ? 'sovn-sv' : 'sovn';
+const guiderCollection = lang === 'sv' ? 'guider-sv' : 'guider';
+
+const alleSovn = await getCollection(sovnCollection as any);
 const relaterteSovnArtikler = (relaterte_sovn || [])
-  .map(slug => alleSovn.find(a => a.data.slug === slug))
+  .map(s => alleSovn.find((a: any) => a.data.slug === s))
   .filter(Boolean);
 
-const alleGuider = await getCollection('guider');
+const alleGuider = await getCollection(guiderCollection as any);
 const relaterteDrommerArtikler = (relaterte_drommer || [])
-  .map(slug => alleGuider.find(g => g.data.slug === slug))
+  .map(s => alleGuider.find((g: any) => g.data.slug === s))
   .filter(Boolean);
+
+const baseSite = 'https://drommeguiden.no';
+const canonical = `${baseSite}${pathFor(lang, 'sovn', slug)}`;
 ---
 
-<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/sovn/${slug}/`}>
+<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={canonical} lang={lang} alternates={alternates}>
   <article class="sovn-article">
     <!-- Breadcrumb -->
-    <nav class="sovn-breadcrumb" aria-label="Brødsmuler">
-      <a href="/">Hjem</a>
+    <nav class="sovn-breadcrumb" aria-label={labels.breadcrumb}>
+      <a href={homePath(lang)}>{labels.hjem}</a>
       <span class="sovn-sep" aria-hidden="true">/</span>
-      <a href="/sovn/">Søvn</a>
+      <a href={pathFor(lang, 'sovn')}>{labels.sovn}</a>
       <span class="sovn-sep" aria-hidden="true">/</span>
       <span class="sovn-current">{tittel}</span>
     </nav>
@@ -58,9 +87,9 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
         {kat.label}
       </span>
       <div class="sovn-meta-row">
-        <span class="sovn-meta">{leseminutter} min lesetid</span>
+        <span class="sovn-meta">{leseminutter} {labels.lesetid}</span>
         {oppdatert && (
-          <span class="sovn-meta">Oppdatert {oppdatert.toLocaleDateString('nb-NO', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
+          <span class="sovn-meta">{labels.oppdatert} {oppdatert.toLocaleDateString(labels.dateLocale, { day: 'numeric', month: 'long', year: 'numeric' })}</span>
         )}
       </div>
       <h1 class="sovn-title">{tittel}</h1>
@@ -77,8 +106,8 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
     <!-- 2-column: TOC sidebar + content -->
     <div class="sovn-layout">
       <aside class="sovn-toc" id="sovn-toc">
-        <p class="toc-label">Innhold</p>
-        <nav id="toc-nav" aria-label="Innholdsfortegnelse"></nav>
+        <p class="toc-label">{labels.innhold}</p>
+        <nav id="toc-nav" aria-label={labels.innhold}></nav>
       </aside>
 
       <div class="sovn-content prose" id="sovn-content">
@@ -87,13 +116,13 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
         <!-- Related sovn articles -->
         {relaterteSovnArtikler.length > 0 && (
           <div class="sovn-related">
-            <span class="sovn-related-label">Relatert</span>
-            <h3 class="sovn-related-title">Les mer om søvn</h3>
+            <span class="sovn-related-label">{labels.relatert}</span>
+            <h3 class="sovn-related-title">{labels.lesMer}</h3>
             <div class="sovn-related-grid">
               {relaterteSovnArtikler.map((art: any) => {
                 const artKat = kategoriMap[art.data.kategori] || kategoriMap.vitenskap;
                 return (
-                  <a href={`/sovn/${art.data.slug}/`} class="sovn-related-card">
+                  <a href={pathFor(lang, 'sovn', art.data.slug)} class="sovn-related-card">
                     <span class="sovn-related-badge" style={`color: ${artKat.color};`}>{artKat.label}</span>
                     <span class="sovn-related-name">{art.data.tittel}</span>
                   </a>
@@ -106,12 +135,12 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
         <!-- Related dream content -->
         {relaterteDrommerArtikler.length > 0 && (
           <div class="sovn-related sovn-related-drommer">
-            <span class="sovn-related-label">Fra drømmeguiden</span>
-            <h3 class="sovn-related-title">Drømmer og søvn</h3>
+            <span class="sovn-related-label">{labels.fraGuiden}</span>
+            <h3 class="sovn-related-title">{labels.drommerOgSovn}</h3>
             <div class="sovn-related-grid">
               {relaterteDrommerArtikler.map((art: any) => (
-                <a href={`/guider/${art.data.slug}/`} class="sovn-related-card">
-                  <span class="sovn-related-badge" style="color: var(--color-accent);">Guide</span>
+                <a href={pathFor(lang, 'guider', art.data.slug)} class="sovn-related-card">
+                  <span class="sovn-related-badge" style="color: var(--color-accent);">{labels.guideLabel}</span>
                   <span class="sovn-related-name">{art.data.tittel}</span>
                 </a>
               ))}
@@ -134,12 +163,13 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
       description: kortbeskrivelse,
       datePublished: dato.toISOString(),
       ...(oppdatert && { dateModified: oppdatert.toISOString() }),
-      url: `https://drommeguiden.no/sovn/${slug}`,
-      ...(bilde && { image: `https://drommeguiden.no${bilde}` }),
+      inLanguage: langConfig.htmlLang,
+      url: canonical,
+      ...(bilde && { image: `${baseSite}${bilde}` }),
       publisher: {
         '@type': 'Organization',
-        name: 'Drømmeguiden',
-        url: 'https://drommeguiden.no',
+        name: langConfig.brand,
+        url: baseSite,
       },
     })}
   />

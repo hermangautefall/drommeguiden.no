@@ -1,0 +1,68 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="sv"
+  tittel="Om oss"
+  beskrivelse="Drömguiden är gjord för dig som vaknar med en dröm i huvudet och undrar vad den betyder. Läs mer om vilka vi är."
+  alternates={[{ lang: 'nb', url: 'https://drommeguiden.no/om-oss/' }]}
+>
+  <div class="static-page">
+    <span class="static-label">Om oss</span>
+    <h1 class="static-title">Om Drömguiden</h1>
+
+    <div class="prose">
+      <p>
+        Drömguiden är gjord för dig som vaknar med en dröm i huvudet och undrar vad den betyder. Vi tror att drömmar är en värdefull källa till självinsikt — inte magi eller spådom, utan ett fönster in i det omedvetna som förtjänar att tas på allvar.
+      </p>
+
+      <p>
+        Vårt mål är att vara den mest kompletta och tillgängliga resursen för drömtydning på svenska. Vi skriver i en varm och respektfull ton, och vi undviker medvetet absoluta påståenden. Drömmar är personliga, och tolkningen är alltid din egen.
+      </p>
+
+      <p>
+        Vårt innehåll bygger på erkänd drömpsykologi, arketypisk symbolik och kulturell kontext — med särskild tyngd på nordisk tradition. Vi hämtar insikt från Carl Jung, modern sömnforskning och folkliga drömtraditioner.
+      </p>
+
+      <p>
+        Drömguiden är ett oberoende projekt drivet av nyfikenhet och ett genuint intresse för drömmarnas värld. Vi är inte terapeuter eller psykologer, och vårt innehåll ersätter inte professionell rådgivning. Men vi hoppas att våra sidor kan ge dig en bra utgångspunkt för reflektion — och kanske en liten aha-upplevelse nästa gång du minns en dröm.
+      </p>
+
+      <p>
+        Har du frågor, återkoppling eller önskemål om nya symboler? Vi hör gärna från dig.
+      </p>
+
+      <p>
+        <a href="/sv/kontakt/">Kontakta oss här &rarr;</a>
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 32px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+</style>

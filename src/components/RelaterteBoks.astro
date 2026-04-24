@@ -1,18 +1,24 @@
 ---
+import { defaultLang, type Lang } from '../i18n/config';
+import { pathFor } from '../i18n/utils';
+
 interface Props {
   relaterte: string[];
+  lang?: Lang;
 }
 
-const { relaterte } = Astro.props;
+const { relaterte, lang = defaultLang } = Astro.props;
+const label = lang === 'sv' ? 'Utforska vidare' : 'Utforsk videre';
+const title = lang === 'sv' ? 'Relaterade drömsymboler' : 'Relaterte drømmesymboler';
 ---
 
 {relaterte.length > 0 && (
   <div class="relaterte-section">
-    <span class="relaterte-label">Utforsk videre</span>
-    <h2 class="relaterte-title">Relaterte drømmesymboler</h2>
+    <span class="relaterte-label">{label}</span>
+    <h2 class="relaterte-title">{title}</h2>
     <div class="relaterte-grid">
       {relaterte.map((slug) => (
-        <a href={`/drommer/${slug}/`} class="relaterte-chip">
+        <a href={pathFor(lang, 'drommer', slug)} class="relaterte-chip">
           {slug.replace(/-/g, ' ')}
         </a>
       ))}

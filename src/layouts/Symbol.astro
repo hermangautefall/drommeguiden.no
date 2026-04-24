@@ -4,6 +4,14 @@ import TLDRBoks from '../components/TLDRBoks.astro';
 import RelaterteBoks from '../components/RelaterteBoks.astro';
 import BildeKreditt from '../components/BildeKreditt.astro';
 import Kommentarer from '../components/Kommentarer.astro';
+import { defaultLang, languages, type Lang } from '../i18n/config';
+import { pathFor, homePath } from '../i18n/utils';
+import { useTranslations } from '../i18n/ui';
+
+interface AlternateLink {
+  lang: Lang;
+  url: string;
+}
 
 interface Props {
   tittel: string;
@@ -14,15 +22,26 @@ interface Props {
   kategori: string;
   dato: Date;
   bilde?: string;
+  lang?: Lang;
+  alternates?: AlternateLink[];
 }
 
-const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, slug, kategori, dato, bilde } = Astro.props;
+const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, slug, kategori, dato, bilde, lang = defaultLang, alternates = [] } = Astro.props;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
-const displayTitle = tittel.replace(/ — hva betyr det\?/, '').replace('Drømmer om ', '');
+const displayTitle = tittel.replace(/ — hva betyr det\?/, '').replace(/^Drömmar om /i, '').replace(/^Drømmer om /i, '');
 const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
+const t = useTranslations(lang);
+const langConfig = languages[lang];
+
+const baseSite = 'https://drommeguiden.no';
+const canonical = `${baseSite}${pathFor(lang, 'drommer', slug)}`;
+
+const labels = lang === 'sv'
+  ? { hjem: 'Hem', symboler: 'Symboler', breadcrumb: 'Brödsmulor' }
+  : { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødsmuler' };
 ---
 
-<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/drommer/${slug}/`}>
+<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={canonical} lang={lang} alternates={alternates}>
   <article class="symbol-article">
     <!-- Hero -->
     <div class="symbol-hero">
@@ -34,12 +53,12 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
       )}
       <div class="symbol-hero-content">
         <!-- Breadcrumb -->
-        <nav class="breadcrumb" aria-label="Brødsmuler">
-          <a href="/">Hjem</a>
+        <nav class="breadcrumb" aria-label={labels.breadcrumb}>
+          <a href={homePath(lang)}>{labels.hjem}</a>
           <span class="breadcrumb-sep" aria-hidden="true">/</span>
-          <a href="/drommer/">Symboler</a>
+          <a href={pathFor(lang, 'drommer')}>{t('nav.symboler')}</a>
           <span class="breadcrumb-sep" aria-hidden="true">/</span>
-          <a href={`/kategori/${kategori}/`}>{kategoriTittel}</a>
+          <a href={pathFor(lang, 'kategori', kategori)}>{kategoriTittel}</a>
           <span class="breadcrumb-sep" aria-hidden="true">/</span>
           <span class="breadcrumb-current">{displayTitle}</span>
         </nav>
@@ -65,13 +84,13 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
 
     <!-- Content area -->
     <div class="symbol-content">
-      <TLDRBoks tolkninger={tolkninger_kort} />
+      <TLDRBoks tolkninger={tolkninger_kort} lang={lang} />
 
       <div class="prose">
         <slot />
       </div>
 
-      <RelaterteBoks relaterte={relaterte || []} />
+      <RelaterteBoks relaterte={relaterte || []} lang={lang} />
       <Kommentarer />
     </div>
   </article>
@@ -87,19 +106,23 @@ const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
           headline: tittel,
           description: kortbeskrivelse,
           datePublished: dato.toISOString(),
-          url: `https://drommeguiden.no/drommer/${slug}`,
-          ...(bilde && { image: `https://drommeguiden.no${bilde}` }),
+          inLanguage: langConfig.htmlLang,
+          url: canonical,
+          ...(bilde && { image: `${baseSite}${bilde}` }),
           publisher: {
             '@type': 'Organization',
-            name: 'Drømmeguiden',
-            url: 'https://drommeguiden.no',
+            name: langConfig.brand,
+            url: baseSite,
           },
         },
         {
           '@type': 'FAQPage',
+          inLanguage: langConfig.htmlLang,
           mainEntity: tolkninger_kort.map((tolkning) => ({
             '@type': 'Question',
-            name: `Hva betyr det å drømme om ${slug.replace(/-/g, ' ')}?`,
+            name: lang === 'sv'
+              ? `Vad betyder det att drömma om ${slug.replace(/-/g, ' ')}?`
+              : `Hva betyr det å drømme om ${slug.replace(/-/g, ' ')}?`,
             acceptedAnswer: {
               '@type': 'Answer',
               text: tolkning,

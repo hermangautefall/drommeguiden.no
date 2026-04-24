@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Symbol from '../../layouts/Symbol.astro';
+import { pathFor } from '../../i18n/utils';
 
 export async function getStaticPaths() {
   const drommer = await getCollection('drommer');
@@ -12,6 +13,17 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+
+// Build hreflang alternates: always NO self, and SV if sv_slug exists
+const alternates: { lang: 'nb' | 'sv'; url: string }[] = [
+  { lang: 'nb', url: `https://drommeguiden.no${pathFor('nb', 'drommer', entry.data.slug)}` },
+];
+if (entry.data.sv_slug) {
+  alternates.push({
+    lang: 'sv',
+    url: `https://drommeguiden.no${pathFor('sv', 'drommer', entry.data.sv_slug)}`,
+  });
+}
 ---
 
 <Symbol
@@ -23,6 +35,8 @@ const { Content } = await render(entry);
   kategori={entry.data.kategori}
   dato={entry.data.dato}
   bilde={entry.data.bilde}
+  lang="nb"
+  alternates={alternates}
 >
   <Content />
 </Symbol>

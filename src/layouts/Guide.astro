@@ -2,6 +2,13 @@
 import Base from './Base.astro';
 import BildeKreditt from '../components/BildeKreditt.astro';
 import Kommentarer from '../components/Kommentarer.astro';
+import { defaultLang, type Lang } from '../i18n/config';
+import { pathFor, homePath } from '../i18n/utils';
+
+interface AlternateLink {
+  lang: Lang;
+  url: string;
+}
 
 interface Props {
   tittel: string;
@@ -10,19 +17,27 @@ interface Props {
   leseminutter?: number;
   dato: Date;
   bilde?: string;
+  lang?: Lang;
+  alternates?: AlternateLink[];
 }
 
-const { tittel, kortbeskrivelse, slug, leseminutter, dato, bilde } = Astro.props;
+const { tittel, kortbeskrivelse, slug, leseminutter, dato, bilde, lang = defaultLang, alternates = [] } = Astro.props;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
+
+const labels = lang === 'sv'
+  ? { hjem: 'Hem', guider: 'Guider', breadcrumb: 'Brödsmulor', lesetid: 'min läsning', innhold: 'Innehåll' }
+  : { hjem: 'Hjem', guider: 'Guider', breadcrumb: 'Brødsmuler', lesetid: 'min lesetid', innhold: 'Innhold' };
+
+const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
 ---
 
-<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/guider/${slug}/`}>
+<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={canonical} lang={lang} alternates={alternates}>
   <article class="guide-article">
     <!-- Breadcrumb -->
-    <nav class="guide-breadcrumb" aria-label="Brødsmuler">
-      <a href="/">Hjem</a>
+    <nav class="guide-breadcrumb" aria-label={labels.breadcrumb}>
+      <a href={homePath(lang)}>{labels.hjem}</a>
       <span class="guide-sep" aria-hidden="true">/</span>
-      <a href="/guider/">Guider</a>
+      <a href={pathFor(lang, 'guider')}>{labels.guider}</a>
       <span class="guide-sep" aria-hidden="true">/</span>
       <span class="guide-current">{tittel}</span>
     </nav>
@@ -30,7 +45,7 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
     <!-- Header -->
     <header class="guide-header">
       {leseminutter && (
-        <span class="guide-meta">{leseminutter} min lesetid</span>
+        <span class="guide-meta">{leseminutter} {labels.lesetid}</span>
       )}
       <h1 class="guide-title">{tittel}</h1>
       <p class="guide-intro">{kortbeskrivelse}</p>
@@ -46,8 +61,8 @@ const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
     <!-- 2-column: TOC sidebar + content -->
     <div class="guide-layout">
       <aside class="guide-toc" id="guide-toc">
-        <p class="toc-label">Innhold</p>
-        <nav id="toc-nav" aria-label="Innholdsfortegnelse">
+        <p class="toc-label">{labels.innhold}</p>
+        <nav id="toc-nav" aria-label={labels.innhold}>
           <!-- Populated by client-side JS -->
         </nav>
       </aside>

@@ -7,36 +7,75 @@ interface Props {
   tittel: string;
   kortbeskrivelse: string;
   slug: string;
+  lang?: 'nb' | 'sv';
+  alternates?: { lang: string; url: string }[];
 }
 
-const { tittel, kortbeskrivelse, slug } = Astro.props;
+const { tittel, kortbeskrivelse, slug, lang = 'nb', alternates = [] } = Astro.props;
 
-const alleSymboler = await getCollection('drommer');
+const collectionName = lang === 'sv' ? 'drommer-sv' : 'drommer';
+const alleSymboler = await getCollection(collectionName);
 const symbolerIKategori = alleSymboler.filter((s) => s.data.kategori === slug);
 
-const emojiMap: Record<string, string> = {
-  dyr: '🐾', vann: '🌊', kropp: '🫀', steder: '🏠',
-  hendelser: '⚡', mennesker: '👤', natur: '🌿', gjenstander: '🔑',
-};
+const emojiMap: Record<string, string> = lang === 'sv'
+  ? {
+      djur: '🐾', vatten: '🌊', kropp: '🫀', platser: '🏠',
+      handelser: '⚡', manniskor: '👤', natur: '🌿', foremal: '🔑', andlig: '✨',
+    }
+  : {
+      dyr: '🐾', vann: '🌊', kropp: '🫀', steder: '🏠',
+      hendelser: '⚡', mennesker: '👤', natur: '🌿', gjenstander: '🔑',
+    };
 const emoji = emojiMap[slug] || '✨';
-const displayTitle = tittel.replace('Drømmesymboler: ', '');
+const displayTitle = tittel.replace('Drømmesymboler: ', '').replace('Drömsymboler: ', '');
+
+const labels = lang === 'sv'
+  ? {
+      home: 'Hem',
+      categories: 'Kategorier',
+      breadcrumb: 'Brödsmulor',
+      countSuffix: 'drömsymboler',
+      allLabel: 'Alla symboler',
+      allTitle: 'Utforska symbolerna',
+    }
+  : {
+      home: 'Hjem',
+      categories: 'Kategorier',
+      breadcrumb: 'Brødsmuler',
+      countSuffix: 'drømmesymboler',
+      allLabel: 'Alle symboler',
+      allTitle: 'Utforsk symbolene',
+    };
+
+const canonicalUrl = lang === 'sv'
+  ? `https://drommeguiden.no/sv/kategori/${slug}/`
+  : `https://drommeguiden.no/kategori/${slug}/`;
+
+const homeHref = lang === 'sv' ? '/sv/' : '/';
+const categoriesHref = lang === 'sv' ? '/sv/kategori/' : '/kategori/';
 ---
 
-<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={`https://drommeguiden.no/kategori/${slug}/`}>
+<Base
+  tittel={tittel}
+  beskrivelse={kortbeskrivelse}
+  canonicalUrl={canonicalUrl}
+  lang={lang}
+  alternates={alternates}
+>
   <div class="kategori-page">
     <!-- Hero -->
     <div class="kategori-hero">
-      <nav class="kategori-breadcrumb" aria-label="Brødsmuler">
-        <a href="/">Hjem</a>
+      <nav class="kategori-breadcrumb" aria-label={labels.breadcrumb}>
+        <a href={homeHref}>{labels.home}</a>
         <span aria-hidden="true">/</span>
-        <a href="/kategori/">Kategorier</a>
+        <a href={categoriesHref}>{labels.categories}</a>
         <span aria-hidden="true">/</span>
         <span class="current">{displayTitle}</span>
       </nav>
       <span class="kategori-emoji" aria-hidden="true">{emoji}</span>
       <h1 class="kategori-title">{tittel}</h1>
       <p class="kategori-desc">{kortbeskrivelse}</p>
-      <p class="kategori-count">{symbolerIKategori.length} drømmesymboler</p>
+      <p class="kategori-count">{symbolerIKategori.length} {labels.countSuffix}</p>
     </div>
 
     <!-- Wave transition -->
@@ -54,8 +93,8 @@ const displayTitle = tittel.replace('Drømmesymboler: ', '');
 
       {symbolerIKategori.length > 0 && (
         <section class="kategori-symbols">
-          <span class="kategori-symbols-label">Alle symboler</span>
-          <h2 class="kategori-symbols-title">Utforsk symbolene</h2>
+          <span class="kategori-symbols-label">{labels.allLabel}</span>
+          <h2 class="kategori-symbols-title">{labels.allTitle}</h2>
           <div class="kategori-grid">
             {symbolerIKategori.map((d) => (
               <SymbolKort
@@ -64,6 +103,7 @@ const displayTitle = tittel.replace('Drømmesymboler: ', '');
                 kortbeskrivelse={d.data.kortbeskrivelse}
                 kategori={d.data.kategori}
                 bilde={d.data.bilde}
+                lang={lang}
               />
             ))}
           </div>

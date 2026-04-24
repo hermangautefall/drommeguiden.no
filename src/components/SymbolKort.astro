@@ -1,16 +1,20 @@
 ---
+import { defaultLang, type Lang } from '../i18n/config';
+import { pathFor } from '../i18n/utils';
+
 interface Props {
   tittel: string;
   slug: string;
   kortbeskrivelse: string;
   kategori: string;
   bilde?: string;
+  lang?: Lang;
 }
 
-const { tittel, slug, kortbeskrivelse, kategori, bilde } = Astro.props;
+const { tittel, slug, kortbeskrivelse, kategori, bilde, lang = defaultLang } = Astro.props;
 ---
 
-<a href={`/drommer/${slug}/`} class="symbolkort">
+<a href={pathFor(lang, 'drommer', slug)} class="symbolkort">
   {bilde && (
     <div class="symbolkort-img-wrap">
       <img src={bilde} alt={tittel} class="symbolkort-img" loading="lazy" />
@@ -19,7 +23,7 @@ const { tittel, slug, kortbeskrivelse, kategori, bilde } = Astro.props;
   <div class="symbolkort-body">
     <span class="symbolkort-kat">{kategori}</span>
     <h3 class="symbolkort-title">
-      {tittel.replace(/ — hva betyr det\?/, '')}
+      {tittel.replace(/ — hva betyr det\?/, '').replace(/ — vad betyder det\?/, '')}
     </h3>
     <p class="symbolkort-desc">{kortbeskrivelse}</p>
   </div>

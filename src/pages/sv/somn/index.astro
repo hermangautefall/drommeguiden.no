@@ -1,0 +1,210 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const alleArtikler = await getCollection('sovn-sv');
+
+const kategorier = [
+  { id: 'vitenskap', label: 'Sömnvetenskap', emoji: '🔬', color: '#7B6FA0', desc: 'Vad händer i kropp och hjärna när du sover?' },
+  { id: 'hygiene', label: 'Sömnhygien', emoji: '🌿', color: '#1D9E75', desc: 'Vanor och åtgärder för bättre sömnkvalitet' },
+  { id: 'lidelser', label: 'Sömnstörningar', emoji: '🩺', color: '#C07050', desc: 'Insomni, sömnapné och andra sömnproblem' },
+  { id: 'livsfaser', label: 'Livsfaser', emoji: '🌱', color: '#4A8BBF', desc: 'Sömn i graviditet, ungdom, åldrande och sorg' },
+  { id: 'produkter', label: 'Produkter & tips', emoji: '🛏️', color: '#B8960C', desc: 'Viktade täcken, sömnmasker och appar' },
+  { id: 'psykologi', label: 'Sömnpsykologi', emoji: '🧠', color: '#9B7FBF', desc: 'Drömmar, stress och det omedvetna' },
+];
+
+const artiklerPerKategori = kategorier.map(kat => ({
+  ...kat,
+  artikler: alleArtikler.filter(a => a.data.kategori === kat.id),
+})).filter(k => k.artikler.length > 0);
+---
+
+<Base
+  tittel="Sömn — vetenskap, vanor och bättre nätter"
+  beskrivelse="Allt du behöver veta om sömn: sömnfaser, sömnhygien, sömnproblem och sambandet mellan sömn och drömmar. Baserat på forskning."
+  lang="sv"
+  canonicalUrl="https://drommeguiden.no/sv/somn/"
+  alternates={[
+    { lang: 'nb', url: 'https://drommeguiden.no/sovn/' },
+    { lang: 'sv', url: 'https://drommeguiden.no/sv/somn/' },
+  ]}
+>
+  <div class="sovn-hub">
+    <section class="sovn-hero">
+      <div class="sovn-hero-content">
+        <span class="sovn-hero-label">Sömnsektionen</span>
+        <h1 class="sovn-hero-title">Sömn</h1>
+        <p class="sovn-hero-subtitle">
+          Vetenskap, vanor och bättre nätter — allt du behöver veta om sömn, baserat på forskning.
+        </p>
+        <p class="sovn-hero-count">{alleArtikler.length} artiklar</p>
+      </div>
+      <div class="sovn-hero-orb sovn-hero-orb-1" aria-hidden="true"></div>
+      <div class="sovn-hero-orb sovn-hero-orb-2" aria-hidden="true"></div>
+    </section>
+
+    <section class="sovn-categories">
+      <div class="sovn-cat-grid">
+        {kategorier.map(kat => (
+          <a href={`#${kat.id}`} class="sovn-cat-card">
+            <span class="sovn-cat-emoji" aria-hidden="true">{kat.emoji}</span>
+            <h3 class="sovn-cat-label" style={`color: ${kat.color};`}>{kat.label}</h3>
+            <p class="sovn-cat-desc">{kat.desc}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    {artiklerPerKategori.map(kat => (
+      <section class="sovn-section" id={kat.id}>
+        <div class="sovn-section-header">
+          <span class="sovn-section-emoji" aria-hidden="true">{kat.emoji}</span>
+          <h2 class="sovn-section-title" style={`color: ${kat.color};`}>{kat.label}</h2>
+        </div>
+        <div class="sovn-article-grid">
+          {kat.artikler.map((art: any) => (
+            <a href={`/sv/somn/${art.data.slug}/`} class="sovn-article-card">
+              {art.data.bilde && (
+                <div class="sovn-article-img">
+                  <img src={art.data.bilde} alt={art.data.tittel} loading="lazy" />
+                </div>
+              )}
+              <div class="sovn-article-body">
+                <span class="sovn-article-meta">{art.data.leseminutter} min läsning</span>
+                <h3 class="sovn-article-title">{art.data.tittel}</h3>
+                <p class="sovn-article-desc">{art.data.kortbeskrivelse}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="sovn-bridge">
+      <div class="sovn-bridge-inner">
+        <span class="sovn-bridge-label">Sambandet</span>
+        <h2 class="sovn-bridge-title">Sömn och drömmar hänger ihop</h2>
+        <p class="sovn-bridge-text">
+          Drömmarna sker under REM-sömn — och sömnkvaliteten påverkar direkt vad du drömmer.
+          Utforska drömsymboler i vår kompletta drömguide.
+        </p>
+        <div class="sovn-bridge-links">
+          <a href="/sv/drommar/" class="btn-primary">Utforska drömsymboler</a>
+          <a href="/sv/guider/" class="btn-secondary">Läs guiderna</a>
+        </div>
+      </div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .sovn-hub { max-width: 900px; margin: 0 auto; }
+  .sovn-hero {
+    position: relative;
+    background: linear-gradient(160deg, #0f1328 0%, #1a2340 40%, #0f2030 100%);
+    border-radius: 20px; padding: 56px 28px; margin-bottom: 48px;
+    overflow: hidden; text-align: center;
+  }
+  .sovn-hero-content { position: relative; z-index: 2; }
+  .sovn-hero-label {
+    font-family: var(--font-nav); font-size: 11px; letter-spacing: 1.5px;
+    text-transform: uppercase; color: #1D9E75; font-weight: 600;
+    display: inline-block; margin-bottom: 20px;
+  }
+  .sovn-hero-title {
+    font-family: var(--font-heading); font-size: 56px;
+    color: #f2ede6; margin-bottom: 16px; font-weight: 400;
+  }
+  @media (min-width: 768px) { .sovn-hero-title { font-size: 72px; } }
+  .sovn-hero-subtitle {
+    font-size: 16px; line-height: 1.7; color: rgba(242, 237, 230, 0.6);
+    max-width: 500px; margin: 0 auto 16px;
+  }
+  .sovn-hero-count { font-size: 13px; color: rgba(242, 237, 230, 0.3); }
+  .sovn-hero-orb { position: absolute; border-radius: 50%; pointer-events: none; }
+  .sovn-hero-orb-1 {
+    width: 300px; height: 300px; top: -80px; right: -80px;
+    background: radial-gradient(circle, rgba(29, 158, 117, 0.12) 0%, transparent 70%);
+  }
+  .sovn-hero-orb-2 {
+    width: 200px; height: 200px; bottom: -60px; left: -40px;
+    background: radial-gradient(circle, rgba(123, 111, 160, 0.08) 0%, transparent 70%);
+  }
+
+  .sovn-categories { margin-bottom: 56px; }
+  .sovn-cat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (min-width: 768px) { .sovn-cat-grid { grid-template-columns: repeat(3, 1fr); } }
+  .sovn-cat-card {
+    display: flex; flex-direction: column; align-items: center; text-align: center;
+    padding: 24px 16px; background: rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(29, 158, 117, 0.1); border-radius: 16px;
+    text-decoration: none; transition: all 0.25s ease;
+  }
+  .sovn-cat-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(29, 158, 117, 0.1), 0 16px 40px rgba(26, 31, 58, 0.06);
+    text-decoration: none; border-color: rgba(29, 158, 117, 0.2);
+  }
+  .sovn-cat-emoji { font-size: 28px; margin-bottom: 10px; }
+  .sovn-cat-label { font-family: var(--font-nav); font-size: 14px; font-weight: 600; margin-bottom: 6px; }
+  .sovn-cat-desc { font-size: 12px; line-height: 1.5; color: var(--color-text-muted); }
+
+  .sovn-section { margin-bottom: 48px; }
+  .sovn-section-header {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 24px;
+    padding-bottom: 12px; border-bottom: 1px solid rgba(29, 158, 117, 0.12);
+  }
+  .sovn-section-emoji { font-size: 22px; }
+  .sovn-section-title {
+    font-family: var(--font-heading); font-size: 28px; font-weight: 400;
+    margin: 0; border: none; padding: 0;
+  }
+
+  .sovn-article-grid { display: flex; flex-direction: column; gap: 14px; }
+  .sovn-article-card {
+    display: flex; flex-direction: column; background: rgba(255, 255, 255, 0.7);
+    border-radius: 16px; border: 1px solid rgba(29, 158, 117, 0.08);
+    overflow: hidden; text-decoration: none; transition: all 0.25s ease;
+  }
+  @media (min-width: 640px) { .sovn-article-card { flex-direction: row; } }
+  .sovn-article-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(29, 158, 117, 0.1), 0 16px 40px rgba(26, 31, 58, 0.06);
+    text-decoration: none; border-color: rgba(29, 158, 117, 0.2);
+  }
+  .sovn-article-img { width: 100%; height: 180px; flex-shrink: 0; overflow: hidden; }
+  @media (min-width: 640px) { .sovn-article-img { width: 200px; height: auto; } }
+  .sovn-article-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease; }
+  .sovn-article-card:hover .sovn-article-img img { transform: scale(1.03); }
+  .sovn-article-body { padding: 22px; flex: 1; }
+  .sovn-article-meta { font-size: 12px; color: var(--color-text-muted); font-family: var(--font-nav); font-weight: 500; }
+  .sovn-article-title {
+    font-family: var(--font-heading); font-size: 22px; color: var(--color-text-heading);
+    margin: 8px 0; font-weight: 400; border: none; padding: 0;
+  }
+  .sovn-article-desc {
+    font-size: 14px; line-height: 1.6; color: var(--color-text-muted);
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+
+  .sovn-bridge { margin: 64px 0 24px; }
+  .sovn-bridge-inner {
+    text-align: center; padding: 48px 28px;
+    background: rgba(29, 158, 117, 0.04);
+    border: 1px solid rgba(29, 158, 117, 0.12); border-radius: 20px;
+  }
+  .sovn-bridge-label {
+    display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase;
+    color: #1D9E75; margin-bottom: 12px;
+  }
+  .sovn-bridge-title {
+    font-family: var(--font-heading); font-size: 32px; color: var(--color-text-heading);
+    margin-bottom: 12px; font-weight: 400;
+  }
+  .sovn-bridge-text {
+    font-size: 16px; line-height: 1.7; color: var(--color-text-muted);
+    max-width: 520px; margin: 0 auto 28px;
+  }
+  .sovn-bridge-links { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+</style>

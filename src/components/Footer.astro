@@ -1,5 +1,32 @@
 ---
-// Simplified footer — clean, airy, fewer columns
+import { languages, defaultLang, type Lang } from '../i18n/config';
+import { useTranslations } from '../i18n/ui';
+import { pathFor, homePath } from '../i18n/utils';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = defaultLang } = Astro.props;
+const t = useTranslations(lang);
+const langConfig = languages[lang];
+
+// Popular symbol slugs per language
+const popularSlugs = lang === 'sv'
+  ? [
+      { slug: 'orm', label: 'Orm' },
+      { slug: 'hav', label: 'Hav' },
+      { slug: 'ex', label: 'Ex' },
+      { slug: 'flyga', label: 'Flyga' },
+    ]
+  : [
+      { slug: 'slange', label: 'Slange' },
+      { slug: 'hav', label: 'Hav' },
+      { slug: 'eksen', label: 'Eksen' },
+      { slug: 'flyging', label: 'Flyging' },
+    ];
+
+const drommerBase = pathFor(lang, 'drommer');
 ---
 
 <footer class="site-footer">
@@ -8,43 +35,42 @@
     <div class="footer-top">
       <!-- Brand -->
       <div class="footer-brand">
-        <a href="/" class="footer-logo">
-          <span class="footer-moon" aria-hidden="true">🌙</span> Drømmeguiden
+        <a href={homePath(lang)} class="footer-logo">
+          <span class="footer-moon" aria-hidden="true">🌙</span> {langConfig.brand}
         </a>
         <p class="footer-tagline">
-          Norges mest komplette guide til drømmesymboler og drømmetolkning.
+          {t('footer.tagline')}
         </p>
       </div>
 
       <!-- Navigation columns -->
       <div class="footer-columns">
         <div class="footer-col">
-          <h3 class="footer-col-title">Utforsk</h3>
+          <h3 class="footer-col-title">{t('footer.utforsk')}</h3>
           <ul class="footer-links">
-            <li><a href="/drommer/">Alle symboler</a></li>
-            <li><a href="/kategori/">Kategorier</a></li>
-            <li><a href="/guider/">Guider</a></li>
-            <li><a href="/sovn/">Søvn</a></li>
+            <li><a href={pathFor(lang, 'drommer')}>{t('sitemap.alle')}</a></li>
+            <li><a href={pathFor(lang, 'kategori')}>{t('nav.kategorier')}</a></li>
+            <li><a href={pathFor(lang, 'guider')}>{t('nav.guider')}</a></li>
+            <li><a href={pathFor(lang, 'sovn')}>{t('nav.sovn')}</a></li>
           </ul>
         </div>
 
         <div class="footer-col">
-          <h3 class="footer-col-title">Populært</h3>
+          <h3 class="footer-col-title">{t('footer.populart')}</h3>
           <ul class="footer-links">
-            <li><a href="/drommer/slange/">Slange</a></li>
-            <li><a href="/drommer/hav/">Hav</a></li>
-            <li><a href="/drommer/eksen/">Eksen</a></li>
-            <li><a href="/drommer/flyging/">Flyging</a></li>
+            {popularSlugs.map(p => (
+              <li><a href={`${drommerBase}${p.slug}/`}>{p.label}</a></li>
+            ))}
           </ul>
         </div>
 
         <div class="footer-col">
-          <h3 class="footer-col-title">Info</h3>
+          <h3 class="footer-col-title">{t('footer.info')}</h3>
           <ul class="footer-links">
-            <li><a href="/om-oss/">Om oss</a></li>
-            <li><a href="/kontakt/">Kontakt</a></li>
-            <li><a href="/personvern/">Personvern</a></li>
-            <li><a href="/cookies/">Cookies</a></li>
+            <li><a href={pathFor(lang, 'omOss')}>{t('nav.omOss')}</a></li>
+            <li><a href={pathFor(lang, 'kontakt')}>{t('nav.kontakt')}</a></li>
+            <li><a href={pathFor(lang, 'personvern')}>{t('nav.personvern')}</a></li>
+            <li><a href={pathFor(lang, 'cookies')}>Cookies</a></li>
           </ul>
         </div>
       </div>
@@ -55,7 +81,7 @@
 
     <!-- Bottom bar -->
     <div class="footer-bottom">
-      <p>&copy; {new Date().getFullYear()} Drømmeguiden</p>
+      <p>&copy; {new Date().getFullYear()} {langConfig.brand}</p>
       <p class="footer-credit">Bilder fra <a href="https://www.pexels.com" target="_blank" rel="noopener">Pexels</a></p>
     </div>
   </div>

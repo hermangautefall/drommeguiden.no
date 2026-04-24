@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Sterk intuitiv eller kreativ energi aktiveres"
 dato: 2026-03-18
 bilde: /bilder/symboler/slange.jpg
+sv_slug: orm
 ---
 
 ## Hva betyr det å drømme om slange?

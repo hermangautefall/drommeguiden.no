@@ -1,0 +1,43 @@
+---
+import { getCollection, render } from 'astro:content';
+import Sovn from '../../../layouts/Sovn.astro';
+import { pathFor } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const artikler = await getCollection('sovn-sv');
+  return artikler.map((artikkel) => ({
+    params: { slug: artikkel.data.slug },
+    props: { artikkel },
+  }));
+}
+
+const { artikkel } = Astro.props;
+const { Content } = await render(artikkel);
+
+const alternates: { lang: 'nb' | 'sv'; url: string }[] = [
+  { lang: 'sv', url: `https://drommeguiden.no${pathFor('sv', 'sovn', artikkel.data.slug)}` },
+];
+if (artikkel.data.nb_slug) {
+  alternates.push({
+    lang: 'nb',
+    url: `https://drommeguiden.no${pathFor('nb', 'sovn', artikkel.data.nb_slug)}`,
+  });
+}
+---
+
+<Sovn
+  tittel={artikkel.data.tittel}
+  kortbeskrivelse={artikkel.data.kortbeskrivelse}
+  slug={artikkel.data.slug}
+  kategori={artikkel.data.kategori}
+  leseminutter={artikkel.data.leseminutter}
+  dato={artikkel.data.dato}
+  oppdatert={artikkel.data.oppdatert}
+  bilde={artikkel.data.bilde}
+  relaterte_sovn={artikkel.data.relaterte_sovn}
+  relaterte_drommer={artikkel.data.relaterte_drommer}
+  lang="sv"
+  alternates={alternates}
+>
+  <Content />
+</Sovn>

@@ -1,0 +1,83 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="sv"
+  tittel="Cookiepolicy"
+  beskrivelse="Läs Drömguidens cookiepolicy. Information om vilka kakor vi använder och hur du kan hantera dem."
+  alternates={[{ lang: 'nb', url: 'https://drommeguiden.no/cookies/' }]}
+>
+  <div class="static-page">
+    <span class="static-label">Juridiskt</span>
+    <h1 class="static-title">Cookiepolicy</h1>
+
+    <div class="prose">
+      <p><em>Senast uppdaterad: 17 mars 2025</em></p>
+
+      <h2>Vad är kakor?</h2>
+      <p>
+        Kakor (cookies) är små textfiler som lagras på din enhet när du besöker en webbplats. De används för att komma ihåg inställningar, förbättra användarupplevelsen och samla in statistik.
+      </p>
+
+      <h2>Vilka kakor använder vi?</h2>
+
+      <h3>Nödvändiga kakor</h3>
+      <p>
+        Dessa är nödvändiga för att webbplatsen ska fungera korrekt. De kan inte inaktiveras.
+      </p>
+
+      <h3>Analyskakor</h3>
+      <p>
+        Vi använder Google Analytics för att förstå hur besökare använder webbplatsen. Dessa kakor samlar in anonymiserad information om sidvisningar, besökslängd och liknande. Datan hjälper oss att förbättra innehållet och användarupplevelsen.
+      </p>
+
+      <h3>Annonskakor</h3>
+      <p>
+        Vi visar annonser via Ezoic/Mediavine. Dessa tjänster kan använda kakor för att visa relevanta annonser baserat på dina intressen och din besökshistorik. Du kan hantera dina annonsinställningar via annonsörernas egna verktyg.
+      </p>
+
+      <h2>Hur du hanterar kakor</h2>
+      <p>
+        Du kan hantera och radera kakor via din webbläsares inställningar. Observera att blockering av vissa kakor kan påverka funktionaliteten på webbplatsen.
+      </p>
+      <ul>
+        <li><strong>Chrome:</strong> Inställningar &rarr; Sekretess och säkerhet &rarr; Kakor</li>
+        <li><strong>Firefox:</strong> Inställningar &rarr; Sekretess och säkerhet &rarr; Kakor och webbplatsdata</li>
+        <li><strong>Safari:</strong> Inställningar &rarr; Sekretess &rarr; Hantera webbplatsdata</li>
+      </ul>
+
+      <h2>Kontakt</h2>
+      <p>
+        Har du frågor om kakor kan du kontakta oss på <a href="mailto:hei@drommeguiden.no">hei@drommeguiden.no</a>.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 32px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+</style>

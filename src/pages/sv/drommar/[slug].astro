@@ -1,0 +1,41 @@
+---
+import { getCollection, render } from 'astro:content';
+import Symbol from '../../../layouts/Symbol.astro';
+import { pathFor } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const drommer = await getCollection('drommer-sv');
+  return drommer.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const alternates: { lang: 'nb' | 'sv'; url: string }[] = [
+  { lang: 'sv', url: `https://drommeguiden.no${pathFor('sv', 'drommer', entry.data.slug)}` },
+];
+if (entry.data.nb_slug) {
+  alternates.push({
+    lang: 'nb',
+    url: `https://drommeguiden.no${pathFor('nb', 'drommer', entry.data.nb_slug)}`,
+  });
+}
+---
+
+<Symbol
+  tittel={entry.data.tittel}
+  kortbeskrivelse={entry.data.kortbeskrivelse}
+  tolkninger_kort={entry.data.tolkninger_kort}
+  relaterte={entry.data.relaterte || []}
+  slug={entry.data.slug}
+  kategori={entry.data.kategori}
+  dato={entry.data.dato}
+  bilde={entry.data.bilde}
+  lang="sv"
+  alternates={alternates}
+>
+  <Content />
+</Symbol>

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Tanndrømmer kan også peke mot frykt for aldring eller livsfaseoverganger."
 dato: 2026-03-18
 bilde: /bilder/symboler/tann.jpg
+sv_slug: tand
 ---
 
 ## Hva betyr det å drømme om tenner?

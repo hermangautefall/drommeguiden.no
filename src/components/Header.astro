@@ -1,27 +1,91 @@
 ---
-// Glass header — light, frosted with subtle presence
+import { languages, defaultLang, type Lang } from '../i18n/config';
+import { useTranslations } from '../i18n/ui';
+import { pathFor, homePath } from '../i18n/utils';
+
+interface AlternateLink {
+  lang: Lang;
+  url: string;
+}
+
+interface Props {
+  lang?: Lang;
+  alternates?: AlternateLink[];
+}
+
+const { lang = defaultLang, alternates = [] } = Astro.props;
+const t = useTranslations(lang);
+const langConfig = languages[lang];
+
+const navSymboler = pathFor(lang, 'drommer');
+const navKategori = pathFor(lang, 'kategori');
+const navGuider = pathFor(lang, 'guider');
+const navSovn = pathFor(lang, 'sovn');
+const navOmOss = pathFor(lang, 'omOss');
+const navKontakt = pathFor(lang, 'kontakt');
+
+// Language switcher: where each alternate language points
+const langLinks = (Object.keys(languages) as Lang[]).map(l => {
+  const alt = alternates.find(a => a.lang === l);
+  return {
+    code: l,
+    flag: languages[l].flag,
+    label: languages[l].label,
+    shortLabel: languages[l].shortLabel,
+    href: alt ? alt.url : homePath(l),
+    current: l === lang,
+  };
+});
 ---
 
 <header class="site-header">
   <nav class="header-nav">
     <!-- Logo -->
-    <a href="/" class="header-logo hover:no-underline">
+    <a href={homePath(lang)} class="header-logo hover:no-underline">
       <span class="header-moon" aria-hidden="true">🌙</span>
-      <span class="header-brand">Drømmeguiden</span>
+      <span class="header-brand">{langConfig.brand}</span>
     </a>
 
     <!-- Desktop navigation -->
     <div class="header-links">
-      <a href="/drommer/" class="nav-link">Symboler</a>
-      <a href="/kategori/" class="nav-link">Kategorier</a>
-      <a href="/guider/" class="nav-link">Guider</a>
-      <a href="/sovn/" class="nav-link">Søvn</a>
+      <a href={navSymboler} class="nav-link">{t('nav.symboler')}</a>
+      <a href={navKategori} class="nav-link">{t('nav.kategorier')}</a>
+      <a href={navGuider} class="nav-link">{t('nav.guider')}</a>
+      <a href={navSovn} class="nav-link">{t('nav.sovn')}</a>
     </div>
 
-    <!-- Desktop CTA -->
-    <a href="/drommer/" class="header-cta hover:no-underline">
-      Utforsk symboler
-    </a>
+    <!-- Desktop right side: language switcher + CTA -->
+    <div class="header-right">
+      <!-- Language switcher -->
+      <div class="lang-switcher" id="lang-switcher">
+        <button class="lang-btn" aria-haspopup="true" aria-expanded="false" aria-label={t('lang.bytt')}>
+          <span class="lang-flag" aria-hidden="true">{langConfig.flag}</span>
+          <span class="lang-code">{langConfig.shortLabel}</span>
+          <svg class="lang-chevron" width="10" height="10" viewBox="0 0 10 10" fill="none" aria-hidden="true">
+            <path d="M2 4l3 3 3-3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        <div class="lang-menu" role="menu">
+          {langLinks.map(l => (
+            <a
+              href={l.href}
+              class={`lang-option ${l.current ? 'lang-option-current' : ''}`}
+              role="menuitem"
+              hreflang={languages[l.code].htmlLang}
+            >
+              <span class="lang-flag" aria-hidden="true">{l.flag}</span>
+              <span>{l.label}</span>
+              {l.current && <span class="lang-check" aria-hidden="true">✓</span>}
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- Desktop CTA -->
+      <a href={navSymboler} class="header-cta hover:no-underline">
+        {t('cta.utforskSymboler')}
+      </a>
+    </div>
 
     <!-- Mobile hamburger button -->
     <button
@@ -41,9 +105,9 @@
 <!-- Mobile menu overlay -->
 <div id="mobile-menu" class="mobile-menu-hidden md:hidden mobile-menu-panel">
   <div class="mobile-menu-top">
-    <a href="/" class="header-logo hover:no-underline">
+    <a href={homePath(lang)} class="header-logo hover:no-underline">
       <span class="header-moon" aria-hidden="true">🌙</span>
-      <span style="font-family: var(--font-heading); color: #f2ede6; font-size: 22px; font-weight: 400;">Drømmeguiden</span>
+      <span style="font-family: var(--font-heading); color: #f2ede6; font-size: 22px; font-weight: 400;">{langConfig.brand}</span>
     </a>
     <button id="mobile-close-btn" aria-label="Lukk meny" class="mobile-close">
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
@@ -53,13 +117,26 @@
     </button>
   </div>
   <div class="mobile-menu-links">
-    <a href="/drommer/" class="mobile-nav-link">Symboler</a>
-    <a href="/kategori/" class="mobile-nav-link">Kategorier</a>
-    <a href="/guider/" class="mobile-nav-link">Guider</a>
-    <a href="/sovn/" class="mobile-nav-link">Søvn</a>
+    <a href={navSymboler} class="mobile-nav-link">{t('nav.symboler')}</a>
+    <a href={navKategori} class="mobile-nav-link">{t('nav.kategorier')}</a>
+    <a href={navGuider} class="mobile-nav-link">{t('nav.guider')}</a>
+    <a href={navSovn} class="mobile-nav-link">{t('nav.sovn')}</a>
     <div class="mobile-divider"></div>
-    <a href="/om-oss/" class="mobile-nav-link mobile-nav-link-small">Om oss</a>
-    <a href="/kontakt/" class="mobile-nav-link mobile-nav-link-small">Kontakt</a>
+    <a href={navOmOss} class="mobile-nav-link mobile-nav-link-small">{t('nav.omOss')}</a>
+    <a href={navKontakt} class="mobile-nav-link mobile-nav-link-small">{t('nav.kontakt')}</a>
+    <div class="mobile-divider"></div>
+    <div class="mobile-lang-row">
+      {langLinks.map(l => (
+        <a
+          href={l.href}
+          class={`mobile-lang-chip ${l.current ? 'mobile-lang-chip-current' : ''}`}
+          hreflang={languages[l.code].htmlLang}
+        >
+          <span aria-hidden="true">{l.flag}</span>
+          <span>{l.label}</span>
+        </a>
+      ))}
+    </div>
   </div>
   <div class="mobile-menu-orb" aria-hidden="true"></div>
 </div>
@@ -131,9 +208,105 @@
     text-decoration: none;
   }
 
+  /* Right side: lang switcher + CTA */
+  .header-right {
+    display: none;
+    align-items: center;
+    gap: 10px;
+  }
+  @media (min-width: 768px) {
+    .header-right {
+      display: flex;
+    }
+  }
+
+  /* Language switcher */
+  .lang-switcher {
+    position: relative;
+  }
+  .lang-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: transparent;
+    border: 1px solid rgba(123, 111, 160, 0.15);
+    border-radius: var(--border-radius-pill);
+    padding: 6px 12px;
+    font-family: var(--font-nav);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-text-heading);
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .lang-btn:hover {
+    background: rgba(123, 111, 160, 0.07);
+    border-color: rgba(123, 111, 160, 0.25);
+  }
+  .lang-flag {
+    font-size: 14px;
+  }
+  .lang-chevron {
+    opacity: 0.6;
+    transition: transform 0.2s ease;
+  }
+  .lang-switcher.open .lang-chevron {
+    transform: rotate(180deg);
+  }
+
+  .lang-menu {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    min-width: 160px;
+    background: rgba(245, 240, 236, 0.98);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(123, 111, 160, 0.12);
+    border-radius: 12px;
+    padding: 6px;
+    box-shadow: 0 8px 24px rgba(26, 31, 58, 0.08), 0 16px 48px rgba(26, 31, 58, 0.06);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-4px);
+    transition: all 0.2s ease;
+    z-index: 50;
+  }
+  .lang-switcher.open .lang-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .lang-option {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-family: var(--font-nav);
+    font-size: 14px;
+    color: var(--color-text-body);
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
+  .lang-option:hover {
+    background: rgba(123, 111, 160, 0.07);
+    text-decoration: none;
+    color: var(--color-text-heading);
+  }
+  .lang-option-current {
+    color: var(--color-text-heading);
+    font-weight: 600;
+  }
+  .lang-check {
+    margin-left: auto;
+    color: var(--color-primary);
+  }
+
   /* CTA button */
   .header-cta {
-    display: none;
+    display: inline-flex;
     align-items: center;
     background: var(--color-text-heading);
     border-radius: var(--border-radius-pill);
@@ -145,11 +318,6 @@
     letter-spacing: 0.3px;
     transition: all 0.25s ease;
     border: none;
-  }
-  @media (min-width: 768px) {
-    .header-cta {
-      display: inline-flex;
-    }
   }
   .header-cta:hover {
     background: var(--color-primary);
@@ -254,6 +422,39 @@
     margin: 16px 16px;
   }
 
+  .mobile-lang-row {
+    display: flex;
+    gap: 10px;
+    padding: 0 16px;
+    flex-wrap: wrap;
+  }
+
+  .mobile-lang-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: var(--border-radius-pill);
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: rgba(242, 237, 230, 0.7);
+    font-family: var(--font-nav);
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+  .mobile-lang-chip:hover {
+    background: rgba(255, 255, 255, 0.08);
+    color: #f2ede6;
+    text-decoration: none;
+  }
+  .mobile-lang-chip-current {
+    background: rgba(29, 158, 117, 0.12);
+    border-color: rgba(29, 158, 117, 0.3);
+    color: #f2ede6;
+  }
+
   .mobile-menu-orb {
     position: absolute;
     bottom: -80px;
@@ -289,5 +490,29 @@
   mobileMenu?.addEventListener('click', (e) => {
     if ((e.target as HTMLElement).closest('.mobile-menu-links, .mobile-menu-top')) return;
     closeMenu();
+  });
+
+  // Language switcher dropdown
+  const langSwitcher = document.getElementById('lang-switcher');
+  const langBtn = langSwitcher?.querySelector('.lang-btn');
+
+  langBtn?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const isOpen = langSwitcher?.classList.toggle('open');
+    langBtn.setAttribute('aria-expanded', String(isOpen));
+  });
+
+  document.addEventListener('click', (e) => {
+    if (langSwitcher && !langSwitcher.contains(e.target as Node)) {
+      langSwitcher.classList.remove('open');
+      langBtn?.setAttribute('aria-expanded', 'false');
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      langSwitcher?.classList.remove('open');
+      langBtn?.setAttribute('aria-expanded', 'false');
+    }
   });
 </script>

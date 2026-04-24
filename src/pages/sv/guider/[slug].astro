@@ -1,0 +1,39 @@
+---
+import { getCollection, render } from 'astro:content';
+import Guide from '../../../layouts/Guide.astro';
+import { pathFor } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const guider = await getCollection('guider-sv');
+  return guider.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const alternates: { lang: 'nb' | 'sv'; url: string }[] = [
+  { lang: 'sv', url: `https://drommeguiden.no${pathFor('sv', 'guider', entry.data.slug)}` },
+];
+if (entry.data.nb_slug) {
+  alternates.push({
+    lang: 'nb',
+    url: `https://drommeguiden.no${pathFor('nb', 'guider', entry.data.nb_slug)}`,
+  });
+}
+---
+
+<Guide
+  tittel={entry.data.tittel}
+  kortbeskrivelse={entry.data.kortbeskrivelse}
+  slug={entry.data.slug}
+  leseminutter={entry.data.leseminutter}
+  dato={entry.data.dato}
+  bilde={entry.data.bilde}
+  lang="sv"
+  alternates={alternates}
+>
+  <Content />
+</Guide>

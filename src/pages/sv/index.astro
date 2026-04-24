@@ -1,0 +1,258 @@
+---
+import Base from '../../layouts/Base.astro';
+import SymbolKort from '../../components/SymbolKort.astro';
+import { getCollection } from 'astro:content';
+
+const drommer = await getCollection('drommer-sv');
+const sovn = await getCollection('sovn-sv');
+
+// Featured — fall back gracefully if chosen slugs don't exist yet
+const featuredSlugs = ['orm', 'hav', 'ex', 'tand', 'brand', 'flyga', 'hund', 'katt'];
+const featuredSymboler = featuredSlugs
+  .map(slug => drommer.find(d => d.data.slug === slug))
+  .filter(Boolean)
+  .slice(0, 8);
+
+const kategorier = [
+  { slug: 'dyr', tittel: 'Djur', emoji: '🐾' },
+  { slug: 'vann', tittel: 'Vatten', emoji: '🌊' },
+  { slug: 'kropp', tittel: 'Kropp', emoji: '🫀' },
+  { slug: 'steder', tittel: 'Platser', emoji: '🏠' },
+  { slug: 'hendelser', tittel: 'Händelser', emoji: '⚡' },
+  { slug: 'mennesker', tittel: 'Människor', emoji: '👤' },
+  { slug: 'natur', tittel: 'Natur', emoji: '🌿' },
+  { slug: 'gjenstander', tittel: 'Föremål', emoji: '🔑' },
+];
+
+const kategorierMedAntall = kategorier.map(kat => ({
+  ...kat,
+  antall: drommer.filter(d => d.data.kategori === kat.slug).length,
+}));
+---
+
+<Base
+  tittel="Drömguiden"
+  beskrivelse="Ta reda på vad dina drömmar betyder. Komplett guide till drömsymboler och drömtolkning på svenska."
+  lang="sv"
+  canonicalUrl="https://drommeguiden.no/sv/"
+  alternates={[
+    { lang: 'nb', url: 'https://drommeguiden.no/' },
+    { lang: 'sv', url: 'https://drommeguiden.no/sv/' },
+  ]}
+>
+  <!-- Hero -->
+  <section class="hero-section">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <p class="hero-label">Drömguiden</p>
+        <h1 class="hero-title">Vad drömde du<br />i natt?</h1>
+        <p class="hero-subtitle">
+          Den svenska guiden till drömsymboler och drömtolkning. Förstå vad dina drömmar försöker säga dig.
+        </p>
+
+        <div class="hero-search-wrapper">
+          <input
+            type="text"
+            id="sok"
+            placeholder="Sök efter en drömsymbol..."
+            autocomplete="off"
+            class="hero-search-input"
+          />
+          <div id="sok-resultater" class="hero-search-results hidden"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured symbols -->
+  {featuredSymboler.length > 0 && (
+    <section class="section">
+      <div class="section-header">
+        <span class="section-label">Populära symboler</span>
+        <h2 class="section-title">Utforska drömsymboler</h2>
+      </div>
+      <div class="symbols-grid">
+        {featuredSymboler.map((s: any) => (
+          <SymbolKort
+            tittel={s.data.tittel}
+            slug={s.data.slug}
+            kortbeskrivelse={s.data.kortbeskrivelse}
+            kategori={s.data.kategori}
+            bilde={s.data.bilde}
+            lang="sv"
+          />
+        ))}
+      </div>
+      <div class="section-cta">
+        <a href="/sv/drommar/" class="btn-secondary">Se alla drömsymboler</a>
+      </div>
+    </section>
+  )}
+
+  <!-- Categories -->
+  <section class="section">
+    <div class="section-header">
+      <span class="section-label">Utforska efter tema</span>
+      <h2 class="section-title">Kategorier</h2>
+    </div>
+    <div class="kategori-grid">
+      {kategorierMedAntall.map((k) => (
+        <a href={`/sv/drommar/?kategori=${k.slug}`} class="kategori-card">
+          <span class="kategori-emoji" aria-hidden="true">{k.emoji}</span>
+          <span class="kategori-label">{k.tittel}</span>
+          <span class="kategori-count">{k.antall} symboler</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Sovn section -->
+  {sovn.length > 0 && (
+    <section class="sovn-section">
+      <div class="sovn-section-inner">
+        <span class="sovn-section-label">Sömnsektionen</span>
+        <h2 class="sovn-section-title">Bättre nätter börjar här</h2>
+        <p class="sovn-section-text">
+          Drömmar sker under REM-sömn — sömnkvaliteten påverkar direkt vad du drömmer.
+          Utforska vår sömnsektion med artiklar baserade på forskning.
+        </p>
+        <a href="/sv/somn/" class="btn-primary">Utforska sömnartiklar</a>
+      </div>
+    </section>
+  )}
+
+  <style>
+    .hero-section { padding: 48px 0 32px; text-align: center; }
+    .hero-inner { max-width: 720px; margin: 0 auto; }
+    .hero-label {
+      font-family: var(--font-nav); font-size: 11px; letter-spacing: 1.5px;
+      text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 16px; font-weight: 600;
+    }
+    .hero-title {
+      font-family: var(--font-heading); font-size: 48px; line-height: 1.1;
+      color: var(--color-text-heading); margin-bottom: 20px; font-weight: 400;
+    }
+    @media (min-width: 768px) { .hero-title { font-size: 64px; } }
+    .hero-subtitle {
+      font-size: 17px; line-height: 1.7; color: var(--color-text-muted);
+      max-width: 520px; margin: 0 auto 32px;
+    }
+    .hero-search-wrapper { position: relative; max-width: 440px; margin: 0 auto; }
+    .hero-search-input {
+      width: 100%; padding: 14px 20px; border-radius: 100px;
+      border: 1px solid rgba(123, 111, 160, 0.15); background: rgba(255, 255, 255, 0.9);
+      font-size: 15px; font-family: var(--font-body);
+    }
+    .hero-search-input:focus {
+      outline: none; border-color: var(--color-primary);
+      box-shadow: 0 0 0 3px rgba(123, 111, 160, 0.1);
+    }
+    .hero-search-results {
+      position: absolute; top: calc(100% + 8px); left: 0; right: 0;
+      background: rgba(255, 255, 255, 0.98); border-radius: 16px;
+      box-shadow: 0 8px 32px rgba(26, 31, 58, 0.1); padding: 8px; z-index: 10;
+    }
+    .hidden { display: none; }
+
+    .section { margin: 64px 0; }
+    .section-header { text-align: center; margin-bottom: 32px; }
+    .section-label {
+      display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+      letter-spacing: 1.5px; text-transform: uppercase;
+      color: var(--color-text-muted); margin-bottom: 10px;
+    }
+    .section-title {
+      font-family: var(--font-heading); font-size: 32px; color: var(--color-text-heading); font-weight: 400;
+    }
+    @media (min-width: 768px) { .section-title { font-size: 40px; } }
+    .section-cta { text-align: center; margin-top: 32px; }
+
+    .symbols-grid {
+      display: grid; grid-template-columns: 1fr; gap: 20px;
+    }
+    @media (min-width: 480px) { .symbols-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 768px) { .symbols-grid { grid-template-columns: repeat(4, 1fr); } }
+
+    .kategori-grid {
+      display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;
+    }
+    @media (min-width: 640px) { .kategori-grid { grid-template-columns: repeat(4, 1fr); } }
+    .kategori-card {
+      display: flex; flex-direction: column; align-items: center;
+      padding: 22px 14px; background: rgba(255, 255, 255, 0.7);
+      border: 1px solid rgba(123, 111, 160, 0.1); border-radius: 16px;
+      text-decoration: none; transition: all 0.25s ease;
+    }
+    .kategori-card:hover {
+      transform: translateY(-3px); text-decoration: none;
+      box-shadow: 0 8px 24px rgba(26, 31, 58, 0.06);
+      border-color: rgba(123, 111, 160, 0.2);
+    }
+    .kategori-emoji { font-size: 28px; margin-bottom: 8px; }
+    .kategori-label {
+      font-family: var(--font-nav); font-size: 14px; font-weight: 600;
+      color: var(--color-text-heading); margin-bottom: 4px;
+    }
+    .kategori-count { font-size: 12px; color: var(--color-text-muted); }
+
+    .sovn-section {
+      margin: 64px 0;
+      background: linear-gradient(160deg, #0f1328 0%, #1a2340 40%, #0f2030 100%);
+      border-radius: 24px; padding: 56px 28px; text-align: center;
+    }
+    .sovn-section-inner { max-width: 540px; margin: 0 auto; }
+    .sovn-section-label {
+      display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+      letter-spacing: 1.5px; text-transform: uppercase;
+      color: #1D9E75; margin-bottom: 14px;
+    }
+    .sovn-section-title {
+      font-family: var(--font-heading); font-size: 36px; color: #f2ede6;
+      margin-bottom: 16px; font-weight: 400;
+    }
+    .sovn-section-text {
+      font-size: 15px; line-height: 1.7; color: rgba(242, 237, 230, 0.7); margin-bottom: 28px;
+    }
+  </style>
+
+  <script>
+    const sokInput = document.getElementById('sok') as HTMLInputElement;
+    const results = document.getElementById('sok-resultater');
+
+    const symboler = JSON.parse(document.getElementById('search-data')?.textContent || '[]');
+
+    sokInput?.addEventListener('input', () => {
+      const q = sokInput.value.toLowerCase().trim();
+      if (q.length < 2 || !results) {
+        results?.classList.add('hidden');
+        return;
+      }
+      const hits = symboler.filter((s: any) =>
+        s.tittel.toLowerCase().includes(q) || s.slug.toLowerCase().includes(q)
+      ).slice(0, 6);
+
+      if (hits.length === 0) {
+        results.innerHTML = '<p style="padding:14px;font-size:14px;color:#8a7f76;">Inga träffar</p>';
+      } else {
+        results.innerHTML = hits.map((h: any) =>
+          `<a href="/sv/drommar/${h.slug}/" style="display:block;padding:12px 16px;text-decoration:none;border-radius:10px;color:#2d2926;font-size:14px;">${h.tittel}</a>`
+        ).join('');
+      }
+      results.classList.remove('hidden');
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!sokInput?.contains(e.target as Node) && !results?.contains(e.target as Node)) {
+        results?.classList.add('hidden');
+      }
+    });
+  </script>
+
+  <script
+    id="search-data"
+    type="application/json"
+    set:html={JSON.stringify(
+      drommer.map(d => ({ slug: d.data.slug, tittel: d.data.tittel.replace(/ — vad betyder det\?/, '') }))
+    )}
+  />
+</Base>

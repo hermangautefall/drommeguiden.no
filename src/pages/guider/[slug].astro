@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Guide from '../../layouts/Guide.astro';
+import { pathFor } from '../../i18n/utils';
 
 export async function getStaticPaths() {
   const guider = await getCollection('guider');
@@ -12,6 +13,16 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+
+const alternates: { lang: 'nb' | 'sv'; url: string }[] = [
+  { lang: 'nb', url: `https://drommeguiden.no${pathFor('nb', 'guider', entry.data.slug)}` },
+];
+if (entry.data.sv_slug) {
+  alternates.push({
+    lang: 'sv',
+    url: `https://drommeguiden.no${pathFor('sv', 'guider', entry.data.sv_slug)}`,
+  });
+}
 ---
 
 <Guide
@@ -21,6 +32,8 @@ const { Content } = await render(entry);
   leseminutter={entry.data.leseminutter}
   dato={entry.data.dato}
   bilde={entry.data.bilde}
+  lang="nb"
+  alternates={alternates}
 >
   <Content />
 </Guide>

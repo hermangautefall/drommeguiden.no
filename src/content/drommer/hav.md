@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Et stormfullt hav kan peke mot uro, overveldende følelser eller konflikt."
 dato: 2026-03-18
 bilde: /bilder/symboler/hav.jpg
+sv_slug: hav
 ---
 
 ## Hva betyr det å drømme om hav?

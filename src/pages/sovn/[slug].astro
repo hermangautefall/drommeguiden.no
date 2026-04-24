@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Sovn from '../../layouts/Sovn.astro';
+import { pathFor } from '../../i18n/utils';
 
 export async function getStaticPaths() {
   const artikler = await getCollection('sovn');
@@ -12,6 +13,16 @@ export async function getStaticPaths() {
 
 const { artikkel } = Astro.props;
 const { Content } = await render(artikkel);
+
+const alternates: { lang: 'nb' | 'sv'; url: string }[] = [
+  { lang: 'nb', url: `https://drommeguiden.no${pathFor('nb', 'sovn', artikkel.data.slug)}` },
+];
+if (artikkel.data.sv_slug) {
+  alternates.push({
+    lang: 'sv',
+    url: `https://drommeguiden.no${pathFor('sv', 'sovn', artikkel.data.sv_slug)}`,
+  });
+}
 ---
 
 <Sovn
@@ -25,6 +36,8 @@ const { Content } = await render(artikkel);
   bilde={artikkel.data.bilde}
   relaterte_sovn={artikkel.data.relaterte_sovn}
   relaterte_drommer={artikkel.data.relaterte_drommer}
+  lang="nb"
+  alternates={alternates}
 >
   <Content />
 </Sovn>

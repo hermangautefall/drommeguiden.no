@@ -1,34 +1,75 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { languages, defaultLang, type Lang } from '../i18n/config';
+import { useTranslations } from '../i18n/ui';
+
+interface AlternateLink {
+  lang: Lang;
+  url: string;
+}
 
 interface Props {
   tittel: string;
   beskrivelse: string;
   canonicalUrl?: string;
   ogImage?: string;
+  lang?: Lang;
+  alternates?: AlternateLink[];
 }
 
-const { tittel, beskrivelse, canonicalUrl, ogImage = '/og-image.png' } = Astro.props;
+const {
+  tittel,
+  beskrivelse,
+  canonicalUrl,
+  ogImage = '/og-image.png',
+  lang = defaultLang,
+  alternates = [],
+} = Astro.props;
+
 const canonical = canonicalUrl || Astro.url.href;
+const langConfig = languages[lang];
+const t = useTranslations(lang);
+
+const titleSuffix = langConfig.brand;
+const fullTitle = `${tittel} | ${titleSuffix}`;
+
+// hreflang defaults: always link to self + NO default; include SV if provided
+const hreflangLinks = [
+  ...alternates.map(a => ({
+    hreflang: languages[a.lang].htmlLang,
+    href: a.url,
+  })),
+  // x-default points to Norwegian version if available
+  ...(alternates.find(a => a.lang === 'nb')
+    ? [{ hreflang: 'x-default', href: alternates.find(a => a.lang === 'nb')!.url }]
+    : []),
+];
 ---
 
 <!doctype html>
-<html lang="nb">
+<html lang={langConfig.htmlLang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{tittel} | Drømmeguiden</title>
+    <title>{fullTitle}</title>
     <meta name="description" content={beskrivelse} />
     <link rel="canonical" href={canonical} />
 
+    {hreflangLinks.map(link => (
+      <link rel="alternate" hreflang={link.hreflang} href={link.href} />
+    ))}
+
     <!-- Open Graph -->
-    <meta property="og:title" content={`${tittel} | Drømmeguiden`} />
+    <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={beskrivelse} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:url" content={canonical} />
     <meta property="og:type" content="website" />
-    <meta property="og:locale" content="nb_NO" />
+    <meta property="og:locale" content={langConfig.locale} />
+    {alternates.filter(a => a.lang !== lang).map(a => (
+      <meta property="og:locale:alternate" content={languages[a.lang].locale} />
+    ))}
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -58,12 +99,12 @@ const canonical = canonicalUrl || Astro.url.href;
     <slot name="head" />
   </head>
   <body class="min-h-screen flex flex-col bg-pattern" style="background-color: var(--color-bg-cream); color: var(--color-text-body);">
-    <Header />
+    <Header lang={lang} alternates={alternates} />
 
     <main class="flex-1 max-w-5xl mx-auto px-4 py-10 w-full">
       <slot />
     </main>
 
-    <Footer />
+    <Footer lang={lang} />
   </body>
 </html>

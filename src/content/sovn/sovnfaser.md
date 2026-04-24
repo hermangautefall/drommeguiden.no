@@ -7,6 +7,7 @@ kortbeskrivelse: "Søvnen er delt i faser som hjernen sykler gjennom hele natten
 leseminutter: 8
 dato: 2026-03-22
 bilde: /bilder/sovn/sovnfaser.jpg
+sv_slug: somnfaser
 relaterte_sovn:
   - hva-er-sovn
   - hvorfor-drommer-vi

@@ -1,0 +1,158 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const kategorier = await getCollection('kategorier-sv');
+const drommer = await getCollection('drommer-sv');
+
+const emojiMap: Record<string, string> = {
+  djur: '🐾',
+  vatten: '🌊',
+  kropp: '🫀',
+  platser: '🏠',
+  handelser: '⚡',
+  manniskor: '👤',
+  natur: '🌿',
+  foremal: '🔑',
+  andlig: '✨',
+};
+
+const kategorierMedAntall = kategorier.map(kat => ({
+  ...kat,
+  antall: drommer.filter(d => d.data.kategori === kat.data.slug).length,
+  emoji: emojiMap[kat.data.slug] || '✨',
+}));
+---
+
+<Base
+  tittel="Alla kategorier"
+  beskrivelse="Utforska drömsymboler sorterade efter kategori. Djur, vatten, kropp, platser, händelser och mer."
+  lang="sv"
+  alternates={[{ lang: 'nb', url: 'https://drommeguiden.no/kategori/' }]}
+>
+  <div class="kategori-index">
+    <span class="kategori-label">Tematisk översikt</span>
+    <h1 class="kategori-title">Alla kategorier</h1>
+    <p class="kategori-subtitle">
+      Utforska drömsymboler sorterade efter tema.
+    </p>
+
+    <div class="kategori-grid">
+      {kategorierMedAntall.map((kat) => (
+        <a href={`/sv/kategori/${kat.data.slug}/`} class="kategori-card">
+          <span class="kategori-card-emoji" aria-hidden="true">{kat.emoji}</span>
+          <div class="kategori-card-body">
+            <h2 class="kategori-card-title">
+              {kat.data.tittel.replace(/ — tolkningar och symboler/, '')}
+            </h2>
+            <p class="kategori-card-desc">
+              {kat.data.kortbeskrivelse}
+            </p>
+            <span class="kategori-card-count">{kat.antall} symboler</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>
+
+<style>
+  .kategori-index {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .kategori-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+
+  .kategori-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 10px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .kategori-title { font-size: 48px; }
+  }
+
+  .kategori-subtitle {
+    font-size: 16px;
+    color: var(--color-text-muted);
+    margin-bottom: 36px;
+  }
+
+  .kategori-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  @media (min-width: 640px) {
+    .kategori-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .kategori-card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 28px 24px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(123, 111, 160, 0.08);
+    border-radius: 16px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+  }
+  .kategori-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(26, 31, 58, 0.08), 0 24px 48px rgba(26, 31, 58, 0.06);
+    text-decoration: none;
+    border-color: rgba(123, 111, 160, 0.15);
+  }
+
+  .kategori-card-emoji {
+    font-size: 36px;
+    flex-shrink: 0;
+  }
+
+  .kategori-card-body {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .kategori-card-title {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    color: var(--color-text-heading);
+    font-weight: 400;
+    margin-bottom: 6px;
+    line-height: 1.3;
+  }
+
+  .kategori-card-desc {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 8px;
+  }
+
+  .kategori-card-count {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    color: var(--color-text-muted);
+    letter-spacing: 0.3px;
+  }
+</style>
