@@ -1,0 +1,35 @@
+# Force 301 (Permanent Redirect) for missing trailing slash.
+# Overrides Cloudflare Pages' default 308 behaviour.
+
+# Dynamic content sections (NO)
+/drommer/:slug      /drommer/:slug/      301
+/kategori/:slug     /kategori/:slug/     301
+/guider/:slug       /guider/:slug/       301
+/sovn/:slug         /sovn/:slug/         301
+
+# Dynamic content sections (SV)
+/sv/drommar/:slug   /sv/drommar/:slug/   301
+/sv/kategori/:slug  /sv/kategori/:slug/  301
+/sv/guider/:slug    /sv/guider/:slug/    301
+/sv/somn/:slug      /sv/somn/:slug/      301
+
+# Top-level static pages (NO)
+/drommer            /drommer/            301
+/kategori           /kategori/           301
+/guider             /guider/             301
+/sovn               /sovn/               301
+/personvern         /personvern/         301
+/cookies            /cookies/            301
+/kontakt            /kontakt/            301
+/om-oss             /om-oss/             301
+
+# Top-level static pages (SV)
+/sv                 /sv/                 301
+/sv/drommar         /sv/drommar/         301
+/sv/kategori        /sv/kategori/        301
+/sv/guider          /sv/guider/          301
+/sv/somn            /sv/somn/            301
+/sv/integritet      /sv/integritet/      301
+/sv/cookies         /sv/cookies/         301
+/sv/kontakt         /sv/kontakt/         301
+/sv/om-oss          /sv/om-oss/          301
