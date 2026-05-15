@@ -45,37 +45,37 @@
 # ============================================================
 
 # 301-redirects for kjente 404-URLer:
-/drommer/hander/                  /drommer/hender/                  301  # fuzzy 0.83
-/drommer/rot/                     /drommer/rotte/                   301  # fuzzy 0.85
-/guider/barn-och-drommar/         /guider/barn-og-drommer/          301  # fuzzy 0.81
-/guider/farger-i-drommar/         /guider/farger-i-drommer/         301  # fuzzy 0.94
-/guider/profetiska-drommar/       /guider/profetiske-drommer/       301  # fuzzy 0.89
-/guider/stress-och-drommar/       /guider/stress-og-drommer/        301  # fuzzy 0.83
-/sv/drommar/avdod-person/         /sv/drommar/avliden-person/       301  # nb→sv
-/sv/drommar/blixt/                /sv/drommar/blixten/              301  # fuzzy 0.85
-/sv/drommar/drukne/               /sv/drommar/drunkna/              301  # nb→sv
-/sv/drommar/fodsel/               /sv/drommar/fodelse/              301  # nb→sv
-/sv/drommar/forfulgt/             /sv/drommar/forfoljd/             301  # nb→sv
-/sv/drommar/grall/                /sv/drommar/gral/                 301  # fuzzy 0.85
-/sv/drommar/hai/                  /sv/drommar/haj/                  301  # nb→sv
-/sv/drommar/helvetet/             /sv/drommar/helvete/              301  # fuzzy 0.88
-/sv/drommar/hest/                 /sv/drommar/hast/                 301  # nb→sv
-/sv/drommar/internett/            /sv/drommar/internet/             301  # nb→sv
-/sv/drommar/jordskjelv/           /sv/drommar/jordbavning/          301  # nb→sv
-/sv/drommar/mamma/                /sv/drommar/amma/                 301  # fuzzy 0.85
-/sv/drommar/miste-baby/           /sv/drommar/forlora-barn/         301  # nb→sv
-/sv/drommar/oken/                 /sv/drommar/oknen/                301  # fuzzy 0.80
-/sv/drommar/sau/                  /sv/drommar/far/                  301  # nb→sv
-/sv/drommar/slange/               /sv/drommar/orm/                  301  # nb→sv
-/sv/drommar/ulv/                  /sv/drommar/varg/                 301  # nb→sv
-/sv/guider/atervandande-drommar/  /sv/guider/aterkommande-drommar/  301  # fuzzy 0.80
-/sv/guider/gjentakende-drommer/   /sv/guider/aterkommande-drommar/  301  # nb→sv
-/sv/guider/mardrommar/            /sv/guider/mardrom/               301  # fuzzy 0.85
-/sv/kategori/vann/                /sv/kategori/vatten/              301  # nb→sv
+/drommer/hander/                  /drommer/hender/                  301
+/drommer/rot/                     /drommer/rotte/                   301
+/guider/barn-och-drommar/         /guider/barn-og-drommer/          301
+/guider/farger-i-drommar/         /guider/farger-i-drommer/         301
+/guider/profetiska-drommar/       /guider/profetiske-drommer/       301
+/guider/stress-och-drommar/       /guider/stress-og-drommer/        301
+/sv/drommar/avdod-person/         /sv/drommar/avliden-person/       301
+/sv/drommar/blixt/                /sv/drommar/blixten/              301
+/sv/drommar/drukne/               /sv/drommar/drunkna/              301
+/sv/drommar/fodsel/               /sv/drommar/fodelse/              301
+/sv/drommar/forfulgt/             /sv/drommar/forfoljd/             301
+/sv/drommar/grall/                /sv/drommar/gral/                 301
+/sv/drommar/hai/                  /sv/drommar/haj/                  301
+/sv/drommar/helvetet/             /sv/drommar/helvete/              301
+/sv/drommar/hest/                 /sv/drommar/hast/                 301
+/sv/drommar/internett/            /sv/drommar/internet/             301
+/sv/drommar/jordskjelv/           /sv/drommar/jordbavning/          301
+/sv/drommar/mamma/                /sv/drommar/amma/                 301
+/sv/drommar/miste-baby/           /sv/drommar/forlora-barn/         301
+/sv/drommar/oken/                 /sv/drommar/oknen/                301
+/sv/drommar/sau/                  /sv/drommar/far/                  301
+/sv/drommar/slange/               /sv/drommar/orm/                  301
+/sv/drommar/ulv/                  /sv/drommar/varg/                 301
+/sv/guider/atervandande-drommar/  /sv/guider/aterkommande-drommar/  301
+/sv/guider/gjentakende-drommer/   /sv/guider/aterkommande-drommar/  301
+/sv/guider/mardrommar/            /sv/guider/mardrom/               301
+/sv/kategori/vann/                /sv/kategori/vatten/              301
 /sv/sovn/ptsd-drommar/            /sv/somn/ptsd-drommar/            301  
 /sv/sovn/somn-graviditet/         /sv/somn/somn-graviditet/         301  
 /sv/sovn/sorg-somn/               /sv/somn/sorg-somn/               301  
-/sv/sovn/sovnfaser/               /sv/somn/somnfaser/               301  # nb→sv
+/sv/sovn/sovnfaser/               /sv/somn/somnfaser/               301
 
 # ============================================================
 # Trailing slash enforcement — tving 301 i stedet for default 308
