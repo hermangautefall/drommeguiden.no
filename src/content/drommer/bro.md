@@ -1,8 +1,8 @@
 ---
-tittel: "Drømmer om bro — hva betyr det?"
+tittel: "Drømt om bro? 5 tolkninger av et viktig drømmesymbol (2026)"
 slug: bro
 kategori: steder
-kortbeskrivelse: "Har du drømt om bro? Broer i drømmer symboliserer overganger mellom to tilstander — her er de vanligste tolkningene av hva det egentlig betyr."
+kortbeskrivelse: "Drømt om bro? Broer markerer en overgang i livet — men retningen og tilstanden bestemmer betydningen. Les 5 ærlige tolkninger forklart (2026)."
 relaterte:
   - dor
   - trapp

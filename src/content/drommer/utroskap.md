@@ -1,8 +1,8 @@
 ---
-tittel: "Drømmer om utroskap — hva betyr det?"
+tittel: "Drømt om utroskap? 5 tolkninger som overrasker (2026)"
 slug: utroskap
 kategori: hendelser
-kortbeskrivelse: "Har du drømt om utroskap? Slike drømmer skaper ofte angst og mistanke — men de betyr sjelden det du tror. Her er hva de egentlig handler om."
+kortbeskrivelse: "Drømt om utroskap? Det skaper ofte angst og mistanke — men drømmen handler sjelden om partneren. 5 ærlige tolkninger forklarer hva den betyr (2026)."
 relaterte:
   - kjaereste
   - eksen

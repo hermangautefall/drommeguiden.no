@@ -1,8 +1,8 @@
 ---
-tittel: "Drømmer om sommerfugl — hva betyr det?"
+tittel: "Drømt om sommerfugl? 5 tolkninger og hva det betyr (2026)"
 slug: sommerfugl
 kategori: dyr
-kortbeskrivelse: "Har du drømt om sommerfugl? Sommerfuglen i drømmer symboliserer forvandling, frihet og sjelen i sin letteste form. Les de vanligste tolkningene."
+kortbeskrivelse: "Drømt om sommerfugl? Den varsler ofte forvandling og en ny start — men fargen og bevegelsen avgjør betydningen. 5 tolkninger forklart (2026)."
 relaterte:
   - flyging
   - skog

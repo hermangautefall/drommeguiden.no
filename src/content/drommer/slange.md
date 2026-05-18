@@ -1,8 +1,8 @@
 ---
-tittel: "Drømmer om slange — hva betyr det?"
+tittel: "Drømt om slange? 7 tolkninger som forklarer drømmen (2026)"
 slug: slange
 kategori: dyr
-kortbeskrivelse: "Har du drømt om slange? Slangen er ett av de kraftigste symbolene i drømmeverdenen. Utforsk de vanligste tolkningene og hva drømmen kan fortelle deg."
+kortbeskrivelse: "Drømt om slange eller slanger? Den vekker frykt — men slangen er ett av de kraftigste forvandlingssymbolene. Les 7 ærlige tolkninger (2026)."
 relaterte:
   - edderkopp
   - ulv

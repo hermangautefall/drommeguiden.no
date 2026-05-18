@@ -1,7 +1,7 @@
 ---
-tittel: "Barn og drømmer — hva drømmer barn om, og hvordan hjelper du dem?"
+tittel: "Når begynner barn å drømme? Alt foreldre må vite (2026)"
 slug: barn-og-drommer
-kortbeskrivelse: "Barn drømmer annerledes enn voksne og har unike behov knyttet til drømmene. Her er hva forskning vet om barns drømmeliv og hvordan du støtter dem."
+kortbeskrivelse: "Når begynner barn å drømme — og hva drømmer de om? Forskningsbasert guide for foreldre, med 5 konkrete råd for å hjelpe ved mareritt (2026)."
 leseminutter: 8
 bilde: /bilder/guider/barn-og-drommer.jpg
 dato: 2026-03-18
