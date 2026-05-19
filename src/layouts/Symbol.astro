@@ -118,16 +118,28 @@ const labels = lang === 'sv'
         {
           '@type': 'FAQPage',
           inLanguage: langConfig.htmlLang,
-          mainEntity: tolkninger_kort.map((tolkning) => ({
-            '@type': 'Question',
-            name: lang === 'sv'
-              ? `Vad betyder det att drömma om ${slug.replace(/-/g, ' ')}?`
-              : `Hva betyr det å drømme om ${slug.replace(/-/g, ' ')}?`,
-            acceptedAnswer: {
-              '@type': 'Answer',
-              text: tolkning,
-            },
-          })),
+          mainEntity: tolkninger_kort.map((tolkning, i) => {
+            const symbol = slug.replace(/-/g, ' ');
+            const patterns = lang === 'sv'
+              ? [
+                  `Vad betyder det att drömma om ${symbol}?`,
+                  `Vad symboliserar ${symbol} i drömmar?`,
+                  `Är det dåligt att drömma om ${symbol}?`,
+                ]
+              : [
+                  `Hva betyr det å drømme om ${symbol}?`,
+                  `Hva symboliserer ${symbol} i drømmer?`,
+                  `Er det dårlig å drømme om ${symbol}?`,
+                ];
+            return {
+              '@type': 'Question',
+              name: patterns[i % patterns.length],
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: tolkning,
+              },
+            };
+          }),
         },
       ],
     })}
