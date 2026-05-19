@@ -1,0 +1,212 @@
+---
+import { defaultLang, type Lang } from '../i18n/config';
+
+interface Props {
+  lang?: Lang;
+  contentId: string;
+  minHeadings?: number;
+  accentColor?: string;
+  variant?: 'sticky' | 'accordion';
+}
+
+const {
+  lang = defaultLang,
+  contentId,
+  minHeadings = 4,
+  accentColor = '#7B6FA0',
+  variant = 'sticky',
+} = Astro.props;
+
+const label = lang === 'sv' ? 'Innehåll' : 'Innhold';
+---
+
+{variant === 'sticky' && (
+  <aside
+    class="content-toc-sticky"
+    data-toc-root
+    data-content-id={contentId}
+    data-min-headings={minHeadings}
+    style={`--toc-accent: ${accentColor};`}
+  >
+    <p class="content-toc-label">{label}</p>
+    <nav class="content-toc-nav" aria-label={label}></nav>
+  </aside>
+)}
+
+{variant === 'accordion' && (
+  <details
+    class="content-toc-accordion"
+    data-toc-root
+    data-content-id={contentId}
+    data-min-headings={minHeadings}
+    style={`--toc-accent: ${accentColor};`}
+  >
+    <summary class="content-toc-accordion-summary">
+      <span class="content-toc-label">{label}</span>
+      <svg class="content-toc-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <polyline points="6 9 12 15 18 9"></polyline>
+      </svg>
+    </summary>
+    <nav class="content-toc-nav content-toc-accordion-nav" aria-label={label}></nav>
+  </details>
+)}
+
+<script>
+  const roots = Array.from(document.querySelectorAll('[data-toc-root]'));
+
+  for (const root of roots) {
+    const contentId = root.getAttribute('data-content-id');
+    const minHeadings = parseInt(root.getAttribute('data-min-headings') || '4', 10);
+    const content = contentId ? document.getElementById(contentId) : null;
+    if (!content) { root.remove(); continue; }
+    const headings = content.querySelectorAll('h2');
+    if (headings.length < minHeadings) { root.remove(); continue; }
+
+    const nav = root.querySelector('.content-toc-nav');
+    if (!nav) continue;
+    const ul = document.createElement('ul');
+    ul.className = 'content-toc-list';
+    headings.forEach((h, i) => {
+      const id = h.id || `section-${i}`;
+      h.id = id;
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = `#${id}`;
+      a.textContent = h.textContent || '';
+      a.className = 'content-toc-link';
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+    nav.appendChild(ul);
+  }
+
+  // Active-link tracking across all remaining roots
+  const remainingRoots = Array.from(document.querySelectorAll('[data-toc-root]'));
+  const trackedHeadings = new Set<Element>();
+  for (const root of remainingRoots) {
+    const contentId = root.getAttribute('data-content-id');
+    const content = contentId ? document.getElementById(contentId) : null;
+    if (!content) continue;
+    content.querySelectorAll('h2').forEach(h => trackedHeadings.add(h));
+  }
+  if (trackedHeadings.size > 0) {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          document.querySelectorAll('.content-toc-link').forEach(l => l.classList.remove('content-toc-active'));
+          document.querySelectorAll(`.content-toc-link[href="#${entry.target.id}"]`).forEach(l => l.classList.add('content-toc-active'));
+        }
+      });
+    }, { rootMargin: '-80px 0px -60% 0px' });
+    trackedHeadings.forEach(h => observer.observe(h));
+  }
+
+  // Close mobile accordion when a link is clicked
+  document.querySelectorAll('.content-toc-accordion .content-toc-link').forEach((link) => {
+    link.addEventListener('click', () => {
+      const details = link.closest('details');
+      if (details) (details as HTMLDetailsElement).open = false;
+    });
+  });
+</script>
+
+<style>
+  /* Sticky desktop sidebar */
+  .content-toc-sticky {
+    display: none;
+  }
+  @media (min-width: 768px) {
+    .content-toc-sticky {
+      display: block;
+      width: 200px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 100px;
+      align-self: flex-start;
+      max-height: calc(100vh - 140px);
+      overflow-y: auto;
+    }
+  }
+
+  /* Mobile accordion */
+  .content-toc-accordion {
+    background: rgba(123, 111, 160, 0.04);
+    border: 1px solid rgba(123, 111, 160, 0.12);
+    border-radius: 12px;
+    margin-bottom: 28px;
+    overflow: hidden;
+  }
+  @media (min-width: 768px) {
+    .content-toc-accordion {
+      display: none;
+    }
+  }
+  .content-toc-accordion-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 18px;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+  }
+  .content-toc-accordion-summary::-webkit-details-marker { display: none; }
+  .content-toc-accordion-summary::marker { content: ''; }
+  .content-toc-accordion[open] .content-toc-chevron {
+    transform: rotate(180deg);
+  }
+  .content-toc-chevron {
+    color: var(--color-text-muted);
+    transition: transform 0.2s ease;
+    flex-shrink: 0;
+  }
+  .content-toc-accordion-nav {
+    padding: 4px 18px 14px;
+  }
+  .content-toc-accordion .content-toc-label {
+    margin: 0;
+  }
+
+  /* Shared label */
+  .content-toc-label {
+    font-family: var(--font-nav);
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin: 0 0 16px;
+    font-weight: 600;
+  }
+
+  /* List + links — global so styles apply to dynamically-injected DOM */
+  :global(.content-toc-list) {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    border-left: 1px solid rgba(123, 111, 160, 0.18);
+  }
+
+  :global(.content-toc-link) {
+    display: block;
+    padding: 6px 0 6px 16px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    transition: all 0.2s ease;
+    border-left: 2px solid transparent;
+    margin-left: -1px;
+  }
+  :global(.content-toc-link:hover) {
+    color: var(--toc-accent, #7B6FA0);
+    text-decoration: none;
+  }
+  :global(.content-toc-link.content-toc-active) {
+    color: var(--toc-accent, #7B6FA0);
+    border-left-color: var(--toc-accent, #7B6FA0);
+    font-weight: 600;
+  }
+</style>
