@@ -1,5 +1,9 @@
 ---
-// Giscus comment system component
+// Giscus comment system component.
+// Hvis giscus-scriptet feiler å laste, eller iframen ikke har innhold
+// etter 3000ms, skjules .giscus-wrapper og en tekst "Snart kommer
+// kommentarer her" vises i stedet. Slik unngår vi at utloggede brukere
+// ser en tom grå firkant nederst på siden.
 ---
 
 <section class="kommentarer-section">
@@ -8,8 +12,9 @@
   <p class="kommentarer-desc">
     Har du drømt noe lignende? Del din opplevelse eller still et spørsmål.
   </p>
-  <div class="giscus-wrapper">
+  <div class="giscus-wrapper" id="giscus-wrapper">
     <script
+      id="giscus-script"
       src="https://giscus.app/client.js"
       data-repo="hermangautefall/drommeguiden.no"
       data-repo-id="R_kgDORpoPww"
@@ -24,9 +29,32 @@
       data-lang="nb"
       crossorigin="anonymous"
       async
+      onerror="window.__giscusFailed=true;"
     ></script>
   </div>
+  <p class="kommentarer-fallback" id="kommentarer-fallback" hidden>
+    Snart kommer kommentarer her
+  </p>
 </section>
+
+<script is:inline>
+  (function () {
+    var wrapper = document.getElementById('giscus-wrapper');
+    var fallback = document.getElementById('kommentarer-fallback');
+    if (!wrapper || !fallback) return;
+
+    setTimeout(function () {
+      var iframe = wrapper.querySelector('iframe');
+      var scriptFailed = window.__giscusFailed === true;
+      var hasContent = iframe && iframe.offsetHeight > 50;
+
+      if (scriptFailed || !hasContent) {
+        wrapper.style.display = 'none';
+        fallback.hidden = false;
+      }
+    }, 3000);
+  })();
+</script>
 
 <style>
   .kommentarer-section {
@@ -63,5 +91,14 @@
 
   .giscus-wrapper {
     min-height: 200px;
+  }
+
+  .kommentarer-fallback {
+    font-size: 15px;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin: 0;
+    padding: 24px 0;
+    font-style: italic;
   }
 </style>
