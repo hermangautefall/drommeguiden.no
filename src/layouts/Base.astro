@@ -18,6 +18,8 @@ interface Props {
   beskrivelse: string;
   canonicalUrl?: string;
   ogImage?: string;
+  ogImageWidth?: number;
+  ogImageHeight?: number;
   type?: PageType;
   publishedTime?: Date | string;
   modifiedTime?: Date | string;
@@ -32,6 +34,8 @@ const {
   beskrivelse,
   canonicalUrl,
   ogImage,
+  ogImageWidth,
+  ogImageHeight,
   type = 'website',
   publishedTime,
   modifiedTime,
@@ -51,12 +55,16 @@ const brand = langConfig.brand;
 const isRoot = tittel.trim() === brand;
 const fullTitle = isRoot ? brand : `${tittel} | ${brand}`;
 
-// OG-bilde: språkspesifikt standardbilde hvis ingen er sendt inn.
+// OG-bilde: språkspesifikt branded standardbilde brukes hvis ikke en
+// per-side override er sendt inn. Standardbildet er alltid 1200×630.
 const defaultOgImage = lang === 'sv' ? '/og-sv.png' : '/og-no.png';
+const usingDefault = !ogImage;
 const resolvedOgImage = ogImage || defaultOgImage;
 const ogImageAbsolute = /^https?:\/\//i.test(resolvedOgImage)
   ? resolvedOgImage
   : `${SITE}${resolvedOgImage.startsWith('/') ? resolvedOgImage : '/' + resolvedOgImage}`;
+const ogW = usingDefault ? 1200 : (ogImageWidth ?? 1200);
+const ogH = usingDefault ? 630  : (ogImageHeight ?? 630);
 const ogImageAlt = isRoot ? brand : `${brand} – ${tittel}`;
 
 function toIso(v?: Date | string): string | undefined {
@@ -101,8 +109,8 @@ const hreflangLinks = [
     <meta property="og:description" content={beskrivelse} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImageAbsolute} />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:image:width" content={String(ogW)} />
+    <meta property="og:image:height" content={String(ogH)} />
     <meta property="og:image:alt" content={ogImageAlt} />
     <meta property="og:locale" content={langConfig.locale} />
     {alternates.filter(a => a.lang !== lang).map(a => (

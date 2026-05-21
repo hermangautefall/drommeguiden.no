@@ -11,6 +11,7 @@ import { defaultLang, languages, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
 import { useTranslations } from '../i18n/ui';
 import { getAuthor } from '../data/authors';
+import { resolveOgImage } from '../lib/og-image';
 
 interface AlternateLink {
   lang: Lang;
@@ -35,6 +36,7 @@ interface Props {
 
 const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, slug, kategori, dato, oppdatert, bilde, leseminutter, author, lang = defaultLang, alternates = [] } = Astro.props;
 const resolvedAuthor = getAuthor(author);
+const og = await resolveOgImage(bilde);
 const lesetidLabel = lang === 'sv' ? 'min läsning' : 'min lesetid';
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 const displayTitle = tittel.replace(/ — hva betyr det\?/, '').replace(/^Drömmar om /i, '').replace(/^Drømmer om /i, '');
@@ -65,6 +67,9 @@ const crumbs = [
   publishedTime={dato}
   modifiedTime={oppdatert ?? dato}
   author={resolvedAuthor.name}
+  ogImage={og?.url}
+  ogImageWidth={og?.width}
+  ogImageHeight={og?.height}
   lang={lang}
   alternates={alternates}
   progress={true}

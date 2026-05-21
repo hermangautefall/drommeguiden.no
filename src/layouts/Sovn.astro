@@ -6,6 +6,7 @@ import ContentTOC from '../components/ContentTOC.astro';
 import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import { getAuthor } from '../data/authors';
+import { resolveOgImage } from '../lib/og-image';
 import { getCollection } from 'astro:content';
 import { defaultLang, languages, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
@@ -33,6 +34,7 @@ interface Props {
 
 const { tittel, kortbeskrivelse, slug, kategori, leseminutter, dato, oppdatert, bilde, relaterte_sovn, relaterte_drommer, author, lang = defaultLang, alternates = [] } = Astro.props;
 const resolvedAuthor = getAuthor(author);
+const og = await resolveOgImage(bilde);
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 const langConfig = languages[lang];
 
@@ -90,6 +92,9 @@ const crumbs = [
   publishedTime={dato}
   modifiedTime={oppdatert ?? dato}
   author={resolvedAuthor.name}
+  ogImage={og?.url}
+  ogImageWidth={og?.width}
+  ogImageHeight={og?.height}
   lang={lang}
   alternates={alternates}
   progress={true}
