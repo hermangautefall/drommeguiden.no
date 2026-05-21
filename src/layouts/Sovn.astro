@@ -81,7 +81,18 @@ const crumbs = [
 ];
 ---
 
-<Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={canonical} lang={lang} alternates={alternates} progress={true}>
+<Base
+  tittel={tittel}
+  beskrivelse={kortbeskrivelse}
+  canonicalUrl={canonical}
+  type="article"
+  publishedTime={dato}
+  modifiedTime={oppdatert ?? dato}
+  author={resolvedAuthor.name}
+  lang={lang}
+  alternates={alternates}
+  progress={true}
+>
   <article class="sovn-article">
     <!-- Breadcrumb -->
     <nav class="sovn-breadcrumb" aria-label={labels.breadcrumb}>

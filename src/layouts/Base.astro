@@ -11,11 +11,17 @@ interface AlternateLink {
   url: string;
 }
 
+type PageType = 'website' | 'article';
+
 interface Props {
   tittel: string;
   beskrivelse: string;
   canonicalUrl?: string;
   ogImage?: string;
+  type?: PageType;
+  publishedTime?: Date | string;
+  modifiedTime?: Date | string;
+  author?: string;
   lang?: Lang;
   alternates?: AlternateLink[];
   progress?: boolean;
@@ -25,18 +31,42 @@ const {
   tittel,
   beskrivelse,
   canonicalUrl,
-  ogImage = '/og-image.png',
+  ogImage,
+  type = 'website',
+  publishedTime,
+  modifiedTime,
+  author,
   lang = defaultLang,
   alternates = [],
   progress = false,
 } = Astro.props;
 
+const SITE = 'https://drommeguiden.no';
 const canonical = canonicalUrl || Astro.url.href;
 const langConfig = languages[lang];
 const t = useTranslations(lang);
 
-const titleSuffix = langConfig.brand;
-const fullTitle = `${tittel} | ${titleSuffix}`;
+// Tittel: unngå dublering "Drømmeguiden | Drømmeguiden" på rotsiden
+const brand = langConfig.brand;
+const isRoot = tittel.trim() === brand;
+const fullTitle = isRoot ? brand : `${tittel} | ${brand}`;
+
+// OG-bilde: språkspesifikt standardbilde hvis ingen er sendt inn.
+const defaultOgImage = lang === 'sv' ? '/og-sv.png' : '/og-no.png';
+const resolvedOgImage = ogImage || defaultOgImage;
+const ogImageAbsolute = /^https?:\/\//i.test(resolvedOgImage)
+  ? resolvedOgImage
+  : `${SITE}${resolvedOgImage.startsWith('/') ? resolvedOgImage : '/' + resolvedOgImage}`;
+const ogImageAlt = isRoot ? brand : `${brand} – ${tittel}`;
+
+function toIso(v?: Date | string): string | undefined {
+  if (!v) return undefined;
+  if (v instanceof Date) return v.toISOString();
+  const d = new Date(v);
+  return isNaN(d.getTime()) ? undefined : d.toISOString();
+}
+const publishedIso = toIso(publishedTime);
+const modifiedIso = toIso(modifiedTime) || publishedIso;
 
 // hreflang defaults: always link to self + NO default; include SV if provided
 const hreflangLinks = [
@@ -65,15 +95,35 @@ const hreflangLinks = [
     ))}
 
     <!-- Open Graph -->
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content={brand} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={beskrivelse} />
-    <meta property="og:image" content={ogImage} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:type" content="website" />
+    <meta property="og:image" content={ogImageAbsolute} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={ogImageAlt} />
     <meta property="og:locale" content={langConfig.locale} />
     {alternates.filter(a => a.lang !== lang).map(a => (
       <meta property="og:locale:alternate" content={languages[a.lang].locale} />
     ))}
+    {type === 'article' && publishedIso && (
+      <meta property="article:published_time" content={publishedIso} />
+    )}
+    {type === 'article' && modifiedIso && (
+      <meta property="article:modified_time" content={modifiedIso} />
+    )}
+    {type === 'article' && author && (
+      <meta property="article:author" content={author} />
+    )}
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={beskrivelse} />
+    <meta name="twitter:image" content={ogImageAbsolute} />
+    <meta name="twitter:image:alt" content={ogImageAlt} />
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
