@@ -1,0 +1,36 @@
+---
+// JSON-LD BreadcrumbList. Driver av samme items-liste som det
+// visuelle brødsmule-elementet på siden — én sannhetskilde.
+// position starter på 1; URLene må være absolutte for at Google
+// skal aksepptere dem.
+interface Crumb {
+  name: string;
+  url: string;
+}
+
+interface Props {
+  items: Crumb[];
+}
+
+const { items } = Astro.props;
+
+const baseSite = 'https://drommeguiden.no';
+
+function absolutize(url: string): string {
+  if (/^https?:\/\//i.test(url)) return url;
+  return `${baseSite}${url.startsWith('/') ? url : '/' + url}`;
+}
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: items.map((item, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: item.name,
+    item: absolutize(item.url),
+  })),
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

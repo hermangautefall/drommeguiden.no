@@ -1,6 +1,7 @@
 ---
 import Base from './Base.astro';
 import SymbolKort from '../components/SymbolKort.astro';
+import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import { getCollection } from 'astro:content';
 
 interface Props {
@@ -53,6 +54,13 @@ const canonicalUrl = lang === 'sv'
 
 const homeHref = lang === 'sv' ? '/sv/' : '/';
 const categoriesHref = lang === 'sv' ? '/sv/kategori/' : '/kategori/';
+const selfHref = lang === 'sv' ? `/sv/kategori/${slug}/` : `/kategori/${slug}/`;
+
+const crumbs = [
+  { name: labels.home,       url: homeHref },
+  { name: labels.categories, url: categoriesHref },
+  { name: displayTitle,      url: selfHref },
+];
 ---
 
 <Base
@@ -66,12 +74,16 @@ const categoriesHref = lang === 'sv' ? '/sv/kategori/' : '/kategori/';
     <!-- Hero -->
     <div class="kategori-hero">
       <nav class="kategori-breadcrumb" aria-label={labels.breadcrumb}>
-        <a href={homeHref}>{labels.home}</a>
-        <span aria-hidden="true">/</span>
-        <a href={categoriesHref}>{labels.categories}</a>
-        <span aria-hidden="true">/</span>
-        <span class="current">{displayTitle}</span>
+        {crumbs.map((c, i) => (
+          <>
+            {i > 0 && <span aria-hidden="true">/</span>}
+            {i === crumbs.length - 1
+              ? <span class="current">{c.name}</span>
+              : <a href={c.url}>{c.name}</a>}
+          </>
+        ))}
       </nav>
+      <BreadcrumbSchema items={crumbs} />
       <span class="kategori-emoji" aria-hidden="true">{emoji}</span>
       <h1 class="kategori-title">{tittel}</h1>
       <p class="kategori-desc">{kortbeskrivelse}</p>

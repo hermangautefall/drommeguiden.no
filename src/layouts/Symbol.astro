@@ -5,6 +5,7 @@ import RelaterteBoks from '../components/RelaterteBoks.astro';
 import BildeKreditt from '../components/BildeKreditt.astro';
 import Kommentarer from '../components/Kommentarer.astro';
 import ContentTOC from '../components/ContentTOC.astro';
+import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import { defaultLang, languages, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
 import { useTranslations } from '../i18n/ui';
@@ -42,6 +43,13 @@ const canonical = `${baseSite}${pathFor(lang, 'drommer', slug)}`;
 const labels = lang === 'sv'
   ? { hjem: 'Hem', symboler: 'Symboler', breadcrumb: 'Brödsmulor' }
   : { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødsmuler' };
+
+const crumbs = [
+  { name: labels.hjem,      url: homePath(lang) },
+  { name: t('nav.symboler'), url: pathFor(lang, 'drommer') },
+  { name: kategoriTittel,    url: pathFor(lang, 'kategori', kategori) },
+  { name: displayTitle,      url: pathFor(lang, 'drommer', slug) },
+];
 ---
 
 <Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={canonical} lang={lang} alternates={alternates} progress={true}>
@@ -57,14 +65,16 @@ const labels = lang === 'sv'
       <div class="symbol-hero-content">
         <!-- Breadcrumb -->
         <nav class="breadcrumb" aria-label={labels.breadcrumb}>
-          <a href={homePath(lang)}>{labels.hjem}</a>
-          <span class="breadcrumb-sep" aria-hidden="true">/</span>
-          <a href={pathFor(lang, 'drommer')}>{t('nav.symboler')}</a>
-          <span class="breadcrumb-sep" aria-hidden="true">/</span>
-          <a href={pathFor(lang, 'kategori', kategori)}>{kategoriTittel}</a>
-          <span class="breadcrumb-sep" aria-hidden="true">/</span>
-          <span class="breadcrumb-current">{displayTitle}</span>
+          {crumbs.map((c, i) => (
+            <>
+              {i > 0 && <span class="breadcrumb-sep" aria-hidden="true">/</span>}
+              {i === crumbs.length - 1
+                ? <span class="breadcrumb-current">{c.name}</span>
+                : <a href={c.url}>{c.name}</a>}
+            </>
+          ))}
         </nav>
+        <BreadcrumbSchema items={crumbs} />
 
         <div class="symbol-meta-row">
           <span class="symbol-kategori-badge">{kategoriTittel}</span>
