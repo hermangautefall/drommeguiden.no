@@ -1,0 +1,354 @@
+---
+import { defaultLang, type Lang } from '../i18n/config';
+
+interface Props {
+  url: string;
+  title: string;
+  variant: 'inline' | 'bottom';
+  lang?: Lang;
+}
+
+const { url, title, variant, lang = defaultLang } = Astro.props;
+
+const SITE = 'https://drommeguiden.no';
+const absoluteUrl = /^https?:\/\//i.test(url)
+  ? url
+  : `${SITE}${url.startsWith('/') ? url : '/' + url}`;
+
+const enc = encodeURIComponent;
+const intents = {
+  facebook:  `https://www.facebook.com/sharer/sharer.php?u=${enc(absoluteUrl)}`,
+  messenger: `fb-messenger://share/?link=${enc(absoluteUrl)}`,
+  whatsapp:  `https://wa.me/?text=${enc(title + ' ' + absoluteUrl)}`,
+  x:         `https://twitter.com/intent/tweet?text=${enc(title)}&url=${enc(absoluteUrl)}`,
+  linkedin:  `https://www.linkedin.com/sharing/share-offsite/?url=${enc(absoluteUrl)}`,
+  email:     `mailto:?subject=${enc(title)}&body=${enc(absoluteUrl)}`,
+};
+
+const labels = lang === 'sv'
+  ? {
+      facebook: 'Dela på Facebook',
+      messenger: 'Dela i Messenger',
+      whatsapp: 'Dela på WhatsApp',
+      x: 'Dela på X',
+      linkedin: 'Dela på LinkedIn',
+      email: 'Dela via e-post',
+      copy: 'Kopiera länk',
+      copied: 'Länken är kopierad',
+      share: 'Dela',
+      bottomTitle: 'Hjälpte denna tolkning? Dela med en vän.',
+    }
+  : {
+      facebook: 'Del på Facebook',
+      messenger: 'Del i Messenger',
+      whatsapp: 'Del på WhatsApp',
+      x: 'Del på X',
+      linkedin: 'Del på LinkedIn',
+      email: 'Del via e-post',
+      copy: 'Kopier lenke',
+      copied: 'Lenken er kopiert',
+      share: 'Del',
+      bottomTitle: 'Hjalp denne tolkningen? Del med en venn.',
+    };
+
+const buttons = [
+  { key: 'facebook',  label: labels.facebook,  href: intents.facebook,  ext: true },
+  { key: 'messenger', label: labels.messenger, href: intents.messenger, ext: true },
+  { key: 'whatsapp',  label: labels.whatsapp,  href: intents.whatsapp,  ext: true },
+  { key: 'x',         label: labels.x,         href: intents.x,         ext: true },
+  { key: 'linkedin',  label: labels.linkedin,  href: intents.linkedin,  ext: true },
+  { key: 'email',     label: labels.email,     href: intents.email,     ext: false },
+];
+---
+
+<div
+  class={`share share-${variant}`}
+  data-share-root
+  data-share-url={absoluteUrl}
+  data-share-title={title}
+  data-share-variant={variant}
+>
+  {variant === 'bottom' && (
+    <p class="share-prompt">{labels.bottomTitle}</p>
+  )}
+
+  <button type="button" class="share-native" data-share-native hidden aria-label={labels.share}>
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+      <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+    </svg>
+    <span>{labels.share}</span>
+  </button>
+
+  <div class="share-buttons">
+    {buttons.map((b) => (
+      <a
+        href={b.href}
+        class={`share-btn share-btn-${b.key}`}
+        aria-label={b.label}
+        title={b.label}
+        data-platform={b.key}
+        {...(b.ext ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
+      >
+        {b.key === 'facebook' && (
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12a10 10 0 1 0-11.56 9.88V14.9H7.9V12h2.54V9.8c0-2.5 1.49-3.89 3.78-3.89 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56V12h2.77l-.44 2.9h-2.33v6.98A10 10 0 0 0 22 12z"/></svg>
+        )}
+        {b.key === 'messenger' && (
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.36 2 2 6.13 2 11.7c0 2.91 1.19 5.44 3.14 7.17.16.15.26.34.27.55l.05 1.78c.02.57.6.94 1.12.72l1.99-.88c.16-.07.34-.08.51-.04 1 .27 2.06.42 3.12.42 5.64 0 10-4.13 10-9.72S17.64 2 12 2zm6 7.46-2.94 4.66c-.47.74-1.47.92-2.17.4l-2.34-1.75a.6.6 0 0 0-.72 0L7.66 15.1c-.42.3-.97-.2-.67-.62L9.93 9.8c.47-.74 1.47-.92 2.17-.4l2.34 1.75c.21.16.5.16.72 0l3.17-2.34c.42-.3.97.2.67.65z"/></svg>
+        )}
+        {b.key === 'whatsapp' && (
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 14.4c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1s-.8 1-.9 1.2c-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.4.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.2-.5.1-.2 0-.4 0-.5-.1-.1-.7-1.7-.9-2.3-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1.1 2.8 1.2 3c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.2-.3-.2-.5-.3zM12 2C6.5 2 2 6.5 2 12c0 1.7.5 3.4 1.3 4.9L2 22l5.3-1.4c1.4.8 3 1.2 4.7 1.2 5.5 0 10-4.5 10-10S17.5 2 12 2z"/></svg>
+        )}
+        {b.key === 'x' && (
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        )}
+        {b.key === 'linkedin' && (
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.55v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.36V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/></svg>
+        )}
+        {b.key === 'email' && (
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/>
+          </svg>
+        )}
+      </a>
+    ))}
+    <button
+      type="button"
+      class="share-btn share-btn-copy"
+      aria-label={labels.copy}
+      title={labels.copy}
+      data-platform="copy"
+      data-copy-btn
+    >
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+      </svg>
+    </button>
+  </div>
+
+  <div class="share-toast" role="status" aria-live="polite" data-share-toast>
+    {labels.copied}
+  </div>
+</div>
+
+<script is:inline>
+  (function () {
+    const supportsNative = typeof navigator.share === 'function';
+
+    document.querySelectorAll('[data-share-root]').forEach(function (root) {
+      const url = root.dataset.shareUrl || '';
+      const title = root.dataset.shareTitle || '';
+
+      // Native share-knapp på mobil. Vises hvis støttet — ellers
+      // brukes knapperaden som fallback.
+      const native = root.querySelector('[data-share-native]');
+      if (native && supportsNative) {
+        native.hidden = false;
+        root.setAttribute('data-native', 'on');
+        native.addEventListener('click', async function () {
+          try {
+            await navigator.share({ title: title, url: url });
+            track('native');
+          } catch (e) { /* avbrutt */ }
+        });
+      }
+
+      // Kopier-lenke-knapp
+      root.querySelectorAll('[data-copy-btn]').forEach(function (btn) {
+        btn.addEventListener('click', async function () {
+          try {
+            await navigator.clipboard.writeText(url);
+            showToast(root);
+            track('copy');
+          } catch (e) {
+            // Fallback: select + execCommand
+            const ta = document.createElement('textarea');
+            ta.value = url; ta.style.position = 'fixed'; ta.style.opacity = '0';
+            document.body.appendChild(ta);
+            ta.select();
+            try { document.execCommand('copy'); showToast(root); track('copy'); } catch (e2) {}
+            document.body.removeChild(ta);
+          }
+        });
+      });
+
+      // GA4 for eksterne intent-lenker
+      root.querySelectorAll('a[data-platform]').forEach(function (a) {
+        a.addEventListener('click', function () {
+          track(a.dataset.platform || 'unknown');
+        });
+      });
+    });
+
+    let toastTimer = null;
+    function showToast(root) {
+      // Vis alle toaster (det er én per komponent-instans, og de er
+      // alle position:fixed på samme sted — visuelt identisk).
+      const toasts = document.querySelectorAll('[data-share-toast]');
+      toasts.forEach(function (t) { t.classList.add('share-toast-visible'); });
+      if (toastTimer) clearTimeout(toastTimer);
+      toastTimer = setTimeout(function () {
+        toasts.forEach(function (t) { t.classList.remove('share-toast-visible'); });
+      }, 2000);
+    }
+
+    function track(method) {
+      if (typeof window.gtag !== 'function') return;
+      window.gtag('event', 'share_click', {
+        method: method,
+        content_url: window.location.href,
+      });
+    }
+  })();
+</script>
+
+<style>
+  .share {
+    --share-bg: rgba(255, 255, 255, 0.7);
+    --share-border: rgba(123, 111, 160, 0.15);
+    --share-hover: var(--color-accent, #c08070);
+  }
+
+  /* ---------- INLINE-variant: ikon-rad rett under H1 ---------- */
+  .share-inline {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 16px 0 28px;
+    flex-wrap: wrap;
+  }
+
+  /* ---------- BOTTOM-variant: blokk med prompt ---------- */
+  .share-bottom {
+    margin-top: 56px;
+    padding: 28px 24px;
+    background: rgba(123, 111, 160, 0.04);
+    border: 1px solid rgba(123, 111, 160, 0.1);
+    border-radius: 16px;
+    text-align: center;
+  }
+  .share-prompt {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    color: var(--color-text-heading);
+    margin: 0 0 18px;
+  }
+  @media (min-width: 480px) {
+    .share-prompt { font-size: 22px; }
+  }
+
+  /* Native "Del"-knapp (mobil-primær) */
+  .share-native {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+    min-block-size: 48px;
+    padding: 0 24px;
+    border-radius: var(--border-radius-pill, 100px);
+    border: none;
+    background: var(--color-primary, #7B6FA0);
+    color: #fff;
+    font-family: var(--font-nav);
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .share-native:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(123, 111, 160, 0.3);
+  }
+
+  /* På mobil: vis kun native-knappen når den er aktivert.
+     Faller tilbake til knapperaden hvis navigator.share mangler. */
+  @media (max-width: 767px) {
+    .share[data-native='on'] .share-buttons {
+      display: none;
+    }
+  }
+
+  /* ---------- Knapperaden ---------- */
+  .share-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+  }
+  .share-inline .share-buttons {
+    justify-content: flex-start;
+  }
+
+  .share-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    min-block-size: 44px;
+    border-radius: 50%;
+    border: 1px solid var(--share-border);
+    background: var(--share-bg);
+    color: var(--color-text-muted);
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    flex-shrink: 0;
+  }
+  .share-btn svg {
+    width: 18px;
+    height: 18px;
+  }
+  .share-btn:hover {
+    color: #fff;
+    background: var(--share-hover);
+    border-color: var(--share-hover);
+    text-decoration: none;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(192, 128, 112, 0.25);
+  }
+  .share-btn:focus-visible {
+    outline: 2px solid var(--share-hover);
+    outline-offset: 3px;
+  }
+
+  /* Bottom-variant: større knapper */
+  .share-bottom .share-btn {
+    width: 52px;
+    height: 52px;
+  }
+  .share-bottom .share-btn svg {
+    width: 22px;
+    height: 22px;
+  }
+
+  /* ---------- Toast ---------- */
+  .share-toast {
+    position: fixed;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    padding: 12px 24px;
+    border-radius: var(--border-radius-pill, 100px);
+    background: rgba(15, 19, 40, 0.95);
+    color: #f2ede6;
+    font-size: 14px;
+    font-family: var(--font-nav);
+    font-weight: 500;
+    box-shadow: 0 10px 30px rgba(15, 19, 40, 0.3);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    z-index: 200;
+  }
+  .share-toast-visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+</style>

@@ -4,6 +4,7 @@ import BildeKreditt from '../components/BildeKreditt.astro';
 import Kommentarer from '../components/Kommentarer.astro';
 import ContentTOC from '../components/ContentTOC.astro';
 import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 import { getAuthor } from '../data/authors';
 import { getCollection } from 'astro:content';
 import { defaultLang, languages, type Lang } from '../i18n/config';
@@ -120,6 +121,7 @@ const crumbs = [
       </div>
       <h1 class="sovn-title">{tittel}</h1>
       <p class="sovn-intro">{kortbeskrivelse}</p>
+      <ShareButtons url={canonical} title={tittel} variant="inline" lang={lang} />
     </header>
 
     {bilde && (
@@ -172,6 +174,7 @@ const crumbs = [
           </div>
         )}
 
+        <ShareButtons url={canonical} title={tittel} variant="bottom" lang={lang} />
         <Kommentarer />
       </div>
     </div>
