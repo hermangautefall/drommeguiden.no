@@ -1,0 +1,56 @@
+---
+// Forsidens JSON-LD: WebSite (med SearchAction) + Organization.
+// Brukes kun på / og /sv/ — andre sider trenger ikke dette.
+import { defaultLang, type Lang } from '../i18n/config';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = defaultLang } = Astro.props;
+
+const baseSite = 'https://drommeguiden.no';
+
+const config = lang === 'sv'
+  ? {
+      name: 'Drömguiden',
+      url: `${baseSite}/sv/`,
+      inLanguage: 'sv',
+      searchTarget: `${baseSite}/sv/drommar/?q={search_term_string}`,
+    }
+  : {
+      name: 'Drømmeguiden',
+      url: `${baseSite}/`,
+      inLanguage: 'nb',
+      searchTarget: `${baseSite}/drommer/?q={search_term_string}`,
+    };
+
+const website = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  url: config.url,
+  name: config.name,
+  inLanguage: config.inLanguage,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: config.searchTarget,
+    },
+    'query-input': 'required name=search_term_string',
+  },
+};
+
+const organization = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: config.name,
+  url: config.url,
+  logo: `${baseSite}/og-image.png`,
+  // sameAs er placeholder — fyll inn sosiale profiler når de finnes
+  sameAs: [],
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(website)} />
+<script type="application/ld+json" set:html={JSON.stringify(organization)} />
