@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
-import sitemap from '@astrojs/sitemap';
 import remarkAutoLinkSymbols from './src/lib/remark-auto-link-symbols.mjs';
+import customSitemap from './src/lib/sitemap-integration.mjs';
 
 const autoLinkStats = new Map();
 
@@ -43,7 +43,7 @@ const autoLinkReport = {
 export default defineConfig({
   site: 'https://drommeguiden.no',
   trailingSlash: 'always',
-  integrations: [sitemap(), autoLinkReport],
+  integrations: [customSitemap(), autoLinkReport],
   markdown: {
     remarkPlugins: [
       [
