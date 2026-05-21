@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En gemenskap eller en gemensam resa mot något okänt"
 bilde: /bilder/symboler/skip.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om skepp?

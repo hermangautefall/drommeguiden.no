@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe du vil ta med deg eller legge igjen"
 bilde: /bilder/symboler/koffert.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om koffert?

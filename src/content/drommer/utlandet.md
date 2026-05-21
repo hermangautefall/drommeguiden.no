@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du utforsker ukjente sider av deg selv"
 bilde: /bilder/symboler/utlandet.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om utlandet?

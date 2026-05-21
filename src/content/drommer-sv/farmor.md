@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Djup omsorg och villkorslös kärlek saknas eller firas"
 bilde: /bilder/symboler/bestemor.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om din farmor?

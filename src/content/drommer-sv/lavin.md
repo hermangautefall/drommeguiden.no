@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En snabb och brutal förändring som är utanför din kontroll"
 bilde: /bilder/symboler/snoskred.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om lavin?

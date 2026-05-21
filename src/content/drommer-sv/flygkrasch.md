@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/fly-styrter.jpg
 dato: 2026-03-18
 nb_slug: fly-styrter
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en flygkrasch?

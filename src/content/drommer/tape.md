@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et signal om at du setter for høye krav til deg selv eller konkurrerer på feil premisser"
 bilde: /bilder/symboler/tape.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å tape?

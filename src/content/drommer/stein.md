@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Styrke og soliditet — et fundament du kan stole på"
 bilde: /bilder/symboler/stein.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om stein?

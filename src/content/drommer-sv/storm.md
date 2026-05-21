@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Undertryckta känslor pressar sig till ytan"
 dato: 2026-03-18
 bilde: /bilder/symboler/storm.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om storm?

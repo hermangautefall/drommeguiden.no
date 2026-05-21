@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Något i ditt liv behöver din uppmärksamhet"
 dato: 2026-03-18
 bilde: /bilder/symboler/krage.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om kråka?

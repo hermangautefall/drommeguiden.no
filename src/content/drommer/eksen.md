@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Du er i ferd med å avslutte et kapittel og gå videre"
 dato: 2026-03-18
 bilde: /bilder/symboler/eksen.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om eksen?

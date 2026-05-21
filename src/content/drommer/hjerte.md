@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En bekymring for noe nært og vitalt i livet ditt"
 bilde: /bilder/symboler/hjerte.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hjertet?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En önskan om kontakt med en kvalitet eller egenskap som den andra personen representerar"
 bilde: /bilder/symboler/samleie.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om samlag?

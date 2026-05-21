@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Klamring och att hålla fast — något du inte vill släppa"
 bilde: /bilder/symboler/krabbe.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om krabba?

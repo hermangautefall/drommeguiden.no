@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En transformasjonsprosess som er godt i gang — men som ennå ikke er klar til å fødes"
 bilde: /bilder/symboler/vaere-gravid-mann.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det at en mann drømmer om [å være gravid](/drommer/gravid)?

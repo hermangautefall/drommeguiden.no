@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din anknytning till natur, rötter och det genuint nordiska"
 bilde: /bilder/symboler/hytte.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om stuga?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En kraftfull renselse og forvandling er i gang"
 bilde: /bilder/symboler/flom.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om flom?

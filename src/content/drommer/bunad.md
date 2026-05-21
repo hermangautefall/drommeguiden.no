@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Tradisjon og tilhørighet til noe større enn deg selv"
 bilde: /bilder/symboler/bunad.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om bunad?

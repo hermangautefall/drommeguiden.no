@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Yttre uttryck och självpresentation — naglarna är synliga för världen"
 bilde: /bilder/symboler/nagle.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om naglar?

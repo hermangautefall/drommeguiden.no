@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ett sökande efter mening, riktning och en grund som är större än du själv"
 bilde: /bilder/symboler/gud.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om Gud?

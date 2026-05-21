@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Behovet av mer glädje, njutning och sinnlig närvaro i vardagen"
 bilde: /bilder/symboler/orgasme.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om orgasm?

@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Bröllopsdrömmar kan peka mot rädsla för förändring eller förlust av frihet."
 dato: 2026-03-18
 bilde: /bilder/symboler/bryllup.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om bröllop?

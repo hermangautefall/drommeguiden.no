@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Renselse og fornyelse gjennom det som fortæres"
 bilde: /bilder/symboler/ild.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om ild?

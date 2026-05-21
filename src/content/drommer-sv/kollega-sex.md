@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Maktdynamik och hierarki bearbetas genom drömmens bildspråk"
 bilde: /bilder/symboler/kollega-sex.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om sex med en kollega?

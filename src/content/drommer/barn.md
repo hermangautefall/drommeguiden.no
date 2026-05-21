@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Omsorg, ansvar og bekymring for noe du har skapt"
 bilde: /bilder/symboler/barn.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om barn?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din livsriktning — dit strömmen tar dig"
 bilde: /bilder/symboler/elv.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om älv?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ukontrollert brann kan peke mot destruktive krefter eller frykt for tap."
 dato: 2026-03-18
 bilde: /bilder/symboler/brann.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om brann?

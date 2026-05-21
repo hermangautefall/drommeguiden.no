@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Livsreisen og retningen du har valgt utforskes"
 bilde: /bilder/symboler/tog.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om tog?

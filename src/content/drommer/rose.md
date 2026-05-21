@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Rosen som åpner seg er et dypt bilde på sårbarhet og mot til å vise seg frem"
 bilde: /bilder/symboler/rose.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om en rose?

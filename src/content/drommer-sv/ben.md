@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Frihet att röra dig och gå i den riktning du vill"
 bilde: /bilder/symboler/bein.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om ben?

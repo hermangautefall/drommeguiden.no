@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En frykt eller mørk side du ikke vil konfrontere"
 bilde: /bilder/symboler/kjeller.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om kjeller?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En intenst roterende energi — følelser eller situasjoner i spiral"
 bilde: /bilder/symboler/tornado.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om tornado?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Eleganse og stolthet i en krevende situasjon"
 dato: 2026-03-18
 bilde: /bilder/symboler/hjort.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hjort?

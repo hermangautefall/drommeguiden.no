@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något vackert lever i ett begränsat rum — behöver det mer plats?"
 bilde: /bilder/symboler/gullfisk.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om guldfisk?

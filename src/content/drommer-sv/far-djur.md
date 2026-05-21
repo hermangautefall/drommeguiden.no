@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En passiv eller undergiven sida av dig själv"
 bilde: /bilder/symboler/sau.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om får?

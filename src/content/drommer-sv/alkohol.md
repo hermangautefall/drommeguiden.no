@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/alkohol.jpg
 dato: 2026-03-18
 nb_slug: alkohol
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om alkohol?

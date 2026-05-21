@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Intimitet og sårbarhet — det mest beskyttede stedet i kroppen din"
 bilde: /bilder/symboler/underliv.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om underliv?

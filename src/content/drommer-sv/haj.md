@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din egen kraft och förmåga att navigera djupa känslor"
 dato: 2026-03-18
 bilde: /bilder/symboler/hai.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om haj?

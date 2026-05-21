@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något i din närmiljö som kräver uppmärksamhet"
 bilde: /bilder/symboler/nabo.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om din granne?

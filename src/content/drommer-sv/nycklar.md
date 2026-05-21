@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Kontroll och trygghet i ditt eget liv är i fokus"
 bilde: /bilder/symboler/nokler.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om nycklar?

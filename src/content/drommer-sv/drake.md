@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En överväldigande situation eller person i ditt liv"
 dato: 2026-03-18
 bilde: /bilder/symboler/drage.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om drake?

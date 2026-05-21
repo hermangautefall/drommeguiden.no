@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Bro mellan det medvetna och det omedvetna — delfinen simmar i båda världarna"
 bilde: /bilder/symboler/delfin.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en delfin?

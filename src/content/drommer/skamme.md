@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Frykten for å bli avslørt som utilstrekkelig — impostorfølelsens drømmebilde"
 bilde: /bilder/symboler/skamme.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om skam?

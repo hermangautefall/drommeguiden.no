@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En reise som krever alt av deg — men som er verdifull"
 bilde: /bilder/symboler/vikingskip.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om vikingskip?

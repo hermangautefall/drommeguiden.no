@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Frihet, flyt og bevegelse gjennom noe flytende og uforutsigbart"
 bilde: /bilder/symboler/svomme.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å svømme?

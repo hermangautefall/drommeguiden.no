@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Selvets kjernesubstans — det ekte og autentiske i deg"
 bilde: /bilder/symboler/gull.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om gull?

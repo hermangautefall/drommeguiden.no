@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Bryllupsdrømmer kan peke mot frykt for forandring eller tap av frihet."
 dato: 2026-03-18
 bilde: /bilder/symboler/bryllup.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om bryllup?

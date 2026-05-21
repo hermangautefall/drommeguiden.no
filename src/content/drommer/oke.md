@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Beskyttelse og tilfluktssted — eiken som skjold mot det som stormer rundt deg"
 bilde: /bilder/symboler/oke.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om en eik?

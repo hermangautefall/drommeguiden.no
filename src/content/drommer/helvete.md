@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En destruktiv syklus du ikke ser veien ut av"
 bilde: /bilder/symboler/helvete.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om helvete?

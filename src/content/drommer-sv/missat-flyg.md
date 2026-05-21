@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/fly-misser.jpg
 dato: 2026-03-18
 nb_slug: fly-misser
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att missa flyget?

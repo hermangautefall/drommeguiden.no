@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Selvstendighet — å stå på egne bein og bære seg selv gjennom livet"
 bilde: /bilder/symboler/fot.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om føtter?

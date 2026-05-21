@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et sinne eller en kraft inni deg krever oppmerksomhet"
 dato: 2026-03-18
 bilde: /bilder/symboler/love.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om løve?

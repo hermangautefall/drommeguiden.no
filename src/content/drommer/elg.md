@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe uventet og impone­rende dukker opp — vær oppmerksom"
 bilde: /bilder/symboler/elg.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om elg?

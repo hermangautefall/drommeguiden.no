@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Näring och omsorg — vad du ger dig själv och andra"
 bilde: /bilder/symboler/mat.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om mat?

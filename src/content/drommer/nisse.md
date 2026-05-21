@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En liten men mektig kraft — det lite som vokter det store"
 bilde: /bilder/symboler/nisse.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om nisse?

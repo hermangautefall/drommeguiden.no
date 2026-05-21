@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Någon i ditt liv är inte originell — de kopierar andra"
 dato: 2026-03-18
 bilde: /bilder/symboler/papegoy.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om papegoja?

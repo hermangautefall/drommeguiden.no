@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Styrke brukt med omsorg og klokskap"
 dato: 2026-03-18
 bilde: /bilder/symboler/elefant.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om elefant?

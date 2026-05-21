@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Usikkerhet på egne vegne: frykter du at du ikke er god nok til å holde på kjærligheten?"
 bilde: /bilder/symboler/utroskap-partner.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om at partneren er utro?

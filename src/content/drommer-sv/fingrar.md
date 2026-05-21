@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Anknytning och beröring — det att nå och bli nådd"
 bilde: /bilder/symboler/fingre.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om fingrar?

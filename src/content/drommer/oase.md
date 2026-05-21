@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Belønningen etter en lang vandring gjennom noe tørt og vanskelig"
 bilde: /bilder/symboler/oase.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om en oase?

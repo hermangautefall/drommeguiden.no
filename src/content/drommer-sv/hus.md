@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Något i ditt inre liv behöver underhåll eller uppmärksamhet"
 dato: 2026-03-18
 bilde: /bilder/symboler/hus.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om hus?

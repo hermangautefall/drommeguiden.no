@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/arr.jpg
 dato: 2026-03-18
 nb_slug: arr
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om ärr?

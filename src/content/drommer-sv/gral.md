@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Undertryckt ilska eller frustration som finner ett utlopp i drömmens trygga rum"
 bilde: /bilder/symboler/krangel.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att gräla?

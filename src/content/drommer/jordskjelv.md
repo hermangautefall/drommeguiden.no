@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En indre eller ytre krise krever ny tilpasning"
 bilde: /bilder/symboler/jordskjelv.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om jordskjelv?

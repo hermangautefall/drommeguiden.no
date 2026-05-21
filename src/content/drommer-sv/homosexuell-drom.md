@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Önskan om närmare emotionell kontakt med eget kön — inte nödvändigtvis sexuellt"
 bilde: /bilder/symboler/homofil-drom.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om homosexuellt sex?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En ny början, tillväxt och framsteg är på väg"
 bilde: /bilder/symboler/sol.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om solen?

@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Andlig växt, överblick och måluppfyllelse"
 dato: 2026-03-18
 bilde: /bilder/symboler/fjell.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om berg?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Kommunikasjon og intelligens på et dypere nivå enn det daglige"
 bilde: /bilder/symboler/hval.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hval?

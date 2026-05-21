@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din identitet og selvfølelse uttrykkes gjennom hendenes tilstand"
 dato: 2026-03-18
 bilde: /bilder/symboler/hender.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hender?

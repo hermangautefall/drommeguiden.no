@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ett varsel om något i livet som kräver mer försiktighet"
 bilde: /bilder/symboler/ulykke.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om olycka?

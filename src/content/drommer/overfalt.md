@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Bearbeiding av tidligere krenkelser eller traumer som ikke er fullt integrert"
 bilde: /bilder/symboler/overfalt.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å bli overfalt?

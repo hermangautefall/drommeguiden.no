@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En katt kan representera någon i ditt liv som är svår att läsa."
 dato: 2026-03-18
 bilde: /bilder/symboler/katt.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om katt?

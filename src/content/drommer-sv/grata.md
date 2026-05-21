@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Lättnad — något svårt släpper taget"
 bilde: /bilder/symboler/grate.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att gråta?

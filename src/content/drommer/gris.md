@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe du skjuler eller skammer deg over viser seg"
 bilde: /bilder/symboler/gris.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om gris?

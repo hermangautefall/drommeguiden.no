@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Angst for konsekvenser av noe som er satt i bevegelse og ikke kan stoppes"
 bilde: /bilder/symboler/bil-uten-brems.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om at bilen ikke vil stoppe?

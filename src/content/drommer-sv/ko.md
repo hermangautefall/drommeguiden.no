@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/ku.jpg
 dato: 2026-03-18
 nb_slug: ku
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en ko?

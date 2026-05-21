@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En passiv eller underkastende side av deg selv"
 bilde: /bilder/symboler/sau.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sau?

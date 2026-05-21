@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et varsel om noe i livet som krever mer forsiktighet"
 bilde: /bilder/symboler/ulykke.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om ulykke?

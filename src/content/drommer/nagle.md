@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Ytre uttrykk og selvpresentasjon — neglene er synlige for verden"
 bilde: /bilder/symboler/nagle.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om negler?

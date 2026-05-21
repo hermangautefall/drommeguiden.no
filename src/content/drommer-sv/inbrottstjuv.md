@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En sida av dig själv du inte vill kännas vid bankar på"
 bilde: /bilder/symboler/innbruddstyv.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om inbrottstjuv?

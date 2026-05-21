@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Falledrømmer kan bety at du trenger å slippe taket og stole på prosessen."
 dato: 2026-03-18
 bilde: /bilder/symboler/falle.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å falle?

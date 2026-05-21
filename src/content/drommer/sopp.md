@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Intuisjon og det ubevisste — sopp vokser i mørket, som tanker og innsikter gjør"
 bilde: /bilder/symboler/sopp.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sopp?

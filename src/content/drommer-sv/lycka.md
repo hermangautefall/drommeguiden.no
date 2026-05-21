@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Kapaciteten för lycka finns i dig — tillgänglig, om du finner vägen till den"
 bilde: /bilder/symboler/lykke.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om lycka?

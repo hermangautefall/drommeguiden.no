@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Søthet og belønning — noe godt er i ferd med å bli til"
 bilde: /bilder/symboler/bie.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om bie?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Barnets kjønn forteller hvilken side av deg selv som er i ferd med å vokse frem"
 bilde: /bilder/symboler/baby-gutt.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om en [baby](/drommer/baby) — og hva betyr kjønnet?

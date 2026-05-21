@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En overgang eller avtale — kyss har historisk markert forpliktelse og inngåelse"
 bilde: /bilder/symboler/kyss.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om kyss?

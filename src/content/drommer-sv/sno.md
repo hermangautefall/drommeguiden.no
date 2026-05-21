@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Renhet, en ny början och ett blankt papper framför dig"
 bilde: /bilder/symboler/sno.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om snö?

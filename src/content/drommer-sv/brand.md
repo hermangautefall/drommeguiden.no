@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Okontrollerad brand kan peka mot destruktiva krafter eller rädsla för förlust."
 dato: 2026-03-18
 bilde: /bilder/symboler/brann.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om brand?

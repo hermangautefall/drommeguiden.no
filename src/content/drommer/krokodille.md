@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din evne til å tilpasse deg og overleve vanskelige omstendigheter"
 dato: 2026-03-18
 bilde: /bilder/symboler/krokodille.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om krokodille?

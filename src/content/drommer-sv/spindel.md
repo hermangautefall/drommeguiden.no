@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Spindeln kan representera en manipulativ person som spinner sitt nät."
 dato: 2026-03-18
 bilde: /bilder/symboler/edderkopp.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om spindel?

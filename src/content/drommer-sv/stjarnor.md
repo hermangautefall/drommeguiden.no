@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En dröm, ett mål eller en längtan lyser upp mörkret"
 bilde: /bilder/symboler/stjerner.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om stjärnor?

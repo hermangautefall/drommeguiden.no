@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/fodsel.jpg
 dato: 2026-03-18
 nb_slug: fodsel
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en födsel?

@@ -9,6 +9,7 @@ import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import { defaultLang, languages, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
 import { useTranslations } from '../i18n/ui';
+import { getAuthor } from '../data/authors';
 
 interface AlternateLink {
   lang: Lang;
@@ -23,13 +24,16 @@ interface Props {
   slug: string;
   kategori: string;
   dato: Date;
+  oppdatert?: Date;
   bilde?: string;
   leseminutter?: number;
+  author?: string;
   lang?: Lang;
   alternates?: AlternateLink[];
 }
 
-const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, slug, kategori, dato, bilde, leseminutter, lang = defaultLang, alternates = [] } = Astro.props;
+const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, slug, kategori, dato, oppdatert, bilde, leseminutter, author, lang = defaultLang, alternates = [] } = Astro.props;
+const resolvedAuthor = getAuthor(author);
 const lesetidLabel = lang === 'sv' ? 'min läsning' : 'min lesetid';
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 const displayTitle = tittel.replace(/ — hva betyr det\?/, '').replace(/^Drömmar om /i, '').replace(/^Drømmer om /i, '');
@@ -130,9 +134,16 @@ const crumbs = [
           headline: tittel,
           description: kortbeskrivelse,
           datePublished: dato.toISOString(),
+          dateModified: (oppdatert ?? dato).toISOString(),
           inLanguage: langConfig.htmlLang,
           url: canonical,
           ...(bilde && { image: `${baseSite}${bilde}` }),
+          author: {
+            '@type': 'Person',
+            name: resolvedAuthor.name,
+            url: `${baseSite}${resolvedAuthor.url}`,
+            ...(resolvedAuthor.sameAs.length > 0 && { sameAs: resolvedAuthor.sameAs }),
+          },
           publisher: {
             '@type': 'Organization',
             name: langConfig.brand,

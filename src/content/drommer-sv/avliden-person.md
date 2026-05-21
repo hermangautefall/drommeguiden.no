@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Drömmen känns som ett äkta besök — och den tröstar"
 bilde: /bilder/symboler/avdod-person.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en avliden person?

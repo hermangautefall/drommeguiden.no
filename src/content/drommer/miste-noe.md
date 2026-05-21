@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe du holder på er i fare for å forsvinne"
 bilde: /bilder/symboler/miste-noe.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å miste noe?

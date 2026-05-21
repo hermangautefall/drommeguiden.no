@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Motet til å krysse noe du er usikker på hva er på den andre siden"
 bilde: /bilder/symboler/bro.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om bro?

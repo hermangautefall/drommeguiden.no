@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En förälders djupaste ångest — hjärnan processar det värsta för att skydda"
 bilde: /bilder/symboler/drukne-barn.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att ett [barn](/sv/drommar/barn/) drunknar?

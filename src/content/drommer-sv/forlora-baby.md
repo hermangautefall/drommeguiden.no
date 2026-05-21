@@ -14,6 +14,7 @@ tolkninger_kort:
   - "För föräldrar: bearbetning av den verkliga, permanenta rädsla som följer med föräldraskapet"
 bilde: /bilder/symboler/miste-baby.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att förlora ett barn?

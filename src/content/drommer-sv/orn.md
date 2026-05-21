@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ambitioner och mål som länge legat i dvala väcks till liv"
 dato: 2026-03-18
 bilde: /bilder/symboler/orn.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om örn?

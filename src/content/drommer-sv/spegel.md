@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Övergångar och förändringar i identitet speglas"
 dato: 2026-03-18
 bilde: /bilder/symboler/speil.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om spegel?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Det jordbundne, det materielle og det nærende i livet"
 bilde: /bilder/symboler/jord.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om jord?

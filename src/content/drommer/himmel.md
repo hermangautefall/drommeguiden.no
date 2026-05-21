@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Ditt forhold til det transcendente og det som er større enn deg"
 bilde: /bilder/symboler/himmel.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om himmelen?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Kommunikation och intelligens på en djupare nivå än den dagliga"
 bilde: /bilder/symboler/hval.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om val?

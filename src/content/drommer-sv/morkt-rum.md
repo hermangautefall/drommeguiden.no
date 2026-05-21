@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En inbjudan till introspektion och inre arbete"
 dato: 2026-03-18
 bilde: /bilder/symboler/morkt-rom.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om ett mörkt rum?

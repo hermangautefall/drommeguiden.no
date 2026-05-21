@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Tradition och tillhörighet till något större än dig själv"
 bilde: /bilder/symboler/bunad.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om folkdräkt?

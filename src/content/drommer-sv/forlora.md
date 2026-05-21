@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En signal om att du sätter för höga krav på dig själv eller tävlar på fel premisser"
 bilde: /bilder/symboler/tape.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att förlora?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din nuvarande situation påminner dig om något från den tiden"
 bilde: /bilder/symboler/gammel-venn.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en gammal vän?

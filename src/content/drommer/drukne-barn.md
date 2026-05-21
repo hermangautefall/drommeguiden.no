@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En forelders dypeste angst — hjernen prosesserer det verste for å beskytte"
 bilde: /bilder/symboler/drukne-barn.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om at et [barn](/drommer/barn) drukner?

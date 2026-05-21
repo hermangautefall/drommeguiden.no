@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/sau.jpg
 dato: 2026-03-18
 nb_slug: sau
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om får?

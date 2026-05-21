@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Det omedvetna bearbetar rädsla — inte ett varsel"
 bilde: /bilder/symboler/do.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att dö?

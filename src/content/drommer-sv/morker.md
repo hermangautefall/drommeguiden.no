@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Början mörker — skapelse startar i mörkret, före ljuset"
 bilde: /bilder/symboler/moerke.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om mörker?

@@ -15,6 +15,7 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/tann.jpg
 sv_slug: tand
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om tenner?

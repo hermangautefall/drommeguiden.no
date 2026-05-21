@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något dubbelt är på väg att komma till världen — mer än du väntat"
 bilde: /bilder/symboler/tvillinger.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om tvillingar?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Det nordiska i din identitet — något uråldrigt och vackert lyser upp"
 bilde: /bilder/symboler/nordlys.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om norrsken?

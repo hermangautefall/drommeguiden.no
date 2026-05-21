@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En transformerende reise som koster alt — men som er nødvendig"
 bilde: /bilder/symboler/laks.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om laks?

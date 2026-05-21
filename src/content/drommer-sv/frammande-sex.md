@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En längtan efter det nya, okända och outforskade i ditt liv"
 bilde: /bilder/symboler/fremmed-sex.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om sex med en [främling](/sv/drommar/frammande/)?

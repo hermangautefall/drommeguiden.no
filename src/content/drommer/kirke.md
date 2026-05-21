@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din relasjon til tro, tilhørighet og det transcendente utforskes"
 bilde: /bilder/symboler/kirke.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om kirke?

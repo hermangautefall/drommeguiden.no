@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Din identitet och självkänsla uttrycks genom händernas tillstånd"
 dato: 2026-03-18
 bilde: /bilder/symboler/hender.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om händer?

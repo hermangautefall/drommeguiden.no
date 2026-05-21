@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ett ouppgjort tema mellan er söker bearbetning"
 bilde: /bilder/symboler/far.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om din pappa?

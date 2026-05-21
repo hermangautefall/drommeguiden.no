@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe du burde ha gjort tidligere nærmer seg sin frist"
 bilde: /bilder/symboler/sen.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å komme for sent?

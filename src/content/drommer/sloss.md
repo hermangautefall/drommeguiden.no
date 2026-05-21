@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Undertrykt aggresjon eller frustrasjon som vil ut"
 bilde: /bilder/symboler/sloss.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å sloss?

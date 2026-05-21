@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din skyggeside eller et undertrykt aspekt viser seg"
 bilde: /bilder/symboler/fremmed.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om en fremmed person?

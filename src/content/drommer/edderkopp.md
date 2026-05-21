@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Edderkoppen kan representere en manipulativ person som spinner sitt nett."
 dato: 2026-03-18
 bilde: /bilder/symboler/edderkopp.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om edderkopp?

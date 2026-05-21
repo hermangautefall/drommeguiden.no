@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Modet att korsa något där du är osäker på vad som finns på andra sidan"
 bilde: /bilder/symboler/bro.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om bro?

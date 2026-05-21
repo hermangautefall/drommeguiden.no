@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Å miste bussen — en frykt for å gå glipp av noe viktig"
 bilde: /bilder/symboler/buss.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om buss?

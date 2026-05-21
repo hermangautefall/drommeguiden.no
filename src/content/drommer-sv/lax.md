@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En transformerande resa som kostar allt — men som är nödvändig"
 bilde: /bilder/symboler/laks.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om lax?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Övergången mellan olika nivåer av medvetande eller livssituation"
 bilde: /bilder/symboler/trapp.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om trappa?

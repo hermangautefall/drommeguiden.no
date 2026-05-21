@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Frihet og letthet i bevegelse — en enkel og direkte vei"
 bilde: /bilder/symboler/sykkel.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sykkel?

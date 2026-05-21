@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Något i ditt liv behöver akut uppmärksamhet"
 dato: 2026-03-18
 bilde: /bilder/symboler/sykehus.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om sjukhus?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Skyld, skam eller en uoppgjort handling tynger deg"
 bilde: /bilder/symboler/fengsel.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om fengsel?

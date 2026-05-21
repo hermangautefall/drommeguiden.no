@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Rytme og flyt — du er i takt med noe større enn deg selv"
 bilde: /bilder/symboler/dans.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å danse?

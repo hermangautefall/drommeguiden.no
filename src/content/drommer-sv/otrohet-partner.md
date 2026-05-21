@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Osäkerhet för egen del: fruktar du att du inte är tillräckligt bra för att behålla kärleken?"
 bilde: /bilder/symboler/utroskap-partner.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att partnern är otrogen?

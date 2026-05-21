@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Samarbete och gemenskap är viktigt just nu"
 dato: 2026-03-18
 bilde: /bilder/symboler/maur.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om myror?

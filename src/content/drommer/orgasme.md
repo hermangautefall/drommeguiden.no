@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Behovet for mer glede, nytelse og sanselig tilstedeværelse i hverdagen"
 bilde: /bilder/symboler/orgasme.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om orgasme?

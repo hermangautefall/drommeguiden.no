@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En djup önskan om förändring eller ny mening söker uttryck"
 bilde: /bilder/symboler/gravid.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att vara gravid?

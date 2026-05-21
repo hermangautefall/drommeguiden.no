@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe fra fortiden er klart til å hentes frem igjen"
 bilde: /bilder/symboler/loft.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om loft?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Forbundethet og overgivelse — den dypeste formen for å gi seg hen"
 bilde: /bilder/symboler/ammende.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om amming?

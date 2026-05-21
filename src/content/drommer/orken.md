@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En prøvelse du må gjennom for å finne noe viktig på andre siden"
 bilde: /bilder/symboler/orken.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om ørken?

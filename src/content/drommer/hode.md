@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Forholdet mellom hodet og hjertet — fornuft versus følelse"
 bilde: /bilder/symboler/hode.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hodet?

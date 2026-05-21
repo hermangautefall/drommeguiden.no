@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En fristad och ett rum för ro, skönhet och fördjupning"
 bilde: /bilder/symboler/hage.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om trädgård?

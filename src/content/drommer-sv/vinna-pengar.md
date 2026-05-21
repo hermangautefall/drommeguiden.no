@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En oväntad resurs är på väg — något gott är på väg in i livet"
 bilde: /bilder/symboler/vinne-penger.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att vinna [pengar](/sv/drommar/pengar/)?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något i ditt liv konkurrerar om din eller partnerns uppmärksamhet"
 bilde: /bilder/symboler/utroskap.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om otrohet?

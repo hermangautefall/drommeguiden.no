@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/foede.jpg
 dato: 2026-03-18
 nb_slug: foede
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att föda?

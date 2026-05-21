@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En övergång eller resa i ditt liv är i gång"
 dato: 2026-03-18
 bilde: /bilder/symboler/bil.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om bil?

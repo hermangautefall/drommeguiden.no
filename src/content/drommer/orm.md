@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe som ødelegger langsomt — en giftig situasjon eller tanke"
 bilde: /bilder/symboler/orm.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om orm?

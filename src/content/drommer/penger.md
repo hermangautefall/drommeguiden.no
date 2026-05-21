@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe du opplever som knapphet eller overflod i livet akkurat nå"
   - "Makt, kontroll og ressurser — hvem har dem og hvem mangler"
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om penger?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En sårbarhet du bär på söker att bli erkänd"
 bilde: /bilder/symboler/sykdom.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att bli sjuk?

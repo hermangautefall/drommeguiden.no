@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Grensen mellom din indre verden og det du deler med andre"
 bilde: /bilder/symboler/munn.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om munnen?

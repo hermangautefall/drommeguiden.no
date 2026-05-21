@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En overveldende situasjon eller person i livet ditt"
 dato: 2026-03-18
 bilde: /bilder/symboler/drage.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om drage?

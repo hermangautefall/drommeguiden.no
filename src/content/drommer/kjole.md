@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Hvordan du ønsker å fremstå — eller bli sett"
 bilde: /bilder/symboler/kjole.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om kjole?

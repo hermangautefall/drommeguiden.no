@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Digital identitet og spørsmålet om hvem du er online kontra offline"
 bilde: /bilder/symboler/internett.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om internett?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Dyp omsorg og ubetinget kjærlighet savnes eller feires"
 bilde: /bilder/symboler/bestemor.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om bestemoren din?

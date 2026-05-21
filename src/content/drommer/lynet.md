@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En krise eller konflikt som slår til uten forvarsel"
 bilde: /bilder/symboler/lynet.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om lyn?

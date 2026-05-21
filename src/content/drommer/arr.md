@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Styrke gjennom sårbarhet — det som nesten knekte deg, formet deg"
 bilde: /bilder/symboler/arr.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om arr?

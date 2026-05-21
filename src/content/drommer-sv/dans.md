@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Rytm och flöde — du är i takt med något större än dig själv"
 bilde: /bilder/symboler/dans.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att dansa?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sårbarhet og eksponering overfor andres blikk"
 bilde: /bilder/symboler/har.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hår?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe i ditt nærmiljø som krever oppmerksomhet"
 bilde: /bilder/symboler/nabo.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om naboen din?

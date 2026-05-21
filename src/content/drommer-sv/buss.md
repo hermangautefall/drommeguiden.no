@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Att missa bussen — en rädsla för att gå miste om något viktigt"
 bilde: /bilder/symboler/buss.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om buss?

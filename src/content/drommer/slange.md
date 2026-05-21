@@ -15,6 +15,7 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/slange.jpg
 sv_slug: orm
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om slange?

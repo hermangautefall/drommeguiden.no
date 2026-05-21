@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Eks-partneren representerer en egenskap eller periode i livet du savner"
 bilde: /bilder/symboler/eksen-sex.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sex med [eksen](/drommer/eksen)?

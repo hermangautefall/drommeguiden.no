@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Dype bånd til familie eller nære relasjoner er i fokus"
 dato: 2026-03-18
 bilde: /bilder/symboler/blod.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om blod?

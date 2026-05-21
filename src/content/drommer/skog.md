@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Vekst, fornyelse og kontakt med det naturlige i deg"
 dato: 2026-03-18
 bilde: /bilder/symboler/skog.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om skog?

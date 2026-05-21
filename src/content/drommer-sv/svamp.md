@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Intuition och det omedvetna — svamp växer i mörkret, som tankar och insikter gör"
 bilde: /bilder/symboler/sopp.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om svamp?

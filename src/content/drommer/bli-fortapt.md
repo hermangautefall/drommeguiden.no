@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En del av deg er kommet bort fra hvem du egentlig er"
 bilde: /bilder/symboler/bli-fortapt.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å bli fortapt?

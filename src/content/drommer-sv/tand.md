@@ -13,6 +13,7 @@ tolkninger_kort:
 dato: 2026-04-20
 bilde: /bilder/symboler/tann.jpg
 nb_slug: tann
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om tänder?

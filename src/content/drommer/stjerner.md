@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En drøm, et mål eller en lengsel lyser opp mørket"
 bilde: /bilder/symboler/stjerner.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om stjerner?

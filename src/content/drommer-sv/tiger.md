@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En farlig eller oförutsägbar kraft är i spel i ditt liv"
 dato: 2026-03-18
 bilde: /bilder/symboler/tiger.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om tiger?

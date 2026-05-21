@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Belöningen efter en lång vandring genom något torrt och svårt"
 bilde: /bilder/symboler/oase.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en oas?

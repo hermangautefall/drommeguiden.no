@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En del av din identitet som är formad av något som sträcker sig bakåt"
 bilde: /bilder/symboler/bestefar.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om din farfar?

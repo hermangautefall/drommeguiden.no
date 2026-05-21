@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En indre konflikt mellom ulike sider av deg selv spilles ut"
 bilde: /bilder/symboler/drepe.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å drepe noen?

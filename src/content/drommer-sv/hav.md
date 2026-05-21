@@ -12,6 +12,7 @@ tolkninger_kort:
 dato: 2026-04-20
 bilde: /bilder/symboler/hav.jpg
 nb_slug: hav
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om havet?

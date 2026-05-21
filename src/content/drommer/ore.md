@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Hva du velger å ta inn og hva du stenger ute"
 bilde: /bilder/symboler/ore.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om ører?

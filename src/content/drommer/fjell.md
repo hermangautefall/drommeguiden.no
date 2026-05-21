@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Åndelig vekst, oversikt og oppnåelse"
 dato: 2026-03-18
 bilde: /bilder/symboler/fjell.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om fjell?

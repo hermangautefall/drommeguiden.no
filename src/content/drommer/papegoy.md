@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noen i livet ditt er ikke originale — de kopierer andre"
 dato: 2026-03-18
 bilde: /bilder/symboler/papegoy.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om papegøye?

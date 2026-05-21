@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Själva resan — processen, inte bara målet"
 bilde: /bilder/symboler/vei.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om väg?

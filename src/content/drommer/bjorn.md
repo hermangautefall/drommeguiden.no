@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En bjørn kan representere beskyttelse — din egen eller noen som vokter deg."
 dato: 2026-03-18
 bilde: /bilder/symboler/bjorn.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om bjørn?

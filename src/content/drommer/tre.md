@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din personlige utvikling og det potensialet som ennå ikke er utfoldet"
 bilde: /bilder/symboler/tre.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om tre?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe vakkert lever i et begrenset rom — trenger det mer plass?"
 bilde: /bilder/symboler/gullfisk.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om gullfisk?

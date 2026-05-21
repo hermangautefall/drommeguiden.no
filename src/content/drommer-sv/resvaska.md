@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något du vill ta med dig eller lämna kvar"
 bilde: /bilder/symboler/koffert.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om resväska?

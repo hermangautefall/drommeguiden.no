@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Själen i rörelse — något i dig söker mot det högre"
 bilde: /bilder/symboler/fugl.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om fågel?

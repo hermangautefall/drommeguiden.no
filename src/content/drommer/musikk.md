@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sjelen kommuniserer noe som ikke lar seg si i ord"
 bilde: /bilder/symboler/musikk.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om musikk?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Å gi slipp på kontroll og akseptere at man ikke klarer alt alene"
 bilde: /bilder/symboler/bli-reddet.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å bli reddet?

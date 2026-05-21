@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Smerte og sårbarhet — noe har nådd gjennom forsvarene dine"
 bilde: /bilder/symboler/bli-skutt.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å bli skutt?

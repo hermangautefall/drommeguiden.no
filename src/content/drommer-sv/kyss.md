@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/kyss.jpg
 dato: 2026-03-18
 nb_slug: kyss
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en kyss?

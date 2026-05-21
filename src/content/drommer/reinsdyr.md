@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Samisk arv og forbindelsen til urfolks visdom og natur"
 bilde: /bilder/symboler/reinsdyr.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om reinsdyr?

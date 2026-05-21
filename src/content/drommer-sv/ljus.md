@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Det gudomliga, det andliga och det som är större än dig själv"
 bilde: /bilder/symboler/lys.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om ljus?

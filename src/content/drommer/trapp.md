@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Overgangen mellom ulike nivåer av bevissthet eller livssituasjon"
 bilde: /bilder/symboler/trapp.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om trapp?

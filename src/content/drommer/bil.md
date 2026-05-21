@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En overgang eller reise i livet ditt er i gang"
 dato: 2026-03-18
 bilde: /bilder/symboler/bil.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om bil?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En del av dig har kommit bort från den du egentligen är"
 bilde: /bilder/symboler/bli-fortapt.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att gå vilse?

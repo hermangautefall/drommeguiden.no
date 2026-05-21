@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe bak deg — i fortiden — krever oppmerksomhet"
 bilde: /bilder/symboler/rygg.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om ryggen?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En period med för lite meningsfull närhet — psyket signalerar vad som saknas"
 bilde: /bilder/symboler/ensomhet.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om ensamhet?

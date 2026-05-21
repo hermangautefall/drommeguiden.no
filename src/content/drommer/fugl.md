@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sjelen i bevegelse — noe i deg søker mot det høyere"
 bilde: /bilder/symboler/fugl.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om fugl?

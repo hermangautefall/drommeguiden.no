@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Ønske om nærere emosjonell kontakt med eget kjønn — ikke nødvendigvis seksuelt"
 bilde: /bilder/symboler/homofil-drom.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om homofilt sex?

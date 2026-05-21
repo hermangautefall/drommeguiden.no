@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Personlig vekst og nye muligheter åpner seg"
 dato: 2026-03-18
 bilde: /bilder/symboler/flyging.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om flyging?

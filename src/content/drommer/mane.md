@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Intuisjon og følelseslivet er sterkere enn vanlig akkurat nå"
 bilde: /bilder/symboler/mane.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om månen?

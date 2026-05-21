@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Stress och tryck från något du inte har tagit itu med"
 bilde: /bilder/symboler/forfulgt.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att bli förföljd?

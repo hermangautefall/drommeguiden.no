@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En ilska eller en kraft inom dig kräver uppmärksamhet"
 dato: 2026-03-18
 bilde: /bilder/symboler/love.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om lejon?

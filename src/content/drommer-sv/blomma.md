@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Sårbarhet och kortvarighet — något skönt men flyktigt"
 bilde: /bilder/symboler/blomst.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om blommor?

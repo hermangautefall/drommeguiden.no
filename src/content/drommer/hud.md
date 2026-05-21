@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Identitet og tilhørighet — hudfargen og kroppens overflate som identitetsmarkør"
 bilde: /bilder/symboler/hud.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hud?

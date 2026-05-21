@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Du längtar efter att visa dig som den du verkligen är"
 dato: 2026-03-18
 bilde: /bilder/symboler/naken.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att vara naken?

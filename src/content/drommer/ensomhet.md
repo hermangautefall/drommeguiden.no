@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En periode med for lite meningsfull nærhet — psyken signaliserer hva som mangler"
 bilde: /bilder/symboler/ensomhet.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om ensomhet?

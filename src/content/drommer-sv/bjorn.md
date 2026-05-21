@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En björn kan representera skydd — ditt eget eller någon som vakar över dig."
 dato: 2026-03-18
 bilde: /bilder/symboler/bjorn.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om björn?

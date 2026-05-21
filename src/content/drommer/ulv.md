@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En ytre trussel eller indre frykt gjør seg gjeldende"
 dato: 2026-03-18
 bilde: /bilder/symboler/ulv.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om ulv?

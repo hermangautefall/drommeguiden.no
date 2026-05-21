@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Du er i ferd med å miste kontrollen over noe viktig i livet ditt"
 dato: 2026-03-18
 bilde: /bilder/symboler/drukne.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å drukne?

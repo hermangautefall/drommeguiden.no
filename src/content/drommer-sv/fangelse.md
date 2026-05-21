@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Skuld, skam eller en ouppgjord handling tynger dig"
 bilde: /bilder/symboler/fengsel.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om fängelse?

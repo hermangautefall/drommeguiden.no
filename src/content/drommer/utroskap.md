@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe i livet ditt konkurrerer om oppmerksomheten din eller partnerens"
 bilde: /bilder/symboler/utroskap.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om utroskap?

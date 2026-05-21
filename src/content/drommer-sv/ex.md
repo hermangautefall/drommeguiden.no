@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Du är på väg att avsluta ett kapitel och gå vidare"
 dato: 2026-03-18
 bilde: /bilder/symboler/eksen.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om ex?

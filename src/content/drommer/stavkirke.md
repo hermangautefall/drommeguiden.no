@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et hellig rom — et sted for det som er større enn hverdagen"
 bilde: /bilder/symboler/stavkirke.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om stavkirke?

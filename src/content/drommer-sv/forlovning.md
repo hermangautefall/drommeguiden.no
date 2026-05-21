@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En önskan om djupare anknytning — till en person, ett projekt eller dig själv"
 bilde: /bilder/symboler/forlovelse.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om förlovning?

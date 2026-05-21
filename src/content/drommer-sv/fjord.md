@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din anknytning till nordisk natur och det som är genuint ditt"
 bilde: /bilder/symboler/fjord.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om fjord?

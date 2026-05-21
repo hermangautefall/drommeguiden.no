@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Rädslan för att avslöjas som otillräcklig — bedragarkänslans drömbild"
 bilde: /bilder/symboler/skamme.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om skam?

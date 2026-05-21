@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Grensen mellom din indre verden og det som skjer utenfor"
 bilde: /bilder/symboler/vindu.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om vindu?

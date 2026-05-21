@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något du håller fast vid riskerar att försvinna"
 bilde: /bilder/symboler/miste-noe.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att förlora något?

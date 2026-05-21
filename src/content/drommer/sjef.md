@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din indre kritiker har tatt sjefens ansikt"
 bilde: /bilder/symboler/sjef.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sjefen sin?

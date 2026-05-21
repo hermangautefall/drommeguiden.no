@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ditt högre medvetande eller intuition talar till dig"
 bilde: /bilder/symboler/engler.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om änglar?

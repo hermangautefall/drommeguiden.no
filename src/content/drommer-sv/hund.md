@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Hundar kan representera dina instinkter och den intuitiva delen av dig."
 dato: 2026-03-18
 bilde: /bilder/symboler/hund.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om hund?

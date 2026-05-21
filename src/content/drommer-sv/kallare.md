@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En rädsla eller mörk sida du inte vill konfrontera"
 bilde: /bilder/symboler/kjeller.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om källare?

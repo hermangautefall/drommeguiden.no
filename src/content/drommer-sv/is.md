@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Klarhet, hårdhet och det som är bevarat men otillgängligt"
 bilde: /bilder/symboler/is.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om is?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Samarbeid og fellesskap er viktig akkurat nå"
 dato: 2026-03-18
 bilde: /bilder/symboler/maur.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om maur?

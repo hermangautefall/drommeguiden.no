@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Du lever mellan två världar och behöver hitta balansen"
 dato: 2026-03-18
 bilde: /bilder/symboler/frosk.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om groda?

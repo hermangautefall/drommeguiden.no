@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Du opplever usikkerhet rundt tilhørighet eller sosial posisjon"
 dato: 2026-03-18
 bilde: /bilder/symboler/skole.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om skole?

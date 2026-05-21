@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En lengsel etter det nye, ukjente og uutforskede i livet ditt"
 bilde: /bilder/symboler/fremmed-sex.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sex med en [fremmed](/drommer/fremmed)?

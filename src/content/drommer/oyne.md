@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du føler deg overvåket eller vurdert av andre"
 bilde: /bilder/symboler/oyne.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om øyne?

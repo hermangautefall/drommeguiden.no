@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Søsterskap, konkurranse og tilhørighet utforskes"
 bilde: /bilder/symboler/soester.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om søsteren din?

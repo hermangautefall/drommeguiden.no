@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe dobbelt er i ferd med å komme til verden — mer enn du ventet"
 bilde: /bilder/symboler/tvillinger.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om tvillinger?

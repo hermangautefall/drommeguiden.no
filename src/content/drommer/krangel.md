@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Undertrykt sinne eller frustrasjon som finner et utløp i drømmens trygge rom"
 bilde: /bilder/symboler/krangel.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om å krangle?

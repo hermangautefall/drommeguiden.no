@@ -14,6 +14,7 @@ tolkninger_kort:
 bilde: /bilder/symboler/sen.jpg
 dato: 2026-03-18
 nb_slug: sen
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att komma för sent?

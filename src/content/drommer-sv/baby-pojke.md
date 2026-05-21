@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Barnets kön berättar vilken sida av dig själv som håller på att växa fram"
 bilde: /bilder/symboler/baby-gutt.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en [baby](/sv/drommar/baby/) — och vad betyder könet?

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Begynnelsens mørke — skapelse starter i mørket, før lyset"
 bilde: /bilder/symboler/moerke.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om mørke?

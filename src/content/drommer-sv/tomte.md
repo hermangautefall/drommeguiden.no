@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En liten men mäktig kraft — det lilla som vakar över det stora"
 bilde: /bilder/symboler/nisse.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om tomte?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En transformationsprocess som är väl igång — men som ännu inte är redo att födas"
 bilde: /bilder/symboler/vaere-gravid-mann.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att en man drömmer om [att vara gravid](/sv/drommar/gravid/)?

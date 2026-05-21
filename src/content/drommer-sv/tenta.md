@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ett obearbetat tryck från en krävande period i ditt liv"
 bilde: /bilder/symboler/eksamen.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om tenta?

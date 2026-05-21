@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En rädsla för sårbarhet och att bli öppnad"
 bilde: /bilder/symboler/operasjon.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en operation?

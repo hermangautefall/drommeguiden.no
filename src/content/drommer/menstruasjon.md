@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En naturlig avslutning som gjør plass til noe nytt — renselse og ny begynnelse"
 bilde: /bilder/symboler/menstruasjon.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om menstruasjon?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något ouppklarat i syskonrelationen söker uppmärksamhet"
 bilde: /bilder/symboler/bror.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om din bror?

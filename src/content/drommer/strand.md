@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du utforsker grensen mellom det trygge og det ukjente"
 bilde: /bilder/symboler/strand.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om strand?

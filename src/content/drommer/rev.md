@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din evne til å tilpasse deg og overleve prøves"
 dato: 2026-03-18
 bilde: /bilder/symboler/rev.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om rev?

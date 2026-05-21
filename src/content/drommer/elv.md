@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din livsretning — der strømmen tar deg"
 bilde: /bilder/symboler/elv.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om elv?

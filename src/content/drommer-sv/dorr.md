@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Gränsen mellan det kända och det okända, det trygga och det nya"
 bilde: /bilder/symboler/dor.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om dörr?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Tillhörighet, anknytning och det att höra till någon"
 bilde: /bilder/symboler/ring.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om ring?

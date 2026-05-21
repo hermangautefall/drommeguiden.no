@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En emosjonell uro sitter i kroppen og vil ut"
 bilde: /bilder/symboler/mage.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om magen?

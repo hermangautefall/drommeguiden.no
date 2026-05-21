@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Undertrykte følelser presser seg til overflaten"
 dato: 2026-03-18
 bilde: /bilder/symboler/storm.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om storm?

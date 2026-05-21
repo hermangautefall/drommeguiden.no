@@ -14,6 +14,7 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/krokodille.jpg
 nb_slug: krokodille
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en krokodil?

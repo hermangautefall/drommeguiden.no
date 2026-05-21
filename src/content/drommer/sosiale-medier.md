@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sammenligning og den sosiale rangeringen du kanskje ikke vil innrømme at du gjør"
 bilde: /bilder/symboler/sosiale-medier.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sosiale medier?

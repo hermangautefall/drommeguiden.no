@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du føler deg kanskje litt utenfor eller annerledes enn de rundt deg"
 dato: 2026-03-18
 bilde: /bilder/symboler/pingvin.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om pingvin?

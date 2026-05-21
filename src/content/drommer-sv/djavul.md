@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Frestelse och det som drar dig bort från det du vet är rätt för dig"
 bilde: /bilder/symboler/djevel.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om djävulen?

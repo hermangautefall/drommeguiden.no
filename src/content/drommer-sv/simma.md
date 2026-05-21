@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Frihet, flöde och rörelse genom något flytande och oförutsägbart"
 bilde: /bilder/symboler/svomme.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om att simma?

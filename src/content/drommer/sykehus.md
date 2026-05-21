@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Noe i livet ditt trenger akutt oppmerksomhet"
 dato: 2026-03-18
 bilde: /bilder/symboler/sykehus.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sykehus?

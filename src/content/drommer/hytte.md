@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din tilknytning til natur, røtter og det genuint norske"
 bilde: /bilder/symboler/hytte.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hytte?

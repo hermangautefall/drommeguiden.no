@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sårbarhet som er synlig — noe du ikke lenger kan skjule for deg selv"
 bilde: /bilder/symboler/saar.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sår?

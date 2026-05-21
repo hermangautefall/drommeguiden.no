@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En kraftfull rening och förvandling är igång"
 bilde: /bilder/symboler/flom.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om översvämning?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Självständighet — att stå på egna ben och bära sig själv genom livet"
 bilde: /bilder/symboler/fot.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om fötter?

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En del av familjens nätverk som bär på något speciellt för dig"
 bilde: /bilder/symboler/onkel.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om din morbror eller farbror?

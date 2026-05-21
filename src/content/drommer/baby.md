@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Babyer i drømmer kan peke mot personlig vekst og nye sider ved deg selv."
 dato: 2026-03-18
 bilde: /bilder/symboler/baby.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om baby?

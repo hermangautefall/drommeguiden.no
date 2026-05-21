@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Forholdet mellom kontroll og det vilde i deg selv er i fokus"
 dato: 2026-03-18
 bilde: /bilder/symboler/hest.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hest?

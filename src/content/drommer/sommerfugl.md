@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sjelen din er i bevegelse mot noe nytt og vakkert"
 dato: 2026-03-18
 bilde: /bilder/symboler/sommerfugl.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om sommerfugl?

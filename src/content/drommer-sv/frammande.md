@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din skuggsida eller en undertryckt aspekt visar sig"
 bilde: /bilder/symboler/fremmed.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om en främling?

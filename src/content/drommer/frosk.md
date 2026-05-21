@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du lever mellom to verdener og trenger å finne balansen"
 dato: 2026-03-18
 bilde: /bilder/symboler/frosk.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om frosk?

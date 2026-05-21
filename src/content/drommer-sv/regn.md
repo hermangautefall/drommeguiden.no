@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Förnyelse, tillväxt och nya början väntar"
 dato: 2026-03-18
 bilde: /bilder/symboler/regn.jpg
+author: 'default'
 ---
 
 ## Vad betyder det att drömma om regn?

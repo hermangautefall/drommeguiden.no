@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din egen frykt for å miste eller bli sviktet viser seg"
 bilde: /bilder/symboler/kjaereste.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om kjæresten?

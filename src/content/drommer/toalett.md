@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et fysiologisk signal — kroppen din prøver å nå deg"
 bilde: /bilder/symboler/toalett.jpg
 dato: 2026-03-18
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om toalett?

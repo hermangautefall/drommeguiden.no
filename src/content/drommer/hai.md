@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din egen kraft og evne til å navigere dype følelser"
 dato: 2026-03-18
 bilde: /bilder/symboler/hai.jpg
+author: 'default'
 ---
 
 ## Hva betyr det å drømme om hai?
