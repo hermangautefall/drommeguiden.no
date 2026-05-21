@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Kategori from '../../../layouts/Kategori.astro';
+import { svToNo } from '../../../data/categoryMapping';
 
 export async function getStaticPaths() {
   const kategorier = await getCollection('kategorier-sv');
@@ -12,6 +13,12 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+
+const selfUrl = `https://drommeguiden.no/sv/kategori/${entry.data.slug}/`;
+const nbSlug = svToNo[entry.data.slug];
+const alternates: { lang: 'nb' | 'sv'; url: string }[] = [];
+if (nbSlug) alternates.push({ lang: 'nb', url: `https://drommeguiden.no/kategori/${nbSlug}/` });
+alternates.push({ lang: 'sv', url: selfUrl });
 ---
 
 <Kategori
@@ -19,7 +26,7 @@ const { Content } = await render(entry);
   kortbeskrivelse={entry.data.kortbeskrivelse}
   slug={entry.data.slug}
   lang="sv"
-  alternates={entry.data.nb_slug ? [{ lang: 'nb', url: `https://drommeguiden.no/kategori/${entry.data.nb_slug}/` }] : []}
+  alternates={alternates}
 >
   <Content />
 </Kategori>
