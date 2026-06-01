@@ -36,6 +36,10 @@ const kategoriLabels: Record<string, string> = {
       <p class="drommer-subtitle">
         {drommer.length} symboler — sök eller filtrera för att hitta din symbol.
       </p>
+      <p class="drommer-subhint">
+        Föredrar du att bläddra? Se den
+        <a href="/sv/drommar/a-till-o/">alfabetiska A&nbsp;till&nbsp;Ö-översikten</a>.
+      </p>
     </div>
 
     <div class="drommer-search">
@@ -90,6 +94,8 @@ const kategoriLabels: Record<string, string> = {
     }
     @media (min-width: 768px) { .drommer-title { font-size: 48px; } }
     .drommer-subtitle { font-size: 16px; color: var(--color-text-muted); line-height: 1.6; }
+    .drommer-subhint { font-size: 14px; color: var(--color-text-muted); margin-top: 6px; }
+    .drommer-subhint a { color: var(--color-primary); font-weight: 500; }
 
     .drommer-search { margin-bottom: 20px; }
     .drommer-search-input {

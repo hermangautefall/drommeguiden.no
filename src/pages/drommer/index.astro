@@ -27,6 +27,10 @@ const kategorier = ['dyr', 'vann', 'kropp', 'steder', 'hendelser', 'mennesker', 
       <p class="drommer-subtitle">
         {drommer.length} symboler — søk eller filtrer for å finne ditt symbol.
       </p>
+      <p class="drommer-subhint">
+        Foretrekker du å bla? Se den
+        <a href="/drommer/a-til-aa/">alfabetiske A&nbsp;til&nbsp;Å-oversikten</a>.
+      </p>
     </div>
 
     <!-- Search -->
@@ -108,6 +112,15 @@ const kategorier = ['dyr', 'vann', 'kropp', 'steder', 'hendelser', 'mennesker', 
       font-size: 16px;
       color: var(--color-text-muted);
       line-height: 1.6;
+    }
+    .drommer-subhint {
+      font-size: 14px;
+      color: var(--color-text-muted);
+      margin-top: 6px;
+    }
+    .drommer-subhint a {
+      color: var(--color-primary);
+      font-weight: 500;
     }
 
     /* Search */
