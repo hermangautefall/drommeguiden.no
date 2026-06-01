@@ -14,6 +14,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/ammende.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - sovn-graviditet
+  - sovnbehov
 ---
 
 ## Hva betyr det å drømme om amming?

@@ -14,6 +14,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/fly-styrter.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - ptsd-drommer
+  - angst-sovn
 ---
 
 ## Hva betyr det å drømme om at flyet styrter?

@@ -12,9 +12,12 @@ relaterte_sovn:
   - melatonin
   - sovnfaser
   - sovnhygiene
-relaterte_drommer:
+relaterte_guider:
   - hva-er-drommer
   - stress-og-drommer
+relaterte_drommer:
+  - mane
+  - sol
 ---
 
 Du er ikke bare trøtt om natten fordi du har vært våken lenge. Du er trøtt fordi en nedarvd biologisk klokke i hjernen din — kalibrert over millioner av år av evolusjon — forteller kroppen at det er natt. Og den klokken gjør mye mer enn å regulere søvnen.

@@ -15,6 +15,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/forfulgt.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - angest-somn
+  - ptsd-drommar
 ---
 
 ## Vad betyder det att drömma om att bli förföljd?

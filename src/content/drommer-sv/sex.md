@@ -15,6 +15,9 @@ bilde: /bilder/symboler/sex.jpg
 dato: 2026-03-18
 nb_slug: sex
 author: 'default'
+relaterte_sovn:
+  - varfor-drommer-vi
+  - somnfaser
 ---
 
 ## Vad betyder det att drömma om sex?

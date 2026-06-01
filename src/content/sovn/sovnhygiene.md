@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnproblemer
   - soverom-sovn
   - leggetidsrutine
-relaterte_drommer:
+relaterte_guider:
   - drommejournalen
   - stress-og-drommer
 ---

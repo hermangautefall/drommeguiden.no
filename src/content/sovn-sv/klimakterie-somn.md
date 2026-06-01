@@ -13,9 +13,11 @@ relaterte_sovn:
   - somnproblem
   - somnhygien
   - angest-somn
-relaterte_drommer:
+relaterte_guider:
   - stress-och-drommar
   - mardrom
+relaterte_drommer:
+  - blod
 ---
 
 "Jag sover inte längre." Det är ett av de mest konsekventa uttalandena från kvinnor i klimakteriet när de talar med läkaren. Inte "jag sover dåligt" — "jag sover inte." Och i perioder är det bokstavligen sant.

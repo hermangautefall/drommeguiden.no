@@ -15,6 +15,8 @@ tolkninger_kort:
 bilde: /bilder/symboler/hjerte.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - varfor-drommer-vi
 ---
 
 ## Vad betyder det att drömma om hjärtat?

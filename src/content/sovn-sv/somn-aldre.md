@@ -13,7 +13,7 @@ relaterte_sovn:
   - somnproblem
   - melatonin
   - somnhygien
-relaterte_drommer:
+relaterte_guider:
   - drommar-om-avlidna
   - drommar-om-avlidna
 ---

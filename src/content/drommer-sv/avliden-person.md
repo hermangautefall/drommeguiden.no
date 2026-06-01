@@ -15,6 +15,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/avdod-person.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - sorg-somn
+  - beromda-drommar
 ---
 
 ## Vad betyder det att drömma om en avliden person?

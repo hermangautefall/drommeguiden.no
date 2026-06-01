@@ -12,9 +12,12 @@ relaterte_sovn:
   - sovnproblemer
   - depresjon-sovn
   - sovnhygiene
+relaterte_guider:
+  - drommer-om-avdode
+  - drommer-om-avdode
 relaterte_drommer:
-  - drommer-om-avdode
-  - drommer-om-avdode
+  - avdod-person
+  - miste-baby
 ---
 
 Etter et tap er søvnen sjelden den samme. Innsovning tar lenger tid. Nettene er fragmenterte. Og drømmene — de kan være trøstende på en måte som ingenting annet er, eller de kan gjenoppleve tapet med en intensitet som setter seg i kroppen lenge etter oppvåkning.

@@ -13,7 +13,7 @@ relaterte_sovn:
   - somnproblem
   - somnhygien
   - depression-somn
-relaterte_drommer:
+relaterte_guider:
   - stress-och-drommar
   - mardrom
   - mardrom

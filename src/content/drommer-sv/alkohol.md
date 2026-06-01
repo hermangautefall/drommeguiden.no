@@ -15,6 +15,9 @@ bilde: /bilder/symboler/alkohol.jpg
 dato: 2026-03-18
 nb_slug: alkohol
 author: 'default'
+relaterte_sovn:
+  - alkohol-somn
+  - somnproblem
 ---
 
 ## Vad betyder det att drömma om alkohol?

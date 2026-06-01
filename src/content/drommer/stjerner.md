@@ -14,6 +14,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/stjerner.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - dognrytme
+  - soverom-sovn
 ---
 
 ## Hva betyr det å drømme om stjerner?

@@ -16,6 +16,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/ulv.jpg
 author: 'default'
+relaterte_sovn:
+  - angest-somn
+  - ptsd-drommar
 ---
 
 ## Vad betyder det att drömma om varg?

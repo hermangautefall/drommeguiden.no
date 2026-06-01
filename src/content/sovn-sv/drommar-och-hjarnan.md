@@ -13,7 +13,7 @@ relaterte_sovn:
   - somnfaser
   - varfor-drommer-vi
   - vad-ar-somn
-relaterte_drommer:
+relaterte_guider:
   - hva-er-drommar
   - lucid-drom
   - somnparalys

@@ -12,8 +12,10 @@ oppdatert: 2026-03-18
 relaterte_sovn:
   - beromda-drommar
   - varfor-drommer-vi
-relaterte_drommer:
+relaterte_guider:
   - profetiska-drommar
+relaterte_drommer:
+  - gud
 ---
 
 I fornnordisk kultur tolkades inte drömmarna — de lyssnades på. En dröm var inte en symbol att analysera i morgontimmarna. Det var ett budskap, ett varsel, en ödesbeskrivning som krävde handling.

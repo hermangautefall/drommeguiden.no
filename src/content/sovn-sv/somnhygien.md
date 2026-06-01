@@ -13,7 +13,7 @@ relaterte_sovn:
   - somnproblem
   - sovrum-somn
   - laggdags-rutin
-relaterte_drommer:
+relaterte_guider:
   - dromjournalen
   - stress-och-drommar
 ---

@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnproblemer
   - sovnhygiene
   - depresjon-sovn
-relaterte_drommer:
+relaterte_guider:
   - stress-og-drommer
   - mareritt
   - mareritt

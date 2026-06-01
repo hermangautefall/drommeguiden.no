@@ -14,6 +14,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/gravid.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - sovn-graviditet
+  - hvorfor-drommer-vi
 ---
 
 ## Hva betyr det å drømme om å være gravid?

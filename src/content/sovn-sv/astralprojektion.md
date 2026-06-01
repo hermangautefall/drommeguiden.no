@@ -13,7 +13,7 @@ relaterte_sovn:
   - somnfaser
   - polyfasisk-somn
   - drommar-och-hjarnan
-relaterte_drommer:
+relaterte_guider:
   - falskt-uppvaknande
   - klardromning
   - somnforlamning

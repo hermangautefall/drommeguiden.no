@@ -13,9 +13,12 @@ relaterte_sovn:
   - somnproblem
   - depression-somn
   - somnhygien
+relaterte_guider:
+  - drommar-om-avlidna
+  - drommar-om-avlidna
 relaterte_drommer:
-  - drommar-om-avlidna
-  - drommar-om-avlidna
+  - avliden-person
+  - forlora-barn
 ---
 
 Efter en förlust är sömnen sällan densamma. Insomningen tar längre tid. Nätterna är fragmenterade. Och drömmarna — de kan vara tröstande på ett sätt som inget annat är, eller så kan de återuppleva förlusten med en intensitet som sätter sig i kroppen långt efter uppvaknandet.

@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnhygiene
   - sovnproblemer
   - vektet-teppe
-relaterte_drommer:
+relaterte_guider:
   - drommejournalen
   - sovnparalyse
 ---

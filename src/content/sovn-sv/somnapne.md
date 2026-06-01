@@ -13,10 +13,12 @@ relaterte_sovn:
   - somnproblem
   - somnbehov
   - vad-ar-somn
-relaterte_drommer:
+relaterte_guider:
   - nattskrack
   - somnforlamning
   - stress-och-drommar
+relaterte_drommer:
+  - drunkna
 ---
 
 Du sover åtta timmar och vaknar utmattad. Partnern klagar på snarkning. Huvudvärk på morgonen är en fast del av dagen. Och under dagen kämpar du mot en sömnighet du inte kan förklara.

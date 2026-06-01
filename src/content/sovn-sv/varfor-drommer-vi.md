@@ -12,9 +12,13 @@ relaterte_sovn:
   - somnfaser
   - vad-ar-somn
   - somnhygien
-relaterte_drommer:
+relaterte_guider:
   - vad-ar-drommar
   - dromjournalen
+relaterte_drommer:
+  - orm
+  - flyga
+  - ex
 ---
 
 Det är en av de mest grundläggande frågorna inom sömnvetenskap — och fortfarande inte helt besvarad. Varför tillbringar vi en fjärdedel av livet i ett tillstånd där hjärnan skapar levande, narrativa, emotionellt intensiva upplevelser som för det mesta försvinner vid uppvaknandet?

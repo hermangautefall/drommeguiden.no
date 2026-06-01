@@ -13,7 +13,7 @@ relaterte_sovn:
   - vad-ar-somn
   - somnbehov
   - somnproblem
-relaterte_drommer:
+relaterte_guider:
   - stress-och-drommar
   - stress-och-drommar
 ---

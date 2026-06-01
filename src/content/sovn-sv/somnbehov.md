@@ -13,9 +13,11 @@ relaterte_sovn:
   - somnfaser
   - vad-ar-somn
   - somnhygien
-relaterte_drommer:
+relaterte_guider:
   - barn-och-drommar
   - stress-och-drommar
+relaterte_drommer:
+  - mat
 ---
 
 "Du behöver åtta timmars sömn" är ett av de mest upprepade råden i hälsokommunikationen. Det är också en förenkling som kan göra mer skada än nytta — för att det antyder att alla människor har identiskt sömnbehov, vilket de inte har.

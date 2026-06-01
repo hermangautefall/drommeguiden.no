@@ -9,6 +9,7 @@ import AdSlot from '../components/AdSlot.astro';
 import HelpfulnessVote from '../components/HelpfulnessVote.astro';
 import { getAuthor } from '../data/authors';
 import { resolveOgImage } from '../lib/og-image';
+import RelaterteDrommer from '../components/RelaterteDrommer.astro';
 import { getCollection } from 'astro:content';
 import { defaultLang, languages, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
@@ -28,13 +29,17 @@ interface Props {
   oppdatert?: Date;
   bilde?: string;
   relaterte_sovn?: string[];
+  // Lenker til symbol-slugs (drommer-kollektionen)
   relaterte_drommer?: string[];
+  // Lenker til guide-slugs (guider-kollektionen) — tidligere het feltet
+  // `relaterte_drommer` men er nå omdøpt så navnet matcher data
+  relaterte_guider?: string[];
   author?: string;
   lang?: Lang;
   alternates?: AlternateLink[];
 }
 
-const { tittel, kortbeskrivelse, slug, kategori, leseminutter, dato, oppdatert, bilde, relaterte_sovn, relaterte_drommer, author, lang = defaultLang, alternates = [] } = Astro.props;
+const { tittel, kortbeskrivelse, slug, kategori, leseminutter, dato, oppdatert, bilde, relaterte_sovn, relaterte_drommer, relaterte_guider, author, lang = defaultLang, alternates = [] } = Astro.props;
 const resolvedAuthor = getAuthor(author);
 const og = await resolveOgImage(bilde);
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
@@ -72,8 +77,14 @@ const relaterteSovnArtikler = (relaterte_sovn || [])
   .filter(Boolean);
 
 const alleGuider = await getCollection(guiderCollection as any);
-const relaterteDrommerArtikler = (relaterte_drommer || [])
+const relaterteGuiderArtikler = (relaterte_guider || [])
   .map(s => alleGuider.find((g: any) => g.data.slug === s))
+  .filter(Boolean);
+
+const drommerCollection = lang === 'sv' ? 'drommer-sv' : 'drommer';
+const alleDrommer = await getCollection(drommerCollection as any);
+const relaterteDrommerArtikler = (relaterte_drommer || [])
+  .map(s => alleDrommer.find((d: any) => d.data.slug === s))
   .filter(Boolean);
 
 const baseSite = 'https://drommeguiden.no';
@@ -169,13 +180,16 @@ const crumbs = [
           </div>
         )}
 
-        <!-- Related dream content -->
-        {relaterteDrommerArtikler.length > 0 && (
+        <!-- Related dream symbols (RelaterteDrommer) -->
+        <RelaterteDrommer artikler={relaterteDrommerArtikler} lang={lang} />
+
+        <!-- Related guide articles -->
+        {relaterteGuiderArtikler.length > 0 && (
           <div class="sovn-related sovn-related-drommer">
             <span class="sovn-related-label">{labels.fraGuiden}</span>
             <h3 class="sovn-related-title">{labels.drommerOgSovn}</h3>
             <div class="sovn-related-grid">
-              {relaterteDrommerArtikler.map((art: any) => (
+              {relaterteGuiderArtikler.map((art: any) => (
                 <a href={pathFor(lang, 'guider', art.data.slug)} class="sovn-related-card">
                   <span class="sovn-related-badge" style="color: var(--color-accent);">{labels.guideLabel}</span>
                   <span class="sovn-related-name">{art.data.tittel}</span>

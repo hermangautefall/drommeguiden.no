@@ -16,6 +16,9 @@ dato: 2026-03-18
 bilde: /bilder/symboler/tann.jpg
 sv_slug: tand
 author: 'default'
+relaterte_sovn:
+  - hvorfor-drommer-vi
+  - sovnfaser
 ---
 
 ## Hva betyr det å drømme om tenner?

@@ -14,6 +14,9 @@ tolkninger_kort:
   - "Makt, kontroll og ressurser — hvem har dem og hvem mangler"
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - angst-sovn
+  - hvorfor-drommer-vi
 ---
 
 ## Hva betyr det å drømme om penger?

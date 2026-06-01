@@ -13,9 +13,12 @@ relaterte_sovn:
   - somnbehov
   - somnhygien
   - dygnsrytm
-relaterte_drommer:
+relaterte_guider:
   - barn-och-drommar
   - stress-och-drommar
+relaterte_drommer:
+  - barn
+  - tenta
 ---
 
 "Du hade inte problem med att stiga upp klockan sju när du var liten." Det är säkert sant. Men det betyder inte att din tonåring är lat eller motvillig. Det betyder att biologin har förändrats.

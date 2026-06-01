@@ -12,9 +12,12 @@ relaterte_sovn:
   - sovnbehov
   - sovnhygiene
   - dognrytme
-relaterte_drommer:
+relaterte_guider:
   - barn-og-drommer
   - stress-og-drommer
+relaterte_drommer:
+  - barn
+  - eksamen
 ---
 
 "Du hadde ikke problemer med å stå opp klokken syv da du var liten." Det er sikkert sant. Men det betyr ikke at tenåringen din er lat eller motvillig. Det betyr at biologien har endret seg.

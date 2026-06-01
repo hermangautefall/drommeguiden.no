@@ -15,6 +15,8 @@ tolkninger_kort:
 bilde: /bilder/symboler/helvete.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - ptsd-drommar
 ---
 
 ## Vad betyder det att drömma om helvetet?

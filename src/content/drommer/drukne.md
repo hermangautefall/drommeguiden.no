@@ -15,6 +15,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/drukne.jpg
 author: 'default'
+relaterte_sovn:
+  - ptsd-drommer
+  - angst-sovn
 ---
 
 ## Hva betyr det å drømme om å drukne?

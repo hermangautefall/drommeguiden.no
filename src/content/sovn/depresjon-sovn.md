@@ -12,10 +12,12 @@ relaterte_sovn:
   - sovnproblemer
   - angst-sovn
   - sovnhygiene
-relaterte_drommer:
+relaterte_guider:
   - stress-og-drommer
   - mareritt
   - mareritt
+relaterte_drommer:
+  - ensomhet
 ---
 
 Depresjon og søvnproblemer opptrer sjelden alene. I klinisk praksis er de nesten alltid sammenflettet — og det er ikke tilfeldig. De deler nevrologiske mekanismer, forstyrrer de samme biologiske systemene og forsterker hverandre i et mønster som kan gjøre det vanskelig å vite hva som kom først.

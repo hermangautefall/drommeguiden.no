@@ -12,7 +12,7 @@ relaterte_sovn:
   - soverom-sovn
   - sovnhygiene
   - sovnproblemer
-relaterte_drommer:
+relaterte_guider:
   - hva-er-drommer
   - drommejournalen
 ---

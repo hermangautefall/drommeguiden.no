@@ -15,6 +15,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/morkt-rom.jpg
 author: 'default'
+relaterte_sovn:
+  - angst-sovn
+  - hvorfor-drommer-vi
 ---
 
 ## Hva betyr det å drømme om et mørkt rom?

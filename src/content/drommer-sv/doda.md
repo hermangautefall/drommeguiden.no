@@ -15,6 +15,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/drepe.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - ptsd-drommar
+  - angest-somn
 ---
 
 ## Vad betyder det att drömma om att döda någon?

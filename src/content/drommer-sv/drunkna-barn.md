@@ -15,6 +15,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/drukne-barn.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - ptsd-drommar
+  - sorg-somn
 ---
 
 ## Vad betyder det att drömma om att ett [barn](/sv/drommar/barn/) drunknar?

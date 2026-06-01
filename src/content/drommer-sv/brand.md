@@ -16,6 +16,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/brann.jpg
 author: 'default'
+relaterte_sovn:
+  - ptsd-drommar
+  - angest-somn
 ---
 
 ## Vad betyder det att drömma om brand?

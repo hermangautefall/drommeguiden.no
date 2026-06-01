@@ -16,6 +16,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/edderkopp.jpg
 author: 'default'
+relaterte_sovn:
+  - angest-somn
+  - varfor-drommer-vi
 ---
 
 ## Vad betyder det att drömma om spindel?

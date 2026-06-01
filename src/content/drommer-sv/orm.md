@@ -15,6 +15,9 @@ dato: 2026-04-20
 bilde: /bilder/symboler/slange.jpg
 nb_slug: slange
 author: 'default'
+relaterte_sovn:
+  - angest-somn
+  - varfor-drommer-vi
 ---
 
 ## Vad betyder det att drömma om en orm?

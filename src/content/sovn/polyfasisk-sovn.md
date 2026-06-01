@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnfaser
   - sovnbehov
   - hva-er-sovn
-relaterte_drommer:
+relaterte_guider:
   - lucid-dromming
   - hva-er-drommer
 ---

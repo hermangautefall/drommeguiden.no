@@ -12,10 +12,13 @@ oppdatert: 2026-03-18
 relaterte_sovn:
   - varfor-drommer-vi
   - drommar-och-hjarnan
-relaterte_drommer:
+relaterte_guider:
   - profetiska-drommar
   - vad-ar-drommar
   - aterkommande-drommar
+relaterte_drommer:
+  - gud
+  - anglar
 ---
 
 Människor har lyssnat till sina drömmar sedan civilisationens början. Men det är först de senaste 200 åren som vi har fått dokumenterade fall där drömmar kan spåras direkt till vetenskapliga upptäckter, konstnärliga verk och historiska beslut. Vissa av dessa berättelser är extraordinära.

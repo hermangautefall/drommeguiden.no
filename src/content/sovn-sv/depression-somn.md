@@ -13,10 +13,12 @@ relaterte_sovn:
   - somnproblem
   - angest-somn
   - somnhygien
-relaterte_drommer:
+relaterte_guider:
   - stress-och-drommar
   - mardrom
   - mardrom
+relaterte_drommer:
+  - ensamhet
 ---
 
 Depression och sömnproblem uppträder sällan ensamma. I klinisk praktik är de nästan alltid sammanflätade — och det är inte en slump. De delar neurologiska mekanismer, stör samma biologiska system och förstärker varandra i ett mönster som kan göra det svårt att veta vilket som kom först.

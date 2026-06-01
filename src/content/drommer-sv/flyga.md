@@ -16,6 +16,9 @@ dato: 2026-03-18
 bilde: /bilder/symboler/flyging.jpg
 nb_slug: flyging
 author: 'default'
+relaterte_sovn:
+  - varfor-drommer-vi
+  - somnfaser
 ---
 
 ## Vad betyder det att drömma om att flyga?

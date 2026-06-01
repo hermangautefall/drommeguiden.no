@@ -8,6 +8,9 @@ leseminutter: 8
 dato: 2026-04-20
 bilde: /bilder/sovn/sovnfaser.jpg
 nb_slug: sovnfaser
+relaterte_drommer:
+  - flyga
+  - tand
 ---
 
 Sömn är inte en enda sak. Det är fyra distinkta tillstånd som hjärnan

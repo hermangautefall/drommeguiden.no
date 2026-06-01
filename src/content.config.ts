@@ -1,134 +1,82 @@
+// Astro 6+ content collection schemas using the explicit `glob` loader.
+// Uten loader bruker Astro implisitt legacy-modus som inferer skjemaet
+// fra filer ved første lese, og kan ende opp med å ignorere nye felt
+// som ble lagt til etter at skjemaet ble cachet.
+
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
-const drommer = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/drommer' }),
-  schema: z.object({
+const drommerSchema = z
+  .object({
     tittel: z.string(),
     slug: z.string(),
     kategori: z.string(),
     kortbeskrivelse: z.string(),
     relaterte: z.array(z.string()).optional(),
-    tolkninger_kort: z.array(z.string()),
+    tolkninger_kort: z.array(z.string()).optional(),
     bilde: z.string().optional(),
-    dato: z.coerce.date(),
+    dato: z.coerce.date().optional(),
+    oppdatert: z.coerce.date().optional(),
     sv_slug: z.string().optional(),
-  }),
-});
+    nb_slug: z.string().optional(),
+    author: z.string().optional(),
+    relaterte_sovn: z.array(z.string()).optional(),
+  })
+  .passthrough();
 
-const kategorier = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/kategorier' }),
-  schema: z.object({
+const sovnSchema = z
+  .object({
     tittel: z.string(),
     slug: z.string(),
+    seksjon: z.string().optional(),
+    kategori: z.string().optional(),
     kortbeskrivelse: z.string(),
-    ikonfil: z.string().optional(),
-    emoji: z.string().optional(),
-    antall_symboler: z.number().optional(),
-    dato: z.coerce.date(),
-  }),
-});
-
-const guider = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/guider' }),
-  schema: z.object({
-    tittel: z.string(),
-    slug: z.string(),
-    kortbeskrivelse: z.string(),
-    bilde: z.string().optional(),
     leseminutter: z.number().optional(),
-    dato: z.coerce.date(),
-    oppdatert: z.coerce.date().optional(),
-    sv_slug: z.string().optional(),
-  }),
-});
-
-const sovn = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/sovn' }),
-  schema: z.object({
-    tittel: z.string(),
-    slug: z.string(),
-    seksjon: z.literal('sovn'),
-    kategori: z.string(),
-    kortbeskrivelse: z.string(),
-    leseminutter: z.number(),
-    dato: z.coerce.date(),
+    dato: z.coerce.date().optional(),
     oppdatert: z.coerce.date().optional(),
     bilde: z.string().optional(),
+    sv_slug: z.string().optional(),
+    nb_slug: z.string().optional(),
+    author: z.string().optional(),
     relaterte_sovn: z.array(z.string()).optional(),
     relaterte_drommer: z.array(z.string()).optional(),
-    sv_slug: z.string().optional(),
-  }),
-});
+    relaterte_guider: z.array(z.string()).optional(),
+  })
+  .passthrough();
 
-const drommerSv = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/drommer-sv' }),
-  schema: z.object({
-    tittel: z.string(),
-    slug: z.string(),
-    kategori: z.string(),
-    kortbeskrivelse: z.string(),
-    relaterte: z.array(z.string()).optional(),
-    tolkninger_kort: z.array(z.string()),
-    bilde: z.string().optional(),
-    dato: z.coerce.date(),
-    nb_slug: z.string().optional(),
-  }),
-});
-
-const guiderSv = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/guider-sv' }),
-  schema: z.object({
-    tittel: z.string(),
-    slug: z.string(),
-    kortbeskrivelse: z.string(),
-    bilde: z.string().optional(),
-    leseminutter: z.number().optional(),
-    dato: z.coerce.date(),
-    oppdatert: z.coerce.date().optional(),
-    nb_slug: z.string().optional(),
-  }),
-});
-
-const sovnSv = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/sovn-sv' }),
-  schema: z.object({
-    tittel: z.string(),
-    slug: z.string(),
-    seksjon: z.literal('sovn'),
-    kategori: z.string(),
-    kortbeskrivelse: z.string(),
-    leseminutter: z.number(),
-    dato: z.coerce.date(),
-    oppdatert: z.coerce.date().optional(),
-    bilde: z.string().optional(),
-    relaterte_sovn: z.array(z.string()).optional(),
-    relaterte_drommer: z.array(z.string()).optional(),
-    nb_slug: z.string().optional(),
-  }),
-});
-
-const kategorierSv = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/kategorier-sv' }),
-  schema: z.object({
-    tittel: z.string(),
-    slug: z.string(),
-    kortbeskrivelse: z.string(),
-    ikonfil: z.string().optional(),
-    emoji: z.string().optional(),
-    antall_symboler: z.number().optional(),
-    dato: z.coerce.date(),
-    nb_slug: z.string().optional(),
-  }),
-});
+const looseSchema = z.object({}).passthrough();
 
 export const collections = {
-  drommer,
-  kategorier,
-  guider,
-  sovn,
-  'drommer-sv': drommerSv,
-  'guider-sv': guiderSv,
-  'sovn-sv': sovnSv,
-  'kategorier-sv': kategorierSv,
+  drommer: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/drommer' }),
+    schema: drommerSchema,
+  }),
+  'drommer-sv': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/drommer-sv' }),
+    schema: drommerSchema,
+  }),
+  sovn: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/sovn' }),
+    schema: sovnSchema,
+  }),
+  'sovn-sv': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/sovn-sv' }),
+    schema: sovnSchema,
+  }),
+  guider: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/guider' }),
+    schema: looseSchema,
+  }),
+  'guider-sv': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/guider-sv' }),
+    schema: looseSchema,
+  }),
+  kategorier: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/kategorier' }),
+    schema: looseSchema,
+  }),
+  'kategorier-sv': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/kategorier-sv' }),
+    schema: looseSchema,
+  }),
 };

@@ -13,9 +13,13 @@ relaterte_sovn:
   - somnproblem
   - somnhygien
   - sovrum-somn
+relaterte_guider:
+  - barn-och-drommar
+  - barn-och-drommar
 relaterte_drommer:
-  - barn-och-drommar
-  - barn-och-drommar
+  - gravid
+  - baby
+  - amma
 ---
 
 Graviditet är en av de perioder i livet då sömnen förändras mest — och då den behövs som mest. Det är en frustrerande paradox: just när kroppen utför ett av sina största arbeten är en god natts sömn svårare att få än någonsin.

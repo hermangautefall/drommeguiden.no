@@ -13,7 +13,7 @@ relaterte_sovn:
   - melatonin
   - somnhygien
   - somnproblem
-relaterte_drommer:
+relaterte_guider:
   - vad-ar-drommar
   - stress-och-drommar
 ---

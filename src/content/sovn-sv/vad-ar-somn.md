@@ -12,7 +12,7 @@ relaterte_sovn:
   - somnfaser
   - varfor-drommer-vi
   - somnproblem
-relaterte_drommer:
+relaterte_guider:
   - hva-er-drommar
 ---
 

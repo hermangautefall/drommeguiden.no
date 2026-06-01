@@ -15,6 +15,8 @@ tolkninger_kort:
 bilde: /bilder/symboler/krangel.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - angest-somn
 ---
 
 ## Vad betyder det att drömma om att gräla?

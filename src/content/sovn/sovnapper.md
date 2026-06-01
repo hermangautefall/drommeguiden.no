@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnfaser
   - sovnbehov
   - soverom-sovn
-relaterte_drommer:
+relaterte_guider:
   - drommejournalen
   - hva-er-drommer
 ---

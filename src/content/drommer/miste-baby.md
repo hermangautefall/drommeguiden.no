@@ -14,6 +14,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/miste-baby.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - sorg-sovn
+  - sovn-graviditet
 ---
 
 ## Hva betyr det å drømme om å miste et barn?

@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnfaser
   - hvorfor-drommer-vi
   - hva-er-sovn
-relaterte_drommer:
+relaterte_guider:
   - hva-er-drommer
   - lucid-dromming
   - sovnparalyse

@@ -14,6 +14,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/barn.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - tenaring-sovn
+  - hvorfor-drommer-vi
 ---
 
 ## Hva betyr det å drømme om barn?

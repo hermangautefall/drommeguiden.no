@@ -12,9 +12,11 @@ relaterte_sovn:
   - sovnfaser
   - hva-er-sovn
   - sovnhygiene
-relaterte_drommer:
+relaterte_guider:
   - barn-og-drommer
   - stress-og-drommer
+relaterte_drommer:
+  - mat
 ---
 
 "Du trenger åtte timers søvn" er et av de mest gjentatte rådene i helseformidlingen. Det er også en forenkling som kan gjøre mer skade enn godt — fordi det antyder at alle mennesker har identisk søvnbehov, noe de ikke har.

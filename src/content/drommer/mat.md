@@ -14,6 +14,8 @@ tolkninger_kort:
 bilde: /bilder/symboler/mat.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - sovnbehov
 ---
 
 ## Hva betyr det å drømme om mat?

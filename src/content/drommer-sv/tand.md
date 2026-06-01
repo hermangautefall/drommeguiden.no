@@ -14,6 +14,9 @@ dato: 2026-04-20
 bilde: /bilder/symboler/tann.jpg
 nb_slug: tann
 author: 'default'
+relaterte_sovn:
+  - varfor-drommer-vi
+  - somnfaser
 ---
 
 ## Vad betyder det att drömma om tänder?

@@ -15,6 +15,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/gud.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - beromda-drommar
+  - nordiska-dromsagor
 ---
 
 ## Vad betyder det att drömma om Gud?

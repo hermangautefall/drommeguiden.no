@@ -12,7 +12,7 @@ relaterte_sovn:
   - soverom-sovn
   - sovnhygiene
   - melatonin
-relaterte_drommer:
+relaterte_guider:
   - sovnparalyse
   - hva-er-drommer
 ---

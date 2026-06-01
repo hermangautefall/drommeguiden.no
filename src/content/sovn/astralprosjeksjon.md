@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnfaser
   - polyfasisk-sovn
   - drommer-og-hjernen
-relaterte_drommer:
+relaterte_guider:
   - falsk-oppvakning
   - lucid-dromming
   - sovnparalyse

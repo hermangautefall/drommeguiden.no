@@ -13,9 +13,12 @@ relaterte_sovn:
   - melatonin
   - somnfaser
   - somnhygien
-relaterte_drommer:
+relaterte_guider:
   - hva-er-drommar
   - stress-och-drommar
+relaterte_drommer:
+  - manen
+  - sol
 ---
 
 Du är inte bara trött på natten för att du har varit vaken länge. Du är trött för att en nedärvd biologisk klocka i din hjärna — kalibrerad under miljoner år av evolution — säger till kroppen att det är natt. Och den klockan gör mycket mer än att reglera sömnen.

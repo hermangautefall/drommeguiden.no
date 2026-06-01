@@ -15,6 +15,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/ensomhet.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - depression-somn
+  - angest-somn
 ---
 
 ## Vad betyder det att drömma om ensamhet?

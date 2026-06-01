@@ -13,7 +13,7 @@ relaterte_sovn:
   - sovrum-somn
   - somnhygien
   - melatonin
-relaterte_drommer:
+relaterte_guider:
   - somnforlamning
   - vad-ar-drommar
 ---

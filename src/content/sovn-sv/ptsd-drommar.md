@@ -13,10 +13,14 @@ relaterte_sovn:
   - somnproblem
   - depression-somn
   - angest-somn
-relaterte_drommer:
+relaterte_guider:
   - mardrom
   - aterkommande-drommar
   - mardrom
+relaterte_drommer:
+  - bli-skjuten
+  - forfoljd
+  - drunkna
 ---
 
 Av alla sömn- och drömstörningar vi känner till är posttraumatiskt stressyndrom (PTSD) den som bäst illustrerar vad som händer när hjärnans normala emotionella bearbetningssystem bryter samman. Och drömmarna är där detta sammanbrott är mest synligt.

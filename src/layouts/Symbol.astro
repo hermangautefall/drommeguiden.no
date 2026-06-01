@@ -10,6 +10,8 @@ import ShareButtons from '../components/ShareButtons.astro';
 import AdSlot from '../components/AdSlot.astro';
 import HelpfulnessVote from '../components/HelpfulnessVote.astro';
 import ReflectionPrompts from '../components/ReflectionPrompts.astro';
+import RelatertSovn from '../components/RelatertSovn.astro';
+import { getCollection } from 'astro:content';
 import { defaultLang, languages, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
 import { useTranslations } from '../i18n/ui';
@@ -26,6 +28,7 @@ interface Props {
   kortbeskrivelse: string;
   tolkninger_kort: string[];
   relaterte: string[];
+  relaterte_sovn?: string[];
   slug: string;
   kategori: string;
   dato: Date;
@@ -37,7 +40,12 @@ interface Props {
   alternates?: AlternateLink[];
 }
 
-const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, slug, kategori, dato, oppdatert, bilde, leseminutter, author, lang = defaultLang, alternates = [] } = Astro.props;
+const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, relaterte_sovn, slug, kategori, dato, oppdatert, bilde, leseminutter, author, lang = defaultLang, alternates = [] } = Astro.props;
+const sovnCollection = lang === 'sv' ? 'sovn-sv' : 'sovn';
+const alleSovn = await getCollection(sovnCollection as any);
+const relaterteSovnArtikler = (relaterte_sovn || [])
+  .map((s) => alleSovn.find((a: any) => a.data.slug === s))
+  .filter(Boolean);
 const resolvedAuthor = getAuthor(author);
 const og = await resolveOgImage(bilde);
 const lesetidLabel = lang === 'sv' ? 'min läsning' : 'min lesetid';
@@ -141,6 +149,8 @@ const crumbs = [
         <ReflectionPrompts slug={slug} displayName={slug.replace(/-/g, ' ')} lang={lang} />
 
         <HelpfulnessVote slug={slug} lang={lang} />
+
+        <RelatertSovn artikler={relaterteSovnArtikler} lang={lang} />
 
         <AdSlot format="bottom" lang={lang} />
 

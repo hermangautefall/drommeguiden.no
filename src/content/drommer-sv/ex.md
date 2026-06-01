@@ -16,6 +16,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/eksen.jpg
 author: 'default'
+relaterte_sovn:
+  - varfor-drommer-vi
+  - angest-somn
 ---
 
 ## Vad betyder det att drömma om ex?

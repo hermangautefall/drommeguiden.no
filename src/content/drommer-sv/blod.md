@@ -16,6 +16,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/blod.jpg
 author: 'default'
+relaterte_sovn:
+  - ptsd-drommar
+  - klimakterie-somn
 ---
 
 ## Vad betyder det att drömma om blod?

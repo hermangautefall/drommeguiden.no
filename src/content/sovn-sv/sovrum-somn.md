@@ -13,7 +13,7 @@ relaterte_sovn:
   - somnhygien
   - somnproblem
   - tyngdtacke
-relaterte_drommer:
+relaterte_guider:
   - dromjournalen
   - somnforlamning
 ---

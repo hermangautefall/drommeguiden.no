@@ -12,10 +12,12 @@ relaterte_sovn:
   - sovnproblemer
   - sovnbehov
   - hva-er-sovn
-relaterte_drommer:
+relaterte_guider:
   - nattskrekk
   - sovnparalyse
   - stress-og-drommer
+relaterte_drommer:
+  - drukne
 ---
 
 Du sover åtte timer og våkner utmattet. Partneren klager på snorking. Hodepine om morgenen er et fast innslag. Og i løpet av dagen kjemper du mot en søvnighet du ikke klarer å forklare.

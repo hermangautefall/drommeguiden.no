@@ -13,7 +13,7 @@ relaterte_sovn:
   - somnfaser
   - somnbehov
   - vad-ar-somn
-relaterte_drommer:
+relaterte_guider:
   - klardromning
   - vad-ar-drommar
 ---

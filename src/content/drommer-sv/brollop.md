@@ -16,6 +16,8 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/bryllup.jpg
 author: 'default'
+relaterte_sovn:
+  - varfor-drommer-vi
 ---
 
 ## Vad betyder det att drömma om bröllop?

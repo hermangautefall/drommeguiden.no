@@ -13,10 +13,12 @@ relaterte_sovn:
   - somnhygien
   - angest-somn
   - melatonin
-relaterte_drommer:
+relaterte_guider:
   - stress-och-drommar
   - mardrom
   - nattskrack
+relaterte_drommer:
+  - alkohol
 ---
 
 Ungefär en av tre svenskar rapporterar veckovisa sömnproblem. Hundratusentals svenskar använder sömnmediciner regelbundet. Och enligt Folkhälsomyndigheten har insomni ökat markant de senaste 10–15 åren och är ett av Sveriges mest underskattade hälsoproblem.

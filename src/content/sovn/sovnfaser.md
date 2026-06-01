@@ -12,9 +12,12 @@ relaterte_sovn:
   - hva-er-sovn
   - hvorfor-drommer-vi
   - sovnhygiene
-relaterte_drommer:
+relaterte_guider:
   - lucid-dromming
   - drommejournalen
+relaterte_drommer:
+  - flyging
+  - tann
 ---
 
 Søvn er ikke én ting. Det er fire distinkte tilstander hjernen og kroppen veksler mellom gjennom natten — og det er ikke likegyldig hvilke av dem du får nok av. Den dyp søvnen du mister når du legger deg for sent er ikke identisk med den REM-søvnen du mister når du settes for tidlig. De gjør fundamentalt forskjellige ting.

@@ -15,6 +15,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/miste-noe.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - sorg-somn
+  - angest-somn
 ---
 
 ## Vad betyder det att drömma om att förlora något?

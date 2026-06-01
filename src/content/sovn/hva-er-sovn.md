@@ -11,7 +11,7 @@ relaterte_sovn:
   - sovnfaser
   - hvorfor-drommer-vi
   - sovnproblemer
-relaterte_drommer:
+relaterte_guider:
   - hva-er-drommer
 ---
 

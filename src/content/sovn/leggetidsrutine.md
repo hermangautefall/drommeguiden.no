@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnhygiene
   - angst-sovn
   - soverom-sovn
-relaterte_drommer:
+relaterte_guider:
   - drommejournalen
   - stress-og-drommer
 ---

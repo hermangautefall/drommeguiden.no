@@ -14,6 +14,8 @@ tolkninger_kort:
 bilde: /bilder/symboler/krangel.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - angst-sovn
 ---
 
 ## Hva betyr det å drømme om å krangle?

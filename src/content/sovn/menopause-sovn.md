@@ -12,9 +12,11 @@ relaterte_sovn:
   - sovnproblemer
   - sovnhygiene
   - angst-sovn
-relaterte_drommer:
+relaterte_guider:
   - stress-og-drommer
   - mareritt
+relaterte_drommer:
+  - blod
 ---
 
 "Jeg sover ikke lenger." Det er ett av de mest konsistente utsagnene fra kvinner i overgangsalderen når de snakker med legen. Ikke "jeg sover dårlig" — "jeg sover ikke." Og i perioder er det bokstavelig talt sant.

@@ -13,9 +13,11 @@ relaterte_sovn:
   - somnfaser
   - somnhygien
   - somnproblem
-relaterte_drommer:
+relaterte_guider:
   - stress-och-drommar
   - vad-ar-drommar
+relaterte_drommer:
+  - alkohol
 ---
 
 Ett glas vin på kvällen för att "slappna av och somna lättare". Det är ett av de mest utbredda sömnråd som aldrig har getts av en sömnforskare.

@@ -13,9 +13,11 @@ relaterte_sovn:
   - somnhygien
   - somnfaser
   - somnproblem
-relaterte_drommer:
+relaterte_guider:
   - stress-och-drommar
   - vad-ar-drommar
+relaterte_drommer:
+  - alkohol
 ---
 
 Kaffe är inte bara en dryck. Det är världens mest utbredda psykoaktiva ämne — lagligt, socialt accepterat och inbyggt i morgonritualen. Och för många är det en tyst sabotör av den sömnkvalitet de annars arbetar hårt för att förbättra.

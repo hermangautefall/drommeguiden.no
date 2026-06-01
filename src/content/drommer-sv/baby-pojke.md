@@ -15,6 +15,8 @@ tolkninger_kort:
 bilde: /bilder/symboler/baby-gutt.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - somn-graviditet
 ---
 
 ## Vad betyder det att drömma om en [baby](/sv/drommar/baby/) — och vad betyder könet?

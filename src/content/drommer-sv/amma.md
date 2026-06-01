@@ -15,6 +15,9 @@ bilde: /bilder/symboler/ammende.jpg
 dato: 2026-03-18
 nb_slug: ammende
 author: 'default'
+relaterte_sovn:
+  - somn-graviditet
+  - somnbehov
 ---
 
 ## Vad betyder det att drömma om att amma?

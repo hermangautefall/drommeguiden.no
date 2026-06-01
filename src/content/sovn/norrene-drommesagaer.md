@@ -11,9 +11,11 @@ oppdatert: 2026-03-18
 relaterte_sovn:
   - beroemte-drommer
   - hvorfor-drommer-vi
+relaterte_guider:
+  - profetiske-drommer
+  - profetiske-drommer
 relaterte_drommer:
-  - profetiske-drommer
-  - profetiske-drommer
+  - gud
 ---
 
 I norrøn kultur ble drømmer ikke tolket — de ble lyttet til. En drøm var ikke et symbol å analysere i morgentimene. Det var et budskap, et varsel, en skjebnebeskrivelse som krevde handling.

@@ -11,10 +11,13 @@ oppdatert: 2026-03-18
 relaterte_sovn:
   - hvorfor-drommer-vi
   - drommer-og-hjernen
-relaterte_drommer:
+relaterte_guider:
   - profetiske-drommer
   - hva-er-drommer
   - gjentakende-drommer
+relaterte_drommer:
+  - gud
+  - engler
 ---
 
 Mennesker har lyttet til drømmene sine siden sivilisasjonens begynnelse. Men det er først de siste 200 årene at vi har fått dokumenterte tilfeller der drømmene kan spores direkte til vitenskapelige oppdagelser, kunstneriske verk og historiske beslutninger. Noen av disse historiene er ekstraordinære.

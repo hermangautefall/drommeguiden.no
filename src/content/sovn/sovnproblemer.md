@@ -12,10 +12,12 @@ relaterte_sovn:
   - sovnhygiene
   - angst-sovn
   - melatonin
-relaterte_drommer:
+relaterte_guider:
   - stress-og-drommer
   - mareritt
   - nattskrekk
+relaterte_drommer:
+  - alkohol
 ---
 
 Omtrent én av tre nordmenn rapporterer ukentlige søvnproblemer. Over 400 000 nordmenn bruker sovemedisiner regelmessig. Og ifølge Folkehelseinstituttet har insomni økt markant de siste 10–15 årene og er et av Norges mest undervurderte helseproblemer.

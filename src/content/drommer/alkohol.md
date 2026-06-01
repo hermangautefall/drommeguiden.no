@@ -14,6 +14,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/alkohol.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - alkohol-sovn
+  - sovnproblemer
 ---
 
 ## Hva betyr det å drømme om alkohol?

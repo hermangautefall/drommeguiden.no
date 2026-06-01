@@ -13,7 +13,7 @@ relaterte_sovn:
   - sovrum-somn
   - somnhygien
   - somnproblem
-relaterte_drommer:
+relaterte_guider:
   - vad-ar-drommar
   - dromjournalen
 ---

@@ -15,6 +15,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/baby.jpg
 author: 'default'
+relaterte_sovn:
+  - sovn-graviditet
+  - tenaring-sovn
 ---
 
 ## Hva betyr det å drømme om baby?

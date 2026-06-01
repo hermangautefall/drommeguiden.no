@@ -14,6 +14,8 @@ tolkninger_kort:
 bilde: /bilder/symboler/helvete.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - ptsd-drommer
 ---
 
 ## Hva betyr det å drømme om helvete?

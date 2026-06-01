@@ -15,6 +15,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/ulv.jpg
 author: 'default'
+relaterte_sovn:
+  - angst-sovn
+  - ptsd-drommer
 ---
 
 ## Hva betyr det å drømme om ulv?

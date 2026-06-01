@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnfaser
   - sovnbehov
   - sovnproblemer
-relaterte_drommer:
+relaterte_guider:
   - hva-er-drommer
   - falsk-oppvakning
 ---

@@ -16,6 +16,9 @@ tolkninger_kort:
 dato: 2026-03-18
 bilde: /bilder/symboler/naken.jpg
 author: 'default'
+relaterte_sovn:
+  - varfor-drommer-vi
+  - angest-somn
 ---
 
 ## Vad betyder det att drömma om att vara naken?

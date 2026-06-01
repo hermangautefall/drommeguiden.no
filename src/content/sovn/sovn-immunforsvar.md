@@ -12,7 +12,7 @@ relaterte_sovn:
   - hva-er-sovn
   - sovnbehov
   - sovnproblemer
-relaterte_drommer:
+relaterte_guider:
   - stress-og-drommer
   - stress-og-drommer
 ---

@@ -15,6 +15,9 @@ bilde: /bilder/symboler/fly-styrter.jpg
 dato: 2026-03-18
 nb_slug: fly-styrter
 author: 'default'
+relaterte_sovn:
+  - ptsd-drommar
+  - angest-somn
 ---
 
 ## Vad betyder det att drömma om en flygkrasch?

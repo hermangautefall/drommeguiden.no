@@ -12,7 +12,7 @@ relaterte_sovn:
   - sovnproblemer
   - melatonin
   - sovnhygiene
-relaterte_drommer:
+relaterte_guider:
   - drommer-om-avdode
   - drommer-om-avdode
 ---

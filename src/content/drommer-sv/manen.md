@@ -15,6 +15,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/mane.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - dygnsrytm
+  - somnfaser
 ---
 
 ## Vad betyder det att drömma om månen?

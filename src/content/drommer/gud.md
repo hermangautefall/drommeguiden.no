@@ -14,6 +14,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/gud.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - beroemte-drommer
+  - norrene-drommesagaer
 ---
 
 ## Hva betyr det å drømme om Gud?

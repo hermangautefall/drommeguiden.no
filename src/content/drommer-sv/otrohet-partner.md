@@ -15,6 +15,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/utroskap-partner.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - angest-somn
+  - varfor-drommer-vi
 ---
 
 ## Vad betyder det att drömma om att partnern är otrogen?

@@ -14,6 +14,9 @@ tolkninger_kort:
 bilde: /bilder/symboler/miste-noe.jpg
 dato: 2026-03-18
 author: 'default'
+relaterte_sovn:
+  - sorg-sovn
+  - angst-sovn
 ---
 
 ## Hva betyr det å drømme om å miste noe?

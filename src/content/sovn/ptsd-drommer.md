@@ -12,10 +12,14 @@ relaterte_sovn:
   - sovnproblemer
   - depresjon-sovn
   - angst-sovn
-relaterte_drommer:
+relaterte_guider:
   - mareritt
   - gjentakende-drommer
   - mareritt
+relaterte_drommer:
+  - bli-skutt
+  - forfulgt
+  - drukne
 ---
 
 Av alle søvn- og drømmeforstyrrelsene vi kjenner, er posttraumatisk stresslidelse (PTSD) den som best illustrerer hva som skjer når hjernens normale emosjonelle bearbeidingssystem bryter sammen. Og drømmene er der dette bruddet er mest synlig.

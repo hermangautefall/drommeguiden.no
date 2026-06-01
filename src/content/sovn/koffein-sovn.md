@@ -12,9 +12,11 @@ relaterte_sovn:
   - sovnhygiene
   - sovnfaser
   - sovnproblemer
-relaterte_drommer:
+relaterte_guider:
   - stress-og-drommer
   - hva-er-drommer
+relaterte_drommer:
+  - alkohol
 ---
 
 Kaffe er ikke bare en drikk. Det er verdens mest utbredte psykoaktive stoff — lovlig, sosialt akseptert og innebygget i norsk morgenritual. Og for mange er det en stille sabotør av den søvnkvaliteten de ellers jobber hardt for å forbedre.

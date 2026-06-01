@@ -15,6 +15,8 @@ bilde: /bilder/symboler/sjef.jpg
 dato: 2026-03-18
 nb_slug: sjef
 author: 'default'
+relaterte_sovn:
+  - angest-somn
 ---
 
 ## Vad betyder det att drömma om sin chef?

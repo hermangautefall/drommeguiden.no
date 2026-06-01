@@ -11,9 +11,13 @@ relaterte_sovn:
   - sovnfaser
   - hva-er-sovn
   - sovnhygiene
-relaterte_drommer:
+relaterte_guider:
   - hva-er-drommer
   - drommejournalen
+relaterte_drommer:
+  - slange
+  - flyging
+  - eksen
 ---
 
 Det er et av de mest grunnleggende spørsmålene i søvnvitenskap — og fortsatt ikke fullt besvart. Hvorfor tilbringer vi en fjerdedel av livet i en tilstand der hjernen skaper levende, narrative, emosjonelt intense opplevelser som for det meste forsvinner ved oppvåkning?
