@@ -6,6 +6,7 @@ import ContentTOC from '../components/ContentTOC.astro';
 import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import AdSlot from '../components/AdSlot.astro';
+import HelpfulnessVote from '../components/HelpfulnessVote.astro';
 import { getAuthor } from '../data/authors';
 import { resolveOgImage } from '../lib/og-image';
 import { getCollection } from 'astro:content';
@@ -144,6 +145,8 @@ const crumbs = [
       <div class="sovn-content prose" id="sovn-content">
         <ContentTOC variant="accordion" lang={lang} contentId="sovn-content" minHeadings={4} accentColor="#1D9E75" />
         <slot />
+
+        <HelpfulnessVote slug={slug} lang={lang} />
 
         <AdSlot format="bottom" lang={lang} />
 

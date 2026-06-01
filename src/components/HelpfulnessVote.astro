@@ -1,0 +1,165 @@
+---
+import { defaultLang, type Lang } from '../i18n/config';
+
+interface Props {
+  slug: string;
+  lang?: Lang;
+}
+
+const { slug, lang = defaultLang } = Astro.props;
+
+const labels = lang === 'sv'
+  ? {
+      question: 'Hjälpte denna tolkning?',
+      yes: 'Ja, det hjälpte',
+      no: 'Inte riktigt',
+      thanks: 'Tack för din feedback.',
+    }
+  : {
+      question: 'Hjalp denne tolkningen?',
+      yes: 'Ja, hjalp meg',
+      no: 'Ikke helt',
+      thanks: 'Takk for tilbakemeldingen.',
+    };
+---
+
+<aside class="helpfulness" data-helpfulness data-slug={slug} aria-label={labels.question}>
+  <p class="helpfulness-q">{labels.question}</p>
+  <div class="helpfulness-buttons" data-helpfulness-buttons>
+    <button type="button" class="helpfulness-btn" data-helpfulness-btn data-value="helpful">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/>
+      </svg>
+      <span>{labels.yes}</span>
+    </button>
+    <button type="button" class="helpfulness-btn" data-helpfulness-btn data-value="not_helpful">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"/>
+      </svg>
+      <span>{labels.no}</span>
+    </button>
+  </div>
+  <p class="helpfulness-thanks" data-helpfulness-thanks hidden>{labels.thanks}</p>
+</aside>
+
+<script is:inline>
+  (function () {
+    document.querySelectorAll('[data-helpfulness]').forEach(function (root) {
+      const slug = root.getAttribute('data-slug');
+      if (!slug) return;
+      const key = 'vote:' + slug;
+      const thanks = root.querySelector('[data-helpfulness-thanks]');
+      const buttons = root.querySelectorAll('[data-helpfulness-btn]');
+
+      function markVoted(value) {
+        buttons.forEach(function (b) {
+          b.disabled = true;
+          if (b.getAttribute('data-value') === value) {
+            b.classList.add('helpfulness-btn-selected');
+          }
+        });
+        if (thanks) thanks.hidden = false;
+      }
+
+      // Allerede stemt? Reaktiver tidligere valg.
+      try {
+        const prior = localStorage.getItem(key);
+        if (prior) markVoted(prior);
+      } catch (e) { /* localStorage avslått */ }
+
+      buttons.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          if (btn.disabled) return;
+          const value = btn.getAttribute('data-value');
+          if (!value) return;
+          try { localStorage.setItem(key, value); } catch (e) {}
+          markVoted(value);
+          if (typeof window.gtag === 'function') {
+            window.gtag('event', 'helpfulness_vote', {
+              slug: slug,
+              value: value,
+            });
+          }
+        });
+      });
+    });
+  })();
+</script>
+
+<style>
+  .helpfulness {
+    margin: 48px 0 32px;
+    padding: 24px 20px;
+    background: rgba(123, 111, 160, 0.04);
+    border: 1px solid rgba(123, 111, 160, 0.1);
+    border-radius: 16px;
+    text-align: center;
+  }
+  .helpfulness-q {
+    font-family: var(--font-heading);
+    font-size: 19px;
+    color: var(--color-text-heading);
+    margin: 0 0 16px;
+    font-weight: 400;
+  }
+  @media (min-width: 480px) {
+    .helpfulness-q { font-size: 21px; }
+  }
+
+  .helpfulness-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .helpfulness-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    min-block-size: 44px;
+    border-radius: var(--border-radius-pill, 100px);
+    background: rgba(255, 255, 255, 0.85);
+    border: 1px solid rgba(123, 111, 160, 0.2);
+    color: var(--color-text-body);
+    font-family: var(--font-nav);
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .helpfulness-btn:hover:not(:disabled) {
+    background: #fff;
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(123, 111, 160, 0.15);
+  }
+  .helpfulness-btn:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 3px;
+  }
+  .helpfulness-btn:disabled {
+    cursor: default;
+    opacity: 0.55;
+    transform: none;
+    box-shadow: none;
+  }
+  .helpfulness-btn-selected {
+    background: var(--color-primary) !important;
+    color: #fff !important;
+    border-color: var(--color-primary) !important;
+    opacity: 1 !important;
+  }
+  .helpfulness-btn svg {
+    flex-shrink: 0;
+  }
+
+  .helpfulness-thanks {
+    margin: 14px 0 0;
+    font-size: 14px;
+    color: var(--color-text-muted);
+    font-style: italic;
+  }
+</style>
