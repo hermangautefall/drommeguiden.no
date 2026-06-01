@@ -275,7 +275,7 @@ const kategorierMedAntall = kategorier.map(kat => ({
   <SiteSchema lang="sv" />
 
   <!-- Search script -->
-  <script define:vars={{ symboler: drommer.map((d) => ({ tittel: d.data.tittel, slug: d.data.slug, kortbeskrivelse: d.data.kortbeskrivelse })) }}>
+  <script define:vars={{ symboler: drommer.map((d) => ({ tittel: d.data.tittel, slug: d.data.slug, kortbeskrivelse: d.data.kortbeskrivelse, lang: 'sv' })), siteLang: 'sv' }}>
     const sokInput = document.getElementById('sok');
     const resultaterDiv = document.getElementById('sok-resultater');
 
@@ -288,12 +288,15 @@ const kategorierMedAntall = kategorier.map(kat => ({
           return;
         }
 
-        const treff = symboler.filter(
-          (s) =>
-            s.slug.includes(query) ||
-            s.tittel.toLowerCase().includes(query) ||
-            s.kortbeskrivelse.toLowerCase().includes(query)
-        ).slice(0, 6);
+        const treff = symboler
+          .filter((s) => s.lang === siteLang)
+          .filter(
+            (s) =>
+              s.slug.includes(query) ||
+              s.tittel.toLowerCase().includes(query) ||
+              s.kortbeskrivelse.toLowerCase().includes(query)
+          )
+          .slice(0, 6);
 
         if (treff.length === 0) {
           resultaterDiv.classList.add('hidden');
