@@ -1,0 +1,443 @@
+---
+import { defaultLang, type Lang } from '../i18n/config';
+
+interface Props {
+  slug: string;
+  displayName: string;
+  lang?: Lang;
+}
+
+const { slug, displayName, lang = defaultLang } = Astro.props;
+
+const labels = lang === 'sv'
+  ? {
+      heading: 'Drömguiden rekommenderar',
+      intro: 'Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:',
+      q1: 'Vilken känsla satt kvar när du vaknade?',
+      q2: 'Vad pågår i ditt liv just nu?',
+      q3: `Har du drömt om ${displayName} flera gånger?`,
+      placeholder: 'Skriv din reflektion här...',
+      save: 'Spara min reflektion',
+      saved: 'Sparad!',
+      previousTitle: 'Tidigare reflektioner',
+      previousEmpty: 'Inga sparade reflektioner ännu — börja ovan.',
+      delete: 'Radera',
+      confirmDelete: 'Radera denna reflektion?',
+    }
+  : {
+      heading: 'Drømmeguiden anbefaler',
+      intro: 'Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:',
+      q1: 'Hvilken følelse satt du igjen med da du våknet?',
+      q2: 'Hva skjer i livet ditt akkurat nå?',
+      q3: `Har du drømt om ${displayName} flere ganger?`,
+      placeholder: 'Skriv refleksjonen din her...',
+      save: 'Lagre min refleksjon',
+      saved: 'Lagret!',
+      previousTitle: 'Tidligere refleksjoner',
+      previousEmpty: 'Ingen lagrede refleksjoner ennå — start ovenfor.',
+      delete: 'Slett',
+      confirmDelete: 'Slette denne refleksjonen?',
+    };
+
+const questions = [labels.q1, labels.q2, labels.q3];
+const dateLocale = lang === 'sv' ? 'sv-SE' : 'nb-NO';
+---
+
+<section
+  class="reflect"
+  data-reflect
+  data-slug={slug}
+  data-date-locale={dateLocale}
+  data-questions={JSON.stringify(questions)}
+  data-empty-text={labels.previousEmpty}
+  data-delete-text={labels.delete}
+  data-confirm-delete={labels.confirmDelete}
+>
+  <h2 class="reflect-heading">{labels.heading}</h2>
+  <p class="reflect-intro">{labels.intro}</p>
+
+  <div class="reflect-questions">
+    {questions.map((q, i) => (
+      <details class="reflect-q">
+        <summary class="reflect-q-summary">
+          <span class="reflect-q-text">{q}</span>
+          <svg class="reflect-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polyline points="6 9 12 15 18 9"/>
+          </svg>
+        </summary>
+        <textarea
+          class="reflect-textarea"
+          data-reflect-input={`q${i + 1}`}
+          placeholder={labels.placeholder}
+          rows="4"
+        ></textarea>
+      </details>
+    ))}
+  </div>
+
+  <div class="reflect-actions">
+    <button type="button" class="reflect-save" data-reflect-save>{labels.save}</button>
+    <span class="reflect-saved-msg" data-reflect-saved-msg hidden>✓ {labels.saved}</span>
+  </div>
+
+  <div class="reflect-previous" data-reflect-previous>
+    <h3 class="reflect-previous-title">{labels.previousTitle}</h3>
+    <div class="reflect-previous-list" data-reflect-previous-list>
+      <p class="reflect-previous-empty">{labels.previousEmpty}</p>
+    </div>
+  </div>
+</section>
+
+<script is:inline>
+  (function () {
+    document.querySelectorAll('[data-reflect]').forEach(function (root) {
+      const slug = root.getAttribute('data-slug') || '';
+      const dateLocale = root.getAttribute('data-date-locale') || 'nb-NO';
+      const questions = JSON.parse(root.getAttribute('data-questions') || '[]');
+      const emptyText = root.getAttribute('data-empty-text') || '';
+      const deleteText = root.getAttribute('data-delete-text') || 'Slett';
+      const confirmDeleteText = root.getAttribute('data-confirm-delete') || 'Slette?';
+      if (!slug) return;
+
+      const PREFIX = 'reflection:' + slug + ':';
+      const saveBtn = root.querySelector('[data-reflect-save]');
+      const savedMsg = root.querySelector('[data-reflect-saved-msg]');
+      const list = root.querySelector('[data-reflect-previous-list]');
+
+      function escapeHtml(s) {
+        return String(s)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+      function formatDate(iso) {
+        try {
+          return new Date(iso + 'T00:00:00').toLocaleDateString(dateLocale, {
+            day: 'numeric', month: 'long', year: 'numeric',
+          });
+        } catch (e) { return iso; }
+      }
+
+      function loadEntries() {
+        const out = [];
+        let n;
+        try { n = localStorage.length; } catch (e) { return out; }
+        for (let i = 0; i < n; i++) {
+          const key = localStorage.key(i);
+          if (key && key.indexOf(PREFIX) === 0) {
+            const date = key.slice(PREFIX.length);
+            try {
+              const data = JSON.parse(localStorage.getItem(key) || '{}');
+              out.push({ key: key, date: date, data: data });
+            } catch (e) {}
+          }
+        }
+        out.sort(function (a, b) { return b.date.localeCompare(a.date); });
+        return out;
+      }
+
+      function renderPrevious() {
+        if (!list) return;
+        const entries = loadEntries();
+        if (entries.length === 0) {
+          list.innerHTML = '<p class="reflect-previous-empty">' + escapeHtml(emptyText) + '</p>';
+          return;
+        }
+        list.innerHTML = entries.map(function (e) {
+          const qaHtml = questions.map(function (q, i) {
+            const a = e.data['q' + (i + 1)];
+            if (!a) return '';
+            return '<div class="reflect-prev-qa">'
+              + '<p class="reflect-prev-q">' + escapeHtml(q) + '</p>'
+              + '<p class="reflect-prev-a">' + escapeHtml(a) + '</p>'
+              + '</div>';
+          }).join('');
+          return ''
+            + '<details class="reflect-prev">'
+            + '  <summary class="reflect-prev-summary">'
+            + '    <span class="reflect-prev-date">' + escapeHtml(formatDate(e.date)) + '</span>'
+            + '    <svg class="reflect-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>'
+            + '  </summary>'
+            + '  <div class="reflect-prev-body">' + qaHtml + '</div>'
+            + '  <button type="button" class="reflect-delete" data-reflect-delete="' + escapeHtml(e.key) + '">' + escapeHtml(deleteText) + '</button>'
+            + '</details>';
+        }).join('');
+
+        // Wire opp slette-knapper
+        list.querySelectorAll('[data-reflect-delete]').forEach(function (btn) {
+          btn.addEventListener('click', function () {
+            if (!window.confirm(confirmDeleteText)) return;
+            const key = btn.getAttribute('data-reflect-delete') || '';
+            try { localStorage.removeItem(key); } catch (e) {}
+            renderPrevious();
+          });
+        });
+      }
+
+      function save() {
+        const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+        const key = PREFIX + today;
+        const data = {};
+        let answered = 0;
+        questions.forEach(function (_, i) {
+          const ta = root.querySelector('[data-reflect-input="q' + (i + 1) + '"]');
+          if (ta && ta.value.trim()) {
+            data['q' + (i + 1)] = ta.value.trim();
+            answered++;
+          }
+        });
+        if (answered === 0) return;
+
+        try { localStorage.setItem(key, JSON.stringify(data)); } catch (e) {}
+
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', 'reflection_saved', {
+            slug: slug,
+            questions_answered: answered,
+          });
+        }
+
+        if (savedMsg) {
+          savedMsg.hidden = false;
+          setTimeout(function () { savedMsg.hidden = true; }, 2500);
+        }
+        renderPrevious();
+      }
+
+      if (saveBtn) saveBtn.addEventListener('click', save);
+      renderPrevious();
+    });
+  })();
+</script>
+
+<style>
+  .reflect {
+    margin: 48px 0 8px;
+    padding: 28px 24px;
+    background: linear-gradient(180deg, rgba(123, 111, 160, 0.06) 0%, rgba(192, 128, 112, 0.04) 100%);
+    border: 1px solid rgba(123, 111, 160, 0.12);
+    border-radius: 16px;
+  }
+
+  .reflect-heading {
+    font-family: var(--font-heading);
+    font-size: 26px;
+    color: var(--color-text-heading);
+    margin: 0 0 10px;
+    font-weight: 400;
+    border: none;
+    padding: 0;
+  }
+  @media (min-width: 480px) {
+    .reflect-heading { font-size: 30px; }
+  }
+
+  .reflect-intro {
+    font-size: 15px;
+    line-height: 1.65;
+    color: var(--color-text-body);
+    margin: 0 0 20px;
+  }
+
+  /* Spørsmålsblokker */
+  .reflect-questions {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 18px;
+  }
+  .reflect-q {
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(123, 111, 160, 0.12);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .reflect-q[open] {
+    background: #fff;
+    border-color: rgba(123, 111, 160, 0.2);
+  }
+  .reflect-q-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 14px 18px;
+    min-block-size: 48px;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+  }
+  .reflect-q-summary::-webkit-details-marker { display: none; }
+  .reflect-q-summary::marker { content: ''; }
+  .reflect-q-text {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    line-height: 1.45;
+  }
+  .reflect-chevron {
+    color: var(--color-text-muted);
+    transition: transform 0.2s ease;
+    flex-shrink: 0;
+  }
+  .reflect-q[open] .reflect-chevron,
+  .reflect-prev[open] .reflect-chevron {
+    transform: rotate(180deg);
+  }
+
+  .reflect-textarea {
+    display: block;
+    width: 100%;
+    border: 1px solid rgba(123, 111, 160, 0.18);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 12px 14px;
+    margin: 0 18px 18px;
+    width: calc(100% - 36px);
+    font-family: var(--font-body);
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--color-text-body);
+    resize: vertical;
+    min-height: 90px;
+    box-sizing: border-box;
+  }
+  .reflect-textarea:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px rgba(123, 111, 160, 0.12);
+  }
+
+  /* Lagre-knapp */
+  .reflect-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+  }
+  .reflect-save {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-block-size: 44px;
+    padding: 0 22px;
+    border-radius: var(--border-radius-pill, 100px);
+    border: none;
+    background: var(--color-primary);
+    color: #fff;
+    font-family: var(--font-nav);
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .reflect-save:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(123, 111, 160, 0.3);
+  }
+  .reflect-save:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+  }
+  .reflect-saved-msg {
+    font-size: 14px;
+    color: #1D9E75;
+    font-weight: 500;
+  }
+
+  /* Tidligere refleksjoner */
+  .reflect-previous {
+    margin-top: 28px;
+    padding-top: 20px;
+    border-top: 1px dashed rgba(123, 111, 160, 0.18);
+  }
+  .reflect-previous-title {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin: 0 0 14px;
+    border: none;
+    padding: 0;
+  }
+  :global(.reflect-previous-empty) {
+    font-size: 14px;
+    color: var(--color-text-muted);
+    font-style: italic;
+    margin: 0;
+  }
+  :global(.reflect-prev) {
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(123, 111, 160, 0.1);
+    border-radius: 10px;
+    margin-bottom: 8px;
+    overflow: hidden;
+  }
+  :global(.reflect-prev[open]) {
+    background: #fff;
+  }
+  :global(.reflect-prev-summary) {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px 14px;
+    cursor: pointer;
+    list-style: none;
+    min-block-size: 44px;
+  }
+  :global(.reflect-prev-summary)::-webkit-details-marker { display: none; }
+  :global(.reflect-prev-summary)::marker { content: ''; }
+  :global(.reflect-prev-date) {
+    font-family: var(--font-nav);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-text-heading);
+  }
+  :global(.reflect-prev-body) {
+    padding: 4px 14px 14px;
+    border-top: 1px solid rgba(123, 111, 160, 0.08);
+  }
+  :global(.reflect-prev-qa) {
+    margin: 12px 0 0;
+  }
+  :global(.reflect-prev-q) {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    margin: 0 0 4px;
+    letter-spacing: 0.2px;
+  }
+  :global(.reflect-prev-a) {
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--color-text-body);
+    margin: 0;
+    white-space: pre-wrap;
+  }
+  :global(.reflect-delete) {
+    margin: 8px 14px 12px;
+    padding: 6px 12px;
+    font-family: var(--font-nav);
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    background: transparent;
+    border: 1px solid rgba(123, 111, 160, 0.15);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  :global(.reflect-delete:hover) {
+    color: #c0382b;
+    border-color: rgba(192, 56, 43, 0.3);
+    background: rgba(192, 56, 43, 0.05);
+  }
+</style>

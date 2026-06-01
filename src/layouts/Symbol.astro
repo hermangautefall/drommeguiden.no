@@ -9,6 +9,7 @@ import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import AdSlot from '../components/AdSlot.astro';
 import HelpfulnessVote from '../components/HelpfulnessVote.astro';
+import ReflectionPrompts from '../components/ReflectionPrompts.astro';
 import { defaultLang, languages, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
 import { useTranslations } from '../i18n/ui';
@@ -136,6 +137,8 @@ const crumbs = [
         <div class="prose" id="symbol-prose">
           <slot />
         </div>
+
+        <ReflectionPrompts slug={slug} displayName={slug.replace(/-/g, ' ')} lang={lang} />
 
         <HelpfulnessVote slug={slug} lang={lang} />
 
