@@ -5,7 +5,7 @@ import Base from '../../layouts/Base.astro';
 <Base
   lang="sv"
   tittel="Cookiepolicy"
-  beskrivelse="Läs Drömguidens cookiepolicy. Information om vilka kakor vi använder och hur du kan hantera dem."
+  beskrivelse="Översikt över kakor Drömguiden använder — analys, annonsering och driftsnödvändiga kakor."
   alternates={[{ lang: 'nb', url: 'https://drommeguiden.no/cookies/' }]}
 >
   <div class="static-page">
@@ -13,42 +13,157 @@ import Base from '../../layouts/Base.astro';
     <h1 class="static-title">Cookiepolicy</h1>
 
     <div class="prose">
-      <p><em>Senast uppdaterad: 17 mars 2025</em></p>
+      <p class="lead">
+        Drömguiden använder kakor ("cookies") för driftsnödvändig
+        funktionalitet, anonymiserad analys och annonsering. Nedan hittar
+        du en översikt och förklaring av varje enskild kaka — samt hur du
+        hanterar dem.
+      </p>
+
+      <p><em>Senast uppdaterad: 1 juni 2026</em></p>
 
       <h2>Vad är kakor?</h2>
       <p>
-        Kakor (cookies) är små textfiler som lagras på din enhet när du besöker en webbplats. De används för att komma ihåg inställningar, förbättra användarupplevelsen och samla in statistik.
+        Kakor är små textfiler som lagras på din enhet när du besöker en
+        webbplats. De används för att komma ihåg inställningar, hantera
+        säkerhetsfunktioner, samla in statistik och leverera annonser. En
+        del sätts av Drömguiden direkt, andra av tredjepartstjänster vi
+        använder.
+      </p>
+      <p>
+        <strong>Förstapartskakor</strong> sätts av drommeguiden.no själv.
+        <strong>Tredjepartskakor</strong> sätts av externa leverantörer —
+        i vårt fall Google Analytics, Google AdSense och Cloudflare. Båda
+        typerna finns i tabellen nedan, grupperade efter syfte: analys,
+        annonsering och driftsnödvändiga.
       </p>
 
-      <h2>Vilka kakor använder vi?</h2>
-
-      <h3>Nödvändiga kakor</h3>
+      <h2>Kakor vi använder</h2>
       <p>
-        Dessa är nödvändiga för att webbplatsen ska fungera korrekt. De kan inte inaktiveras.
+        Tabellen nedan visar vilka kakor som kan vara aktiva på
+        drommeguiden.no, vilken leverantör som sätter dem, vad de används
+        till och hur länge de lagras. Analys- och annonskakor kräver ditt
+        aktiva samtycke innan de aktiveras.
       </p>
 
-      <h3>Analyskakor</h3>
-      <p>
-        Vi använder Google Analytics för att förstå hur besökare använder webbplatsen. Dessa kakor samlar in anonymiserad information om sidvisningar, besökslängd och liknande. Datan hjälper oss att förbättra innehållet och användarupplevelsen.
+      <div class="cookie-table-wrapper">
+        <table class="cookie-table">
+          <thead>
+            <tr>
+              <th>Namn</th>
+              <th>Syfte</th>
+              <th>Leverantör</th>
+              <th>Varaktighet</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="4" class="cookie-table-group">Analys — kräver samtycke</td>
+            </tr>
+            <tr>
+              <td><code>_ga</code></td>
+              <td>Anonymiserat användar-ID för att skilja mellan besökare</td>
+              <td>Google Analytics</td>
+              <td>2 år</td>
+            </tr>
+            <tr>
+              <td><code>_ga_*</code></td>
+              <td>GA4 sessions-ID per property</td>
+              <td>Google Analytics</td>
+              <td>2 år</td>
+            </tr>
+            <tr>
+              <td><code>_gid</code></td>
+              <td>Dagligt användar-ID (kan vara aktiv i vissa GA-konfigurationer)</td>
+              <td>Google Analytics</td>
+              <td>24 timmar</td>
+            </tr>
+
+            <tr>
+              <td colspan="4" class="cookie-table-group">Annonsering — aktiveras när annonser är på plats</td>
+            </tr>
+            <tr>
+              <td><code>_gads</code></td>
+              <td>Leverans och frekvensbegränsning av annonser</td>
+              <td>Google AdSense</td>
+              <td>13 månader</td>
+            </tr>
+            <tr>
+              <td><code>IDE</code></td>
+              <td>Mätning och rapportering av annonsprestanda</td>
+              <td>Google DoubleClick</td>
+              <td>13 månader</td>
+            </tr>
+            <tr>
+              <td><code>__gpi</code></td>
+              <td>Google publisher-ID för annonsidentifiering</td>
+              <td>Google AdSense</td>
+              <td>13 månader</td>
+            </tr>
+            <tr>
+              <td><code>NID</code></td>
+              <td>Användarinställningar och personlig anpassning över Googles tjänster</td>
+              <td>Google</td>
+              <td>6 månader</td>
+            </tr>
+
+            <tr>
+              <td colspan="4" class="cookie-table-group">Driftsnödvändiga — kan inte inaktiveras</td>
+            </tr>
+            <tr>
+              <td><code>cf_clearance</code></td>
+              <td>Bekräftar att besökaren har passerat Cloudflares säkerhetskontroll</td>
+              <td>Cloudflare</td>
+              <td>30 dagar</td>
+            </tr>
+            <tr>
+              <td><code>__cf_bm</code></td>
+              <td>Bothantering och skydd mot missbruk</td>
+              <td>Cloudflare</td>
+              <td>30 minuter</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p class="cookie-note">
+        Kakor markerade <em>"aktiveras när annonser är på plats"</em> sätts
+        först efter att AdSense har aktiverats på webbplatsen — och endast
+        för användare som ger samtycke till annonsering.
       </p>
 
-      <h2>Hur du hanterar kakor</h2>
+      <h2>Hur du återkallar samtycke</h2>
       <p>
-        Du kan hantera och radera kakor via din webbläsares inställningar. Observera att blockering av vissa kakor kan påverka funktionaliteten på webbplatsen.
+        När vår samtyckeslösning är på plats kommer du att hitta en
+        <strong>"Cookie-inställningar"</strong>-länk i sidfoten på alla
+        sidor. Där kan du när som helst stänga av analys- eller
+        annonskakor, eller återkalla ditt samtycke helt.
+      </p>
+
+      <h2>Hur du hanterar kakor i webbläsaren</h2>
+      <p>
+        Du kan också blockera eller radera kakor via din webbläsares egna
+        inställningar. Observera att blockering av vissa kakor kan påverka
+        funktionaliteten på webbplatsen.
       </p>
       <ul>
         <li><strong>Chrome:</strong> Inställningar &rarr; Sekretess och säkerhet &rarr; Kakor</li>
         <li><strong>Firefox:</strong> Inställningar &rarr; Sekretess och säkerhet &rarr; Kakor och webbplatsdata</li>
         <li><strong>Safari:</strong> Inställningar &rarr; Sekretess &rarr; Hantera webbplatsdata</li>
+        <li><strong>Edge:</strong> Inställningar &rarr; Cookies och webbplatsbehörigheter</li>
       </ul>
 
+      <p>
+        Se även vår <a href="/sv/integritet/">integritetspolicy</a> för
+        vilka uppgifter vi behandlar och vilka rättigheter du har.
+      </p>
     </div>
   </div>
 </Base>
 
 <style>
   .static-page {
-    max-width: 680px;
+    max-width: 820px;
     margin: 0 auto;
   }
   .static-label {
@@ -65,10 +180,76 @@ import Base from '../../layouts/Base.astro';
     font-family: var(--font-heading);
     font-size: 36px;
     color: var(--color-text-heading);
-    margin-bottom: 32px;
+    margin-bottom: 24px;
     font-weight: 400;
   }
   @media (min-width: 768px) {
     .static-title { font-size: 44px; }
+  }
+
+  .prose .lead {
+    font-size: 17px;
+    line-height: 1.7;
+    color: var(--color-text-body);
+    padding: 18px 20px;
+    background: rgba(123, 111, 160, 0.05);
+    border-left: 3px solid var(--color-primary);
+    border-radius: 0 12px 12px 0;
+    margin: 0 0 24px;
+  }
+  .prose code {
+    font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+    font-size: 0.92em;
+    padding: 1px 6px;
+    background: rgba(123, 111, 160, 0.08);
+    border-radius: 4px;
+  }
+
+  .cookie-table-wrapper {
+    overflow-x: auto;
+    margin: 20px 0 8px;
+    border-radius: 12px;
+    border: 1px solid rgba(123, 111, 160, 0.15);
+  }
+  .cookie-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    line-height: 1.55;
+    background: rgba(255, 255, 255, 0.6);
+  }
+  .cookie-table th,
+  .cookie-table td {
+    padding: 10px 14px;
+    text-align: left;
+    border-bottom: 1px solid rgba(123, 111, 160, 0.1);
+    vertical-align: top;
+  }
+  .cookie-table th {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    background: rgba(123, 111, 160, 0.06);
+  }
+  .cookie-table-group {
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--color-primary);
+    background: rgba(123, 111, 160, 0.04);
+    padding: 8px 14px !important;
+  }
+  .cookie-table tr:last-child td {
+    border-bottom: none;
+  }
+  .cookie-note {
+    font-size: 14px;
+    color: var(--color-text-muted);
+    margin: 4px 0 28px;
   }
 </style>

@@ -5,7 +5,7 @@ import Base from '../../layouts/Base.astro';
 <Base
   lang="sv"
   tittel="Integritetspolicy"
-  beskrivelse="Läs Drömguidens integritetspolicy. Vi tar din integritet på allvar och samlar bara in nödvändig information."
+  beskrivelse="Läs Drömguidens integritetspolicy. Vilka uppgifter vi samlar in, varför, och vilka rättigheter du har enligt GDPR."
   alternates={[{ lang: 'nb', url: 'https://drommeguiden.no/personvern/' }]}
 >
   <div class="static-page">
@@ -13,47 +13,130 @@ import Base from '../../layouts/Base.astro';
     <h1 class="static-title">Integritetspolicy</h1>
 
     <div class="prose">
-      <p><em>Senast uppdaterad: 17 mars 2025</em></p>
+      <p class="lead">
+        Drömguiden samlar in ett minimum av anonymiserade data för att förstå
+        hur webbplatsen används och för att visa annonser. Vi säljer aldrig
+        uppgifter om dig, och du kan när som helst återkalla ditt samtycke.
+      </p>
+
+      <p><em>Senast uppdaterad: 1 juni 2026</em></p>
 
       <h2>Vilka är vi?</h2>
       <p>
-        Drömguiden (drommeguiden.no) är en webbplats som erbjuder information om drömsymboler och drömtydning. Webbplatsen ägs och drivs av Herman Gautefall Olsson.
+        Drömguiden (drommeguiden.no) är en webbplats med information om
+        drömsymboler och drömtydning. Webbplatsen ägs och drivs av Herman
+        Gautefall Olsson som personuppgiftsansvarig enligt dataskyddsförordningen
+        (GDPR).
       </p>
 
-      <h2>Vilka uppgifter samlar vi in?</h2>
+      <h2>Vilka uppgifter vi samlar in</h2>
       <p>
-        Vi samlar in så lite personuppgifter som möjligt. Vi samlar inte in personuppgifter direkt från dig.
-      </p>
-
-      <h2>Kakor (cookies)</h2>
-      <p>
-        Vi använder kakor för analys och annonsering. Se vår <a href="/sv/cookies/">cookiepolicy</a> för detaljer om vilka kakor vi använder och hur du kan hantera dem.
-      </p>
-
-      <h2>Tredjepartstjänster</h2>
-      <p>Vi använder följande tredjepartstjänster som kan samla in data:</p>
-      <ul>
-        <li><strong>Google Analytics</strong> — för att förstå trafikmönster och förbättra vårt innehåll</li>
-        <li><strong>Google Fonts</strong> — för typsnitt som laddas från Googles servrar</li>
-      </ul>
-
-      <h2>Dina rättigheter</h2>
-      <p>
-        Enligt dataskyddsförordningen (GDPR) har du rätt att:
+        Vi samlar inte in uppgifter som direkt identifierar dig (namn,
+        telefonnummer eller e-postadress) om du inte själv väljer att
+        kontakta oss. Det som typiskt samlas in automatiskt när du besöker
+        webbplatsen är:
       </p>
       <ul>
-        <li>Begära ut vilka personuppgifter vi har om dig</li>
-        <li>Begära rättelse eller radering av dina personuppgifter</li>
-        <li>Återkalla samtycke till databehandling</li>
-        <li>Klaga till Integritetsskyddsmyndigheten (IMY) om du anser att din integritet har kränkts</li>
+        <li>IP-adress (anonymiserad/maskerad innan den lagras)</li>
+        <li>Vilka sidor du besöker, hur länge och i vilken ordning</li>
+        <li>Klick och scroll-djup på enskilda sidor</li>
+        <li>Webbläsare, operativsystem och ungefärligt geografiskt område (land/region)</li>
+        <li>Hänvisningskälla (vilken sida eller sökmotor du kom ifrån)</li>
+        <li>Driftsdata från Cloudflare som behövs för att leverera webbplatsen och skydda mot missbruk</li>
       </ul>
+
+      <h2>Tjänster vi använder</h2>
+      <p>Vi använder ett fåtal tredjepartstjänster för att driva, analysera och finansiera webbplatsen:</p>
+      <ul>
+        <li>
+          <strong>Google Analytics 4</strong> — anonymiserad analys av
+          användning. Mäter hur många som besöker vilka sidor, hur länge de
+          stannar och var de kommer ifrån. IP-adresser maskeras innan de
+          lagras, och datan används endast aggregerat för att förbättra
+          innehållet.
+        </li>
+        <li>
+          <strong>Cloudflare</strong> — driftsnödvändig infrastruktur för
+          CDN-leverans, DDoS-skydd och säkerhet. Behandlar tekniska data
+          som IP-adress och request-headers för att kunna leverera
+          webbplatsen snabbt och tryggt.
+        </li>
+        <li>
+          <strong>Google AdSense</strong> — vi visar annonser på artikelsidor
+          för att finansiera driften av Drömguiden. Om du ger samtycke kan
+          Google visa personligt anpassade annonser baserade på dina
+          intressen; utan samtycke visas endast generella, icke-anpassade
+          annonser. Google sätter då kakor som <code>_gads</code>,
+          <code>IDE</code>, <code>NID</code> och <code>__gpi</code> för att
+          leverera, mäta och begränsa visning av annonser. Se vår
+          <a href="/sv/cookies/">cookiepolicy</a> för en översikt.
+        </li>
+      </ul>
+
+      <h2>Behandlingsgrund</h2>
+      <p>Behandlingen av dina uppgifter baseras på följande grunder i GDPR:</p>
+      <ul>
+        <li>
+          <strong>Samtycke (art. 6.1 a):</strong> för analys (Google Analytics 4)
+          och annonsering (Google AdSense). Du ger samtycke via
+          samtyckesbannern första gången du besöker sidan, och kan återkalla
+          det när som helst.
+        </li>
+        <li>
+          <strong>Berättigat intresse (art. 6.1 f):</strong> för
+          driftsnödvändiga funktioner som CDN-leverans, DDoS-skydd och
+          grundläggande säkerhetsloggning via Cloudflare. Dessa kan inte
+          stängas av utan att webbplatsen slutar fungera.
+        </li>
+      </ul>
+
+      <h2>Dina rättigheter enligt GDPR</h2>
+      <p>Enligt dataskyddsförordningen (GDPR) har du rätt att:</p>
+      <ul>
+        <li><strong>Få tillgång</strong> — begära ut en kopia av de uppgifter vi har om dig</li>
+        <li><strong>Få rättelse</strong> — kräva att felaktiga uppgifter rättas</li>
+        <li><strong>Få radering</strong> — kräva att dina uppgifter raderas ("rätten att bli glömd")</li>
+        <li><strong>Dataportabilitet</strong> — få ut dina uppgifter i ett maskinläsbart format</li>
+        <li><strong>Invändning</strong> — invända mot behandling som baseras på berättigat intresse</li>
+        <li>
+          <strong>Klaga</strong> till
+          <a href="https://www.imy.se" target="_blank" rel="noopener">Integritetsskyddsmyndigheten (IMY)</a>
+          om du anser att vi behandlar dina uppgifter i strid med
+          regelverket
+        </li>
+      </ul>
+
+      <h2>Hur du återkallar samtycke</h2>
+      <p>
+        När vår samtyckeslösning är på plats kommer du att hitta en länk
+        märkt <strong>"Cookie-inställningar"</strong> i sidfoten på alla
+        sidor. Där kan du när som helst ändra ditt samtycke för analys och
+        annonsering, eller återkalla det helt. Ändringar träder i kraft
+        omedelbart.
+      </p>
+      <p>
+        Du kan också blockera eller radera kakor via din webbläsares egna
+        inställningar. Se <a href="/sv/cookies/">cookiepolicyn</a> för
+        konkreta steg.
+      </p>
+
+      <h2>Mer om annonser</h2>
+      <p>
+        Annonser på Drömguiden levereras genom Google AdSense. Hur Google
+        använder uppgifter i samband med annonsering beskrivs i
+        <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Googles annonspolicy</a>.
+        Du kan också styra vilken typ av annonser som visas för dig över
+        Googles tjänster via
+        <a href="https://adssettings.google.com" target="_blank" rel="noopener">adssettings.google.com</a>,
+        oberoende av ditt samtycke på den här webbplatsen.
+      </p>
     </div>
   </div>
 </Base>
 
 <style>
   .static-page {
-    max-width: 680px;
+    max-width: 720px;
     margin: 0 auto;
   }
   .static-label {
@@ -70,10 +153,27 @@ import Base from '../../layouts/Base.astro';
     font-family: var(--font-heading);
     font-size: 36px;
     color: var(--color-text-heading);
-    margin-bottom: 32px;
+    margin-bottom: 24px;
     font-weight: 400;
   }
   @media (min-width: 768px) {
     .static-title { font-size: 44px; }
+  }
+  .prose .lead {
+    font-size: 17px;
+    line-height: 1.7;
+    color: var(--color-text-body);
+    padding: 18px 20px;
+    background: rgba(123, 111, 160, 0.05);
+    border-left: 3px solid var(--color-primary);
+    border-radius: 0 12px 12px 0;
+    margin: 0 0 24px;
+  }
+  .prose code {
+    font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+    font-size: 0.92em;
+    padding: 1px 6px;
+    background: rgba(123, 111, 160, 0.08);
+    border-radius: 4px;
   }
 </style>
