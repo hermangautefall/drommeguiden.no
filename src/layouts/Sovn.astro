@@ -5,6 +5,7 @@ import Kommentarer from '../components/Kommentarer.astro';
 import ContentTOC from '../components/ContentTOC.astro';
 import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import ShareButtons from '../components/ShareButtons.astro';
+import AdSlot from '../components/AdSlot.astro';
 import { getAuthor } from '../data/authors';
 import { resolveOgImage } from '../lib/og-image';
 import { getCollection } from 'astro:content';
@@ -144,6 +145,8 @@ const crumbs = [
         <ContentTOC variant="accordion" lang={lang} contentId="sovn-content" minHeadings={4} accentColor="#1D9E75" />
         <slot />
 
+        <AdSlot format="bottom" lang={lang} />
+
         <!-- Related sovn articles -->
         {relaterteSovnArtikler.length > 0 && (
           <div class="sovn-related">
@@ -182,6 +185,8 @@ const crumbs = [
         <ShareButtons url={canonical} title={tittel} variant="bottom" lang={lang} />
         <Kommentarer />
       </div>
+
+      <AdSlot format="sidebar" lang={lang} />
     </div>
   </article>
 
@@ -304,7 +309,7 @@ const crumbs = [
     border-radius: 16px;
   }
 
-  /* 2-column layout */
+  /* 2-column layout (3-col med annonse-sidebar på ≥1100px) */
   .sovn-layout {
     display: flex;
     flex-direction: column;
@@ -314,6 +319,11 @@ const crumbs = [
     .sovn-layout {
       flex-direction: row;
       gap: 48px;
+    }
+  }
+  @media (min-width: 1100px) {
+    .sovn-article {
+      max-width: 1280px;
     }
   }
 

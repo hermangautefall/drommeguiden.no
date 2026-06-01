@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import remarkAutoLinkSymbols from './src/lib/remark-auto-link-symbols.mjs';
+import remarkAdSlots from './src/lib/remark-ad-slots.mjs';
 import customSitemap from './src/lib/sitemap-integration.mjs';
 
 const autoLinkStats = new Map();
@@ -54,6 +55,7 @@ export default defineConfig({
           },
         },
       ],
+      remarkAdSlots,
     ],
   },
   vite: {

@@ -7,6 +7,7 @@ import Kommentarer from '../components/Kommentarer.astro';
 import ContentTOC from '../components/ContentTOC.astro';
 import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import ShareButtons from '../components/ShareButtons.astro';
+import AdSlot from '../components/AdSlot.astro';
 import { defaultLang, languages, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
 import { useTranslations } from '../i18n/ui';
@@ -135,10 +136,14 @@ const crumbs = [
           <slot />
         </div>
 
+        <AdSlot format="bottom" lang={lang} />
+
         <RelaterteBoks relaterte={relaterte || []} lang={lang} />
         <ShareButtons url={canonical} title={tittel} variant="bottom" lang={lang} />
         <Kommentarer />
       </div>
+
+      <AdSlot format="sidebar" lang={lang} />
     </div>
   </article>
 
@@ -373,6 +378,12 @@ const crumbs = [
     display: flex;
     flex-direction: column;
     gap: 32px;
+  }
+  /* Større container på desktop hvor annonse-sidebar er synlig */
+  @media (min-width: 1100px) {
+    .symbol-layout {
+      max-width: 1280px;
+    }
   }
   @media (min-width: 768px) {
     .symbol-layout {

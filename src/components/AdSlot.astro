@@ -1,0 +1,77 @@
+---
+import { adSlotHtml, type AdSlotOptions } from '../lib/ad-slot-html';
+import { defaultLang, type Lang } from '../i18n/config';
+
+interface Props {
+  format: AdSlotOptions['format'];
+  slotId?: string;
+  dataAdFormat?: string;
+  lang?: Lang;
+}
+
+const { format, slotId = 'placeholder', dataAdFormat = 'auto', lang = defaultLang } = Astro.props;
+const html = adSlotHtml({ format, slotId, dataAdFormat, lang: lang as 'nb' | 'sv' });
+---
+
+<Fragment set:html={html} />
+
+<style is:global>
+  /* Felles annonse-styling. is:global så regelen også treffer markup
+     injisert av remark-ad-slots-pluginen (som lever utenfor scoped CSS). */
+  .ad-container {
+    display: block;
+    margin: 32px 0;
+    padding: 12px 0 0;
+    text-align: center;
+    background: rgba(123, 111, 160, 0.02);
+    border: 1px dashed rgba(123, 111, 160, 0.15);
+    border-radius: 12px;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+
+  .ad-container .ad-label {
+    display: block;
+    font-family: var(--font-nav, 'Geist', sans-serif);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: rgba(107, 101, 96, 0.55);
+    margin-bottom: 10px;
+  }
+
+  .ad-container ins.adsbygoogle {
+    display: block;
+    width: 100%;
+    min-block-size: 250px;
+  }
+
+  /* In-content: reservert plass mellom avsnitt */
+  .ad-in-content {
+    margin: 40px auto;
+    max-width: 720px;
+  }
+
+  /* Bottom: før relaterte symboler / kommentarer */
+  .ad-bottom {
+    margin: 56px auto 32px;
+    max-width: 720px;
+  }
+
+  /* Sidebar: kun på desktop, sticky ved siden av innholdet */
+  .ad-sidebar {
+    display: none;
+  }
+  @media (min-width: 1100px) {
+    .ad-sidebar {
+      display: block;
+      width: 300px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 100px;
+      align-self: flex-start;
+      margin: 0;
+    }
+  }
+</style>
