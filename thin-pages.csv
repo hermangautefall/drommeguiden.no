@@ -1,9 +1,4 @@
 tier,filsti,slug,ordtelling,gsc_klikk_3mnd,gsc_visninger_3mnd,kategori
-KRITISK_TYNN,src/content/drommer/stein.md,stein,365,2,65,gjenstander
-KRITISK_TYNN,src/content/drommer/buss.md,buss,370,10,175,steder
-KRITISK_TYNN,src/content/drommer/fingre.md,fingre,373,0,46,kropp
-KRITISK_TYNN,src/content/drommer/operasjon.md,operasjon,373,1,37,hendelser
-KRITISK_TYNN,src/content/drommer/bror.md,bror,384,3,36,mennesker
 KRITISK_TYNN,src/content/drommer/frosk.md,frosk,389,2,161,dyr
 KRITISK_TYNN,src/content/drommer/bestemor.md,bestemor,396,0,27,mennesker
 KRITISK_TYNN,src/content/drommer/hjort.md,hjort,398,2,112,dyr
@@ -201,6 +196,7 @@ OK,src/content/drommer/storm.md,storm,837,0,56,natur
 OK,src/content/drommer/bie.md,bie,840,3,160,dyr
 OK,src/content/drommer/krabbe.md,krabbe,842,4,69,dyr
 OK,src/content/sovn/drommer-og-hjernen.md,drommer-og-hjernen,847,0,2,vitenskap
+OK,src/content/drommer/stein.md,stein,848,2,65,gjenstander
 OK,src/content/drommer/drepe.md,drepe,849,7,443,hendelser
 OK,src/content/drommer/dor.md,dor,851,0,8,steder
 OK,src/content/drommer/flyging.md,flyging,851,6,464,hendelser
@@ -212,8 +208,10 @@ OK,src/content/drommer/skole.md,skole,887,6,127,steder
 OK,src/content/drommer/sykehus.md,sykehus,889,2,77,steder
 OK,src/content/drommer/tann.md,tann,889,3,591,kropp
 OK,src/content/drommer/bil.md,bil,890,8,535,hendelser
+OK,src/content/drommer/buss.md,buss,890,10,175,steder
 OK,src/content/drommer/morkt-rom.md,morkt-rom,893,2,23,steder
 OK,src/content/sovn/sovn-graviditet.md,sovn-graviditet,895,0,215,livsfaser
+OK,src/content/drommer/fingre.md,fingre,897,0,46,kropp
 OK,src/content/drommer/hender.md,hender,910,2,25,kropp
 OK,src/content/drommer/hus.md,hus,914,10,364,steder
 OK,src/content/drommer/falle.md,falle,915,8,528,hendelser
@@ -228,6 +226,7 @@ OK,src/content/drommer/hund.md,hund,929,0,2,dyr
 OK,src/content/drommer/kjole.md,kjole,929,6,112,gjenstander
 OK,src/content/sovn/beroemte-drommer.md,beroemte-drommer,929,0,3,vitenskap
 OK,src/content/drommer/regn.md,regn,931,0,24,vann
+OK,src/content/drommer/operasjon.md,operasjon,939,1,37,hendelser
 OK,src/content/drommer/brann.md,brann,953,0,41,natur
 OK,src/content/drommer/naken.md,naken,954,5,357,kropp
 OK,src/content/drommer/speil.md,speil,956,1,109,gjenstander
@@ -236,6 +235,7 @@ OK,src/content/sovn/hva-er-sovn.md,hva-er-sovn,967,0,62,vitenskap
 OK,src/content/drommer/hav.md,hav,970,1,120,vann
 OK,src/content/drommer/eksen.md,eksen,971,4,332,mennesker
 OK,src/content/drommer/katt.md,katt,982,0,2,dyr
+OK,src/content/drommer/bror.md,bror,999,3,36,mennesker
 OK,src/content/drommer/baby.md,baby,1006,7,236,mennesker
 OK,src/content/drommer/ulykke.md,ulykke,1007,1,72,hendelser
 OK,src/content/drommer/edderkopp.md,edderkopp,1009,0,38,dyr
