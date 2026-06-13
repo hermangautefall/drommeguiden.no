@@ -1,13 +1,13 @@
 // Build-time helper som validerer dimensjonene på et hero-bilde og
 // bestemmer om det er stort nok til å brukes som og:image. Bilder under
-// 1200×630 faller tilbake (returnerer null) slik at layoutet bruker det
-// branded standard-bildet i stedet.
+// 1200×600 (litt under FB-anbefaling 1200×630, men aksepterer våre
+// 1200×627-hero-bilder) faller tilbake til branded standardbilde.
 import sharp from 'sharp';
 import { join } from 'node:path';
 
 const SITE = 'https://drommeguiden.no';
 const MIN_W = 1200;
-const MIN_H = 630;
+const MIN_H = 600;
 
 type Meta = { width: number; height: number } | null;
 const cache = new Map<string, Meta>();
