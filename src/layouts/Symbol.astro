@@ -168,11 +168,7 @@ const crumbs = [
           <slot />
         </div>
 
-        <ReflectionPrompts slug={slug} displayName={slug.replace(/-/g, ' ')} lang={lang} />
-
         <HelpfulnessVote slug={slug} lang={lang} />
-
-        <RelatertSovn artikler={relaterteSovnArtikler} lang={lang} />
 
         {sensitivt && (
           <aside class="symbol-disclaimer" role="note" aria-label={sensitivtLabel}>
@@ -181,10 +177,12 @@ const crumbs = [
           </aside>
         )}
 
+        <ReflectionPrompts slug={slug} displayName={slug.replace(/-/g, ' ')} lang={lang} />
+
         <AdSlot format="bottom" lang={lang} />
 
         <RelaterteBoks relaterte={relaterte || []} lang={lang} />
-        <ShareButtons url={canonical} title={tittel} variant="bottom" lang={lang} />
+        <RelatertSovn artikler={relaterteSovnArtikler} lang={lang} />
         <Kommentarer />
       </div>
 

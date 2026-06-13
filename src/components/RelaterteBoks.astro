@@ -28,8 +28,8 @@ const title = lang === 'sv' ? 'Relaterade drömsymboler' : 'Relaterte drømmesym
 
 <style>
   .relaterte-section {
-    margin-top: 64px;
-    padding-top: 48px;
+    margin-top: 40px;
+    padding-top: 32px;
     border-top: 1px solid rgba(123, 111, 160, 0.1);
   }
 
@@ -41,24 +41,24 @@ const title = lang === 'sv' ? 'Relaterade drömsymboler' : 'Relaterte drømmesym
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: var(--color-text-muted);
-    margin-bottom: 8px;
+    margin-bottom: 6px;
   }
 
   .relaterte-title {
     font-family: var(--font-heading);
-    font-size: 22px;
+    font-size: 20px;
     color: var(--color-text-heading);
-    margin-bottom: 24px;
+    margin-bottom: 16px;
     font-weight: 400;
   }
   @media (min-width: 480px) {
-    .relaterte-title { font-size: 28px; }
+    .relaterte-title { font-size: 24px; }
   }
 
   .relaterte-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 8px;
   }
 
   .relaterte-chip {
@@ -67,20 +67,20 @@ const title = lang === 'sv' ? 'Relaterade drömsymboler' : 'Relaterte drømmesym
     background: rgba(255, 255, 255, 0.7);
     border: 1px solid rgba(123, 111, 160, 0.12);
     color: var(--color-text-body);
-    padding: 10px 20px;
+    padding: 8px 16px;
     border-radius: var(--border-radius-pill);
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 500;
     text-decoration: none;
     text-transform: capitalize;
-    transition: all 0.25s ease;
+    transition: all 0.2s ease;
   }
   .relaterte-chip:hover {
     background: var(--color-primary);
     color: white;
     border-color: var(--color-primary);
     text-decoration: none;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 16px rgba(123, 111, 160, 0.25);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(123, 111, 160, 0.2);
   }
 </style>
