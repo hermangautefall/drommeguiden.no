@@ -2,6 +2,7 @@
 tittel: "Drømmer om flyulykke — hva betyr det?"
 slug: fly-styrter
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om at flyet styrter? Slike drømmer handler sjelden om faktisk flyfare — de speiler tap av kontroll og høye ambisjoner som vakler."
 relaterte:
   - falle

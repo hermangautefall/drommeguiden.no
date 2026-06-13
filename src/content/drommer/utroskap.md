@@ -2,6 +2,7 @@
 tittel: "Drømt om utroskap? 5 tolkninger som overrasker (2026)"
 slug: utroskap
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Drømt om utroskap? Det skaper ofte angst og mistanke — men drømmen handler sjelden om partneren. 5 ærlige tolkninger forklarer hva den betyr (2026)."
 relaterte:
   - kjaereste

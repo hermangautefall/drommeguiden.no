@@ -3,6 +3,7 @@ tittel: "Drömma om skam — vad betyder det?"
 slug: skammas
 nb_slug: skamme
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om att skämmas? Skam i drömmarna är självkritikens röst — och pekar nästan alltid mot något du håller dolt snarare än något du borde skämmas för."
 relaterte:
   - naken

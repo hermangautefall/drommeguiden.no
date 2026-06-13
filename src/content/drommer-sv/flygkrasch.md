@@ -2,6 +2,7 @@
 tittel: "Drömma om flygkrasch — vad betyder det?"
 slug: flygkrasch
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt att flyget störtar? Sådana drömmar handlar sällan om faktisk flygfara — de speglar kontrollförlust och höga ambitioner som vacklar."
 relaterte:
   - falla

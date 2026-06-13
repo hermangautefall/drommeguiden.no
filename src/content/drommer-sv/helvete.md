@@ -3,6 +3,7 @@ tittel: "Drömma om helvetet — vad betyder det?"
 slug: helvete
 nb_slug: helvete
 kategori: andlig
+sensitivt: true
 kortbeskrivelse: "Har du drömt om helvetet? Sådana drömmar handlar sällan om teologi — de speglar ett inre tillstånd av smärta, skuld eller känslan av att vara fångad."
 relaterte:
   - fangelse

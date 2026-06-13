@@ -36,11 +36,12 @@ interface Props {
   bilde?: string;
   leseminutter?: number;
   author?: string;
+  sensitivt?: boolean;
   lang?: Lang;
   alternates?: AlternateLink[];
 }
 
-const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, relaterte_sovn, slug, kategori, dato, oppdatert, bilde, leseminutter, author, lang = defaultLang, alternates = [] } = Astro.props;
+const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, relaterte_sovn, slug, kategori, dato, oppdatert, bilde, leseminutter, author, sensitivt, lang = defaultLang, alternates = [] } = Astro.props;
 const sovnCollection = lang === 'sv' ? 'sovn-sv' : 'sovn';
 const alleSovn = await getCollection(sovnCollection as any);
 const relaterteSovnArtikler = (relaterte_sovn || [])
@@ -64,6 +65,11 @@ const oppdatertLabel = lang === 'sv' ? 'Senast uppdaterad' : 'Sist oppdatert';
 const dateLocale = lang === 'sv' ? 'sv-SE' : 'nb-NO';
 const oppdatertDato = oppdatert ?? dato;
 const oppdatertFmt = oppdatertDato.toLocaleDateString(dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
+
+const sensitivtTekst = lang === 'sv'
+  ? 'Drömtolkning är reflektion, inte diagnos. Om innehållet i drömmen eller artikeln väcker starka känslor, prata med någon du litar på eller kontakta Mind Självmordslinjen på 90101.'
+  : 'Drømmetolkning er refleksjon, ikke diagnose. Hvis innholdet i drømmen eller artikkelen vekker sterke følelser, snakk med noen du stoler på eller kontakt Mental Helse på 116 123.';
+const sensitivtLabel = lang === 'sv' ? 'Att tänka på' : 'Til ettertanke';
 
 const labels = lang === 'sv'
   ? { hjem: 'Hem', symboler: 'Symboler', breadcrumb: 'Brödsmulor' }
@@ -167,6 +173,13 @@ const crumbs = [
         <HelpfulnessVote slug={slug} lang={lang} />
 
         <RelatertSovn artikler={relaterteSovnArtikler} lang={lang} />
+
+        {sensitivt && (
+          <aside class="symbol-disclaimer" role="note" aria-label={sensitivtLabel}>
+            <span class="symbol-disclaimer-label">{sensitivtLabel}</span>
+            <p>{sensitivtTekst}</p>
+          </aside>
+        )}
 
         <AdSlot format="bottom" lang={lang} />
 
@@ -426,6 +439,31 @@ const crumbs = [
   }
   .symbol-byline-sep {
     opacity: 0.45;
+  }
+
+  /* ========== SENSITIVT-DISCLAIMER ========== */
+  .symbol-disclaimer {
+    margin: 40px 0 0;
+    padding: 14px 18px;
+    background: rgba(192, 128, 112, 0.06);
+    border-left: 3px solid var(--color-accent);
+    border-radius: 8px;
+  }
+  .symbol-disclaimer-label {
+    display: inline-block;
+    font-family: var(--font-nav);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 6px;
+  }
+  .symbol-disclaimer p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-body);
   }
 
   /* ========== CONTENT AREA ========== */

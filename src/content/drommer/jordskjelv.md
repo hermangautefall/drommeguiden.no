@@ -2,6 +2,7 @@
 tittel: "Drømmer om jordskjelv — hva betyr det?"
 slug: jordskjelv
 kategori: natur
+sensitivt: true
 kortbeskrivelse: "Har du drømt om jordskjelv? Slike drømmer symboliserer plutselige omveltninger og ustabilitet — her er tolkningene av hva jordskjelvdrømmen betyr."
 relaterte:
   - storm

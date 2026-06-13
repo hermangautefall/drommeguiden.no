@@ -3,6 +3,7 @@ tittel: "Drömma om att ett barn drunknar — vad betyder det?"
 slug: drunkna-barn
 nb_slug: drukne-barn
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Drömt om att ett barn drunknar? Det är en av de vanligaste skräckdrömmarna föräldrar har — och aldrig en spådom, utan en bild på rädslan att förlora det sårbara."
 relaterte:
   - drunkna

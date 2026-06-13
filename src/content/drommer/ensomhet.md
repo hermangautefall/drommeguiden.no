@@ -2,6 +2,7 @@
 tittel: "Drømmer om ensomhet — hva betyr det?"
 slug: ensomhet
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å være ensom? Ensomhet i drømmene er ett av de dypeste signalene om et uoppfylt behov for kontakt — med andre, eller med sider av deg selv."
 relaterte:
   - kjaerlighet

@@ -3,6 +3,7 @@ tittel: "Drömma om att bli överfallen — vad betyder det?"
 slug: overfallen
 nb_slug: overfalt
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om att bli överfallen? Drömmen speglar sårbarhet och gränser som kränks — och pekar nästan alltid på något som hotar din trygghet i livet."
 relaterte:
   - forfoljd

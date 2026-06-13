@@ -3,6 +3,7 @@ tittel: "Drömma om inbrottstjuv — vad betyder det?"
 slug: inbrottstjuv
 nb_slug: innbruddstyv
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om inbrottstjuv? Sådana drömmar handlar om gränser som kränks — här är de vanligaste tolkningarna av vad det betyder att drömma detta."
 relaterte:
   - hus

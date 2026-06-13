@@ -3,6 +3,7 @@ tittel: "Drömt om operation? 5 tolkningar och vad det egentligen betyder (2026)
 slug: operation
 nb_slug: operasjon
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Drömt om operation? Operationer handlar om reparation, kontroll och sårbarhet — 5 tolkningar förklarar vad drömmen kan betyda för dig (2026)."
 relaterte:
   - sjukdom

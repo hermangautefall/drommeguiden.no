@@ -3,6 +3,7 @@ tittel: "Drömma om att falla — vad betyder det?"
 slug: falla
 nb_slug: falle
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om att falla? Falldrömmar är bland de vanligaste drömmarna och kan handla om kontroll, rädsla och livets osäkerhet. Läs tolkningarna här."
 relaterte:
   - flyga

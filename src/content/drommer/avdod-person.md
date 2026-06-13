@@ -2,6 +2,7 @@
 tittel: "Drømmer om en avdød person — hva betyr det?"
 slug: avdod-person
 kategori: mennesker
+sensitivt: true
 kortbeskrivelse: "Har du drømt om en avdød person? Slike drømmer er svært vanlige og oppleves som trøstende besøk — her er de vanligste tolkningene av hva det betyr."
 relaterte:
   - mor

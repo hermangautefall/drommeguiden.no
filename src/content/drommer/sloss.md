@@ -2,6 +2,7 @@
 tittel: "Drømmer om å sloss — hva betyr det?"
 slug: sloss
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å sloss? Slagsmål i drømmer handler sjelden om fysisk vold — her er tolkningene av hva det betyr å kjempe i drømmeland i natt."
 relaterte:
   - krig

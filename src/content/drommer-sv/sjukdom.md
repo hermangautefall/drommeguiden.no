@@ -3,6 +3,7 @@ tittel: "Drömma om att bli sjuk — vad betyder det?"
 slug: sjukdom
 nb_slug: sykdom
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om att bli sjuk? Sjukdomsdrömmar handlar sällan om faktisk sjukdom — de speglar ofta utmattning, sårbarhet eller något som tär på dig."
 relaterte:
   - sjukhus

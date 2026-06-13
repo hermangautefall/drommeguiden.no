@@ -3,6 +3,7 @@ tittel: "Drömma om sjukhus — vad betyder det?"
 slug: sjukhus
 nb_slug: sykehus
 kategori: platser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om sjukhus? Sjukhuset i drömmar kan handla om läkning, sårbarhet eller ett behov av omsorg. Utforska de vanligaste tolkningarna här."
 relaterte:
   - blod

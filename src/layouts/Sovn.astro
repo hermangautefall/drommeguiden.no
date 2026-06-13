@@ -95,6 +95,11 @@ const bylineLabel = lang === 'sv' ? 'Skriven av' : 'Skrevet av';
 const oppdatertDato = oppdatert ?? dato;
 const oppdatertFmt = oppdatertDato.toLocaleDateString(labels.dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
 
+const disclaimer = lang === 'sv'
+  ? 'Den här artikeln är tänkt som allmän information och reflektion, inte medicinsk rådgivning. Vid ihållande sömnproblem eller allvarliga besvär bör du kontakta vårdcentral eller annan vårdpersonal.'
+  : 'Denne artikkelen er ment som generell informasjon og refleksjon, ikke medisinsk rådgivning. Ved vedvarende søvnproblemer eller alvorlige plager, oppsøk fastlege eller annet helsepersonell.';
+const disclaimerLabel = lang === 'sv' ? 'Viktigt' : 'Viktig';
+
 const crumbs = [
   { name: labels.hjem, url: homePath(lang) },
   { name: labels.sovn, url: pathFor(lang, 'sovn') },
@@ -166,6 +171,11 @@ const crumbs = [
         <slot />
 
         <HelpfulnessVote slug={slug} lang={lang} />
+
+        <aside class="sovn-disclaimer" role="note" aria-label={disclaimerLabel}>
+          <span class="sovn-disclaimer-label">{disclaimerLabel}</span>
+          <p>{disclaimer}</p>
+        </aside>
 
         <AdSlot format="bottom" lang={lang} />
 
@@ -377,6 +387,31 @@ const crumbs = [
   }
   .sovn-content :global(a:hover) {
     text-decoration-color: #1D9E75;
+  }
+
+  /* Disclaimer (informasjonsboks) */
+  .sovn-disclaimer {
+    margin: 40px 0 0;
+    padding: 16px 20px;
+    background: rgba(29, 158, 117, 0.06);
+    border-left: 3px solid #1D9E75;
+    border-radius: 8px;
+  }
+  .sovn-disclaimer-label {
+    display: inline-block;
+    font-family: var(--font-nav);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #1D9E75;
+    margin-bottom: 6px;
+  }
+  .sovn-disclaimer p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-body);
   }
 
   /* Related boxes */

@@ -3,6 +3,7 @@ tittel: "Drömma om sår — vad betyder det?"
 slug: sar
 nb_slug: saar
 kategori: kropp
+sensitivt: true
 kortbeskrivelse: "Har du drömt om sår? Sår i drömmarna är sällan om fysisk smärta — de är psykets bild av det som är öppet, obearbetat och fortfarande ömt i dig."
 relaterte:
   - blod

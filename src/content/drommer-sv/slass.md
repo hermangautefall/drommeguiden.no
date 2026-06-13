@@ -3,6 +3,7 @@ tittel: "Drömma om att slåss — vad betyder det?"
 slug: slass
 nb_slug: sloss
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om att slåss? Slagsmål i drömmar handlar sällan om fysiskt våld — här är tolkningarna av vad det betyder att kämpa i drömlandet i natt."
 relaterte:
   - krig

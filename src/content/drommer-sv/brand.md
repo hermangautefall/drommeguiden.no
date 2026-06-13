@@ -3,6 +3,7 @@ tittel: "Drömma om brand — vad betyder det?"
 slug: brand
 nb_slug: brann
 kategori: natur
+sensitivt: true
 kortbeskrivelse: "Har du drömt om brand? Brand i drömmar kan symbolisera lidelse, transformation och destruktiva krafter. Läs de vanligaste tolkningarna och vad det betyder."
 relaterte:
   - storm

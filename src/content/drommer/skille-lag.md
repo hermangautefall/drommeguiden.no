@@ -2,6 +2,7 @@
 tittel: "Drømmer om å skille lag — hva betyr det?"
 slug: skille-lag
 kategori: mennesker
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å skille lag? Brudd i drømmene handler om overgang og avslutning — og er ett av psykens kraftigste bilder for noe som kanskje bør forandres."
 relaterte:
   - utroskap-partner

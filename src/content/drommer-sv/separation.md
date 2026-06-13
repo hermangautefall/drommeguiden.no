@@ -3,6 +3,7 @@ tittel: "Drömma om att skiljas — vad betyder det?"
 slug: separation
 nb_slug: skille-lag
 kategori: manniskor
+sensitivt: true
 kortbeskrivelse: "Har du drömt om att skiljas? Uppbrott i drömmarna handlar om övergång och avslut — och är en av psykets kraftfullaste bilder för något som kanske bör förändras."
 relaterte:
   - otrohet-partner

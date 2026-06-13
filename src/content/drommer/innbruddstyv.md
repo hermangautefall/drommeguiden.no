@@ -2,6 +2,7 @@
 tittel: "Drømmer om innbruddstyv — hva betyr det?"
 slug: innbruddstyv
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om innbruddstyv? Slike drømmer handler om grenser som krenkes — her er de vanligste tolkningene av hva det betyr å drømme dette."
 relaterte:
   - hus

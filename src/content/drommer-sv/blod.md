@@ -3,6 +3,7 @@ tittel: "Drömma om blod — vad betyder det?"
 slug: blod
 nb_slug: blod
 kategori: kropp
+sensitivt: true
 kortbeskrivelse: "Har du drömt om blod? Blod i drömmar kan symbolisera livskraft, emotionella sår eller djupa band. Utforska de vanligaste tolkningarna och vad drömmen betyder."
 relaterte:
   - tand

@@ -2,6 +2,7 @@
 tittel: "Drømmer om at et barn drukner — hva betyr det?"
 slug: drukne-barn
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Drømt om at et barn drukner? Det er en av de vanligste skrekkdrømmene foreldre har — og aldri en spådom, men et bilde på frykten for å miste det sårbare."
 relaterte:
   - drukne

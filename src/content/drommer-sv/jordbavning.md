@@ -3,6 +3,7 @@ tittel: "Drömma om jordbävning — vad betyder det?"
 slug: jordbavning
 nb_slug: jordskjelv
 kategori: natur
+sensitivt: true
 kortbeskrivelse: "Har du drömt om jordbävning? Sådana drömmar symboliserar plötsliga omvälvningar och instabilitet — här är tolkningarna av vad jordbävningsdrömmen betyder."
 relaterte:
   - storm

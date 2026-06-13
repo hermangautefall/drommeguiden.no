@@ -2,6 +2,7 @@
 tittel: "Drømmer om å miste et barn — hva betyr det?"
 slug: miste-baby
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Å drømme om å miste et barn er skremmende — men sjelden en spådom. Den speiler frykten for å mislykkes med noe du elsker og er ansvarlig for."
 relaterte:
   - baby

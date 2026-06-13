@@ -2,6 +2,7 @@
 tittel: "Drømmer om sykehus — hva betyr det?"
 slug: sykehus
 kategori: steder
+sensitivt: true
 kortbeskrivelse: "Har du drømt om sykehus? Sykehuset i drømmer kan handle om helbredelse, sårbarhet eller et behov for omsorg. Utforsk de vanligste tolkningene her."
 relaterte:
   - blod

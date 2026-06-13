@@ -3,6 +3,7 @@ tittel: "Drömma om att drunkna — vad betyder det? 4 tolkningar (2026)"
 slug: drunkna
 nb_slug: drukne
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Drömt om att drunkna? Det handlar inte om vatten — det speglar överväldigande känslor eller förlust av kontroll. Läs de 4 vanligaste tolkningarna och vad drömmen egentligen betyder."
 relaterte:
   - hav

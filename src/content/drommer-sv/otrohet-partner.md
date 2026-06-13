@@ -3,6 +3,7 @@ tittel: "Drömma om att partnern är otrogen — vad betyder det? (2026)"
 slug: otrohet-partner
 nb_slug: utroskap-partner
 kategori: manniskor
+sensitivt: true
 kortbeskrivelse: "Drömt om att partnern är otrogen? Det handlar nästan aldrig om faktisk otrohet. Läs vad drömmen egentligen betyder — och varför den är en av de mest störande."
 relaterte:
   - otrohet

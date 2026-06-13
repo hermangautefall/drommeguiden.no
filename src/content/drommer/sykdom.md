@@ -2,6 +2,7 @@
 tittel: "Drømmer om å bli syk — hva betyr det?"
 slug: sykdom
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å bli syk? Sykdomsdrømmer handler sjelden om faktisk sykdom — de speiler ofte utmattelse, sårbarhet eller noe som tærer på deg."
 relaterte:
   - sykehus

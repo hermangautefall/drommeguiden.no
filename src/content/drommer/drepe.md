@@ -2,6 +2,7 @@
 tittel: "Drømmer om å drepe noen — hva betyr det?"
 slug: drepe
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å drepe noen? Det er vanligere enn folk tror og sier ingenting vondt om deg — her er hva det egentlig kan bety å drømme dette."
 relaterte:
   - forfulgt

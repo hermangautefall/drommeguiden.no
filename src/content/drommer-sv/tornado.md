@@ -3,6 +3,7 @@ tittel: "Drömma om tornado — vad betyder det?"
 slug: tornado
 nb_slug: tornado
 kategori: natur
+sensitivt: true
 kortbeskrivelse: "Har du drömt om tornado? Tornadodrömmar handlar om kaos och överväldigande krafter som river upp allt — här är tolkningarna av vad det betyder för dig."
 relaterte:
   - storm

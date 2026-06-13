@@ -2,6 +2,7 @@
 tittel: "Drømmer om å bli forfulgt — hva betyr det?"
 slug: forfulgt
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å bli forfulgt? Det er blant de vanligste drømmene vi har og handler om noe du unngår — her er tolkningene av hva det egentlig betyr."
 relaterte:
   - falle

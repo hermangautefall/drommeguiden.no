@@ -2,6 +2,7 @@
 tittel: "Drømmer om å falle — hva betyr det?"
 slug: falle
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å falle? Falledrømmer er blant de vanligste drømmene og kan handle om kontroll, frykt og livets usikkerhet. Les tolkningene her."
 relaterte:
   - flyging

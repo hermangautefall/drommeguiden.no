@@ -3,6 +3,7 @@ tittel: "Drömma om otrohet — vad betyder det?"
 slug: otrohet
 nb_slug: utroskap
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om otrohet? Sådana drömmar skapar ofta ångest och misstanke — men de betyder sällan det du tror. Här är vad de egentligen handlar om."
 relaterte:
   - pojkvan-flickvan

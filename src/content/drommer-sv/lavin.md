@@ -3,6 +3,7 @@ tittel: "Drömma om lavin — vad betyder det?"
 slug: lavin
 nb_slug: snoskred
 kategori: natur
+sensitivt: true
 kortbeskrivelse: "Har du drömt om en lavin? Laviner i drömmar handlar om överväldigande kraft — här är de vanligaste tolkningarna av vad det egentligen betyder för dig."
 relaterte:
   - sno

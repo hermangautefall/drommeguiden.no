@@ -2,6 +2,7 @@
 tittel: "Drømmer om skam — hva betyr det?"
 slug: skamme
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å skamme seg? Skam i drømmene er selvkritikkens stemme — og peker nesten alltid på noe du holder skjult heller enn noe du burde skamme deg over."
 relaterte:
   - naken

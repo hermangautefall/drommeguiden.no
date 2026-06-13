@@ -3,6 +3,7 @@ tittel: "Drömma om en avliden person — vad betyder det?"
 slug: avliden-person
 nb_slug: avdod-person
 kategori: manniskor
+sensitivt: true
 kortbeskrivelse: "Har du drömt om en avliden person? Sådana drömmar är mycket vanliga och upplevs som tröstande besök — här är de vanligaste tolkningarna av vad det betyder."
 relaterte:
   - mamma

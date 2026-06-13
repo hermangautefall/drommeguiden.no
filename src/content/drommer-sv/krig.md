@@ -2,6 +2,7 @@
 tittel: "Drömma om krig — vad betyder det?"
 slug: krig
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om krig? Krigsdrömmar är intensiva och kan ha många orsaker — från inre konflikt till bearbetning av nyheter och den kollektiva oro vi bär på."
 relaterte:
   - forfulgt

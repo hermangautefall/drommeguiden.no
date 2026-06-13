@@ -2,6 +2,7 @@
 tittel: "Drømmer om å bli overfalt — hva betyr det?"
 slug: overfalt
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å bli overfalt? Drømmen speiler sårbarhet og grenser som krenkes — og peker nesten alltid på noe som truer din trygghet i livet."
 relaterte:
   - forfulgt

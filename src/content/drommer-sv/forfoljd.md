@@ -3,6 +3,7 @@ tittel: "Drömma om att bli förföljd — vad betyder det?"
 slug: forfoljd
 nb_slug: forfulgt
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om att bli förföljd? Det är bland de vanligaste drömmarna vi har och handlar om något du undviker — här är tolkningarna av vad det egentligen betyder."
 relaterte:
   - falla

@@ -2,6 +2,7 @@
 tittel: "Drømmer om å drukne – hva betyr det? 4 tolkninger (2026)"
 slug: drukne
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Drømt om å drukne? Det handler ikke om vann – det speiler overveldende følelser eller tap av kontroll. Les de 4 vanligste tolkningene og hva drømmen din egentlig betyr."
 relaterte:
   - hav

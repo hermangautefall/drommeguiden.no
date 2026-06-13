@@ -2,6 +2,7 @@
 tittel: "Drømmer om helvete — hva betyr det?"
 slug: helvete
 kategori: aandelig
+sensitivt: true
 kortbeskrivelse: "Har du drømt om helvete? Slike drømmer handler sjelden om teologi — de speiler en indre tilstand av smerte, skyld eller følelsen av å være fanget."
 relaterte:
   - fengsel

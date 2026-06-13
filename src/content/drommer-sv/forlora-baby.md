@@ -3,6 +3,7 @@ tittel: "Drömmar om att förlora ett barn — vad betyder det?"
 slug: forlora-baby
 nb_slug: miste-baby
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Att drömma om att förlora ett barn är skrämmande — men sällan en förutsägelse. Den speglar rädslan att misslyckas med något du älskar och ansvarar för."
 relaterte:
   - baby

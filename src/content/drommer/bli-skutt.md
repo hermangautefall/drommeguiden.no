@@ -2,6 +2,7 @@
 tittel: "Drømmer om å bli skutt — hva betyr det?"
 slug: bli-skutt
 kategori: hendelser
+sensitivt: true
 kortbeskrivelse: "Har du drømt om å bli skutt? Det er en sjokkerende drøm — men den handler ikke om vold. Den speiler et plutselig, uventet angrep på noe viktig i livet ditt."
 relaterte:
   - overfalt

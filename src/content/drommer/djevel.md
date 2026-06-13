@@ -2,6 +2,7 @@
 tittel: "Drømmer om djevelen — hva betyr det?"
 slug: djevel
 kategori: aandelig
+sensitivt: true
 kortbeskrivelse: "Har du drømt om djevelen? I psykologisk forstand er han Skyggen i sin klareste form — det du fortrenger og ikke vil vedkjenne deg. Han er en del av deg."
 relaterte:
   - gud

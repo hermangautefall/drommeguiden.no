@@ -3,6 +3,7 @@ tittel: "Drömma om att döda någon — vad betyder det?"
 slug: doda
 nb_slug: drepe
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt om att döda någon? Det är vanligare än folk tror och säger inget ont om dig — här är vad det egentligen kan betyda att drömma detta."
 relaterte:
   - forfoljd

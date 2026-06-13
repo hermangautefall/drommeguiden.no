@@ -20,6 +20,7 @@ const drommerSchema = z
     sv_slug: z.string().optional(),
     nb_slug: z.string().optional(),
     author: z.string().optional(),
+    sensitivt: z.boolean().optional(),
     relaterte_sovn: z.array(z.string()).optional(),
   })
   .passthrough();

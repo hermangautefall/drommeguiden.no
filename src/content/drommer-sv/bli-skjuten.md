@@ -3,6 +3,7 @@ tittel: "Drömt att du blir skjuten? Vad chockdrömmen betyder (2026)"
 slug: bli-skjuten
 nb_slug: bli-skutt
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Drömt att du blir skjuten? Det är en chockerande dröm — men den handlar inte om våld. 5 tolkningar av vad smärtan egentligen betyder (2026)."
 relaterte:
   - overfallen

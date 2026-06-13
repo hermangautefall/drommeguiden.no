@@ -3,6 +3,7 @@ tittel: "Drömma om djävulen — vad betyder det?"
 slug: djavul
 nb_slug: djevel
 kategori: andlig
+sensitivt: true
 kortbeskrivelse: "Har du drömt om djävulen? I psykologisk mening är han Skuggan i sin tydligaste form — det du förtränger och inte vill kännas vid. Han är en del av dig."
 relaterte:
   - gud

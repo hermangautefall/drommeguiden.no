@@ -2,6 +2,7 @@
 tittel: "Drømmer om snøskred — hva betyr det?"
 slug: snoskred
 kategori: natur
+sensitivt: true
 kortbeskrivelse: "Har du drømt om snøskred? Snøskred i drømmer handler om overveldende kraft — her er de vanligste tolkningene av hva det egentlig betyr for deg."
 relaterte:
   - sno
