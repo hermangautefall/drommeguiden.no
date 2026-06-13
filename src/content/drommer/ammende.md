@@ -66,7 +66,7 @@ Omsorg koster deg noe. Prisen er reell og merkes i kroppen.
 
 ## Psykologiske og kulturelle perspektiver
 
-Amming som symbol på guddommelig omsorg og næring er universelt: Isis som ammer Horus er ett av de eldste billedmotivene i menneskenes kunst. Maria lactans — den ammende Maria — er et sentralt motiv i europeisk kunst fra middelalderen. Bildet av en ammende [mor](/drommer/mor) er ett av arketypenes mest primære.
+Amming som symbol på guddommelig omsorg og næring er universelt: Isis som ammer Horus er ett av de eldste billedmotivene i menneskenes kunst. Maria lactans — den ammende Maria — er et sentralt motiv i europeisk kunst fra middelalderen. Bildet av en ammende [mor](/drommer/mor/) er ett av arketypenes mest primære.
 
 Jung ville ha sett ammingen som et uttrykk for den store mors-arketypens næringsfunksjon — det dypeste, mest arkaiske bildet på omsorg og livsopprettholdelse. Det er ikke begrenset til kvinner: mannen som drømmer om amming er i kontakt med den næringsfull, omsorgsfulle siden av sin psyke.
 
@@ -78,5 +78,5 @@ I norrøn tradisjon er Frigg — gudinnenes dronning og hjemmets beskytter — n
 - Hva skjer i **livet ditt** akkurat nå — hvem nærer du, og hvem nærer deg?
 - Har du drømt om **å gi av deg selv** på denne måten **flere ganger**?
 
-> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

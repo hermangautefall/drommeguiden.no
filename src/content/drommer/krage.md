@@ -31,7 +31,7 @@ Kråken har i utallige kulturer blitt assosiert med overganger — mellom liv og
 
 Det trenger ikke å handle om noe dramatisk. En transformasjon kan være like stille som en endring i perspektiv — en ny forståelse av deg selv, en gradvis frigjøring fra noe som har holdt deg fast, eller en modnende erkjennelse av hva du egentlig ønsker. Kråken i drømmen signaliserer at forandringen er i gang, enten du har lagt merke til den i våkenlivet eller ikke.
 
-Mange opplever kråkedrømmer i perioder der noe er i ferd med å avsluttes. Det kan dreie seg om et kapittel i livet som går mot slutten — et prosjekt, en fase, en relasjon — og kråken markerer overgangen til det som kommer neste. I dette perspektivet har kråken fellestrekk med [slangen](/drommer/slange) som drømmesymbol: begge handler om transformasjon og fornyelse gjennom tap av det gamle.
+Mange opplever kråkedrømmer i perioder der noe er i ferd med å avsluttes. Det kan dreie seg om et kapittel i livet som går mot slutten — et prosjekt, en fase, en relasjon — og kråken markerer overgangen til det som kommer neste. I dette perspektivet har kråken fellestrekk med [slangen](/drommer/slange/) som drømmesymbol: begge handler om transformasjon og fornyelse gjennom tap av det gamle.
 
 ### Skjult visdom og intuisjon
 
@@ -39,7 +39,7 @@ Kråker er blant de smarteste fuglene som finnes. De bruker verktøy, løser pro
 
 Drømmer der kråken observerer deg, følger deg, eller kommuniserer med deg kan tolkes som at intuisjonen din forsøker å nå frem. Kanskje har du hatt en magefølelse om noe, men avfeid den som irrasjonell. Kråken i drømmen minner deg på at det finnes former for kunnskap som ikke lar seg forklare logisk, men som likevel er verdifulle.
 
-Hvis kråken i drømmen sitter i et tre i en [skog](/drommer/skog), forsterkes denne visdomstematikken. Skogen representerer det ubevisste, og kråken i treet kan sees som en vokter av innsikt som venter på å bli oppdaget. Det er som om drømmen sier: svaret finnes allerede — du må bare se i riktig retning.
+Hvis kråken i drømmen sitter i et tre i en [skog](/drommer/skog/), forsterkes denne visdomstematikken. Skogen representerer det ubevisste, og kråken i treet kan sees som en vokter av innsikt som venter på å bli oppdaget. Det er som om drømmen sier: svaret finnes allerede — du må bare se i riktig retning.
 
 ### Et varsel eller en oppfordring til oppmerksomhet
 
@@ -47,7 +47,7 @@ Kråkens skarpe skrik er vanskelig å ignorere, og i drømmeverdenen kan kråken
 
 Denne tolkningen er spesielt relevant dersom kråken i drømmen oppfører seg påtrengende eller uvanlig. En kråke som skriker, flakser rundt deg, eller nekter å flytte seg kan symbolisere en sak som insisterer på å bli sett. Det er sjelden noe farlig — snarere er det drømmens måte å si: vend blikket hit.
 
-Drømmer der kråken befinner seg i et [mørkt rom](/drommer/morkt-rom) eller i mørke omgivelser tilfører en dimensjon av det ukjente. Kråken i mørket kan representere noe som venter i skyggene og krever at du tør å se nærmere etter.
+Drømmer der kråken befinner seg i et [mørkt rom](/drommer/morkt-rom/) eller i mørke omgivelser tilfører en dimensjon av det ukjente. Kråken i mørket kan representere noe som venter i skyggene og krever at du tør å se nærmere etter.
 
 ---
 

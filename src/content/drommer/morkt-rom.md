@@ -42,7 +42,7 @@ For mange er den mest umiddelbare reaksjonen på et mørkt rom en følelse av fr
 
 Det mørke rommet kan i slike tilfeller representere det ukjente: du vet ikke hva som venter, og det skaper ubehag. Mange opplever denne drømmetypen i forbindelse med jobbskifter, samlivsbrudd, eller perioder med helsebekymringer — situasjoner der fremtiden føles usikker.
 
-Hvis drømmen inneholder elementer av å [falle](/drommer/falle) i mørket, kan det forsterke følelsen av manglende kontroll. Kombinasjonen av mørke og fall er et kraftig drømmebilde som ofte peker mot dyp sårbarhet.
+Hvis drømmen inneholder elementer av å [falle](/drommer/falle/) i mørket, kan det forsterke følelsen av manglende kontroll. Kombinasjonen av mørke og fall er et kraftig drømmebilde som ofte peker mot dyp sårbarhet.
 
 ### Introspeksjon og indre arbeid
 
@@ -64,10 +64,10 @@ Kan symbolisere at du aktivt prøver å forstå noe i livet ditt — en søken e
 **Hvis noen andre er i rommet med deg:**
 Personen kan representere en relasjon som føles uavklart, eller en side av deg selv som du møter i mørket. Drømmer om andre i mørke rom handler ofte om tillit.
 
-**Hvis rommet er i et [hus](/drommer/hus) du kjenner:**
+**Hvis rommet er i et [hus](/drommer/hus/) du kjenner:**
 Huset i drømmer representerer ofte deg selv. Et mørkt rom i ditt eget hus kan peke mot en del av livet ditt som trenger oppmerksomhet — kanskje noe du har forsømt.
 
-**Hvis du ser et [speil](/drommer/speil) i det mørke rommet:**
+**Hvis du ser et [speil](/drommer/speil/) i det mørke rommet:**
 Kombinasjonen av mørke og speiling er et sterkt drømmebilde. Det kan handle om selvransakelse — å se deg selv når du ikke kan gjemme deg bak lyset.
 
 ---

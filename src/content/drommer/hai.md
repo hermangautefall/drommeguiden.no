@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om hai?
 
-Haien er kanskje det mest fryktinngytende dyret i den kollektive menneskelige fantasien — en perfekt jeger som glir usynlig under overflaten i [havet](/drommer/hav) inntil det er for sent. I drømmer bærer haien med seg denne kvaliteten av skjult fare og kald effektivitet. Å drømme om hai er sjelden en rolig opplevelse.
+Haien er kanskje det mest fryktinngytende dyret i den kollektive menneskelige fantasien — en perfekt jeger som glir usynlig under overflaten i [havet](/drommer/hav/) inntil det er for sent. I drømmer bærer haien med seg denne kvaliteten av skjult fare og kald effektivitet. Å drømme om hai er sjelden en rolig opplevelse.
 
 Men haien er også et symbol på overlevelsesevne — haien har eksistert nesten uforandret i 450 millioner år.
 
@@ -31,11 +31,11 @@ Den vanligste tolkningen av haien handler om noe som truer deg uten at du ser de
 
 ### En kald eller beregnende person
 
-Haien symboliserer tidvis en spesifikk person — på lignende vis som [slangen](/drommer/slange) — en som er glatt, beregnende og setter egne interesser foran alt. Noen som smiler, men har skjulte motiver. Drømmen kan advare deg om å stole blindt på noen.
+Haien symboliserer tidvis en spesifikk person — på lignende vis som [slangen](/drommer/slange/) — en som er glatt, beregnende og setter egne interesser foran alt. Noen som smiler, men har skjulte motiver. Drømmen kan advare deg om å stole blindt på noen.
 
 ### Din egen styrke og navigasjonsevne
 
-Å svømme trygt ved siden av en hai, eller å ikke være redd for den, tolkes annerledes: du er komfortabel med dype, mørke følelser og navigerer dem med selvtillit — i motsetning til den som drømmer om å [drukne](/drommer/drukne). Du er ikke lett å skremme.
+Å svømme trygt ved siden av en hai, eller å ikke være redd for den, tolkes annerledes: du er komfortabel med dype, mørke følelser og navigerer dem med selvtillit — i motsetning til den som drømmer om å [drukne](/drommer/drukne/). Du er ikke lett å skremme.
 
 
 ## Hva påvirker tolkningen?
@@ -66,4 +66,4 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om hai **flere ganger**? Da kan vår guide om [gjentakende drømmer](/guider/gjentakende-drommer) være nyttig.
+- Har du drømt om hai **flere ganger**? Da kan vår guide om [gjentakende drømmer](/guider/gjentakende-drommer/) være nyttig.

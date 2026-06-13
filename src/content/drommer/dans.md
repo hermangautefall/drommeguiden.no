@@ -32,11 +32,11 @@ Det er en av drømmenes lyseste symboler.
 
 ### Forholdet til den du danser med
 
-Dansen er relasjonell — og hvem du danser med er ladet med mening. Å danse med en [kjæreste](/drommer/kjaereste) handler om harmoni og tilknytning i forholdet. Å danse med noen ukjent handler om en ny relasjon eller en ny side av deg selv. Å danse alene handler om selvstendighet og din relasjon til deg selv.
+Dansen er relasjonell — og hvem du danser med er ladet med mening. Å danse med en [kjæreste](/drommer/kjaereste/) handler om harmoni og tilknytning i forholdet. Å danse med noen ukjent handler om en ny relasjon eller en ny side av deg selv. Å danse alene handler om selvstendighet og din relasjon til deg selv.
 
 ### Rytme og flyt — å være i takt
 
-Dansen er [musikkens](/drommer/musikk) kropp — og drømmens dans kan handle om å finne rytmen i livet, å komme i takt med noe, å oppleve flyt. En periode der ting klaffer, der alt faller på plass med letthet.
+Dansen er [musikkens](/drommer/musikk/) kropp — og drømmens dans kan handle om å finne rytmen i livet, å komme i takt med noe, å oppleve flyt. En periode der ting klaffer, der alt faller på plass med letthet.
 
 ### Frigjøring og overskridelse
 

@@ -60,7 +60,7 @@ Den finske søvnforskeren Antti Revonsuo foreslo en interessant evolusjonsteoret
 
 Studier av drømmenes innhold viser at negative, truende og stressende scenarier er sterkt overrepresentert i forhold til hverdagens faktiske erfaringer — vi drømmer langt mer om forfølgelse, fare og tap enn om hverdagens rutiner. Revonsuo argumenterer at dette ikke er tilfeldig: drømmene trener hjernens responsmønstre for krisesituasjoner i et trygt, simulert miljø.
 
-Det forklarer også hvorfor det å bli forfulgt i drøm er en av de mest universale drømmene på tvers av kulturer. Se symbolsiden for [forfulgt](/drommer/forfulgt) for psykologiens tolkning av dette.
+Det forklarer også hvorfor det å bli forfulgt i drøm er en av de mest universale drømmene på tvers av kulturer. Se symbolsiden for [forfulgt](/drommer/forfulgt/) for psykologiens tolkning av dette.
 
 ### Standard aktivering-syntese (Hobson og McCarley)
 
@@ -78,7 +78,7 @@ Jung mente at drømmene kommuniserte noe fra det ubevisste, men at kommunikasjon
 
 Moderne nevrovitenskap bekrefter ikke Freuds spesifikke teorier om seksuell symbolikk eller ønskeoppfyllelse, men det den bekrefter — at hjernen under drøm prosesserer emosjonelt og personlig materiale på måter som er meningsfulle og ikke tilfeldige — er mer i tråd med Jungs bredere ramme enn med et reint støybasert perspektiv.
 
-Vil du dykke dypere inn i drømmenes psykologi? Se vår guide om [hva drømmene betyr og hvordan de tolkes](/guider/hva-er-drommer).
+Vil du dykke dypere inn i drømmenes psykologi? Se vår guide om [hva drømmene betyr og hvordan de tolkes](/guider/hva-er-drommer/).
 
 ## Hva drømmene gjør — oppsummert
 
@@ -92,7 +92,7 @@ Det som er sikkert er at de ikke er tilfeldige. Og at de ikke er uviktige.
 
 I begrenset grad. Intenst engasjement med et tema rett før søvn øker sannsynligheten for å drømme om det. Metoden "Targeted Memory Reactivation" — der minner aktiveres rett ved innsovning — har i forsøk økt forekomsten av drømmer om spesifikke temaer. Og lucide drømmere som er bevisst at de drømmer, kan i noen grad styre drømmens innhold.
 
-Les mer om [lucid dreaming og teknikker for å oppnå det](/guider/lucid-dromming).
+Les mer om [lucid dreaming og teknikker for å oppnå det](/guider/lucid-dromming/).
 
 Det vi ikke kan — ennå — er å garantere drømmers innhold. Hjernen velger selv hva som er viktig nok å bearbeide.
 
@@ -106,7 +106,7 @@ Forskningen gir ikke ett svar på hvorfor vi drømmer — men gir oss flere komp
 - Hjernens syntese: noe av innholdet kan være meningsdannelse av tilfeldig aktivering
 - Psykologisk kommunikasjon: Jung og Freud pekte på at drømmene formidler noe fra det ubevisste
 
-Videre lesing: [Søvnfaser og REM forklart](/sovn/sovnfaser) — [Hva er søvn?](/sovn/hva-er-sovn) — [Drømmejournalen — slik husker du drømmene](/guider/drommejournalen)
+Videre lesing: [Søvnfaser og REM forklart](/sovn/sovnfaser/) — [Hva er søvn?](/sovn/hva-er-sovn/) — [Drømmejournalen — slik husker du drømmene](/guider/drommejournalen/)
 
 ## Kilder
 

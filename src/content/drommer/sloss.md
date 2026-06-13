@@ -19,7 +19,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om å sloss?
 
-Slagsmål og kamp i drømmene er mer vanlig enn mange tror — og de handler nesten alltid om noe annet enn fysisk vold. Drømmens slagsmål er psykens bilde på konflikt og motstand, og kampen kan foregå mot andre eller mot noe i deg selv. Drømmer om å sloss henger ofte sammen med drømmer om [krig](/drommer/krig) og det å bli [forfulgt](/drommer/forfulgt).
+Slagsmål og kamp i drømmene er mer vanlig enn mange tror — og de handler nesten alltid om noe annet enn fysisk vold. Drømmens slagsmål er psykens bilde på konflikt og motstand, og kampen kan foregå mot andre eller mot noe i deg selv. Drømmer om å sloss henger ofte sammen med drømmer om [krig](/drommer/krig/) og det å bli [forfulgt](/drommer/forfulgt/).
 
 Det viktigste spørsmålet er ikke hvem du sloss mot — men hva de representerer.
 
@@ -63,7 +63,7 @@ Omsorg og protektivt instinkt — du kjemper for noe du holder kjært.
 
 ## Psykologiske og kulturelle perspektiver
 
-I norrøn tradisjon er kamp og strid ikke utelukkende negativt — einherjer i Valhall kjemper hver dag og samles om kvelden til fest. I beslektede drømmer kan du også oppleve å [drepe](/drommer/drepe) noen. Kampen er trening, den er ære, den er hvem man er. Å drømme om kamp i norsk kulturell sammenheng kan berøre denne arven av det verdige stridets estetikk.
+I norrøn tradisjon er kamp og strid ikke utelukkende negativt — einherjer i Valhall kjemper hver dag og samles om kvelden til fest. I beslektede drømmer kan du også oppleve å [drepe](/drommer/drepe/) noen. Kampen er trening, den er ære, den er hvem man er. Å drømme om kamp i norsk kulturell sammenheng kan berøre denne arven av det verdige stridets estetikk.
 
 Jung beskrev drømmens fiende som en av de viktigste gestalter i det ubevisste — fordi det vi kjemper mot gjerne er det vi trenger å integrere. Fienden er sjelden bare fiendtlig. Den er en del av deg som insisterer på å bli anerkjent.
 

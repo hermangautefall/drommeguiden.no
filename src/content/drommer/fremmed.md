@@ -32,7 +32,7 @@ En fremmed som er modig der du er forsiktig, eller kreativ der du er rigid, kan 
 
 ### Skyggen og det undertrykte
 
-Carl Jung kalte de sidene av oss vi ikke vedkjenner oss for "Skyggen" — og i drømmer tar Skyggen ofte form som en fremmed. Særlig hvis den ukjente personen i drømmen var truende, skremmende — som i drømmer om å bli [forfulgt](/drommer/forfulgt) — eller gjorde noe du ikke ville gjort — kan det handle om sider av deg selv du har undertrykket eller ikke vil vedkjenne deg.
+Carl Jung kalte de sidene av oss vi ikke vedkjenner oss for "Skyggen" — og i drømmer tar Skyggen ofte form som en fremmed. Særlig hvis den ukjente personen i drømmen var truende, skremmende — som i drømmer om å bli [forfulgt](/drommer/forfulgt/) — eller gjorde noe du ikke ville gjort — kan det handle om sider av deg selv du har undertrykket eller ikke vil vedkjenne deg.
 
 Å møte denne figuren i drømmen er ikke farlig — det er faktisk et tegn på at psyken arbeider med å integrere disse sidene.
 
@@ -52,10 +52,10 @@ En kvalitet du ønsker mer av — enten i deg selv eller i livet ditt.
 En ressurs i deg selv du ikke visste du hadde, eller et tegn på at støtte er tilgjengelig.
 
 **Hvis den fremmede var av motsatt kjønn:**
-I jungiansk tolkning kan dette representere din anima eller animus — den indre komplementære siden av psyken din. Se også [drømmer om kjæresten](/drommer/kjaereste) for mer om dette temaet.
+I jungiansk tolkning kan dette representere din anima eller animus — den indre komplementære siden av psyken din. Se også [drømmer om kjæresten](/drommer/kjaereste/) for mer om dette temaet.
 
 **Hvis det var mange fremmede:**
-Kan speile en situasjon der du føler deg anonym, oversett, eller der du ikke kjenner deg selv i omgivelsene dine. Det kan også minner om følelsen i drømmer om å være [naken](/drommer/naken).
+Kan speile en situasjon der du føler deg anonym, oversett, eller der du ikke kjenner deg selv i omgivelsene dine. Det kan også minner om følelsen i drømmer om å være [naken](/drommer/naken/).
 
 ## Psykologiske og kulturelle perspektiver
 

@@ -33,7 +33,7 @@ Blod i drømmer vekker nesten alltid sterke følelser. Det er et av de mest prim
 
 Den mest umiddelbare tolkningen av blod i drømmer er at du bærer på et emosjonelt sår. Akkurat som fysisk blødning viser at kroppen er skadet, kan blod i drømmen speile at noe i deg er skadet på et følelsesmessig plan. Kanskje har du opplevd et svik, et brudd, et tap eller en avvisning som har etterlatt et indre sår du ikke har behandlet.
 
-Det er verdt å legge merke til hvor blodet kommer fra i drømmen. Blod fra hendene kan handle om noe du har gjort — skyld eller anger. Blod fra hjertet eller brystet kan peke mot relasjonell smerte. Blod fra munnen kan knyttes til noe du har sagt, eller noe du ikke klarer å uttrykke. Se også drømmer om [tann](/drommer/tann), som ofte deler temaet om tap og sårbarhet i forbindelse med munnen.
+Det er verdt å legge merke til hvor blodet kommer fra i drømmen. Blod fra hendene kan handle om noe du har gjort — skyld eller anger. Blod fra hjertet eller brystet kan peke mot relasjonell smerte. Blod fra munnen kan knyttes til noe du har sagt, eller noe du ikke klarer å uttrykke. Se også drømmer om [tann](/drommer/tann/), som ofte deler temaet om tap og sårbarhet i forbindelse med munnen.
 
 Dersom du blør uten å vite hvorfor, kan drømmen speile et vagere ubehag — en følelse av at energien din forsvinner uten at du klarer å identifisere kilden. Du gir kanskje for mye av deg selv uten å fylle på igjen.
 
@@ -43,7 +43,7 @@ Blod er ikke bare et symbol på sår — det er også selve livskraften. I mange
 
 Denne tolkningen er særlig relevant dersom blodet i drømmen ikke fremkaller frykt, men snarere en følelse av kraft eller intensitet. Drømmer der blodet er levende rødt og livfullt, peker gjerne mot en periode med høy energi — kanskje kreativ, seksuell eller emosjonell. Du er levende, og drømmen bekrefter det.
 
-Men tolkningen kan også gå i en annen retning: dersom du mister mye blod i drømmen, kan det speile at livsenergien din er på vei ut. Du er kanskje utmattet, utbrent eller i en situasjon som tapper deg for krefter. Drømmen er en advarsel om at du trenger å ta vare på deg selv. Se også drømmer om [sykehus](/drommer/sykehus) for helbredelsesaspektet.
+Men tolkningen kan også gå i en annen retning: dersom du mister mye blod i drømmen, kan det speile at livsenergien din er på vei ut. Du er kanskje utmattet, utbrent eller i en situasjon som tapper deg for krefter. Drømmen er en advarsel om at du trenger å ta vare på deg selv. Se også drømmer om [sykehus](/drommer/sykehus/) for helbredelsesaspektet.
 
 ### Familie, tilhørighet og dype bånd
 
@@ -66,7 +66,7 @@ Peker ofte mot et personlig emosjonelt sår, energitap eller en følelse av sår
 Kan speile en bekymring for denne personen, eller at du føler deg maktesløs i møte med andres smerte. Det kan også handle om en del av deg selv du projiserer over på noen andre.
 
 **Hvis blodet er på hendene dine:**
-Knyttes ofte til skyld — en handling du har begått, eller en beslutning som har skadet noen. Se [hender](/drommer/hender) for mer om dette temaet.
+Knyttes ofte til skyld — en handling du har begått, eller en beslutning som har skadet noen. Se [hender](/drommer/hender/) for mer om dette temaet.
 
 **Hvis du ser blod uten en kilde:**
 Kan speile en vag uro — en følelse av at noe er galt uten at du klarer å sette fingeren på hva det er.

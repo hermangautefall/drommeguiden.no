@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om å komme for sent?
 
-Alarmen går ikke, bussen kjører idet du når holdeplassen, [toget](/drommer/tog) går uten deg, du løper gjennom tomme korridorer mens møtet allerede har startet — drømmer om å komme for sent er blant de vanligste og mest gjenkjennelige vi har. De gir en ubehagelig følelse av å miste kontrollen over tiden, og mange våkner faktisk og sjekker klokken i panikk.
+Alarmen går ikke, bussen kjører idet du når holdeplassen, [toget](/drommer/tog/) går uten deg, du løper gjennom tomme korridorer mens møtet allerede har startet — drømmer om å komme for sent er blant de vanligste og mest gjenkjennelige vi har. De gir en ubehagelig følelse av å miste kontrollen over tiden, og mange våkner faktisk og sjekker klokken i panikk.
 
 Det er nesten aldri en konkret tidsfrist drømmene handler om.
 
@@ -39,13 +39,13 @@ For-sent-drømmene dukker gjerne opp når noe faktisk nærmer seg sin naturlige 
 ## Hva påvirker tolkningen?
 
 **Hvis du løper men ikke kommer frem:**
-En følelse av å ikke ha kontroll over situasjonen, eller at beina svikter deg — beslektet med drømmer om [å falle](/drommer/falle) — maktesløshet i møte med krav.
+En følelse av å ikke ha kontroll over situasjonen, eller at beina svikter deg — beslektet med drømmer om [å falle](/drommer/falle/) — maktesløshet i møte med krav.
 
 **Hvis transporten uteblir eller svikter:**
 Noe du regner med å ha støtte fra fungerer ikke som ventet. Et system, en person, en plan.
 
 **Hvis du vet nøyaktig hva du er for sent til:**
-Det konkrete stedet eller arrangementet gir ledetråder — jobb, [skole](/drommer/skole), familiesammenkomst, alle symboliserer noe ulikt.
+Det konkrete stedet eller arrangementet gir ledetråder — jobb, [skole](/drommer/skole/), familiesammenkomst, alle symboliserer noe ulikt.
 
 **Hvis du til slutt klarte det:**
 Underbevistheten vet at du mestrer press bedre enn du tror. Et oppmuntrende tegn.
@@ -55,7 +55,7 @@ En sosial dimensjon — frykt for å skille seg ut, for å ikke høre til, for �
 
 ## Psykologiske og kulturelle perspektiver
 
-For-sent-drømmene er nært beslektet med [eksamensdrømmene](/drommer/eksamen) — begge speiler Persona-angsten: masken som kan briste under press. De er vanligst blant perfeksjonister, høytpresterende og folk med sterk pliktfølelse.
+For-sent-drømmene er nært beslektet med [eksamensdrømmene](/drommer/eksamen/) — begge speiler Persona-angsten: masken som kan briste under press. De er vanligst blant perfeksjonister, høytpresterende og folk med sterk pliktfølelse.
 
 Interessant nok er disse drømmene blitt vanligere i moderne tid — noe som kan henge sammen med at vår opplevelse av tid er blitt mer komprimert, mer kravfull og mer fylt med konkurrerende forpliktelser enn noen gang.
 

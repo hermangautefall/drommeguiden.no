@@ -61,13 +61,13 @@ En annen indikator: hvis du er søvnig i løpet av dagen uten koffein, sover du 
 
 Søvnbehovet handler ikke bare om timer — det handler om søvnkvalitet. Åtte timer med fragmentert, overfladisk søvn er ikke det samme som syv timer med sammenhengende, dyp søvn.
 
-Å øke søvnkvaliteten — gjennom bedre [søvnhygiene](/sovn/sovnhygiene), riktig søvnmiljø og konsistent rytme — kan gjøre at du føler deg mer uthvilt på færre timer, ikke fordi behovet er redusert, men fordi søvnen er mer effektiv.
+Å øke søvnkvaliteten — gjennom bedre [søvnhygiene](/sovn/sovnhygiene/), riktig søvnmiljø og konsistent rytme — kan gjøre at du føler deg mer uthvilt på færre timer, ikke fordi behovet er redusert, men fordi søvnen er mer effektiv.
 
 ## Søvnbehov og drømmene
 
 Drømmene er tett koblet til søvnbehov på en spesifikk måte: de siste 60–90 minuttene av en natt med tilstrekkelig søvn er uforholdsmessig rike på REM-søvn — den fasen der de mest livaktige og narrative drømmene oppstår.
 
-Å kutte en time av søvnen kutter primært denne siste REM-perioden — og du mister ikke bare søvntid, men den mest drømmerike og emosjonelt bearbeidende delen av søvnsyklusen. Se artikkelen om [søvnfaser](/sovn/sovnfaser) for mer om dette.
+Å kutte en time av søvnen kutter primært denne siste REM-perioden — og du mister ikke bare søvntid, men den mest drømmerike og emosjonelt bearbeidende delen av søvnsyklusen. Se artikkelen om [søvnfaser](/sovn/sovnfaser/) for mer om dette.
 
 ## Oppsummering
 
@@ -79,7 +79,7 @@ Søvnbehovet er individuelt — men de fleste trenger mer enn de tror:
 - Den beste måten å finne sitt søvnbehov: la kroppen sove uten vekkerklokke over noen dager
 - Søvnkvalitet teller like mye som timer — effektiv søvn gir mer enn mange timer med dårlig søvn
 
-Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Hva er søvn?](/sovn/hva-er-sovn) — [Søvnhygiene](/sovn/sovnhygiene)
+Les videre: [Søvnfaser forklart](/sovn/sovnfaser/) — [Hva er søvn?](/sovn/hva-er-sovn/) — [Søvnhygiene](/sovn/sovnhygiene/)
 
 ## Kilder
 

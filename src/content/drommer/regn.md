@@ -47,7 +47,7 @@ Men regn er også livets forutsetning. Uten regn vokser ingenting. I drømmeverd
 
 Denne tolkningen er spesielt sterk dersom drømmen inneholder elementer av natur som responderer på regnet: grønne blader, blomster som åpner seg, en tørr bakke som drikker vannet. Slike bilder peker mot at livet ditt er i en overgangsfase der det gamle har blitt vasket bort og noe nytt er klart til å gro.
 
-Drømmer om regn i en [skog](/drommer/skog) kan forsterke denne veksttematikken. Skogen er allerede et symbol på det ubevisste og naturlig vekst, og regnet tilfører næring til prosessen. Kombinasjonen peker mot en dyp, organisk forandring som skjer i sitt eget tempo.
+Drømmer om regn i en [skog](/drommer/skog/) kan forsterke denne veksttematikken. Skogen er allerede et symbol på det ubevisste og naturlig vekst, og regnet tilfører næring til prosessen. Kombinasjonen peker mot en dyp, organisk forandring som skjer i sitt eget tempo.
 
 ---
 
@@ -59,13 +59,13 @@ Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike t
 Tolkes gjerne som et tegn på helende prosesser, følelsesmessig balanse, eller en positiv forandring som er i gang.
 
 **Hvis regnet er kraftig og voldsomt:**
-Kan peke mot overveldende følelser eller en situasjon som føles ute av kontroll. Se også drømmer om [storm](/drommer/storm) for lignende tematikk.
+Kan peke mot overveldende følelser eller en situasjon som føles ute av kontroll. Se også drømmer om [storm](/drommer/storm/) for lignende tematikk.
 
 **Hvis du ser på regnet fra et vindu:**
 Kan symbolisere at du observerer dine egne følelser på avstand — kanskje beskyttet, men også litt distansert fra det som skjer inne i deg.
 
 **Hvis regnet fører til oversvømmelse:**
-Oversvømmelse i drømmer peker mot at følelsene truer med å ta overhånd. Det kan ha forbindelser til drømmer om å [drukne](/drommer/drukne), som handler om å bli overveldet av det emosjonelle.
+Oversvømmelse i drømmer peker mot at følelsene truer med å ta overhånd. Det kan ha forbindelser til drømmer om å [drukne](/drommer/drukne/), som handler om å bli overveldet av det emosjonelle.
 
 ---
 

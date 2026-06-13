@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om toalett?
 
-Toalettdrømmene er blant de vanligste vi har — og blant de minst snakket om. De kan ta mange former: du leter etter et toalett og finner ikke et som fungerer, toalettet er for synlig, du ikke får privatliv, eller alt bare flyter. Mange opplever også toalettdrømmer som en del av et større drømmescenario — for eksempel i et [hus](/drommer/hus) eller et [bad](/drommer/bad). Uavhengig av form bærer de på et konsistent sett av meninger.
+Toalettdrømmene er blant de vanligste vi har — og blant de minst snakket om. De kan ta mange former: du leter etter et toalett og finner ikke et som fungerer, toalettet er for synlig, du ikke får privatliv, eller alt bare flyter. Mange opplever også toalettdrømmer som en del av et større drømmescenario — for eksempel i et [hus](/drommer/hus/) eller et [bad](/drommer/bad/). Uavhengig av form bærer de på et konsistent sett av meninger.
 
 Og den enkleste tolkningen er også den som oftest stemmer: hjernen prøver å fortelle deg noe.
 
@@ -38,7 +38,7 @@ Drømmens toalett spør: hva trenger du å slippe ut, kvitte deg med, eller gi v
 
 ### Privatliv og eksponering
 
-Toalettet er kulturelt sett det mest private rommet vi har — og drømmene der det er for synlig, der det mangler vegger, der andre er til stede, handler om eksponering og manglende privatliv. Denne følelsen ligner den mange kjenner i drømmer om å være [naken](/drommer/naken) — at noe privat er blitt synlig for andre, at grensene dine ikke er respektert.
+Toalettet er kulturelt sett det mest private rommet vi har — og drømmene der det er for synlig, der det mangler vegger, der andre er til stede, handler om eksponering og manglende privatliv. Denne følelsen ligner den mange kjenner i drømmer om å være [naken](/drommer/naken/) — at noe privat er blitt synlig for andre, at grensene dine ikke er respektert.
 
 ### Press og prestasjonsangst
 

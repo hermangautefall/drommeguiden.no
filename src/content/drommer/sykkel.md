@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om sykkel?
 
-Der [bilen](/drommer/bil) er kraft og status, er sykkelen det selvdrevne, enkle og frigjørende alternativet. Du tråkker selv, du bestemmer farten, du balanserer med din egen kropp. I drømmeverdenen er sykkelen et særlig positivt og energigivende symbol — fordi den ikke jukser. Det er ditt eget arbeid som driver hjulene rundt.
+Der [bilen](/drommer/bil/) er kraft og status, er sykkelen det selvdrevne, enkle og frigjørende alternativet. Du tråkker selv, du bestemmer farten, du balanserer med din egen kropp. I drømmeverdenen er sykkelen et særlig positivt og energigivende symbol — fordi den ikke jukser. Det er ditt eget arbeid som driver hjulene rundt.
 
 Samtidig er sykkelen et symbol som krever noe av deg. Den balanserer kun i bevegelse, stopper du opp, faller den. Drømmens sykkel handler ofte om denne paradoksale balansen mellom innsats og letthet — det at noe i livet ditt fungerer fordi du holder det i gang, og slutter å fungere i det du gir slipp.
 
@@ -34,7 +34,7 @@ Sykkelen balanserer kun i bevegelse. Stå stille, og den faller. Drømmens sykke
 
 ### Frihet og letthet
 
-Sykkelen er frihetens kjøretøy — ingen bensinkostnader, ingen kø, bare åpen [vei](/drommer/vei). Drømmens sykkel kan representere en periode med ekte letthet, der det å bevege seg mot noe du vil føles enkelt og naturlig. Det er en av drømmeverdenens mest positive bevegelsessymboler når den dukker opp slik.
+Sykkelen er frihetens kjøretøy — ingen bensinkostnader, ingen kø, bare åpen [vei](/drommer/vei/). Drømmens sykkel kan representere en periode med ekte letthet, der det å bevege seg mot noe du vil føles enkelt og naturlig. Det er en av drømmeverdenens mest positive bevegelsessymboler når den dukker opp slik.
 
 ### En syklus i livet ditt
 
@@ -56,7 +56,7 @@ Noe krever mer innsats enn forventet. En oppoverbakke i en del av livet ditt.
 En situasjon der dynamisk balanse er vanskelig å opprettholde — kanskje du må gi slipp på noe.
 
 **Hvis du falt av sykkelen:**
-Balansen mistet. Se [falle](/drommer/falle) for utfyllende tolkning.
+Balansen mistet. Se [falle](/drommer/falle/) for utfyllende tolkning.
 
 **Hvis sykkelen var uten bremser:**
 Noe beveger seg for fort til å kontrolleres. Et tempo du ikke har designet selv.
@@ -72,7 +72,7 @@ Tilhørighet og kollektiv bevegelse — du er del av noe større som driver frem
 
 ## Psykologiske og kulturelle perspektiver
 
-Sykkelen er ett av få moderne symboler som krysser nesten alle kulturer som et bilde på den "lille frihetens" transportmiddel. I norsk kultur er den både barndomssymbol — den første store frihetsfølelsen som [barn](/drommer/barn) — og et stadig viktigere voksent hverdagsvalg knyttet til miljø og helse.
+Sykkelen er ett av få moderne symboler som krysser nesten alle kulturer som et bilde på den "lille frihetens" transportmiddel. I norsk kultur er den både barndomssymbol — den første store frihetsfølelsen som [barn](/drommer/barn/) — og et stadig viktigere voksent hverdagsvalg knyttet til miljø og helse.
 
 I store deler av Asia, særlig Kina og Vietnam, har sykkelen historisk vært arbeiderklassens kjøretøy og symbolet på den vanlige menneskers selvstendighet — det å kunne forflytte seg av egen kraft uten å være avhengig av rikere strukturer. I deler av Afrika er sykkelen kritisk infrastruktur for utdanning og handel, og symboliserer mobilitet som direkte løfter livet.
 

@@ -51,7 +51,7 @@ Fase 1 og 2 er lett søvn, der du lett kan vekkes og hjernen begynner å bremse 
 
 Dyp søvn dominerer i nattens første halvdel, REM-søvn i den andre. En full natt gir deg begge deler — og det er grunnen til at konsekvent for lite søvn er så skadelig: du kutter alltid fra den delen du trenger mest.
 
-Les mer i vår detaljerte guide: [Søvnfaser — hva skjer i REM, lett og dyp søvn](/sovn/sovnfaser).
+Les mer i vår detaljerte guide: [Søvnfaser — hva skjer i REM, lett og dyp søvn](/sovn/sovnfaser/).
 
 ## Drømmene — søvnens dypeste lag
 
@@ -59,7 +59,7 @@ Drømmene er søvnens mest fascinerende dimensjon. De skjer primært under REM-s
 
 Carl Jung og Sigmund Freud mente begge at drømmene kommuniserer noe vesentlig fra det ubevisste. Moderne søvnforskning bekrefter ikke all mytologien, men det den bekrefter er at drømmene har en reell funksjon: uten tilstrekkelig REM-søvn er emosjonell bearbeiding kraftig redusert, og risikoen for angst og depresjon øker.
 
-Ønsker du å forstå drømmenes symbolspråk dypere? Les guiden vår om [hva drømmene betyr og hvordan du tolker dem](/guider/hva-er-drommer).
+Ønsker du å forstå drømmenes symbolspråk dypere? Les guiden vår om [hva drømmene betyr og hvordan du tolker dem](/guider/hva-er-drommer/).
 
 ## Konsekvensene av for lite søvn
 
@@ -88,7 +88,7 @@ Søvn er ikke passivt — det er en av kroppens mest avanserte biologiske proses
 - Kronisk søvnmangel øker risiko for alvorlige helsetilstander
 - Drømmene er søvnens psykologiske kjerne — og de har en dokumentert funksjon
 
-Videre lesing: [Søvnfaser i detalj](/sovn/sovnfaser) — [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi) — [Søvnhygiene: 12 vaner for bedre søvn](/sovn/sovnhygiene)
+Videre lesing: [Søvnfaser i detalj](/sovn/sovnfaser/) — [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi/) — [Søvnhygiene: 12 vaner for bedre søvn](/sovn/sovnhygiene/)
 
 ## Kilder
 

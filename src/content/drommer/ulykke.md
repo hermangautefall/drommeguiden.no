@@ -35,7 +35,7 @@ Ulykker bringer med seg spørsmål om skyld: hvem hadde ansvaret, hvem burde ha 
 
 ### Et varsel om å ta mer hensyn
 
-Noen ganger er ulykkedrømmene mer pragmatiske: en påminnelse om å bremse opp, å ta hensyn, å ikke ta risiko man egentlig vet er uforsvarlig. Ulykker i drøm involverer ofte [biler](/drommer/bil), [blod](/drommer/blod) eller et besøk på sykehuset. Hjernen er en mønstergjenkjenner; den ser ting du ikke har tenkt på i våken tilstand.
+Noen ganger er ulykkedrømmene mer pragmatiske: en påminnelse om å bremse opp, å ta hensyn, å ikke ta risiko man egentlig vet er uforsvarlig. Ulykker i drøm involverer ofte [biler](/drommer/bil/), [blod](/drommer/blod/) eller et besøk på sykehuset. Hjernen er en mønstergjenkjenner; den ser ting du ikke har tenkt på i våken tilstand.
 
 ### En indre kollisjon eller sammenbrudd
 

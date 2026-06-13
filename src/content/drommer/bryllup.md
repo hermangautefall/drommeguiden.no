@@ -37,7 +37,7 @@ Kanskje du er i ferd med å ta en avgjørelse som vil forme livets ditt i lang t
 
 Hvis bryllupet i drømmen føltes fint og gledefylt, kan det tolkes som at du er klar for forpliktelsen. Du er klar for å si ja. Men hvis bryllupet skapte uro eller frykt, kan det signalisere ambivalens — at en del av deg ikke er helt sikker.
 
-Denne forpliktelses-tematikken deler bryllupsdrømmen med drømmer om [hus](/drommer/hus), som også handler om stabilitet, forankring og det å bygge noe varig.
+Denne forpliktelses-tematikken deler bryllupsdrømmen med drømmer om [hus](/drommer/hus/), som også handler om stabilitet, forankring og det å bygge noe varig.
 
 ### Forening av indre motsetninger
 
@@ -47,7 +47,7 @@ Denne tolkningen er spesielt relevant hvis du merker at du er i en personlig utv
 
 Bryllupet representerer da øyeblikket der de to sidene møtes og anerkjenner hverandre. Det er en feiring av helhet — av det å bli mer komplett som menneske. Denne tolkningen peker ikke utover mot en annen person, men innover mot deg selv.
 
-Drømmer om [eksen](/drommer/eksen) kan noen ganger ha en lignende funksjon — ikke som et ønske om gjenforening med personen, men som et uttrykk for å integrere det relasjonen lærte deg.
+Drømmer om [eksen](/drommer/eksen/) kan noen ganger ha en lignende funksjon — ikke som et ønske om gjenforening med personen, men som et uttrykk for å integrere det relasjonen lærte deg.
 
 ### Frykt, press og tap av frihet
 
@@ -55,7 +55,7 @@ Ikke alle bryllupsdrømmer er lykkelige. Mange drømmer om bryllup som går galt
 
 Denne typen drøm kan gjenspeile en frykt for tap av frihet. Å forplikte seg betyr å lukke andre dører, og den frykten er helt naturlig. Kanskje du kjenner på et press — fra partner, familie eller samfunn — om å ta et steg du ikke er helt klar for.
 
-Drømmer der du er på vei til et bryllup men ikke kommer frem, kan handle om ambivalens eller en følelse av å bli dratt i en retning du ikke har valgt selv. Drømmer der du plutselig oppdager at du er [naken](/drommer/naken) i bryllupet, forsterker følelsen av sårbarhet og eksponering — du føler deg avkledd foran andres forventninger.
+Drømmer der du er på vei til et bryllup men ikke kommer frem, kan handle om ambivalens eller en følelse av å bli dratt i en retning du ikke har valgt selv. Drømmer der du plutselig oppdager at du er [naken](/drommer/naken/) i bryllupet, forsterker følelsen av sårbarhet og eksponering — du føler deg avkledd foran andres forventninger.
 
 Det er viktig å understreke at disse drømmene ikke betyr at du bør unngå forpliktelser. De inviterer deg snarere til å undersøke om forpliktelsen føles riktig for deg — og om du gjør det for din egen skyld eller for andres.
 
@@ -75,7 +75,7 @@ Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike t
 Kaos i et bryllup — forsinket prest, ødelagt kjole, manglende gjester — kan symbolisere angst for at noe viktig i livet ikke går som planlagt. Det handler sjelden om bryllup i seg selv, men om den dypere frykten for at ting faller fra hverandre.
 
 **Hvis du rømte fra bryllupet:**
-Å flykte fra et bryllup i drømmen kan tolkes som et sterkt ønske om å unnslippe en forpliktelse som føles feil. Drømmen ber deg være ærlig med deg selv om hva du egentlig vil. Drømmer om [baby](/drommer/baby) kan gi lignende refleksjoner om ansvar og nye forpliktelser.
+Å flykte fra et bryllup i drømmen kan tolkes som et sterkt ønske om å unnslippe en forpliktelse som føles feil. Drømmen ber deg være ærlig med deg selv om hva du egentlig vil. Drømmer om [baby](/drommer/baby/) kan gi lignende refleksjoner om ansvar og nye forpliktelser.
 
 ---
 

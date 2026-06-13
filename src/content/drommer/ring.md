@@ -24,7 +24,7 @@ Ringen er ett av de mest arketypiske symbolene i menneskelig kultur — sirkelen
 
 ### Forpliktelse og løfter
 
-Den vanligste tolkningen av ringer i drømmene handler om forpliktelse — å gi sitt ord, å binde seg til noe eller noen. En [forlovelsesring](/drommer/bryllup) eller giftering peker mot [kjærlighetens](/drommer/kjaereste) løfter. Men ringen kan også representere en forpliktelse til et prosjekt, en verdi eller en retning i livet.
+Den vanligste tolkningen av ringer i drømmene handler om forpliktelse — å gi sitt ord, å binde seg til noe eller noen. En [forlovelsesring](/drommer/bryllup/) eller giftering peker mot [kjærlighetens](/drommer/kjaereste/) løfter. Men ringen kan også representere en forpliktelse til et prosjekt, en verdi eller en retning i livet.
 
 Drømmen spør: hva er du bundet til, og ønsker du det?
 
@@ -39,7 +39,7 @@ Ringen er i mange kulturer et tilhørighetsmerke — du er del av noe, du tilhø
 ## Hva påvirker tolkningen?
 
 **Hvis du fikk en ring:**
-Noen forplikter seg til deg, eller du mottar en [gave](/drommer/blomst) av varig verdi.
+Noen forplikter seg til deg, eller du mottar en [gave](/drommer/blomst/) av varig verdi.
 
 **Hvis du ga bort en ring:**
 Du forplikter deg, du gir av deg selv til noe eller noen.
@@ -48,10 +48,10 @@ Du forplikter deg, du gir av deg selv til noe eller noen.
 Frykt for å miste en tilknytning, et løfte eller en forpliktelse som er viktig.
 
 **Hvis ringen var vakker og verdifull:**
-Noe i livet ditt er [verdifullt](/drommer/penger) og varig — anerkjenn det.
+Noe i livet ditt er [verdifullt](/drommer/penger/) og varig — anerkjenn det.
 
 **Hvis ringen var knust eller ødelagt:**
-Et løfte eller en forpliktelse er [brutt](/drommer/eksen) — eller i fare for å brytes.
+Et løfte eller en forpliktelse er [brutt](/drommer/eksen/) — eller i fare for å brytes.
 
 ## Psykologiske og kulturelle perspektiver
 

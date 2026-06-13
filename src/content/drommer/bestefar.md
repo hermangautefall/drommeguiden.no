@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om bestefaren din?
 
-Der [bestemoren](/drommer/bestemor) er den vise, nærende og varme feminine arketypen, er bestefaren den maskuline visdomsfiguren — han som har sett mye, levd lenge og bærer på en erfaring som ikke kan kjøpes. I drømmene representerer han noe urgammelt og solid: en arv, en autoritet, en linje bakover i tid.
+Der [bestemoren](/drommer/bestemor/) er den vise, nærende og varme feminine arketypen, er bestefaren den maskuline visdomsfiguren — han som har sett mye, levd lenge og bærer på en erfaring som ikke kan kjøpes. I drømmene representerer han noe urgammelt og solid: en arv, en autoritet, en linje bakover i tid.
 
 ## De vanligste tolkningene
 
@@ -30,7 +30,7 @@ Hva ville bestefaren din ha sagt om situasjonen du er i nå?
 
 ### Autoritet og tradisjon
 
-Bestefaren representerer i mange familier den overordnede autoriteten — hushovdet, patriarken, han som setter standarden. Å drømme om ham kan handle om din relasjon til autoritet og tradisjon: hva har du arvet, hva holder du fast ved, og hva er du i ferd med å bryte med? Se også drømmer om [far](/drommer/far).
+Bestefaren representerer i mange familier den overordnede autoriteten — hushovdet, patriarken, han som setter standarden. Å drømme om ham kan handle om din relasjon til autoritet og tradisjon: hva har du arvet, hva holder du fast ved, og hva er du i ferd med å bryte med? Se også drømmer om [far](/drommer/far/).
 
 ### Slektens arv og mannlig identitet
 
@@ -48,7 +48,7 @@ En gave av erfaring eller verdi — hva ga han, og hva representerer det?
 Noe i den maskuline arven er under press eller i ferd med å forsvinne.
 
 **Hvis han var avdød men levende i drømmen:**
-Et av de mest trøstende besøkene — et møte som gir noe som ellers ville gått tapt. Se også [avdød person i drøm](/drommer/avdod-person).
+Et av de mest trøstende besøkene — et møte som gir noe som ellers ville gått tapt. Se også [avdød person i drøm](/drommer/avdod-person/).
 
 **Hvis dere hadde en god samtale:**
 Noe avklares mellom generasjonene — en forsoning eller en veiledning.

@@ -61,7 +61,7 @@ Forpliktelsen handler ikke om en person, men om noe symbolsk — en livsretning,
 Noe hindrer deg i å gå fullt inn. Hva er det som stopper deg?
 
 **Ringen som symbol:**
-Se [ring](/drommer/ring) for en grundig gjennomgang av ringens symbolikk — sirkelen uten begynnelse eller slutt.
+Se [ring](/drommer/ring/) for en grundig gjennomgang av ringens symbolikk — sirkelen uten begynnelse eller slutt.
 
 ## Psykologiske og kulturelle perspektiver
 

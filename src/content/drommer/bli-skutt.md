@@ -54,7 +54,7 @@ Beina: et angrep på det som bærer deg og gir deg retning.
 
 ### Bearbeiding av faktisk vold eller traumer
 
-For dem som har vært utsatt for faktisk vold, trusler eller traumatiske hendelser: drømmens skudd kan være direkte bearbeiding av disse erfaringene. Se guiden om [PTSD og drømmer](/sovn/ptsd-drommer) for mer om dette.
+For dem som har vært utsatt for faktisk vold, trusler eller traumatiske hendelser: drømmens skudd kan være direkte bearbeiding av disse erfaringene. Se guiden om [PTSD og drømmer](/sovn/ptsd-drommer/) for mer om dette.
 
 ## Hva påvirker tolkningen?
 

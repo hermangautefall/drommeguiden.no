@@ -29,7 +29,7 @@ Uansett kjønn, alder og livssituasjon kan du drømme om graviditet.
 
 ### Noe nytt vokser frem
 
-Den vanligste og mest universelle tolkningen av drømmer om graviditet handler om vekst og nye begynnelser. Et prosjekt, en idé, en relasjon, en kreativ prosess — noe er i sin begynnelsesfase, sårbart og fullt av potensial. Det minner om tolkningen av drømmer om [barn](/drommer/barn) og [baby](/drommer/baby). Du bærer på noe som ikke er ferdig ennå, men som er på vei til å bli noe reelt.
+Den vanligste og mest universelle tolkningen av drømmer om graviditet handler om vekst og nye begynnelser. Et prosjekt, en idé, en relasjon, en kreativ prosess — noe er i sin begynnelsesfase, sårbart og fullt av potensial. Det minner om tolkningen av drømmer om [barn](/drommer/barn/) og [baby](/drommer/baby/). Du bærer på noe som ikke er ferdig ennå, men som er på vei til å bli noe reelt.
 
 Drømmen kan komme i perioder der du har startet noe nytt, eller der noe er i ferd med å endre seg i livet ditt på et grunnleggende nivå.
 
@@ -58,13 +58,13 @@ Usikkerhet om opprinnelsen til noe nytt i livet ditt — et prosjekt, en følels
 Noe er klart til å realisere seg — en idé, et prosjekt eller en forandring er klar for å tre frem i verden.
 
 **Hvis du var redd for å miste barnet:**
-Angst for å mislykkes med noe du har investert mye i. En sårbarhet knyttet til noe viktig — en følelse som også kan vise seg som drømmer om å [miste noe](/drommer/miste-noe).
+Angst for å mislykkes med noe du har investert mye i. En sårbarhet knyttet til noe viktig — en følelse som også kan vise seg som drømmer om å [miste noe](/drommer/miste-noe/).
 
 ## Psykologiske og kulturelle perspektiver
 
 Graviditetsdrømmer er studert bredt i drømmeforskning og beskrives konsekvent som noen av de mest symbolsk rike drømmene vi kan ha. De opptrer på tvers av kjønn, alder og kultur — noe som understreker at de handler om et universalt menneskelig fenomen: skapelsen av noe nytt.
 
-I mange kulturer og tradisjoner er graviditet i drøm sett på som et godt tegn — et varsel om velstand, vekst og gode ting på vei. I norsk folkloretradisjon — noe du kan lese mer om i vår guide om [hva drømmer er](/guider/hva-er-drommer) — var slike drømmer gjerne fortolket som tegn på fruktbarhet i videste forstand — ikke bare av mennesker, men av planer og livsprosjekter.
+I mange kulturer og tradisjoner er graviditet i drøm sett på som et godt tegn — et varsel om velstand, vekst og gode ting på vei. I norsk folkloretradisjon — noe du kan lese mer om i vår guide om [hva drømmer er](/guider/hva-er-drommer/) — var slike drømmer gjerne fortolket som tegn på fruktbarhet i videste forstand — ikke bare av mennesker, men av planer og livsprosjekter.
 
 ## Drømmeguiden anbefaler
 

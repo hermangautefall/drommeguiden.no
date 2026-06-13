@@ -36,7 +36,7 @@ En kjærest eller partner: et ønske om nærhet i forholdet — kanskje noe har 
 
 En venn: et ønske om nærere, mer åpen kontakt med denne personen.
 
-En fremmed: psyken ønsker å nærme seg en ukjent side av seg selv (se [fremmed-sex](/drommer/fremmed-sex)).
+En fremmed: psyken ønsker å nærme seg en ukjent side av seg selv (se [fremmed-sex](/drommer/fremmed-sex/)).
 
 En overordnet eller autoritær figur: søken etter godkjennelse og anerkjennelse fra dem.
 

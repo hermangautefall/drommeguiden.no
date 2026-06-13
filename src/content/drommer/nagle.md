@@ -70,7 +70,7 @@ Negler har en overraskende rik folkloristisk tradisjon. I norsk folkemedisin og 
 
 I japansk shinto-tradisjon er negler og hår de kroppsdelene som er nærmest forbundet med den levende ånden (tamashii) — de vokser etter død, de bærer personens essens.
 
-Psykologisk interessant er den klassiske drømmesymbolets forveksling mellom negler og [tenner](/drommer/tann) — begge handler om ytre uttrykk, grenser og kontroll, og begge har høy forekomst i angstdrømmer. Der tenner primært speiler kommunikasjon og selvtillit, speiler negler i større grad vern og grep.
+Psykologisk interessant er den klassiske drømmesymbolets forveksling mellom negler og [tenner](/drommer/tann/) — begge handler om ytre uttrykk, grenser og kontroll, og begge har høy forekomst i angstdrømmer. Der tenner primært speiler kommunikasjon og selvtillit, speiler negler i større grad vern og grep.
 
 ## Drømmeguiden anbefaler
 

@@ -40,7 +40,7 @@ Det er interessant å merke seg at det sjelden er andre i drømmen som reagerer 
 
 En annen vanlig tolkning er at nakendrømmen handler om en frykt for å bli avslørt — at noen skal se gjennom fasaden din og oppdage noe du helst vil holde skjult. Det trenger ikke være en hemmelighet i dramatisk forstand. Det kan like gjerne handle om en usikkerhet du bærer på: at du egentlig ikke er så kompetent som andre tror, at du spiller en rolle som ikke er ekte, eller at det finnes en side av deg du er redd for å vise frem.
 
-Denne tolkningen er særlig sterk dersom drømmen utspiller seg i en prestasjonssituasjon — for eksempel på [skolen](/drommer/skole), i et møte eller på en scene. Kombinasjonen av nakenhet og prestasjon peker mot det som kalles "bedragersyndromet": følelsen av at du ikke fortjener plassen din og at det bare er et spørsmål om tid før noen oppdager det.
+Denne tolkningen er særlig sterk dersom drømmen utspiller seg i en prestasjonssituasjon — for eksempel på [skolen](/drommer/skole/), i et møte eller på en scene. Kombinasjonen av nakenhet og prestasjon peker mot det som kalles "bedragersyndromet": følelsen av at du ikke fortjener plassen din og at det bare er et spørsmål om tid før noen oppdager det.
 
 Drømmer du om å stå naken foran en spesifikk person — en sjef, en partner, en forelder — kan drømmen peke mot en konkret relasjon der du føler deg utsatt for dom.
 
@@ -50,7 +50,7 @@ Ikke alle nakendrømmer er ubehagelige. Noen ganger drømmer du at du er naken o
 
 Denne tolkningen handler om autentisitet. Du er kanskje lei av å tilpasse deg andres forventninger, trøtt av å spille en rolle, og klar for å bare være deg selv. Drømmen gir deg en smakebit på hvordan det ville føles — og kanskje oppfordrer den deg til å ta skrittet i våkenlivet også.
 
-Se også drømmer om [speil](/drommer/speil), som kan utdype temaet om selvbilde og det å møte seg selv slik man virkelig er. Det å se seg selv naken i et speil i en drøm kan være en kraftfull opplevelse av selvkonfrontasjon.
+Se også drømmer om [speil](/drommer/speil/), som kan utdype temaet om selvbilde og det å møte seg selv slik man virkelig er. Det å se seg selv naken i et speil i en drøm kan være en kraftfull opplevelse av selvkonfrontasjon.
 
 ---
 

@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om hodet?
 
-Hodet er i nesten alle kulturer og tradisjoner setet for bevisstheten — stedet der tanker oppstår, der identitet bor, der selvet er. Det står i kontrast til [hjertet](/drommer/hjerte), som i symbolikken bærer følelsene. Å drømme om hodet er dermed å drømme om noe av det mest grunnleggende ved deg: hvem du er og hvordan du tenker.
+Hodet er i nesten alle kulturer og tradisjoner setet for bevisstheten — stedet der tanker oppstår, der identitet bor, der selvet er. Det står i kontrast til [hjertet](/drommer/hjerte/), som i symbolikken bærer følelsene. Å drømme om hodet er dermed å drømme om noe av det mest grunnleggende ved deg: hvem du er og hvordan du tenker.
 
 Disse drømmene kan ta mange former — et hode du ser, et eget hode som er annerledes enn vanlig, et hode som forsvinner eller endrer seg. Alle bærer på et budskap om tanken, identiteten og bevisstheten.
 
@@ -34,7 +34,7 @@ Drømmens budskap om hodet er gjerne direkte: noe i ditt indre liv, i din tenkni
 
 Drømmer der hodet er for tungt, vondt eller overfylt er svært vanlige i perioder med stress og bekymring. Hjernen bruker sitt eget fysiske bilde — hodet — for å kommunisere at det er for mye der inne. For mange tanker, for mange bekymringer, for mye som skal holdes i bevisstheten på én gang.
 
-Disse drømmene er et tydelig signal: du trenger å avlaste hodet ditt. Skriv ned det du tenker i en [drømmejournal](/guider/drommejournalen), snakk med noen, eller finn et rom for stillhet.
+Disse drømmene er et tydelig signal: du trenger å avlaste hodet ditt. Skriv ned det du tenker i en [drømmejournal](/guider/drommejournalen/), snakk med noen, eller finn et rom for stillhet.
 
 ### Fornuft i konflikt med følelse
 
@@ -58,7 +58,7 @@ Kognitiv overbelastning og behov for hvile. For mye tenkning, for lite pusterom.
 Identiteten er i forandring — du er i ferd med å tenke annerledes om deg selv eller verden.
 
 **Hvis hodet var borte eller adskilt fra kroppen:**
-En sterk dissosiasjon mellom tanke og kropp — du lever for mye i hodet og for lite i kroppen og følelsene. Se også [øyne](/drommer/oyne) og [hender](/drommer/hender) for andre kroppssymboler.
+En sterk dissosiasjon mellom tanke og kropp — du lever for mye i hodet og for lite i kroppen og følelsene. Se også [øyne](/drommer/oyne/) og [hender](/drommer/hender/) for andre kroppssymboler.
 
 **Hvis du så en annens hode:**
 Hva den personen representerer for deg — deres måte å tenke på, deres perspektiv.

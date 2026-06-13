@@ -18,7 +18,7 @@ relaterte_sovn:
   - sovn-graviditet
 ---
 
-## Hva betyr det å drømme om en [baby](/drommer/baby) — og hva betyr kjønnet?
+## Hva betyr det å drømme om en [baby](/drommer/baby/) — og hva betyr kjønnet?
 
 Den generelle baby-symbolikken er godt kjent: et nytt begynnelse, en ny side av deg selv, et prosjekt eller en livsfase i sin tidligste og mest sårbare form. Men mange lurer på: betyr det noe om det er en gutt eller en jente?
 
@@ -73,7 +73,7 @@ Usikkerhet om ansvar og evne — er du klar for det det nye krever av deg?
 Det nye i deg er mer utviklet enn du tror — det har allerede noe å si deg.
 
 **Hvis du mistet babyen:**
-Se [miste-baby](/drommer/miste-baby) — det er et eget og viktig symbol.
+Se [miste-baby](/drommer/miste-baby/) — det er et eget og viktig symbol.
 
 ## Psykologiske og kulturelle perspektiver
 

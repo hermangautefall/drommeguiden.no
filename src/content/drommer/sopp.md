@@ -28,11 +28,11 @@ I drømmene er soppen alt dette.
 
 Det primære sopp-symbolet er nettopp det skjulte: vekst som skjer ute av syne, forbindelser som ikke er synlige på overflaten, prosesser som er i gang men ikke åpenbare. I drømmene kan soppen speile noe i livet ditt som vokser stille og sikkert uten at du nødvendigvis ser det: et prosjekt som modnes, en relasjon som dypner, en forståelse som sakte trer frem.
 
-Mykeliets nettverk — der trær i en [skog](/drommer/skog) kommuniserer og nærer hverandre gjennom sopp-tråder — er blitt et kraftig kulturelt symbol for usynlig forbundethet. Drømmens sopp kan speile dette: du er mer koblet til andre og til livet enn det er synlig.
+Mykeliets nettverk — der trær i en [skog](/drommer/skog/) kommuniserer og nærer hverandre gjennom sopp-tråder — er blitt et kraftig kulturelt symbol for usynlig forbundethet. Drømmens sopp kan speile dette: du er mer koblet til andre og til livet enn det er synlig.
 
 ### Transformasjon i grensesjiktet
 
-Sopp bryter ned det døde og gjør det om til ny næring. De lever i grensesjiktet mellom slutt og begynnelse, mellom det som ikke lenger er og det som ennå ikke er. I drømmene er dette et bilde på transformasjon og nedbrytingsprosesser som er nødvendige: noe gammelt må råtne for at noe nytt skal ha [jord](/drommer/jord) å vokse i.
+Sopp bryter ned det døde og gjør det om til ny næring. De lever i grensesjiktet mellom slutt og begynnelse, mellom det som ikke lenger er og det som ennå ikke er. I drømmene er dette et bilde på transformasjon og nedbrytingsprosesser som er nødvendige: noe gammelt må råtne for at noe nytt skal ha [jord](/drommer/jord/) å vokse i.
 
 ### Vekst i mørket — intuisjon og det ubevisste
 

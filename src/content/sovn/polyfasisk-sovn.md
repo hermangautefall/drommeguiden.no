@@ -71,7 +71,7 @@ Polyfasisk søvn er fascinerende, men de mest ekstreme variantene er ikke bærek
 - En 20–30 minutters lur tidlig ettermiddag er veldokumentert og trygt
 - Polyfasisk søvn er interessant for lucide drømmere, ikke som produktivitetshack
 
-Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Søvnbehovet ditt](/sovn/sovnbehov) — [Lucid dreaming](/guider/lucid-dromming)
+Les videre: [Søvnfaser forklart](/sovn/sovnfaser/) — [Søvnbehovet ditt](/sovn/sovnbehov/) — [Lucid dreaming](/guider/lucid-dromming/)
 
 ## Kilder
 

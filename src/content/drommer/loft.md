@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om loft?
 
-Der [kjelleren](/drommer/kjeller) er det ubevisste og mørke, er loftet noe annet — det er der vi lagrer det vi ikke lenger bruker aktivt, men som vi heller ikke vil kaste. Minner, gamle eiendeler, deler av livet vi har lagt bak oss. Og i Jungs psykologiske [hus](/drommer/hus)arkitektur representerer de øvre etasjene den høyere bevisstheten og intellektet.
+Der [kjelleren](/drommer/kjeller/) er det ubevisste og mørke, er loftet noe annet — det er der vi lagrer det vi ikke lenger bruker aktivt, men som vi heller ikke vil kaste. Minner, gamle eiendeler, deler av livet vi har lagt bak oss. Og i Jungs psykologiske [hus](/drommer/hus/)arkitektur representerer de øvre etasjene den høyere bevisstheten og intellektet.
 
 Loftet er stedet for det som venter på å bli husket igjen.
 

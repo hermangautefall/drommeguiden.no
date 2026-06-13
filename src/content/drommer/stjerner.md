@@ -21,7 +21,7 @@ relaterte_sovn:
 
 ## Hva betyr det å drømme om stjerner?
 
-Stjernene er menneskekulturens eldste navigasjonspunkter — de har guidet sjøfarere, fortalt historier og representert alt fra guder til avdøde sjeler. I drømmene deler de [himmelens](/drommer/himmel) symbolikk om noe som er høyere og større. I drømmeverdenen bærer de på denne rikdommen: de er håpets symboler, rettningens tegn, og minnelser om at noe er der oppe langt utover hverdagens horisont.
+Stjernene er menneskekulturens eldste navigasjonspunkter — de har guidet sjøfarere, fortalt historier og representert alt fra guder til avdøde sjeler. I drømmene deler de [himmelens](/drommer/himmel/) symbolikk om noe som er høyere og større. I drømmeverdenen bærer de på denne rikdommen: de er håpets symboler, rettningens tegn, og minnelser om at noe er der oppe langt utover hverdagens horisont.
 
 ## De vanligste tolkningene
 
@@ -52,13 +52,13 @@ Noe som sto fast er i bevegelse — store endringer er på gang.
 En transcendent opplevelse — å heve seg over det jordlige og se livet fra kosmisk avstand.
 
 **Hvis himmelen var mørk uten stjerner:**
-Mørke, desorientering og mangel på håp. Noe har skjult ledetegnene for deg. Se også [mørkt rom](/drommer/morkt-rom) for drømmer om mørke.
+Mørke, desorientering og mangel på håp. Noe har skjult ledetegnene for deg. Se også [mørkt rom](/drommer/morkt-rom/) for drømmer om mørke.
 
 ## Psykologiske og kulturelle perspektiver
 
 Stjernene er i norrøn tradisjon spredd fra gnistene i Muspelheim — skapt i skapelsens kaos, plassert av gudene for å lyse opp nattehimmelen. Å drømme om stjerner i norsk kontekst berører noe av den første skapelseskraften — noe urgammelt og strålende.
 
-Astronomisk sett er vi alle skapt av stjernestøv — og denne erkjennelsen, at vi bokstavelig talt er del av kosmos, gir stjernene en symbolsk dybde som overskrider mytologien. Se også [månen](/drommer/mane) og [solen](/drommer/sol) for beslektede himmellegeme-symboler.
+Astronomisk sett er vi alle skapt av stjernestøv — og denne erkjennelsen, at vi bokstavelig talt er del av kosmos, gir stjernene en symbolsk dybde som overskrider mytologien. Se også [månen](/drommer/mane/) og [solen](/drommer/sol/) for beslektede himmellegeme-symboler.
 
 ## Drømmeguiden anbefaler
 

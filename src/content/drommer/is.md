@@ -59,9 +59,9 @@ En sterk opplevelse av å være fastlåst og ute av stand til å bevege seg.
 
 ## Psykologiske og kulturelle perspektiver
 
-For nordmenn er is ikke et eksotisk symbol — det er hverdagen en del av året. Is kan også forbindes med [snø](/drommer/sno) og det frosne [havet](/drommer/hav). Is på veiene, is på innsjøen, isen som bærer eller svikter. Isens symbolikk er dypt forankret i nordisk erfaring: vi vet hva det vil si at isen bærer, og vi vet hva det vil si at den gir etter.
+For nordmenn er is ikke et eksotisk symbol — det er hverdagen en del av året. Is kan også forbindes med [snø](/drommer/sno/) og det frosne [havet](/drommer/hav/). Is på veiene, is på innsjøen, isen som bærer eller svikter. Isens symbolikk er dypt forankret i nordisk erfaring: vi vet hva det vil si at isen bærer, og vi vet hva det vil si at den gir etter.
 
-I norrøn kosmologi er Niflheim — isens og kuldets rike — et av de to urspringene til eksistensen, i motsetning til Muspelheims [ild](/drommer/ild). Frost og is er ikke bare negativt — det er halvparten av skapelsens råmateriale.
+I norrøn kosmologi er Niflheim — isens og kuldets rike — et av de to urspringene til eksistensen, i motsetning til Muspelheims [ild](/drommer/ild/). Frost og is er ikke bare negativt — det er halvparten av skapelsens råmateriale.
 
 ## Drømmeguiden anbefaler
 

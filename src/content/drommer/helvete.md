@@ -41,7 +41,7 @@ Disse drømmene er spesielt vanlige hos dem med streng religiøs oppdragelse, de
 
 ### Følelsen av å være fanget i det destruktive
 
-Helvete i drømmene kan også representere en destruktiv syklus du ikke greier å bryte — en relasjon som gjør vondt men som du ikke forlater, en avhengighet. Se også drømmer om [fengsel](/drommer/fengsel) for lignende symbolikk om å være fanget, en situasjon der alt føles feil men der utveien ikke er synlig. Drømmens ild og smerte er bildet på det som brenner og ødelegger uten å gi varme.
+Helvete i drømmene kan også representere en destruktiv syklus du ikke greier å bryte — en relasjon som gjør vondt men som du ikke forlater, en avhengighet. Se også drømmer om [fengsel](/drommer/fengsel/) for lignende symbolikk om å være fanget, en situasjon der alt føles feil men der utveien ikke er synlig. Drømmens ild og smerte er bildet på det som brenner og ødelegger uten å gi varme.
 
 ### En advarsel om en retning du er på vei mot
 
@@ -56,7 +56,7 @@ En nåværende indre tilstand som er svært vanskelig. Ta den på alvor og søk 
 Du er klar over at noe er destruktivt og smertefullt, men har foreløpig avstand til det.
 
 **Hvis du kom deg ut:**
-Befrielse er mulig. Du har ressurser du ikke visste du hadde. Se også drømmer om å bli [forfulgt](/drommer/forfulgt).
+Befrielse er mulig. Du har ressurser du ikke visste du hadde. Se også drømmer om å bli [forfulgt](/drommer/forfulgt/).
 
 **Hvis andre var der:**
 Empati for andres lidelse — eller en projeksjon av egne undertrykte kvaliteter.
@@ -69,13 +69,13 @@ En vedvarende indre tilstand som krever oppmerksomhet. En samtale med noen du st
 
 ## Psykologiske og kulturelle perspektiver
 
-Jung så helvete — som himmelen — ikke som et konkret sted, men som en psykologisk realitet: representasjonen av det destruktive potensialet i det ubevisste. Der [himmelen](/drommer/himmel) er psykens høyeste aspirasjon, er helvete dens dypeste frykt — det som skjer når de destruktive kreftene tar over.
+Jung så helvete — som himmelen — ikke som et konkret sted, men som en psykologisk realitet: representasjonen av det destruktive potensialet i det ubevisste. Der [himmelen](/drommer/himmel/) er psykens høyeste aspirasjon, er helvete dens dypeste frykt — det som skjer når de destruktive kreftene tar over.
 
 I norrøn tradisjon er Hel ikke et straffens sted — det er ganske enkelt der alle som ikke dør i kamp ender opp. Hel (navn og sted) er grå og stille, ikke brennende. Denne nordiske versjonen av underverden er merkelig nok mer nøytral enn den kristne — en pause, ikke en straff.
 
 Den kristne helvetestradisjonen, som mange nordmenn har vokst opp med som kulturarv om ikke som aktiv tro, kan gi helvetesdrømmene en ekstra tyngde. Det er viktig å huske at drømmens helvete er skapt av ditt eget sinn — ikke av en ekstern dommer.
 
-*Opplever du drømmer som ledsages av vedvarende følelser av fortvilelse, skyld eller hjelpeløshet i hverdagen, kan det være nyttig å snakke med noen — enten en venn, en prest, eller en psykolog. Les mer om [mareritt](/guider/mareritt) og hvordan du håndterer dem.*
+*Opplever du drømmer som ledsages av vedvarende følelser av fortvilelse, skyld eller hjelpeløshet i hverdagen, kan det være nyttig å snakke med noen — enten en venn, en prest, eller en psykolog. Les mer om [mareritt](/guider/mareritt/) og hvordan du håndterer dem.*
 
 ## Drømmeguiden anbefaler
 

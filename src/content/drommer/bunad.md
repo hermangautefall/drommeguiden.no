@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om bunad?
 
-Bunaden er ikke bare en festdrakt — ikke en vanlig [kjole](/drommer/kjole) eller et hverdagsplagg — den er et kart over identitet. Hvilken bunad du har, sier noe om hvor du kommer fra, hvem du er, hvilken tradisjon du er del av. Den er sydd for å passe en bestemt region, en bestemt slekt, et bestemt sted i landet. Å bære bunad er å bære tilhørigheten på kroppen.
+Bunaden er ikke bare en festdrakt — ikke en vanlig [kjole](/drommer/kjole/) eller et hverdagsplagg — den er et kart over identitet. Hvilken bunad du har, sier noe om hvor du kommer fra, hvem du er, hvilken tradisjon du er del av. Den er sydd for å passe en bestemt region, en bestemt slekt, et bestemt sted i landet. Å bære bunad er å bære tilhørigheten på kroppen.
 
 I drømmeverdenen er bunaden ett av de mest særnorske symbolene på identitet og tilhørighet som finnes.
 
@@ -30,7 +30,7 @@ Den vanligste tolkningen handler om hvem du er og hvor du hører hjemme — din 
 
 ### Høytid og det verdige
 
-Bunaden tas frem til de viktige anledningene — 17. mai, [bryllup](/drommer/bryllup), konfirmasjon, dåp. Drømmens bunad kan representere noe høytidelig og viktig som nærmer seg eller er til stede: en markering, en overgang, noe som fortjener å hedres.
+Bunaden tas frem til de viktige anledningene — 17. mai, [bryllup](/drommer/bryllup/), konfirmasjon, dåp. Drømmens bunad kan representere noe høytidelig og viktig som nærmer seg eller er til stede: en markering, en overgang, noe som fortjener å hedres.
 
 ### Tradisjon og det som binder generasjonene
 

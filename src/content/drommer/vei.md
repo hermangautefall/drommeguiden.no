@@ -26,7 +26,7 @@ Veien er et av drømmenes mest arkettypiske symboler på livsreisen — og det e
 
 ### Din livsretning
 
-Den vanligste tolkningen er direkte: veien er livsveien din. Der du er på veien, hva som er foran deg, hva som er bak deg — alt dette speiler din nåværende posisjon i livet. En klar og rett vei fremover speiler en periode med retning og klarhet. Noen ganger krysser veien en [bro](/drommer/bro) eller en [elv](/drommer/elv) — og det tilfører ekstra symbolikk. En kronglete eller uoversiktlig vei speiler forvirring og usikkerhet.
+Den vanligste tolkningen er direkte: veien er livsveien din. Der du er på veien, hva som er foran deg, hva som er bak deg — alt dette speiler din nåværende posisjon i livet. En klar og rett vei fremover speiler en periode med retning og klarhet. Noen ganger krysser veien en [bro](/drommer/bro/) eller en [elv](/drommer/elv/) — og det tilfører ekstra symbolikk. En kronglete eller uoversiktlig vei speiler forvirring og usikkerhet.
 
 ### Et valg foran deg
 
@@ -60,7 +60,7 @@ Fellesskap og medferd — du er ikke alene om veien du er på.
 Nye territorier — noe du ikke har navigert før.
 
 **Hvis du løp på veien:**
-Hastverk eller entusiasme — du vil nå noe fort. Kjørte du i [bil](/drommer/bil) på veien, se også den tolkningen.
+Hastverk eller entusiasme — du vil nå noe fort. Kjørte du i [bil](/drommer/bil/) på veien, se også den tolkningen.
 
 ## Psykologiske og kulturelle perspektiver
 

@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om laks?
 
-Laksen er ett av de mest fascinerende dyrene i norsk natur — og ett av de mest symbolsk rike. Den lever hele livet mot en umulig bakgrunn: født i en [elv](/drommer/elv), vandrer den til [havet](/drommer/hav), lever der i år, og returnerer så mot alle odds til akkurat den elven den ble født i for å gyte. Den svømmer mot strømmen, hopper fosser, nekter å gi opp — og dør etterpå, utbrukt men fullbyrdet.
+Laksen er ett av de mest fascinerende dyrene i norsk natur — og ett av de mest symbolsk rike. Den lever hele livet mot en umulig bakgrunn: født i en [elv](/drommer/elv/), vandrer den til [havet](/drommer/hav/), lever der i år, og returnerer så mot alle odds til akkurat den elven den ble født i for å gyte. Den svømmer mot strømmen, hopper fosser, nekter å gi opp — og dør etterpå, utbrukt men fullbyrdet.
 
 Det er ikke vanskelig å forstå hvorfor laksen er ladet med symbolikk.
 

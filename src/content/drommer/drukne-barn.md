@@ -20,7 +20,7 @@ relaterte_sovn:
   - sorg-sovn
 ---
 
-## Hva betyr det å drømme om at et [barn](/drommer/barn) drukner?
+## Hva betyr det å drømme om at et [barn](/drommer/barn/) drukner?
 
 Det er en av de drømmene som setter seg hardest i kroppen. Du våkner med hjertet bankende og et intenst behov for å sjekke at barnet er trygt. Det er en av de mest rapporterte skrekkdrømmene hos foreldre — og det er viktig å si med en gang: den er ikke en spådom.
 
@@ -40,7 +40,7 @@ Hjernen bearbeider intense fryktscenarioer under søvnen — det er en del av s�
 
 Barnet i drømmene er ikke alltid ditt virkelige barn. Det kan representere en sårbar, umoden eller avhengig side av deg selv — noe i deg som er i ferd med å overveldes av det som er for tungt og for mye.
 
-[Å drukne](/drommer/drukne) er ett av drømmens kraftigste bilder for å bli overveldet av følelser. Det symbolske barnet som drukner er da: noe sårbart i deg holder på å gå under. Hva trenger mer beskyttelse i ditt indre liv?
+[Å drukne](/drommer/drukne/) er ett av drømmens kraftigste bilder for å bli overveldet av følelser. Det symbolske barnet som drukner er da: noe sårbart i deg holder på å gå under. Hva trenger mer beskyttelse i ditt indre liv?
 
 ### Bearbeiding av reell risiko
 
@@ -83,5 +83,5 @@ Det norrøne begrepet "hamingja" — den beskyttende lykkeånd som fulgte en sle
 
 *Disse drømmene kan være svært belastende. Hvis de er hyppige og forstyrrer søvnen din alvorlig, kan det hjelpe å snakke med noen — enten en nær person eller en fagperson.*
 
-> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

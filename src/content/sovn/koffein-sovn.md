@@ -86,7 +86,7 @@ Koffein er en effektiv søvntyv fordi halveringstiden er mye lenger enn de flest
 - Cutoff kl. 14:00 er et godt utgangspunkt for de fleste
 - Kuttede koffeinsøvn gir mer sammenhengende REM og bedre drømmehusking
 
-Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Alkohol og søvn](/sovn/alkohol-sovn) — [Søvnfaser forklart](/sovn/sovnfaser)
+Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Alkohol og søvn](/sovn/alkohol-sovn/) — [Søvnfaser forklart](/sovn/sovnfaser/)
 
 ## Kilder
 

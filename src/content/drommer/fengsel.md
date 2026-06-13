@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om fengsel?
 
-Å drømme om fengsel er en av de drømmene som setter seg fast — den intense følelsen av innestengthet, av å ikke komme ut, av å ha mistet friheten sin. Disse drømmene er sjelden knyttet til faktisk kriminalitet eller lovbrudd, selv om de kan henge sammen med drømmer om [å bli forfulgt](/drommer/forfulgt). De handler om noe mer grunnleggende: følelsen av å være fanget.
+Å drømme om fengsel er en av de drømmene som setter seg fast — den intense følelsen av innestengthet, av å ikke komme ut, av å ha mistet friheten sin. Disse drømmene er sjelden knyttet til faktisk kriminalitet eller lovbrudd, selv om de kan henge sammen med drømmer om [å bli forfulgt](/drommer/forfulgt/). De handler om noe mer grunnleggende: følelsen av å være fanget.
 
 Fangenskap er et av de sterkeste menneskelige symbolene på ufrihet — og i drømmeverdenen brukes det for å uttrykke svært mange ulike typer begrensning.
 
@@ -26,7 +26,7 @@ Fangenskap er et av de sterkeste menneskelige symbolene på ufrihet — og i dr�
 
 ### Du føler deg fanget i noe du ikke ser utveien fra
 
-Den vanligste og mest direkte tolkningen handler om en situasjon i livet der du opplever at du ikke har valg — eller i hvert fall ikke ser dem klart. En jobb du hater men ikke tør forlate, et forhold du er blitt i for lenge, en livssituasjon som har låst seg fast. Drømmens fengsel gir form til denne følelsen av å ikke komme seg ut — beslektet med drømmer om [mørke rom](/drommer/morkt-rom).
+Den vanligste og mest direkte tolkningen handler om en situasjon i livet der du opplever at du ikke har valg — eller i hvert fall ikke ser dem klart. En jobb du hater men ikke tør forlate, et forhold du er blitt i for lenge, en livssituasjon som har låst seg fast. Drømmens fengsel gir form til denne følelsen av å ikke komme seg ut — beslektet med drømmer om [mørke rom](/drommer/morkt-rom/).
 
 Det interessante er at fengselet i drømmen nesten aldri er et faktisk fengsel med dommer og dom. Det er bare stedet der du er, og der du ikke er fri. Underbevistheten bryr seg ikke om årsaken — den registrerer bare tilstanden.
 
@@ -38,7 +38,7 @@ I disse drømmene er du din egen fangevokt — og nøkkelen henger kanskje synli
 
 ### Skyld og uoppgjort samvittighet
 
-Fengsel er i mange kulturer og rettssystemer straff for noe galt. I drømmene kan fengselet speile en tyngende skyld- eller skamfølelse — noe du holder deg selv ansvarlig for, noe du ikke har tilgitt deg selv. Du har konstruert ditt eget mentale fengsel som straff. Noen opplever lignende tematikk i drømmer om en [innbruddstyv](/drommer/innbruddstyv).
+Fengsel er i mange kulturer og rettssystemer straff for noe galt. I drømmene kan fengselet speile en tyngende skyld- eller skamfølelse — noe du holder deg selv ansvarlig for, noe du ikke har tilgitt deg selv. Du har konstruert ditt eget mentale fengsel som straff. Noen opplever lignende tematikk i drømmer om en [innbruddstyv](/drommer/innbruddstyv/).
 
 Dette er en av de mer smertefulle variantene, men også en av de mest meningsfulle: drømmen kan være et signal om at det er på tide å finne frem til selvtilgivelse.
 
@@ -72,7 +72,7 @@ En av de mer tankevekkende variantene — noe du er fanget i gir deg også trygg
 
 Carl Jung snakket om det han kalte den psykologiske kompleksbindingen — når vi er emosjonelt fanget i mønstre, overbevisninger eller relasjoner som begrenser veksten vår, uten å være bevisst på det. Fengselsdrømmen er en av de klareste måtene underbevistheten kommuniserer dette på.
 
-I Platons allegori om hulen er fengselet selve menneskenes tilstand: vi sitter med [ryggen](/drommer/rygg) til lyset og ser bare skygger på veggen, og tror det er virkeligheten. Å drømme om fengsel kan være drømmens versjon av dette — en invitasjon til å snu seg og gå mot lyset.
+I Platons allegori om hulen er fengselet selve menneskenes tilstand: vi sitter med [ryggen](/drommer/rygg/) til lyset og ser bare skygger på veggen, og tror det er virkeligheten. Å drømme om fengsel kan være drømmens versjon av dette — en invitasjon til å snu seg og gå mot lyset.
 
 I norsk og nordisk tradisjon er friheten dypt forankret som verdi — noe av det vi holder aller høyest. Å drømme om innestengthet treffer dermed noe eksistensielt i den norske psyken: vi er skapt for det åpne, for fjellene og vidda og havet, og å miste det — selv i drøm — kjenner vi dypt.
 

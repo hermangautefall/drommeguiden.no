@@ -34,7 +34,7 @@ Den mest utbredte tolkningen av havet i drømmer handler om følelser. Havet har
 
 Et rolig og klart hav kan tyde på at du opplever en periode med emosjonell stabilitet. Du har kanskje funnet en form for balanse i livet, eller du er i ferd med å forsone deg med noe som tidligere skapte uro. Denne typen drøm etterlater gjerne en følelse av lettelse og tilfredshet.
 
-Et stormfullt eller truende hav peker derimot ofte mot følelser du strever med å håndtere. Kanskje du står overfor en vanskelig avgjørelse, eller det er noe i relasjoner eller jobb som skaper indre uro. Drømmen kan være et signal om at det er på tide å ta tak i det som bølger under overflaten. Har du også drømt om [storm](/drommer/storm), kan dette forsterke tolkningen av emosjonell turbulens.
+Et stormfullt eller truende hav peker derimot ofte mot følelser du strever med å håndtere. Kanskje du står overfor en vanskelig avgjørelse, eller det er noe i relasjoner eller jobb som skaper indre uro. Drømmen kan være et signal om at det er på tide å ta tak i det som bølger under overflaten. Har du også drømt om [storm](/drommer/storm/), kan dette forsterke tolkningen av emosjonell turbulens.
 
 ### Det ubevisste og det ukjente
 
@@ -42,7 +42,7 @@ Havet har en dybde vi aldri fullt ut kan utforske, og i drømmer representerer d
 
 Hvis du drømte om å dykke ned i havet, kan det tolkes som et ønske om selvransakelse og dypere selvforståelse. Du er kanskje klar for å konfrontere noe du har holdt på avstand. Drømmer der havet er mørkt og ugjennomtrengelig kan derimot signalisere frykt for det ukjente — enten det gjelder fremtiden, et nytt kapittel i livet, eller sider ved deg selv du ikke helt forstår.
 
-Drømmer om å [drukne](/drommer/drukne) i havet kan føles skremmende, men handler sjelden om fysisk fare. De handler oftere om å føle seg overveldet.
+Drømmer om å [drukne](/drommer/drukne/) i havet kan føles skremmende, men handler sjelden om fysisk fare. De handler oftere om å føle seg overveldet.
 
 ### Frihet, lengsel og livets strømmer
 
@@ -62,7 +62,7 @@ Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike t
 Dette tolkes gjerne som indre fred, klarhet og en følelse av at ting er på riktig plass i livet ditt.
 
 **Hvis havet var stormfullt med store bølger:**
-Det kan peke mot emosjonell uro eller en følelse av å miste kontroll. Det kan også være knyttet til ytre hendelser som føles overveldende, ikke ulikt å drømme om [regn](/drommer/regn) eller kraftig vær.
+Det kan peke mot emosjonell uro eller en følelse av å miste kontroll. Det kan også være knyttet til ytre hendelser som føles overveldende, ikke ulikt å drømme om [regn](/drommer/regn/) eller kraftig vær.
 
 **Hvis du svømte i havet:**
 Svømming i havet handler ofte om hvordan du navigerer følelsene dine. Svømte du med letthet, har du trolig god kontroll. Strevde du, kan det signalisere at du føler deg utslitt.
@@ -78,7 +78,7 @@ Carl Jung betraktet havet som et av de sterkeste symbolene for det kollektive ub
 
 I norsk og nordisk tradisjon har havet alltid hatt en sentral plass. For våre forfedre var havet både livgiver og livtaker — det ga mat og handelsmuligheter, men krevde også ofre. Denne dobbelheten lever videre i drømmene våre. Mange nordmenn vokser opp med et nært forhold til sjøen, og drømmer om havet bærer ofte med seg personlige minner og assosiasjoner som farger tolkningen.
 
-Fra et psykologisk perspektiv kan gjentakende drømmer om havet signalisere at det er følelsesmessig materiale som ønsker oppmerksomhet. Havet ber deg se innover — det inviterer deg til å dykke ned i det som ligger under overflaten av hverdagslivet. Drømmer om [fjell](/drommer/fjell) kan gi en interessant kontrast, der fjellet representerer det stabile og synlige, mens havet rommer det flytende og skjulte.
+Fra et psykologisk perspektiv kan gjentakende drømmer om havet signalisere at det er følelsesmessig materiale som ønsker oppmerksomhet. Havet ber deg se innover — det inviterer deg til å dykke ned i det som ligger under overflaten av hverdagslivet. Drømmer om [fjell](/drommer/fjell/) kan gi en interessant kontrast, der fjellet representerer det stabile og synlige, mens havet rommer det flytende og skjulte.
 
 ---
 

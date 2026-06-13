@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om naboen din?
 
-Naboen er den nærmeste fremmede — tett nok til å se ditt dagligliv, men utenfor den intime sirkelen. Naboen er nært knyttet til [huset](/drommer/hus) som symbol: hvis huset er deg, er naboen alt det som lever rett ved siden av deg uten å være en del av deg. I drømmeverdenen representerer naboen det nære fellesskapet, grensene mellom det private og det delte, og alt som handler om å leve tett på andre uten å ha valgt dem.
+Naboen er den nærmeste fremmede — tett nok til å se ditt dagligliv, men utenfor den intime sirkelen. Naboen er nært knyttet til [huset](/drommer/hus/) som symbol: hvis huset er deg, er naboen alt det som lever rett ved siden av deg uten å være en del av deg. I drømmeverdenen representerer naboen det nære fellesskapet, grensene mellom det private og det delte, og alt som handler om å leve tett på andre uten å ha valgt dem.
 
 Drømmer om naboen dukker gjerne opp i perioder med spørsmål om grenser, fellesskap eller tilhørighet — eller når noe nært deg krever oppmerksomhet du ennå ikke har gitt det.
 
@@ -30,11 +30,11 @@ Naboen representerer fellesskap i sin mest hverdagslige form — ikke venner du 
 
 ### Grenser og det som er ditt
 
-Naboen er den andre siden av gjerdet — den andre siden av [døren](/drommer/dor) — og drømmens nabo handler ofte om grenser. Hva er ditt og hva er andres? Er grensene respektert, eller er noe på vei over dem? Disse drømmene dukker spesielt opp i perioder der noen i livet ditt nærmer seg på en måte du er usikker på, eller der du selv vurderer hvor du bør trekke linjene.
+Naboen er den andre siden av gjerdet — den andre siden av [døren](/drommer/dor/) — og drømmens nabo handler ofte om grenser. Hva er ditt og hva er andres? Er grensene respektert, eller er noe på vei over dem? Disse drømmene dukker spesielt opp i perioder der noen i livet ditt nærmer seg på en måte du er usikker på, eller der du selv vurderer hvor du bør trekke linjene.
 
 ### Noe i nærmiljøet som ulmer
 
-Av og til er drømmens nabo en figur for noe i nærheten av deg som du ikke har lagt nok merke til — en situasjon, en person, noe som er tett på men ikke fullt ut erkjent. Se også [fremmed](/drommer/fremmed) i drøm. Når naboen i drømmen oppfører seg uvanlig, banker på, eller bare står og ser, kan det handle om noe som vil bli sett av deg.
+Av og til er drømmens nabo en figur for noe i nærheten av deg som du ikke har lagt nok merke til — en situasjon, en person, noe som er tett på men ikke fullt ut erkjent. Se også [fremmed](/drommer/fremmed/) i drøm. Når naboen i drømmen oppfører seg uvanlig, banker på, eller bare står og ser, kan det handle om noe som vil bli sett av deg.
 
 ### Et speil av deg selv i fellesskapet
 

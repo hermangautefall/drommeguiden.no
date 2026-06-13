@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om nordlys?
 
-Nordlyset er en av de mest overveldende naturopplevelsene et menneske kan ha — og for nordmenn er det ikke et abstrakt fenomen, det er en del av vår kulturelle og eksistensielle arv. Det danser i [himmelen](/drommer/himmel), det forandrer seg hvert sekund, og det etterlater alle som ser det med en følelse av at noe større enn hverdagen er til stede.
+Nordlyset er en av de mest overveldende naturopplevelsene et menneske kan ha — og for nordmenn er det ikke et abstrakt fenomen, det er en del av vår kulturelle og eksistensielle arv. Det danser i [himmelen](/drommer/himmel/), det forandrer seg hvert sekund, og det etterlater alle som ser det med en følelse av at noe større enn hverdagen er til stede.
 
 Å drømme om nordlys er å drømme om noe sjelden, vakkert og dypt ladet.
 
@@ -26,11 +26,11 @@ Nordlyset er en av de mest overveldende naturopplevelsene et menneske kan ha —
 
 ### Det transcendente som viser seg i mørket
 
-Den viktigste tolkningen handler om det transcendente — noe som overskrider det ordinære og hverdagslige, og som viser seg nettopp i mørket. Nordlyset finnes ikke om sommeren, ikke i [sollyset](/drommer/sol) — det er nattens og vinterens gave. Drømmens nordlys handler om noe som bare er synlig i din mørkeste og stilleste periode: en innsikt, en kontakt med noe større, en åpenbaring som bare kan komme når det støyende hverdagslivet er borte.
+Den viktigste tolkningen handler om det transcendente — noe som overskrider det ordinære og hverdagslige, og som viser seg nettopp i mørket. Nordlyset finnes ikke om sommeren, ikke i [sollyset](/drommer/sol/) — det er nattens og vinterens gave. Drømmens nordlys handler om noe som bare er synlig i din mørkeste og stilleste periode: en innsikt, en kontakt med noe større, en åpenbaring som bare kan komme når det støyende hverdagslivet er borte.
 
 ### En sjelden mulighet eller erfaring
 
-Nordlyset er sjeldent — du kan vente i uker og ikke se det. Men noen kvelder danser det over hele himmelen som [stjerner](/drommer/stjerner) i bevegelse. Drømmens nordlys kan representere en sjelden mulighet, en spesiell erfaring eller en fase i livet som er ekstraordinær og ikke varer evig. Vær til stede. Se det mens det er der.
+Nordlyset er sjeldent — du kan vente i uker og ikke se det. Men noen kvelder danser det over hele himmelen som [stjerner](/drommer/stjerner/) i bevegelse. Drømmens nordlys kan representere en sjelden mulighet, en spesiell erfaring eller en fase i livet som er ekstraordinær og ikke varer evig. Vær til stede. Se det mens det er der.
 
 ### Din nordlige identitet og arv
 

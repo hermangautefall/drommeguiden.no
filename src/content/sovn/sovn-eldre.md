@@ -63,7 +63,7 @@ CBT-I (kognitiv atferdsterapi for insomni) er dokumentert effektivt også hos el
 
 Drømmenes innhold endrer seg med alderen på interessante måter. Eldre rapporterer generelt mer positive drømmer enn yngre voksne — mindre angstfylte, mer rolige og nostalgiske. Det er konsistent med den emosjonelle "modningen" som er dokumentert i alderspsykologien: eldre prioriterer positive opplevelser og er generelt bedre til å regulere negative emosjoner.
 
-Drømmer om avdøde nær og kjære er hyppigere i høy alder — av naturlige grunner — og oppleves av mange som trøstende besøk. Se guiden om [drømmer om avdøde](/guider/drommer-om-avdode) for mer.
+Drømmer om avdøde nær og kjære er hyppigere i høy alder — av naturlige grunner — og oppleves av mange som trøstende besøk. Se guiden om [drømmer om avdøde](/guider/drommer-om-avdode/) for mer.
 
 ## Oppsummering
 
@@ -75,7 +75,7 @@ Søvnen endres biologisk med alderen — men mye er behandlingsbart:
 - Sovemedisiner er særlig risikable for eldre — CBT-I er et tryggere alternativ
 - Eldre drømmer mer positivt og rolig — men drømmer om avdøde er vanligere og ofte trøstende
 
-Les videre: [Melatonin — dose og bruk](/sovn/melatonin) — [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Drømmer om avdøde](/guider/drommer-om-avdode)
+Les videre: [Melatonin — dose og bruk](/sovn/melatonin/) — [Søvnproblemer og insomni](/sovn/sovnproblemer/) — [Drømmer om avdøde](/guider/drommer-om-avdode/)
 
 ## Kilder
 

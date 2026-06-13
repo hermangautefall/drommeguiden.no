@@ -34,7 +34,7 @@ Nissen er gammel — langt eldre enn kristendommen. Han er overlevd fordi folk v
 
 ### Det lille som rår over det store
 
-Nissen er liten — men hans makt over gården er total. I motsetning til [trollet](/drommer/troll), som truer utenfra, beskytter nissen innenfra. Han er ikke en kraft du kontrollerer; han er en kraft som lar deg bo der dersom du oppfører deg riktig. Drømmens nisse kan representere noe lite men avgjørende i livet ditt: en liten detalj, en liten relasjon, en liten vane som har uforholdsmessig stor innflytelse.
+Nissen er liten — men hans makt over gården er total. I motsetning til [trollet](/drommer/troll/), som truer utenfra, beskytter nissen innenfra. Han er ikke en kraft du kontrollerer; han er en kraft som lar deg bo der dersom du oppfører deg riktig. Drømmens nisse kan representere noe lite men avgjørende i livet ditt: en liten detalj, en liten relasjon, en liten vane som har uforholdsmessig stor innflytelse.
 
 ## Hva påvirker tolkningen?
 
@@ -54,7 +54,7 @@ En beskyttende kraft er der selv om du ikke ser den direkte.
 
 Nissen er i norsk tradisjon et av de mest langlivede folkereligiøse elementene — han er ikke-kristen, han er gammel, og han er seig. Han er bevart i tradisjonen fordi han svarte til noe reelt i den norske psyken: behovet for at noe passer på oss, for at hjemmet er et trygt sted, for at det finnes en kraft som holder orden i det nære.
 
-Jung ville sett nissen som en manifestasjon av Selvets beskyttende funksjon — den lille figuren som holder [huset](/drommer/hus) (selvet) i orden fra innsiden.
+Jung ville sett nissen som en manifestasjon av Selvets beskyttende funksjon — den lille figuren som holder [huset](/drommer/hus/) (selvet) i orden fra innsiden.
 
 ## Drømmeguiden anbefaler
 

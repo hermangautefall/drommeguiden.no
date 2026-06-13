@@ -34,7 +34,7 @@ Vitenskapen har ikke landet på én endelig forklaring, men det finnes flere teo
 
 **Emosjonell regulering** er en annen sentral teori. Nevrovitenskapsforskeren Matthew Walker har beskrevet REM-søvn som en form for nattlig terapi. Under drømmer gjenopplever hjernen emosjonelle situasjoner, men i et kjemisk miljø med lavere nivåer av stresshormonet noradrenalin. Dette kan gjøre det mulig å bearbeide vanskelige opplevelser uten den samme fysiologiske stressresponsen som i våken tilstand. Det kan forklare hvorfor søvnmangel ofte fører til økt emosjonell reaktivitet og irritabilitet.
 
-**Trusselssimulering** er en evolusjonær teori foreslått av den finske forskeren Antti Revonsuo. Ifølge denne teorien fungerer drømmer som en slags treningsarena der hjernen øver på farlige eller utfordrende situasjoner. Drømmer om å [falle](/drommer/falle), bli jaget, eller stå overfor en truende [slange](/drommer/slange) kan være hjernens måte å forberede oss på reelle farer. Denne teorien kan forklare hvorfor så mange drømmer har et negativt eller truende innhold.
+**Trusselssimulering** er en evolusjonær teori foreslått av den finske forskeren Antti Revonsuo. Ifølge denne teorien fungerer drømmer som en slags treningsarena der hjernen øver på farlige eller utfordrende situasjoner. Drømmer om å [falle](/drommer/falle/), bli jaget, eller stå overfor en truende [slange](/drommer/slange/) kan være hjernens måte å forberede oss på reelle farer. Denne teorien kan forklare hvorfor så mange drømmer har et negativt eller truende innhold.
 
 ---
 
@@ -42,9 +42,9 @@ Vitenskapen har ikke landet på én endelig forklaring, men det finnes flere teo
 
 Lenge før nevrovitenskapen tok tak i drømmene, forsøkte psykologien å forstå dem. De to mest innflytelsesrike tenkerne på feltet er Sigmund Freud og Carl Gustav Jung.
 
-Freud publiserte «Drømmetydning» i 1899 og kalte drømmer «kongeveien til det ubevisste». Han mente drømmer var forkledd oppfyllelse av undertrykte ønsker, spesielt knyttet til seksualitet og barndomsopplevelser. Ifølge Freud hadde drømmene et manifest innhold — det du faktisk ser og opplever — og et latent innhold — den underliggende, skjulte betydningen. En drøm om et [hus](/drommer/hus) handlet kanskje egentlig om selvet, og et [mørkt rom](/drommer/morkt-rom) om noe du ikke ville konfrontere.
+Freud publiserte «Drømmetydning» i 1899 og kalte drømmer «kongeveien til det ubevisste». Han mente drømmer var forkledd oppfyllelse av undertrykte ønsker, spesielt knyttet til seksualitet og barndomsopplevelser. Ifølge Freud hadde drømmene et manifest innhold — det du faktisk ser og opplever — og et latent innhold — den underliggende, skjulte betydningen. En drøm om et [hus](/drommer/hus/) handlet kanskje egentlig om selvet, og et [mørkt rom](/drommer/morkt-rom/) om noe du ikke ville konfrontere.
 
-Jung, som opprinnelig var Freuds elev, utviklet et annet perspektiv. Han mente drømmer ikke primært skjuler, men avslører. De er hjernens forsøk på å kommunisere viktig informasjon til den bevisste delen av sinnet. Jung introduserte ideen om arketyper — universelle symboler som går igjen på tvers av kulturer. Drømmer om [vann](/drommer/hav) kunne representere det ubevisste, mens drømmer om en [ulv](/drommer/ulv) kunne peke på instinktive krefter.
+Jung, som opprinnelig var Freuds elev, utviklet et annet perspektiv. Han mente drømmer ikke primært skjuler, men avslører. De er hjernens forsøk på å kommunisere viktig informasjon til den bevisste delen av sinnet. Jung introduserte ideen om arketyper — universelle symboler som går igjen på tvers av kulturer. Drømmer om [vann](/drommer/hav/) kunne representere det ubevisste, mens drømmer om en [ulv](/drommer/ulv/) kunne peke på instinktive krefter.
 
 Moderne psykologi har gått bort fra mange av Freuds spesifikke teorier, men ideen om at drømmer kan reflektere emosjonelle tilstander og ubevisste prosesser har overlevd. Jungs arketypiske tilnærming har også vist seg å være nyttig som et verktøy for selvrefleksjon, selv om den ikke nødvendigvis er vitenskapelig bevisbar i streng forstand.
 
@@ -64,9 +64,9 @@ Det finnes også forskning som tyder på at drømmer kan bidra til kreativitet. 
 
 ## Drømmer vi alle likt?
 
-Et vanlig spørsmål er om alle mennesker drømmer det samme. Svaret er både ja og nei. Visse drømmemotiver går igjen på tvers av kulturer: drømmer om å [falle](/drommer/falle), å være [naken](/drommer/naken) på et offentlig sted, eller å miste [tenner](/drommer/tann) rapporteres av mennesker over hele verden. Det tyder på at noen drømmemotiver kan ha universelle røtter, enten biologiske eller psykologiske.
+Et vanlig spørsmål er om alle mennesker drømmer det samme. Svaret er både ja og nei. Visse drømmemotiver går igjen på tvers av kulturer: drømmer om å [falle](/drommer/falle/), å være [naken](/drommer/naken/) på et offentlig sted, eller å miste [tenner](/drommer/tann/) rapporteres av mennesker over hele verden. Det tyder på at noen drømmemotiver kan ha universelle røtter, enten biologiske eller psykologiske.
 
-Samtidig formes drømmene av individuelle erfaringer, kultur og livssituasjon. En person som lever nær havet, drømmer kanskje oftere om [bølger og hav](/drommer/hav), mens en som nettopp har fått barn, kanskje drømmer om [babyer](/drommer/baby). Studier tyder også på at blinde mennesker drømmer med andre sanser enn syn — de opplever lyd, berøring og lukt i drømmene sine.
+Samtidig formes drømmene av individuelle erfaringer, kultur og livssituasjon. En person som lever nær havet, drømmer kanskje oftere om [bølger og hav](/drommer/hav/), mens en som nettopp har fått barn, kanskje drømmer om [babyer](/drommer/baby/). Studier tyder også på at blinde mennesker drømmer med andre sanser enn syn — de opplever lyd, berøring og lukt i drømmene sine.
 
 Alder spiller også en rolle. Barn har ofte mer fantasifulle drømmer med dyr og eventyrlige scenarier, mens voksne oftere drømmer om sosiale situasjoner, arbeid og mellommenneskelige relasjoner. Eldre mennesker rapporterer generelt færre mareritt enn yngre voksne, noe som kan henge sammen med bedre emosjonell regulering over tid.
 
@@ -86,9 +86,9 @@ Uansett hva forskningen lander på, inviterer drømmene oss til å bli bedre kje
 
 ## Relaterte symboler og emner
 
-- [Drømmer om å falle](/drommer/falle)
-- [Drømmer om hav og vann](/drommer/hav)
-- [Drømmer om mørkt rom](/drommer/morkt-rom)
-- [Drømmejournalen — slik husker du drømmene dine](/guider/drommejournalen)
-- [Lucid drømming — slik tar du kontroll](/guider/lucid-dromming)
-- [Mareritt — hvorfor vi har dem og hva vi kan gjøre](/guider/mareritt)
+- [Drømmer om å falle](/drommer/falle/)
+- [Drømmer om hav og vann](/drommer/hav/)
+- [Drømmer om mørkt rom](/drommer/morkt-rom/)
+- [Drømmejournalen — slik husker du drømmene dine](/guider/drommejournalen/)
+- [Lucid drømming — slik tar du kontroll](/guider/lucid-dromming/)
+- [Mareritt — hvorfor vi har dem og hva vi kan gjøre](/guider/mareritt/)

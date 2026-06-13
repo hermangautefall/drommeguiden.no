@@ -24,7 +24,7 @@ Beina bærer oss gjennom livet — de gir oss evnen til å stå, til å bevege o
 
 ### Din evne til å stå stødig
 
-Den vanligste tolkningen handler om stabilitet og støtte — om du har et solid fundament å stå på i livet. Sterke bein speiler styrke, handlekraft og evnen til å bære ditt eget liv. Svake, skadede eller manglende bein speiler en periode der grunnlaget kjennes ustabilt — og det kan minne om drømmer der man [faller](/drommer/falle).
+Den vanligste tolkningen handler om stabilitet og støtte — om du har et solid fundament å stå på i livet. Sterke bein speiler styrke, handlekraft og evnen til å bære ditt eget liv. Svake, skadede eller manglende bein speiler en periode der grunnlaget kjennes ustabilt — og det kan minne om drømmer der man [faller](/drommer/falle/).
 
 ### Frihet til å bevege deg
 
@@ -49,13 +49,13 @@ En hindring eller blokkering — noe stopper deg fra å bevege deg i ønsket ret
 En konkret hendelse eller situasjon har svekket din evne til å fungere fritt.
 
 **Hvis du løp raskt:**
-Frihet, energi og bevegelsesglede. Du er i flyt. Se også [ryggen](/drommer/rygg) som symbol på det som bærer deg.
+Frihet, energi og bevegelsesglede. Du er i flyt. Se også [ryggen](/drommer/rygg/) som symbol på det som bærer deg.
 
 ## Psykologiske og kulturelle perspektiver
 
 Bein som symbol på fundament er universalt — fra det å "stå med beggje beina på jorda" til uttrykket "å ha beina på nakken". Det å stå, gå og løpe er av de mest grunnleggende menneskelige handlingene, og i drømmene er de tett knyttet til psykologisk frihet og styrke.
 
-Jung ville sett sterke bein som et symbol på en velutviklet evne til å navigere verden — et Ego som er trygt forankret og kan bevege seg med selvtillit. Drømmer om [hender](/drommer/hender) handler derimot om handling og evnen til å gripe verden.
+Jung ville sett sterke bein som et symbol på en velutviklet evne til å navigere verden — et Ego som er trygt forankret og kan bevege seg med selvtillit. Drømmer om [hender](/drommer/hender/) handler derimot om handling og evnen til å gripe verden.
 
 ## Drømmeguiden anbefaler
 

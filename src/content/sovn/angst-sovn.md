@@ -42,9 +42,9 @@ Søvnforskere kaller dette "kondisjonert hyperarousal" — og det er den primær
 
 Angst forstyrrer ikke bare innsovning og søvnkvalitet — det endrer drømmenes innhold direkte.
 
-Under angst er amygdala mer aktiv, også under søvn. REM-søvnen — der emosjonelle minner bearbeides — prosesserer angstens materiale. Resultatet er hyppigere [mareritt](/guider/mareritt), mer angstfylte drømmescenarioer, og drømmer der man [forfølges](/drommer/forfulgt), ikke når frem, mister kontrollen eller feiler.
+Under angst er amygdala mer aktiv, også under søvn. REM-søvnen — der emosjonelle minner bearbeides — prosesserer angstens materiale. Resultatet er hyppigere [mareritt](/guider/mareritt/), mer angstfylte drømmescenarioer, og drømmer der man [forfølges](/drommer/forfulgt/), ikke når frem, mister kontrollen eller feiler.
 
-Disse drømmene er ikke tilfeldige — de er direkte speilinger av det aktive angststoffet hjernen arbeider med. Se guiden om [stress og drømmer](/guider/stress-og-drommer) for den fullstendige mekanismen.
+Disse drømmene er ikke tilfeldige — de er direkte speilinger av det aktive angststoffet hjernen arbeider med. Se guiden om [stress og drømmer](/guider/stress-og-drommer/) for den fullstendige mekanismen.
 
 Paradoksalt nok er disse drømmene — ubehagelige som de er — en del av hjernens forsøk på å bearbeide angsten. Å forstå dem i stedet for å frykte dem er et steg mot helbredelse.
 
@@ -96,7 +96,7 @@ Angst og søvn er låst i en selvforsterkende spiral — men sirkelen kan brytes
 - CBT-I er den mest effektive behandlingen, mer varig enn sovemedisiner
 - Pusteøvelser, progressiv muskelavslapning og planlagt bekymringstid er enkle tiltak med god dokumentasjon
 
-Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Mareritt — årsaker og behandling](/guider/mareritt)
+Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer/) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Mareritt — årsaker og behandling](/guider/mareritt/)
 
 ## Kilder
 

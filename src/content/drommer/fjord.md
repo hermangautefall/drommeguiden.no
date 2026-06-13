@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om fjord?
 
-Fjorden er det mest særnorske av alle naturbilder — den lange, dype, stille armen av [havet](/drommer/hav) som skjærer seg inn mellom [fjellene](/drommer/fjell). Den er ikke havet i all sin åpenhet og fare; den er havet som har funnet en beskyttet vei innover. I drømmeverdenen er fjorden et av de mest ro- og dybde-ladede symbolene du kan møte.
+Fjorden er det mest særnorske av alle naturbilder — den lange, dype, stille armen av [havet](/drommer/hav/) som skjærer seg inn mellom [fjellene](/drommer/fjell/). Den er ikke havet i all sin åpenhet og fare; den er havet som har funnet en beskyttet vei innover. I drømmeverdenen er fjorden et av de mest ro- og dybde-ladede symbolene du kan møte.
 
 ## De vanligste tolkningene
 
@@ -62,7 +62,7 @@ Selv det beskyttede farvannet er i bevegelse — noe forstyrrer det som pleide �
 
 Fjorden er for norsk selvforståelse det Nilen er for Egypt eller Themsen for England — et geografisk element som er blitt identitet. Hardangerfjorden, Sognefjorden, Geirangerfjorden: navnene er ladet med tilhørighet og stolthet. Å drømme om fjord er å drømme om norskhetens kjerne.
 
-I norrøn tid var fjorden hjem og vei på én gang — der langskipene lå, der handelen foregikk, der [elvene](/drommer/elv) møtte sjøen, der livet pulserte. Fjorden er ikke et fremmed element i norsk psyke; det er hverdagen gjennom tusen år.
+I norrøn tid var fjorden hjem og vei på én gang — der langskipene lå, der handelen foregikk, der [elvene](/drommer/elv/) møtte sjøen, der livet pulserte. Fjorden er ikke et fremmed element i norsk psyke; det er hverdagen gjennom tusen år.
 
 ## Drømmeguiden anbefaler
 

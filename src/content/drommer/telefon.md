@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om telefon?
 
-Telefonen er i dag et av de mest personlige objektene vi eier — den er kommunikasjon, identitet, tilknytning og informasjon på én gang. I drømmeverdenen er den dermed et svært ladet symbol. Drømmer om å [miste](/drommer/miste-noe) telefonen, at den ikke virker, at du ikke kan ringe den du trenger — disse er blant de vanligste moderne angstdrømmene.
+Telefonen er i dag et av de mest personlige objektene vi eier — den er kommunikasjon, identitet, tilknytning og informasjon på én gang. I drømmeverdenen er den dermed et svært ladet symbol. Drømmer om å [miste](/drommer/miste-noe/) telefonen, at den ikke virker, at du ikke kan ringe den du trenger — disse er blant de vanligste moderne angstdrømmene.
 
 Det er sjelden selve apparatet drømmene handler om. Det er hva det representerer.
 
@@ -26,7 +26,7 @@ Det er sjelden selve apparatet drømmene handler om. Det er hva det representere
 
 ### Kommunikasjon og tilknytning
 
-Telefonen er primært et kommunikasjonsverktøy — og drømmer om den handler ofte om din relasjon til kommunikasjon og tilknytning. Noe du vil si, noen du vil nå — en [kjæreste](/drommer/kjaereste), en [mor](/drommer/mor) eller [far](/drommer/far) — en kontakt du ønsker å opprettholde eller etablere. Hvis telefonen ikke virker, kan det speile en kommunikasjonsblokk — noe som ikke slipper ut, eller noen du ikke klarer å nå.
+Telefonen er primært et kommunikasjonsverktøy — og drømmer om den handler ofte om din relasjon til kommunikasjon og tilknytning. Noe du vil si, noen du vil nå — en [kjæreste](/drommer/kjaereste/), en [mor](/drommer/mor/) eller [far](/drommer/far/) — en kontakt du ønsker å opprettholde eller etablere. Hvis telefonen ikke virker, kan det speile en kommunikasjonsblokk — noe som ikke slipper ut, eller noen du ikke klarer å nå.
 
 ### Frykt for å miste tilknytning
 

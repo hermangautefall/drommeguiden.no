@@ -28,7 +28,7 @@ Den vanligste tolkningen handler om det du har stelt med i deg selv over tid —
 
 ### Vekst og omsorg
 
-Hagen vokser bare med stell — og drømmens hage handler om hva du nærer og hva du forsømmer. [Blomster](/drommer/blomst) som visner speiler noe som trenger mer oppmerksomhet. En hage i full blomst speiler at noe trives.
+Hagen vokser bare med stell — og drømmens hage handler om hva du nærer og hva du forsømmer. [Blomster](/drommer/blomst/) som visner speiler noe som trenger mer oppmerksomhet. En hage i full blomst speiler at noe trives.
 
 ### Fristed og ro
 
@@ -58,9 +58,9 @@ Invitasjon — noe er tilgjengelig for deg nå.
 
 Hagen er i vestlig kultur knyttet til paradis — "paradise" kommer fra det persiske ordet for inngjerdet hage. Den kultiverte hagen er det menneskeskapte paradiset: et sted der kaos og natur er brakt i balanse med skjønnhet og hensikt.
 
-Jung beskrev hagen som ett av symbolene på individuasjonsprosessen i sin helhet — det dyrkede indre liv der mange ulike elementer er brakt sammen i en harmonisk helhet, som en hage med mange planter — [trær](/drommer/tre) og blomster — som alle trives side om side.
+Jung beskrev hagen som ett av symbolene på individuasjonsprosessen i sin helhet — det dyrkede indre liv der mange ulike elementer er brakt sammen i en harmonisk helhet, som en hage med mange planter — [trær](/drommer/tre/) og blomster — som alle trives side om side.
 
-I norsk hagekultur er kjøkkenhagen og blomsterhagen en del av hverdagen for mange — noe som er dypt forankret i det norske forholdet til [jord](/drommer/jord), sesong og nøysomhet. Hagen er også nært knyttet til [huset](/drommer/hus) som drømmesymbol.
+I norsk hagekultur er kjøkkenhagen og blomsterhagen en del av hverdagen for mange — noe som er dypt forankret i det norske forholdet til [jord](/drommer/jord/), sesong og nøysomhet. Hagen er også nært knyttet til [huset](/drommer/hus/) som drømmesymbol.
 
 ## Drømmeguiden anbefaler
 

@@ -1,50 +1,26 @@
 # ============================================================
-# 404 REDIRECTS — fra gsc-404.csv (2026-05-15)
+# 404 REDIRECTS — fra gsc-404.csv (oppdatert 2026-06-13)
 # ============================================================
 #
-# MANGLER MATCH — MANUELL GJENNOMGANG
-# Disse URL-ene fra Google Search Console hadde ingen aktiv side
-# med slug-likhet ≥80%. Vurder om de skal opprettes som nytt
-# innhold, peke til en kategori, eller bare la være å redirecte.
+# Fortsatt UTEN sensibel destinasjon (lar disse stå som 404 / lar
+# CF custom 404-side ta dem):
 #
-#   /sv/drommar/kropp/                                  (best forslag: no-match (best=trappa, score=0.50))
-#   /sv/drommar/mask/                                   (best forslag: no-match (best=musik, score=0.60))
-#   /sv/drommar/sorg/                                   (best forslag: no-match (best=storm, score=0.60))
-#   /sv/drommar/skam/                                   (best forslag: no-match (best=svamp, score=0.60))
-#   /sv/guider/lucid-dromning/                          (best forslag: no-match (best=klardromning, score=0.57))
-#   /guider/aterkommande-drommar/                       (best forslag: no-match (best=gjentakende-drommer, score=0.55))
-#   /sv/drommar/forsenad/                               (best forslag: no-match (best=forfoljd, score=0.50))
-#   /sv/drommar/framling/                               (best forslag: no-match (best=frammande, score=0.56))
-#   /sv/drommar/flygning/                               (best forslag: no-match (best=klanning, score=0.63))
-#   /sv/drommar/foedsel/                                (best forslag: no-match (best=fodelse, score=0.57))
-#   /sv/drommar/jul/                                    (best forslag: no-match (best=djavul, score=0.50))
-#   /sv/drommar/pojkvan/                                (best forslag: no-match (best=oknen, score=0.43))
-#   /sv/drommar/pojkvan-flickvan/                       (best forslag: no-match (best=gammal-van, score=0.31))
-#   /sv/drommar/forvandling/                            (best forslag: no-match (best=forlovning, score=0.55))
-#   /sv/drommar/skor/                                   (best forslag: no-match (best=skog, score=0.75))
-#   /drommer/jul/                                       (best forslag: no-match (best=fugl, score=0.50))
-#   /sv/drommar/faster/                                 (best forslag: no-match (best=fonster, score=0.71))
-#   /sv/drommar/skiljas/                                (best forslag: no-match (best=skammas, score=0.57))
-#   /sv/drommar/farbror/                                (best forslag: no-match (best=farmor, score=0.71))
-#   /sv/drommar/vatten/                                 (best forslag: no-match (best=katt, score=0.50))
-#   /sv/drommar/exet/                                   (best forslag: no-match (best=ex-sex, score=0.50))
-#   /guider/somnforlamning/                             (best forslag: no-match (best=falsk-oppvakning, score=0.38))
-#   /guider/drommar-om-avlidna/                         (best forslag: no-match (best=drommer-om-avdode, score=0.72))
-#   /sv/drommar/examen/                                 (best forslag: no-match (best=ensamhet, score=0.50))
-#   /drommer/forvandling/                               (best forslag: no-match (best=brann, score=0.36))
-#   /drommer/kropp/                                     (best forslag: no-match (best=sopp, score=0.60))
-#   /sv/drommar/homo-sex-drom/                          (best forslag: no-match (best=homosexuell-drom, score=0.69))
-#   /guider/klardromning/                               (best forslag: no-match (best=lucid-dromming, score=0.50))
-#   /drommer/sorg/                                      (best forslag: no-match (best=storm, score=0.60))
-#   /drommer/forvandling/                               (best forslag: no-match (best=brann, score=0.36))
-#   /drommer/vann/                                      (best forslag: no-match (best=tann, score=0.75))
-#   /drommer/sorg/                                      (best forslag: no-match (best=storm, score=0.60))
-#   https://www.drommeguiden.no/cdn-cgi/l/email-protection  (best forslag: invalid url (template/cdn artifact))
-#   https://www.drommeguiden.no/drommer/${s.slug}       (best forslag: invalid url (template/cdn artifact))
+#   /sv/drommar/mask/       (mask — uklart om insekt eller maske)
+#   /sv/drommar/forsenad/   (uklar betydning — "forsenket"?)
+#   /sv/drommar/jul/        (jul — ingen symbolside finnes)
+#   /drommer/jul/           (jul — ingen symbolside finnes)
+#   /sv/drommar/pojkvan/    (boyfriend — ingen SV-symbolside finnes)
+#   /sv/drommar/pojkvan-flickvan/
+#   /sv/drommar/forvandling/ (transformation — ingen symbolside)
+#   /drommer/forvandling/    (transformation — ingen symbolside)
+#   /sv/drommar/skor/       (sko — ingen symbolside)
+#   /sv/drommar/faster/     (tante (fars side) — ingen SV-symbolside)
+#   /sv/drommar/farbror/    (onkel (fars side) — ingen SV-symbolside)
+#   /sv/drommar/examen/     (examen — ingen SV-symbolside)
 #
 # ============================================================
 
-# 301-redirects for kjente 404-URLer:
+# Eldre redirects (NO og SV symbol/guider — likhets-matchet)
 /drommer/hander/                  /drommer/hender/                  301
 /drommer/rot/                     /drommer/rotte/                   301
 /guider/barn-och-drommar/         /guider/barn-og-drommer/          301
@@ -72,10 +48,30 @@
 /sv/guider/gjentakende-drommer/   /sv/guider/aterkommande-drommar/  301
 /sv/guider/mardrommar/            /sv/guider/mardrom/               301
 /sv/kategori/vann/                /sv/kategori/vatten/              301
-/sv/sovn/ptsd-drommar/            /sv/somn/ptsd-drommar/            301  
-/sv/sovn/somn-graviditet/         /sv/somn/somn-graviditet/         301  
-/sv/sovn/sorg-somn/               /sv/somn/sorg-somn/               301  
+/sv/sovn/ptsd-drommar/            /sv/somn/ptsd-drommar/            301
+/sv/sovn/somn-graviditet/         /sv/somn/somn-graviditet/         301
+/sv/sovn/sorg-somn/               /sv/somn/sorg-somn/               301
 /sv/sovn/sovnfaser/               /sv/somn/somnfaser/               301
+
+# Nye redirects (resolvet 2026-06-13 — etter at flere SV-sider er lagt til)
+/sv/drommar/skam/                 /sv/drommar/skammas/              301
+/sv/drommar/skiljas/              /sv/drommar/separation/           301
+/sv/drommar/framling/             /sv/drommar/frammande/            301
+/sv/drommar/foedsel/              /sv/drommar/fodelse/              301
+/sv/drommar/exet/                 /sv/drommar/ex/                   301
+/sv/drommar/flygning/             /sv/drommar/flyga/                301
+/sv/drommar/homo-sex-drom/        /sv/drommar/homosexuell-drom/     301
+/sv/drommar/kropp/                /sv/kategori/kropp/               301
+/sv/drommar/vatten/               /sv/kategori/vatten/              301
+/sv/drommar/sorg/                 /sv/somn/sorg-somn/               301
+/sv/guider/lucid-dromning/        /sv/guider/klardromning/          301
+/drommer/kropp/                   /kategori/kropp/                  301
+/drommer/vann/                    /kategori/vann/                   301
+/drommer/sorg/                    /sovn/sorg-sovn/                  301
+/guider/aterkommande-drommar/     /guider/gjentakende-drommer/      301
+/guider/klardromning/             /guider/lucid-dromming/           301
+/guider/somnforlamning/           /guider/sovnparalyse/             301
+/guider/drommar-om-avlidna/       /guider/drommer-om-avdode/        301
 
 # ============================================================
 # Trailing slash enforcement — tving 301 i stedet for default 308

@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om ører?
 
-Øret er i drømmesymbolikken lytteorganet — og dermed symbolet på oppmerksomhet, kommunikasjon og det å åpne seg for noe utenfor seg selv. Drømmer om ører handler om hørsel i videste forstand: hva lytter du til, hva stenger du ute, og hva prøver å nå deg? De henger tett sammen med drømmer om [øyne](/drommer/oyne), som handler om det du ser og ikke ser.
+Øret er i drømmesymbolikken lytteorganet — og dermed symbolet på oppmerksomhet, kommunikasjon og det å åpne seg for noe utenfor seg selv. Drømmer om ører handler om hørsel i videste forstand: hva lytter du til, hva stenger du ute, og hva prøver å nå deg? De henger tett sammen med drømmer om [øyne](/drommer/oyne/), som handler om det du ser og ikke ser.
 
 ## De vanligste tolkningene
 
@@ -49,13 +49,13 @@ Kommunikasjonsbrudd — noe i relasjonen til omverdenen er skadet.
 Det du hørte er ladet med mening — hva sa de?
 
 **Hvis du ikke kunne høre:**
-En isolasjon eller en avskjæring fra noe viktig. Se også [munnen](/drommer/munn) som handler om det du uttrykker.
+En isolasjon eller en avskjæring fra noe viktig. Se også [munnen](/drommer/munn/) som handler om det du uttrykker.
 
 ## Psykologiske og kulturelle perspektiver
 
 I mange spirituelle tradisjoner er lytteevnen knyttet til visdom — den vise hører mer enn den taler. "Den som har ører, hør" er ett av historiens mest gjentatte visdomsuttrykk. Å drømme om ører er å drømme om selve grunnlaget for forståelse: at vi faktisk mottar det som sendes.
 
-Jung ville sett en blokkert øredrøm som et tegn på at Ego-et ikke vil høre noe fra det ubevisste — en motstand mot innsikt som trenger å overvinnes. Drømmer om [fremmede](/drommer/fremmed) kan også handle om å lytte til noe ukjent i seg selv.
+Jung ville sett en blokkert øredrøm som et tegn på at Ego-et ikke vil høre noe fra det ubevisste — en motstand mot innsikt som trenger å overvinnes. Drømmer om [fremmede](/drommer/fremmed/) kan også handle om å lytte til noe ukjent i seg selv.
 
 ## Drømmeguiden anbefaler
 

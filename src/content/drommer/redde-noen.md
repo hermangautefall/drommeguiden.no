@@ -32,7 +32,7 @@ Spør deg: hvem var det jeg reddet — og hva representerer de for meg?
 
 Noen mennesker er sterke omsorgspersoner av natur — de er de første til å se andres behov, de siste til å prioritere sine egne. Redningsdrømmene er særlig vanlige hos slike mennesker: psyken speiler rollen de spiller i det våkne livet.
 
-Spørsmålet er da: hvem tar vare på deg? Og er det rom i livet ditt til at du også kan [bli reddet](/drommer/bli-reddet)?
+Spørsmålet er da: hvem tar vare på deg? Og er det rom i livet ditt til at du også kan [bli reddet](/drommer/bli-reddet/)?
 
 ### Hjelpeløshet i virkeligheten — kompensert i drøm
 

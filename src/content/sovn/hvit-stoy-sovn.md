@@ -80,7 +80,7 @@ Klassisk musikk, ambient elektronika, akustisk gitar og piano er blant de best s
 
 Hvit støy og lydmaskering reduserer nattlige oppvåkninger, noe som betyr mer sammenhengende søvnsykluser. For drømmehusking er dette positivt: du avbrytes sjeldnere fra REM-søvn midt i en drøm, og husker derfor mer sammenhengende drømmescenarioer.
 
-Noen rapporterer også at bestemte naturlyder — hav, regn, skog — påvirker drømmenes setting. Det er ikke veldokumentert vitenskapelig, men det er et spennende fenomen å eksperimentere med i [drømmejournalen](/guider/drommejournalen).
+Noen rapporterer også at bestemte naturlyder — hav, regn, skog — påvirker drømmenes setting. Det er ikke veldokumentert vitenskapelig, men det er et spennende fenomen å eksperimentere med i [drømmejournalen](/guider/drommejournalen/).
 
 ## Oppsummering
 
@@ -93,7 +93,7 @@ Lydmaskering er et enkelt og effektivt søvntiltak — særlig i støyete miljø
 - Hold volumet lavt (50–65 dB) og bruk det konsistent for kondisjoneringseffekt
 - Gir mer sammenhengende søvn og bedre drømmehusking
 
-Les videre: [Soverommet for bedre søvn](/sovn/soverom-sovn) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Drømmejournalen](/guider/drommejournalen)
+Les videre: [Soverommet for bedre søvn](/sovn/soverom-sovn/) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Drømmejournalen](/guider/drommejournalen/)
 
 ## Kilder
 

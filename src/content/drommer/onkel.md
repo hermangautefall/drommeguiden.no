@@ -26,7 +26,7 @@ Drømmer om onkelen din dukker gjerne opp i perioder der du leter etter en form 
 
 ### Maskulin veiledning uten krav
 
-Den vanligste tolkningen handler om en mannsrolle som kan gi av sin erfaring uten de kompliserte forventningene som knytter seg til [farrelasjonen](/drommer/far). Onkelen kan snakke med deg som en likemann, vise deg noe, fortelle en historie. Drømmens onkel representerer tilgang til denne typen uforpliktende maskulin visdom — et råd uten dom, en stemme som ikke skal styre deg.
+Den vanligste tolkningen handler om en mannsrolle som kan gi av sin erfaring uten de kompliserte forventningene som knytter seg til [farrelasjonen](/drommer/far/). Onkelen kan snakke med deg som en likemann, vise deg noe, fortelle en historie. Drømmens onkel representerer tilgang til denne typen uforpliktende maskulin visdom — et råd uten dom, en stemme som ikke skal styre deg.
 
 ### En alternativ maskulin modell
 
@@ -34,7 +34,7 @@ Onkelen lever ofte et annet liv enn faren — et annet yrke, et annet sted, en a
 
 ### Familiens forteller og bærer
 
-I mange familier er onkelen den som husker, den som kjenner historiene om faren som ung, om [bestefaren](/drommer/bestefar), om de hendelsene ingen andre snakker om. Drømmens onkel kan gi deg tilgang til denne familiehukommelsen — særlig hvis han forteller noe konkret i drømmen. Hva han sa er da ofte selve budskapet.
+I mange familier er onkelen den som husker, den som kjenner historiene om faren som ung, om [bestefaren](/drommer/bestefar/), om de hendelsene ingen andre snakker om. Drømmens onkel kan gi deg tilgang til denne familiehukommelsen — særlig hvis han forteller noe konkret i drømmen. Hva han sa er da ofte selve budskapet.
 
 ### Et indre bilde av maskulin omsorg
 

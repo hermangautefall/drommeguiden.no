@@ -49,7 +49,7 @@ Uansett tolkning: disse drømmene etterlater gjerne en dyp ro.
 ## Hva påvirker tolkningen?
 
 **Hvis du ble reddet fra å drukne:**
-Se [drukne](/drommer/drukne) — det å bli overmannet av følelser, og redningen som muligheten til å puste igjen.
+Se [drukne](/drommer/drukne/) — det å bli overmannet av følelser, og redningen som muligheten til å puste igjen.
 
 **Hvis du ble reddet av en fremmed:**
 En ukjent ressurs i deg selv aktiveres. Hva trengs, og hva har du som du ikke kjenner til?

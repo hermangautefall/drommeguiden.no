@@ -40,7 +40,7 @@ Huden er sanseorganet for berøring. Å drømme om hud kan speile et behov for f
 
 ### Hudproblemer som symboler
 
-Drømmens hudproblemer — utslett, [sår](/drommer/saar), akne, flekker — er sjelden om faktisk hudhelse. De speiler gjerne noe som "kretser under overflaten" og ikke har fått uttrykk: emosjoner som ikke er bearbeidet, stress som sitter i kroppen, eller noe som trenger å komme ut men ikke vet veien.
+Drømmens hudproblemer — utslett, [sår](/drommer/saar/), akne, flekker — er sjelden om faktisk hudhelse. De speiler gjerne noe som "kretser under overflaten" og ikke har fått uttrykk: emosjoner som ikke er bearbeidet, stress som sitter i kroppen, eller noe som trenger å komme ut men ikke vet veien.
 
 ## Hva påvirker tolkningen?
 
@@ -61,7 +61,7 @@ Symbolsk transformasjon — du er i ferd med å bli noe annet, eller opplever de
 
 ## Psykologiske og kulturelle perspektiver
 
-Huden som identitetsmarkør er et av de mest kulturelt ladede symbolene som finnes — hudfarge, tatoveringer, [arr](/drommer/arr) og kroppsmodifisering har i alle kulturer fungert som identitetserklæringer og tilhørighetssignaler.
+Huden som identitetsmarkør er et av de mest kulturelt ladede symbolene som finnes — hudfarge, tatoveringer, [arr](/drommer/arr/) og kroppsmodifisering har i alle kulturer fungert som identitetserklæringer og tilhørighetssignaler.
 
 I psykosomatisk medisin er huden spesielt interessant: det er veldokumentert at stress, angst og emosjonelle konflikter manifesterer seg som hudproblemer — eksem, psoriasis og utslett er klassiske psykosomatiske tilstander. Kroppen "snakker" gjennom huden, og drømmens hud gjør det samme.
 

@@ -79,7 +79,7 @@ Melatonin er et tidssignal, ikke et sovemiddel:
 - Det hjelper lite mot vanlig insomni der problemet er grubletanker og angst
 - Timing er avgjørende: 30–60 minutter før ønsket leggetid
 
-Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Søvnhygiene](/sovn/sovnhygiene)
+Les videre: [Søvnfaser forklart](/sovn/sovnfaser/) — [Søvnproblemer og insomni](/sovn/sovnproblemer/) — [Søvnhygiene](/sovn/sovnhygiene/)
 
 ## Kilder
 

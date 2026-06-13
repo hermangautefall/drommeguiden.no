@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om krokodille?
 
-Krokodillen er ett av naturens mest fryktinngytende eksempler på tålmodig, skjult fare — den flyter stille under overflaten i [havet](/drommer/hav), nesten usynlig, og slår til med eksplosiv kraft. I drømmeverdenen bærer den med seg denne kvaliteten av lurende trussel og iskaldt instinkt.
+Krokodillen er ett av naturens mest fryktinngytende eksempler på tålmodig, skjult fare — den flyter stille under overflaten i [havet](/drommer/hav/), nesten usynlig, og slår til med eksplosiv kraft. I drømmeverdenen bærer den med seg denne kvaliteten av lurende trussel og iskaldt instinkt.
 
 Men krokodillen er også ett av jordens eldste og mest overlevelsesdyktige dyr — en overlever som har klart seg gjennom fem masseutryddelser. Den er kort sagt levende fortid, en arketypisk skapning fra en tid før menneskene fantes. Drømmer om krokodille bærer alltid på denne dobbeltheten: trusselen og overlevelseskraften.
 
@@ -26,7 +26,7 @@ Men krokodillen er også ett av jordens eldste og mest overlevelsesdyktige dyr �
 
 ### Skjult fare og bedrag
 
-Den vanligste tolkningen av krokodillen handler om noe som er farligere enn det ser ut — en situasjon som fremstår rolig, men er spent til bristepunktet, eller en person som skjuler sine egentlige intensjoner — et tema som deles med [slangen](/drommer/slange) i drømmesymbolikken. Drømmen kan advare: ikke la deg lure av overflaten. Det er noe som ligger og venter under det rolige.
+Den vanligste tolkningen av krokodillen handler om noe som er farligere enn det ser ut — en situasjon som fremstår rolig, men er spent til bristepunktet, eller en person som skjuler sine egentlige intensjoner — et tema som deles med [slangen](/drommer/slange/) i drømmesymbolikken. Drømmen kan advare: ikke la deg lure av overflaten. Det er noe som ligger og venter under det rolige.
 
 ### Noe som venter tålmodig
 
@@ -53,7 +53,7 @@ En fare du har oversett treffer deg. Noe ubehagelig du har unngått konfronterer
 Du er klar over risikoen, men trygg foreløpig. Hold avstand.
 
 **Hvis du er i vannet med krokodillen:**
-Du er midt i en farlig situasjon og kjenner på sårbarhet, lignende det å drømme om å [drukne](/drommer/drukne). Beveg deg forsiktig.
+Du er midt i en farlig situasjon og kjenner på sårbarhet, lignende det å drømme om å [drukne](/drommer/drukne/). Beveg deg forsiktig.
 
 **Hvis krokodillen ikke bryr seg om deg:**
 En trussel som ikke er rettet mot deg akkurat nå — men vær oppmerksom.

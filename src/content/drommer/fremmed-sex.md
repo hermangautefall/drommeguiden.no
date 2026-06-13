@@ -18,7 +18,7 @@ relaterte_sovn:
   - hvorfor-drommer-vi
 ---
 
-## Hva betyr det å drømme om sex med en [fremmed](/drommer/fremmed)?
+## Hva betyr det å drømme om sex med en [fremmed](/drommer/fremmed/)?
 
 Av alle seksuelle drømmer er dette kanskje den mest psykologisk interessante: en person du aldri har møtt, som ikke finnes i ditt kjente liv, og som du er seksuelt intim med i drømmen. Hvem er de egentlig?
 

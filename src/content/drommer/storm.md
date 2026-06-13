@@ -39,7 +39,7 @@ Stormer er naturens mest dramatiske endringsagenter. De river ned, vasker bort o
 
 Denne forandringen trenger ikke være negativ. En storm kan rydde grunnen for noe nytt — den kan bety at gamle strukturer som ikke lenger tjener deg, er i ferd med å bli revet ned slik at noe bedre kan bygges. Mange drømmer om stormer i overgangsfaser: når de er i ferd med å avslutte studier, skifte karriere, eller gå gjennom et brudd.
 
-Forbindelsen til [hav](/drommer/hav) er tydelig her: havet og stormen deler tematikken rundt følelsesmessig dybde og kraft. Drømmer du om storm over havet, forsterkes budskapet om emosjonell omveltning.
+Forbindelsen til [hav](/drommer/hav/) er tydelig her: havet og stormen deler tematikken rundt følelsesmessig dybde og kraft. Drømmer du om storm over havet, forsterkes budskapet om emosjonell omveltning.
 
 ### Undertrykte følelser som presser seg frem
 
@@ -57,12 +57,12 @@ Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike t
 Kan tyde på at du beskytter deg mot noe overveldende i livet ditt, eller at du har klokskapen til å vite når du skal trekke deg tilbake.
 
 **Hvis stormen ødelegger ting rundt deg:**
-Et kraftig bilde som kan speile tap eller frykt for å miste noe viktig. Se også drømmer om [brann](/drommer/brann) for lignende destruksjonssymbolikk.
+Et kraftig bilde som kan speile tap eller frykt for å miste noe viktig. Se også drømmer om [brann](/drommer/brann/) for lignende destruksjonssymbolikk.
 
 **Hvis stormen går over og solen kommer frem:**
 Et positivt tegn. Kan bety at en vanskelig periode er i ferd med å avsluttes, og at klarhet og ro venter på den andre siden.
 
-**Hvis stormen er akkompagnert av [regn](/drommer/regn):**
+**Hvis stormen er akkompagnert av [regn](/drommer/regn/):**
 Regnet tilfører et eget lag av symbolikk — renselse, følelsesutløsning eller fornyelse. Kombinasjonen av storm og regn peker ofte mot en emosjonell gjennomgang som til slutt virker helende.
 
 ---

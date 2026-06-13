@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om vikingskip?
 
-Vikingskipet er ett av historiens mest imponerende teknologiske og estetiske bedrifter — slankt, raskt, manøvrerbart, i stand til å krysse Atlanteren og navigere i grunne [elver](/drommer/elv) på én gang. Det er et symbol på menneskelig dristighet og evne til å overvinne det tilsynelatende umulige.
+Vikingskipet er ett av historiens mest imponerende teknologiske og estetiske bedrifter — slankt, raskt, manøvrerbart, i stand til å krysse Atlanteren og navigere i grunne [elver](/drommer/elv/) på én gang. Det er et symbol på menneskelig dristighet og evne til å overvinne det tilsynelatende umulige.
 
 For nordmenn er vikingskipet identitet. Det er oss, for tusen år siden, på vei ut i verden.
 
@@ -38,7 +38,7 @@ Vikingferden var ingen tur — den var en innsats av alt man hadde. Drømmens vi
 
 ## Hva påvirker tolkningen?
 
-**Hvis [skipet](/drommer/skip) seilte mot horisonten:**
+**Hvis [skipet](/drommer/skip/) seilte mot horisonten:**
 En dristig ny begynnelse — du er på vei mot noe ukjent men viktig.
 
 **Hvis du var om bord:**
@@ -55,7 +55,7 @@ En norrøn begravelse er den ultimate hyllest — noe avsluttes med verdighet og
 
 ## Psykologiske og kulturelle perspektiver
 
-Vikingskipets eleganse er ikke tilfeldig — det ble bygget av folk som visste at [havet](/drommer/hav) ville drepe dem om skipet ikke var perfekt. Drømmens vikingskip bærer på denne kombinasjonen av skjønnhet og nødvendighet: noe er vakker fordi det er så ytterst funksjonelt.
+Vikingskipets eleganse er ikke tilfeldig — det ble bygget av folk som visste at [havet](/drommer/hav/) ville drepe dem om skipet ikke var perfekt. Drømmens vikingskip bærer på denne kombinasjonen av skjønnhet og nødvendighet: noe er vakker fordi det er så ytterst funksjonelt.
 
 Osebergskipet og Gokstadskipet i Vikingskipshuset på Bygdøy er blant Norges mest besøkte kulturskatter — vi identifiserer oss med dem på et nivå som er dypere enn historisk interesse. Det er en del av oss.
 

@@ -20,7 +20,7 @@ relaterte_sovn:
 
 ## Hva betyr det å drømme om mat?
 
-Mat er mer enn næring — det er kjærlighet, kultur, trygghet og nytelse på én gang, og i drømmeverdenen kan den knyttes til andre overflod- og knapphetsdrømmer som drømmer om [penger](/drommer/penger). I drømmeverdenen er mat et av de mer jordnære og direkte symbolene, men det betyr ikke at det er enkelt. Hva du spiser, hvem du spiser med, om du er sulten eller mett — alt dette gir ledetråder til hva drømmen prøver å si.
+Mat er mer enn næring — det er kjærlighet, kultur, trygghet og nytelse på én gang, og i drømmeverdenen kan den knyttes til andre overflod- og knapphetsdrømmer som drømmer om [penger](/drommer/penger/). I drømmeverdenen er mat et av de mer jordnære og direkte symbolene, men det betyr ikke at det er enkelt. Hva du spiser, hvem du spiser med, om du er sulten eller mett — alt dette gir ledetråder til hva drømmen prøver å si.
 
 Matdrømmene handler sjelden om sultfornemmelsen alene.
 
@@ -28,11 +28,11 @@ Matdrømmene handler sjelden om sultfornemmelsen alene.
 
 ### Et grunnleggende behov som ikke er møtt
 
-Den vanligste tolkningen av matdrømmer handler om et udekket behov — ikke nødvendigvis mat, men noe grunnleggende du mangler. Omsorg, nærhet, anerkjennelse, ro, tid for deg selv. Drømmer om [mage](/drommer/mage) deler ofte denne tematikken om kropp og behov. Mat er i drømmesymbolikken en metafor for det vi trenger for å overleve og trives — og drømmen spør: hva er du sulten på egentlig?
+Den vanligste tolkningen av matdrømmer handler om et udekket behov — ikke nødvendigvis mat, men noe grunnleggende du mangler. Omsorg, nærhet, anerkjennelse, ro, tid for deg selv. Drømmer om [mage](/drommer/mage/) deler ofte denne tematikken om kropp og behov. Mat er i drømmesymbolikken en metafor for det vi trenger for å overleve og trives — og drømmen spør: hva er du sulten på egentlig?
 
 ### Begjær, nytelse og tillatelse
 
-Mat er nytelse — og drømmer om deilig mat, om å spise fritt og med glede, kan handle om tillatelse til å nyte livet. En del av deg søker mer glede, mer nytelse, mer av det som smaker godt — bokstavelig eller overført. Drømmen kan komme i perioder der du disiplinerer deg mye og tillater deg lite — lignende temaer dukker opp i drømmer om [alkohol](/drommer/alkohol), der nytelse og kontroll veies mot hverandre.
+Mat er nytelse — og drømmer om deilig mat, om å spise fritt og med glede, kan handle om tillatelse til å nyte livet. En del av deg søker mer glede, mer nytelse, mer av det som smaker godt — bokstavelig eller overført. Drømmen kan komme i perioder der du disiplinerer deg mye og tillater deg lite — lignende temaer dukker opp i drømmer om [alkohol](/drommer/alkohol/), der nytelse og kontroll veies mot hverandre.
 
 ### Omsorg og deling
 
@@ -59,7 +59,7 @@ Omsorg og generøsitet — et ønske om å gi, eller kanskje en tendens til å g
 
 I psykoanalytisk tradisjon er mat tett knyttet til de tidligste erfaringene av omsorg — brystet, maten, den som gir næring. Matdrømmene berører dermed noe svært grunnleggende i den menneskelige psyken: urbehovet for å bli sett og ivaretatt.
 
-I norsk kultur har mat og måltid en sterk sosial funksjon — søndagsmiddagen i [hjemmet](/drommer/hus), julens tradisjoner, kosen med noe godt. Å drømme om mat i norsk kontekst er å drømme om tilhørighet og tradisjon like mye som ernæring.
+I norsk kultur har mat og måltid en sterk sosial funksjon — søndagsmiddagen i [hjemmet](/drommer/hus/), julens tradisjoner, kosen med noe godt. Å drømme om mat i norsk kontekst er å drømme om tilhørighet og tradisjon like mye som ernæring.
 
 ## Drømmeguiden anbefaler
 

@@ -37,7 +37,7 @@ Den mest utbredte tolkningen av falledrømmer handler om kontroll — eller rett
 
 Fallet i drømmen representerer ikke nødvendigvis noe negativt som faktisk skjer, men heller følelsen av at du ikke har grep om situasjonen. Det er verdt å spørre seg selv: Er det noe i livet mitt akkurat nå som føles ustabilt? Hvor i livet prøver jeg å holde fast, men kjenner at grepet glipper?
 
-Drømmer om å falle fra et [fjell](/drommer/fjell) eller en stor høyde kan forsterke denne tolkningen — jo høyere fallet, desto sterkere kan følelsen av sårbarhet være.
+Drømmer om å falle fra et [fjell](/drommer/fjell/) eller en stor høyde kan forsterke denne tolkningen — jo høyere fallet, desto sterkere kan følelsen av sårbarhet være.
 
 ### Frykt for å mislykkes
 
@@ -45,7 +45,7 @@ Mange som drømmer om å falle opplever det i perioder med prestasjonskrav. Det 
 
 Denne typen falledrøm er spesielt vanlig blant folk som stiller høye krav til seg selv. Drømmen avslører den indre stemmen som sier: «Hva om alt går galt?» Men det er viktig å huske at drømmen ikke forutsier at du vil mislykkes. Den speiler bare angsten — og angst er noe man kan jobbe med.
 
-Hvis du også drømmer om å være på [skole](/drommer/skole) eller i en testsituasjon i forbindelse med fallet, forsterkes koblingen til prestasjonsfrykt. Det er et signal om å være snillere med deg selv.
+Hvis du også drømmer om å være på [skole](/drommer/skole/) eller i en testsituasjon i forbindelse med fallet, forsterkes koblingen til prestasjonsfrykt. Det er et signal om å være snillere med deg selv.
 
 ### Å slippe taket — en invitasjon til tillit
 
@@ -53,7 +53,7 @@ En mer overraskende tolkning av falledrømmer handler ikke om frykt, men om till
 
 Tenk på det slik: Når du faller i drømmen, har du ikke lenger kontroll over bevegelsen. Og kanskje er det nettopp det drømmen prøver å si — at det er greit å ikke ha kontroll over alt. Noen ting må bare få utfolde seg.
 
-Denne tolkningen er spesielt relevant hvis fallet i drømmen ikke var skremmende, men heller fredelig eller nøytralt. Drømmer der fallet går over i [flyging](/drommer/flyging) kan dessuten symbolisere at det å slippe kontrollen faktisk kan frigjøre deg.
+Denne tolkningen er spesielt relevant hvis fallet i drømmen ikke var skremmende, men heller fredelig eller nøytralt. Drømmer der fallet går over i [flyging](/drommer/flyging/) kan dessuten symbolisere at det å slippe kontrollen faktisk kan frigjøre deg.
 
 ---
 
@@ -71,7 +71,7 @@ Jo høyere fallet, desto sterkere er gjerne den følelsesmessige ladningen. Det 
 En trygg landing kan tolkes som et tegn på at du har indre ressurser til å håndtere det som skjer. Selv om situasjonen føles kaotisk, kommer du til å klare deg.
 
 **Hvis du falt inn i vann:**
-Å falle i vann kombinerer to kraftige symboler. Vannet representerer følelser, og fallet representerer tap av kontroll — sammen kan de peke mot at du føler deg overveldet emosjonelt. Les mer om hva det betyr å drømme om [havet](/drommer/hav).
+Å falle i vann kombinerer to kraftige symboler. Vannet representerer følelser, og fallet representerer tap av kontroll — sammen kan de peke mot at du føler deg overveldet emosjonelt. Les mer om hva det betyr å drømme om [havet](/drommer/hav/).
 
 ---
 
@@ -81,7 +81,7 @@ Fra et fysiologisk perspektiv har falledrømmer en interessant forklaring: De op
 
 Psykologen Sigmund Freud mente at falledrømmer kunne knyttes til angst og ubevisste konflikter. Carl Jung hadde en bredere tilnærming og så fallet som en del av individuasjonsprosessen — det å bli konfrontert med sine skyggesider og lære å akseptere hele seg selv. I jungiansk tradisjon kan fallet representere en nødvendig nedstigning til det ubevisste for å hente opp noe verdifullt.
 
-I nordisk folketro har drømmer om fall noen ganger blitt tolket som et varsel om at noe i livet er i ubalanse. Det var ikke nødvendigvis et dårlig tegn, men heller en oppfordring om å stoppe opp og vurdere kursen. Drømmer om å stå på kanten av et [mørkt rom](/drommer/morkt-rom) eller på randen av et stup deler noe av den samme symbolikken — du står ved et vendepunkt.
+I nordisk folketro har drømmer om fall noen ganger blitt tolket som et varsel om at noe i livet er i ubalanse. Det var ikke nødvendigvis et dårlig tegn, men heller en oppfordring om å stoppe opp og vurdere kursen. Drømmer om å stå på kanten av et [mørkt rom](/drommer/morkt-rom/) eller på randen av et stup deler noe av den samme symbolikken — du står ved et vendepunkt.
 
 ---
 

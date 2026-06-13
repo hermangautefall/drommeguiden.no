@@ -26,7 +26,7 @@ Musdrømmene er vanlige, og de bærer gjerne på et spesifikt budskap om noe i l
 
 ### Små irritasjoner som har hopet seg opp
 
-Den vanligste tolkningen handler om alt det lille som samler seg til noe uoversiktlig — småproblemer, uavklarte oppgaver, bekymringer du har skjøvet under teppet. Se også [maur](/drommer/maur) for lignende symbolikk om det smått vedvarende. Som mus som gnager i veggene — det er der, det skjer, men du ser det ikke før det plutselig er mange og problemet er større enn du trodde.
+Den vanligste tolkningen handler om alt det lille som samler seg til noe uoversiktlig — småproblemer, uavklarte oppgaver, bekymringer du har skjøvet under teppet. Se også [maur](/drommer/maur/) for lignende symbolikk om det smått vedvarende. Som mus som gnager i veggene — det er der, det skjer, men du ser det ikke før det plutselig er mange og problemet er større enn du trodde.
 
 ### Skarpsindighet og evne til å navigere det smale
 
@@ -48,7 +48,7 @@ Den smarte, nøysomme siden av deg selv — klok med lite ressurser.
 Noe ødelegges langsomt av noe lite men vedvarende.
 
 **Hvis du var redd for musen:**
-En frykt som er uforholdsmessig stor i forhold til den faktiske trusselen. Se også [edderkopp](/drommer/edderkopp) for andre fobiske drømmesymboler.
+En frykt som er uforholdsmessig stor i forhold til den faktiske trusselen. Se også [edderkopp](/drommer/edderkopp/) for andre fobiske drømmesymboler.
 
 **Hvis du fanget musen:**
 Du tar tak i noe lite men plagsomt og løser det.
@@ -57,7 +57,7 @@ Du tar tak i noe lite men plagsomt og løser det.
 
 I eventyrtradisjonen er musen gjerne den lille som hjelper — den som kan der de store mislykkes, fordi størrelse ikke alltid er en fordel. Askepotts mus som ble hester er kanskje det sterkeste bildet: det lille og ubetydelige kan bli noe stort når det rette øyeblikket kommer.
 
-Jung ville sett musen som et symbol på det personlige ubevisste i sin mest hverdagslige form — de små, hverdagslige kompleksene og bekymringene som gnager i bakgrunnen av bevisstheten. Drømmer om [huset](/drommer/hus) ditt, der musen gjerne opptrer, handler om selvet og ditt indre rom.
+Jung ville sett musen som et symbol på det personlige ubevisste i sin mest hverdagslige form — de små, hverdagslige kompleksene og bekymringene som gnager i bakgrunnen av bevisstheten. Drømmer om [huset](/drommer/hus/) ditt, der musen gjerne opptrer, handler om selvet og ditt indre rom.
 
 ## Drømmeguiden anbefaler
 

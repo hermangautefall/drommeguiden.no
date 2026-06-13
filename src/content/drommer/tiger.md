@@ -18,9 +18,9 @@ author: 'default'
 
 ## Hva betyr det å drømme om tiger?
 
-Der [løven](/drommer/love) er kongen, er tigeren det ville — utemmet, uforutsigbar og ladet med rå energi. Tigeren i drømmer bringer med seg en intensitet som er vanskelig å ignorere. Den er sjelden en rolig drøm. Noe er i bevegelse, noe krever oppmerksomhet.
+Der [løven](/drommer/love/) er kongen, er tigeren det ville — utemmet, uforutsigbar og ladet med rå energi. Tigeren i drømmer bringer med seg en intensitet som er vanskelig å ignorere. Den er sjelden en rolig drøm. Noe er i bevegelse, noe krever oppmerksomhet.
 
-Tigeren skiller seg fra løven ved at den er mer solitær og mer uforutsigbar — lignende [bjørnen](/drommer/bjorn) i sin ensomme kraft — den jakter alene, og den slår til uten forvarsel.
+Tigeren skiller seg fra løven ved at den er mer solitær og mer uforutsigbar — lignende [bjørnen](/drommer/bjorn/) i sin ensomme kraft — den jakter alene, og den slår til uten forvarsel.
 
 
 ## De vanligste tolkningene
@@ -59,7 +59,7 @@ En ung, voksende kraft. Potensial som ennå ikke er fullt utviklet.
 
 I kinesisk tradisjon er tigeren ett av de tolv dyrene i zodiac-syklusen og symboliserer mot, energi og beskyttelse. Tiger-personer sies å være karismatiske, men impulsive. I hinduismen er gudinnen Durga avbildet ridende på tiger — kraft i gudinnens tjeneste.
 
-Jung så tigeren som en manifestasjon av Skyggen i sin mest ville form — ikke ulikt [slangen](/drommer/slange) — de sidene av oss vi ikke har integrert, men som har enorm energi. Drømmen er en invitasjon til å møte disse sidene med respekt fremfor frykt.
+Jung så tigeren som en manifestasjon av Skyggen i sin mest ville form — ikke ulikt [slangen](/drommer/slange/) — de sidene av oss vi ikke har integrert, men som har enorm energi. Drømmen er en invitasjon til å møte disse sidene med respekt fremfor frykt.
 
 
 ## Drømmeguiden anbefaler
@@ -68,4 +68,4 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om tiger **flere ganger**? Les om [gjentakende drømmer](/guider/gjentakende-drommer).
+- Har du drømt om tiger **flere ganger**? Les om [gjentakende drømmer](/guider/gjentakende-drommer/).

@@ -45,12 +45,12 @@ I jungiansk psykologi er seksuell energi i drømmene tett knyttet til det Jung k
 
 ### Forsoning og integrasjon
 
-Seksuelle drømmer om noen du har et vanskelig forhold til — en eksen, en konfliktfull relasjon, en person du er ambivalent overfor — kan handle om et dypere ønske om forsoning eller integrasjon. Å nærme seg noen i drøm er å nærme seg det de representerer. Drømmer om [eksen](/drommer/eksen) har ofte nettopp denne forsonende kvaliteten.
+Seksuelle drømmer om noen du har et vanskelig forhold til — en eksen, en konfliktfull relasjon, en person du er ambivalent overfor — kan handle om et dypere ønske om forsoning eller integrasjon. Å nærme seg noen i drøm er å nærme seg det de representerer. Drømmer om [eksen](/drommer/eksen/) har ofte nettopp denne forsonende kvaliteten.
 
 ## Hva påvirker tolkningen?
 
 **Hvis partneren var kjæresten eller samboeren:**
-Nærhet, begjær og tilknytning i forholdet — enten bekreftet eller et ønske om mer av det. Les mer om drømmer om [kjæresten](/drommer/kjaereste) for mer om hva partneren symboliserer.
+Nærhet, begjær og tilknytning i forholdet — enten bekreftet eller et ønske om mer av det. Les mer om drømmer om [kjæresten](/drommer/kjaereste/) for mer om hva partneren symboliserer.
 
 **Hvis partneren var en kollega eller venn:**
 Representerer trolig en egenskap — ikke personen selv. Hva beundrer du hos dem?
@@ -59,7 +59,7 @@ Representerer trolig en egenskap — ikke personen selv. Hva beundrer du hos dem
 Egenskapene de symboliserer i kulturen: frihet, suksess, skjønnhet, mot. Hva er det du egentlig lengter etter?
 
 **Hvis partneren var en fremmed:**
-En ukjent side av deg selv — en komplementær kvalitet som ønsker å integreres. Se også drømmer om [fremmede](/drommer/fremmed) for mer om ukjente skikkelser i drømmene.
+En ukjent side av deg selv — en komplementær kvalitet som ønsker å integreres. Se også drømmer om [fremmede](/drommer/fremmed/) for mer om ukjente skikkelser i drømmene.
 
 **Hvis partneren var noen det ville vært upassende med:**
 Ikke et tegn på undertrykte ønsker — snarere et tegn på at den personen representerer noe sterkt for deg. Hjernen velger sterke symboler.
@@ -71,7 +71,7 @@ En indre konflikt om noe du ønsker men ikke tillater deg selv. Noe som er forbu
 
 Sigmund Freud mente at seksuelle drømmer var direkte uttrykk for undertrykte ønsker og at de avslørte det ubevisste begjæret. Carl Jung tok et videre perspektiv: sex i drømmene handler om forening av motsetninger — det maskuline og feminine, det bevisste og ubevisste, selvet og den andre.
 
-Moderne drømmeforskning støtter Jungs mer nyanserte syn. Seksuelle drømmer er svært vanlige (de fleste voksne har dem regelmessig), og de er ikke tegn på problemer, undertrykte ønsker eller umoralske impulser — de er en normal del av hjernens nattlige bearbeiding av sosiale og emosjonelle relasjoner. Drømmer om å være [naken](/drommer/naken) henger ofte tematisk sammen med seksuelle drømmer.
+Moderne drømmeforskning støtter Jungs mer nyanserte syn. Seksuelle drømmer er svært vanlige (de fleste voksne har dem regelmessig), og de er ikke tegn på problemer, undertrykte ønsker eller umoralske impulser — de er en normal del av hjernens nattlige bearbeiding av sosiale og emosjonelle relasjoner. Drømmer om å være [naken](/drommer/naken/) henger ofte tematisk sammen med seksuelle drømmer.
 
 I norsk og vestlig kultur er det en tendens til å overfortolke eller skamlegge seksuelle drømmer. Men de fortjener den samme nøkterne, nysgjerrige tilnærmingen som alle andre drømmer.
 

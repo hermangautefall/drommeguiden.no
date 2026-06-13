@@ -39,7 +39,7 @@ Skolen er et sted der vi formes — sosialt, intellektuelt og emosjonelt. Å dr�
 
 Drømmene tar deg tilbake fordi det finnes noe der som er uavsluttet. Det trenger ikke være dramatisk — det kan være en subtil følelse av utilstrekkelighet eller et minne om en periode der du ikke var trygg. Psyken bruker den kjente settingen til å bearbeide emosjonelt materiale som fortsatt har en resonans.
 
-Drømmer du om en spesifikk person fra skoletiden, for eksempel en [eks](/drommer/eksen), kan det forsterke denne tolkningen. Fortiden ber om oppmerksomhet.
+Drømmer du om en spesifikk person fra skoletiden, for eksempel en [eks](/drommer/eksen/), kan det forsterke denne tolkningen. Fortiden ber om oppmerksomhet.
 
 ### Tilhørighet og sosial usikkerhet
 
@@ -47,7 +47,7 @@ Skolen er ikke bare et sted for læring — den er kanskje det mest intense sosi
 
 Denne tolkningen er særlig relevant dersom drømmen har sosiale elementer — du sitter alene i kantinen, du er ny i klassen, eller du opplever å bli oversett. Det kan speile en følelse i nåtiden av å ikke passe helt inn, enten det er på jobb, i en vennegjeng eller i en ny livssituasjon.
 
-Drømmer om å stå foran klassen og føle seg utsatt, kan også knyttes til frykten for å bli sett — eller for å bli sett som utilstrekkelig. Se også [naken](/drommer/naken), som ofte deler dette temaet om sårbarhet og eksponering.
+Drømmer om å stå foran klassen og føle seg utsatt, kan også knyttes til frykten for å bli sett — eller for å bli sett som utilstrekkelig. Se også [naken](/drommer/naken/), som ofte deler dette temaet om sårbarhet og eksponering.
 
 ---
 
@@ -59,7 +59,7 @@ Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike t
 En klassiker som nesten alltid handler om prestasjonsfrykt. Noe i livet ditt føles som en test du ikke er klar for.
 
 **Hvis du går gjennom tomme korridorer:**
-Kan speile en følelse av å lete etter noe — mening, retning, eller en tilhørighet som mangler. Minner om temaet i drømmer om et [morkt-rom](/drommer/morkt-rom).
+Kan speile en følelse av å lete etter noe — mening, retning, eller en tilhørighet som mangler. Minner om temaet i drømmer om et [morkt-rom](/drommer/morkt-rom/).
 
 **Hvis du er tilbake som barn:**
 Tyder ofte på at drømmen handler om noe fra barndommen eller oppveksten som preger deg den dag i dag.

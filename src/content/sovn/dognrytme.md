@@ -56,7 +56,7 @@ Senkronotyper ("nattuggler") har klokken stilt litt senere — de er naturlig s�
 
 Forsker Till Roenneberg ved LMU München har kartlagt kronotypedistribusjonen i befolkningen og funnet at senkronotyper er i flertall blant tenåringer — det er biologisk programmert, ikke tenåringsstahet. Tidlig skolestart er et folkehelseproblem av denne grunn.
 
-Ekstreme senkronotyper kan ha en klinisk tilstand kalt "forsinket søvnfasesyndrom" — der klokken er så sent fasestilt at normal leggetid er klokken 03:00 og naturlig oppvåkning er 11:00–12:00. Se artikkelen om [melatonin](/sovn/melatonin) for behandlingsalternativer.
+Ekstreme senkronotyper kan ha en klinisk tilstand kalt "forsinket søvnfasesyndrom" — der klokken er så sent fasestilt at normal leggetid er klokken 03:00 og naturlig oppvåkning er 11:00–12:00. Se artikkelen om [melatonin](/sovn/melatonin/) for behandlingsalternativer.
 
 ## Hva som forstyrrer den biologiske klokken
 
@@ -68,7 +68,7 @@ Ekstreme senkronotyper kan ha en klinisk tilstand kalt "forsinket søvnfasesyndr
 
 **Matinntak.** Tidspunktet for måltider er en sekundær zeitgeber — å spise midt på natten sender motstridende signaler til de perifere klokkene i lever, mage og tarm.
 
-**Reise over tidssoner.** Jetlag er klokken ute av fase med omgivelsene. Kroppen tar 1–2 dager per tidssone å resette seg — noe som er grunnen til at [melatonin](/sovn/melatonin) ved korrekt timing kan hjelpe.
+**Reise over tidssoner.** Jetlag er klokken ute av fase med omgivelsene. Kroppen tar 1–2 dager per tidssone å resette seg — noe som er grunnen til at [melatonin](/sovn/melatonin/) ved korrekt timing kan hjelpe.
 
 ## Slik støtter du den biologiske klokken
 
@@ -86,7 +86,7 @@ Den biologiske klokken bestemmer ikke bare når du sovner — den bestemmer hvil
 
 Det betyr at den biologiske klokkens fasestilling direkte påvirker drømmekvaliteten. Senkronotyper som må stå opp tidlig til skole eller jobb mister primært REM-søvn — den rikeste drømmesøvnen. For dem er søvnmangel i stor grad drømmemangel.
 
-Forstyrret døgnrytme — som ved skiftarbeid eller kronisk sosial jetlag — er assosiert med mer ubehagelige og fragmenterte drømmescenarioer. Se guiden om [stress og drømmer](/guider/stress-og-drommer) for den fullstendige sammenhengen.
+Forstyrret døgnrytme — som ved skiftarbeid eller kronisk sosial jetlag — er assosiert med mer ubehagelige og fragmenterte drømmescenarioer. Se guiden om [stress og drømmer](/guider/stress-og-drommer/) for den fullstendige sammenhengen.
 
 ## Oppsummering
 
@@ -98,7 +98,7 @@ Den biologiske klokken er et av kroppens viktigste styringssystemer:
 - Sosial jetlag (ulik søvnrytme i helgene) er en undervurdert folkehelseutfordring
 - REM-søvnen og drømmene er de første til å forsvinne ved forstyrrelser i rytmen
 
-Les videre: [Melatonin — dose og bruk](/sovn/melatonin) — [Søvnfaser forklart](/sovn/sovnfaser) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene)
+Les videre: [Melatonin — dose og bruk](/sovn/melatonin/) — [Søvnfaser forklart](/sovn/sovnfaser/) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/)
 
 ## Kilder
 

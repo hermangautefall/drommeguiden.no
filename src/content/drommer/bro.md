@@ -45,7 +45,7 @@ Du er klar for overgangen. Fundamentet holder, og den andre siden er innen rekke
 Overgangen er mulig, men krevende og risikofylt. Du er usikker på om du klarer det.
 
 **Hvis broen brast eller du falt:**
-Se symbolsiden for [falle](/drommer/falle) — overgangen er ikke klar ennå, eller noe svikter i prosessen.
+Se symbolsiden for [falle](/drommer/falle/) — overgangen er ikke klar ennå, eller noe svikter i prosessen.
 
 **Hvis du stod på broen uten å bevege deg:**
 Ambivalens — du er midt i en overgang men er ikke klar til å gå videre.
@@ -65,7 +65,7 @@ Jung beskrev broen som et av de sterkeste symbolene på psykologisk integrasjon 
 
 ## Kulturell og symbolsk betydning
 
-Bifrost — [regnbue](/drommer/regnbue)broen i norrøn mytologi — er den guddommelige broen mellom Midgard og Åsgard, mellom det menneskelige og det guddommelige. Den er fargerik, vakker og delvis usynlig for menneskene, og bare de verdige kan krysse den. Å drømme om en storslått bro i norsk kulturell kontekst berører noe av denne arven.
+Bifrost — [regnbue](/drommer/regnbue/)broen i norrøn mytologi — er den guddommelige broen mellom Midgard og Åsgard, mellom det menneskelige og det guddommelige. Den er fargerik, vakker og delvis usynlig for menneskene, og bare de verdige kan krysse den. Å drømme om en storslått bro i norsk kulturell kontekst berører noe av denne arven.
 
 ## Hva bør du gjøre etter en drøm om bro?
 

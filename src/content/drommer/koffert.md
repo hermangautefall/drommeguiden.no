@@ -28,7 +28,7 @@ Den vanligste tolkningen handler om det du bærer med deg — erfaringer, mønst
 
 ### En overgang eller reise
 
-Kofferten forbereder en reise — og drømmens koffert kan speile at noe er i ferd med å endre seg, at du er på vei et sted — kanskje til [utlandet](/drommer/utlandet) — at en ny fase nærmer seg. En pakket koffert er beredskap og forventning.
+Kofferten forbereder en reise — og drømmens koffert kan speile at noe er i ferd med å endre seg, at du er på vei et sted — kanskje til [utlandet](/drommer/utlandet/) — at en ny fase nærmer seg. En pakket koffert er beredskap og forventning.
 
 ### Noe du vil ta med eller legge igjen
 
@@ -43,7 +43,7 @@ Du bærer for mye. Noe kan legges igjen.
 Du er fri og klar for noe nytt — eller noe mangler.
 
 **Hvis du mistet kofferten:**
-En bekymring for tap av identitet eller noe viktig — se [miste-noe](/drommer/miste-noe).
+En bekymring for tap av identitet eller noe viktig — se [miste-noe](/drommer/miste-noe/).
 
 **Hvis du pakket kofferten:**
 Du forbereder deg på en overgang med bevissthet og hensikt.
@@ -58,7 +58,7 @@ Et overraskende funn i din egen bagasje — noe du bærer uten å ha visst det.
 
 "Emosjonell bagasje" er ikke tilfeldig som uttrykk — vi bærer bokstavelig talt fortiden med oss gjennom livet, som baggasje. Drømmens koffert er ett av de mest direkte bildene på dette.
 
-For en generasjon nordmenn er kofferten knyttet til emigrasjonen — de som forlot Norge med alt de eide i én koffert. Drømmer om koffert henger ofte sammen med drømmer om å [fly](/drommer/flyging). Denne historien lever i kulturen og gir kofferten en eksistensielt tung valens: det man tar med er det man er.
+For en generasjon nordmenn er kofferten knyttet til emigrasjonen — de som forlot Norge med alt de eide i én koffert. Drømmer om koffert henger ofte sammen med drømmer om å [fly](/drommer/flyging/). Denne historien lever i kulturen og gir kofferten en eksistensielt tung valens: det man tar med er det man er.
 
 ## Drømmeguiden anbefaler
 

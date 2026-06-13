@@ -29,7 +29,7 @@ Drømmer om å skille lag trenger ikke å handle om et romantisk forhold. Brudd 
 
 Det kan handle om en livssituasjon du er på vei ut av — en jobb, et bosted, en rolle du har hatt lenge. Psyken bruker bruddet som symbol fordi det er ett av de kraftigste bildene den har for faktisk avslutning og ny begynnelse.
 
-### Frykt for tap av [kjærlighet](/drommer/kjaerlighet) og tilhørighet
+### Frykt for tap av [kjærlighet](/drommer/kjaerlighet/) og tilhørighet
 
 Et av kjærlighetens grunnleggende angstbilder er dette: hva om jeg mister dem? Drømmens brudd kan speile nettopp denne frykten — ikke en prediksjon, men en projeksjon av utrygghet.
 
@@ -79,5 +79,5 @@ I norrøn tradisjon er avskjeden en av de mest ritualiserte handlingene i sagaen
 - Hva skjer i **livet ditt** akkurat nå — er noe på vei til å avsluttes?
 - Har du drømt om **avskjeder eller brudd** **flere ganger**?
 
-> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

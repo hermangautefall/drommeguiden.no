@@ -34,7 +34,7 @@ Steinen er tung. Drømmens stein kan representere en byrde — noe som er vanske
 
 ### Styrke og soliditet
 
-Steinen er sterk. Et steinhus, en steinmur, et stein[fjell](/drommer/fjell) — disse bildene speiler noe robust og holdbart. Drømmens stein kan representere en indre styrke eller et fundament du ikke visste du hadde, særlig hvis du selv reiser den eller bygger med den.
+Steinen er sterk. Et steinhus, en steinmur, et stein[fjell](/drommer/fjell/) — disse bildene speiler noe robust og holdbart. Drømmens stein kan representere en indre styrke eller et fundament du ikke visste du hadde, særlig hvis du selv reiser den eller bygger med den.
 
 ### Det hellige og det evige
 
@@ -53,13 +53,13 @@ En naturlig og harmonisk fasthet — noe solid og rent.
 En byrde du ikke klarer alene. Noe krever mer kraft eller hjelp.
 
 **Hvis steinen blokkerte veien:**
-En hindring som krever omvei eller bearbeiding. Se også [vei](/drommer/vei) i drøm.
+En hindring som krever omvei eller bearbeiding. Se også [vei](/drommer/vei/) i drøm.
 
 **Hvis du bygde noe av stein:**
 Du skaper noe varig og solid — et langsiktig prosjekt.
 
 **Hvis steinen var en edelstein:**
-Se [gull](/drommer/gull)-symbolikken — noe verdifullt gjemt i det harde.
+Se [gull](/drommer/gull/)-symbolikken — noe verdifullt gjemt i det harde.
 
 **Hvis steinen lyste:**
 Noe hellig eller betydningsfullt søker oppmerksomheten din.

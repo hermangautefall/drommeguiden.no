@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om stavkirke?
 
-Stavkirken er ett av de mest fascinerende kulturelle hybridene i Norges historie. Den er kristen — en [kirke](/drommer/kirke) — i form og innhold — men dens ornamenter og arkitektur er norrøne. [Drager](/drommer/drage) fletter seg rundt korsene. Åsguders ansikter kikker fra trevirket. Det er som om det norrøne ikke ga seg uten kamp — og i stavkirken beholdt det en fot innenfor.
+Stavkirken er ett av de mest fascinerende kulturelle hybridene i Norges historie. Den er kristen — en [kirke](/drommer/kirke/) — i form og innhold — men dens ornamenter og arkitektur er norrøne. [Drager](/drommer/drage/) fletter seg rundt korsene. Åsguders ansikter kikker fra trevirket. Det er som om det norrøne ikke ga seg uten kamp — og i stavkirken beholdt det en fot innenfor.
 
 Å drømme om stavkirke er å drømme om dette møtet mellom to tradisjoner, to tider, og noe dypt genuint norsk.
 
@@ -34,7 +34,7 @@ Stavkirken er et bilde på synkretisme — på at to verdener kan eksistere i sa
 
 ### Et hellig rom — det som er større enn hverdagen
 
-Kirken er stedet der man søker det som er større enn en selv. Stavkirken er dette rommet i sin mest norske og ekte form — ikke importert marmor, men innlandets gran og furu — levende [tre](/drommer/tre) — formet av norske hender. Drømmens stavkirke kan representere et behov for eller en kontakt med det hellige i bred forstand: noe som overskrider hverdagens målbarhet.
+Kirken er stedet der man søker det som er større enn en selv. Stavkirken er dette rommet i sin mest norske og ekte form — ikke importert marmor, men innlandets gran og furu — levende [tre](/drommer/tre/) — formet av norske hender. Drømmens stavkirke kan representere et behov for eller en kontakt med det hellige i bred forstand: noe som overskrider hverdagens målbarhet.
 
 ## Hva påvirker tolkningen?
 

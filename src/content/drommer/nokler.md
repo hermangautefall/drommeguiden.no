@@ -34,7 +34,7 @@ Disse drømmene er sjelden tilfeldig — de peker mot noe konkret i livet ditt s
 
 ### Kontroll og trygghet
 
-Nøkler handler om kontroll — over [hjemmet](/drommer/hus) ditt, over ditt eget liv, over hvem som slipper inn og hvem som holdes ute. Å [miste](/drommer/miste-noe) nøklene kan speile en frykt for å miste denne kontrollen. Å ha mange nøkler kan speile mange ansvarsområder.
+Nøkler handler om kontroll — over [hjemmet](/drommer/hus/) ditt, over ditt eget liv, over hvem som slipper inn og hvem som holdes ute. Å [miste](/drommer/miste-noe/) nøklene kan speile en frykt for å miste denne kontrollen. Å ha mange nøkler kan speile mange ansvarsområder.
 
 ## Hva påvirker tolkningen?
 
@@ -51,7 +51,7 @@ Du har prøvd en løsning som ikke fungerer — kanskje må du lete etter en ann
 Noen åpner en dør for deg — tillit, hjelp eller en mulighet som gis av andre.
 
 **Hvis du låste noe:**
-Et ønske om å beskytte noe viktig, eller å stenge noe ute fra livet ditt. Nøkler som låser kan også knyttes til drømmer om [fengsel](/drommer/fengsel), der innlåsing og frihet utforskes.
+Et ønske om å beskytte noe viktig, eller å stenge noe ute fra livet ditt. Nøkler som låser kan også knyttes til drømmer om [fengsel](/drommer/fengsel/), der innlåsing og frihet utforskes.
 
 ## Psykologiske og kulturelle perspektiver
 

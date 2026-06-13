@@ -29,7 +29,7 @@ Regelmessig trening bedrer søvnen gjennom flere mekanismer:
 
 **Reduserer kjernetemperaturen mer effektivt.** Trening om morgenen eller tidlig ettermiddag øker kjernetemperaturen, som deretter faller mer markant mot kvelden. Et kraftigere temperaturfall er assosiert med dypere søvn.
 
-**Reduserer angst og stress.** Trening er den mest dokumentert effektive ikke-medikamentelle behandlingen mot angst — og angst er en av de vanligste søvntyvene. Se artikkelen om [angst og søvn](/sovn/angst-sovn).
+**Reduserer angst og stress.** Trening er den mest dokumentert effektive ikke-medikamentelle behandlingen mot angst — og angst er en av de vanligste søvntyvene. Se artikkelen om [angst og søvn](/sovn/angst-sovn/).
 
 **Øker andelen dyp søvn.** Meta-analyser viser at regelmessig trening øker andelen slow-wave søvn (NREM 3) — den fysisk restaurerende fasen. For dem som sliter med lite dyp søvn er dette særlig verdifullt.
 
@@ -77,7 +77,7 @@ Trening er et av de beste søvnmidlene som finnes:
 - Konsistent, moderat trening gir bedre søvn enn sporadiske harde bolker
 - Trening om morgenen kombinert med morgenlys er den beste biologiske klokkekalibreringen
 
-Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Angst og søvn](/sovn/angst-sovn) — [Søvnbehovet ditt](/sovn/sovnbehov)
+Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Angst og søvn](/sovn/angst-sovn/) — [Søvnbehovet ditt](/sovn/sovnbehov/)
 
 ## Kilder
 

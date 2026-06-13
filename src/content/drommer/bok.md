@@ -26,7 +26,7 @@ Drømmens bok kan komme i ulike former — en barndomsbok, en hellig bok, en læ
 
 ### Kunnskap og lærdom
 
-Den vanligste tolkningen handler om kunnskap — noe du søker å forstå, noe du ennå ikke har lært, eller noe du allerede vet men ikke har satt i system. En bok du ikke kan lese i drøm speiler ofte et problem du ennå ikke har [nøkkelen](/drommer/nokler) til. En bok som åpner seg lett representerer derimot tilgang og innsikt som er nær.
+Den vanligste tolkningen handler om kunnskap — noe du søker å forstå, noe du ennå ikke har lært, eller noe du allerede vet men ikke har satt i system. En bok du ikke kan lese i drøm speiler ofte et problem du ennå ikke har [nøkkelen](/drommer/nokler/) til. En bok som åpner seg lett representerer derimot tilgang og innsikt som er nær.
 
 ### Livshistorien din
 

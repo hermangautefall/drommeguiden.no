@@ -40,7 +40,7 @@ Noen ganger er budskapet enklere og mer alvorlig: du klarer ikke å koble fra. J
 
 ### Konflikter og relasjoner på jobben
 
-Drømmene prosesserer relasjonelle spenninger, og jobbens konflikter og maktdynamikker er rike drømmemateriale. Kollegaer, sjefer og arbeidsoppgaver er alle symboler for bredere psykologiske temaer — se symbolene for [sjef](/drommer/sjef) og [kollega-sex](/drommer/kollega-sex).
+Drømmene prosesserer relasjonelle spenninger, og jobbens konflikter og maktdynamikker er rike drømmemateriale. Kollegaer, sjefer og arbeidsoppgaver er alle symboler for bredere psykologiske temaer — se symbolene for [sjef](/drommer/sjef/) og [kollega-sex](/drommer/kollega-sex/).
 
 ## Hva påvirker tolkningen?
 

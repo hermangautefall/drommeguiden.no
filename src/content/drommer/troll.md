@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om troll?
 
-Trollet er norsk kulturs fremste og mest urfremstilling av det som er mørkt, primitivt og hinsides sivilisasjonens grenser. Det er ikke en import — det vokser rett ut av de norske [fjellene](/drommer/fjell), av den dype [skogen](/drommer/skog), av vintermørket og den kalde urskogen. Å drømme om troll er å drømme om noe genuint arkaisk i norsk kulturpsyke.
+Trollet er norsk kulturs fremste og mest urfremstilling av det som er mørkt, primitivt og hinsides sivilisasjonens grenser. Det er ikke en import — det vokser rett ut av de norske [fjellene](/drommer/fjell/), av den dype [skogen](/drommer/skog/), av vintermørket og den kalde urskogen. Å drømme om troll er å drømme om noe genuint arkaisk i norsk kulturpsyke.
 
 Disse drømmene er sjelden trivielle. De bærer på noe av det dypeste i den kollektive erfaringen.
 

@@ -26,15 +26,15 @@ Drømmer om hjort dukker gjerne opp i perioder der noe ømt søker oppmerksomhet
 
 ### Sårbarhet og ømhet
 
-Hjorten er ikke et rovdyr — den er et byttedyr, ofte jaget av [ulven](/drommer/ulv). I drømmer kan den symbolisere sårbare sider av deg selv, eller en situasjon der du føler deg eksponert og uten beskyttelse. Men drømmen handler sjelden om fare — den handler om å hedre sårbarheten som en ekte og verdifull del av deg.
+Hjorten er ikke et rovdyr — den er et byttedyr, ofte jaget av [ulven](/drommer/ulv/). I drømmer kan den symbolisere sårbare sider av deg selv, eller en situasjon der du føler deg eksponert og uten beskyttelse. Men drømmen handler sjelden om fare — den handler om å hedre sårbarheten som en ekte og verdifull del av deg.
 
 ### Åndelig søken og intuisjon
 
-I mange tradisjoner er hjorten et guidedyr — en som fører sjelen mot noe hellig eller betydningsfullt. Å drømme om hjort kan — som å drømme om [hest](/drommer/hest) — være en invitasjon til å lytte mer til din indre stemme og intuisjon, og kanskje til å søke noe som gir livet dypere mening. Disse drømmene kommer ofte i overgangsperioder der "noe åndelig" er på vei tilbake i livet.
+I mange tradisjoner er hjorten et guidedyr — en som fører sjelen mot noe hellig eller betydningsfullt. Å drømme om hjort kan — som å drømme om [hest](/drommer/hest/) — være en invitasjon til å lytte mer til din indre stemme og intuisjon, og kanskje til å søke noe som gir livet dypere mening. Disse drømmene kommer ofte i overgangsperioder der "noe åndelig" er på vei tilbake i livet.
 
 ### Eleganse under press
 
-Hjorten beveger seg med en nesten overnaturlig letthet gjennom tett [skog](/drommer/skog). I drømmer kan dette symbolisere din evne til å navigere komplekse eller krevende situasjoner med verdighet og stil. Du klarer å være sårbar uten å være knust, å være vakker uten å være naiv.
+Hjorten beveger seg med en nesten overnaturlig letthet gjennom tett [skog](/drommer/skog/). I drømmer kan dette symbolisere din evne til å navigere komplekse eller krevende situasjoner med verdighet og stil. Du klarer å være sårbar uten å være knust, å være vakker uten å være naiv.
 
 ### Stolthet og maskulin kraft
 

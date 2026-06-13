@@ -49,14 +49,14 @@ Avslutning av en fase — noe tar slutt, men på en naturlig og vakker måte.
 For mye av noe godt — overbelastning, intensitet som svelger deg, eller ambisjoner som brenner seg ut.
 
 **Hvis solen var skjult av skyer:**
-Noe blokkerer din livsenergi eller ditt klarsyn akkurat nå. Kontrasten til solen er [månen](/drommer/mane), som representerer det ubevisste.
+Noe blokkerer din livsenergi eller ditt klarsyn akkurat nå. Kontrasten til solen er [månen](/drommer/mane/), som representerer det ubevisste.
 
 **Hvis solen sto opp:**
 En ny begynnelse — noe friskt og energigivende er på vei inn.
 
 ## Psykologiske og kulturelle perspektiver
 
-Solen er universalt knyttet til det mannlige prinsippet i mange tradisjoner — det bevisste, det aktive, det som belyser. Jung kalte solen et symbol på Ego-et i sin klareste og sterkeste form. I norrøn tradisjon er Sol (Sól) gudinnens navn — hun kjører solvognen over himmelen, alltid forfulgt av ulven Sköll. Solen er liv, men den er også jaget og midlertidig. Se også [stjerner](/drommer/stjerner) og [himmelen](/drommer/himmel) for beslektede drømmesymboler.
+Solen er universalt knyttet til det mannlige prinsippet i mange tradisjoner — det bevisste, det aktive, det som belyser. Jung kalte solen et symbol på Ego-et i sin klareste og sterkeste form. I norrøn tradisjon er Sol (Sól) gudinnens navn — hun kjører solvognen over himmelen, alltid forfulgt av ulven Sköll. Solen er liv, men den er også jaget og midlertidig. Se også [stjerner](/drommer/stjerner/) og [himmelen](/drommer/himmel/) for beslektede drømmesymboler.
 
 For nordmenn, som lever med store lysvariasjoner gjennom året, er solen ekstra ladet — soloppgang i april etter en lang vinter er en fysisk og emosjonell begivenhet. Å drømme om sol i norsk kontekst berører noe dypt om lys og mørke som er mer enn bare meteorologi.
 

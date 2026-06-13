@@ -38,7 +38,7 @@ Hvis du i drømmen opplevde ubehag ved å vise brystene, kan det speile en føle
 
 ### Mors-arketypen og feminin livskraft
 
-Jung beskrev mors-arketypen som en av de mest primære i menneskepsyken — og dens kjernesymbol er nettopp det nærende brystet. Det er ikke det individuelle brystet til din [mor](/drommer/mor), men selve bildet på livgivende kraft, beskyttelse og betingelsesløs omsorg.
+Jung beskrev mors-arketypen som en av de mest primære i menneskepsyken — og dens kjernesymbol er nettopp det nærende brystet. Det er ikke det individuelle brystet til din [mor](/drommer/mor/), men selve bildet på livgivende kraft, beskyttelse og betingelsesløs omsorg.
 
 Å drømme om bryst kan da speile et dypt behov for å bli tatt vare på — eller en kontakt med din egen kapasitet til å gi slik omsorg.
 

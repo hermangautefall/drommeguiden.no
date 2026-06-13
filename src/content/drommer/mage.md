@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om magen?
 
-Magen er kroppens bearbeidingssenter — ikke bare for mat, men i drømmesymbolikken for erfaringer og emosjoner. "Magefølelse" er ikke bare et uttrykk — vi vet faktisk noe i magen før hodet har formulert det. Drømmene om magen handler om denne intuitive, kroppsbårne visdomsformen. Det er en helt annen type kroppsdrøm enn drømmer om [hjertet](/drommer/hjerte), som handler om kjærlighet og mot.
+Magen er kroppens bearbeidingssenter — ikke bare for mat, men i drømmesymbolikken for erfaringer og emosjoner. "Magefølelse" er ikke bare et uttrykk — vi vet faktisk noe i magen før hodet har formulert det. Drømmene om magen handler om denne intuitive, kroppsbårne visdomsformen. Det er en helt annen type kroppsdrøm enn drømmer om [hjertet](/drommer/hjerte/), som handler om kjærlighet og mot.
 
 ## De vanligste tolkningene
 
@@ -40,7 +40,7 @@ Angst og uro setter seg gjerne i magen — vi kjenner sommerfugler, krimper, kva
 Noe du svelger er vanskelig å fordøye. Noe kjennes feil.
 
 **Hvis du var gravid i drøm (mage):**
-Se symbolsiden for [gravid](/drommer/gravid) — noe nytt vokser frem.
+Se symbolsiden for [gravid](/drommer/gravid/) — noe nytt vokser frem.
 
 **Hvis magen var tom:**
 Et grunnleggende behov som ikke er møtt — omsorg, næring, mening.
@@ -49,7 +49,7 @@ Et grunnleggende behov som ikke er møtt — omsorg, næring, mening.
 Noe skjult som påvirker deg — en uro, en frykt, en sannhet du bærer på.
 
 **Hvis magen var sterk og god:**
-God helse, god intuisjon og evne til å bearbeide det livet gir deg. Se også [mat](/drommer/mat) for drømmer om næring og fordøyelse.
+God helse, god intuisjon og evne til å bearbeide det livet gir deg. Se også [mat](/drommer/mat/) for drømmer om næring og fordøyelse.
 
 ## Psykologiske og kulturelle perspektiver
 

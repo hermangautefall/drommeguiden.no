@@ -42,7 +42,7 @@ Det er verdt å merke seg hvordan selve flygingen oppleves. Føles den lett og g
 
 Kanskje du har stått midt i en konflikt eller et vanskelig valg og ikke klart å se helheten. Flygingsdrømmen kan være psykens invitasjon til å heve blikket — bokstavelig talt. Den kan også handle om kontroll: å fly betyr at du styrer retningen selv, uten hindringer. Opplever du i våkenlivet at andre bestemmer over deg, kan drømmen uttrykke et dypt ønske om mer selvbestemmelse.
 
-For dem som drømmer om å fly men stadig mister høyde, kan det tyde på en følelse av at kontrollen glir. Du ønsker å styre, men noe trekker deg ned. Slike drømmer har ofte en forbindelse til drømmer om å [falle](/drommer/falle), som handler om tap av fotfeste.
+For dem som drømmer om å fly men stadig mister høyde, kan det tyde på en følelse av at kontrollen glir. Du ønsker å styre, men noe trekker deg ned. Slike drømmer har ofte en forbindelse til drømmer om å [falle](/drommer/falle/), som handler om tap av fotfeste.
 
 ### Personlig vekst og ambisjoner
 
@@ -63,10 +63,10 @@ Tolkes gjerne som et tegn på sterk indre frihet, selvtillit og følelse av mest
 Kan peke mot at du føler deg holdt tilbake, eller at noe hindrer deg i å nå ditt fulle potensial.
 
 **Hvis du flyr og plutselig faller:**
-Denne overgangen kan speile en frykt for å mislykkes nettopp når ting går bra. Se også [falle i drøm](/drommer/falle) for mer om dette symbolet.
+Denne overgangen kan speile en frykt for å mislykkes nettopp når ting går bra. Se også [falle i drøm](/drommer/falle/) for mer om dette symbolet.
 
 **Hvis du flyr over kjente steder som fjell eller skog:**
-Det konkrete landskapet kan gi tilleggsmeninger. Å fly over [fjell](/drommer/fjell) kan symbolisere at du overvinner store utfordringer, mens å fly over [skog](/drommer/skog) kan handle om å navigere gjennom det ubevisste.
+Det konkrete landskapet kan gi tilleggsmeninger. Å fly over [fjell](/drommer/fjell/) kan symbolisere at du overvinner store utfordringer, mens å fly over [skog](/drommer/skog/) kan handle om å navigere gjennom det ubevisste.
 
 ---
 

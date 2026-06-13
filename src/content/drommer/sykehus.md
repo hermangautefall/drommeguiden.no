@@ -40,7 +40,7 @@ Sykehuset er et sted der vi er på vårt mest sårbare. Vi er avkledd, undersøk
 
 Denne tolkningen forsterkes dersom du i drømmen er alene på sykehuset, eller dersom ingen kommer for å besøke deg. Det kan speile en følelse av isolasjon eller ensomhet som du kanskje ikke fullt ut har anerkjent i våken tilstand.
 
-Drømmer du om at noen andre er innlagt — en forelder, et barn, en partner — handler drømmen ofte om din bekymring for denne personen. Men det kan også handle om at du projiserer din egen sårbarhet over på noen andre, fordi det er lettere å bekymre seg for andre enn for seg selv. Se også drømmer om [hender](/drommer/hender), som kan utdype temaet om omsorg og berøring.
+Drømmer du om at noen andre er innlagt — en forelder, et barn, en partner — handler drømmen ofte om din bekymring for denne personen. Men det kan også handle om at du projiserer din egen sårbarhet over på noen andre, fordi det er lettere å bekymre seg for andre enn for seg selv. Se også drømmer om [hender](/drommer/hender/), som kan utdype temaet om omsorg og berøring.
 
 ### Noe krever akutt oppmerksomhet
 
@@ -48,7 +48,7 @@ I noen tilfeller bruker psyken sykehuset som et alarmsignal. Drømmer du om akut
 
 Det trenger ikke handle om helse i medisinsk forstand. Det kan like gjerne være en relasjon som er i krise, en arbeidssituasjon som har blitt uholdbar, eller et emosjonelt sår som har fått infeksjon fordi det aldri ble renset ordentlig. Drømmen sier: dette kan ikke vente lenger.
 
-Denne tolkningen er spesielt relevant dersom drømmen har et preg av hastverk eller panikk. Drømmer du om [blod](/drommer/blod) i forbindelse med sykehuset, kan det forsterke følelsen av at noe er akutt og krever handling.
+Denne tolkningen er spesielt relevant dersom drømmen har et preg av hastverk eller panikk. Drømmer du om [blod](/drommer/blod/) i forbindelse med sykehuset, kan det forsterke følelsen av at noe er akutt og krever handling.
 
 ---
 

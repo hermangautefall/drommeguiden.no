@@ -28,7 +28,7 @@ Den vanligste tolkningen handler om vandringsfriheten og det nomadiske — å f�
 
 ### Tilpasning og utholdenhet i det harde
 
-Reinsdyret overlever der mennesker ikke kan — det graver frem mat under [snøen](/drommer/sno), det motstår temperaturer som dreper det meste. Drømmens reinsdyr kan representere en utholdenhet og tilpasningsevne i deg: du klarer deg i det harde.
+Reinsdyret overlever der mennesker ikke kan — det graver frem mat under [snøen](/drommer/sno/), det motstår temperaturer som dreper det meste. Drømmens reinsdyr kan representere en utholdenhet og tilpasningsevne i deg: du klarer deg i det harde.
 
 ### Samisk arv og urfolks visdom
 
@@ -55,7 +55,7 @@ Du er del av en bevegelse som er større enn deg selv — en flokk, en arv, en r
 
 I samisk sjamanisme er reinsdyret et av de viktigste kraftdyrene — noaiden (sjamanen) reiser på reinsdyrets rygg til andre verdener. Reinsdyret er broen mellom den menneskelige verden og de åndelige.
 
-For norsk storsamfunn er reinsdyret et symbol på noe ekte og ikke-kommersialisert ved Norge — noe som virkelig hører hjemme i [skogen](/drommer/skog) og på vidda, på en måte byene og E-6 ikke gjør. Å drømme om reinsdyr er å drømme om noe av det mest opprinnelige ved det norske.
+For norsk storsamfunn er reinsdyret et symbol på noe ekte og ikke-kommersialisert ved Norge — noe som virkelig hører hjemme i [skogen](/drommer/skog/) og på vidda, på en måte byene og E-6 ikke gjør. Å drømme om reinsdyr er å drømme om noe av det mest opprinnelige ved det norske.
 
 ## Drømmeguiden anbefaler
 

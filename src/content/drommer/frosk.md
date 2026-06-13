@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om frosk?
 
-Frosken er ett av naturens mest fascinerende forvandlingsdyr — fra egg til rumpetroll til fullvoksen frosk. Den lever både i [vann](/drommer/hav) og på land, mellom det ubevisste og det bevisste, mellom følelse og handling. I drømmeverdenen bærer frosken med seg denne evnen til overgang og tilpasning.
+Frosken er ett av naturens mest fascinerende forvandlingsdyr — fra egg til rumpetroll til fullvoksen frosk. Den lever både i [vann](/drommer/hav/) og på land, mellom det ubevisste og det bevisste, mellom følelse og handling. I drømmeverdenen bærer frosken med seg denne evnen til overgang og tilpasning.
 
 Å drømme om frosk er sjelden en dramatisk drøm — men den er gjerne meningsfull. Frosken dukker opp i perioder der noe i deg er i ferd med å gjennomgå en endring du ikke fullt ut har lagt merke til.
 
@@ -26,11 +26,11 @@ Frosken er ett av naturens mest fascinerende forvandlingsdyr — fra egg til rum
 
 ### Forvandling og livsfaser
 
-Frosken går gjennom en av naturens mest synlige forvandlinger — på linje med [sommerfuglen](/drommer/sommerfugl) som transformasjonssymbol. I drømmer kan den symbolisere at du er midt i en overgang — fra én fase av livet til en annen. Det kan handle om personlig vekst, en ny livssituasjon, eller en indre modningsprosess du kanskje ikke har lagt fullt merke til. Forskjellen fra sommerfuglen er at froskens metamorfose skjer i vann — den er mer ubevisst, mer hjertegjort.
+Frosken går gjennom en av naturens mest synlige forvandlinger — på linje med [sommerfuglen](/drommer/sommerfugl/) som transformasjonssymbol. I drømmer kan den symbolisere at du er midt i en overgang — fra én fase av livet til en annen. Det kan handle om personlig vekst, en ny livssituasjon, eller en indre modningsprosess du kanskje ikke har lagt fullt merke til. Forskjellen fra sommerfuglen er at froskens metamorfose skjer i vann — den er mer ubevisst, mer hjertegjort.
 
 ### Renselse og fornyelse
 
-Frosken er knyttet til [vann](/kategori/vann) og [regn](/drommer/regn) — elementer som i drømmesymbolikken ofte handler om renselse og ny start. Å drømme om frosk kan bety at noe er i ferd med å vaske seg bort, og at frisk energi er på vei inn. Frosker dukker opp etter regn; deres tilstedeværelse er ofte tegnet på at noe nytt og rent har kommet.
+Frosken er knyttet til [vann](/kategori/vann/) og [regn](/drommer/regn/) — elementer som i drømmesymbolikken ofte handler om renselse og ny start. Å drømme om frosk kan bety at noe er i ferd med å vaske seg bort, og at frisk energi er på vei inn. Frosker dukker opp etter regn; deres tilstedeværelse er ofte tegnet på at noe nytt og rent har kommet.
 
 ### Å leve mellom to verdener
 

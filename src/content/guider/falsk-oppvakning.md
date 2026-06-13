@@ -30,11 +30,11 @@ Søvnforskere har tradisjonelt beskrevet to varianter:
 
 Den første er den trivielle varianten — der alt ser normalt ut og du bare tror du har vaknet. Du lever gjennom en helt vanlig morgen, inntil noe avslører at du fortsatt sover: en detalj som ikke stemmer, en person som plutselig er der uten grunn, et rom som er feil. Disse drømmene er gjerne ubevisst korrekte — de speiler livet ditt så nøyaktig at hjernen ikke finner grunn til å stille spørsmål.
 
-Den andre varianten er mer intens — der det noe er merkbart galt med omgivelsene. Rommet er mørkt og trykkende, noe er i ubalanse, en uhyggelig atmosfære henger i luften. Disse drømmene grenset tidvis til det mareritt-aktige, og er mer ubehagelige å oppleve. De kan henge sammen med [søvnparalyse](/guider/sovnparalyse) og hypnagoge hallusinasjoner — fenomener der kroppen er lam mens bevisstheten er aktiv.
+Den andre varianten er mer intens — der det noe er merkbart galt med omgivelsene. Rommet er mørkt og trykkende, noe er i ubalanse, en uhyggelig atmosfære henger i luften. Disse drømmene grenset tidvis til det mareritt-aktige, og er mer ubehagelige å oppleve. De kan henge sammen med [søvnparalyse](/guider/sovnparalyse/) og hypnagoge hallusinasjoner — fenomener der kroppen er lam mens bevisstheten er aktiv.
 
 ## Koblingen til lucid dreaming
 
-Falsk oppvåkning og [lucid-dromming](/guider/lucid-dromming) er nært beslektede fenomener. Mange som driver aktivt med lucid dreaming rapporterer falske oppvåkninger hyppigere — nettopp fordi hjernen er "oppkoblet" på bevissthet under søvn. Noen bruker falske oppvåkninger aktivt som en portal til lucide drømmer: i det øyeblikket de mistenker at de er i en falsk oppvåkning, gjør de en "reality check" — og i det øyeblikket de innser at de faktisk drømmer, kan de ta kontroll over drømmens innhold.
+Falsk oppvåkning og [lucid-dromming](/guider/lucid-dromming/) er nært beslektede fenomener. Mange som driver aktivt med lucid dreaming rapporterer falske oppvåkninger hyppigere — nettopp fordi hjernen er "oppkoblet" på bevissthet under søvn. Noen bruker falske oppvåkninger aktivt som en portal til lucide drømmer: i det øyeblikket de mistenker at de er i en falsk oppvåkning, gjør de en "reality check" — og i det øyeblikket de innser at de faktisk drømmer, kan de ta kontroll over drømmens innhold.
 
 En enkel reality check er å se på hendene dine. I drømmene er hender gjerne uskarpe, har feil antall fingre, eller ser underlige ut. En annen teknikk er å prøve å presse pekefingeren gjennom den andre hånden — noe som aldri fungerer i virkeligheten, men som gjerne "lykkes" i drømmene.
 
@@ -54,7 +54,7 @@ Gjentakende falske oppvåkninger er vanligst i perioder med høyt stress, forsty
 
 **Bedre søvnhygiene.** Regelmessig leggetid, mørkt rom og å unngå skjerm de siste timene før søvn reduserer hyppigheten for mange.
 
-**Drømmejournalen.** Å skrive ned drømmene sine — inkludert falske oppvåkninger — gir psyken en arena der disse opplevelsene kan prosesseres bevisst. Se guiden om [drommejournalen](/guider/drommejournalen) for praktiske tips.
+**Drømmejournalen.** Å skrive ned drømmene sine — inkludert falske oppvåkninger — gir psyken en arena der disse opplevelsene kan prosesseres bevisst. Se guiden om [drommejournalen](/guider/drommejournalen/) for praktiske tips.
 
 **Reality checks i hverdagen.** Paradoksalt nok hjelper det å innarbeide reality checks som en daglig vane: se på hendene dine, les en tekst, sjekk klokken to ganger. Dette gjør hjernen mer oppmerksom på overganger mellom tilstander — og kan gjøre de falske oppvåkningene kortere og mindre forvirrende.
 
@@ -75,11 +75,11 @@ Falsk oppvåkning er et normalt og fascinerende fenomen som forteller deg at hje
 - Det skjer under REM-søvn og er spesielt vanlig hos mennesker med høy drømmehusking og kognitiv aktivitet
 - Det er ikke farlig og ikke et tegn på psykisk uro
 - Reality checks — se på hendene, les en tekst — kan hjelpe deg å orientere deg
-- Det henger nært sammen med [lucid-dromming](/guider/lucid-dromming) og kan brukes som en portal til bevisste drømmer
-- God søvnhygiene og [drommejournalen](/guider/drommejournalen) reduserer hyppigheten for de fleste
+- Det henger nært sammen med [lucid-dromming](/guider/lucid-dromming/) og kan brukes som en portal til bevisste drømmer
+- God søvnhygiene og [drommejournalen](/guider/drommejournalen/) reduserer hyppigheten for de fleste
 - Angst for fenomenet forsterker det — nysgjerrighet er et bedre svar enn frykt
 
 De fleste som opplever falsk oppvåkning regelmessig, begynner etter hvert å se på det med en slags humor og fascinasjon. Det er et av drømmenes mer eksentriske fenomener — og ett av de mest levende demonstrasjonene på at det vi kaller "virkelighet" er mer konstruert enn vi vanligvis tillater oss å tenke.
 
-> 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser)
+> 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser/)
 

@@ -16,7 +16,7 @@ dato: 2026-03-18
 author: 'default'
 ---
 
-## Hva betyr det at en mann drømmer om [å være gravid](/drommer/gravid)?
+## Hva betyr det at en mann drømmer om [å være gravid](/drommer/gravid/)?
 
 Det er en av de drømmene menn sjeldnest snakker om — og en av de mest meningsfulle. En mann som bærer et barn i drømmen er ikke noe rart eller forstyrrende. Det er ett av drømmens mest universelle bilder for noe nytt som er i ferd med å vokse frem i deg.
 
@@ -77,5 +77,5 @@ Det er interessant at menn i vestlige kulturer rapporterer denne drømmen oftere
 - Hva skjer i **livet ditt** akkurat nå — hva er du i ferd med å bringe frem?
 - Har du drømt om **å bære noe frem** på denne måten **flere ganger**?
 
-> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

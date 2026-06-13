@@ -31,7 +31,7 @@ Drømmens tone — om elefanten var rolig, stressende, hjelpsam eller truende �
 
 ### En tung byrde du bærer
 
-Elefantens vekt er ikke bare fysisk i drømmesymbolikken — den kan representere ansvar, sorg eller forventninger som føles enorme — en tyngde som minner om det å drømme om [fjell](/drommer/fjell). Drømmen kan speile at du bærer på noe tungt, kanskje uten å ha erkjent det for deg selv.
+Elefantens vekt er ikke bare fysisk i drømmesymbolikken — den kan representere ansvar, sorg eller forventninger som føles enorme — en tyngde som minner om det å drømme om [fjell](/drommer/fjell/). Drømmen kan speile at du bærer på noe tungt, kanskje uten å ha erkjent det for deg selv.
 
 ### Tålmodighet og langsiktig kraft
 
@@ -44,13 +44,13 @@ Elefanten beveger seg sakte, men sikkert. I drømmer kan den symbolisere at det 
 Trygghet, stabilitet og visdom er tilgjengelig for deg. En positiv drøm.
 
 **Hvis elefanten tramper eller angriper:**
-Noe enormt og ukontrollert truer deg — enten en situasjon eller en kraft inni deg selv. Se også [bjørn i drøm](/drommer/bjorn) for et lignende kraftsymbol.
+Noe enormt og ukontrollert truer deg — enten en situasjon eller en kraft inni deg selv. Se også [bjørn i drøm](/drommer/bjorn/) for et lignende kraftsymbol.
 
 **Hvis elefanten er liten eller en unge:**
 En visdom eller styrke som er i sin spede begynnelse. Noe vokser i deg.
 
 **Hvis du rir på elefanten:**
-Du er i kontakt med en stor kraft og styrer den. Mestring og kontroll. En lignende drøm er å [ri på hest](/drommer/hest).
+Du er i kontakt med en stor kraft og styrer den. Mestring og kontroll. En lignende drøm er å [ri på hest](/drommer/hest/).
 
 
 ## Psykologiske og kulturelle perspektiver
@@ -66,4 +66,4 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om elefant **flere ganger**? Les mer om [gjentakende drømmer](/guider/gjentakende-drommer).
+- Har du drømt om elefant **flere ganger**? Les mer om [gjentakende drømmer](/guider/gjentakende-drommer/).

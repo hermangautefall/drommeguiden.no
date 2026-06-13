@@ -67,5 +67,5 @@ Det er interessant at norrøn kultur hadde et meget konkret og sosialt definert 
 - Hva skjer i **livet ditt** akkurat nå — er det noe du holder skjult fordi du er redd for dommen?
 - Har du drømt om **skam eller å bli avslørt** **flere ganger**?
 
-> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

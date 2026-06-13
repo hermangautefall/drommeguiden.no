@@ -32,7 +32,7 @@ Mange som gråter i drøm, forteller at de ikke har grått "på ordentlig" på l
 
 ### En sorg som ikke er ferdig bearbeidet
 
-Å gråte i drøm er spesielt vanlig i sorgtider — etter tap av noen man er glad i, etter samlivsbrudd, etter store skuffelser. Mange opplever å gråte i drømmer der en [avdød person](/drommer/avdod-person) opptrer. Drømmens gråt speiler at sorgarbeidet fortsetter selv mens vi sover, at psyken bearbeider tapet i drømmenes rom når den ikke kan gjøre det i dagslyset.
+Å gråte i drøm er spesielt vanlig i sorgtider — etter tap av noen man er glad i, etter samlivsbrudd, etter store skuffelser. Mange opplever å gråte i drømmer der en [avdød person](/drommer/avdod-person/) opptrer. Drømmens gråt speiler at sorgarbeidet fortsetter selv mens vi sover, at psyken bearbeider tapet i drømmenes rom når den ikke kan gjøre det i dagslyset.
 
 ### Lettelse og frigjøring
 
@@ -40,7 +40,7 @@ Ikke all gråt er sorg. Å gråte av lettelse, av glede, av bevegelse — disse 
 
 ### Empati og medfølelse
 
-Å gråte for noen andre i drøm — for eksempel for [mor](/drommer/mor) eller [far](/drommer/far), eller for noen som har det vondt — er et tegn på dyp empatisk kapasitet. Drømmens gråt er da ikke din egen sorg, men din evne til å kjenne andres.
+Å gråte for noen andre i drøm — for eksempel for [mor](/drommer/mor/) eller [far](/drommer/far/), eller for noen som har det vondt — er et tegn på dyp empatisk kapasitet. Drømmens gråt er da ikke din egen sorg, men din evne til å kjenne andres.
 
 ### Hva påvirker tolkningen?
 

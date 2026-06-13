@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om kjeller?
 
-I Jungs arkitektur av selvet er [huset](/drommer/hus) psyken, og kjelleren er det ubevisste — der det som er fortrengt og glemt bor, der det mørke og uutforskede holder til. Det er sjelden lyst i drømmens kjeller. Det er sjelden trygt. Og det er nettopp der den er mest interessant.
+I Jungs arkitektur av selvet er [huset](/drommer/hus/) psyken, og kjelleren er det ubevisste — der det som er fortrengt og glemt bor, der det mørke og uutforskede holder til. Det er sjelden lyst i drømmens kjeller. Det er sjelden trygt. Og det er nettopp der den er mest interessant.
 
 Å drømme om kjelleren er å drømme om det du bærer på uten alltid å vite det.
 

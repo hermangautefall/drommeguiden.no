@@ -78,7 +78,7 @@ Sigmund Freud ville trolig sett den seksuelle symbolikken i det å bli holdt ned
 
 ## Koblingen til drømmefenomener
 
-Søvnparalyse henger tett sammen med to andre drømmefenomener det er verdt å kjenne til. Falsk oppvåkning og søvnparalyse kan opptre i kombinasjon — du tror du har vaknet, men er lammet. Og [lucid-dromming](/guider/lucid-dromming) deler den samme fysiologiske plattform: begge skjer i overgangen mellom REM-søvn og våkenhet, begge innebærer en form for bevissthet mens kroppen fortsatt er i drømmemodus.
+Søvnparalyse henger tett sammen med to andre drømmefenomener det er verdt å kjenne til. Falsk oppvåkning og søvnparalyse kan opptre i kombinasjon — du tror du har vaknet, men er lammet. Og [lucid-dromming](/guider/lucid-dromming/) deler den samme fysiologiske plattform: begge skjer i overgangen mellom REM-søvn og våkenhet, begge innebærer en form for bevissthet mens kroppen fortsatt er i drømmemodus.
 
 Noen erfarne lucid dreamers bruker faktisk søvnparalyse bevisst som en inngangspunkt til lucide drømmer — ved å holde bevisstheten aktiv i episoden og deretter "gå inn i" drømmescenarioet fremfor å kjempe seg ut av lammelsen. Det er ikke en teknikk for alle, og krever at man er trygg nok på fenomenet til å møte det uten panikk.
 
@@ -94,7 +94,7 @@ Reduser stress og søvnmangel. Enkelt å si, men grunnleggende: jo mer presset k
 
 Unngå å sove på ryggen etter en kort søvn på dagtid, særlig sen ettermiddag — dette er en klassisk trigger.
 
-Hold en [drommejournalen](/guider/drommejournalen). Å skrive ned opplevelsene — inkludert søvnparalyseepisodene — hjelper mange å desensitivisere seg: det som er skrevet ned er ikke lenger like ladet som det som bare lever i det skremmende minnet.
+Hold en [drommejournalen](/guider/drommejournalen/). Å skrive ned opplevelsene — inkludert søvnparalyseepisodene — hjelper mange å desensitivisere seg: det som er skrevet ned er ikke lenger like ladet som det som bare lever i det skremmende minnet.
 
 ## Oppsummering
 
@@ -105,10 +105,10 @@ Søvnparalyse er skremmende, men den er harmløs. Her er det viktigste å ta med
 - Det tar alltid slutt — typisk innen sekunder til noen minutter
 - Å akseptere opplevelsen fremfor å kjempe mot den hjelper mange å avslutte episoden raskere
 - Å sove på siden, stabilisere søvnrytmen og redusere stress reduserer hyppigheten
-- Det er en klar kobling til [falsk-oppvakning](/guider/falsk-oppvakning) og [lucid-dromming](/guider/lucid-dromming)
+- Det er en klar kobling til [falsk-oppvakning](/guider/falsk-oppvakning/) og [lucid-dromming](/guider/lucid-dromming/)
 - Mare-en fra norrøn tradisjon er en av kulturens mange forklaringer på nøyaktig dette fenomenet
 
 Kanskje det mest befriende med søvnparalyse er å oppdage at millioner av mennesker gjennom historien har opplevd nøyaktig det samme — og at de fleste kom seg gjennom det med ikke annet skade enn en god historie å fortelle.
 
-> 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser) · [Astralprosjeksjon og søvn](/sovn/astralprosjeksjon)
+> 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser/) · [Astralprosjeksjon og søvn](/sovn/astralprosjeksjon/)
 

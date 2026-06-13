@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om broren din?
 
-Broren er som [søsteren](/drommer/soester) en av de mest formative relasjonene vi har — en som kjenner deg fra [begynnelsen](/drommer/barn), som du er sammenlignet med og sammenligner deg med, og som representerer en parallell versjon av det livet du vokste opp i. Å drømme om broren bringer denne kompleksiteten til overflaten — alt på en gang: det nære, det utfordrende, det dypt felles.
+Broren er som [søsteren](/drommer/soester/) en av de mest formative relasjonene vi har — en som kjenner deg fra [begynnelsen](/drommer/barn/), som du er sammenlignet med og sammenligner deg med, og som representerer en parallell versjon av det livet du vokste opp i. Å drømme om broren bringer denne kompleksiteten til overflaten — alt på en gang: det nære, det utfordrende, det dypt felles.
 
 Drømmer om broren dukker gjerne opp i perioder med spørsmål om eget livsvalg, om identitet, om plass i familien, eller om en uavklart side av maskulinitet i deg eller rundt deg.
 
@@ -36,7 +36,7 @@ Brorforholdet er historisk sett et av de sterkest ladede med konkurranse — fra
 
 ### Felles røtter og tilhørighet
 
-Broren deler din tidligste historie. Drømmer om ham kan handle om et behov for kontakt med der du kom fra — med [foreldrene](/drommer/mor), med det kjente, med den du var. Disse drømmene kommer ofte i perioder der du føler deg langt fra deg selv eller fra din opprinnelse.
+Broren deler din tidligste historie. Drømmer om ham kan handle om et behov for kontakt med der du kom fra — med [foreldrene](/drommer/mor/), med det kjente, med den du var. Disse drømmene kommer ofte i perioder der du føler deg langt fra deg selv eller fra din opprinnelse.
 
 ### Allianse og beskyttelse
 
@@ -55,7 +55,7 @@ Fellesskap, støtte og komplementære styrker. Et tegn på at du ikke trenger å
 Rivalisering og sammenligning — enten faktisk, eller en indre konkurranse mellom ulike sider av deg selv.
 
 **Hvis broren trengte hjelp:**
-[Omsorg](/drommer/far) og ansvar for noe eller noen nær deg.
+[Omsorg](/drommer/far/) og ansvar for noe eller noen nær deg.
 
 **Hvis broren var sterkere eller mer vellykket:**
 Et speil på egne ambisjoner og selvbilde — hva ønsker du for deg selv?

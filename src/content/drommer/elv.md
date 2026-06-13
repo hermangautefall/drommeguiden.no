@@ -32,11 +32,11 @@ Elven minner deg om at alt er i bevegelse, og at stillstand ikke er elvens natur
 
 ### Dine følelser i strøm
 
-Som [havet](/drommer/hav) er det store, dype og overveldende i drømmesymbolikken, er elven det kontinuerlige og flytende i følelseslivet — strømmende, foranderlig, alltid i bevegelse. En rolig elv speiler et følelsesliv i balanse. En rivende elv speiler intense emosjoner som er vanskelig å navigere. En tørr elveleie speiler at noe emosjonelt har stoppet opp.
+Som [havet](/drommer/hav/) er det store, dype og overveldende i drømmesymbolikken, er elven det kontinuerlige og flytende i følelseslivet — strømmende, foranderlig, alltid i bevegelse. En rolig elv speiler et følelsesliv i balanse. En rivende elv speiler intense emosjoner som er vanskelig å navigere. En tørr elveleie speiler at noe emosjonelt har stoppet opp.
 
 ### Din livsretning og det som bærer deg
 
-Elven har en retning — og drømmene om den handler tidvis om nettopp dette: der du er på vei, hva som bærer deg fremover, og om du velger retning selv eller lar strømmen bestemme. Å [svømme](/drommer/svomme) med strømmen er letthet og overgivelse. Å svømme mot strømmen er vilje og motstand mot det naturlige forløpet.
+Elven har en retning — og drømmene om den handler tidvis om nettopp dette: der du er på vei, hva som bærer deg fremover, og om du velger retning selv eller lar strømmen bestemme. Å [svømme](/drommer/svomme/) med strømmen er letthet og overgivelse. Å svømme mot strømmen er vilje og motstand mot det naturlige forløpet.
 
 Hvilken vei flyter elven i drømmen — og er det dit du vil?
 
@@ -59,7 +59,7 @@ Følelser eller situasjoner som er uklare, forurensede eller ikke-transparente.
 Noe emosjonelt eller vitalt har stoppet opp — noe trenger ny næring.
 
 **Hvis du krysset elven:**
-En overgang — du beveger deg fra en fase til en annen. Se også symbolsiden for [bro](/drommer/bro).
+En overgang — du beveger deg fra en fase til en annen. Se også symbolsiden for [bro](/drommer/bro/).
 
 **Hvis du satt ved elvebredden:**
 Du observerer livet og følelsene på avstand — ikke midt i det, men i kontakt med det.
@@ -70,7 +70,7 @@ Overgivelse og flyt — du lar livet bære deg.
 **Hvis du svømte mot strømmen:**
 Motvilje eller mot — du kjemper mot det naturlige forløpet. Kanskje med god grunn.
 
-**Hvis elven [flommet](/drommer/flom) over:**
+**Hvis elven [flommet](/drommer/flom/) over:**
 Følelser som ikke lenger holder seg innenfor sine grenser — noe overveldes.
 
 ## Psykologiske og kulturelle perspektiver

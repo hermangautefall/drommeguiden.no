@@ -21,7 +21,7 @@ author: 'default'
 
 Krigsdrømmer er blant de mest intense og overveldende vi kan ha — fylt med kaos, fare, tap og dramatikk som setter dype spor etter oppvåkning. For dem som har opplevd krig eller konflikt på nært hold, kan disse drømmene være en del av traumebearbeiding og bør møtes med varsomhet og støtte. For de fleste andre handler krigsdrømmene om noe mer symbolsk — men ikke mindre viktig.
 
-Krig er ett av menneskenes sterkeste bilder på konflikt i ekstrem form, og underbevistheten bruker det for å kommunisere noe den ikke finner mildere ord for. Mange opplever også at krigsdrømmer glir over i drømmer om å bli [forfulgt](/drommer/forfulgt) eller å måtte flykte.
+Krig er ett av menneskenes sterkeste bilder på konflikt i ekstrem form, og underbevistheten bruker det for å kommunisere noe den ikke finner mildere ord for. Mange opplever også at krigsdrømmer glir over i drømmer om å bli [forfulgt](/drommer/forfulgt/) eller å måtte flykte.
 
 ## De vanligste tolkningene
 
@@ -35,7 +35,7 @@ Det kan handle om et valg du ikke klarer å ta, en konflikt mellom plikt og øns
 
 Vi lever i en tid der krig og konflikt er tilstede i nyhetsbildet på en måte som påvirker oss selv om vi ikke er direkte berørt. Hjernens nattlige bearbeiding inkluderer dette — bilder, historier og emosjoner fra verden rundt oss kan ta form som krigsscenarioer i drømmene.
 
-Disse drømmene er ikke tegn på sykdom eller fare — de er tegn på et sinn som prosesserer og prøver å integrere det som skjer i verden. De er særlig vanlige i perioder der krig, katastrofer eller store politiske hendelser dominerer nyhetsbildet. Drømmer om [jordskjelv](/drommer/jordskjelv) og [stormer](/drommer/storm) følger ofte samme mønster.
+Disse drømmene er ikke tegn på sykdom eller fare — de er tegn på et sinn som prosesserer og prøver å integrere det som skjer i verden. De er særlig vanlige i perioder der krig, katastrofer eller store politiske hendelser dominerer nyhetsbildet. Drømmer om [jordskjelv](/drommer/jordskjelv/) og [stormer](/drommer/storm/) følger ofte samme mønster.
 
 ### En kamp for noe du tror på
 
@@ -59,7 +59,7 @@ Unngåelse — en konflikt i livet ditt som du prøver å holde avstand til i st
 Du er klar over konflikten men er ikke midt i den. En observatørposisjon som kan speile distanse eller hjelpeløshet.
 
 **Hvis du mistet noen i krigen:**
-Sorg og tap knyttet til noe eller noen — det som går tapt i konflikt er gjerne noe verdifullt. Se også drømmer om [avdøde personer](/drommer/avdod-person) for mer om tapstematikk.
+Sorg og tap knyttet til noe eller noen — det som går tapt i konflikt er gjerne noe verdifullt. Se også drømmer om [avdøde personer](/drommer/avdod-person/) for mer om tapstematikk.
 
 **Hvis krigen endte:**
 En løsning er mulig. Fred og forsoning er innen rekkevidde — enten i et indre eller ytre landskap.

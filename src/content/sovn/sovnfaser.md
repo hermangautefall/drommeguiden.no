@@ -70,7 +70,7 @@ Forsker Rosalind Cartwright dokumenterte dette konkret: sørgende pasienter som 
 
 **Minnekonsolidering av prosedureminne.** Der dyp søvn styrker fakta-hukommelse, styrker REM-søvn primært prosedureminne — motoriske ferdigheter, mønstre og regler. Musikere, idrettsutøvere og sjakkspillere presterer bedre etter god REM-søvn.
 
-Les mer: [Hvorfor drømmer vi — hva sier forskningen?](/sovn/hvorfor-drommer-vi)
+Les mer: [Hvorfor drømmer vi — hva sier forskningen?](/sovn/hvorfor-drommer-vi/)
 
 ## Søvnsyklusen gjennom natten
 
@@ -106,7 +106,7 @@ De drømmene du husker — levende, narrative, emosjonelt intense — er nesten 
 
 Grunnen til at du husker drømmene best om morgenen er ikke at det er der flest drømmer skjer — det er at du typisk våkner fra eller rett etter en lang REM-periode, der minnene fortsatt er tilgjengelige.
 
-Drømmejournalen vår kan hjelpe deg å fange og forstå drømmene dine bedre: [les om drømmejournalen](/guider/drommejournalen). Og om du er nysgjerrig på hva de spesifikke bildene i drømmene dine betyr, har vi over 170 sider med [drømmesymboler og tolkninger](/drommer/).
+Drømmejournalen vår kan hjelpe deg å fange og forstå drømmene dine bedre: [les om drømmejournalen](/guider/drommejournalen/). Og om du er nysgjerrig på hva de spesifikke bildene i drømmene dine betyr, har vi over 170 sider med [drømmesymboler og tolkninger](/drommer/).
 
 ## Oppsummering
 
@@ -118,7 +118,7 @@ Søvnfasene er ikke tilfeldige. De er en nøye orkestrert prosess der kropp og h
 - Dyp søvn dominerer tidlig i natten; REM dominerer sent
 - Alkohol undertrykker REM; sen leggetid kutter dyp søvn; tidlig vekking kutter REM
 
-Videre lesing: [Hva er søvn?](/sovn/hva-er-sovn) — [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi) — [Søvnhygiene](/sovn/sovnhygiene)
+Videre lesing: [Hva er søvn?](/sovn/hva-er-sovn/) — [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi/) — [Søvnhygiene](/sovn/sovnhygiene/)
 
 ## Kilder
 

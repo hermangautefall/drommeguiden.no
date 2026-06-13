@@ -24,7 +24,7 @@ Fødselsmomentet — selve den dramatiske overgangen fra det skjulte til det syn
 
 ### Noe er klart til å manifestere seg
 
-Noe du har båret på — et prosjekt, en beslutning, en ny identitet, et skaperverk — er klart til å komme ut. Det kan ikke holdes tilbake lenger. Drømmens [fødsel](/drommer/fodsel) er psykens bilde på dette vendepunktet: det som har modnet i det skjulte, trer nå frem i lyset.
+Noe du har båret på — et prosjekt, en beslutning, en ny identitet, et skaperverk — er klart til å komme ut. Det kan ikke holdes tilbake lenger. Drømmens [fødsel](/drommer/fodsel/) er psykens bilde på dette vendepunktet: det som har modnet i det skjulte, trer nå frem i lyset.
 
 Det er ikke nødvendigvis et barn. Det kan like gjerne være en bok, et nytt kapittel i karrieren, en relasjonell avklaring eller en del av deg selv som endelig kan tre frem.
 
@@ -44,7 +44,7 @@ Dette er særlig vanlig i store livsoverganger: skifte av jobb, avslutning av et
 
 For kvinner som er gravide er fødseldrømmene del av en naturlig psykologisk forberedelsesprosess. Drømmene kan speile angst for det ukontrollerte, for smerte, for å mislykkes — eller de kan speile forventning og glede. Begge er normale.
 
-Se artikkelen om [søvn i graviditet](/sovn/sovn-graviditet) for mer om drømmemønstre under svangerskapet.
+Se artikkelen om [søvn i graviditet](/sovn/sovn-graviditet/) for mer om drømmemønstre under svangerskapet.
 
 ## Hva påvirker tolkningen?
 

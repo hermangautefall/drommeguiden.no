@@ -77,5 +77,5 @@ Folkemedisinsk tradisjon i Norge — som i de fleste kulturer — skjelner mello
 - Hva skjer i **livet ditt** akkurat nå — er det noe som gjør vondt når du berører det?
 - Har du drømt om **sår eller skade** **flere ganger**?
 
-> 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

@@ -58,7 +58,7 @@ En annen forklaring: at disse drømmene skjer, men at vi bare husker dem i etter
 
 Uavhengig av hva man tror om profetiske drømmers natur, er det noen praktiske råd:
 
-Skriv dem ned. En [drømmejournalen](/guider/drommejournalen) er det eneste verktøyet som lar deg faktisk teste om drømmene dine treffer — fordi du dokumenterer dem før hendelsen, ikke etter. Det er den eneste måten å motvirke hukommelsens selektivitet.
+Skriv dem ned. En [drømmejournalen](/guider/drommejournalen/) er det eneste verktøyet som lar deg faktisk teste om drømmene dine treffer — fordi du dokumenterer dem før hendelsen, ikke etter. Det er den eneste måten å motvirke hukommelsens selektivitet.
 
 Ta dem på alvor som informasjon — ikke som skjebne. Selv om en drøm speiler et reelt signal du ikke har vært bevisst på, betyr ikke det at utfallet er bestemt. Det betyr at noe i deg vet noe du ikke har tenkt gjennom.
 
@@ -77,4 +77,4 @@ Profetiske drømmer er et reelt fenomen i den forstand at svært mange opplever 
 
 Det som er sikkert er at disse drømmene fortjener å tas på alvor — ikke som varsler å frykte, men som signaler å undersøke. Begynn med å skrive dem ned, og se hva mønstrene avslører over tid.
 
-Relatert: [lucid-dromming](/guider/lucid-dromming) — [drommejournalen](/guider/drommejournalen) — [gjentakende-drommer](/guider/gjentakende-drommer)
+Relatert: [lucid-dromming](/guider/lucid-dromming/) — [drommejournalen](/guider/drommejournalen/) — [gjentakende-drommer](/guider/gjentakende-drommer/)

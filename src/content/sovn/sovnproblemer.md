@@ -58,7 +58,7 @@ Negativ kondisjonering: sengen assosieres mer og mer med frustrasjon og vakenhet
 
 Søvnproblemer og drømmenes kvalitet henger tett sammen. Fragmentert og overfladisk søvn gir sjeldnere, men mer intense og ubehagelige drømmer — og de drømmene man husker ved hyppige oppvåkninger er ofte de mest negative, siden de er fra tidlige REM-episoder.
 
-Kronisk insomni er assosiert med økt forekomst av [mareritt](/guider/mareritt) og angstdrømmer. Paradoksalt nok er selve søvnangsten — frykten for ikke å sove — et av de sterkeste materiale hjernen bruker til å produsere ubehagelige drømmescenarioer. Se guiden om [stress og drømmer](/guider/stress-og-drommer) for mer om dette forholdet.
+Kronisk insomni er assosiert med økt forekomst av [mareritt](/guider/mareritt/) og angstdrømmer. Paradoksalt nok er selve søvnangsten — frykten for ikke å sove — et av de sterkeste materiale hjernen bruker til å produsere ubehagelige drømmescenarioer. Se guiden om [stress og drømmer](/guider/stress-og-drommer/) for mer om dette forholdet.
 
 ## Hva virker — og hva virker ikke?
 
@@ -74,7 +74,7 @@ Helsemyndighetene anbefaler sovemedisiner kun ved akutte søvnproblemer og for k
 
 Melatonin er ikke et klassisk sovemiddel — det er et signalhormon som forteller kroppen at det er natt. Det er nyttig ved døgnrytmeforstyrrelser (jetlag, skiftarbeid), hos eldre (der melatoninproduksjonen er redusert), og hos barn med ADHD og autisme.
 
-For vanlig insomni er effekten mer begrenset enn mange tror. Se den fullstendige artikkelen om [melatonin](/sovn/melatonin) for dosering og brukssituasjoner.
+For vanlig insomni er effekten mer begrenset enn mange tror. Se den fullstendige artikkelen om [melatonin](/sovn/melatonin/) for dosering og brukssituasjoner.
 
 ### CBT-I: det som faktisk virker
 
@@ -104,7 +104,7 @@ Mens du vurderer mer systematisk behandling, er det noen enkle tiltak som hjelpe
 
 **Morgenlys.** Sterkt lys om morgenen er det kraftigste signalet du kan gi kroppen om hva tid på døgnet det er — og det setter søvntimer i gang.
 
-Se den fullstendige guiden om [søvnhygiene](/sovn/sovnhygiene) for 12 konkrete tiltak.
+Se den fullstendige guiden om [søvnhygiene](/sovn/sovnhygiene/) for 12 konkrete tiltak.
 
 ## Når bør du oppsøke lege?
 
@@ -126,7 +126,7 @@ Søvnproblemer rammer én av tre nordmenn — og de lar seg ofte behandle:
 - CBT-I er den best dokumenterte langsiktige behandlingen og anbefales av helsemyndighetene
 - Søvnproblemer forstyrrer drømmekvaliteten direkte — og viser seg i økt marerittforekomst
 
-Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Angst og søvn](/sovn/angst-sovn) — [Stress og drømmene](/guider/stress-og-drommer)
+Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Angst og søvn](/sovn/angst-sovn/) — [Stress og drømmene](/guider/stress-og-drommer/)
 
 ## Kilder
 

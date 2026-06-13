@@ -42,7 +42,7 @@ En av de mest innsiktsfulle tolkningene av eksendrømmer er at den tidligere par
 
 Spør deg selv: hva representerte eksen for deg? Trygghet? Spenning? Frihet? Bekreftelse? Sjansen er stor for at drømmen handler om det behovet — ikke om personen. Kanskje savner du den tryggheten eksen ga deg, uten at du savner selve personen. Eller kanskje drømmer du om en versjon av deg selv som du var da dere var sammen — modigere, mer spontan, eller mer sårbar.
 
-Denne tolkningen kan være frigjørende, fordi den flytter fokuset fra den andre personen til deg selv. Drømmen sier ikke "du vil tilbake" — den sier "det er noe i deg som trenger oppmerksomhet". Se også drømmer om [speil](/drommer/speil), som utforsker temaet om selvrefleksjon og projeksjon.
+Denne tolkningen kan være frigjørende, fordi den flytter fokuset fra den andre personen til deg selv. Drømmen sier ikke "du vil tilbake" — den sier "det er noe i deg som trenger oppmerksomhet". Se også drømmer om [speil](/drommer/speil/), som utforsker temaet om selvrefleksjon og projeksjon.
 
 ### Du er klar for å gå videre
 
@@ -68,7 +68,7 @@ Kan peke mot ubearbeidet sinne eller uløste konflikter. Noe i deg trenger å ut
 Kan speile sjalusi eller usikkerhet — ikke nødvendigvis overfor eksen, men mer generelt. Det kan handle om en frykt for å bli erstattet eller glemt.
 
 **Hvis eksen dukker opp i en helt annen kontekst:**
-For eksempel på jobben din eller i [barndomshjemmet](/drommer/hus) — tyder på at drømmen handler om noe annet enn selve forholdet. Eksen er et symbol for noe, og konteksten gir deg ledetråden.
+For eksempel på jobben din eller i [barndomshjemmet](/drommer/hus/) — tyder på at drømmen handler om noe annet enn selve forholdet. Eksen er et symbol for noe, og konteksten gir deg ledetråden.
 
 ---
 
@@ -78,7 +78,7 @@ I jungiansk psykologi er eksen i drømmer et eksempel på anima- eller animusfig
 
 Moderne relasjonsforskning støtter opp under tanken om at drømmer om ekser er en del av den emosjonelle bearbeidingen etter et brudd. Studier har vist at det å drømme om en tidligere partner er svært vanlig i månedene etter et brudd, og at frekvensen gradvis avtar i takt med at man bearbeider tapet. Drømmene er altså ikke et tegn på at noe er galt — de er tvert imot et tegn på at noe er i ferd med å heles.
 
-I norsk kultur, der vi kanskje ikke alltid snakker like åpent om følelser knyttet til brudd, kan drømmene bli et ekstra viktig rom for bearbeiding. Det finnes en sterk kulturell forventning om å "komme seg videre", og drømmer om eksen kan føles som et svik mot det idealet. Men drømmene bryr seg ikke om idealer — de bryr seg om det som er sant. Å drømme om en [bryllup](/drommer/bryllup) med eksen betyr ikke at du vil gifte deg på nytt — det kan like gjerne handle om forpliktelse, løfter og hva de betyr for deg.
+I norsk kultur, der vi kanskje ikke alltid snakker like åpent om følelser knyttet til brudd, kan drømmene bli et ekstra viktig rom for bearbeiding. Det finnes en sterk kulturell forventning om å "komme seg videre", og drømmer om eksen kan føles som et svik mot det idealet. Men drømmene bryr seg ikke om idealer — de bryr seg om det som er sant. Å drømme om en [bryllup](/drommer/bryllup/) med eksen betyr ikke at du vil gifte deg på nytt — det kan like gjerne handle om forpliktelse, løfter og hva de betyr for deg.
 
 ---
 

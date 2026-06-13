@@ -40,7 +40,7 @@ Den vitenskapelige forklaringen på OBE er ikke "det skjer ikke" — det er "det
 
 **Den temporo-parietale forbindelsen (TPJ).** Forsker Olaf Blanke ved EPFL har vist at elektrisk stimulering av et spesifikt område i hjernen — temporoparietal junction — fremkaller OBE-lignende opplevelser hos pasienter. TPJ er det hjerneområdet som integrerer sensorisk informasjon om kroppen i rommet (propriosepsjon, vestibulærsignaler, syn) til en sammenhengende kroppsopplevelse. Forstyrrelse av denne integrasjonen kan gi opplevelsen av å være "utenfor" kroppen.
 
-**Søvnparalyse og hypnagogisk tilstand.** De aller fleste spontane OBE-er oppstår i grensesonen mellom søvn og våkenhet — typisk under søvnparalyse eller i hypnagog/hypnopompe tilstand. Det er det samme nevrologiske terrenget som [søvnparalyse](/guider/sovnparalyse) og [falsk oppvåkning](/guider/falsk-oppvakning) opererer i.
+**Søvnparalyse og hypnagogisk tilstand.** De aller fleste spontane OBE-er oppstår i grensesonen mellom søvn og våkenhet — typisk under søvnparalyse eller i hypnagog/hypnopompe tilstand. Det er det samme nevrologiske terrenget som [søvnparalyse](/guider/sovnparalyse/) og [falsk oppvåkning](/guider/falsk-oppvakning/) opererer i.
 
 **REM-søvnens aktiverte hjerne.** Noen OBE-er oppstår under REM-søvn der hjernen er høyaktiv men kroppen er lammet. Den projiserte "astralkroppen" kan være hjernens måte å danne en motorisk representasjon av bevegelse som kroppen ikke gjennomfører — en form for "motorisk hallusinasjon".
 
@@ -50,7 +50,7 @@ I lucid dreaming-tradisjonen er bevisst fremkalt OBE en kjent teknikk kjent som 
 
 Teknisk er WILD og OBE neurologisk svært like: begge skjer i grenselandet mellom REM-søvn og våkenhet, begge innebærer aktiv bevissthet i et normalt lammet kropp, og begge oppleves som mer virkelige enn vanlige drømmer.
 
-Se guiden om [lucid dreaming](/guider/lucid-dromming) for mer om teknikker.
+Se guiden om [lucid dreaming](/guider/lucid-dromming/) for mer om teknikker.
 
 ## Nær-døden-opplevelser og OBE
 
@@ -76,7 +76,7 @@ OBE og astralprosjeksjon er reelle opplevelser med en nevrologisk forklaring:
 - OBE og svært levende lucide drømmer er nevrologisk og subjektivt svært like
 - Nær-døden-opplevelsers status er vitenskapelig kontroversiell men faktisk dokumentert
 
-Les videre: [Lucid dreaming](/guider/lucid-dromming) — [Søvnparalyse](/guider/sovnparalyse) — [Falsk oppvåkning](/guider/falsk-oppvakning)
+Les videre: [Lucid dreaming](/guider/lucid-dromming/) — [Søvnparalyse](/guider/sovnparalyse/) — [Falsk oppvåkning](/guider/falsk-oppvakning/)
 
 ## Kilder
 

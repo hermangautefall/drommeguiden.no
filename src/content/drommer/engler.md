@@ -36,7 +36,7 @@ Hva engelen sa, hva den gjorde, eller bare følelsen den etterlot — alt dette 
 
 Engler er i mange tradisjoner voktere — skytsenglen som passer på deg, som er der når du er sårbar. Å drømme om engler kan komme i perioder der du er utrygg, der noe truer eller der du bærer på en tung byrde. Drømmen er en forsikring: du er ikke alene, du er sett, du er passet på.
 
-Disse drømmene oppleves særlig av sørgende — og de er nesten alltid trøstende på en måte som er vanskelig å sette ord på. Se også drømmer om [avdøde personer](/drommer/avdod-person).
+Disse drømmene oppleves særlig av sørgende — og de er nesten alltid trøstende på en måte som er vanskelig å sette ord på. Se også drømmer om [avdøde personer](/drommer/avdod-person/).
 
 ### Din høyere bevissthet eller intuisjon
 
@@ -60,7 +60,7 @@ Dyp trøst og beskyttelse. Du er ikke alene med det du bærer på.
 En mer kompleks variant — ikke nødvendigvis ond, men ladet med noe du ikke er klar til å møte. En kraft som krever noe av deg.
 
 **Hvis engelen bar et budskap om en avdød kjær:**
-Et av de mest trøstende budskapene du kan motta i drøm. Mange beskriver dette som et ekte møte. Drømmer om [himmelen](/drommer/himmel) følger ofte med.
+Et av de mest trøstende budskapene du kan motta i drøm. Mange beskriver dette som et ekte møte. Drømmer om [himmelen](/drommer/himmel/) følger ofte med.
 
 **Hvis det var mange engler:**
 Overveldende nåde, beskyttelse og støtte fra noe større enn deg selv.
@@ -74,7 +74,7 @@ Engler finnes i nærmest alle menneskelige kulturer og tradisjoner — fra de ab
 
 Jung kalte engelen en manifestasjon av det han beskrev som det "numinøse" — det overveldende, ukontrollerbare, hellige elementet i menneskets psykologiske erfaring. Engeldrømmene er for Jung ikke religiøse illusjoner — de er ekte psykologiske hendelser som kommuniserer noe fra de dypeste lagene av psyken.
 
-I Norge og Norden er englene ikke like sentrale i folkelig fromhetsliv som i mange andre kulturer — men de finnes der, i julesal, i gravstein-inskripsjoner, i de stille forestillingene om hva som skjer etter døden. Å drømme om engler i norsk kontekst berører noe kulturelt dypt, selv for dem som ikke er aktivt troende. Les mer om [hva drømmer er](/guider/hva-er-drommer) og hvordan underbevisstheten bruker slike bilder.
+I Norge og Norden er englene ikke like sentrale i folkelig fromhetsliv som i mange andre kulturer — men de finnes der, i julesal, i gravstein-inskripsjoner, i de stille forestillingene om hva som skjer etter døden. Å drømme om engler i norsk kontekst berører noe kulturelt dypt, selv for dem som ikke er aktivt troende. Les mer om [hva drømmer er](/guider/hva-er-drommer/) og hvordan underbevisstheten bruker slike bilder.
 
 ## Drømmeguiden anbefaler
 

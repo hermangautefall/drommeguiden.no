@@ -36,7 +36,7 @@ Hvis faren din var en støttende figur i oppveksten, kan drømmer om ham speile 
 
 ### Savn og sorg
 
-For dem som har mistet faren sin, er [drømmer om avdøde](/drommer/avdod-person) svært vanlige og oppleves ofte som dypt trøstende. Mange beskriver at de i drømmen vet at han er borte, men likevel får snakke med ham — og at dette gir en lettelse som sitter i lenge etter oppvåkning.
+For dem som har mistet faren sin, er [drømmer om avdøde](/drommer/avdod-person/) svært vanlige og oppleves ofte som dypt trøstende. Mange beskriver at de i drømmen vet at han er borte, men likevel får snakke med ham — og at dette gir en lettelse som sitter i lenge etter oppvåkning.
 
 ## Hva påvirker tolkningen?
 
@@ -44,7 +44,7 @@ For dem som har mistet faren sin, er [drømmer om avdøde](/drommer/avdod-person
 Et tegn på at du er i god kontakt med din egen selvfølelse og mestringskraft.
 
 **Hvis han var sint, kald eller fraværende:**
-Kan speile indre usikkerhet, frykt for å mislykkes, eller savn etter bekreftelse du ikke fikk. Denne følelsen ligner på det mange opplever i [eksamensdrømmer](/drommer/eksamen).
+Kan speile indre usikkerhet, frykt for å mislykkes, eller savn etter bekreftelse du ikke fikk. Denne følelsen ligner på det mange opplever i [eksamensdrømmer](/drommer/eksamen/).
 
 **Hvis han ga deg råd:**
 Legg merke til hva han sa — det er gjerne noe din egen underbevissthet ønsker å si til deg.
@@ -57,7 +57,7 @@ Et besøk mange beskriver som mer ekte enn vanlige drømmer — en form for bear
 
 ## Psykologiske og kulturelle perspektiver
 
-I jungiansk psykologi er farsskikkelsen knyttet til "Logos" — prinsippet om struktur, logikk og bevisst vilje. Der [moren](/drommer/mor) representerer det nærende og ubevisste, representerer faren det formende og bevisste. Drømmer om far handler dermed ofte om forholdet ditt til egne mål, verdier og evnen til å handle i verden.
+I jungiansk psykologi er farsskikkelsen knyttet til "Logos" — prinsippet om struktur, logikk og bevisst vilje. Der [moren](/drommer/mor/) representerer det nærende og ubevisste, representerer faren det formende og bevisste. Drømmer om far handler dermed ofte om forholdet ditt til egne mål, verdier og evnen til å handle i verden.
 
 I nordisk tradisjon har farsfiguren historisk vært knyttet til både beskyttelse og dom — den som setter grenser for hva som er mulig, men også den som åpner dører til verden utenfor hjemmet. Denne dobbeltheten gjenspeiles i drømmene: faren er sjelden nøytral.
 

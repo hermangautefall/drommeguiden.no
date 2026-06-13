@@ -37,7 +37,7 @@ Tennene våre er en synlig del av ansiktet og spiller en viktig rolle i hvordan 
 
 Kanskje du har vært i en situasjon der du følte deg vurdert — et jobbintervju, en første date, eller et sosialt arrangement der du var usikker på hvordan du ble mottatt. Drømmen kan gjenspeile denne sårbarheten. Tennene i drømmen representerer din ytre fasade, og når de forsvinner, står du tilbake uten beskyttelse.
 
-Denne tolkningen forsterkes hvis drømmen også inneholdt elementer av å føle seg [naken](/drommer/naken) eller eksponert. Begge drømmene handler om frykten for å bli sett slik man egentlig er — uten filtre.
+Denne tolkningen forsterkes hvis drømmen også inneholdt elementer av å føle seg [naken](/drommer/naken/) eller eksponert. Begge drømmene handler om frykten for å bli sett slik man egentlig er — uten filtre.
 
 ### Angst og tap av kontroll
 
@@ -45,7 +45,7 @@ Tanndrømmer er sterkt knyttet til generell angst. De dukker ofte opp i perioder
 
 Selve opplevelsen av at tennene løsner — den sakte, uunngåelige følelsen av at noe glir ut av hendene dine — er en kraftig metafor for tap av kontroll. Du prøver kanskje å holde fast, men det nytter ikke. Drømmen speiler den følelsen mange kjenner i perioder der livet føles uforutsigbart.
 
-Forskning har vist at mennesker som opplever høyere nivåer av daglig stress, oftere drømmer om tenner. Det er derfor verdt å reflektere over stressnivået ditt hvis denne drømmen gjentar seg. Å drømme om [hender](/drommer/hender) som ikke fungerer som de skal, kan ha en lignende kobling til følelsen av maktesløshet.
+Forskning har vist at mennesker som opplever høyere nivåer av daglig stress, oftere drømmer om tenner. Det er derfor verdt å reflektere over stressnivået ditt hvis denne drømmen gjentar seg. Å drømme om [hender](/drommer/hender/) som ikke fungerer som de skal, kan ha en lignende kobling til følelsen av maktesløshet.
 
 ### Frykt for aldring og livsfaseendringer
 
@@ -53,7 +53,7 @@ Tenner er også knyttet til livsfaser. Vi mister melketenner som barn, vi får v
 
 Denne tolkningen er spesielt relevant i perioder med store overganger: å flytte hjemmefra, å bli forelder, å gå av med pensjon, eller å oppleve at barna vokser opp. Drømmen kan reflektere en underliggende sorg over det som endrer seg, selv om endringen i seg selv er naturlig og positiv.
 
-Tanndrømmer i forbindelse med store livsendringer deler noe av symbolikken med drømmer om [baby](/drommer/baby), som også handler om nye faser og transformasjon.
+Tanndrømmer i forbindelse med store livsendringer deler noe av symbolikken med drømmer om [baby](/drommer/baby/), som også handler om nye faser og transformasjon.
 
 ---
 
@@ -70,7 +70,7 @@ Dette kan tolkes som en følelse av totalt sammenbrudd — en situasjon der alt 
 **Hvis tennene smulet opp:**
 Tenner som smuldrer kan peke mot en følelse av at noe du stolte på — din trygghet, ditt fundament — ikke lenger holder. Det kan også handle om noe du har forsømt over tid.
 
-**Hvis du så deg selv i et [speil](/drommer/speil) uten tenner:**
+**Hvis du så deg selv i et [speil](/drommer/speil/) uten tenner:**
 Denne varianten forsterker tolkningen knyttet til selvbilde. Speilet representerer selvrefleksjon, og å se seg selv uten tenner kan handle om å konfrontere deler av deg selv du ikke liker.
 
 ---

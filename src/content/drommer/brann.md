@@ -45,7 +45,7 @@ I mange tradisjoner er ild et symbol for renselse og transformasjon. Fugl Fønik
 
 Denne tolkningen er spesielt relevant hvis du står midt i en stor livsendring. Kanskje du har avsluttet et forhold, byttet jobb, eller forlatt en vane som ikke lenger tjener deg. Brannen i drømmen representerer den smertefulle, men nødvendige prosessen med å la det gamle forsvinne.
 
-Drømmer om brann deler noe av denne fornyelsessymbolikken med drømmer om [slange](/drommer/slange), som også handler om transformasjon og det å kaste gammel hud. Begge symbolene inviterer deg til å omfavne endringen i stedet for å frykte den.
+Drømmer om brann deler noe av denne fornyelsessymbolikken med drømmer om [slange](/drommer/slange/), som også handler om transformasjon og det å kaste gammel hud. Begge symbolene inviterer deg til å omfavne endringen i stedet for å frykte den.
 
 ### Destruksjon og frykt for tap
 
@@ -53,7 +53,7 @@ Den mer skremmende siden av branndrømmer handler om destruksjon. Å drømme om 
 
 Denne typen drøm dukker ofte opp i perioder med usikkerhet. Du er kanskje redd for å miste en relasjon, en posisjon, eller den tryggheten du har bygget opp. Brannen representerer den ukontrollerbare kraften som truer det du har — og den følelsen av maktesløshet som følger med.
 
-Drømmer om at et [hus](/drommer/hus) brenner ned er spesielt ladede, fordi huset i drømmer ofte representerer deg selv og ditt indre liv. Når huset brenner, kan det tolkes som at noe grunnleggende i deg er i endring — ikke nødvendigvis negativt, men absolutt intenst.
+Drømmer om at et [hus](/drommer/hus/) brenner ned er spesielt ladede, fordi huset i drømmer ofte representerer deg selv og ditt indre liv. Når huset brenner, kan det tolkes som at noe grunnleggende i deg er i endring — ikke nødvendigvis negativt, men absolutt intenst.
 
 ---
 
@@ -71,7 +71,7 @@ En brann som sprer seg ukontrollert peker mot følelser eller situasjoner som ha
 Å bli skadet av ild i en drøm kan symbolisere at noe i livet gjør deg vondt — kanskje en relasjon, en kritikk, eller en opplevelse du ikke har bearbeidet. Sårene i drømmen representerer emosjonelle sår.
 
 **Hvis du slukket brannen:**
-Å slukke ild kan tolkes som at du tar kontroll over en vanskelig situasjon. Det er et positivt tegn — du har kreftene som trengs for å håndtere det som skjer. Dette deler noe av symbolikken med å roe en [storm](/drommer/storm) i drømmen.
+Å slukke ild kan tolkes som at du tar kontroll over en vanskelig situasjon. Det er et positivt tegn — du har kreftene som trengs for å håndtere det som skjer. Dette deler noe av symbolikken med å roe en [storm](/drommer/storm/) i drømmen.
 
 ---
 

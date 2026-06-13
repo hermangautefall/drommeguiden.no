@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om strand?
 
-Stranden er et av de mest poetiske og symbolmettede stedene i drømmeverdenen — et sted verken helt på land eller i [havet](/drommer/hav), verken helt i det kjente eller i det ukjente. I drømmesymbolikken er stranden et grenseland, en terskel mellom to verdener: det bevisste og det ubevisste, det trygge og det dype, det kjente og det som ligger bak horisonten.
+Stranden er et av de mest poetiske og symbolmettede stedene i drømmeverdenen — et sted verken helt på land eller i [havet](/drommer/hav/), verken helt i det kjente eller i det ukjente. I drømmesymbolikken er stranden et grenseland, en terskel mellom to verdener: det bevisste og det ubevisste, det trygge og det dype, det kjente og det som ligger bak horisonten.
 
 Stranddrømmene er sjelden nøytrale — de er ladede med stemning og følelse.
 
@@ -46,7 +46,7 @@ Indre ro, hvile og en positiv overgang. Du er klar for noe nytt.
 **Hvis havet var urolig mens du sto på land:**
 Følelsesmessig uro du observerer men ikke er midt oppe i — en viss avstand til noe intenst.
 
-**Hvis du gikk ut i [vannet](/drommer/hav):**
+**Hvis du gikk ut i [vannet](/drommer/hav/):**
 Du beveger deg mot det ubevisste, mot følelsene, mot noe ukjent. Mot eller mot noe.
 
 **Hvis stranden var tom og øde:**
@@ -57,7 +57,7 @@ Et sted du ønsker å komme til — hvile, frihet, overgang — som fortsatt fø
 
 ## Psykologiske og kulturelle perspektiver
 
-I jungiansk psykologi er havet et symbol på det kollektive ubevisste — det store, dype, udefinerbare. Stranden er grensen mellom dette og den bevisste verden. Å stå på stranden i drømmen er å stå i bevisstheten og se ut mot det som er større enn deg. Drømmer der [solen](/drommer/sol) skinner på stranden forsterker ofte det positive og livgivende aspektet.
+I jungiansk psykologi er havet et symbol på det kollektive ubevisste — det store, dype, udefinerbare. Stranden er grensen mellom dette og den bevisste verden. Å stå på stranden i drømmen er å stå i bevisstheten og se ut mot det som er større enn deg. Drømmer der [solen](/drommer/sol/) skinner på stranden forsterker ofte det positive og livgivende aspektet.
 
 I norsk kultur er kysten og stranden ikke bare geografi — den er identitet. Norge er et kystfolk, og stranden representerer både det kjente og det åpne. Å drømme om den norske stranden treffer noe kulturelt og historisk dypt.
 

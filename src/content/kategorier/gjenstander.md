@@ -10,7 +10,7 @@ dato: 2026-03-18
 
 ## Drømmer om gjenstander
 
-Ting vi ser og bruker i hverdagen dukker jevnlig opp i drømmene våre — et [speil](/drommer/speil) vi stirrer inn i, en [bil](/drommer/bil) vi kjører eller mister kontrollen over, eller et [hus](/drommer/hus) med ukjente rom. Gjenstander i drømmer er sjelden bare ting. De er symboler ladet med personlig betydning, og de kan avsløre mye om hvordan du opplever deg selv og verden rundt deg.
+Ting vi ser og bruker i hverdagen dukker jevnlig opp i drømmene våre — et [speil](/drommer/speil/) vi stirrer inn i, en [bil](/drommer/bil/) vi kjører eller mister kontrollen over, eller et [hus](/drommer/hus/) med ukjente rom. Gjenstander i drømmer er sjelden bare ting. De er symboler ladet med personlig betydning, og de kan avsløre mye om hvordan du opplever deg selv og verden rundt deg.
 
 ---
 
@@ -22,13 +22,13 @@ Carl Jung var opptatt av symbolikken i hverdagslige gjenstander og mente de kunn
 
 Konteksten er nøkkelen: hva gjør du med gjenstanden? Er den din eller andres? Er den hel eller ødelagt? Disse detaljene former tolkningen og kan gi deg verdifull innsikt i hva det ubevisste prøver å kommunisere.
 
-Mange drømmer også om hverdagslige gjenstander med dyp symbolikk: [nøkler](/drommer/nokler) kan representere tilgang, hemmeligheter eller nye muligheter, mens [penger](/drommer/penger) ofte handler om selvverd og trygghet. En [ring](/drommer/ring) i drømmen knyttes gjerne til forpliktelse og tilhørighet, og en [telefon](/drommer/telefon) kan symbolisere kommunikasjon eller et budskap du trenger å høre. Drømmer om [mat](/drommer/mat) berører næring — både fysisk og emosjonell — mens [alkohol](/drommer/alkohol) kan speile flukt, feiring eller tap av kontroll. [Musikk](/drommer/musikk) i drømmer er ofte forbundet med følelser som er vanskelige å uttrykke med ord.
+Mange drømmer også om hverdagslige gjenstander med dyp symbolikk: [nøkler](/drommer/nokler/) kan representere tilgang, hemmeligheter eller nye muligheter, mens [penger](/drommer/penger/) ofte handler om selvverd og trygghet. En [ring](/drommer/ring/) i drømmen knyttes gjerne til forpliktelse og tilhørighet, og en [telefon](/drommer/telefon/) kan symbolisere kommunikasjon eller et budskap du trenger å høre. Drømmer om [mat](/drommer/mat/) berører næring — både fysisk og emosjonell — mens [alkohol](/drommer/alkohol/) kan speile flukt, feiring eller tap av kontroll. [Musikk](/drommer/musikk/) i drømmer er ofte forbundet med følelser som er vanskelige å uttrykke med ord.
 
-Andre gjenstander bærer rik symbolikk knyttet til identitet og livsreise. [Gull](/drommer/gull) i drømmer representerer ofte verdi, visdom eller noe dyrebart i livet ditt, mens en [koffert](/drommer/koffert) kan handle om bagasje — både fysisk og følelsesmessig — som du bærer med deg. [Lys](/drommer/lys) symboliserer håp, innsikt og veien gjennom mørket. En [bok](/drommer/bok) knyttes til kunnskap, minner og ufortalte historier.
+Andre gjenstander bærer rik symbolikk knyttet til identitet og livsreise. [Gull](/drommer/gull/) i drømmer representerer ofte verdi, visdom eller noe dyrebart i livet ditt, mens en [koffert](/drommer/koffert/) kan handle om bagasje — både fysisk og følelsesmessig — som du bærer med deg. [Lys](/drommer/lys/) symboliserer håp, innsikt og veien gjennom mørket. En [bok](/drommer/bok/) knyttes til kunnskap, minner og ufortalte historier.
 
-I den moderne drømmeverdenen dukker teknologi stadig oftere opp. [Internett](/drommer/internett) i drømmer kan handle om forbundethet eller informasjonsoverbelastning. [Sosiale medier](/drommer/sosiale-medier) speiler gjerne persona, selvpresentasjon og behovet for validering. Å drømme om å [vinne penger](/drommer/vinne-penger) handler sjelden om faktisk rikdom — det berører ofte selvverd og lengsel etter trygghet.
+I den moderne drømmeverdenen dukker teknologi stadig oftere opp. [Internett](/drommer/internett/) i drømmer kan handle om forbundethet eller informasjonsoverbelastning. [Sosiale medier](/drommer/sosiale-medier/) speiler gjerne persona, selvpresentasjon og behovet for validering. Å drømme om å [vinne penger](/drommer/vinne-penger/) handler sjelden om faktisk rikdom — det berører ofte selvverd og lengsel etter trygghet.
 
-Klær og personlige gjenstander speiler gjerne selvbilde og identitet. En [kjole](/drommer/kjole) kan handle om femininitet, selvuttrykk eller en rolle du spiller. [Stein](/drommer/stein) i drømmer representerer ofte stabilitet, utholdenhet eller hindringer. En [sykkel](/drommer/sykkel) kan symbolisere balanse, fremgang og selvstendighet. Og for mange nordmenn bærer [bunaden](/drommer/bunad) en helt spesiell symbolikk knyttet til identitet, røtter og tilhørighet til norsk kultur og tradisjon.
+Klær og personlige gjenstander speiler gjerne selvbilde og identitet. En [kjole](/drommer/kjole/) kan handle om femininitet, selvuttrykk eller en rolle du spiller. [Stein](/drommer/stein/) i drømmer representerer ofte stabilitet, utholdenhet eller hindringer. En [sykkel](/drommer/sykkel/) kan symbolisere balanse, fremgang og selvstendighet. Og for mange nordmenn bærer [bunaden](/drommer/bunad/) en helt spesiell symbolikk knyttet til identitet, røtter og tilhørighet til norsk kultur og tradisjon.
 
 ---
 

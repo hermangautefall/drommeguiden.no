@@ -24,7 +24,7 @@ Lys er bevisstheten og håpets universale symbol — i nesten alle kulturer og r
 
 ### Bevissthet og innsikt
 
-Den vanligste tolkningen handler om forståelse — "å se lyset" er ikke tilfeldig som uttrykk. Drømmens lys representerer en innsikt som trer frem, en forståelse som klarner, noe som var skjult og nå er synlig. Et lys som tennes i mørket — kanskje fra en [ild](/drommer/ild) — er en av drømmenes sterkeste bilder på erkjennelse.
+Den vanligste tolkningen handler om forståelse — "å se lyset" er ikke tilfeldig som uttrykk. Drømmens lys representerer en innsikt som trer frem, en forståelse som klarner, noe som var skjult og nå er synlig. Et lys som tennes i mørket — kanskje fra en [ild](/drommer/ild/) — er en av drømmenes sterkeste bilder på erkjennelse.
 
 ### Håp og veiledning
 
@@ -32,7 +32,7 @@ Et lys i det fjerne, en lykt i mørket, en lommelykt som peker veien — disse b
 
 ### Det åndelige og transcendente
 
-I religiøse og åndelige tradisjoner er lys det guddommelige symbol — Gud skapte lyset, Buddha er "det opplyste", Kristus er "verdens lys". I mange drømmer er lyset knyttet til [solen](/drommer/sol) og til [kirken](/drommer/kirke) som hellig rom. Drømmens intense hvite eller gyldne lys er ett av de sterkeste nærhetserfaringene med noe transcendent mange rapporterer.
+I religiøse og åndelige tradisjoner er lys det guddommelige symbol — Gud skapte lyset, Buddha er "det opplyste", Kristus er "verdens lys". I mange drømmer er lyset knyttet til [solen](/drommer/sol/) og til [kirken](/drommer/kirke/) som hellig rom. Drømmens intense hvite eller gyldne lys er ett av de sterkeste nærhetserfaringene med noe transcendent mange rapporterer.
 
 ## Hva påvirker tolkningen?
 

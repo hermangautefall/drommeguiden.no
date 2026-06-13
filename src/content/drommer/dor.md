@@ -38,7 +38,7 @@ Nøkkelen er hvem som har kontrollen. Er det du som har valgt å lukke? Eller er
 
 ### Grensen mellom det indre og det ytre
 
-I drømmesymbolikken er [huset](/drommer/hus) selvet — og døren er da grensen mellom din indre verden og det som er utenfor: andre mennesker, verden, det ukjente. Å drømme om en dør kan handle om denne grensen: hvor åpen er du, og for hvem? Hva slipper du inn, og hva holder du ute?
+I drømmesymbolikken er [huset](/drommer/hus/) selvet — og døren er da grensen mellom din indre verden og det som er utenfor: andre mennesker, verden, det ukjente. Å drømme om en dør kan handle om denne grensen: hvor åpen er du, og for hvem? Hva slipper du inn, og hva holder du ute?
 
 ### Det ubevisste som banker på
 
@@ -53,7 +53,7 @@ En mulighet er tilgjengelig. Noe inviterer deg inn. Spørsmålet er om du tør �
 Muligheten er der, men du har ikke grepet den ennå. Ingenting hindrer deg annet enn deg selv.
 
 **Hvis døren var låst:**
-Noe er ikke tilgjengelig for deg akkurat nå — enten fordi du mangler noe (symbolsk: en [nøkkel](/drommer/nokler), et mandat, en evne), eller fordi tidspunktet ikke er riktig.
+Noe er ikke tilgjengelig for deg akkurat nå — enten fordi du mangler noe (symbolsk: en [nøkkel](/drommer/nokler/), et mandat, en evne), eller fordi tidspunktet ikke er riktig.
 
 **Hvis du ikke klarte å åpne døren:**
 En frustrasjon eller blokkering — noe du vil ha tilgang til, men ikke kan nå. En hindring i relasjoner, karriere eller indre liv.
@@ -67,7 +67,7 @@ En annen person åpner en mulighet for deg — eller slipper deg inn i noe du ik
 **Hvis det var mange dører:**
 Mange muligheter eller valg, som er overveldende eller spennende avhengig av stemningen i drømmen.
 
-**Hvis det var en [kjeller](/drommer/kjeller)- eller [loft](/drommer/loft)dør:**
+**Hvis det var en [kjeller](/drommer/kjeller/)- eller [loft](/drommer/loft/)dør:**
 Se de egne symbolsidene — disse spesifikke dørene bærer på særlig sterk symbolikk knyttet til det ubevisste og det glemte.
 
 ## Psykologisk perspektiv

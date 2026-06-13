@@ -19,7 +19,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om innbruddstyv?
 
-Å drømme om at noen bryter seg inn — at du hører lyder i [huset](/drommer/hus), at en [fremmed](/drommer/fremmed) er inne, at noe hellig og privat er krenket — er en av de mer intense angstdrømmene vi kan ha. Pulsen stiger, du lytter, du vet at noe er galt. Disse drømmene setter seg fast.
+Å drømme om at noen bryter seg inn — at du hører lyder i [huset](/drommer/hus/), at en [fremmed](/drommer/fremmed/) er inne, at noe hellig og privat er krenket — er en av de mer intense angstdrømmene vi kan ha. Pulsen stiger, du lytter, du vet at noe er galt. Disse drømmene setter seg fast.
 
 De er svært vanlige, og de handler sjelden om faktisk innbrudd. De handler om grenser — og hva som skjer når de brytes.
 
@@ -45,12 +45,12 @@ Innbruddstyven som representerer Skyggen er sjelden farlig i virkeligheten — d
 
 ### Frykt for det ukontrollerbare
 
-Innbruddsdrømmer er vanlige hos dem som generelt har et sterkt kontrollbehov — der det ukontrollerbare og uforutsette er særlig truende. Drømmen er et bilde på akkurat dette: noe du ikke kan forhindre, noe som skjer uavhengig av dine [låser](/drommer/nokler) og barrierer.
+Innbruddsdrømmer er vanlige hos dem som generelt har et sterkt kontrollbehov — der det ukontrollerbare og uforutsette er særlig truende. Drømmen er et bilde på akkurat dette: noe du ikke kan forhindre, noe som skjer uavhengig av dine [låser](/drommer/nokler/) og barrierer.
 
 ## Hva påvirker tolkningen?
 
 **Hvis du konfronterte tyven:**
-Mot og beredskap — du er klar til å møte det som truer deg, ikke bare [flykte fra det](/drommer/forfulgt).
+Mot og beredskap — du er klar til å møte det som truer deg, ikke bare [flykte fra det](/drommer/forfulgt/).
 
 **Hvis du gjemte deg:**
 Unngåelse og frykt — noe i livet ditt vil du helst ikke forholde deg til.

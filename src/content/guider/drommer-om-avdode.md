@@ -26,7 +26,7 @@ Den første typen er de enkle kontinueringsdrømmene — der den avdøde er der 
 
 Den andre typen er besøksdrømmene — der noe ved møtet kjennes annerledes og betydningsfullt. Den avdøde sier noe, gir noe, eller bare er der på en måte som etterlater en følelse av ro og formål. Mange beskriver disse som de mest reelle drømmene de noensinne har hatt. De skjer gjerne når sorgen er mer bearbeidet.
 
-Den tredje typen er de angstfylte drømmene — der den avdøde er i fare, eller der du vet at de er borte men ikke kan finne dem, eller der møtet er forvirret og fragmentert. Disse speiler gjerne en ubearbeidet sorg eller uoppgjorte aspekter ved relasjonen. Noen opplever også en variant der de tror de har våknet og ser den avdøde i rommet — en opplevelse som kan ligne på [falsk oppvåkning](/guider/falsk-oppvakning), der grensen mellom drøm og virkelighet er uklar.
+Den tredje typen er de angstfylte drømmene — der den avdøde er i fare, eller der du vet at de er borte men ikke kan finne dem, eller der møtet er forvirret og fragmentert. Disse speiler gjerne en ubearbeidet sorg eller uoppgjorte aspekter ved relasjonen. Noen opplever også en variant der de tror de har våknet og ser den avdøde i rommet — en opplevelse som kan ligne på [falsk oppvåkning](/guider/falsk-oppvakning/), der grensen mellom drøm og virkelighet er uklar.
 
 ## Hva sier psykologien?
 
@@ -54,7 +54,7 @@ Traumatisk tap — der omstendighetene rundt dødsfallet var voldelige, brå ell
 
 I disse tilfellene kan drømmene ses som psykens forsøk på å prosessere det som er ufullstendig. Drømme-møtene med den avdøde gir en arena der det uferdige kan utforskes — selv om det er smertefullt.
 
-Å føre en [drømmejournalen](/guider/drommejournalen) kan hjelpe å identifisere mønstre over tid. Og for mange er det nyttig å snakke med en terapeut som har erfaring med sorgarbeid.
+Å føre en [drømmejournalen](/guider/drommejournalen/) kan hjelpe å identifisere mønstre over tid. Og for mange er det nyttig å snakke med en terapeut som har erfaring med sorgarbeid.
 
 ## Om barns drømmer om avdøde
 
@@ -77,12 +77,12 @@ Drømmer om avdøde er normale, vanlige og psykologisk verdifulle. De er et tegn
 - Besøksdrømmene — der møtet kjennes reelt og meningsfullt — er de mest helende og de mest universalt rapporterte
 - Angstfylte drømmer speiler gjerne et uoppgjort aspekt ved relasjonen eller sorgen
 - Fra et psykologisk perspektiv er disse drømmene en naturlig del av sorgprosessen
-- En [drømmejournalen](/guider/drommejournalen) lar deg fange og reflektere over disse drømmene over tid
+- En [drømmejournalen](/guider/drommejournalen/) lar deg fange og reflektere over disse drømmene over tid
 - Å snakke om dem med noen du stoler på kan gi mye
 
 Du savner dem. Det er naturlig at de besøker deg i drømmene. Det er en av sjelens mest menneskelige responser på tap.
 
-Relatert: [avdod-person](/drommer/avdod-person) — [drommejournalen](/guider/drommejournalen) — [profetiske-drommer](/guider/profetiske-drommer)
+Relatert: [avdod-person](/drommer/avdod-person/) — [drommejournalen](/guider/drommejournalen/) — [profetiske-drommer](/guider/profetiske-drommer/)
 
-> 💡 **Les også fra søvnseksjonen:** [Sorg og søvn](/sovn/sorg-sovn)
+> 💡 **Les også fra søvnseksjonen:** [Sorg og søvn](/sovn/sorg-sovn/)
 

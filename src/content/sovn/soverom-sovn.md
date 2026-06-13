@@ -93,7 +93,7 @@ For dem som svetter mye om natten (noget mange med søvnapné og menopause-relat
 
 Soveromsmiljøet påvirker ikke bare om du sover — det påvirker hva du drømmer og hvordan du husker drømmene.
 
-Et mørkt, kjølig og stille soverom gir dypere og mer sammenhengende REM-søvn. Det betyr mer livaktige, narrative drømmer du faktisk husker ved oppvåkning — noe som er grunnlaget for å jobbe med [drømmejournalen](/guider/drommejournalen).
+Et mørkt, kjølig og stille soverom gir dypere og mer sammenhengende REM-søvn. Det betyr mer livaktige, narrative drømmer du faktisk husker ved oppvåkning — noe som er grunnlaget for å jobbe med [drømmejournalen](/guider/drommejournalen/).
 
 Forskning viser også at temperaturen i soverommet påvirker drømmens emosjonelle tone: for varme rom er assosiert med mer urolige og angstfylte drømmer. Det er en biologisk respons — kroppen tolker overvarming som en stressfaktor.
 
@@ -107,7 +107,7 @@ Soveromsmiljøet er en undervurdert søvnfaktor:
 - God luftkvalitet og riktig fuktighet (40–60%) reduserer snorking og urolig søvn
 - Et optimalt soveromsmiljø gir mer sammenhengende REM-søvn og bedre drømmehusking
 
-Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Vektet teppe — guide og anbefalinger](/sovn/vektet-teppe) — [Søvnproblemer og insomni](/sovn/sovnproblemer)
+Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Vektet teppe — guide og anbefalinger](/sovn/vektet-teppe/) — [Søvnproblemer og insomni](/sovn/sovnproblemer/)
 
 ## Kilder
 

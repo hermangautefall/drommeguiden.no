@@ -52,7 +52,7 @@ Noe holder deg fast — noe du ikke klarer å løsrive deg fra.
 **Hvis du spiste krabben:**
 Du tar til deg noe du har holdt på avstand — en forsoning med noe vanskelig.
 
-**Hvis krabben var i [havet](/drommer/hav):**
+**Hvis krabben var i [havet](/drommer/hav/):**
 En naturlig del av det ubevisste — noe som hører hjemme i dypet.
 
 **Hvis krabben var på land:**

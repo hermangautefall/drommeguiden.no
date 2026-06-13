@@ -76,5 +76,5 @@ I norrøn kultur var utestenging fra fellesskapet — å bli gjort til fredløs,
 - Hva skjer i **livet ditt** akkurat nå — er det nok ekte og nær kontakt med andre?
 - Har du drømt om **ensomhet eller å ikke bli sett** **flere ganger**?
 
-> 💡 **Les også:** [Depresjon og søvn](/sovn/depresjon-sovn) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Depresjon og søvn](/sovn/depresjon-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

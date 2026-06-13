@@ -49,13 +49,13 @@ En sterk opplevelse av å bli tiet, oversett eller holdt tilbake.
 Hva du sa i drømmen er et budskap — fra underbevistheten til deg selv.
 
 **Hvis tennene falt ut (vanlig variant):**
-Se symbolsiden for [tann](/drommer/tann) — dette er en av de vanligste kroppsdrømmene.
+Se symbolsiden for [tann](/drommer/tann/) — dette er en av de vanligste kroppsdrømmene.
 
 ## Psykologiske og kulturelle perspektiver
 
-Å drømme om [ører](/drommer/ore) handler om den andre siden av kommunikasjon — det å lytte og ta inn. Munnen er i mange tradisjoner knyttet til skaperkraft — "I begynnelsen var Ordet" — og til livsgivende pust. Å drømme om en blokkert munn er å drømme om blokkert skaperkraft og hemmet uttrykk.
+Å drømme om [ører](/drommer/ore/) handler om den andre siden av kommunikasjon — det å lytte og ta inn. Munnen er i mange tradisjoner knyttet til skaperkraft — "I begynnelsen var Ordet" — og til livsgivende pust. Å drømme om en blokkert munn er å drømme om blokkert skaperkraft og hemmet uttrykk.
 
-Jung var opptatt av at det ubevisste kommuniserer via drømmene nettopp fordi bevisstheten er for stiv, for kontrollert, for redd for å si det som egentlig er sant. Drømmens munn er der det ubevisste prøver å slippe gjennom. Les mer om [hva drømmer er](/guider/hva-er-drommer) og hvorfor underbevisstheten kommuniserer slik.
+Jung var opptatt av at det ubevisste kommuniserer via drømmene nettopp fordi bevisstheten er for stiv, for kontrollert, for redd for å si det som egentlig er sant. Drømmens munn er der det ubevisste prøver å slippe gjennom. Les mer om [hva drømmer er](/guider/hva-er-drommer/) og hvorfor underbevisstheten kommuniserer slik.
 
 ## Drømmeguiden anbefaler
 

@@ -26,7 +26,7 @@ Gullfisken er i eventyr og folkloretradisjon knyttet til ønskeoppfyllelse — d
 
 Den vanligste tolkningen handler om et genuint ønske eller en lengsel du bærer på. Gullfisken er drømmens bilde på dette ønsket — det som glitrer og tiltrekker, det du gjerne vil ha men kanskje ikke har tillatt deg selv å be om eller jobbe mot.
 
-Drømmens gullfisk spør: hva er det du egentlig ønsker deg? Se også [havet](/drommer/hav) som symbol på det dypere følelseslivet.
+Drømmens gullfisk spør: hva er det du egentlig ønsker deg? Se også [havet](/drommer/hav/) som symbol på det dypere følelseslivet.
 
 ### Lykke og velstand
 
@@ -34,7 +34,7 @@ Gullfisken er i mange kulturer — særlig kinesisk — et symbol på lykke, vel
 
 ### Begrenset frihet og plass
 
-En gullfisk i et lite glass er vakker — men begrenset. Drømmens gullfisk kan speile noe i livet ditt som er vakkert men innestengt: en kreativitet som ikke har nok rom, et potensial som ikke slipper til, et liv som er for trangt. Se også [blomst](/drommer/blomst) for lignende drømmer om skjønnhet og vekst.
+En gullfisk i et lite glass er vakker — men begrenset. Drømmens gullfisk kan speile noe i livet ditt som er vakkert men innestengt: en kreativitet som ikke har nok rom, et potensial som ikke slipper til, et liv som er for trangt. Se også [blomst](/drommer/blomst/) for lignende drømmer om skjønnhet og vekst.
 
 ## Hva påvirker tolkningen?
 
@@ -57,7 +57,7 @@ Du gir noen andre en mulighet eller et ønske — generøsitet.
 
 Gullfiskens tre ønsker er ett av folkloretradisjonens klokeste historier — ønskene brukes dumt, grådigheten tar over, og man ender opp der man startet. Drømmens gullfisk bærer på denne visdommen: hva ønsker du virkelig, og ville det gjøre deg lykkelig?
 
-I kinesisk tradisjon er gullfisken (jin yú) et av de sterkeste lykke- og velstandssymbolene — den gylne fargen er gullfargen, rikdommens farge. Å drømme om gullfisk er å drømme om velstandens mulighet. Se også [penger](/drommer/penger) for drømmer om rikdom.
+I kinesisk tradisjon er gullfisken (jin yú) et av de sterkeste lykke- og velstandssymbolene — den gylne fargen er gullfargen, rikdommens farge. Å drømme om gullfisk er å drømme om velstandens mulighet. Se også [penger](/drommer/penger/) for drømmer om rikdom.
 
 ## Drømmeguiden anbefaler
 

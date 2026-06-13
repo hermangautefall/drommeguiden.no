@@ -50,12 +50,12 @@ Jung kalte dette møtet med Skyggen: de sidene av oss vi ikke vedkjenner oss, so
 
 ### Kontroll og makt i en situasjon der du mangler det
 
-Drømmer om å drepe — beslektet med drømmer om å [bli forfulgt](/drommer/forfulgt) — kan også komme i perioder der du føler deg maktesløs — der noe eller noen har kontroll over livet ditt på måter du ikke liker. Drømmen gir deg en arena der du gjenvinner kontroll, selv om midlene er drastiske. Det er ikke et ønske om faktisk vold — det er et uttrykk for frustrasjon over maktesløshet.
+Drømmer om å drepe — beslektet med drømmer om å [bli forfulgt](/drommer/forfulgt/) — kan også komme i perioder der du føler deg maktesløs — der noe eller noen har kontroll over livet ditt på måter du ikke liker. Drømmen gir deg en arena der du gjenvinner kontroll, selv om midlene er drastiske. Det er ikke et ønske om faktisk vold — det er et uttrykk for frustrasjon over maktesløshet.
 
 ## Hva påvirker tolkningen?
 
 **Hvem du drepte:**
-Dette er det viktigste ledetegnet. Kjente du personen? Hva representerer de i livet ditt? En [sjef](/drommer/sjef) kan symbolisere autoritet, en ekspartner kan symbolisere et avsluttet kapittel, et [fremmed ansikt](/drommer/fremmed) kan representere en ukjent side av deg selv.
+Dette er det viktigste ledetegnet. Kjente du personen? Hva representerer de i livet ditt? En [sjef](/drommer/sjef/) kan symbolisere autoritet, en ekspartner kan symbolisere et avsluttet kapittel, et [fremmed ansikt](/drommer/fremmed/) kan representere en ukjent side av deg selv.
 
 **Hvordan du følte det underveis:**
 Angst og motvilje peker mot en indre konflikt. Lettelse eller ro peker mot et ønske om avslutning. Likegyldighet kan speile at noe allerede er over følelsesmessig, selv om det ikke er formelt avsluttet.
@@ -73,7 +73,7 @@ Kan speile en emosjonell distanse til noe eller noen i livet ditt, eller en numm
 
 Drømmeforskere er enige om at aggresjon i drømmer — inkludert drømmer om å drepe — er normalt og svært vanlig. En studie av drømmeinnhold viste at aggressive handlinger forekommer i rundt 50% av alle drømmer som huskes, og at drømmeren selv er utøveren i mange av dem. Det er altså ikke et tegn på psykopatologi — det er en del av det normale drømmespekteret.
 
-Jung var opptatt av at de mest skremmende drømmene gjerne er de viktigste. Å møte aggresjon og mørke i drømmens trygge rom er en måte å kjenne på og integrere disse kreftene på. For mer om dette, se vår guide om [hva drømmer er](/guider/hva-er-drommer) — fremfor å presse dem ned og la dem bygge seg opp ukontrollert.
+Jung var opptatt av at de mest skremmende drømmene gjerne er de viktigste. Å møte aggresjon og mørke i drømmens trygge rom er en måte å kjenne på og integrere disse kreftene på. For mer om dette, se vår guide om [hva drømmer er](/guider/hva-er-drommer/) — fremfor å presse dem ned og la dem bygge seg opp ukontrollert.
 
 Det er verdt å merke seg at kulturell og religiøs kontekst påvirker sterkt hvor skambelagt denne drømmtypen føles. I kulturer som skiller klarere mellom tanke og handling, vil den samme drømmen bære langt mindre byrde.
 

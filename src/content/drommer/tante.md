@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om tanten din?
 
-Tanten er den nære som likevel ikke er forelder — hun har omsorg uten samme krav, hun er del av familien uten å bære den daglige autoriteten. I drømmesymbolikken er hun gjerne en mykere og mer alternativ omsorgsfigur enn [moren](/drommer/mor). Hun kan se deg uten å eie deg, og det er ofte i nettopp dette rommet at en bestemt type fortrolighet vokser frem.
+Tanten er den nære som likevel ikke er forelder — hun har omsorg uten samme krav, hun er del av familien uten å bære den daglige autoriteten. I drømmesymbolikken er hun gjerne en mykere og mer alternativ omsorgsfigur enn [moren](/drommer/mor/). Hun kan se deg uten å eie deg, og det er ofte i nettopp dette rommet at en bestemt type fortrolighet vokser frem.
 
 Drømmer om tanten din dukker gjerne opp i perioder der du leter etter en form for kvinnelig støtte eller modellering du ikke finner i kjernefamilien, eller når et bestemt minne fra henne er på vei tilbake i bevisstheten.
 
@@ -34,7 +34,7 @@ Tanten lever sitt eget liv — gjerne annerledes enn morens. Hun kan være ugift
 
 ### Familiens hukommelse og fortelling
 
-I mange familier er tanten den som husker — som [bestemoren](/drommer/bestemor) — den som binder generasjonene sammen, den som kjenner historiene. Drømmens tante kan handle om tilgang til familiens fortelling, særlig de delene som ikke blir fortalt rundt middagsbordet. Hvis hun forteller noe konkret i drømmen, er det som regel selve budskapet.
+I mange familier er tanten den som husker — som [bestemoren](/drommer/bestemor/) — den som binder generasjonene sammen, den som kjenner historiene. Drømmens tante kan handle om tilgang til familiens fortelling, særlig de delene som ikke blir fortalt rundt middagsbordet. Hvis hun forteller noe konkret i drømmen, er det som regel selve budskapet.
 
 ### En indre kvinnelig støttefigur
 

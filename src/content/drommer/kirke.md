@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om kirke?
 
-Kirken er et av de mest symbolmettede stedene i norsk kultur — et bygg som bærer på dåp og begravelse, [bryllup](/drommer/bryllup) og konfirmasjon, søndagsmesse og stillhet. Selv for dem som ikke er troende eller religiøst aktive, har kirken en kulturell og emosjonell resonans som er vanskelig å unngå. Å drømme om kirke treffer noe dypt — noe som handler om livets store vendepunkter og om spørsmål som ikke lar seg besvare enkelt.
+Kirken er et av de mest symbolmettede stedene i norsk kultur — et bygg som bærer på dåp og begravelse, [bryllup](/drommer/bryllup/) og konfirmasjon, søndagsmesse og stillhet. Selv for dem som ikke er troende eller religiøst aktive, har kirken en kulturell og emosjonell resonans som er vanskelig å unngå. Å drømme om kirke treffer noe dypt — noe som handler om livets store vendepunkter og om spørsmål som ikke lar seg besvare enkelt.
 
 Disse drømmene er nesten aldri bare om bygningen. De handler om hva kirken bærer på.
 
@@ -34,7 +34,7 @@ Kirken i drømmen er en invitasjon til å lytte innover — til de spørsmålene
 
 I norsk kultur er kirken stedet for de store livshendelsene — dåp, konfirmasjon, bryllup, begravelse. Å drømme om kirke kan speile at du befinner deg i, eller nærmer deg, en slik overgang. Noe er i ferd med å avsluttes, eller noe nytt er i ferd med å begynne — og det er viktig nok til at psyken velger et av livets mest rituelt ladede rom for å bearbeide det.
 
-Hvilken type kirkehendelse drømmen minner om gir ledetråder: et bryllup peker mot forening og forpliktelse, en begravelse peker mot avslutning og sorg — kanskje knyttet til en [avdod person](/drommer/avdod-person) — en stille kirke peker mot refleksjon og indre ro.
+Hvilken type kirkehendelse drømmen minner om gir ledetråder: et bryllup peker mot forening og forpliktelse, en begravelse peker mot avslutning og sorg — kanskje knyttet til en [avdod person](/drommer/avdod-person/) — en stille kirke peker mot refleksjon og indre ro.
 
 ### Din relasjon til tro og tilhørighet
 
@@ -68,7 +68,7 @@ Din indre spiritualitet eller ditt behov for stillhet og mening er ikke forstumm
 
 ## Psykologiske og kulturelle perspektiver
 
-Jung var dypt opptatt av det religiøse som psykologisk fenomen — ikke som doktrine, men som menneskets evne til å oppleve det numinøse: noe som er større, mer ladet og mer meningsfylt enn det daglige. Drømmer om [engler](/drommer/engler) og [himmelen](/drommer/himmel) bærer på en lignende symbolikk. Kirken i drømmene er for Jung et symbol på Selvet — den helhetlige psykens kjerne som rommer mer enn Ego-et alene kan fatte.
+Jung var dypt opptatt av det religiøse som psykologisk fenomen — ikke som doktrine, men som menneskets evne til å oppleve det numinøse: noe som er større, mer ladet og mer meningsfylt enn det daglige. Drømmer om [engler](/drommer/engler/) og [himmelen](/drommer/himmel/) bærer på en lignende symbolikk. Kirken i drømmene er for Jung et symbol på Selvet — den helhetlige psykens kjerne som rommer mer enn Ego-et alene kan fatte.
 
 I norsk kulturhistorie er kirken uveisomt vevd inn i identiteten — stavkirkene som kulturarv, den hvite trebygningen som midtpunkt i enhver bygd, klokkene som markerer dagen. Selv for den sekulære nordmannen sitter disse bildene dypt. Å drømme om kirke er å drømme om noe av det mest grunnleggende i den norske kulturelle psyken.
 

@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om utlandet?
 
-Å drømme om å være i et [fremmed](/drommer/fremmed) land — med annet språk, andre omgivelser, en annen atmosfære — er en av de mer ekspansive og often positive drømmene vi kan ha. De bærer på en kvalitet av frihet, av å ikke være bundet av det kjente, av muligheten for å være annerledes enn man pleier.
+Å drømme om å være i et [fremmed](/drommer/fremmed/) land — med annet språk, andre omgivelser, en annen atmosfære — er en av de mer ekspansive og often positive drømmene vi kan ha. De bærer på en kvalitet av frihet, av å ikke være bundet av det kjente, av muligheten for å være annerledes enn man pleier.
 
 Men drømmens utland er sjelden bare et geografisk sted — det er et psykologisk rom.
 
@@ -26,11 +26,11 @@ Men drømmens utland er sjelden bare et geografisk sted — det er et psykologis
 
 ### Nye perspektiver og utbrudd fra det vante
 
-Den vanligste tolkningen handler om et ønske om — eller en bevegelse mot — noe annerledes. Nye omgivelser, nye impulser, nye muligheter — kanskje en [strand](/drommer/strand) i et varmt land eller en ukjent by. Du kan ha drømt om utlandet i en periode der livet kjennes litt trangt, litt repetitivt, litt for kjent. Underbevistheten skaper en arena der alt er nytt og mulig.
+Den vanligste tolkningen handler om et ønske om — eller en bevegelse mot — noe annerledes. Nye omgivelser, nye impulser, nye muligheter — kanskje en [strand](/drommer/strand/) i et varmt land eller en ukjent by. Du kan ha drømt om utlandet i en periode der livet kjennes litt trangt, litt repetitivt, litt for kjent. Underbevistheten skaper en arena der alt er nytt og mulig.
 
 ### Frihet og selvstendighet
 
-Utlandet er for mange forbundet med frihet — å reise, kanskje med [tog](/drommer/tog) eller [fly](/drommer/fly-styrter), er å slippe taket i det daglige, i rollene, i forventningene. Å drømme om å være i utlandet kan speile et dypt ønske om mer frihet i livet — ikke nødvendigvis bokstavelig geografisk frihet, men en frihet fra det som holder deg fast.
+Utlandet er for mange forbundet med frihet — å reise, kanskje med [tog](/drommer/tog/) eller [fly](/drommer/fly-styrter/), er å slippe taket i det daglige, i rollene, i forventningene. Å drømme om å være i utlandet kan speile et dypt ønske om mer frihet i livet — ikke nødvendigvis bokstavelig geografisk frihet, men en frihet fra det som holder deg fast.
 
 ### Ukjente sider av deg selv
 

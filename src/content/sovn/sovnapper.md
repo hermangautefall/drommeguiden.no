@@ -75,7 +75,7 @@ Whoop er primært rettet mot atleters restitusjonsmåling, men har gode søvndat
 
 ## Søvnapper og drømmejournalen
 
-Her er en kobling som er undervurdert: søvnapper og [drømmejournalen](/guider/drommejournalen) er komplementære verktøy, ikke konkurrenter.
+Her er en kobling som er undervurdert: søvnapper og [drømmejournalen](/guider/drommejournalen/) er komplementære verktøy, ikke konkurrenter.
 
 Søvnappen gir deg kvantitative data — timer, estimerte faser, HRV-trender. Drømmejournalen gir deg kvalitativt materiale — hva du faktisk opplevde, hvilke emosjonelle temaer som var aktive, hvilke symboler som dukket opp.
 
@@ -104,7 +104,7 @@ Søvnapper og wearables er nyttige verktøy, brukt riktig:
 - Bruk dataene til å se trender over tid — ikke til å evaluere enkeltinnsovninger
 - Kombiner med drømmejournalen for et komplett bilde
 
-Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Drømmejournalen](/guider/drommejournalen) — [Søvnbehovet ditt](/sovn/sovnbehov)
+Les videre: [Søvnfaser forklart](/sovn/sovnfaser/) — [Drømmejournalen](/guider/drommejournalen/) — [Søvnbehovet ditt](/sovn/sovnbehov/)
 
 ## Kilder
 

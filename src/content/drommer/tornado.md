@@ -33,7 +33,7 @@ Tornados er selektive — de raserer noe fullstendig og lar noe annet stå urør
 
 ### Emosjonell virvling
 
-Tornados roterer — og i drømmene kan denne rotasjonen speile en spiral av tanker og følelser som ikke finner ro. Angst, grubletanker, en indre tilstand av stadig rotasjon uten fremgang. Drømmer om [storm](/drommer/storm) handler om lignende kaos, men i bredere form.
+Tornados roterer — og i drømmene kan denne rotasjonen speile en spiral av tanker og følelser som ikke finner ro. Angst, grubletanker, en indre tilstand av stadig rotasjon uten fremgang. Drømmer om [storm](/drommer/storm/) handler om lignende kaos, men i bredere form.
 
 ## Hva påvirker tolkningen?
 
@@ -47,7 +47,7 @@ Du er midt i kaoset — totalt overveldet.
 En stor trussel som unnslapp deg. Lettelse og bevissthet om hva som kunne ha skjedd.
 
 **Hvis tornandoen raserte hjemmet ditt:**
-Se symbolsiden for [hus](/drommer/hus) — selvet og det trygge er truet.
+Se symbolsiden for [hus](/drommer/hus/) — selvet og det trygge er truet.
 
 **Hvis du stod rolig i tornandoens øye:**
 Midtpunktet i kaoset — en overraskende ro midt i stormen.
@@ -56,7 +56,7 @@ Midtpunktet i kaoset — en overraskende ro midt i stormen.
 
 Tornados er kulturelt sett et særlig amerikansk fenomen — men i drømmenes symbolspråk er de universale bilder på destruktiv rotasjon. For nordmenn, som sjelden opplever tornadoer, er de i drømmene rent symbolske — uten den realistiske frykten som kan prege drømmene til dem som faktisk lever i tornadobeltet.
 
-Jung ville sett tornandoen som en manifestasjon av det ubevisste i sin mest destruktive og ukontrollerbare form — en kraft som ikke kan stoppes, bare unngås eller overleves. Se også [flom](/drommer/flom) og [jordskjelv](/drommer/jordskjelv) for andre naturkatastrofe-drømmer.
+Jung ville sett tornandoen som en manifestasjon av det ubevisste i sin mest destruktive og ukontrollerbare form — en kraft som ikke kan stoppes, bare unngås eller overleves. Se også [flom](/drommer/flom/) og [jordskjelv](/drommer/jordskjelv/) for andre naturkatastrofe-drømmer.
 
 ## Drømmeguiden anbefaler
 

@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om hval?
 
-Hvalen er jordens største dyr — og den lever i [havets](/drommer/hav) dypeste verden. I drømmeverdenen er den ett av de mest slående symbolene: noe enormt, gammelt og intelligent beveger seg i de dypeste lagene av det ubevisste. Å drømme om hval er sjelden et lite øyeblikk. Det er en av de store drømmene.
+Hvalen er jordens største dyr — og den lever i [havets](/drommer/hav/) dypeste verden. I drømmeverdenen er den ett av de mest slående symbolene: noe enormt, gammelt og intelligent beveger seg i de dypeste lagene av det ubevisste. Å drømme om hval er sjelden et lite øyeblikk. Det er en av de store drømmene.
 
 ## De vanligste tolkningene
 
@@ -57,7 +57,7 @@ Noe enormt og verdifullt er i fare. En kraft som trenger hjelp eller oppmerksomh
 
 ## Psykologiske og kulturelle perspektiver
 
-For nordmenn er hvalen ikke et eksotisk fantasidyr — den er en del av den nasjonale bevissthet, av kystkultur og havhistorie. Hvalfangsten, hvalen som truet og fascinerte på én gang, hvalen som nærte og drepte. I drømmene kan hvalen også dukke opp i en [elv](/drommer/elv) — der den blir enda mer ladet med mening. Å drømme om hval i norsk kontekst berører noe av dette ambivalente forholdet til havets gigant.
+For nordmenn er hvalen ikke et eksotisk fantasidyr — den er en del av den nasjonale bevissthet, av kystkultur og havhistorie. Hvalfangsten, hvalen som truet og fascinerte på én gang, hvalen som nærte og drepte. I drømmene kan hvalen også dukke opp i en [elv](/drommer/elv/) — der den blir enda mer ladet med mening. Å drømme om hval i norsk kontekst berører noe av dette ambivalente forholdet til havets gigant.
 
 Bibelens Jonas er en av de sterkeste hval-symbolene i vestlig kultur: å bli svelget av hvalen er ikke slutten — det er begynnelsen på en transformasjon. Jonas kommer ut forandret. Drømmens hval bærer på dette: den er stor nok til å romme deg helt — og slippe deg ut igjen.
 

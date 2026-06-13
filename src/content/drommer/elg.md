@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om elg?
 
-Elgen er Norges største landdyr — stille og massiv, tilsynelatende klossete men ufattelig smidig i [skogen](/drommer/skog), med et gevir som er ett av naturens mest imponerende konstruksjoner. Den er på en gang ufarlig og potensielt farlig, nærmest usynlig i tett skog og umulig å overse når den trer frem.
+Elgen er Norges største landdyr — stille og massiv, tilsynelatende klossete men ufattelig smidig i [skogen](/drommer/skog/), med et gevir som er ett av naturens mest imponerende konstruksjoner. Den er på en gang ufarlig og potensielt farlig, nærmest usynlig i tett skog og umulig å overse når den trer frem.
 
 I drømmeverdenen er elgen ett av de mest genuint norske symbolene vi har.
 
@@ -30,7 +30,7 @@ Den vanligste tolkningen handler om en stille, solid kraft — noe som er stort 
 
 ### Skogens stille hersker
 
-Elgen er skogens overhode — den er der alle andre dyr, som [hjorten](/drommer/hjort), vet om, men som sjelden vises frem. Drømmens elg kan representere en skjult autoritet eller kraft i livet ditt: noe som er der, som har sin naturlige plass, men som ikke trenger å stå i sentrum for å ha innflytelse.
+Elgen er skogens overhode — den er der alle andre dyr, som [hjorten](/drommer/hjort/), vet om, men som sjelden vises frem. Drømmens elg kan representere en skjult autoritet eller kraft i livet ditt: noe som er der, som har sin naturlige plass, men som ikke trenger å stå i sentrum for å ha innflytelse.
 
 ### Noe uventet og storslått trer frem
 
@@ -57,7 +57,7 @@ Du observerer en stor kraft eller mulighet uten å nærme deg den.
 
 Elgen er i norsk kultur nesten et nasjonaldyr — den er på postkort, i reklamer, i vitser og i skogopplevelsene som preger norsk barndom. Elgen er tett nok til å møte på tur, og eksotisk nok til at møtet alltid sitter. Drømmens elg bærer på all denne kulturelle fortroligheten kombinert med dyrets iboende størrelse og verdighet.
 
-I sjamanistiske tradisjoner i Nord-Europa er elgen (og [reinsdyret](/drommer/reinsdyr)) et kraftdyr — en guide og beskytter. Norrøne sjamaners relasjoner til elgen er dokumentert i graverikter og helleristninger.
+I sjamanistiske tradisjoner i Nord-Europa er elgen (og [reinsdyret](/drommer/reinsdyr/)) et kraftdyr — en guide og beskytter. Norrøne sjamaners relasjoner til elgen er dokumentert i graverikter og helleristninger.
 
 ## Drømmeguiden anbefaler
 

@@ -26,7 +26,7 @@ Interessant nok er grisen ett av de mest intelligente og nysgjerrige husdyrene v
 
 ### Overflod og nytelse
 
-Den vanligste tolkningen handler om overflod — mat, nytelse, det å ta til seg mer enn nødvendig. Drømmens gris kan speile en periode med overdrivelse: for mye av noe godt, eller et ønske om mer nytelse og tilfredsstillelse i livet. Se også [mat](/drommer/mat) som drømmesymbol for næring og nytelse.
+Den vanligste tolkningen handler om overflod — mat, nytelse, det å ta til seg mer enn nødvendig. Drømmens gris kan speile en periode med overdrivelse: for mye av noe godt, eller et ønske om mer nytelse og tilfredsstillelse i livet. Se også [mat](/drommer/mat/) som drømmesymbol for næring og nytelse.
 
 ### Intelligens som er undervurdert
 
@@ -45,7 +45,7 @@ Overflod og vitalitet. Noe blomstrer i det naturlige og jordnære.
 Det gammeldagse bildet på urenhet — men sølen er også der vekst skjer. Noe tilsynelatende rotete er egentlig fruktbart.
 
 **Hvis det var smågris:**
-Noe nytt, sårbart og fullt av potensial. En ny begynnelse i sin spedeste form. Se også [baby](/drommer/baby) for drømmer om nye begynnelser.
+Noe nytt, sårbart og fullt av potensial. En ny begynnelse i sin spedeste form. Se også [baby](/drommer/baby/) for drømmer om nye begynnelser.
 
 **Hvis grisen var aggressiv:**
 En undertrykt appetitt eller et undertrykt behov som krever uttrykk.
@@ -57,7 +57,7 @@ Du tar til deg næring fra noe du kanskje har hatt et ambivalent forhold til.
 
 I norrøn tradisjon er grisen faktisk et edelt dyr — Freyr, fruktbarhetsguden, red på villsvinet Gullinbursti som løp raskere enn noe hest. Valhalls beboere spiste kjøttet av villsvinet Sæhrímnir om kvelden og fant det igjen friskt og helt neste morgen. Grisen er i norrøn forstand livets overflod og regenerasjonsevne personifisert.
 
-Jung ville sett grisdrømmen som en invitasjon til å utforske de sidene av livet man har lært å skamme seg over — det fysiske, det appetittfulle, det som ikke passer inn i kultiverte normer, men som er en naturlig del av det å være menneskelig. Se også [ku](/drommer/ku) og [sau](/drommer/sau) for andre husdyrsymboler.
+Jung ville sett grisdrømmen som en invitasjon til å utforske de sidene av livet man har lært å skamme seg over — det fysiske, det appetittfulle, det som ikke passer inn i kultiverte normer, men som er en naturlig del av det å være menneskelig. Se også [ku](/drommer/ku/) og [sau](/drommer/sau/) for andre husdyrsymboler.
 
 ## Drømmeguiden anbefaler
 

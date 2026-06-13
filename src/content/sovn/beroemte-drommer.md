@@ -84,7 +84,7 @@ For en hjerne som allerede er ladet med et uløst problem, er dette det perfekte
 
 Drømmene er kanskje ikke magiske. Men de er heller ikke tomme.
 
-Les mer om hva forskning sier om drømmenes funksjon i guiden [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi) og om profetiske drømmer i [Profetiske drømmer](/guider/profetiske-drommer).
+Les mer om hva forskning sier om drømmenes funksjon i guiden [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi/) og om profetiske drømmer i [Profetiske drømmer](/guider/profetiske-drommer/).
 
 ## Oppsummering
 
@@ -97,7 +97,7 @@ Historiens mest dokumenterte drømmescenarioer er fascinerende og lærerike:
 - Mendelejev så periodesystemet i søvnen og noterte det umiddelbart
 - Felles nevrologisk forklaring: REM-søvnen tillater uventede assosiasjoner som den rasjonelle hjernen ellers avviser
 
-Les videre: [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi) — [Profetiske drømmer](/guider/profetiske-drommer) — [Drømmene og hjernen](/sovn/drommer-og-hjernen)
+Les videre: [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi/) — [Profetiske drømmer](/guider/profetiske-drommer/) — [Drømmene og hjernen](/sovn/drommer-og-hjernen/)
 
 ## Kilder
 

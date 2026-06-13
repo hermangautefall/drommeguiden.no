@@ -10,7 +10,7 @@ bilde: /bilder/guider/lucid-dromming.jpg
 
 ## Lucid drømming — slik tar du kontroll
 
-Forestill deg at du er midt i en drøm — kanskje du vandrer gjennom en [skog](/drommer/skog) eller svever over et [fjell](/drommer/fjell) — og plutselig innser du at du drømmer. Du er fullt bevisst, men drømmen fortsetter. Og nå kan du velge hva som skal skje videre. Dette er lucid drømming, en tilstand der du er klar over at du drømmer mens drømmen pågår. Det er ikke bare science fiction eller mystikk: lucid drømming er et veldokumentert fenomen som forskningen har studert i flere tiår. Og det beste? De fleste kan lære det.
+Forestill deg at du er midt i en drøm — kanskje du vandrer gjennom en [skog](/drommer/skog/) eller svever over et [fjell](/drommer/fjell/) — og plutselig innser du at du drømmer. Du er fullt bevisst, men drømmen fortsetter. Og nå kan du velge hva som skal skje videre. Dette er lucid drømming, en tilstand der du er klar over at du drømmer mens drømmen pågår. Det er ikke bare science fiction eller mystikk: lucid drømming er et veldokumentert fenomen som forskningen har studert i flere tiår. Og det beste? De fleste kan lære det.
 
 ---
 
@@ -64,7 +64,7 @@ WILD krever tålmodighet og øvelse. Mange opplever søvnparalyse i overgangsfas
 
 Lucid drømming er ikke bare en underholdende opplevelse. Det finnes flere praktiske og terapeutiske bruksområder.
 
-**Overvinne mareritt.** For mennesker som plages av gjentakende [mareritt](/guider/mareritt), kan lucid drømming gi en mulighet til å endre drømmens forløp. I stedet for å flykte fra en truende [bjørn](/drommer/bjorn) eller en mørk [storm](/drommer/storm), kan du snu deg mot trusselen og konfrontere den. Forskning har vist at dette kan redusere hyppigheten og intensiteten av mareritt over tid.
+**Overvinne mareritt.** For mennesker som plages av gjentakende [mareritt](/guider/mareritt/), kan lucid drømming gi en mulighet til å endre drømmens forløp. I stedet for å flykte fra en truende [bjørn](/drommer/bjorn/) eller en mørk [storm](/drommer/storm/), kan du snu deg mot trusselen og konfrontere den. Forskning har vist at dette kan redusere hyppigheten og intensiteten av mareritt over tid.
 
 **Kreativ utforskning.** Drømmeverdenen har ingen fysiske begrensninger. Du kan fly over byer, utforske fantastiske landskap, eller møte hvem som helst. Kunstnere, musikere og forfattere har rapportert at lucid drømming gir dem kreativ inspirasjon.
 
@@ -100,12 +100,12 @@ Som med de fleste ferdigheter, krever lucid drømming tålmodighet og regelmessi
 
 ## Relaterte symboler og emner
 
-- [Drømmer om å fly](/drommer/flyging)
-- [Drømmer om skog](/drommer/skog)
-- [Drømmer om fjell](/drommer/fjell)
-- [Drømmejournalen — slik husker du drømmene dine](/guider/drommejournalen)
-- [Mareritt — hvorfor vi har dem og hva vi kan gjøre](/guider/mareritt)
-- [Hva er drømmer? Det vitenskapen faktisk sier](/guider/hva-er-drommer)
+- [Drømmer om å fly](/drommer/flyging/)
+- [Drømmer om skog](/drommer/skog/)
+- [Drømmer om fjell](/drommer/fjell/)
+- [Drømmejournalen — slik husker du drømmene dine](/guider/drommejournalen/)
+- [Mareritt — hvorfor vi har dem og hva vi kan gjøre](/guider/mareritt/)
+- [Hva er drømmer? Det vitenskapen faktisk sier](/guider/hva-er-drommer/)
 
-> 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser) · [Polyfasisk søvn](/sovn/polyfasisk-sovn)
+> 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser/) · [Polyfasisk søvn](/sovn/polyfasisk-sovn/)
 

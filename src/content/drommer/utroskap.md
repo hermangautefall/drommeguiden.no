@@ -32,7 +32,7 @@ Men disse drømmene er svært sjelden varsler om noe som faktisk foregår. De ha
 
 Den vanligste tolkningen av utroskapdrømmer handler om sårbarhet i forholdet — ikke nødvendigvis konkret mistanke, men en underliggende usikkerhet du kanskje ikke har satt ord på. Noe som har endret seg, en distanse som har oppstått, en periode der dere ikke har hatt ordentlig tid til hverandre.
 
-Drømmen er ikke et varsel om hva som skjer — den er et bilde på hvordan du føler deg akkurat nå i relasjonen. Drømmer om [kjæresten](/drommer/kjaereste) handler ofte om det samme behovet for nærhet og trygghet.
+Drømmen er ikke et varsel om hva som skjer — den er et bilde på hvordan du føler deg akkurat nå i relasjonen. Drømmer om [kjæresten](/drommer/kjaereste/) handler ofte om det samme behovet for nærhet og trygghet.
 
 ### Frykt for å ikke strekke til eller bli forlatt
 
@@ -54,7 +54,7 @@ Av og til kan drømmens utroskap speile egne følelser du ikke har vedkjent deg 
 Speiler oftest din egen usikkerhet og forlatenhetsfrykt — ikke en faktisk mistanke. Drømmens skyldig partner er ofte et bilde på deg selv og din sårbarhet.
 
 **Hvis det var du som var utro:**
-Kan handle om undertrykte tiltrekninger, en følelse av at noe mangler i forholdet, eller et ønske om noe du ikke tillater deg selv. Se også drømmer om [eksen](/drommer/eksen) for mer om gamle relasjoners plass i drømmene.
+Kan handle om undertrykte tiltrekninger, en følelse av at noe mangler i forholdet, eller et ønske om noe du ikke tillater deg selv. Se også drømmer om [eksen](/drommer/eksen/) for mer om gamle relasjoners plass i drømmene.
 
 **Hvis du oppdaget det:**
 Den intense følelsen av avsløring og svik — brudd på tillit — er kjernen. Hva i livet ditt gjør at du føler deg sveket eller ikke stoler fullt ut?
@@ -63,11 +63,11 @@ Den intense følelsen av avsløring og svik — brudd på tillit — er kjernen.
 Et ønske om forsoning og å komme videre — enten i relasjonen eller med deg selv.
 
 **Hvis drømmen gjentar seg:**
-En vedvarende usikkerhet som trenger oppmerksomhet — kanskje en samtale med partneren ville hjulpet mer enn analysen av drømmen. Les mer om [gjentakende drømmer](/guider/gjentakende-drommer) og hva de prøver å fortelle deg.
+En vedvarende usikkerhet som trenger oppmerksomhet — kanskje en samtale med partneren ville hjulpet mer enn analysen av drømmen. Les mer om [gjentakende drømmer](/guider/gjentakende-drommer/) og hva de prøver å fortelle deg.
 
 ## Psykologiske og kulturelle perspektiver
 
-Forskning på utroskapdrømmer viser at de er svært vanlige og ikke korrelerer med faktisk utroskap i forholdet. De er hyppigst i perioder med stress, distanse, store livsendringer eller lav selvfølelse. Drømmer om [sex](/drommer/sex) kan gi et utfyllende perspektiv på intimitet i drømmene. De er like vanlige blant dem i svært gode forhold som blant dem i mer urolige forhold.
+Forskning på utroskapdrømmer viser at de er svært vanlige og ikke korrelerer med faktisk utroskap i forholdet. De er hyppigst i perioder med stress, distanse, store livsendringer eller lav selvfølelse. Drømmer om [sex](/drommer/sex/) kan gi et utfyllende perspektiv på intimitet i drømmene. De er like vanlige blant dem i svært gode forhold som blant dem i mer urolige forhold.
 
 Jung ville sett utroskapdrømmens "tredjepart" som en projeksjon — en eksternalisering av noe indre. Det dreier seg sjelden om den faktiske personen; det dreier seg om hva de representerer som er fraværende eller truet.
 

@@ -77,7 +77,7 @@ Søvnmangel og forsinket søvnfase hos tenåringer har konsekvenser for drømmen
 
 Tenåringers drømmescenarioer er typisk mer sosialt og emosjonelt ladet enn barn og voksnes drømmer — identitet, tilhørighet, kjærlighet, skyld og prestasjonsangst er gjengående temaer. Det er konsistent med den emosjonelle utviklingsprosessen tenårene representerer.
 
-Se guiden om [barn og drømmer](/guider/barn-og-drommer) for mer om drømmenes rolle i ulike livsfaser.
+Se guiden om [barn og drømmer](/guider/barn-og-drommer/) for mer om drømmenes rolle i ulike livsfaser.
 
 ## Oppsummering
 
@@ -89,7 +89,7 @@ Tenåringers søvnproblemer er biologisk forankret — ikke atferdsmessig latska
 - Konsistent oppvåkningstid — uten for stor helgeforskjell — hjelper
 - Sen skoletidsstart er det best dokumenterte strukturelle tiltaket
 
-Les videre: [Søvnbehovet ditt](/sovn/sovnbehov) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Barn og drømmer](/guider/barn-og-drommer)
+Les videre: [Søvnbehovet ditt](/sovn/sovnbehov/) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Barn og drømmer](/guider/barn-og-drommer/)
 
 ## Kilder
 

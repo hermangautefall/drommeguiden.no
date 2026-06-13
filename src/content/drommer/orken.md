@@ -20,7 +20,7 @@ author: 'default'
 
 Ørkenen er et av de mest ladet og arketypiske landskapene i menneskelig kultur — vidde uten ende, brennende sol, ingenting å holde seg fast i. I drømmeverdenen er det et symbol på det tomme, det uttørkede, det som mangler — men også på en særegen renhet og klarhet som bare finnes der alt overflødig er fjernet.
 
-Ørkendrømmer er sjelden nøytrale. De treffer noe dypt — og deler noe med drømmer om [snø](/drommer/sno), der stillheten og tomheten også står sentralt.
+Ørkendrømmer er sjelden nøytrale. De treffer noe dypt — og deler noe med drømmer om [snø](/drommer/sno/), der stillheten og tomheten også står sentralt.
 
 ## De vanligste tolkningene
 
@@ -46,16 +46,16 @@ I mange religiøse og spirituelle tradisjoner er ørkenen stedet man går gjenno
 En positiv variant — klarhet, ro og et møte med det essensielle. En meditativ drøm.
 
 **Hvis du var fortapt i ørkenen:**
-Retningsløshet og desperasjon — du vet ikke hvilken vei som fører frem. Se også drømmer om å [bli fortapt](/drommer/bli-fortapt).
+Retningsløshet og desperasjon — du vet ikke hvilken vei som fører frem. Se også drømmer om å [bli fortapt](/drommer/bli-fortapt/).
 
 **Hvis du fant vann eller en oase:**
-Redning og håp. Noe gir næring midt i tørken — finn det og hold fast. Vann i drømmene har alltid sterk symbolikk, les mer om [havet](/drommer/hav) som drømmesymbol.
+Redning og håp. Noe gir næring midt i tørken — finn det og hold fast. Vann i drømmene har alltid sterk symbolikk, les mer om [havet](/drommer/hav/) som drømmesymbol.
 
 **Hvis ørkenen var uendelig:**
 En følelse av at det aldri tar slutt — en vedvarende utmattelse eller tomhet.
 
 **Hvis du vandret alene:**
-Den ensomme reisen gjennom noe krevende — kanskje et nødvendig enerom med deg selv. Utforsk flere [natursymboler i drømmene](/kategori/natur).
+Den ensomme reisen gjennom noe krevende — kanskje et nødvendig enerom med deg selv. Utforsk flere [natursymboler i drømmene](/kategori/natur/).
 
 ## Psykologiske og kulturelle perspektiver
 

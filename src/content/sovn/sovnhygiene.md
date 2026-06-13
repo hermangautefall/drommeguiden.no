@@ -51,7 +51,7 @@ Mange sier "kaffe påvirker meg ikke". Forskning viser at koffein forstyrrer sø
 
 Alkohol gjør mange søvnige og kortforkorter innsovningstiden. Men det ødelegger søvnkvaliteten. Alkohol undertrykker REM-søvn og dyp søvn, gir mer overfladisk og fragmentert søvn i andre halvdel av natten, og forstyrrer søvnarkitekturen markant — selv moderate mengder.
 
-Resultatet er at du sover lenger men våkner mer utmattet. Se artikkelen om [alkohol og søvn](/sovn/alkohol-sovn) for detaljer.
+Resultatet er at du sover lenger men våkner mer utmattet. Se artikkelen om [alkohol og søvn](/sovn/alkohol-sovn/) for detaljer.
 
 ## 6. Kjølig soverom
 
@@ -69,13 +69,13 @@ Hjernen er god til å lage assosiasjoner. Hvis du bruker mange timer i sengen p�
 
 En fast nedtrappingsrutine på 20–45 minutter før leggetid fungerer som et signal til nervesystemet om at det er på tide å skifte gir. Det gjør ikke nødvendigvis at du sovner raskere — men det reduserer aktiveringsnivået, som gjør innsovning lettere.
 
-Hva rutinen inneholder er mindre viktig enn at den er konsistent. Noen varianter som fungerer for mange: dimmet belysning, rolig musikk, lette strekk, lesing (papirbok), noen minutter med mindfulness, eller skriving i dagbok. Se artikkelen om [leggetidsrutine](/sovn/leggetidsrutine) for konkrete forslag.
+Hva rutinen inneholder er mindre viktig enn at den er konsistent. Noen varianter som fungerer for mange: dimmet belysning, rolig musikk, lette strekk, lesing (papirbok), noen minutter med mindfulness, eller skriving i dagbok. Se artikkelen om [leggetidsrutine](/sovn/leggetidsrutine/) for konkrete forslag.
 
 ## 9. Drømmejournalen som leggetidsritual
 
 En av de minst kjente men mest effektive koblingene mellom søvnhygiene og drømmene: å skrive ned bekymringer og uferdige tanker før søvn reduserer "uferdig sak"-aktiviteten i hjernen under søvn — noe som gir bedre søvnkvalitet og mer sammenhengende drømsøvn.
 
-[Drømmejournalen](/guider/drommejournalen) er ikke bare for å tolke drømmer — det å skrive ned noe som er aktivt i sinnet ("braindump") er en av de mest dokumentert effektive metodene for å redusere innsovningstid.
+[Drømmejournalen](/guider/drommejournalen/) er ikke bare for å tolke drømmer — det å skrive ned noe som er aktivt i sinnet ("braindump") er en av de mest dokumentert effektive metodene for å redusere innsovningstid.
 
 ## 10. Trening — timing er alt
 
@@ -87,19 +87,19 @@ Trening om morgenen eller tidlig ettermiddag er optimalt. Lett gange om kvelden 
 
 Utover temperatur: soverommet bør ideelt sett være mørkt og stille. Lys under søvn — selv svakt lys fra en ladeindikator — kan forstyrre søvndybde. Støy fra trafikk, partner eller barn er en vanlig søvntyv.
 
-Løsninger: mørkleggingsgardiner, ørepropper, hvit støy-maskin (som maskerer uregelmessige lyder), søvnmaske. Se artikkelen om [soverommet](/sovn/soverom-sovn) for en fullstendig gjennomgang.
+Løsninger: mørkleggingsgardiner, ørepropper, hvit støy-maskin (som maskerer uregelmessige lyder), søvnmaske. Se artikkelen om [soverommet](/sovn/soverom-sovn/) for en fullstendig gjennomgang.
 
 ## 12. Håndter bekymringer på dagtid
 
 Av alle søvntyver er grubletankene om natten blant de verste. Det hjelper ikke å prøve å stoppe tankene i sengen — det forsterker dem. Det som hjelper er å adressere bekymringene på dagtid.
 
-Konkrete teknikker: sett av 20 minutter på ettermiddagen til å aktivt bekymre deg (ja, med vilje) og skrive ned bekymringene og mulige handlingsplaner. Når bekymringen dukker opp om natten, kan hjernen "referere" til at den allerede er håndtert. Se guiden om [stress og drømmer](/guider/stress-og-drommer) for en dypere gjennomgang av sammenhengen mellom stress, bekymring og søvnkvalitet.
+Konkrete teknikker: sett av 20 minutter på ettermiddagen til å aktivt bekymre deg (ja, med vilje) og skrive ned bekymringene og mulige handlingsplaner. Når bekymringen dukker opp om natten, kan hjernen "referere" til at den allerede er håndtert. Se guiden om [stress og drømmer](/guider/stress-og-drommer/) for en dypere gjennomgang av sammenhengen mellom stress, bekymring og søvnkvalitet.
 
 ## Søvnhygiene og drømmekvalitet
 
 Søvnhygiene påvirker ikke bare søvnkvantitet og -kvalitet — den påvirker også drømmenes karakter direkte.
 
-God søvnhygiene gir mer sammenhengende REM-søvn, noe som betyr mer livaktige og narrative drømmer. Det er selve grunnlaget for [drømmejournalens](/guider/drommejournalen) funksjon: du kan bare jobbe med drømmene du husker, og du husker bare drømmene fra uavbrutt REM-søvn.
+God søvnhygiene gir mer sammenhengende REM-søvn, noe som betyr mer livaktige og narrative drømmer. Det er selve grunnlaget for [drømmejournalens](/guider/drommejournalen/) funksjon: du kan bare jobbe med drømmene du husker, og du husker bare drømmene fra uavbrutt REM-søvn.
 
 Dårlig søvnhygiene gir fragmentert søvn med hyppige oppvåkninger, noe som betyr at de drømmene du husker er de korteste og gjerne de mest angstfylte — siden de kommer fra tidlige REM-episoder og fra oppvåkninger midt i søvnsyklusen.
 
@@ -120,7 +120,7 @@ De 12 viktigste søvnhygienetiltakene, rangert etter effekt:
 11. Mørkt og stille soverom
 12. Håndter bekymringer aktivt på dagtid
 
-Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Angst og søvn](/sovn/angst-sovn) — [Drømmejournalen](/guider/drommejournalen)
+Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer/) — [Angst og søvn](/sovn/angst-sovn/) — [Drømmejournalen](/guider/drommejournalen/)
 
 ## Kilder
 

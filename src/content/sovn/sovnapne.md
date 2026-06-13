@@ -97,7 +97,7 @@ Søvnapné er vanlig, alvorlig og svært behandlingsbar:
 - CPAP er gullstandarden og gir for mange umiddelbar bedring
 - Søk lege hvis du kjenner deg igjen i symptomene — fastlegen kan bestille søvnregistrering
 
-Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Søvnfaser forklart](/sovn/sovnfaser) — [Stress og drømmene](/guider/stress-og-drommer)
+Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer/) — [Søvnfaser forklart](/sovn/sovnfaser/) — [Stress og drømmene](/guider/stress-og-drommer/)
 
 ## Kilder
 

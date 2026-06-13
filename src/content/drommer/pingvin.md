@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om pingvin?
 
-Pingvinen er et av de mest særegne dyrene på jorden — en fugl som ikke kan fly, men som er en mester i [havet](/drommer/hav). Den trives i noen av jordens kaldeste omgivelser og overlever takket være fellesskap og nærhet. I drømmeverdenen bærer pingvinen med seg disse kvalitetene: tilpasningsevne, lojalitet og en viss galgenhumor overfor det absurde.
+Pingvinen er et av de mest særegne dyrene på jorden — en fugl som ikke kan fly, men som er en mester i [havet](/drommer/hav/). Den trives i noen av jordens kaldeste omgivelser og overlever takket være fellesskap og nærhet. I drømmeverdenen bærer pingvinen med seg disse kvalitetene: tilpasningsevne, lojalitet og en viss galgenhumor overfor det absurde.
 
 Å drømme om pingvin er sjelden en skremmende drøm — men den er gjerne meningsfull.
 
@@ -27,7 +27,7 @@ Pingvinen er et av de mest særegne dyrene på jorden — en fugl som ikke kan f
 
 ### Tilpasningsevne i kalde omgivelser
 
-Pingvinen lever der de fleste ikke overlever. I drømmer kan den symbolisere din evne til å tilpasse deg vanskelige eller kalde omstendigheter — en jobb som ikke er varm og inviterende, en relasjon som har kjølnet, eller en livsfase som er tøff — lignende det å drømme om [storm](/drommer/storm). Drømmen kan si: du klarer dette bedre enn du tror.
+Pingvinen lever der de fleste ikke overlever. I drømmer kan den symbolisere din evne til å tilpasse deg vanskelige eller kalde omstendigheter — en jobb som ikke er varm og inviterende, en relasjon som har kjølnet, eller en livsfase som er tøff — lignende det å drømme om [storm](/drommer/storm/). Drømmen kan si: du klarer dette bedre enn du tror.
 
 ### Lojalitet og fellesskap
 
@@ -35,7 +35,7 @@ Pingviner lever i store kolonier og er kjent for sin parvise lojalitet. Å drøm
 
 ### Å føle seg annerledes
 
-En pingvin er en fugl som ikke kan [fly](/drommer/flyging) — noe som gjør den unik, men også annerledes. Drømmen kan speile en følelse av å være litt på siden av normen, å ikke passe helt inn, eller å ha evner som ikke verdsettes i det miljøet du befinner deg i.
+En pingvin er en fugl som ikke kan [fly](/drommer/flyging/) — noe som gjør den unik, men også annerledes. Drømmen kan speile en følelse av å være litt på siden av normen, å ikke passe helt inn, eller å ha evner som ikke verdsettes i det miljøet du befinner deg i.
 
 
 ## Hva påvirker tolkningen?
@@ -64,4 +64,4 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om pingvin **flere ganger**? Utforsk flere [dyresymboler i drømmer](/kategori/dyr).
+- Har du drømt om pingvin **flere ganger**? Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).

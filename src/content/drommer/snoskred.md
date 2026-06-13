@@ -19,7 +19,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om snøskred?
 
-Snøskredet er det norske [fjellets](/drommer/fjell) mest dramatiske og fryktinngydende naturkraft — stillhet som plutselig bryter ut i ødeleggende bevegelse, hvite masser av [snø](/drommer/sno) som velter ned fjellsiden med en kraft og hastighet som ikke gir tid til å reagere. Det er ikke en prosess. Det er et plutselig brudd.
+Snøskredet er det norske [fjellets](/drommer/fjell/) mest dramatiske og fryktinngydende naturkraft — stillhet som plutselig bryter ut i ødeleggende bevegelse, hvite masser av [snø](/drommer/sno/) som velter ned fjellsiden med en kraft og hastighet som ikke gir tid til å reagere. Det er ikke en prosess. Det er et plutselig brudd.
 
 I drømmeverdenen er snøskredet ett av de sterkeste bildene på noe som lenge har bygget seg opp og plutselig slipper.
 
@@ -60,7 +60,7 @@ Stillheten etter det som veltet — noe er over, og noe nytt begynner.
 
 For nordmenn er snøskredet ikke et abstrakt bilde — det er en reell og nær fare for alle som ferdes i fjellene. Den norske fjellvettregelen om å kjenne skredfare er ikke metaforisk; det er overlevelse. Drømmens snøskred bærer på denne konkrete frykten i norsk fjellkultur.
 
-Men det bærer også på noe dypere: den urgamle erfaringen av at fjellene gir og fjellene tar. At naturen er vakker og brutal på én gang. At det hvite kan drepe. Når [isen](/drommer/is) og snøen slipper taket, er det ingen vei tilbake.
+Men det bærer også på noe dypere: den urgamle erfaringen av at fjellene gir og fjellene tar. At naturen er vakker og brutal på én gang. At det hvite kan drepe. Når [isen](/drommer/is/) og snøen slipper taket, er det ingen vei tilbake.
 
 ## Drømmeguiden anbefaler
 

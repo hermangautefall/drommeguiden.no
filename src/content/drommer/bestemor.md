@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om bestemoren din?
 
-Bestemoren har en spesiell plass i drømmesymbolikken — hun er generasjonen bak [moren](/drommer/mor), bæreren av familiehistorien, stemmen fra en tid du ikke selv husker men som likevel er en del av deg. Å drømme om henne er å drømme om noe dypt og langsiktig.
+Bestemoren har en spesiell plass i drømmesymbolikken — hun er generasjonen bak [moren](/drommer/mor/), bæreren av familiehistorien, stemmen fra en tid du ikke selv husker men som likevel er en del av deg. Å drømme om henne er å drømme om noe dypt og langsiktig.
 
 Drømmer om bestemoren dukker gjerne opp i perioder der noe i livet ditt trenger et større perspektiv, der det å være forbundet med fortiden er viktig, eller der du leter etter en form for ubetinget omsorg som ikke krever noe tilbake.
 
@@ -34,7 +34,7 @@ Bestemoren er en levende forbindelse til slektens historie — til måter å lev
 
 ### Ubetinget kjærlighet og trygghet
 
-For mange er bestemoren det tryggeste stedet i [barndommen](/drommer/barn) — [kjøkkenet](/drommer/hus) hennes, lukten av maten, en klem uten krav. Disse drømmene kan komme i perioder der du trenger nettopp denne typen ubetinget omsorg. De er ikke regressive; de er restorative.
+For mange er bestemoren det tryggeste stedet i [barndommen](/drommer/barn/) — [kjøkkenet](/drommer/hus/) hennes, lukten av maten, en klem uten krav. Disse drømmene kan komme i perioder der du trenger nettopp denne typen ubetinget omsorg. De er ikke regressive; de er restorative.
 
 ### En kvinnelig forfader som "skifter"
 
@@ -42,7 +42,7 @@ I dybdepsykologien kan bestemoren stå for noe arketypisk — den "vise gamle kv
 
 ### En forbindelse på tvers av liv og død
 
-Bestemødre dør gjerne før resten av familien — og blir derfor ofte de første "avdøde" figurer som dukker opp i drømmene. Hvis bestemoren er [avdød](/drommer/avdod-person) men levende i drømmen, beskriver de fleste opplevelsen som spesielt ekte og trøstende. Disse drømmene kan komme i perioder med sorg, store livsbeslutninger eller når noe i deg ber om bekreftelse fra noe utenfor det dagligdagse.
+Bestemødre dør gjerne før resten av familien — og blir derfor ofte de første "avdøde" figurer som dukker opp i drømmene. Hvis bestemoren er [avdød](/drommer/avdod-person/) men levende i drømmen, beskriver de fleste opplevelsen som spesielt ekte og trøstende. Disse drømmene kan komme i perioder med sorg, store livsbeslutninger eller når noe i deg ber om bekreftelse fra noe utenfor det dagligdagse.
 
 ## Hva påvirker tolkningen?
 
@@ -52,13 +52,13 @@ Trygghet, visdom og varme er tilgjengelig for deg. Et godt tegn.
 **Hvis hun ga deg noe:**
 En gave, et råd, en oppgave — hva hun ga deg er ladet med symbolmening.
 
-**Hvis hun var [avdød](/drommer/avdod-person) men levende i drømmen:**
+**Hvis hun var [avdød](/drommer/avdod-person/) men levende i drømmen:**
 Et av de mest trøstende besøkene man kan ha. Mange beskriver disse drømmene som svært ekte.
 
 **Hvis hun var syk eller svekket:**
 Bekymring for noe gammelt og verdifullt som er i ferd med å forsvinne.
 
-**Hvis hun lagde mat eller stelte i [huset](/drommer/hus):**
+**Hvis hun lagde mat eller stelte i [huset](/drommer/hus/):**
 Hverdagsomsorg — det rolige, gjentakende, beroligende ved tilhørighet.
 
 **Hvis hun fortalte deg en historie:**

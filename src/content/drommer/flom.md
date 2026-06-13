@@ -27,11 +27,11 @@ Disse drømmene er vanlige i krevende perioder — og de bærer ofte på et vikt
 
 ### Overveldende følelser som flommer over
 
-Vann er i drømmesymbolikken knyttet til følelseslivet — og flom er følelsene som har vokst seg for store til å holdes tilbake. Også drømmer om [havet](/drommer/hav) handler om det store og ukontrollerbare i følelseslivet. Du kan ha drømt om flom i perioder der du har holdt mye inne — sorg, sinne, angst, kjærlighet — og der det nå presses ut. Drømmen sier: det du har holdt på kan ikke holdes lenger.
+Vann er i drømmesymbolikken knyttet til følelseslivet — og flom er følelsene som har vokst seg for store til å holdes tilbake. Også drømmer om [havet](/drommer/hav/) handler om det store og ukontrollerbare i følelseslivet. Du kan ha drømt om flom i perioder der du har holdt mye inne — sorg, sinne, angst, kjærlighet — og der det nå presses ut. Drømmen sier: det du har holdt på kan ikke holdes lenger.
 
 ### Situasjon ute av kontroll
 
-Flommen kan også representere en ytre situasjon der tingene er blitt for mange og for store å håndtere — jobbsituasjon, familieproblemer, økonomi, helse. Noe har vokst seg utenfor det du klarer å styre. Utforsk flere [vannsymboler i drømmene](/kategori/vann).
+Flommen kan også representere en ytre situasjon der tingene er blitt for mange og for store å håndtere — jobbsituasjon, familieproblemer, økonomi, helse. Noe har vokst seg utenfor det du klarer å styre. Utforsk flere [vannsymboler i drømmene](/kategori/vann/).
 
 ### Renselse og forvandling
 
@@ -49,10 +49,10 @@ En uventet hendelse eller erkjennelse har overveldet deg.
 Du finner ressurser til å håndtere det som overvelder. Mestring midt i kaos.
 
 **Hvis du druknet eller ble revet med:**
-Total overveldelse — et signal om at du trenger støtte og hjelp utenfor deg selv. Se også drømmer om å [drukne](/drommer/drukne) for mer om dette temaet.
+Total overveldelse — et signal om at du trenger støtte og hjelp utenfor deg selv. Se også drømmer om å [drukne](/drommer/drukne/) for mer om dette temaet.
 
 **Hvis vannet rant av:**
-Krisen er over. Det som overveldet deg er i ferd med å trekke seg tilbake. [Regn](/drommer/regn) i drømmene bærer en mildere variant av samme symbolikk.
+Krisen er over. Det som overveldet deg er i ferd med å trekke seg tilbake. [Regn](/drommer/regn/) i drømmene bærer en mildere variant av samme symbolikk.
 
 ## Psykologiske og kulturelle perspektiver
 

@@ -26,13 +26,13 @@ Det er sjelden tilfeldig hvem som dukker opp.
 
 ### Et savn etter en kvalitet eller en periode
 
-Gamle venner er uløselig knyttet til en bestemt tid i livet — [barndom](/drommer/barn), ungdom, [studietid](/drommer/skole). Å drømme om dem handler sjelden bare om å savne dem som person. Det handler like mye om å savne noe ved den perioden: en frihet, en letthet, en versjon av deg selv du var da.
+Gamle venner er uløselig knyttet til en bestemt tid i livet — [barndom](/drommer/barn/), ungdom, [studietid](/drommer/skole/). Å drømme om dem handler sjelden bare om å savne dem som person. Det handler like mye om å savne noe ved den perioden: en frihet, en letthet, en versjon av deg selv du var da.
 
 Spørsmålet drømmen stiller: er det noe fra den perioden du trenger mer av nå?
 
 ### Noe uoppgjort fra fortiden
 
-Noen ganger dukker den gamle vennen opp fordi noe mellom dere aldri fikk en ordentlig avslutning — et [brudd](/drommer/eksen) som aldri ble forklart, en konflikt som bare ebbet ut, noe utsagt som fortsatt sitter. Underbevistheten gir deg en ny sjanse til å bearbeide dette.
+Noen ganger dukker den gamle vennen opp fordi noe mellom dere aldri fikk en ordentlig avslutning — et [brudd](/drommer/eksen/) som aldri ble forklart, en konflikt som bare ebbet ut, noe utsagt som fortsatt sitter. Underbevistheten gir deg en ny sjanse til å bearbeide dette.
 
 ### Gjenkjennelse — livet nå minner om da
 

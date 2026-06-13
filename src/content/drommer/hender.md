@@ -41,15 +41,15 @@ Hender er vårt viktigste redskap for fysisk kontakt med andre mennesker. Et hå
 
 Å holde noen i hånden i en drøm kan representere trygghet, kjærlighet eller et ønske om tilknytning. Å miste grepet om noens hånd kan speile en frykt for å miste kontakten med noen du bryr deg om. Drømmer der noen rekker deg en hånd tolkes gjerne som et tegn på at hjelp eller støtte er tilgjengelig — kanskje fra en person du ikke har tenkt på.
 
-Hender som berører en [baby](/drommer/baby) i drømmen tilfører et lag av omsorg og ansvar. Kombinasjonen kan handle om din rolle som beskytter eller omsorgsgiver, eller et ønske om å gi og motta kjærlighet.
+Hender som berører en [baby](/drommer/baby/) i drømmen tilfører et lag av omsorg og ansvar. Kombinasjonen kan handle om din rolle som beskytter eller omsorgsgiver, eller et ønske om å gi og motta kjærlighet.
 
 ### Identitet og selvbilde
 
 På et dypere nivå kan hender i drømmer representere din egen identitet. Vi kjenner igjen våre egne hender — de er unike, med egne linjer og arr som forteller vår historie. Drømmer der du ser på dine egne hender kan peke mot selvrefleksjon og et behov for å forstå hvem du er.
 
-Hvis hendene i drømmen ser annerledes ut enn vanlig — kanskje de er gamle, unge, eller tilhører noen andre — kan det tyde på at du opplever endringer i selvbildet ditt. Kanskje føler du at du ikke er deg selv, eller at du er i ferd med å bli en annen versjon av deg selv. Slike drømmer har fellestrekk med drømmer om [speil](/drommer/speil), der selvbildet og identiteten også er sentrale temaer.
+Hvis hendene i drømmen ser annerledes ut enn vanlig — kanskje de er gamle, unge, eller tilhører noen andre — kan det tyde på at du opplever endringer i selvbildet ditt. Kanskje føler du at du ikke er deg selv, eller at du er i ferd med å bli en annen versjon av deg selv. Slike drømmer har fellestrekk med drømmer om [speil](/drommer/speil/), der selvbildet og identiteten også er sentrale temaer.
 
-Dersom hendene er skitne eller dekket av [blod](/drommer/blod), kan dette peke mot skyldfølelse eller en handling du angrer på. Uttrykket «å ha blod på hendene» er dypt forankret i kulturen vår, og drømmer bruker ofte slike metaforer.
+Dersom hendene er skitne eller dekket av [blod](/drommer/blod/), kan dette peke mot skyldfølelse eller en handling du angrer på. Uttrykket «å ha blod på hendene» er dypt forankret i kulturen vår, og drømmer bruker ofte slike metaforer.
 
 ---
 
@@ -66,7 +66,7 @@ Tolkes gjerne som en følelse av å være fanget eller hindret i å handle fritt
 **Hvis du rekker ut hånden til noen:**
 Et positivt tegn som kan peke mot forsoning, åpenhet for nye relasjoner, eller vilje til å be om hjelp.
 
-**Hvis hendene er [nakne](/drommer/naken) eller blottlagte:**
+**Hvis hendene er [nakne](/drommer/naken/) eller blottlagte:**
 Kan forsterke følelsen av sårbarhet eller ærlighet — du viser deg slik du er, uten filter.
 
 ---

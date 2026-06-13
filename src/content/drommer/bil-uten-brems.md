@@ -32,7 +32,7 @@ Spørsmålet er: hva er det i livet ditt som bærer av gårde uten at du kan sto
 
 ### Et liv i for høyt gir
 
-"Jeg kan ikke stoppe" er et av de vanligste utsagnene hos utbrente mennesker. Drømmens [bil](/drommer/bil) uten brems er den søvnende sjelens bilde på akkurat dette: du har ikke tid til å stoppe, du vet ikke hvordan du stopper, og farten øker.
+"Jeg kan ikke stoppe" er et av de vanligste utsagnene hos utbrente mennesker. Drømmens [bil](/drommer/bil/) uten brems er den søvnende sjelens bilde på akkurat dette: du har ikke tid til å stoppe, du vet ikke hvordan du stopper, og farten øker.
 
 Drømmens budskap er direkte: det trengs en brems. Hva i livet ditt trenger du å bremse ned?
 

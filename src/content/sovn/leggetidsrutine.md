@@ -51,7 +51,7 @@ Uferdig-effekten (Zeigarnik-effekten) er reell: hjernen holder aktivt på uferdi
 
 Ta 5–10 minutter til å skrive ned morgendagens to viktigste oppgaver og eventuelle bekymringer som er aktive. Ikke for å løse dem — bare for å "parkere" dem. Forskning viser at dette konkret reduserer innsovningstid.
 
-Et alternativ er [drømmejournalen](/guider/drommejournalen): å skrive ned kveldens tanker og — over tid — refleksjoner over drømmene.
+Et alternativ er [drømmejournalen](/guider/drommejournalen/): å skrive ned kveldens tanker og — over tid — refleksjoner over drømmene.
 
 ### Steg 4: Varmt bad eller dusj (60–90 minutter før leggetid)
 
@@ -109,7 +109,7 @@ En god leggetidsrutine er hjernens nedtrappingsprotokoll:
 6. Øv én avslapningsteknikk konsistent
 7. Gjør det til omtrent samme tid hver kveld
 
-Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Drømmejournalen](/guider/drommejournalen) — [Angst og søvn](/sovn/angst-sovn)
+Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Drømmejournalen](/guider/drommejournalen/) — [Angst og søvn](/sovn/angst-sovn/)
 
 ## Kilder
 

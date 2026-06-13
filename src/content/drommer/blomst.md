@@ -28,7 +28,7 @@ Den vanligste og mest positive tolkningen handler om noe i livet ditt som er i v
 
 ### Kjærlighet og følelser
 
-Blomster er kulturelt sett uløselig knyttet til [kjærlighet](/drommer/ring) og romantikk — vi gir dem til dem vi er glad i. Å drømme om blomster kan speile at kjærligheten blomstrer, at du har varme følelser for noen, eller at du ønsker mer av dette i livet.
+Blomster er kulturelt sett uløselig knyttet til [kjærlighet](/drommer/ring/) og romantikk — vi gir dem til dem vi er glad i. Å drømme om blomster kan speile at kjærligheten blomstrer, at du har varme følelser for noen, eller at du ønsker mer av dette i livet.
 
 ### Sårbarhet og kortvarighet
 
@@ -53,9 +53,9 @@ En overveldende følelse av livsglede, kreativitet eller kjærlighet.
 
 ## Psykologiske og kulturelle perspektiver
 
-Blomsten er i jungiansk psykologi knyttet til Selvet i sin blomstertid — psyken i sin mest åpne og mottakelige tilstand. Den er ikke den modne [fruktens](/drommer/gravid) overflod, men blomstens løfte om hva som er mulig.
+Blomsten er i jungiansk psykologi knyttet til Selvet i sin blomstertid — psyken i sin mest åpne og mottakelige tilstand. Den er ikke den modne [fruktens](/drommer/gravid/) overflod, men blomstens løfte om hva som er mulig.
 
-I norsk tradisjon er blomster knyttet til [sommerens](/drommer/sol) kortvarighet — i et land med lang [vinter](/drommer/sno) er blomsten ekstra ladet. Å drømme om blomster i norsk kontekst er å drømme om det kjæreste og mest kortvarige ved livet.
+I norsk tradisjon er blomster knyttet til [sommerens](/drommer/sol/) kortvarighet — i et land med lang [vinter](/drommer/sno/) er blomsten ekstra ladet. Å drømme om blomster i norsk kontekst er å drømme om det kjæreste og mest kortvarige ved livet.
 
 ## Drømmeguiden anbefaler
 

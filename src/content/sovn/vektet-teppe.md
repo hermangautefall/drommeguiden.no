@@ -86,7 +86,7 @@ Et interessant fenomen rapportert av mange som bruker vektede tepper: de oppleve
 
 Dette er konsistent med mekanismen: DPS reduserer nattlig uro og fragmentering, som betyr færre oppvåkninger fra REM-søvn og bedre husking av drømmene.
 
-For dem som arbeider aktivt med [drømmejournalen](/guider/drommejournalen) kan et vektet teppe være et nyttig supplement — bedre søvnkvalitet gir mer tilgang til drømmematerialet.
+For dem som arbeider aktivt med [drømmejournalen](/guider/drommejournalen/) kan et vektet teppe være et nyttig supplement — bedre søvnkvalitet gir mer tilgang til drømmematerialet.
 
 ## Oppsummering
 
@@ -98,7 +98,7 @@ Vektede tepper er dokumentert effektive — for de rette personene:
 - Velg glassperlefylling, avtakbart bomullstrekk og solid konstruksjon
 - Ikke egnet ved søvnapné, klausofobi eller for dem som sover veldig varmt
 
-Les videre: [Soverommet for bedre søvn](/sovn/soverom-sovn) — [Angst og søvn](/sovn/angst-sovn) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene)
+Les videre: [Soverommet for bedre søvn](/sovn/soverom-sovn/) — [Angst og søvn](/sovn/angst-sovn/) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/)
 
 ## Kilder
 

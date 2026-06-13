@@ -63,7 +63,7 @@ Hormonelle endringer, særlig økt progesteron og østrogen, påvirker hjernens 
 
 Graviditetsdrømmene har gjenkjennelige temaer: drømmer om barnet (at det er for lite, for stort, har det bra eller ikke), drømmer om fødsel, drømmer om å miste noe verdifullt, drømmer om eksen (et vanlig fenomen som sjelden betyr det man tror), og bisarre scenarioer som blander barnets ankomst med andre livsområder.
 
-Disse drømmene er normale og er et tegn på at hjernen bearbeider en av de største livsendringene et menneske kan oppleve. Se symbolsiden for [gravid](/drommer/gravid) for mer om hva slike drømmer kan bety.
+Disse drømmene er normale og er et tegn på at hjernen bearbeider en av de største livsendringene et menneske kan oppleve. Se symbolsiden for [gravid](/drommer/gravid/) for mer om hva slike drømmer kan bety.
 
 ## Praktiske råd for bedre søvn under graviditet
 
@@ -77,7 +77,7 @@ Disse drømmene er normale og er et tegn på at hjernen bearbeider en av de stø
 
 **Leggkramper.** Strekk leggmusklene før leggetid. Magnesium-tilskudd (diskuter med jordmor eller lege) har god dokumentasjon mot leggkramper under graviditet.
 
-**Emosjonell uro.** Skriv ned bekymringer og tanker før leggetid — ikke for å løse dem, men for å "parkere" dem. En enkel dagbok fungerer godt. Se også guiden om [drømmejournalen](/guider/drommejournalen) for en struktur som fungerer spesielt godt i denne perioden.
+**Emosjonell uro.** Skriv ned bekymringer og tanker før leggetid — ikke for å løse dem, men for å "parkere" dem. En enkel dagbok fungerer godt. Se også guiden om [drømmejournalen](/guider/drommejournalen/) for en struktur som fungerer spesielt godt i denne perioden.
 
 **Hvil på dagtid.** En kort søvn (20–30 minutter) midt på dagen er ikke latskap — det er nødvendig kompensasjon. Etter 15. uke anbefales ikke lang ryggleie, så sørg for sideleie eller sittende posisjon.
 
@@ -101,7 +101,7 @@ Søvn under graviditet er utfordrende — men det finnes gode tiltak:
 - Graviditetsdrømmene er intense og minnerike, og er hjernens normale bearbeiding av en stor livsendring
 - Sideleie med graviditetspute, begrensning av væske om kvelden og korte hviler på dagtid er de viktigste tiltakene
 
-Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Hva drømmene om graviditet betyr](/drommer/gravid) — [Barn og drømmer](/guider/barn-og-drommer)
+Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Hva drømmene om graviditet betyr](/drommer/gravid/) — [Barn og drømmer](/guider/barn-og-drommer/)
 
 ## Kilder
 

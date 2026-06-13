@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om orm?
 
-Ormen skiller seg fra slangen i drømmesymbolikken — [slangen](/drommer/slange) er stolt, oppreist og aktiv, mens ormen er lav, jordbunden og skjult. Der slangen representerer forvandling og kraft i bevegelse, er ormen symbolverdenen for det som foregår under overflaten, i jordens dyp, der vi ikke ser.
+Ormen skiller seg fra slangen i drømmesymbolikken — [slangen](/drommer/slange/) er stolt, oppreist og aktiv, mens ormen er lav, jordbunden og skjult. Der slangen representerer forvandling og kraft i bevegelse, er ormen symbolverdenen for det som foregår under overflaten, i jordens dyp, der vi ikke ser.
 
 I norrøn tradisjon er ormen ett av de mest ladet symbolene som finnes, og dens tilstedeværelse i drømmene er sjelden ubetydelig.
 
@@ -56,7 +56,7 @@ Noe skjult og dypt — prosesser du ikke ser, men som påvirker deg.
 Níðhøggr-energien — noe gnager på grunnfjellet av noe. En dyp, vedvarende destruktiv kraft.
 
 **Hvis ormen var i vann:**
-Ormens kraft kombinert med vannets emosjonelle symbolikk — dype, flytende prosesser i det følelsesmessige livet. Se også [havet](/drommer/hav) som drømmesymbol.
+Ormens kraft kombinert med vannets emosjonelle symbolikk — dype, flytende prosesser i det følelsesmessige livet. Se også [havet](/drommer/hav/) som drømmesymbol.
 
 **Hvis ormen beveget seg mot deg:**
 En passiv trussel er i ferd med å bli aktiv. Noe du har ignorert krever oppmerksomhet.
@@ -70,7 +70,7 @@ I norrøn kosmologi er ormen sentral på en måte som overgår de fleste andre k
 
 Jormungandr — Midgardsormen — omslutter hele den jordiske verden og biter sin egen hale. Han er grensen mellom orden og kaos, mellom det kjente og det ukjente. Å drømme om en stor orm i norrøn kulturell kontekst er å drømme om selve grensen for verden.
 
-Carl Jung beskrev ormen som ett av de eldste og mest grunnleggende arketypiske symbolene — knyttet til det ubevisste i dets laveste og mest primitive form. Der slangen er det ubevisste i bevegelse og forvandling, er ormen det ubevisste som gnager i ro — tålmodig, vedvarende og uunngåelig. Se [kategori dyr](/kategori/dyr) for flere dyresymboler i drømmer.
+Carl Jung beskrev ormen som ett av de eldste og mest grunnleggende arketypiske symbolene — knyttet til det ubevisste i dets laveste og mest primitive form. Der slangen er det ubevisste i bevegelse og forvandling, er ormen det ubevisste som gnager i ro — tålmodig, vedvarende og uunngåelig. Se [kategori dyr](/kategori/dyr/) for flere dyresymboler i drømmer.
 
 ## Drømmeguiden anbefaler
 

@@ -37,7 +37,7 @@ Legg merke til hvordan du beveger deg i drømmen. Går du jevnt og trutt oppover
 
 Fjellet er ikke bare et mål — det er også en hindring. I drømmeverdenen kan et stort, bratt fjell representere en utfordring som føles uoverkommelig. Kanskje står du foran en situasjon i livet der oppgaven virker for stor, ansvaret for tungt, eller veien for lang.
 
-Denne tolkningen forsterkes dersom fjellet i drømmen er dekket av snø, tåke eller farlige stup. Slike elementer kan speile at du ikke ser klart hvordan du skal komme deg videre, eller at du frykter konsekvensene av å prøve. En drøm der du faller fra et fjell har klare forbindelser til drømmer om å [falle](/drommer/falle) — begge handler om tap av fotfeste og kontroll.
+Denne tolkningen forsterkes dersom fjellet i drømmen er dekket av snø, tåke eller farlige stup. Slike elementer kan speile at du ikke ser klart hvordan du skal komme deg videre, eller at du frykter konsekvensene av å prøve. En drøm der du faller fra et fjell har klare forbindelser til drømmer om å [falle](/drommer/falle/) — begge handler om tap av fotfeste og kontroll.
 
 Det er likevel verdt å huske at hindringer i drømmer ikke nødvendigvis er advarsler. De kan like gjerne være invitasjoner: se utfordringen, anerkjenn den, og finn din vei rundt eller over den.
 
@@ -47,7 +47,7 @@ Fjelltoppen har i uminnelige tider vært forbundet med det guddommelige, det opp
 
 Slike drømmer dukker gjerne opp i perioder med åndelig eller eksistensiell søking. Kanskje stiller du deg spørsmål om livets mening, ditt formål, eller hva som virkelig betyr noe for deg. Fjellet tilbyr perspektiv: fra toppen ser du helheten, ikke bare detaljene.
 
-Forbindelsen til drømmer om [flyging](/drommer/flyging) er tydelig her: begge handler om å heve seg over det jordiske for å se ting klarere. Forskjellen er at fjellet krever arbeid for å nå toppen, mens flygingen ofte oppleves som en gave.
+Forbindelsen til drømmer om [flyging](/drommer/flyging/) er tydelig her: begge handler om å heve seg over det jordiske for å se ting klarere. Forskjellen er at fjellet krever arbeid for å nå toppen, mens flygingen ofte oppleves som en gave.
 
 ---
 
@@ -61,7 +61,7 @@ Symboliserer gjerne aktiv innsats mot et mål. Graden av anstrengelse i drømmen
 **Hvis du står på toppen:**
 Et sterkt tegn på oppnåelse, mestring, eller at du har nådd en viktig milepæl. Følelsen du har på toppen sier mye — er det glede, lettelse, eller tomhet?
 
-**Hvis fjellet er omgitt av [storm](/drommer/storm) eller uvær:**
+**Hvis fjellet er omgitt av [storm](/drommer/storm/) eller uvær:**
 Kombinasjonen av fjell og storm peker mot store utfordringer som også innebærer emosjonell turbulens. Det handler om å holde kurs midt i kaoset.
 
 **Hvis du ser fjellet på avstand uten å nærme deg:**

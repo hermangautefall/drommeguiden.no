@@ -24,7 +24,7 @@ relaterte_sovn:
 
 Drømmen om flyulykke er en av de mest intense og virkelighetsnære angstdrømmene vi kan ha. Du er om bord, du kjenner farten, du ser bakken nærme seg — og følelsen av avmakt er total. Å våkne fra denne drømmen er ofte en lettelse som setter seg dypt.
 
-La oss starte med det viktigste: å drømme om flyulykke er ikke et varsel om at noe faktisk vil skje. Det er en av de vanligste angstdrømmene som finnes, og den handler nesten alltid om noe helt annet enn [flyging](/drommer/flyging).
+La oss starte med det viktigste: å drømme om flyulykke er ikke et varsel om at noe faktisk vil skje. Det er en av de vanligste angstdrømmene som finnes, og den handler nesten alltid om noe helt annet enn [flyging](/drommer/flyging/).
 
 ## De vanligste tolkningene
 
@@ -38,7 +38,7 @@ Den mest klassiske og støttede tolkningen handler om kontroll — eller fravær
 
 Flyet flyr høyt — og høyde er i drømmesymbolikken knyttet til ambisjoner, mål og aspirasjoner. Å drømme om at flyet styrter kan speile en ambisjon som ikke holder, et prosjekt som er i fare for å kollapse, eller en forestilling om fremtiden som begynner å sprekke.
 
-Drømmen stiller spørsmålet: er grunnlaget for det du er i ferd med å bygge solid nok? Er forventningene realistiske? Er du for høyt oppe for raskt? Temaet ligner det mange opplever i drømmer om [stormer](/drommer/storm) — krefter utenfor din kontroll.
+Drømmen stiller spørsmålet: er grunnlaget for det du er i ferd med å bygge solid nok? Er forventningene realistiske? Er du for høyt oppe for raskt? Temaet ligner det mange opplever i drømmer om [stormer](/drommer/storm/) — krefter utenfor din kontroll.
 
 ### Angst for noe utenfor din kontroll
 
@@ -72,11 +72,11 @@ Angsten er til stede, men katastrofen inntreffer ikke. Frykten er større enn de
 
 ## Psykologiske og kulturelle perspektiver
 
-Flydrømmer er fascinerende fordi de kombinerer to av de sterkeste arketypiske drømmtemaene: flyging (frihet, ambisjon, det hevede perspektivet) og [fall](/drommer/falle) (tap av kontroll, sammenbrud, retur til det jordlige). En flyulykke er på en måte den mest dramatiske kombinasjonen av disse to — ambisjonen som kollapser, friheten som brytes.
+Flydrømmer er fascinerende fordi de kombinerer to av de sterkeste arketypiske drømmtemaene: flyging (frihet, ambisjon, det hevede perspektivet) og [fall](/drommer/falle/) (tap av kontroll, sammenbrud, retur til det jordlige). En flyulykke er på en måte den mest dramatiske kombinasjonen av disse to — ambisjonen som kollapser, friheten som brytes.
 
 Jung ville sett flyulykkedrømmen som en konfrontasjon med Ikaros-myten: den menneskelige trangen til å fly høyere enn vingene bærer, og det uunngåelige fallet som følge. Drømmen er ikke en straff — den er en påminnelse om at all ambisjon har sine grenser, og at disse grensene er verdt å kjenne.
 
-Forskning på angstdrømmer viser at flyulykkedrømmer er vanligst i perioder med høyt press, store beslutninger og store personlige eller profesjonelle overganger. De er et pålitelig barometer på indre spenning — og som alle andre angstdrømmer, sjelden et varsel om det de bokstavelig fremstiller. Lurer du på hvorfor angstdrømmer gjentar seg? Les mer i guiden om [gjentakende drømmer](/guider/gjentakende-drommer).
+Forskning på angstdrømmer viser at flyulykkedrømmer er vanligst i perioder med høyt press, store beslutninger og store personlige eller profesjonelle overganger. De er et pålitelig barometer på indre spenning — og som alle andre angstdrømmer, sjelden et varsel om det de bokstavelig fremstiller. Lurer du på hvorfor angstdrømmer gjentar seg? Les mer i guiden om [gjentakende drømmer](/guider/gjentakende-drommer/).
 
 ## Drømmeguiden anbefaler
 

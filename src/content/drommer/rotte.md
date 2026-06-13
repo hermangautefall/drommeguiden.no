@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om rotte?
 
-Rotten er ett av de sterkest negativt ladede dyrene i vestlig symbolikk — den bærer på konnotasjoner av forrådnelse, [sykdom](/drommer/sykdom), svikt og det som skjuler seg i mørket. Det er sjelden noen drømmer om rotter med glede. Disse drømmene setter seg fast, og de bærer nesten alltid på et budskap som fortjener oppmerksomhet.
+Rotten er ett av de sterkest negativt ladede dyrene i vestlig symbolikk — den bærer på konnotasjoner av forrådnelse, [sykdom](/drommer/sykdom/), svikt og det som skjuler seg i mørket. Det er sjelden noen drømmer om rotter med glede. Disse drømmene setter seg fast, og de bærer nesten alltid på et budskap som fortjener oppmerksomhet.
 
 ## Vanlige drømmer om rotte og deres betydning
 
@@ -44,7 +44,7 @@ Jung ville sett rotten som en manifestasjon av Skyggen i sin mest ubehagelige fo
 Et problem som har vokst til en infestasjon — noe lite og håndterbart har blitt for stort å ignorere.
 
 **Hvis rotten var i huset ditt:**
-Noe ødeleggende er inne i din indre verden — i ditt eget "selv". Se symbolsiden for [hus](/drommer/hus).
+Noe ødeleggende er inne i din indre verden — i ditt eget "selv". Se symbolsiden for [hus](/drommer/hus/).
 
 **Hvis du drepte rotten:**
 Du konfronterer og setter stopp for noe destruktivt. Aktiv løsning av et problem.

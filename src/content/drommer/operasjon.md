@@ -19,7 +19,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om operasjon?
 
-Operasjonen er en av de mest intense menneskelige erfaringene — du legger kroppen din i andres hender, du er sårbar på en måte som ikke finnes i hverdagen, og noe skjæres bort eller repareres. Operasjonsdrømmer er nært knyttet til [sykdom](/drommer/sykdom) og [sykehus](/drommer/sykehus) som drømmesymboler. I drømmeverdenen er disse elementene ladet med sterk symbolikk.
+Operasjonen er en av de mest intense menneskelige erfaringene — du legger kroppen din i andres hender, du er sårbar på en måte som ikke finnes i hverdagen, og noe skjæres bort eller repareres. Operasjonsdrømmer er nært knyttet til [sykdom](/drommer/sykdom/) og [sykehus](/drommer/sykehus/) som drømmesymboler. I drømmeverdenen er disse elementene ladet med sterk symbolikk.
 
 Drømmer om operasjon dukker gjerne opp i perioder der noe i livet ditt er under reparasjon, der noe må kuttes vekk, eller der du står midt i en prosess som krever at du gir slipp på kontrollen.
 

@@ -59,7 +59,7 @@ Det er en av mekanismene bak de epidemiologiske funnene om at kronisk søvnmange
 
 Mange legger merke til at drømmene er spesielt intense og bizarre under sykdom — feber særlig. Det er ikke tilfeldig. Feber forhøyer hjernens aktivitet og kan gi mer livaktige, hyperrealistiske og til tider hallusinatoriske drømmescenarioer. Noen kulturelle forestillinger om visjonære drømmer under sykdom har sannsynligvis rot i dette fenomenet.
 
-Se symbolsiden for [sykdom](/drommer/sykdom) for mer om hva drømmer under sykdomsperioder kan bety.
+Se symbolsiden for [sykdom](/drommer/sykdom/) for mer om hva drømmer under sykdomsperioder kan bety.
 
 ## Praktiske konsekvenser
 
@@ -79,7 +79,7 @@ Søvn og immunforsvaret er biologisk uadskillelige:
 - Kronisk søvnmangel gir forhøyet systemisk inflammasjon
 - Søvn er aktiv behandling under sykdom, ikke passivitet
 
-Les videre: [Hva er søvn?](/sovn/hva-er-sovn) — [Søvnbehovet ditt](/sovn/sovnbehov) — [Søvnproblemer og insomni](/sovn/sovnproblemer)
+Les videre: [Hva er søvn?](/sovn/hva-er-sovn/) — [Søvnbehovet ditt](/sovn/sovnbehov/) — [Søvnproblemer og insomni](/sovn/sovnproblemer/)
 
 ## Kilder
 

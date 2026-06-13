@@ -53,13 +53,13 @@ Noen ganger er fortapthetsdrømmen mer praktisk: for mange veier, for mange krav
 Sosiale og strukturelle omgivelser som kjennes uoverskuelige — jobb, system, relasjoner som ikke gir mening.
 
 **Hvis du var fortapt i naturen:**
-En mer grunnleggende fortapthet — identitet, mening, eksistens. Dypere og mer arketypisk. Drømmer om [skog](/drommer/skog) handler ofte om dette — det ukjente landskapet i psyken.
+En mer grunnleggende fortapthet — identitet, mening, eksistens. Dypere og mer arketypisk. Drømmer om [skog](/drommer/skog/) handler ofte om dette — det ukjente landskapet i psyken.
 
 **Hvis noen hjalp deg å finne veien:**
 Støtte er tilgjengelig — du trenger ikke å finne veien alene.
 
 **Hvis du aldri fant veien:**
-En vedvarende og uløst forvirring. Noe trenger å avklares før du kan gå videre. Drømmer om å [miste noe](/drommer/miste-noe) henger ofte sammen med denne følelsen av retningsløshet.
+En vedvarende og uløst forvirring. Noe trenger å avklares før du kan gå videre. Drømmer om å [miste noe](/drommer/miste-noe/) henger ofte sammen med denne følelsen av retningsløshet.
 
 **Hvis du aksepterte at du var fortapt:**
 Overraskende positiv — en begynnende evne til å hvile i usikkerheten fremfor å kjempe mot den.
@@ -71,7 +71,7 @@ Løsning er innen rekkevidde. Orienteringsevnen din er bedre enn angsten vil ha 
 
 Å bli fortapt er ett av de eldste menneskelige symbolene på eksistensiell forvirring — fra Dantes "halvveis gjennom livsreisens vei befant jeg meg i en mørk skog" til moderne psykologiens kartmetaforer for identitet og retning.
 
-Jung beskrev en av livets viktigste prosesser som "individasjon" — å finne sin egen vei fremfor å følge andres. Drømmer om å bli fortapt er, i dette perspektivet, ikke bare angstdrømmer — de er drømmer om selve prosjektet med å bli seg selv. Fortaptheten er ikke feil. Den er startpunktet for orienteringen. Les mer om [gjentakende drømmer](/guider/gjentakende-drommer) hvis denne drømmen kommer tilbake gang etter gang.
+Jung beskrev en av livets viktigste prosesser som "individasjon" — å finne sin egen vei fremfor å følge andres. Drømmer om å bli fortapt er, i dette perspektivet, ikke bare angstdrømmer — de er drømmer om selve prosjektet med å bli seg selv. Fortaptheten er ikke feil. Den er startpunktet for orienteringen. Les mer om [gjentakende drømmer](/guider/gjentakende-drommer/) hvis denne drømmen kommer tilbake gang etter gang.
 
 Interessant nok er disse drømmene spesielt vanlige i midtlivet — en periode mange kulturer anerkjenner som et naturlig tidspunkt for å gå seg vill og finne seg selv på nytt.
 

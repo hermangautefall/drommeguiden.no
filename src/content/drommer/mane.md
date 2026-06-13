@@ -21,7 +21,7 @@ relaterte_sovn:
 
 ## Hva betyr det å drømme om månen?
 
-Der [solen](/drommer/sol) er bevisstheten og den aktive dagen, er månen det ubevisste og natten — det som lyser i mørket uten å blende, det som følger sine sykluser uavhengig av hva vi ønsker. Månen i drømmene er ett av de dypeste og mest poetiske symbolene vi kan oppleve.
+Der [solen](/drommer/sol/) er bevisstheten og den aktive dagen, er månen det ubevisste og natten — det som lyser i mørket uten å blende, det som følger sine sykluser uavhengig av hva vi ønsker. Månen i drømmene er ett av de dypeste og mest poetiske symbolene vi kan oppleve.
 
 ## De vanligste tolkningene
 
@@ -49,7 +49,7 @@ En ny syklus begynner. Et godt tidspunkt for nye starter.
 En overgang — noe er underveis, men ikke ferdig ennå.
 
 **Hvis månen var rød eller oransje:**
-Sterk emosjonell intensitet — noe brenner i deg. Se også [stjerner](/drommer/stjerner) for andre nattehimmelsymboler.
+Sterk emosjonell intensitet — noe brenner i deg. Se også [stjerner](/drommer/stjerner/) for andre nattehimmelsymboler.
 
 **Hvis månen kom nær deg:**
 Det ubevisste er svært nært bevisstheten. Noe vil frem.
@@ -58,7 +58,7 @@ Det ubevisste er svært nært bevisstheten. Noe vil frem.
 
 Jung betraktet månen som ett av de viktigste arketypiske symbolene for det ubevisste — særlig for det han kalte "anima" hos menn og den "mørke feminine siden" generelt. Månedrømmene er for ham en invitasjon til å gå inn i de dypere lagene av psyken.
 
-I norrøn tradisjon er Máni guden for månen — en mannlig figur, i motsetning til mange andre kulturers feminine måne. Denne norrøne tradisjonen gir månen en noe annen kvalitet i norsk kulturell psyke: rolig, taktfast, bærende — ikke bare romantisk og følelsesladet. Drømmer om [havet](/drommer/hav) deler mye av den samme symbolikken om det dype og ubevisste.
+I norrøn tradisjon er Máni guden for månen — en mannlig figur, i motsetning til mange andre kulturers feminine måne. Denne norrøne tradisjonen gir månen en noe annen kvalitet i norsk kulturell psyke: rolig, taktfast, bærende — ikke bare romantisk og følelsesladet. Drømmer om [havet](/drommer/hav/) deler mye av den samme symbolikken om det dype og ubevisste.
 
 ## Drømmeguiden anbefaler
 

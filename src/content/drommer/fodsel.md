@@ -26,7 +26,7 @@ Disse drømmene er sjelden hverdagslige. De bærer gjerne på noe av det dypeste
 
 ### Noe nytt kommer til verden
 
-Den vanligste og mest direkte tolkningen handler om ny begynnelse — ikke nødvendigvis en faktisk [baby](/drommer/baby), men noe i livet ditt som er på vei ut i verden. Et prosjekt du har arbeidet med lenge, en ny fase som begynner, en beslutning som endelig er klar til å bli manifestert.
+Den vanligste og mest direkte tolkningen handler om ny begynnelse — ikke nødvendigvis en faktisk [baby](/drommer/baby/), men noe i livet ditt som er på vei ut i verden. Et prosjekt du har arbeidet med lenge, en ny fase som begynner, en beslutning som endelig er klar til å bli manifestert.
 
 Drømmens fødsel sier: det som var inne er klar til å komme ut. Noe er ferdig svangert og vil fødes.
 
@@ -42,7 +42,7 @@ Fødsel og kreativitet er knyttet sammen i alle kulturer — vi "føder ideer", 
 
 ### Ansvar og omsorg
 
-Å se et [barn](/drommer/barn) bli født — eller å holde det nyfødte — bærer på noe av det tyngste vi kan bære: ansvaret for et liv, omsorgen for noe fullstendig sårbart. Drømmens fødsel kan handle om dette: du bærer på et ansvar som er reelt og viktig, for noe eller noen som er avhengig av deg.
+Å se et [barn](/drommer/barn/) bli født — eller å holde det nyfødte — bærer på noe av det tyngste vi kan bære: ansvaret for et liv, omsorgen for noe fullstendig sårbart. Drømmens fødsel kan handle om dette: du bærer på et ansvar som er reelt og viktig, for noe eller noen som er avhengig av deg.
 
 ## Hva påvirker tolkningen?
 
@@ -65,7 +65,7 @@ Det som fødes er robust og livskraftig.
 Noe nytt er ennå ikke sterkt nok — det trenger mer tid og omsorg.
 
 **Hvis du ikke visste du var gravid:**
-Se symbolsiden for [gravid](/drommer/gravid) — noe har vokst i det skjulte uten at du visste om det.
+Se symbolsiden for [gravid](/drommer/gravid/) — noe har vokst i det skjulte uten at du visste om det.
 
 ## Psykologiske og kulturelle perspektiver
 

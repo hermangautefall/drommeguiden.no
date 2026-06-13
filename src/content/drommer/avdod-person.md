@@ -30,9 +30,9 @@ Du er ikke alene om å oppleve dette, og det er ingenting å frykte.
 
 ### Sorg og bearbeiding som fortsetter
 
-Selv lenge etter at et tap har skjedd, jobber hjernen videre med sorgen — særlig under søvn. Drømmer om den avdøde er en normal og sunn del av sorgprosessen. Mange opplever også at de drømmer om [å dø](/drommer/do) selv i forbindelse med sorgperioder. Underbevistheten bruker drømmene til å integrere tapet, prosessere minner og gradvis finne seg til rette med en verden der personen ikke lenger er til stede.
+Selv lenge etter at et tap har skjedd, jobber hjernen videre med sorgen — særlig under søvn. Drømmer om den avdøde er en normal og sunn del av sorgprosessen. Mange opplever også at de drømmer om [å dø](/drommer/do/) selv i forbindelse med sorgperioder. Underbevistheten bruker drømmene til å integrere tapet, prosessere minner og gradvis finne seg til rette med en verden der personen ikke lenger er til stede.
 
-Disse drømmene kan komme hyppig rett etter tapet, avta over tid, og så dukke opp igjen rundt merkedager, bursdager eller i perioder med store livsendringer. For en grundigere gjennomgang av fenomenet, les guiden vår om [drømmer om avdøde](/guider/drommer-om-avdode). Les også om [drømmejournalen](/guider/drommejournalen) hvis du ønsker å holde fast på disse opplevelsene.
+Disse drømmene kan komme hyppig rett etter tapet, avta over tid, og så dukke opp igjen rundt merkedager, bursdager eller i perioder med store livsendringer. For en grundigere gjennomgang av fenomenet, les guiden vår om [drømmer om avdøde](/guider/drommer-om-avdode/). Les også om [drømmejournalen](/guider/drommejournalen/) hvis du ønsker å holde fast på disse opplevelsene.
 
 ### Et uoppgjort farvel
 
@@ -42,7 +42,7 @@ Hvis du i drømmen endelig får si det du ikke fikk sagt, eller hvis dere forson
 
 ### Et trøstende besøk
 
-Mange som har drømt om avdøde kjære — enten det er [mor](/drommer/mor) eller [far](/drommer/far) — beskriver opplevelsen annerledes enn vanlige drømmer: personen ser frisk og hel ut, det er en ro og en klarhet i møtet, og du vet noen ganger i drømmen at de egentlig er borte — men likevel er der. Disse drømmene oppleves sjelden som skremmende. De oppleves som besøk.
+Mange som har drømt om avdøde kjære — enten det er [mor](/drommer/mor/) eller [far](/drommer/far/) — beskriver opplevelsen annerledes enn vanlige drømmer: personen ser frisk og hel ut, det er en ro og en klarhet i møtet, og du vet noen ganger i drømmen at de egentlig er borte — men likevel er der. Disse drømmene oppleves sjelden som skremmende. De oppleves som besøk.
 
 Uansett hva man tror om hva som skjer etter døden, er denne typen drøm noe svært mange mennesker har, og noe svært mange beskriver som en av de viktigste og mest trøstende opplevelsene i sorgtiden.
 
@@ -69,7 +69,7 @@ Forskning på sorgdrømmer viser at de er svært vanlige og at de for de fleste 
 
 Carl Jung så slike drømmer som underbevissthetens måte å integrere store tap på — å gi dem en form og en plass i psyken. Den avdøde lever videre som en indre figur, en del av hvem vi er blitt gjennom relasjonen med dem.
 
-I norsk og nordisk tradisjon har det lenge vært en sterk forestilling om at de avdøde kan besøke oss i drømmene, særlig rundt høytider og i [kirken](/drommer/kirke). Denne troen er ikke unik for Norden — den finnes i nesten alle kulturer og til alle tider.
+I norsk og nordisk tradisjon har det lenge vært en sterk forestilling om at de avdøde kan besøke oss i drømmene, særlig rundt høytider og i [kirken](/drommer/kirke/). Denne troen er ikke unik for Norden — den finnes i nesten alle kulturer og til alle tider.
 
 ## Drømmeguiden anbefaler
 

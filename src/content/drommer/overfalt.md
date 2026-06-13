@@ -39,7 +39,7 @@ Spørsmålet er: hva vil du beskytte — og hva beskytter deg?
 
 Hvis du har opplevd krenkelser, trakassering, vold eller traumer — enten nylig eller i fortiden — kan drømmens overfall være direkte bearbeiding av disse erfaringene. Drømmene er en del av traumets naturlige bearbeidingsprosess.
 
-For dem med PTSD er overfall-drømmer spesielt vanlige og kan kreve profesjonell støtte. Se guiden om [PTSD og drømmer](/sovn/ptsd-drommer).
+For dem med PTSD er overfall-drømmer spesielt vanlige og kan kreve profesjonell støtte. Se guiden om [PTSD og drømmer](/sovn/ptsd-drommer/).
 
 ### Den indre angriperen
 

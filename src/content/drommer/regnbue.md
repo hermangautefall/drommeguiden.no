@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om regnbue?
 
-Regnbuen er ett av naturens mest slående og sjeldne fenomener — og den opptrer alltid i overgangen mellom [regn](/drommer/regn) og [sol](/drommer/sol), mellom storm og klarsyn. Det er ikke tilfeldig at den i nesten alle kulturer er et symbol på håp, forsoning og en bro mellom verdener.
+Regnbuen er ett av naturens mest slående og sjeldne fenomener — og den opptrer alltid i overgangen mellom [regn](/drommer/regn/) og [sol](/drommer/sol/), mellom storm og klarsyn. Det er ikke tilfeldig at den i nesten alle kulturer er et symbol på håp, forsoning og en bro mellom verdener.
 
 Å drømme om regnbue er sjelden negativt. Det er en av drømmenes lysere og mer løftende symboler.
 
@@ -59,7 +59,7 @@ Regnbuen representerer i drømmepsykologi integrasjon av motsetninger — alle f
 
 ## Kulturell og symbolsk betydning
 
-Bifrost — regnbuebroen i norrøn mytologi — er vakker men farlig: bare gudene og de verdige kan krysse den under den store [himmelen](/drommer/himmel), og ved Ragnarok brytes den av jotunenes tyngde. I kristen tradisjon er regnbuen Guds pakt med Noah etter syndfloden — et løfte om at ødeleggelsen ikke skal gjenta seg. Uavhengig av tradisjon bærer regnbuen på det samme kjernebudskapet: det er OK. Det blir bedre.
+Bifrost — regnbuebroen i norrøn mytologi — er vakker men farlig: bare gudene og de verdige kan krysse den under den store [himmelen](/drommer/himmel/), og ved Ragnarok brytes den av jotunenes tyngde. I kristen tradisjon er regnbuen Guds pakt med Noah etter syndfloden — et løfte om at ødeleggelsen ikke skal gjenta seg. Uavhengig av tradisjon bærer regnbuen på det samme kjernebudskapet: det er OK. Det blir bedre.
 
 ## Hva bør du gjøre etter en drøm om regnbue?
 

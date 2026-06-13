@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om buss?
 
-Der [bilen](/drommer/bil) er det individuelle valget — du styrer, du bestemmer ruten — er bussen det kollektive transportmiddelet. Du er passasjer, du følger en rute andre har bestemt, og du deler reisen med fremmede. I drømmeverdenen er denne forskjellen ladet med mening: bussen er bildet på alle de gangene du beveger deg fremover innenfor noe noen andre har designet.
+Der [bilen](/drommer/bil/) er det individuelle valget — du styrer, du bestemmer ruten — er bussen det kollektive transportmiddelet. Du er passasjer, du følger en rute andre har bestemt, og du deler reisen med fremmede. I drømmeverdenen er denne forskjellen ladet med mening: bussen er bildet på alle de gangene du beveger deg fremover innenfor noe noen andre har designet.
 
 Drømmer om buss dukker gjerne opp i perioder med spørsmål om autonomi, tilhørighet, eller om hvor mye av livet ditt som faktisk er ditt eget valg.
 
@@ -30,7 +30,7 @@ Den vanligste tolkningen handler om å følge en struktur eller retning du ikke 
 
 ### Å miste bussen — angst for å gå glipp
 
-En av de klassiske "angstdrømmene", i samme familie som eksamendrømmen, er å miste bussen: du er for sen, du ser den kjøre fra deg, du rekker ikke frem. Disse drømmene speiler gjerne en frykt for å gå glipp av noe viktig — en mulighet, en fase, et [tog](/drommer/tog) som har gått. Hjernen iscenesetter "den tapte sjansen" som en konkret scene.
+En av de klassiske "angstdrømmene", i samme familie som eksamendrømmen, er å miste bussen: du er for sen, du ser den kjøre fra deg, du rekker ikke frem. Disse drømmene speiler gjerne en frykt for å gå glipp av noe viktig — en mulighet, en fase, et [tog](/drommer/tog/) som har gått. Hjernen iscenesetter "den tapte sjansen" som en konkret scene.
 
 ### Fellesskap og samreise
 
@@ -53,7 +53,7 @@ En frykt for å gå glipp av noe. Hva er det du er redd for å ikke rekke?
 Du er med på noe som ikke fører dit du vil.
 
 **Hvis du var sjåfør:**
-Du har kontroll over den kollektive retningen — et lederansvar. Se også drømmer om [vei](/drommer/vei).
+Du har kontroll over den kollektive retningen — et lederansvar. Se også drømmer om [vei](/drommer/vei/).
 
 **Hvis bussen var full:**
 Mange krav og mennesker presser på — du er ikke alene om oppmerksomheten.
@@ -65,7 +65,7 @@ En privat reise langs en kollektiv rute — noe du gjør på egenhånd innenfor 
 Stagnasjon i en kollektiv prosess — noe som burde bevege seg står fast.
 
 **Hvis bussen krasjet:**
-Se [ulykke](/drommer/ulykke) — den kollektive retningen møter en plutselig grense.
+Se [ulykke](/drommer/ulykke/) — den kollektive retningen møter en plutselig grense.
 
 **Hvis du ikke fant veien til riktig holdeplass:**
 Forvirring om hvor du skal i livet, eller hvilken vei som er din.

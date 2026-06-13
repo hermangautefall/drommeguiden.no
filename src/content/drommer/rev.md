@@ -37,7 +37,7 @@ Reven er i mange tradisjoner også symbolet på den som lurte — en som fremst�
 
 ### Tilpasningsevne og overlevelse
 
-Reven overlever i nesten alle miljøer — fra dype [skoger](/drommer/skog) til bykjerner. I drømmer kan den symbolisere din egen evne til å tilpasse deg endringer og komme deg gjennom vanskelige perioder. Drømmen kan si: du er mer robust og ressurssterk enn du tror.
+Reven overlever i nesten alle miljøer — fra dype [skoger](/drommer/skog/) til bykjerner. I drømmer kan den symbolisere din egen evne til å tilpasse deg endringer og komme deg gjennom vanskelige perioder. Drømmen kan si: du er mer robust og ressurssterk enn du tror.
 
 
 ## Hva påvirker tolkningen?
@@ -45,7 +45,7 @@ Reven overlever i nesten alle miljøer — fra dype [skoger](/drommer/skog) til 
 **Hvis reven er vennlig:**
 Tolkes gjerne som at din egen kløkt og intuisjon er en ressurs akkurat nå. Stol på instinktene dine.
 
-**Hvis reven følger deg eller jager deg (se også [ulv](/drommer/ulv) for lignende jaktmotiv):**
+**Hvis reven følger deg eller jager deg (se også [ulv](/drommer/ulv/) for lignende jaktmotiv):**
 Kan bety at noe du prøver å unngå innhenter deg — eller at en smart person i livet ditt har øye på deg.
 
 **Hvis reven stjeler noe:**
@@ -59,7 +59,7 @@ Sterk, positiv energi. Livsglede og vitalitet som ønsker å komme til uttrykk.
 
 I japansk mytologi er kitsune — den magiske reven — en av de mest komplekse skapningene: en budbringer, en forfører, en beskytter og en listig spøkefugl på én gang. Dette spennet gjenspeiler noe grunnleggende ved revesymbolikken: den befinner seg alltid i grenselandet mellom det trygge og det usikre.
 
-Jung ville trolig sett reven som en manifestasjon av Trickster-arketypen — en figur som forstyrrer det etablerte, tvinger frem ny tenkning og ikke lar seg binde av regler. Drømmen kan invitere deg til å tenke utenfor de vanlige rammene. Utforsk flere [dyresymboler i drømmer](/kategori/dyr).
+Jung ville trolig sett reven som en manifestasjon av Trickster-arketypen — en figur som forstyrrer det etablerte, tvinger frem ny tenkning og ikke lar seg binde av regler. Drømmen kan invitere deg til å tenke utenfor de vanlige rammene. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).
 
 
 ## Drømmeguiden anbefaler
@@ -68,4 +68,4 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om rev **flere ganger**? Les vår guide om [gjentakende drømmer](/guider/gjentakende-drommer).
+- Har du drømt om rev **flere ganger**? Les vår guide om [gjentakende drømmer](/guider/gjentakende-drommer/).

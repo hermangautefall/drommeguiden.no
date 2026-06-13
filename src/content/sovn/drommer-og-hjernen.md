@@ -46,7 +46,7 @@ Under REM-søvn sender hjernestammen aktive signaler som lammet de fleste frivil
 
 Uten REM-atoni ville du fysisk slåss, løpe og snakke i søvne på en måte som ville vært farlig. Det finnes en søvnlidelse kalt REM-søvnatferdsforstyrrelser (RBD) der denne lammelsen svikter — og berørte agerer faktisk ut drømmene, med potensielt skadelige konsekvenser.
 
-Paradokset er at REM-atonien tidvis vedvarer noen sekunder inn i oppvåkningstilstanden — det er mekanismen bak [søvnparalyse](/guider/sovnparalyse).
+Paradokset er at REM-atonien tidvis vedvarer noen sekunder inn i oppvåkningstilstanden — det er mekanismen bak [søvnparalyse](/guider/sovnparalyse/).
 
 ## Nevrokjemien under drøm
 
@@ -82,7 +82,7 @@ Den høyaktiverte amygdala forklarer drømmenes emosjonelle kraft — og underst
 
 Hippocampus-aktiviteten under REM understreker at drømmene er tett koblet til minnearbeid — og at symbolene som dukker opp gjerne er knyttet til aktuelle livserfaringer.
 
-Les mer om hva forskning og psykologi sier om drømmenes mening i guiden [Hva er drømmer?](/guider/hva-er-drommer)
+Les mer om hva forskning og psykologi sier om drømmenes mening i guiden [Hva er drømmer?](/guider/hva-er-drommer/)
 
 ## Oppsummering
 
@@ -94,7 +94,7 @@ Drømmenes nevrologiske basis er godt kartlagt og dypt fascinerende:
 - Noradrenalin er nær null under REM — et trygt kjemisk miljø for emosjonell bearbeiding
 - Lucide drømmere aktiverer prefrontal cortex under REM — et nevrologisk unikt fenomen
 
-Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Lucid dreaming](/guider/lucid-dromming) — [Søvnparalyse](/guider/sovnparalyse)
+Les videre: [Søvnfaser forklart](/sovn/sovnfaser/) — [Lucid dreaming](/guider/lucid-dromming/) — [Søvnparalyse](/guider/sovnparalyse/)
 
 ## Kilder
 

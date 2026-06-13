@@ -32,7 +32,7 @@ Det hvite snødekket er underbevissthetens bilde på muligheten til å begynne p
 
 ### Stillhet og nødvendig hvile
 
-Snø demper all lyd — og i drømmene representerer den en stillhet som sjelden er tilgjengelig i hverdagen. Å drømme om snø kan være et signal fra underbevistheten om at du trenger ro, stille, pause fra støy og krav. En påminnelse om at hvile ikke er latskap, men en naturlig del av livets rytme — slik vinteren er en naturlig del av årets. Utforsk flere [natursymboler](/kategori/natur) i drømmene dine.
+Snø demper all lyd — og i drømmene representerer den en stillhet som sjelden er tilgjengelig i hverdagen. Å drømme om snø kan være et signal fra underbevistheten om at du trenger ro, stille, pause fra støy og krav. En påminnelse om at hvile ikke er latskap, men en naturlig del av livets rytme — slik vinteren er en naturlig del av årets. Utforsk flere [natursymboler](/kategori/natur/) i drømmene dine.
 
 I norsk tradisjon er vinterdvalen ikke bare naturens, men også menneskets rett til å trekke seg tilbake og hente krefter til det som kommer.
 
@@ -40,7 +40,7 @@ I norsk tradisjon er vinterdvalen ikke bare naturens, men også menneskets rett 
 
 Snø og kulde kan også representere noe som har stivnet — følelser som er frosset til, en relasjon som er blitt kald, en situasjon som har låst seg fast. Der den varme sommeren i drømmene representerer levende, flytende følelser, kan vinterlandskapet representere noe som ikke lenger beveger seg.
 
-Drømmen kan spørre: er det noe i livet ditt som trenger å tines opp? En samtale som ikke har funnet sted, en følelse du har holdt på avstand, et forhold som har kjølnet? Det er en kontrast til drømmer om [flom](/drommer/flom), der følelsene flommer over i stedet for å fryse til.
+Drømmen kan spørre: er det noe i livet ditt som trenger å tines opp? En samtale som ikke har funnet sted, en følelse du har holdt på avstand, et forhold som har kjølnet? Det er en kontrast til drømmer om [flom](/drommer/flom/), der følelsene flommer over i stedet for å fryse til.
 
 ### Isolasjon og ensomhet
 
@@ -55,7 +55,7 @@ Renselse, nytt begynnelse og ro. En av de mer positive natursymbolene i drømmev
 En invitasjon til stillhet og fordypning — noe i deg trenger å sette seg.
 
 **Hvis snøen var skitten eller smeltet:**
-Noe som skulle ha vært rent og friskt er blitt skittent eller er i ferd med å forsvinne. En illusjon om renhet. Se også drømmer om [regn](/drommer/regn) for mer om vannets rensende symbolikk.
+Noe som skulle ha vært rent og friskt er blitt skittent eller er i ferd med å forsvinne. En illusjon om renhet. Se også drømmer om [regn](/drommer/regn/) for mer om vannets rensende symbolikk.
 
 **Hvis du var innesnødd:**
 Isolasjon og begrensning — en følelse av å ikke komme seg videre, av at noe stopper deg utenfra.
@@ -64,7 +64,7 @@ Isolasjon og begrensning — en følelse av å ikke komme seg videre, av at noe 
 Glede, barnlighet og det å finne fryd i det enkle. En påminnelse om lekenhet og letthet.
 
 **Hvis snøen var overveldende — storm eller skred:**
-Noe hvitt og rent kan også bli farlig i for store mengder. En situasjon som har eskalert utover det håndterbare — ikke ulikt drømmer om [storm](/drommer/storm).
+Noe hvitt og rent kan også bli farlig i for store mengder. En situasjon som har eskalert utover det håndterbare — ikke ulikt drømmer om [storm](/drommer/storm/).
 
 ## Psykologiske og kulturelle perspektiver
 

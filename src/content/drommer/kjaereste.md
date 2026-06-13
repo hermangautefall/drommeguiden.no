@@ -36,7 +36,7 @@ Drømmer om kjæresten kan fungere som et ærlig speil av hvordan du egentlig op
 
 ### Frykt for svik eller tap
 
-En av de vanligste og mest ubehagelige variantene er at kjæresten bedrager deg i drømmen. Dette er sjelden et varsel om at det faktisk skjer — det speiler mye oftere en egen usikkerhet, en gammel sårhet fra tidligere relasjoner — kanskje knyttet til [eksen](/drommer/eksen) — eller en periode med distanse og uklarhet mellom dere.
+En av de vanligste og mest ubehagelige variantene er at kjæresten bedrager deg i drømmen. Dette er sjelden et varsel om at det faktisk skjer — det speiler mye oftere en egen usikkerhet, en gammel sårhet fra tidligere relasjoner — kanskje knyttet til [eksen](/drommer/eksen/) — eller en periode med distanse og uklarhet mellom dere.
 
 ## Hva påvirker tolkningen?
 
@@ -44,7 +44,7 @@ En av de vanligste og mest ubehagelige variantene er at kjæresten bedrager deg 
 Trygghet og kjærlighet er til stede. Drømmen bekrefter noe positivt i relasjonen.
 
 **Hvis kjæresten bedreg deg:**
-Trolig din egen usikkerhet eller en gammel frykt — ikke et tegn på faktisk [utroskap](/drommer/utroskap).
+Trolig din egen usikkerhet eller en gammel frykt — ikke et tegn på faktisk [utroskap](/drommer/utroskap/).
 
 **Hvis kjæresten var fremmed eller annerledes:**
 Kan speile at du ser nye sider av dem — eller at noe i forholdet har endret seg.
@@ -53,11 +53,11 @@ Kan speile at du ser nye sider av dem — eller at noe i forholdet har endret se
 En uløst spenning mellom dere, eller noe du ønsker å si men ikke har sagt.
 
 **Hvis kjæresten forlot deg:**
-Forlatenhetsfrykt — svært vanlig og ikke et varsel. Kan handle om selvbilde mer enn om forholdet. Les mer om [drømmer om en fremmed](/drommer/fremmed) hvis kjæresten føltes ukjent.
+Forlatenhetsfrykt — svært vanlig og ikke et varsel. Kan handle om selvbilde mer enn om forholdet. Les mer om [drømmer om en fremmed](/drommer/fremmed/) hvis kjæresten føltes ukjent.
 
 ## Psykologiske og kulturelle perspektiver
 
-I jungiansk psykologi kan kjæresten i drømmen representere din "anima" (hvis du er mann) eller "animus" (hvis du er kvinne) — den indre, komplementære siden av din psyke. Drømmene handler da ikke bare om personen, men om en kvalitet du projiserer på dem som egentlig finnes i deg selv. Mange opplever lignende temaer i drømmer om [bryllup](/drommer/bryllup).
+I jungiansk psykologi kan kjæresten i drømmen representere din "anima" (hvis du er mann) eller "animus" (hvis du er kvinne) — den indre, komplementære siden av din psyke. Drømmene handler da ikke bare om personen, men om en kvalitet du projiserer på dem som egentlig finnes i deg selv. Mange opplever lignende temaer i drømmer om [bryllup](/drommer/bryllup/).
 
 Forskning på drømmers funksjon viser at drømmer om romantiske partnere er blant de vanligste vi har, og at de ofte gjenspeiler emosjonell bearbeiding av relasjonen — særlig i perioder med stress, endring eller usikkerhet.
 

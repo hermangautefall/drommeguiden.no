@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om ild?
 
-Ild er ett av de fire klassiske elementene — og i drømmeverdenen er det kanskje det mest ambivalente. Det gir varme og [lys](/drommer/lys), det muliggjør mat og sivilisasjon, det renser og transformerer. Og det ødelegger. Ild er aldri nøytral. Den er alltid i bevegelse, alltid i ferd med å fortære noe.
+Ild er ett av de fire klassiske elementene — og i drømmeverdenen er det kanskje det mest ambivalente. Det gir varme og [lys](/drommer/lys/), det muliggjør mat og sivilisasjon, det renser og transformerer. Og det ødelegger. Ild er aldri nøytral. Den er alltid i bevegelse, alltid i ferd med å fortære noe.
 
 Å drømme om ild er å drømme om noe som er i full forandring. Det er sjelden et rolig symbol.
 
@@ -38,7 +38,7 @@ Men ilden er også vanskelig å kontrollere. Drømmens ild kan speile en kraft i
 
 ### Renselse og ny begynnelse
 
-Ild er — som [solen](/drommer/sol) — i mange religiøse tradisjoner renselsens symbol — den brenner bort det urene, det syke, det som ikke hører hjemme. Å drømme om ild kan speile en dyp trang til å rense noe: å kvitte seg med det som tynger, å starte med blanke ark, å brenne broer som lenge burde ha vært brent.
+Ild er — som [solen](/drommer/sol/) — i mange religiøse tradisjoner renselsens symbol — den brenner bort det urene, det syke, det som ikke hører hjemme. Å drømme om ild kan speile en dyp trang til å rense noe: å kvitte seg med det som tynger, å starte med blanke ark, å brenne broer som lenge burde ha vært brent.
 
 Asken etter ilden er ikke ingenting. Den er fruktbar jord.
 
@@ -58,7 +58,7 @@ Noe er i ferd med å bli for stort å håndtere. En kraft — emosjonell, kreati
 Ro, refleksjon og varmen fra noe stabilt. En bålplass i det indre.
 
 **Hvis huset ditt brant:**
-Se symbolsiden for [brann](/drommer/brann) — selvet er i transformasjon.
+Se symbolsiden for [brann](/drommer/brann/) — selvet er i transformasjon.
 
 **Hvis du satte fyr på noe med hensikt:**
 Du initierer en transformasjon bevisst. Noe avsluttes av egen vilje.
@@ -74,7 +74,7 @@ En kraft i deg som tiltrekker seg selv om den er intens. Noe er levende og ladet
 
 ## Psykologiske og kulturelle perspektiver
 
-Prometheus stjal ilden fra gudene og ga den til menneskene — og ble straffet for det i evighet. Ilden er menneskenes gave og menneskenes forbannelse: den som setter oss over dyrene og den som kan ødelegge oss. I norrøn kosmologi er Muspelheim — ildriket — ett av de to urspringene til eksistensen, i den evige spenning mot Niflheims [is](/drommer/is). Ild og is skapte verden.
+Prometheus stjal ilden fra gudene og ga den til menneskene — og ble straffet for det i evighet. Ilden er menneskenes gave og menneskenes forbannelse: den som setter oss over dyrene og den som kan ødelegge oss. I norrøn kosmologi er Muspelheim — ildriket — ett av de to urspringene til eksistensen, i den evige spenning mot Niflheims [is](/drommer/is/). Ild og is skapte verden.
 
 Carl Jung knyttet ilden til libido i vid forstand — livsenergi som søker uttrykk. Han analyserte mange pasienters ilddrømmer og fant at de nesten alltid sammenfalt med perioder med sterk indre bevegelse: transformasjoner, gjennombrudd, kriser som inneholdt frø til noe nytt. Ild i drømmene var sjelden et dårlig tegn — det var et tegn på at noe var levende.
 

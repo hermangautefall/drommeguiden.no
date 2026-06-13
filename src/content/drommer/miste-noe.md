@@ -21,7 +21,7 @@ relaterte_sovn:
 
 ## Hva betyr det å drømme om å miste noe?
 
-Å lete desperat etter [nøklene](/drommer/nokler), oppdage at vesken er borte, ikke finne [telefonen](/drommer/telefon) — disse drømmene er svært vanlige og gir en intens følelse av panikk og hjelpeløshet. Det du mister i drømmen er sjelden tilfeldig valgt, og det er sjelden det konkrete objektet drømmen handler om.
+Å lete desperat etter [nøklene](/drommer/nokler/), oppdage at vesken er borte, ikke finne [telefonen](/drommer/telefon/) — disse drømmene er svært vanlige og gir en intens følelse av panikk og hjelpeløshet. Det du mister i drømmen er sjelden tilfeldig valgt, og det er sjelden det konkrete objektet drømmen handler om.
 
 Det handler om hva objektet symboliserer.
 
@@ -33,7 +33,7 @@ Den vanligste tolkningen handler om en generell følelse av å miste grep om noe
 
 ### Frykt for tap av identitet eller sikkerhet
 
-Hva du mister i drømmen gir ledetråder. Nøkler symboliserer tilgang og kontroll — å miste dem kan handle om å føle seg stengt ute fra noe. Vesken inneholder identitet og ressurser — å miste den handler om sårbarhet og eksponering, ikke minst knyttet til [penger](/drommer/penger). Telefonen er tilknytning og kommunikasjon — å miste den handler om frykt for å miste kontakten med andre eller med verden.
+Hva du mister i drømmen gir ledetråder. Nøkler symboliserer tilgang og kontroll — å miste dem kan handle om å føle seg stengt ute fra noe. Vesken inneholder identitet og ressurser — å miste den handler om sårbarhet og eksponering, ikke minst knyttet til [penger](/drommer/penger/). Telefonen er tilknytning og kommunikasjon — å miste den handler om frykt for å miste kontakten med andre eller med verden.
 
 ### Noe verdifullt som er i fare
 
@@ -58,7 +58,7 @@ En mer vedvarende følelse av tap — noe som kanskje ikke kan gjenhentes slik d
 
 ## Psykologiske og kulturelle perspektiver
 
-Tapdrømmer er nært beslektet med separasjonsangst og drømmer om [å falle](/drommer/falle) — en grunnleggende menneskelig frykt som begynner tidlig i livet og ikke forsvinner med alderen. I drømmene tar den form som konkrete tap av objekter vi forbinder med trygghet og identitet.
+Tapdrømmer er nært beslektet med separasjonsangst og drømmer om [å falle](/drommer/falle/) — en grunnleggende menneskelig frykt som begynner tidlig i livet og ikke forsvinner med alderen. I drømmene tar den form som konkrete tap av objekter vi forbinder med trygghet og identitet.
 
 Jung ville sett slike drømmer som uttrykk for en psyke som bearbeider sårbarhet og endring. Det tapte objektet er et symbol på noe mer grunnleggende som føles truet.
 

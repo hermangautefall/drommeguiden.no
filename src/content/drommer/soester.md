@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om søsteren din?
 
-Søskenrelasjonen er noe av det mest komplekse vi bærer på — en blanding av [kjærlighet](/drommer/kjaereste), konkurranse, felles historie og gjensidig speiling som ingen annen relasjon helt kan kopiere. Å drømme om søsteren sin bringer alt dette til overflaten, og drømmene er sjelden nøytrale.
+Søskenrelasjonen er noe av det mest komplekse vi bærer på — en blanding av [kjærlighet](/drommer/kjaereste/), konkurranse, felles historie og gjensidig speiling som ingen annen relasjon helt kan kopiere. Å drømme om søsteren sin bringer alt dette til overflaten, og drømmene er sjelden nøytrale.
 
 De handler ofte vel så mye om deg selv som om henne.
 
@@ -32,11 +32,11 @@ Hva representerer søsteren i drømmen? Er hun mer fri, mer trygg, mer modig enn
 
 ### Noe uoppgjort mellom dere
 
-Søskenforhold bærer på mye — gammel rivalisering, ulik behandling fra [foreldre](/drommer/mor), store og små sår som aldri ble snakket om. Drømmer om søsteren kan komme frem når noe mellom dere ikke er ferdig bearbeidet. Ikke nødvendigvis en aktiv konflikt — men noe som ligger og ulmer.
+Søskenforhold bærer på mye — gammel rivalisering, ulik behandling fra [foreldre](/drommer/mor/), store og små sår som aldri ble snakket om. Drømmer om søsteren kan komme frem når noe mellom dere ikke er ferdig bearbeidet. Ikke nødvendigvis en aktiv konflikt — men noe som ligger og ulmer.
 
 ### Tilhørighet og felles røtter
 
-Søsteren er en av de få menneskene som kjenner deg fra [begynnelsen](/drommer/barn) — som deler din tidligste historie. Å drømme om henne kan handle om et behov for tilknytning til røttene dine, til der du kom fra, til det som var felles.
+Søsteren er en av de få menneskene som kjenner deg fra [begynnelsen](/drommer/barn/) — som deler din tidligste historie. Å drømme om henne kan handle om et behov for tilknytning til røttene dine, til der du kom fra, til det som var felles.
 
 ## Hva påvirker tolkningen?
 
@@ -59,7 +59,7 @@ Et trøstende besøk og en fortsettelse av relasjonen på et indre plan.
 
 Jung beskrev søskenrelasjonen som en av de tidligste og mest formative arenaene for å lære om det sosiale — om konkurranse, om å dele, om å finne sin plass i en gruppe. Søsteren i drømmene bærer dermed på noe av denne tidlige lærlingen.
 
-I nordisk tradisjon har søsterforholdet en sterk plass i sagaer og eventyr — fra de tre søstrene i eventyrene til [søskenpar](/drommer/bror) i norrøn mytologi. Drømmens søster er ladet med denne kulturelle arven.
+I nordisk tradisjon har søsterforholdet en sterk plass i sagaer og eventyr — fra de tre søstrene i eventyrene til [søskenpar](/drommer/bror/) i norrøn mytologi. Drømmens søster er ladet med denne kulturelle arven.
 
 ## Drømmeguiden anbefaler
 

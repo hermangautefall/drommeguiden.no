@@ -21,7 +21,7 @@ relaterte_sovn:
 
 ## Hva betyr det å drømme om penger?
 
-Penger er et av de mest ladede symbolene i det moderne livet — de representerer trygghet, frihet, makt, verdi og status på én gang. Å drømme om penger er svært vanlig, og drømmene kan variere enormt: du finner en haug med sedler, du [mister](/drommer/miste-noe) lommeboken, du er blakk, du er rik. Hva betyr det?
+Penger er et av de mest ladede symbolene i det moderne livet — de representerer trygghet, frihet, makt, verdi og status på én gang. Å drømme om penger er svært vanlig, og drømmene kan variere enormt: du finner en haug med sedler, du [mister](/drommer/miste-noe/) lommeboken, du er blakk, du er rik. Hva betyr det?
 
 Det overraskende er at pengedrømmene nesten aldri handler om faktiske penger. De handler om hva pengene representerer — og det er som regel noe mye mer personlig.
 
@@ -31,17 +31,17 @@ Det overraskende er at pengedrømmene nesten aldri handler om faktiske penger. D
 
 Penger er i vår kultur tett knyttet til verdi — ikke bare materialverdi, men egenverdi. Å drømme om penger kan speile spørsmål om selvbilde: føler du deg verdsatt? Opplever du at det du bidrar med teller? Er det et misforhold mellom hva du gir og hva du får tilbake — i jobb, i relasjon, i livet generelt?
 
-Å finne penger i drøm tolkes gjerne som økt selvtillit og anerkjennelse av egen verdi. Å miste dem kan speile det motsatte — en tematikk du også finner i drømmer om [ringer](/drommer/ring), der verdi og forpliktelse utforskes.
+Å finne penger i drøm tolkes gjerne som økt selvtillit og anerkjennelse av egen verdi. Å miste dem kan speile det motsatte — en tematikk du også finner i drømmer om [ringer](/drommer/ring/), der verdi og forpliktelse utforskes.
 
 ### Knapphet og overflod — hva opplever du å mangle?
 
 Penger i drømmene kan representere ressurser i vid forstand: tid, energi, kjærlighet, oppmerksomhet, muligheter. Å drømme om å være fattig trenger ikke å handle om økonomi — det kan handle om en følelse av knapphet på noe annet. Å drømme om rikdom kan representere en overflod av noe du opplever som verdifullt akkurat nå.
 
-Spørsmålet er: hva er det du egentlig opplever å ha for lite av? Drømmer om [mat](/drommer/mat) og [nøkler](/drommer/nokler) berører ofte lignende temaer om knapphet og tilgang.
+Spørsmålet er: hva er det du egentlig opplever å ha for lite av? Drømmer om [mat](/drommer/mat/) og [nøkler](/drommer/nokler/) berører ofte lignende temaer om knapphet og tilgang.
 
 ### Makt, kontroll og avhengighet
 
-Penger gir makt — og i drømmene speiler de maktforhold. Hvem har pengene i drømmen, og hvem mangler dem? Å drømme om å skylde noen penger kan handle om en følelse av avhengighet eller forpliktelse. Å drømme om å gi bort penger kan handle om en grenseproblematikk — en som gir mer enn de burde. Slike drømmer deler ofte tematikk med drømmer om [eksamen](/drommer/eksamen), der prestasjon og forventninger veies.
+Penger gir makt — og i drømmene speiler de maktforhold. Hvem har pengene i drømmen, og hvem mangler dem? Å drømme om å skylde noen penger kan handle om en følelse av avhengighet eller forpliktelse. Å drømme om å gi bort penger kan handle om en grenseproblematikk — en som gir mer enn de burde. Slike drømmer deler ofte tematikk med drømmer om [eksamen](/drommer/eksamen/), der prestasjon og forventninger veies.
 
 ### Frihet og valgmuligheter
 

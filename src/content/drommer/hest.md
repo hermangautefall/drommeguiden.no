@@ -45,7 +45,7 @@ Det er også vanlig å drømme om en skadet eller syk hest, noe som ofte tolkes 
 
 En av de mest interessante tolkningene av hestedrømmer handler om forholdet mellom rytter og hest — altså mellom din bevisste vilje og dine dypere instinkter. Ri du hesten trygt og behagelig, kan det tyde på at du har en god balanse mellom kontroll og spontanitet i livet ditt.
 
-Men drømmer du at hesten er vill og ikke lar seg kontrollere, kan det speile en følelse av at livet løper fra deg, eller at følelsene dine er i ferd med å ta overhånd. Denne drømmen dukker ofte opp i perioder med store endringer — som et [bryllup](/drommer/bryllup), et samlivsbrudd, eller andre hendelser der man føler at man mister fotfestet.
+Men drømmer du at hesten er vill og ikke lar seg kontrollere, kan det speile en følelse av at livet løper fra deg, eller at følelsene dine er i ferd med å ta overhånd. Denne drømmen dukker ofte opp i perioder med store endringer — som et [bryllup](/drommer/bryllup/), et samlivsbrudd, eller andre hendelser der man føler at man mister fotfestet.
 
 Det er også verdt å merke seg om du selv sitter på hesten eller ser den på avstand. Å se en hest uten å ri den kan bety at du observerer din egen kraft og potensiale uten å ta den i bruk.
 
@@ -56,10 +56,10 @@ Det er også verdt å merke seg om du selv sitter på hesten eller ser den på a
 Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike tolkninger:
 
 **Hvis hesten galopperer fritt i naturen:**
-Kan peke mot en frihetstrang i deg, eller en lengsel etter å leve mer autentisk og uhemmet. Se også [fjell](/drommer/fjell) og [skog](/drommer/skog) som drømmesymboler.
+Kan peke mot en frihetstrang i deg, eller en lengsel etter å leve mer autentisk og uhemmet. Se også [fjell](/drommer/fjell/) og [skog](/drommer/skog/) som drømmesymboler.
 
 **Hvis du faller av hesten:**
-Tolkes ofte som et tegn på at du føler deg ute av kontroll, eller at du har tatt på deg mer enn du klarer. Minner om temaet i drømmer om å [falle](/drommer/falle).
+Tolkes ofte som et tegn på at du føler deg ute av kontroll, eller at du har tatt på deg mer enn du klarer. Minner om temaet i drømmer om å [falle](/drommer/falle/).
 
 **Hvis hesten er skadet eller dør:**
 Kan speile sorg, tap av energi, eller en frykt for at noe verdifullt i livet ditt er i ferd med å forsvinne.
@@ -73,7 +73,7 @@ Et positivt tegn som ofte peker mot at du tar vare på din egen indre kraft og h
 
 Carl Jung så hesten som et symbol på den dyriske og instinktive delen av psyken — det som eksisterer under bevissthetens overflate og driver oss fremover med energi vi ikke alltid forstår. I jungiansk tradisjon representerer hesten ofte libido i bred forstand: ikke bare seksuell energi, men livskraft generelt.
 
-I norrøn mytologi har hesten en helt spesiell plass. Sleipner, Odins åttefotede hest, kunne bevege seg mellom verdener — og hester i drømmer ble i norrøn folketro ofte tolket som budbringere mellom det synlige og det usynlige. En [ulv](/drommer/ulv) og en hest i samme drøm ville blitt sett som et særlig kraftfullt tegn.
+I norrøn mytologi har hesten en helt spesiell plass. Sleipner, Odins åttefotede hest, kunne bevege seg mellom verdener — og hester i drømmer ble i norrøn folketro ofte tolket som budbringere mellom det synlige og det usynlige. En [ulv](/drommer/ulv/) og en hest i samme drøm ville blitt sett som et særlig kraftfullt tegn.
 
 I norsk bondetradisjon var hesten uunnværlig, og drømmer om hester ble knyttet til praktiske ting som arbeid, reiser og velstand. En frisk, sterk hest i drømmen var et godt tegn — mens en halt hest varslet motgang. Denne jordnære tilnærmingen til drømmetolkning har fulgt skandinavisk kultur i generasjoner, og minner oss om at drømmenes symboler alltid er farget av den kulturen vi lever i.
 

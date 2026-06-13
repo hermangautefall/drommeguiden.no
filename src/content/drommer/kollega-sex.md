@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om sex med en kollega?
 
-Det er en av drømmene folk er mest flaue over å fortelle om — og en av de aller vanligste seksuelle drømmene. Du drømmer om sex med en kollega, kanskje til og med [sjefen](/drommer/sjef), og våkner med en ubehagelig blanding av forvirring og skam.
+Det er en av drømmene folk er mest flaue over å fortelle om — og en av de aller vanligste seksuelle drømmene. Du drømmer om sex med en kollega, kanskje til og med [sjefen](/drommer/sjef/), og våkner med en ubehagelig blanding av forvirring og skam.
 
 Ta pusten. Det betyr ikke at du er tiltrukket av dem. Det betyr ikke at du vil ha et forhold. Det betyr nesten alltid noe helt annet.
 

@@ -26,7 +26,7 @@ Hva slags musikk du hørte eller spilte, og hvilken følelse den vekket, er nøk
 
 ### Kreativitet og uttrykk som søker plass
 
-Den vanligste tolkningen handler om en kreativ side av deg selv som ønsker mer rom. Musikk er skaperkraft i sin reneste form — og å drømme om den kan bety at du har noe inne i deg som vil ut, noe du ikke har fått uttrykt, noe kreativt som har ligget ubrukt for lenge. Drømmer om [flyging](/drommer/flyging) bærer på en lignende følelse av frihet og utfoldelse.
+Den vanligste tolkningen handler om en kreativ side av deg selv som ønsker mer rom. Musikk er skaperkraft i sin reneste form — og å drømme om den kan bety at du har noe inne i deg som vil ut, noe du ikke har fått uttrykt, noe kreativt som har ligget ubrukt for lenge. Drømmer om [flyging](/drommer/flyging/) bærer på en lignende følelse av frihet og utfoldelse.
 
 Drømmen er en invitasjon: hva ville du skapt hvis du tillot deg selv?
 
@@ -36,7 +36,7 @@ Musikk har harmoni og disharmoni — og i drømmene speiler dette gjerne tilstan
 
 ### Sjelen kommuniserer direkte
 
-Noen ganger er musikken i drømmene ikke et symbol på noe annet — den er en direkte opplevelse. En melodi du aldri har hørt, men som er uendelig vakker. En sang som treffer deg i hjertet. Disse drømmene beskrives av mange som noen av de mest intense og minnerike de har hatt — og de trenger ikke tolkes bort. De kan bare oppleves og huses på. En [drømmejournal](/guider/drommejournalen) kan hjelpe deg å bevare slike opplevelser.
+Noen ganger er musikken i drømmene ikke et symbol på noe annet — den er en direkte opplevelse. En melodi du aldri har hørt, men som er uendelig vakker. En sang som treffer deg i hjertet. Disse drømmene beskrives av mange som noen av de mest intense og minnerike de har hatt — og de trenger ikke tolkes bort. De kan bare oppleves og huses på. En [drømmejournal](/guider/drommejournalen/) kan hjelpe deg å bevare slike opplevelser.
 
 ## Hva påvirker tolkningen?
 
@@ -47,13 +47,13 @@ Indre ro, kreativ flyt og noe som er i god balanse akkurat nå.
 Et aktivt kreativt uttrykk — du er ikke bare mottaker, du skaper noe.
 
 **Hvis musikken var skremmende eller dissonant:**
-Konflikt, ubalanse eller noe som ikke stemmer i livet ditt. Se også drømmer om [stormer](/drommer/storm) for mer om indre kaos.
+Konflikt, ubalanse eller noe som ikke stemmer i livet ditt. Se også drømmer om [stormer](/drommer/storm/) for mer om indre kaos.
 
 **Hvis du hørte en sang du kjente:**
 Sangens tekst og tone kan gi direkte ledetråder — hva handler den om?
 
 **Hvis du ikke klarte å spille eller synge:**
-Noe blokkerer det kreative uttrykket ditt — en hemning, en frykt, en situasjon som ikke gir rom. Temaet ligner det man kan oppleve i drømmer om [eksamen](/drommer/eksamen) — en prestasjon som blokkeres.
+Noe blokkerer det kreative uttrykket ditt — en hemning, en frykt, en situasjon som ikke gir rom. Temaet ligner det man kan oppleve i drømmer om [eksamen](/drommer/eksamen/) — en prestasjon som blokkeres.
 
 ## Psykologiske og kulturelle perspektiver
 

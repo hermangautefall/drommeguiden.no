@@ -24,7 +24,7 @@ Gull er ikke bare et edelt metall — det er ett av menneskekulturens sterkeste 
 
 ### Ekte verdi og det som virkelig betyr noe
 
-Den viktigste tolkningen handler om verdi — ikke nødvendigvis [penger](/drommer/penger), men det som er genuint verdifullt i livet ditt. En relasjon, en evne, en egenskap, en periode. Drømmens gull er et signal: noe er virkelig verdifullt her. Pass på det. Anerkjenn det.
+Den viktigste tolkningen handler om verdi — ikke nødvendigvis [penger](/drommer/penger/), men det som er genuint verdifullt i livet ditt. En relasjon, en evne, en egenskap, en periode. Drømmens gull er et signal: noe er virkelig verdifullt her. Pass på det. Anerkjenn det.
 
 ### Din høyeste ambisjon og det du streber mot
 
@@ -57,9 +57,9 @@ Overflod og anerkjennelse av det rike livet du lever eller har levd.
 
 ## Psykologiske og kulturelle perspektiver
 
-Gull er i norrøn tradisjon knyttet til gudene og til den høyeste verdien — Odin og gudene bor i Gladsheim, hallen med gulltak. Det norrøne begrepet "gullalder" er tidenes beste tid. Men gullet er også farlig: det er Fáfnirs gull som korrumperer, [ringens](/drommer/ring) gull i Niebelungen som ødelegger alt det berører. Gullet er det beste og det mest forførende på én gang.
+Gull er i norrøn tradisjon knyttet til gudene og til den høyeste verdien — Odin og gudene bor i Gladsheim, hallen med gulltak. Det norrøne begrepet "gullalder" er tidenes beste tid. Men gullet er også farlig: det er Fáfnirs gull som korrumperer, [ringens](/drommer/ring/) gull i Niebelungen som ødelegger alt det berører. Gullet er det beste og det mest forførende på én gang.
 
-Jung analyserte drømmens gull som et av de tydeligste symbolene på Selvet — det som er ekte og varig i psyken, det som ikke kan falme — som [lyset](/drommer/lys) som aldri slukner. "Arbeidet med sjelen" kalte han alchemistenes gullfremstilling — en transformasjonsprosess der base metaller (uintegrerte deler av psyken) gjøres til gull (integrert helhet).
+Jung analyserte drømmens gull som et av de tydeligste symbolene på Selvet — det som er ekte og varig i psyken, det som ikke kan falme — som [lyset](/drommer/lys/) som aldri slukner. "Arbeidet med sjelen" kalte han alchemistenes gullfremstilling — en transformasjonsprosess der base metaller (uintegrerte deler av psyken) gjøres til gull (integrert helhet).
 
 ## Drømmeguiden anbefaler
 

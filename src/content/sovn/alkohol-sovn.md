@@ -81,7 +81,7 @@ Alkohol er ikke et sovemiddel — det er en søvntyv:
 - Alkohol som fast sovemiddel kan raskt utvikle seg til et avhengighetsmønster
 - Kutting av alkohol de siste 3–6 timene før søvn gir merkbar bedring
 
-Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Søvnfaser forklart](/sovn/sovnfaser) — [Søvnproblemer og insomni](/sovn/sovnproblemer)
+Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Søvnfaser forklart](/sovn/sovnfaser/) — [Søvnproblemer og insomni](/sovn/sovnproblemer/)
 
 ## Kilder
 

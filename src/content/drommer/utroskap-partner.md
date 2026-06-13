@@ -24,7 +24,7 @@ relaterte_sovn:
 
 Du våkner sint eller såret. Kanskje er du så overbevist om at det var ekte at du faktisk er kjølig mot partneren gjennom hele morgenen. Det er ubehagelig, forvirrende — og svært vanlig.
 
-Drømmer om partnerens [utroskap](/drommer/utroskap) er blant de mest hyppig rapporterte i parforhold. Og de sier nesten aldri noe om hva partneren faktisk gjør. De sier noe om deg.
+Drømmer om partnerens [utroskap](/drommer/utroskap/) er blant de mest hyppig rapporterte i parforhold. Og de sier nesten aldri noe om hva partneren faktisk gjør. De sier noe om deg.
 
 ## De vanligste tolkningene
 
@@ -81,5 +81,5 @@ En norsk folkelig visdom er relevant her: det man frykter mest, det drømmer man
 - Hva skjer i **livet ditt** akkurat nå — er det noe som gjør deg utrygg på deg selv?
 - Har du drømt om **partnerens utroskap** **flere ganger**?
 
-> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

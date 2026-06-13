@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om bie?
 
-Der [vepsen](/drommer/veps) stikker og tar, gir bien — honning, pollinering, liv. Bien er ett av naturens mest positive symboler på produktivt arbeid og fellesskap. I drømmeverdenen bærer den gjerne på en positiv valens: noe er i ferd med å bli skapt gjennom tålmodig, kollektiv innsats.
+Der [vepsen](/drommer/veps/) stikker og tar, gir bien — honning, pollinering, liv. Bien er ett av naturens mest positive symboler på produktivt arbeid og fellesskap. I drømmeverdenen bærer den gjerne på en positiv valens: noe er i ferd med å bli skapt gjennom tålmodig, kollektiv innsats.
 
 Samtidig er bien et symbol med flere lag. Den kan også stikke — men bare når den eller dens samfunn er truet, og stikket koster den livet. Drømmens bie bærer derfor på en spesiell etisk vekt: den arbeider, den skaper, og den forsvarer det den bygger.
 
@@ -34,7 +34,7 @@ Bien lever ikke alene — den er del av et samfunn med klar rollefordeling, fell
 
 ### Søthet og belønning
 
-Honningen er metaforen — noe søtt og verdifullt produseres av hardt arbeid. Bier er tett knyttet til [blomster](/drommer/blomst) og [hagen](/drommer/hage) som drømmesymboler. Drømmens bie kan representere at en belønning er på vei, at noe du har jobbet mot er i ferd med å gi frukt.
+Honningen er metaforen — noe søtt og verdifullt produseres av hardt arbeid. Bier er tett knyttet til [blomster](/drommer/blomst/) og [hagen](/drommer/hage/) som drømmesymboler. Drømmens bie kan representere at en belønning er på vei, at noe du har jobbet mot er i ferd med å gi frukt.
 
 ### Beskjed fra det åndelige eller fra de døde
 

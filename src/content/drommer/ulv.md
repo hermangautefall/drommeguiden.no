@@ -34,7 +34,7 @@ Ulven er et av de mest instinktdrevne dyrene vi kjenner. I drømmer representere
 
 Kanskje har du levd for mye i hodet i det siste — analysert, planlagt og kontrollert — og neglisjert kroppen, følelsene eller intuisjonen din. Ulven dukker da opp som en påminnelse om å lytte til den delen av deg som vet ting uten å kunne forklare hvorfor.
 
-Denne tolkningen er spesielt relevant dersom ulven i drømmen er rolig og observerende. En ulv som ser på deg fra avstand kan representere din egen indre visdom — tålmodig, oppmerksom, og klar til å handle når tiden er inne. Det er en annen energi enn den du finner i drømmer om [slange](/drommer/slange), men begge handler om krefter under overflaten.
+Denne tolkningen er spesielt relevant dersom ulven i drømmen er rolig og observerende. En ulv som ser på deg fra avstand kan representere din egen indre visdom — tålmodig, oppmerksom, og klar til å handle når tiden er inne. Det er en annen energi enn den du finner i drømmer om [slange](/drommer/slange/), men begge handler om krefter under overflaten.
 
 ### Lojalitet, flokk og tilhørighet
 
@@ -42,7 +42,7 @@ Ulver er flokkdyr. De er kjent for sterke sosiale bånd, og i drømmeverdenen ka
 
 Føler du deg som en del av flokken, eller befinner du deg på utsiden? Drømmer der du jager sammen med ulver kan peke mot en følelse av tilhørighet og felles styrke. Drømmer der du er atskilt fra flokken, eller der flokken jager deg, kan derimot speile ensomhet, utenforskap, eller en konflikt med mennesker som står deg nær.
 
-Ulvens forbindelse til [hunden](/drommer/hund) er interessant i denne sammenhengen. Hunden i drømmer representerer gjerne det tamme, det lojale, det pålitelige — mens ulven bærer med seg den samme lojaliteten, men i en villere, mer uforutsigbar form.
+Ulvens forbindelse til [hunden](/drommer/hund/) er interessant i denne sammenhengen. Hunden i drømmer representerer gjerne det tamme, det lojale, det pålitelige — mens ulven bærer med seg den samme lojaliteten, men i en villere, mer uforutsigbar form.
 
 ### Trussel og frykt
 
@@ -50,7 +50,7 @@ For mange er ulven først og fremst et farlig dyr, og drømmer der ulven opptrer
 
 En ulv som forfølger deg i en drøm kan peke mot noe du forsøker å flykte fra. Det kan være en vanskelig sannhet, en følelse du ikke vil vedkjenne, eller en situasjon som eskalerer uten at du griper inn. I slike drømmer er det verdt å spørre seg: hva er det ulven egentlig representerer? Svaret finnes sjelden i selve dyret, men i det dyret vekker i deg.
 
-Drømmer der ulven angriper kan ha fellestrekk med drømmer om å [falle](/drommer/falle) — begge handler om tap av kontroll og konfrontasjon med det som skremmer oss.
+Drømmer der ulven angriper kan ha fellestrekk med drømmer om å [falle](/drommer/falle/) — begge handler om tap av kontroll og konfrontasjon med det som skremmer oss.
 
 ---
 
@@ -64,7 +64,7 @@ Tolkes gjerne som et tegn på indre visdom, tålmodighet, eller din egen intuisj
 **Hvis du hører ulvens hyl:**
 Hylingen kan representere et kall — noe i deg som roper etter oppmerksomhet, eller et behov for å uttrykke deg som du har holdt tilbake.
 
-**Hvis ulven befinner seg i en [skog](/drommer/skog):**
+**Hvis ulven befinner seg i en [skog](/drommer/skog/):**
 Kombinasjonen av ulv og skog forsterker begge symbolenes ubevisste karakter. Det kan handle om en reise inn i deg selv, der du møter dine egne instinkter.
 
 **Hvis du mater eller vennligsinnet omgås ulven:**

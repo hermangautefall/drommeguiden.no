@@ -34,7 +34,7 @@ Trapper som er lange, klare og godt opplyste bærer gjerne med seg en følelse a
 
 Jung var særlig opptatt av bevegelsen nedover i trappen som en bevegelse mot det ubevisste — mot de dypere lagene av psyken som ikke er tilgjengelige i hverdagsbevisstheten. Å drømme om å gå ned en trapp er ikke nødvendigvis negativt: det kan representere en vilje til å utforske det som er skjult, å gå inn i seg selv, å undersøke hva som befinner seg i dypet.
 
-Kjeller-trapper er særlig ladet med denne symbolikken. [Loft](/drommer/loft)-trapper bærer på noe annet — det glemte, det som er arkivert og ikke tenkt på.
+Kjeller-trapper er særlig ladet med denne symbolikken. [Loft](/drommer/loft/)-trapper bærer på noe annet — det glemte, det som er arkivert og ikke tenkt på.
 
 ### Overgangen mellom nivåer og tilstander
 
@@ -58,7 +58,7 @@ Ambisjonene er store, men veien er hard. Noe koster mer enn du hadde regnet med.
 En bevegelse mot det indre og ubevisste — eller en tilbakegang i livet. Konteksten avgjør om det er utforskende eller bekymringsfullt.
 
 **Hvis du falt i trappen:**
-Se symbolsiden for [falle](/drommer/falle) — en av de vanligste og mest ladet drømmene.
+Se symbolsiden for [falle](/drommer/falle/) — en av de vanligste og mest ladet drømmene.
 
 **Hvis trappen ikke hadde ende:**
 En situasjon som kjennes uendelig — en prosess som ikke ser ut til å fullføres, en vei uten et tydelig mål.
@@ -76,7 +76,7 @@ En mulighet eller vei har stengt seg — noe du stolte på å nå er ikke lenger
 
 Freud analyserte trappedrømmer grundig i "Drømmenes tydning" (1900) og knyttet dem primært til seksualitet og rytmisk kroppslig bevegelse. Han dokumenterte at sine pasienters trappedrømmer nesten alltid inneholdt en form for kroppslig aktivering — og at oppvåkning midt i trappegangen ofte sammenfalt med et fysiologisk signal.
 
-Jung utvidet dette perspektivet og integrerte trappen i sin forståelse av psykens arkitektur — der [huset](/drommer/hus) er selvet og de ulike etasjene representerer ulike nivåer av bevissthet. [Kjelleren](/drommer/kjeller) er det ubevisste, loftet er det glemte og arkiverte, og første etasje er hverdagsbevisstheten. Trappen er bevegelsen mellom disse lagene — og evnen til å bevege seg fritt mellom etasjene er et tegn på en psykologisk sunnhet.
+Jung utvidet dette perspektivet og integrerte trappen i sin forståelse av psykens arkitektur — der [huset](/drommer/hus/) er selvet og de ulike etasjene representerer ulike nivåer av bevissthet. [Kjelleren](/drommer/kjeller/) er det ubevisste, loftet er det glemte og arkiverte, og første etasje er hverdagsbevisstheten. Trappen er bevegelsen mellom disse lagene — og evnen til å bevege seg fritt mellom etasjene er et tegn på en psykologisk sunnhet.
 
 ## Kulturell og symbolsk betydning
 

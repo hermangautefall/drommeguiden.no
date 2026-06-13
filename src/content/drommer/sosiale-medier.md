@@ -56,7 +56,7 @@ Av og til er drømmens sosiale medier ikke om det som vises, men om det som ikke
 
 ## Psykologiske og kulturelle perspektiver
 
-Sosiale medier som drømmesymbol er enda nyere enn [internett](/drommer/internett) generelt — og vokser raskt. Det er konsistent med det vi vet om hvordan drømmene speiler hverdagslivets sterkeste symboler: der telefonen og TVen dominerte forrige generasjons drømmer, dominerer Instagram og TikTok nå.
+Sosiale medier som drømmesymbol er enda nyere enn [internett](/drommer/internett/) generelt — og vokser raskt. Det er konsistent med det vi vet om hvordan drømmene speiler hverdagslivets sterkeste symboler: der telefonen og TVen dominerte forrige generasjons drømmer, dominerer Instagram og TikTok nå.
 
 Det fascinerende er at sosiale mediers dypeste psykologiske mekanismer — bekreftelse, sammenligning, identitetsprosjeksjon — ikke er nye. De er urgamle menneskelige behov kledd i ny teknologisk drakt. Drømmens sosiale medier er dermed en moderne arketype.
 

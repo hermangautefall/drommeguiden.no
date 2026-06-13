@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om fingre?
 
-Der [hendene](/drommer/hender) er drømmesymbolets brede bilde på handling og kraft, er fingrene detaljene — den presise berøringen, den fine håndverksferdigheten, det som kan kjenne og formidle noe med særlig finesse. Drømmer om fingre handler om finmotorikken i livet, om det som krever varsomhet og nøyaktighet, og om alle de små bevegelsene som tilsammen utgjør hvordan vi rører ved verden.
+Der [hendene](/drommer/hender/) er drømmesymbolets brede bilde på handling og kraft, er fingrene detaljene — den presise berøringen, den fine håndverksferdigheten, det som kan kjenne og formidle noe med særlig finesse. Drømmer om fingre handler om finmotorikken i livet, om det som krever varsomhet og nøyaktighet, og om alle de små bevegelsene som tilsammen utgjør hvordan vi rører ved verden.
 
 Drømmer om fingre dukker gjerne opp i perioder der noe i livet ditt krever presisjon, der din evne til å skape er aktiv, eller der spørsmål om berøring og kontakt med andre er ladet.
 

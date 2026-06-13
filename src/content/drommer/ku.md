@@ -24,7 +24,7 @@ Kua er ett av de eldste og mest universalt dyrkede dyrene i menneskekulturen —
 
 ### Næring og det som gir substans
 
-Den vanligste tolkningen handler om næring — ikke bare mat, men det som gir livet substans og mening. Kua gir melk daglig, tålmodig, uten dramatikk. Drømmens ku kan speile noe i livet ditt som gir deg næring på en stille og vedvarende måte — en relasjon, en praksis, et arbeid. Se også [mor](/drommer/mor) som drømmesymbol for omsorg og næring.
+Den vanligste tolkningen handler om næring — ikke bare mat, men det som gir livet substans og mening. Kua gir melk daglig, tålmodig, uten dramatikk. Drømmens ku kan speile noe i livet ditt som gir deg næring på en stille og vedvarende måte — en relasjon, en praksis, et arbeid. Se også [mor](/drommer/mor/) som drømmesymbol for omsorg og næring.
 
 ### Fruktbarhet og naturlig overflod
 
@@ -43,7 +43,7 @@ Overflod, næring og generøsitet er til stede i livet ditt.
 Noe som skulle gi næring gjør det ikke. En ressurs er tømt.
 
 **Hvis kua var aggressiv:**
-Den rolige, nærende kraften har blitt presset for langt — noe tålmodig har nådd sin grense. Se også [hest](/drommer/hest) for et annet kraftfullt husdyrsymbol.
+Den rolige, nærende kraften har blitt presset for langt — noe tålmodig har nådd sin grense. Se også [hest](/drommer/hest/) for et annet kraftfullt husdyrsymbol.
 
 **Hvis det var mange kuer:**
 Rikdom, overflod og mange ressurser.
@@ -55,7 +55,7 @@ Du tar aktiv til deg det som er tilgjengelig — du høster fra det som gir.
 
 Den norrøne urdyrskua Auðumbla er ett av de mest særegne bildene i norrøn kosmologi — hun sto i kaosens is og slikkfremgudene av isen mens hun ga melk til å nære jotnen Yme. Kua er der fra begynnelsen, hun gir næring til det som blir til. I norrøn tradisjon er kua ikke et banalt husdyr — hun er skapelsens første mor.
 
-Jung ville sett kua som en manifestasjon av "Den store moren" i sin mest nærende og jordnære form — rolig, fruktbar og ustoppelig i sin generøsitet. Se også [sau](/drommer/sau) for et annet mildt husdyrsymbol.
+Jung ville sett kua som en manifestasjon av "Den store moren" i sin mest nærende og jordnære form — rolig, fruktbar og ustoppelig i sin generøsitet. Se også [sau](/drommer/sau/) for et annet mildt husdyrsymbol.
 
 ## Drømmeguiden anbefaler
 

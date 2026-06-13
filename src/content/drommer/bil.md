@@ -31,7 +31,7 @@ Bilen i drømmer tolkes ofte som et bilde på livsveien din — hvor du er på v
 
 Mange drømmer om bil i perioder med store beslutninger — karrierevalg, flytting eller relasjonelle veiskiller. Drømmen gir deg et bilde på hvordan det ubevisste opplever situasjonen: er det en rett motorvei eller en smal grusvei i mørket?
 
-Det er verdt å legge merke til landskapet rundt veien. Kjører du gjennom en tett [skog](/drommer/skog), kan det forsterke følelsen av å ikke se klart. Kjører du mot et [fjell](/drommer/fjell), kan drømmen handle om et mål som virker overveldende, men som også har noe storslått ved seg.
+Det er verdt å legge merke til landskapet rundt veien. Kjører du gjennom en tett [skog](/drommer/skog/), kan det forsterke følelsen av å ikke se klart. Kjører du mot et [fjell](/drommer/fjell/), kan drømmen handle om et mål som virker overveldende, men som også har noe storslått ved seg.
 
 ### Kontroll og maktesløshet
 
@@ -39,7 +39,7 @@ En av de vanligste bildrømmene er den der bremsene ikke fungerer, rattet ikke r
 
 Hvem som sitter bak rattet er også vesentlig. Kjører du selv, er drømmen sannsynligvis om din egen opplevelse av styring i livet. Sitter du på passasjersiden, kan drømmen peke mot at du føler at noen andre bestemmer retningen — en partner, en sjef eller omstendighetene selv.
 
-Drømmer der bilen velter eller krasjer, deler noe av den samme energien som drømmer om å [falle](/drommer/falle) — en brå konfrontasjon med det ukontrollerbare. Det kan virke skremmende, men slike drømmer er ofte psykens måte å bearbeide situasjoner der du føler deg utsatt.
+Drømmer der bilen velter eller krasjer, deler noe av den samme energien som drømmer om å [falle](/drommer/falle/) — en brå konfrontasjon med det ukontrollerbare. Det kan virke skremmende, men slike drømmer er ofte psykens måte å bearbeide situasjoner der du føler deg utsatt.
 
 ### Overgang og transformasjon
 
@@ -59,7 +59,7 @@ Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike t
 Peker nesten alltid mot en følelse av å miste kontrollen. Noe i livet akselererer raskere enn du er komfortabel med.
 
 **Hvis du kjører i mørket:**
-Kan speile usikkerhet om fremtiden — du er på vei et sted, men ser ikke klart hvor. Se også [morkt-rom](/drommer/morkt-rom) for mer om mørke i drømmer.
+Kan speile usikkerhet om fremtiden — du er på vei et sted, men ser ikke klart hvor. Se også [morkt-rom](/drommer/morkt-rom/) for mer om mørke i drømmer.
 
 **Hvis bilen er tom for bensin:**
 Tolkes ofte som et tegn på at du er utmattet — du mangler energi eller motivasjon til å fortsette i den retningen du har valgt.
@@ -73,7 +73,7 @@ Kan bety at du opplever at andre styrer livet ditt, eller at du har gitt fra deg
 
 I moderne drømmepsykologi sees bilen som en forlengelse av selvet — den representerer egoet og den bevisste viljen. Freud ville kanskje ha sett bilen som et seksuelt symbol knyttet til kraft og maskulinitet, mens Jung sannsynligvis ville ha vært mer opptatt av reisen: hvor du kommer fra, og hvor du er på vei.
 
-Bilen er et relativt nytt symbol i drømmehistorien — den dukket naturlig nok ikke opp i norrøne drømmetydninger. Men funksjonen den fyller i drømmer, er gammel. I eldre tradisjoner var det [hesten](/drommer/hest) som bar den samme symbolikken: kraft, retning og evnen til å bevege seg gjennom verden. På mange måter er bilen den moderne hesten — og drømmene våre behandler den på lignende vis.
+Bilen er et relativt nytt symbol i drømmehistorien — den dukket naturlig nok ikke opp i norrøne drømmetydninger. Men funksjonen den fyller i drømmer, er gammel. I eldre tradisjoner var det [hesten](/drommer/hest/) som bar den samme symbolikken: kraft, retning og evnen til å bevege seg gjennom verden. På mange måter er bilen den moderne hesten — og drømmene våre behandler den på lignende vis.
 
 I norsk kultur, der bilen er en så sentral del av hverdagen — med lange avstander, fjellveier og vintrlige forhold — er det naturlig at bildrømmer får en ekstra dimensjon. Å drømme om å kjøre på glatte vinterveier kan speile en helt norsk erfaring av det uforutsigbare og det å måtte navigere forsiktig gjennom vanskelige forhold.
 

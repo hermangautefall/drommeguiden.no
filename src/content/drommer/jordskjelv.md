@@ -21,7 +21,7 @@ author: 'default'
 
 Jordskjelvet er et av naturens mest dramatiske og uforberedte fenomener — bakken selv, som vi alltid tar for gitt som fast og stødig, begynner plutselig å bevege seg. I drømmeverdenen er det et kraftig symbol på nettopp dette: det som skulle vært stabilt, er det ikke.
 
-Jordskjelvdrømmer er vanlige i perioder med store omveltninger og usikkerhet, og deler mye med drømmer om [stormer](/drommer/storm) og [flom](/drommer/flom).
+Jordskjelvdrømmer er vanlige i perioder med store omveltninger og usikkerhet, og deler mye med drømmer om [stormer](/drommer/storm/) og [flom](/drommer/flom/).
 
 ## De vanligste tolkningene
 
@@ -49,14 +49,14 @@ En overveldende situasjon der mye rakner på én gang. Et behov for støtte og h
 Styrke og motstandskraft i møte med kaos. Du takler mer enn du tror.
 
 **Hvis bygninger raste:**
-Noe konstruert — planer, relasjoner, strukturer i livet — kollapser under press. Se også drømmer om [hus](/drommer/hus) for mer om bygninger som symboler på selvet.
+Noe konstruert — planer, relasjoner, strukturer i livet — kollapser under press. Se også drømmer om [hus](/drommer/hus/) for mer om bygninger som symboler på selvet.
 
 **Hvis bakken åpnet seg:**
 Det mest dramatiske bildet — noe fundamentalt og ukjent åpner seg under deg. Stor eksistensiell usikkerhet.
 
 ## Psykologiske og kulturelle perspektiver
 
-Jordskjelvet er i jungiansk forstand knyttet til det ubevisste i sin mest ukontrollerbare form — de kreftene som opererer under overflaten av bevisstheten og som med jevne mellomrom bryter frem med stor kraft. Drømmen er ikke et varsel — den er en beskrivelse av en indre tilstand. Temaet minner om drømmer om å [falle](/drommer/falle), der noe stabilt plutselig gir etter.
+Jordskjelvet er i jungiansk forstand knyttet til det ubevisste i sin mest ukontrollerbare form — de kreftene som opererer under overflaten av bevisstheten og som med jevne mellomrom bryter frem med stor kraft. Drømmen er ikke et varsel — den er en beskrivelse av en indre tilstand. Temaet minner om drømmer om å [falle](/drommer/falle/), der noe stabilt plutselig gir etter.
 
 For nordmenn, som bor i et land uten store jordskjelv, er disse drømmene særlig symbolske fremfor realistiske — de speiler noe som bryter mot vår grunnleggende forventning om stabilitet og fasthet.
 

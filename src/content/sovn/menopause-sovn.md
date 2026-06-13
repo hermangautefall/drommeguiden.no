@@ -49,7 +49,7 @@ Mange kvinner i overgangsalderen rapporterer mer levende, bisarre og emosjonelt 
 
 Mekanismene er sannsynligvis sammensatte: hyppigere nattlige oppvåkninger fra nattsvette betyr at man våkner oftere fra REM-søvn og husker mer av drømmene. Hormonelle svingninger påvirker amygdala og hjernens emosjonelle prosessering direkte.
 
-Temaene i overgangsalderens drømmer er gjerne knyttet til identitet, roller, kropp og aldring — psyken bearbeider en stor livsovergang. Se guiden om [stress og drømmer](/guider/stress-og-drommer) for mer om sammenhengen mellom livsfaseoverganger og drømmenes innhold.
+Temaene i overgangsalderens drømmer er gjerne knyttet til identitet, roller, kropp og aldring — psyken bearbeider en stor livsovergang. Se guiden om [stress og drømmer](/guider/stress-og-drommer/) for mer om sammenhengen mellom livsfaseoverganger og drømmenes innhold.
 
 ## Hva som faktisk hjelper
 
@@ -84,7 +84,7 @@ Overgangsalderen forandrer søvnen gjennom flere mekanismer:
 - Drømmene blir mer intense og emosjonelt ladde — delvis fordi man husker mer ved hyppigere oppvåkninger
 - Kjølig soverom, HRT (etter legevurdering), CBT-I og avslapningsteknikker er de viktigste tiltakene
 
-Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Angst og søvn](/sovn/angst-sovn) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene)
+Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer/) — [Angst og søvn](/sovn/angst-sovn/) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/)
 
 ## Kilder
 

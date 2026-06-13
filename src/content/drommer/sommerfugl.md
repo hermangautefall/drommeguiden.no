@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om sommerfugl?
 
-Sommerfuglen er kanskje det mest universelle symbolet på forvandling som finnes — og i drømmeverdenen bærer den på et budskap som nesten alltid er varmt og håpefullt. Fra larve til puppe til noe vakkert og fritt: denne reisen gjenspeiles i nesten alle kulturer og tradisjoner. Også [frosken](/drommer/frosk) deler dette forvandlingsmotivet.
+Sommerfuglen er kanskje det mest universelle symbolet på forvandling som finnes — og i drømmeverdenen bærer den på et budskap som nesten alltid er varmt og håpefullt. Fra larve til puppe til noe vakkert og fritt: denne reisen gjenspeiles i nesten alle kulturer og tradisjoner. Også [frosken](/drommer/frosk/) deler dette forvandlingsmotivet.
 
 Å drømme om sommerfugl er sjelden en tung drøm. Men den er alltid meningsfull.
 
@@ -35,7 +35,7 @@ I gresk mytologi betyr ordet "psyche" både sjel og sommerfugl. Drømmen kan ha 
 
 ### Letthet og glede
 
-En sommerfugl som [flyr](/drommer/flyging) fritt kan speile et ønske om — eller en bevegelse mot — mer letthet i livet. Kanskje har du vært tung i sinnet, og drømmen minner deg om at denne tilstanden ikke er permanent.
+En sommerfugl som [flyr](/drommer/flyging/) fritt kan speile et ønske om — eller en bevegelse mot — mer letthet i livet. Kanskje har du vært tung i sinnet, og drømmen minner deg om at denne tilstanden ikke er permanent.
 
 
 ## Hva påvirker tolkningen?
@@ -50,7 +50,7 @@ Jo mer levende farger, jo sterkere energi og vitalitet i budskapet.
 Kan symbolisere sorg eller overgang — men i mange kulturer er den svarte sommerfuglen et tegn på at noe viktig nærmer seg, ikke noe ondt.
 
 **Hvis sommerfuglen dør eller er skadet:**
-En forvandling som er vanskelig eller en prosess som møter motstand. Vær tålmodig med deg selv. Se også [drømmejournalen](/guider/drommejournalen) for å spore forvandlingen over tid.
+En forvandling som er vanskelig eller en prosess som møter motstand. Vær tålmodig med deg selv. Se også [drømmejournalen](/guider/drommejournalen/) for å spore forvandlingen over tid.
 
 
 ## Psykologiske og kulturelle perspektiver
@@ -66,4 +66,4 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om sommerfugl **flere ganger**? Utforsk flere [natursymboler i drømmer](/kategori/natur).
+- Har du drømt om sommerfugl **flere ganger**? Utforsk flere [natursymboler i drømmer](/kategori/natur/).

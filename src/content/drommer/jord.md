@@ -28,7 +28,7 @@ Den vanligste tolkningen handler om det du er bygget på — dine røtter, ditt 
 
 ### Fruktbarhet og potensial
 
-Jord er der frøene plantes — og drømmens jord handler om potensial. Noe vokser, noe er i ferd med å spire, noe ligger og venter på de rette betingelsene. Drømmens jord kan mane frem bilder av [blomster](/drommer/blomst) og [trær](/drommer/tre) som vokser fra den. Hva har du plantet, og hva venter på å spire?
+Jord er der frøene plantes — og drømmens jord handler om potensial. Noe vokser, noe er i ferd med å spire, noe ligger og venter på de rette betingelsene. Drømmens jord kan mane frem bilder av [blomster](/drommer/blomst/) og [trær](/drommer/tre/) som vokser fra den. Hva har du plantet, og hva venter på å spire?
 
 ### Det jordnære og materielle
 
@@ -53,7 +53,7 @@ En ekstrem tilknytning til det jordbundne — eller et behov for næring på et 
 
 ## Psykologiske og kulturelle perspektiver
 
-I norrøn kosmologi er Jörð — Jorddissen — Tors mor og selve jordens personifikasjon. Jord er gudenes mor i norrøn tradisjon: det fundamentale, det nærende, det av alt er skapt. For bønder og kystfolk gjennom norgeshistorien er jord identitet — den som eier jord, eier fremtid. Drømmens jord kan også knyttes til [hagen](/drommer/hage) og [skogen](/drommer/skog) som vokser fra den.
+I norrøn kosmologi er Jörð — Jorddissen — Tors mor og selve jordens personifikasjon. Jord er gudenes mor i norrøn tradisjon: det fundamentale, det nærende, det av alt er skapt. For bønder og kystfolk gjennom norgeshistorien er jord identitet — den som eier jord, eier fremtid. Drømmens jord kan også knyttes til [hagen](/drommer/hage/) og [skogen](/drommer/skog/) som vokser fra den.
 
 Jung knyttet jord til det feminine prinsippet i sin mest grunnleggende form — den store moren som nærer, holder og til slutt tar tilbake det hun gav.
 

@@ -18,7 +18,7 @@ relaterte_sovn:
   - hvorfor-drommer-vi
 ---
 
-## Hva betyr det å drømme om sex med [eksen](/drommer/eksen)?
+## Hva betyr det å drømme om sex med [eksen](/drommer/eksen/)?
 
 Du våkner. Hjertet banker. Og du tenker: "Betyr dette at jeg fortsatt er glad i dem?"
 

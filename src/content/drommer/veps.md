@@ -24,7 +24,7 @@ Vepsen er ikke som biet — den produserer ikke honning, den gagner ikke direkte
 
 ### Irritasjon og noe som brenner
 
-Den vanligste tolkningen handler om en irritasjon som har nådd et bristepunkt — noe som plager deg, som du ikke blir kvitt, som buzzer rundt deg uten å gi deg ro. Drømmens veps er bildet på denne vedvarende, irriterende uroen. Se også [edderkopp](/drommer/edderkopp) for et annet insekt-relatert drømmesymbol.
+Den vanligste tolkningen handler om en irritasjon som har nådd et bristepunkt — noe som plager deg, som du ikke blir kvitt, som buzzer rundt deg uten å gi deg ro. Drømmens veps er bildet på denne vedvarende, irriterende uroen. Se også [edderkopp](/drommer/edderkopp/) for et annet insekt-relatert drømmesymbol.
 
 ### Aggresjon — din eller andres
 
@@ -32,7 +32,7 @@ Vepsen angriper — og i drømmene kan den representere en aggresjon som er i sp
 
 ### Et varsel om noe potensielt skadelig
 
-Vepsen er et varselstegn — noe ser harmløst ut men kan skade. Til forskjell fra [slangen](/drommer/slange), som er skjult og uforutsigbar, er vepsen synlig men vedvarende. Drømmens veps kan representere en situasjon eller person som virker ubetydelig, men som kan stikke hvis du ikke håndterer det med forsiktighet.
+Vepsen er et varselstegn — noe ser harmløst ut men kan skade. Til forskjell fra [slangen](/drommer/slange/), som er skjult og uforutsigbar, er vepsen synlig men vedvarende. Drømmens veps kan representere en situasjon eller person som virker ubetydelig, men som kan stikke hvis du ikke håndterer det med forsiktighet.
 
 ## Hva påvirker tolkningen?
 
@@ -55,7 +55,7 @@ Noe organisert og potensielt kraftfullt venter på å bli forstyrret. Vær forsi
 
 Vepsen er i mange kulturer et symbol på vrede og straf — det greske uttrykket "å sette veps i buksene på noen" handler om å trigge en aggressiv reaksjon. I norsk folkemedisin ble vepsstikk tidvis brukt som kur for leddgikt — det smertefulle hadde sin funksjon.
 
-Jung ville sett vepsdrømmen som en manifestasjon av det aggressive komplekset — en undertrykt aggresjon som pusser rundt og stikker i det ubevisste til den får mer konstruktivt uttrykk. Se også [maur](/drommer/maur) for en mildere versjon av insektsymbolikken.
+Jung ville sett vepsdrømmen som en manifestasjon av det aggressive komplekset — en undertrykt aggresjon som pusser rundt og stikker i det ubevisste til den får mer konstruktivt uttrykk. Se også [maur](/drommer/maur/) for en mildere versjon av insektsymbolikken.
 
 ## Drømmeguiden anbefaler
 

@@ -37,7 +37,7 @@ Løven kan også representere en person i livet ditt med stor autoritet — en s
 
 ### Undertrykt sinne eller lidenskap
 
-En rasende løve tolkes ofte — i likhet med [tigeren](/drommer/tiger) — som et bilde på sinne eller sterk følelse som ikke har fått utløp. Noe brenner inni deg — og drømmen ber deg merke det.
+En rasende løve tolkes ofte — i likhet med [tigeren](/drommer/tiger/) — som et bilde på sinne eller sterk følelse som ikke har fått utløp. Noe brenner inni deg — og drømmen ber deg merke det.
 
 
 ## Hva påvirker tolkningen?
@@ -46,7 +46,7 @@ En rasende løve tolkes ofte — i likhet med [tigeren](/drommer/tiger) — som 
 Du er i kontakt med din egen autoritet og indre ro. En sterk, positiv drøm.
 
 **Hvis løven angriper deg:**
-Noe kraftfullt og ukontrollerbart truer deg — enten utenfra eller innenfra. Se også [bjørn](/drommer/bjorn) for et lignende kraftsymbol.
+Noe kraftfullt og ukontrollerbart truer deg — enten utenfra eller innenfra. Se også [bjørn](/drommer/bjorn/) for et lignende kraftsymbol.
 
 **Hvis du tammer løven:**
 Du er i ferd med å mestre noe stort i deg selv. Imponerende symbol på selvbeherskelse.
@@ -57,7 +57,7 @@ Din egen kraft eller selvtillit er svekket av noe. Noe eller noen har tæret på
 
 ## Psykologiske og kulturelle perspektiver
 
-I mange kulturer er løven et kongesymbol — i Egypt, Roma og middelalderens Europa. Den representerer det beste av menneskelig lederskap: mot kombinert med verdighet. Jung så løven som et symbol på Ego-et i sin sterkeste form — men advarte mot å la den indre løven bli tyrannisk. Utforsk flere [dyresymboler i drømmer](/kategori/dyr).
+I mange kulturer er løven et kongesymbol — i Egypt, Roma og middelalderens Europa. Den representerer det beste av menneskelig lederskap: mot kombinert med verdighet. Jung så løven som et symbol på Ego-et i sin sterkeste form — men advarte mot å la den indre løven bli tyrannisk. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).
 
 I kristen symbolikk er løven både Kristus (løven av Juda) og djevelen (løven som vandrer og søker noen å oppsluke). Denne dobbeltheten — kraft som kan være både god og destruktiv — er kjernen i løvedrømmens budskap.
 
@@ -68,4 +68,4 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om løve **flere ganger**? Les om [gjentakende drømmer](/guider/gjentakende-drommer).
+- Har du drømt om løve **flere ganger**? Les om [gjentakende drømmer](/guider/gjentakende-drommer/).

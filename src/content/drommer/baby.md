@@ -36,7 +36,7 @@ Den mest utbredte tolkningen av baby i drømmer handler om noe nytt. Babyen symb
 
 Hvis du drømte om å holde en nyfødt baby, kan det tolkes som at du holder noe nytt og verdifullt i hendene dine. Kanskje du har tatt en beslutning som åpner nye dører, eller du er i ferd med å ta det første steget mot noe du lenge har ønsket. Babyen i drømmen er det nye livet du er med på å skape.
 
-Denne tolkningen har likheter med drømmer om [bryllup](/drommer/bryllup), som også handler om nye faser og forpliktelser. Begge symbolene peker fremover — mot noe som er i ferd med å begynne.
+Denne tolkningen har likheter med drømmer om [bryllup](/drommer/bryllup/), som også handler om nye faser og forpliktelser. Begge symbolene peker fremover — mot noe som er i ferd med å begynne.
 
 ### Sårbarhet og behov for omsorg
 
@@ -46,7 +46,7 @@ Drømte du om en baby som gråt og ikke lot seg trøste? Det kan symbolisere et 
 
 Hvis du drømte om å glemme babyen — la den ligge et sted og plutselig huske den med et støkk av skyld — kan det peke mot noe i livet du har forsømt. Det trenger ikke å være dramatisk. Kanskje det er et forhold du har nedprioritert, en hobby du har lagt bort, eller et løfte du har glemt.
 
-Denne drømmevarianten kan også relateres til drømmer om å føle seg [naken](/drommer/naken) eller eksponert, der sårbarheten er det sentrale temaet.
+Denne drømmevarianten kan også relateres til drømmer om å føle seg [naken](/drommer/naken/) eller eksponert, der sårbarheten er det sentrale temaet.
 
 ### Personlig vekst og indre utvikling
 
@@ -72,7 +72,7 @@ En ukjent baby kan symbolisere noe nytt og uventet som er på vei inn i livet di
 Denne drømmen kan være angstfylt og handler ofte om frykt for at noe verdifullt er truet. Det kan gjenspeile bekymringer i hverdagen — for barnas helse, for et sårbart prosjekt, eller for din egen evne til å beskytte det som betyr mest.
 
 **Hvis du ammet eller matet babyen:**
-Å gi næring til en baby i drømmen symboliserer ofte omsorg, generøsitet og det å gi av deg selv. Det kan peke mot at du er i en fase der du gir mye til andre — noe som er vakkert, men som også krever at du fyller på egne reserver. Drømmer om [hus](/drommer/hus) kan gi lignende temaer om å skape et trygt sted.
+Å gi næring til en baby i drømmen symboliserer ofte omsorg, generøsitet og det å gi av deg selv. Det kan peke mot at du er i en fase der du gir mye til andre — noe som er vakkert, men som også krever at du fyller på egne reserver. Drømmer om [hus](/drommer/hus/) kan gi lignende temaer om å skape et trygt sted.
 
 ---
 

@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om å svømme?
 
-Der det å [drukne](/drommer/drukne) er maktesløshet og det å stå på land er distanse, er svømmingen noe midt i mellom: du er i vannet — i følelsene, i det ubevisste — men du beveger deg aktivt. Du er ikke passiv. Du navigerer.
+Der det å [drukne](/drommer/drukne/) er maktesløshet og det å stå på land er distanse, er svømmingen noe midt i mellom: du er i vannet — i følelsene, i det ubevisste — men du beveger deg aktivt. Du er ikke passiv. Du navigerer.
 
 Svømmingen er en av de mer nyanserte vanndrømmene, og dens mening avhenger i stor grad av hvordan du svømmer og hva vannet gjør.
 
@@ -62,7 +62,7 @@ I jungiansk forstand er svømmingen en av de mest aktive og modige drømmene man
 
 ## Kulturell og symbolsk betydning
 
-I norrøn tradisjon er evnen til å svømme nær hellig — sjøfolk som ikke kunne svømme var hjelpeløse ved havari, og [havet](/drommer/hav) var like mye liv som død. Å svømme er å ha respekt for vannet uten å la det beseire deg.
+I norrøn tradisjon er evnen til å svømme nær hellig — sjøfolk som ikke kunne svømme var hjelpeløse ved havari, og [havet](/drommer/hav/) var like mye liv som død. Å svømme er å ha respekt for vannet uten å la det beseire deg.
 
 ## Hva bør du gjøre etter en drøm om å svømme?
 

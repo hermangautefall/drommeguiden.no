@@ -82,7 +82,7 @@ PTSD og traumatiske drømmer er blant de best forståtte — og mest belastende 
 
 *PTSD krever profesjonell behandling. Oppsøk lege eller psykolog.*
 
-Les videre: [Mareritt — årsaker og behandling](/guider/mareritt) — [Gjentakende drømmer](/guider/gjentakende-drommer) — [Depresjon og søvn](/sovn/depresjon-sovn)
+Les videre: [Mareritt — årsaker og behandling](/guider/mareritt/) — [Gjentakende drømmer](/guider/gjentakende-drommer/) — [Depresjon og søvn](/sovn/depresjon-sovn/)
 
 ## Kilder
 

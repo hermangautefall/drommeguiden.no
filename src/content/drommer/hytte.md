@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om hytte?
 
-Hytten er den norske kultursjelens fremste fristeds-symbol. Den er stedet der det enkle er nok, der mobilsignalet er svakt, der hverdagens krav forsvinner bak skogkanten. For nordmenn er hytten ikke bare et [hus](/drommer/hus) — den er en tilstand, en verdi, en del av identiteten.
+Hytten er den norske kultursjelens fremste fristeds-symbol. Den er stedet der det enkle er nok, der mobilsignalet er svakt, der hverdagens krav forsvinner bak skogkanten. For nordmenn er hytten ikke bare et [hus](/drommer/hus/) — den er en tilstand, en verdi, en del av identiteten.
 
 Å drømme om hytte er sjelden tilfeldig.
 
@@ -38,7 +38,7 @@ Hytten er stedet der du ikke trenger å prestere, imponere eller tilpasse deg. D
 
 ### Tilknytning til naturen og det norske
 
-Hytten i norsk tradisjon er tett knyttet til natur — til [skog](/drommer/skog), [fjell](/drommer/fjell) og hav. Drømmens hytte kan handle om en lengsel etter natur, etter det enkle, etter en rødere tråd til det landet du er fra og det landet du er.
+Hytten i norsk tradisjon er tett knyttet til natur — til [skog](/drommer/skog/), [fjell](/drommer/fjell/) og hav. Drømmens hytte kan handle om en lengsel etter natur, etter det enkle, etter en rødere tråd til det landet du er fra og det landet du er.
 
 ## Hva påvirker tolkningen?
 

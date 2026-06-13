@@ -45,7 +45,7 @@ En fugl som flyr fri — ut av et bur, opp fra jord, mot horisonten — er ett a
 ## Hva påvirker tolkningen?
 
 **Fuglens art:**
-Ulike fugler bærer ulik symbolikk. Ørn: kraft og perspektiv. Ravn/kråke: visdom og det skjulte. Due: fred og forsoning. Svane: skjønnhet og transformasjon. Spurv: det hverdagslige og beskjedne. Se egne symbolsider for spesifikke fugler, som [ørn](/drommer/orn) og [papegøye](/drommer/papegoy).
+Ulike fugler bærer ulik symbolikk. Ørn: kraft og perspektiv. Ravn/kråke: visdom og det skjulte. Due: fred og forsoning. Svane: skjønnhet og transformasjon. Spurv: det hverdagslige og beskjedne. Se egne symbolsider for spesifikke fugler, som [ørn](/drommer/orn/) og [papegøye](/drommer/papegoy/).
 
 **Hvis fuglen sang:**
 Et budskap eller en glede — noe kommuniserer til deg gjennom skjønnhet og klang.
@@ -63,7 +63,7 @@ Et budskap søker deg — vær åpen og oppmerksom.
 Et kor av impulser, muligheter eller budskaper — noe er ladet og aktivt.
 
 **Hvis fuglen var svart:**
-Se [kråke](/drommer/krage)-siden — svarte fugler bærer sin egen, rikere symbolikk.
+Se [kråke](/drommer/krage/)-siden — svarte fugler bærer sin egen, rikere symbolikk.
 
 ## Psykologiske og kulturelle perspektiver
 
@@ -71,7 +71,7 @@ Odins to ravner, Hugin (tanken) og Munin (minnet), fløy ut over verden hver mor
 
 Carl Jung beskrev fugler generelt som symboler på tanker og ideer som er frigjort fra det konkrete og materielle — sjelen i sin letteste og friest bevegelige form. Å drømme om fugl er å drømme om psykens evne til å bevege seg uhindret.
 
-Interessant nok er fugledrømmene blant dem med bredest positiv resonans i drømmeforskning — de oppleves sjelden som skremmende, og de etterlater gjerne en følelse av frihet og letthet som sitter igjen lenge. Se også [flyging](/drommer/flyging) som beslektet drømmesymbol.
+Interessant nok er fugledrømmene blant dem med bredest positiv resonans i drømmeforskning — de oppleves sjelden som skremmende, og de etterlater gjerne en følelse av frihet og letthet som sitter igjen lenge. Se også [flyging](/drommer/flyging/) som beslektet drømmesymbol.
 
 ## Drømmeguiden anbefaler
 

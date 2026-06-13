@@ -44,7 +44,7 @@ Drømmene ved depresjon er klinisk interessante og godt beskrevet i søvnforskni
 
 Den kortere REM-latensen betyr at emosjonelt ladet drømmestoff bearbeides i de første søvntimene — mens søvnen normalt er preget av dyp, restaurerende søvn. Det gir netter som starter med intens emosjonell bearbeiding fremfor hvile.
 
-Drømmenes innhold ved depresjon er typisk preget av negative emosjoner, motgang, tap og hjelpeløshet. Mørke symboler dukker konsistent opp. Det er ikke overraskende — drømmene prosesserer det emosjonelle materialet som er aktivt. Se symbolsiden for [helvete](/drommer/helvete) og guiden om [stress og drømmer](/guider/stress-og-drommer) for mer om mørke drømmesymboler i en psykologisk kontekst.
+Drømmenes innhold ved depresjon er typisk preget av negative emosjoner, motgang, tap og hjelpeløshet. Mørke symboler dukker konsistent opp. Det er ikke overraskende — drømmene prosesserer det emosjonelle materialet som er aktivt. Se symbolsiden for [helvete](/drommer/helvete/) og guiden om [stress og drømmer](/guider/stress-og-drommer/) for mer om mørke drømmesymboler i en psykologisk kontekst.
 
 En fascinerende observasjon: noen studier viser at jo mer emosjonelt aktivt drømmematerialet er ved depresjon, jo bedre er prognosen. Det kan indikere at hjernen aktivt bearbeider tilstanden fremfor å stenge den av — og det er et bedre utgangspunkt for bedring.
 
@@ -76,7 +76,7 @@ Depresjon og søvn er dypt sammenflettet i en selvforsterkende spiral:
 
 *Vedvarende søvnproblemer kombinert med depressive symptomer bør utredes av lege.*
 
-Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Angst og søvn](/sovn/angst-sovn) — [Stress og drømmene](/guider/stress-og-drommer)
+Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer/) — [Angst og søvn](/sovn/angst-sovn/) — [Stress og drømmene](/guider/stress-og-drommer/)
 
 ## Kilder
 

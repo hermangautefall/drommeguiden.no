@@ -32,7 +32,7 @@ Den vanligste tolkningen av hjertedrømmer handler om følelseslivet — din kap
 
 ### Mot og det å følge hjertet
 
-"Å ha hjertet med seg" er ikke tilfeldig som uttrykk — hjertet er i mange tradisjoner setet for motet. Å drømme om hjertet kan komme i perioder der du konfronteres med et valg som krever nettopp dette: å handle i tråd med det du innerst inne vet er riktig, selv om [hodet](/drommer/hode) protesterer.
+"Å ha hjertet med seg" er ikke tilfeldig som uttrykk — hjertet er i mange tradisjoner setet for motet. Å drømme om hjertet kan komme i perioder der du konfronteres med et valg som krever nettopp dette: å handle i tråd med det du innerst inne vet er riktig, selv om [hodet](/drommer/hode/) protesterer.
 
 Drømmen kan stille spørsmålet: hva sier hjertet ditt, og tør du lytte til det?
 
@@ -42,7 +42,7 @@ Hjertet er det som holder oss i live — det slår uten pause, uten hvile, uten 
 
 ### En konkret bekymring for helsen
 
-Av og til er hjertedrømmen mer direkte — en uro for hjertehelsen du bærer på bevisst eller ubevisst. Se også [sykdom](/drommer/sykdom) for andre helsedrømmer. Hvis du har risikofaktorer, har opplevd symptomer eller har familiehistorie med hjertesykdom, kan drømmen speile en bekymring som fortjener oppmerksomhet — og eventuelt en samtale med legen.
+Av og til er hjertedrømmen mer direkte — en uro for hjertehelsen du bærer på bevisst eller ubevisst. Se også [sykdom](/drommer/sykdom/) for andre helsedrømmer. Hvis du har risikofaktorer, har opplevd symptomer eller har familiehistorie med hjertesykdom, kan drømmen speile en bekymring som fortjener oppmerksomhet — og eventuelt en samtale med legen.
 
 ## Hva påvirker tolkningen?
 
@@ -50,7 +50,7 @@ Av og til er hjertedrømmen mer direkte — en uro for hjertehelsen du bærer p�
 God livsenergi, emosjonell styrke og et sunt forhold til egne følelser.
 
 **Hvis hjertet var skadet eller svakt:**
-En emosjonell sårhet, et tap av vitalitet, eller noe som har brutt ned evnen til å elske og å åpne seg. Se også [blod](/drommer/blod) for beslektede drømmer.
+En emosjonell sårhet, et tap av vitalitet, eller noe som har brutt ned evnen til å elske og å åpne seg. Se også [blod](/drommer/blod/) for beslektede drømmer.
 
 **Hvis du så hjertet utenfor kroppen:**
 Noe svært privat og sårbart er blitt eksponert — du har gitt deg selv til noe eller noen på en måte som gjør deg sårbar.

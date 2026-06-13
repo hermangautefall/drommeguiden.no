@@ -32,7 +32,7 @@ Du kan ha drømt om himmelen i en periode der livet kjennes trangt og krevende �
 
 ### Fred og forsoning etter noe vanskelig
 
-Himmeldrømmene er spesielt vanlige etter sorg og tap — og de er nesten alltid trøstende. Å drømme at en [avdød person](/drommer/avdod-person) er i himmelen, eller å drømme om et rolig, lyst sted langt over det jordlige, kan være psykens måte å bearbeide tapet på og finne en form for forsoning.
+Himmeldrømmene er spesielt vanlige etter sorg og tap — og de er nesten alltid trøstende. Å drømme at en [avdød person](/drommer/avdod-person/) er i himmelen, eller å drømme om et rolig, lyst sted langt over det jordlige, kan være psykens måte å bearbeide tapet på og finne en form for forsoning.
 
 Mange beskriver disse drømmene som de mest fredfylte de noensinne har hatt — en ro som ikke stammer fra at alt er bra, men fra at noe er større og mer vedvarende enn det som gikk tapt.
 
@@ -55,7 +55,7 @@ En av de mest trøstende drømmene man kan ha. Fred, forsoning og en åpenhet mo
 Et møte med din egen dypeste lengsel etter frihet, skjønnhet og mening.
 
 **Hvis avdøde kjære var der:**
-Et besøk som gir trøst — psykens måte å si at de har det godt, at noe er i orden. Drømmer om [engler](/drommer/engler) følger ofte med denne typen drøm.
+Et besøk som gir trøst — psykens måte å si at de har det godt, at noe er i orden. Drømmer om [engler](/drommer/engler/) følger ofte med denne typen drøm.
 
 **Hvis du ikke fikk komme inn:**
 Et ønske om noe du ikke vet om du fortjener eller kan nå. En indre blokkering mellom deg og noe du lengter etter.
@@ -64,13 +64,13 @@ Et ønske om noe du ikke vet om du fortjener eller kan nå. En indre blokkering 
 En tro eller forventning til det transcendente som er farget av frykt snarere enn kjærlighet.
 
 **Hvis du fløy mot himmelen:**
-Ambisjon, frigjøring og en bevegelse mot noe høyere — en av de mest dynamiske og energigivende drømmene. Se også [flyging](/drommer/flyging) som drømmesymbol.
+Ambisjon, frigjøring og en bevegelse mot noe høyere — en av de mest dynamiske og energigivende drømmene. Se også [flyging](/drommer/flyging/) som drømmesymbol.
 
 ## Psykologiske og kulturelle perspektiver
 
 Carl Jung var fascinert av himmelens symbolikk — han så det himmelske ikke som et konkret sted, men som en psykologisk realitet: representasjonen av det bevisste sinnets høyeste aspirasjon. Himmelreisen i drømmene er for Jung en bevegelse mot individuasjon — mot den fullstendige realiseringen av Selvet.
 
-I nordisk og norrøn tradisjon er himmelen Åsgard — gudenes bolig, ikke de dødes hvilested. Valhall er for de falne krigerne, men Åsgard er der guddommelig kraft og visdom bor. Å drømme om himmelen i norsk kulturell kontekst berører denne arven: et sted av kraft og orden over det kaotiske jordlige. Motsetningen til himmelen — [helvete](/drommer/helvete) — representerer det motsatte i drømmesymbolikken.
+I nordisk og norrøn tradisjon er himmelen Åsgard — gudenes bolig, ikke de dødes hvilested. Valhall er for de falne krigerne, men Åsgard er der guddommelig kraft og visdom bor. Å drømme om himmelen i norsk kulturell kontekst berører denne arven: et sted av kraft og orden over det kaotiske jordlige. Motsetningen til himmelen — [helvete](/drommer/helvete/) — representerer det motsatte i drømmesymbolikken.
 
 For det sekulære flertall av nordmenn er himmelen et ladet begrep uten enkel definisjon — noe man ikke tror på dogmatisk, men som man likevel drømmer om. Det er nettopp denne ambivalensen som gjør himmeldrømmene interessante: de forteller noe om menneskelig lengsel som er større enn enhver religiøs doktrine.
 

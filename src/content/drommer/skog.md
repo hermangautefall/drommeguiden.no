@@ -37,9 +37,9 @@ Mange opplever skogsdrømmer i perioder med store livsendringer, der de gamle ka
 
 Skogen kan også speile noe du bærer på uten å ha bearbeidet det. Kanskje er det en konflikt du har unngått, en sorg du ikke har gitt plass, eller en beslutning som har ligget uavklart for lenge. Skogen i drømmen blir da et bilde på det som trenger å komme frem i lyset.
 
-Hvis du i drømmen føler deg redd eller gått deg vill, kan det forsterke denne tolkningen. Dyr som dukker opp i skogen har ofte sin egen symbolikk — å møte en [ulv](/drommer/ulv) blant trærne kan peke mot instinkter eller farer, mens en [bjørn](/drommer/bjorn) kan representere beskyttelse eller tilbaketrukket kraft.
+Hvis du i drømmen føler deg redd eller gått deg vill, kan det forsterke denne tolkningen. Dyr som dukker opp i skogen har ofte sin egen symbolikk — å møte en [ulv](/drommer/ulv/) blant trærne kan peke mot instinkter eller farer, mens en [bjørn](/drommer/bjorn/) kan representere beskyttelse eller tilbaketrukket kraft.
 
-Det er også verdt å legge merke til om skogen er mørk eller lys. En mørk, tett skog har fellestrekk med drømmer om [mørke rom](/drommer/morkt-rom) — begge handler om det ukjente og det uutforskede.
+Det er også verdt å legge merke til om skogen er mørk eller lys. En mørk, tett skog har fellestrekk med drømmer om [mørke rom](/drommer/morkt-rom/) — begge handler om det ukjente og det uutforskede.
 
 ### Vekst, fornyelse og naturlig rytme
 
@@ -62,7 +62,7 @@ Kan handle om selvstendighet og behov for tid alene, men også om ensomhet — a
 Tolkes gjerne som at du føler deg desorientert i livet, enten det gjelder karriere, relasjoner eller personlig retning.
 
 **Hvis skogen brenner:**
-Ild i skogen er et kraftig bilde som kan peke mot [brann](/drommer/brann) som symbol — destruksjon, men også renselse og ny begynnelse.
+Ild i skogen er et kraftig bilde som kan peke mot [brann](/drommer/brann/) som symbol — destruksjon, men også renselse og ny begynnelse.
 
 **Hvis du finner en sti eller lysning:**
 Et positivt tegn. Det kan bety at du er i ferd med å finne klarhet etter en forvirrende periode, eller at en løsning er nærmere enn du tror.

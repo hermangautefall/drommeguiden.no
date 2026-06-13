@@ -35,18 +35,18 @@ Maurkolonien er et av naturens mest effektive eksempler på strukturert, målret
 
 ### Samarbeid og tilhørighet
 
-Mauren overlever ikke alene — den er alltid del av noe større, ikke ulikt [edderkoppen](/drommer/edderkopp) som spinner sitt nett i fellesskapet. Drømmen kan peke mot verdien av samarbeid og fellesskap, eller mot et behov for å bidra mer til noe du er del av.
+Mauren overlever ikke alene — den er alltid del av noe større, ikke ulikt [edderkoppen](/drommer/edderkopp/) som spinner sitt nett i fellesskapet. Drømmen kan peke mot verdien av samarbeid og fellesskap, eller mot et behov for å bidra mer til noe du er del av.
 
 
 ## Hva påvirker tolkningen?
 
-**Hvis maur kryper på [kroppen](/kategori/kropp) din:**
+**Hvis maur kryper på [kroppen](/kategori/kropp/) din:**
 Noe irriterer eller plager deg på et dypt plan. En ubehagelig situasjon som ikke slipper taket.
 
 **Hvis maur bygger noe:**
 Produktivitet og fremgang. Ting er i bevegelse, selv om det skjer sakte.
 
-**Hvis maur invaderer [hjemmet](/drommer/hus) ditt:**
+**Hvis maur invaderer [hjemmet](/drommer/hus/) ditt:**
 Noe uønsket trenger seg inn i din personlige sfære. Grenser utfordres.
 
 **Hvis du ser maur utenfra, rolig:**
@@ -66,4 +66,4 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om maur **flere ganger**? Les om [gjentakende drømmer](/guider/gjentakende-drommer).
+- Har du drømt om maur **flere ganger**? Les om [gjentakende drømmer](/guider/gjentakende-drommer/).

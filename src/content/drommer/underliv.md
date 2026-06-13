@@ -56,7 +56,7 @@ Noe ved din kreative kraft, seksualitet eller vitalitet er sårbar eller krenket
 Kulturelt eller personlig betingede sperrer mot kontakt med det primære og instinktive.
 
 **Hvis det handlet om svangerskap eller fødsel:**
-Se [gravid](/drommer/gravid) og [føde](/drommer/foede) for de mest relevante tolkningene.
+Se [gravid](/drommer/gravid/) og [føde](/drommer/foede/) for de mest relevante tolkningene.
 
 **Hvis det var sykdom eller frykt:**
 Noe grunnleggende i livet ditt oppleves som truet — kontakt med legen din er alltid riktig ved fysisk uro.

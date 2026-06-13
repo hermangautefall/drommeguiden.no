@@ -21,7 +21,7 @@ relaterte_sovn:
 
 ## Hva betyr det å drømme om eksamen?
 
-Eksamensdrømmen er en av de mest gjenkjennelige drømmene som finnes — og den kommer ikke bare til studenter. Mange voksne godt opp i årene drømmer fortsatt om at de skal opp til eksamen de ikke har forberedt seg til, at de ikke finner eksamenslokalet, eller at de sitter med en oppgave de ikke forstår. Og de fleste av dem er ferdig med [skolen](/drommer/skole) for lenge siden.
+Eksamensdrømmen er en av de mest gjenkjennelige drømmene som finnes — og den kommer ikke bare til studenter. Mange voksne godt opp i årene drømmer fortsatt om at de skal opp til eksamen de ikke har forberedt seg til, at de ikke finner eksamenslokalet, eller at de sitter med en oppgave de ikke forstår. Og de fleste av dem er ferdig med [skolen](/drommer/skole/) for lenge siden.
 
 Det er ikke skolen drømmene handler om. Det er noe annet.
 
@@ -35,11 +35,11 @@ Drømmen spør: hvem eller hva tester deg akkurat nå, og er du trygg nok på de
 
 ### Impostorsyndrom og frykten for å bli avslørt
 
-En svært vanlig variant er at du i drømmen vet at du ikke har forberedt deg, at du ikke kan svaret, at alle snart vil oppdage at du ikke hører hjemme der. Denne følelsen av å [falle](/drommer/falle) gjennom kan være intens. Denne drømmens følelse er ekstremt gjenkjennelig for de som bærer på impostorsyndrom — en dypt menneskelig frykt for at prestasjonen din er et blaff og at sannheten snart vil komme frem.
+En svært vanlig variant er at du i drømmen vet at du ikke har forberedt deg, at du ikke kan svaret, at alle snart vil oppdage at du ikke hører hjemme der. Denne følelsen av å [falle](/drommer/falle/) gjennom kan være intens. Denne drømmens følelse er ekstremt gjenkjennelig for de som bærer på impostorsyndrom — en dypt menneskelig frykt for at prestasjonen din er et blaff og at sannheten snart vil komme frem.
 
 ### Press og stress som har hopet seg opp
 
-Eksamensdrømmer er svært vanlige i stressperioder. Hjernen henter frem det sterkeste bildet på press og tidsfrister den kjenner — beslektet med drømmer om [å komme for sent](/drommer/sen) —, og bruker det for å gi form til en diffus belastning. Drømmen er da ikke en symbolsk melding om noe spesifikt — den er en temperaturmåler som sier: det er for mye på en gang akkurat nå.
+Eksamensdrømmer er svært vanlige i stressperioder. Hjernen henter frem det sterkeste bildet på press og tidsfrister den kjenner — beslektet med drømmer om [å komme for sent](/drommer/sen/) —, og bruker det for å gi form til en diffus belastning. Drømmen er da ikke en symbolsk melding om noe spesifikt — den er en temperaturmåler som sier: det er for mye på en gang akkurat nå.
 
 ## Hva påvirker tolkningen?
 
@@ -47,7 +47,7 @@ Eksamensdrømmer er svært vanlige i stressperioder. Hjernen henter frem det ste
 Den klassiske varianten — speiler en frykt for å ikke strekke til, ikke mestre, ikke være god nok.
 
 **Hvis du ikke fant eksamenslokalet:**
-Forvirring, mangel på retning, eller en oppgave du ikke vet hvordan du skal angripe. Det kan også henge sammen med drømmer om [å miste noe](/drommer/miste-noe).
+Forvirring, mangel på retning, eller en oppgave du ikke vet hvordan du skal angripe. Det kan også henge sammen med drømmer om [å miste noe](/drommer/miste-noe/).
 
 **Hvis du klarte eksamen:**
 Et positivt tegn — du mestrer mer enn du tror, og underbevistheten vet det.
@@ -72,5 +72,5 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om eksamen **flere ganger**?
 
-> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

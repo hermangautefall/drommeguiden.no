@@ -32,11 +32,11 @@ Sjefen i drømmen representerer gjerne autoritetsprinsippet bredere — ikke bar
 
 ### Arbeidspress og ubearbeidede situasjoner
 
-Noen ganger er drømmen rett og slett praktisk — hjernen fortsetter å bearbeide arbeidsrelaterte utfordringer mens du sover. En krevende samtale som ikke har funnet sted, en beslutning du gruer deg til, en konflikt som ulmer. Mange opplever dette sammen med [eksamensdrømmer](/drommer/eksamen) i stressperioder. Drømmen er ikke nødvendigvis symbolsk — den kan rett og slett være hjernens måte å forberede seg på det som kommer.
+Noen ganger er drømmen rett og slett praktisk — hjernen fortsetter å bearbeide arbeidsrelaterte utfordringer mens du sover. En krevende samtale som ikke har funnet sted, en beslutning du gruer deg til, en konflikt som ulmer. Mange opplever dette sammen med [eksamensdrømmer](/drommer/eksamen/) i stressperioder. Drømmen er ikke nødvendigvis symbolsk — den kan rett og slett være hjernens måte å forberede seg på det som kommer.
 
 ### Den indre kritikeren
 
-Sjefen i drømmen kan være et ansikt på din egen indre kritiker — stemmen som vurderer, dømmer og aldri synes du er god nok. Særlig hvis sjefen i drømmen var misfornøyd, kald eller skuffet — spør deg selv om det egentlig er din egen stemme du hører. Les også om [drømmer om skole](/drommer/skole) for et lignende tema.
+Sjefen i drømmen kan være et ansikt på din egen indre kritiker — stemmen som vurderer, dømmer og aldri synes du er god nok. Særlig hvis sjefen i drømmen var misfornøyd, kald eller skuffet — spør deg selv om det egentlig er din egen stemme du hører. Les også om [drømmer om skole](/drommer/skole/) for et lignende tema.
 
 ## Hva påvirker tolkningen?
 
@@ -53,13 +53,13 @@ Noe uoppgjort på jobb — eller et ønske om å stå opp for deg selv på en m�
 Kan speile at du er klar for mer, eller at du bærer på mer ansvar enn du orker.
 
 **Hvis sjefen var din avdøde far eller en annen autoritetsfigur:**
-[Sjefen og farsfiguren](/drommer/far) overlapper ofte i drømmesymbolikken — begge representerer autoritet og vurdering.
+[Sjefen og farsfiguren](/drommer/far/) overlapper ofte i drømmesymbolikken — begge representerer autoritet og vurdering.
 
 ## Psykologiske og kulturelle perspektiver
 
 I jungiansk psykologi er sjefsfiguren i drømmer nært beslektet med farskomplekset — begge representerer det autoritære prinsippet som vurderer, setter grenser og avgjør hva som er verdig og hva som ikke er det. Å drømme om sjefen er dermed ofte en videreføring av de tidligste relasjonene vi hadde til autoritet.
 
-Forskning på arbeidsrelaterte drømmer viser at de er svært vanlige i perioder med høyt arbeidspress — som også kan gi drømmer om å komme [for sent](/drommer/sen) — og at de sjelden er varsler om noe konkret, men snarere tegn på at hjernen bearbeider emosjonelle aspekter av arbeidssituasjonen.
+Forskning på arbeidsrelaterte drømmer viser at de er svært vanlige i perioder med høyt arbeidspress — som også kan gi drømmer om å komme [for sent](/drommer/sen/) — og at de sjelden er varsler om noe konkret, men snarere tegn på at hjernen bearbeider emosjonelle aspekter av arbeidssituasjonen.
 
 ## Drømmeguiden anbefaler
 

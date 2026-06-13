@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om øyne?
 
-Øynene er sjelen vindu — og i drømmeverdenen er de et av de mest ladede og meningsfulle symbolene som finnes. Drømmer om øyne kan være intense og gripende: et par øyne som ser på deg, øyne som forsvinner, ditt eget blikk i et [speil](/drommer/speil) som er annerledes enn vanlig. Disse drømmene handler nesten alltid om noe dypt: om å se og å bli sett, om innsikt og sannhet.
+Øynene er sjelen vindu — og i drømmeverdenen er de et av de mest ladede og meningsfulle symbolene som finnes. Drømmer om øyne kan være intense og gripende: et par øyne som ser på deg, øyne som forsvinner, ditt eget blikk i et [speil](/drommer/speil/) som er annerledes enn vanlig. Disse drømmene handler nesten alltid om noe dypt: om å se og å bli sett, om innsikt og sannhet.
 
 Konteksten er avgjørende for tolkningen.
 
@@ -30,7 +30,7 @@ Konteksten er avgjørende for tolkningen.
 
 ### Å se og bli sett
 
-Drømmer om øyne kan handle om det sosiale blikket — om din opplevelse av å bli vurdert av andre. Et stort øye som ser på deg, eller mange øyne fra [ukjente ansikter](/drommer/fremmed), kan speile en periode der du føler deg eksponert, observert eller vurdert på måter som gjør deg ukomfortabel.
+Drømmer om øyne kan handle om det sosiale blikket — om din opplevelse av å bli vurdert av andre. Et stort øye som ser på deg, eller mange øyne fra [ukjente ansikter](/drommer/fremmed/), kan speile en periode der du føler deg eksponert, observert eller vurdert på måter som gjør deg ukomfortabel.
 
 ### Det du ikke vil se
 
@@ -45,10 +45,10 @@ Innsikt, klarhet og åndelig bevissthet. En positiv drøm om å se tydelig.
 Noe du frykter å se på, eller en kraft som overvåker deg på en måte som føles truende.
 
 **Hvis dine egne øyne var annerledes:**
-En endring i hvordan du ser deg selv — eller en ny side av deg selv som viser seg. Se også drømmer om [hår](/drommer/har) for et lignende identitetssymbol.
+En endring i hvordan du ser deg selv — eller en ny side av deg selv som viser seg. Se også drømmer om [hår](/drommer/har/) for et lignende identitetssymbol.
 
 **Hvis øynene var blinde eller borte:**
-Noe du ikke vil, kan eller orker å se på. Unngåelse eller manglende innsikt — en følelse som minner om det å drømme om et [mørkt rom](/drommer/morkt-rom).
+Noe du ikke vil, kan eller orker å se på. Unngåelse eller manglende innsikt — en følelse som minner om det å drømme om et [mørkt rom](/drommer/morkt-rom/).
 
 **Hvis et tredje øye åpnet seg:**
 Et klassisk symbol på åndelig innsikt og intuisjon som våkner — svært ladet i mange tradisjoner.

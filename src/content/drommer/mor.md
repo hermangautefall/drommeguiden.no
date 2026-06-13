@@ -20,7 +20,7 @@ author: 'default'
 
 Å drømme om moren sin er en av de mest universelle drømmeopplevelsene som finnes — og en av de mest følelsesladede. Enten relasjonen din til henne er nær og god, komplisert, eller preget av savn, bærer disse drømmene nesten alltid på noe viktig. Det er sjelden tilfeldig at hun dukker opp.
 
-Tolkningen avhenger sterkt av to ting: hva som skjedde i drømmen, og hvordan relasjonen din til henne er i virkeligheten. Mange drømmer også om [faren sin](/drommer/far) i tilsvarende perioder.
+Tolkningen avhenger sterkt av to ting: hva som skjedde i drømmen, og hvordan relasjonen din til henne er i virkeligheten. Mange drømmer også om [faren sin](/drommer/far/) i tilsvarende perioder.
 
 ## De vanligste tolkningene
 
@@ -40,7 +40,7 @@ Hvis hun i drømmen var bekymret, skuffet eller glad på dine vegne — spør de
 
 Drømmer om mor kan også komme når noe mellom dere ikke er ferdig bearbeidet — en gammel konflikt, noe utsagt, savn etter nærhet som aldri kom, eller sorg etter tap. Underbevistheten jobber videre med disse tingene selv når vi ikke aktivt tenker på dem, og bruker drømmene som bearbeidingsarena.
 
-Dette gjelder særlig for dem som har mistet moren sin — [drømmer om avdøde](/drommer/avdod-person) foreldre er svært vanlige og oppleves ofte som trøstende snarere enn skremmende.
+Dette gjelder særlig for dem som har mistet moren sin — [drømmer om avdøde](/drommer/avdod-person/) foreldre er svært vanlige og oppleves ofte som trøstende snarere enn skremmende.
 
 ## Hva påvirker tolkningen?
 
@@ -51,7 +51,7 @@ Et godt tegn — trygghet, varme og støtte er til stede i livet ditt, eller du 
 Kan speile indre selvkritikk eller en frykt for å skuffe noen du bryr deg om. Ikke nødvendigvis om henne personlig.
 
 **Hvis hun var syk eller i fare:**
-Angst for å miste noen du er glad i, eller bekymring for hennes faktiske helse hvis hun er eldre eller [syk](/drommer/sykdom).
+Angst for å miste noen du er glad i, eller bekymring for hennes faktiske helse hvis hun er eldre eller [syk](/drommer/sykdom/).
 
 **Hvis hun var avdød men levende i drømmen:**
 En av de mest vanlige og trøstende drømmene — oppleves gjerne som et besøk. Mange beskriver det som mer virkelig enn vanlige drømmer.
@@ -63,7 +63,7 @@ Kan handle om uoppgjorte følelser, eller om en indre konflikt mellom hva du vil
 
 Carl Jung så moren som en av de mest fundamentale arketypene i det kollektive ubevisste — "Den store moren" som representerer både livgivende omsorg og den krevende, grensesetterens kraft. I drømmer er hun sjelden bare seg selv — hun bærer på et universelt symbol som alle mennesker deler på tvers av kultur og tid.
 
-I norsk og nordisk tradisjon er morsrollen sterkt vevd inn i forestillingen om hjemsted og tilhørighet. Å drømme om mor kan for mange nordmenn henge tett sammen med drømmer om [hjem](/drommer/hus), natur og røtter — steder der man hørte til uten å måtte fortjene det.
+I norsk og nordisk tradisjon er morsrollen sterkt vevd inn i forestillingen om hjemsted og tilhørighet. Å drømme om mor kan for mange nordmenn henge tett sammen med drømmer om [hjem](/drommer/hus/), natur og røtter — steder der man hørte til uten å måtte fortjene det.
 
 ## Drømmeguiden anbefaler
 

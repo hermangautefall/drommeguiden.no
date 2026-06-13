@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om tre?
 
-Av alle naturens symboler er treet kanskje det mest ladet og mest universalt forståtte — det vokser fra [jordens](/drommer/jord) indre og strekker seg mot [himmelen](/drommer/himmel), det rommer røtter under og krone over, det er levende, tålmodig og bestandig. I nesten alle kulturer har treet representert livet selv, kosmologien, og det individet er i verden.
+Av alle naturens symboler er treet kanskje det mest ladet og mest universalt forståtte — det vokser fra [jordens](/drommer/jord/) indre og strekker seg mot [himmelen](/drommer/himmel/), det rommer røtter under og krone over, det er levende, tålmodig og bestandig. I nesten alle kulturer har treet representert livet selv, kosmologien, og det individet er i verden.
 
 Å drømme om et tre er å drømme om noe dypt.
 
@@ -26,7 +26,7 @@ Av alle naturens symboler er treet kanskje det mest ladet og mest universalt for
 
 ### Livsenergi og personlig vitalitet
 
-Den vanligste tolkningen handler om selvet i sin mest organiske form — din livsenergi, din vitalitet, din evne til å vokse. Et frodigt og kraftfullt tre i drøm speiler en tid med overskudd og styrke, der noe i deg [blomstrer](/drommer/blomst) og ekspanderer. Et vissent eller sykt tre er et varsel: noe tapper deg, noe trenger næring og oppmerksomhet.
+Den vanligste tolkningen handler om selvet i sin mest organiske form — din livsenergi, din vitalitet, din evne til å vokse. Et frodigt og kraftfullt tre i drøm speiler en tid med overskudd og styrke, der noe i deg [blomstrer](/drommer/blomst/) og ekspanderer. Et vissent eller sykt tre er et varsel: noe tapper deg, noe trenger næring og oppmerksomhet.
 
 Treets tilstand er et direkte speil av din indre tilstand.
 

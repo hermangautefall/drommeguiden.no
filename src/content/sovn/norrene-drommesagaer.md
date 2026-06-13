@@ -84,7 +84,7 @@ Norrøn drømmefundamentalisme er en av de rikeste og mest sofistikerte drømmek
 - Draumkvæde er et unikt norsk litterært verk der en julesøvn er en reise til de dødes rike
 - Felles med moderne psykologi: drømmene er meningsfulle og bærer informasjon
 
-Les videre: [Profetiske drømmer](/guider/profetiske-drommer) — [Berømte drømmer i historien](/sovn/beroemte-drommer) — [Troll — hva det betyr å drømme om troll](/drommer/troll)
+Les videre: [Profetiske drømmer](/guider/profetiske-drommer/) — [Berømte drømmer i historien](/sovn/beroemte-drommer/) — [Troll — hva det betyr å drømme om troll](/drommer/troll/)
 
 ## Kilder
 

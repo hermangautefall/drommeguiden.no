@@ -16,7 +16,7 @@ dato: 2026-03-18
 author: 'default'
 ---
 
-## Hva betyr det å drømme om å vinne [penger](/drommer/penger)?
+## Hva betyr det å drømme om å vinne [penger](/drommer/penger/)?
 
 Du skraper lodd, vinner i lotteriet, finner sedler på gaten. Det er en av de hyggeligste drømmescenarioene som finnes — og som oftest etterlater en med et stikk av skuffelse ved oppvåkning. Men hva betyr den egentlig?
 

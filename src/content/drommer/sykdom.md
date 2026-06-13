@@ -19,7 +19,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om å bli syk?
 
-Å drømme om at du er syk — at noe er galt med [kroppen](/kategori/kropp), at du har fått en alvorlig diagnose, eller at du ligger sengeliggende — er en drøm som kan sette seg fast og vekke uro. De fleste tenker instinktivt: betyr dette at jeg faktisk er syk? Svaret er nesten alltid nei. Disse drømmene handler sjelden om bokstavelig sykdom, men om noe mer overført.
+Å drømme om at du er syk — at noe er galt med [kroppen](/kategori/kropp/), at du har fått en alvorlig diagnose, eller at du ligger sengeliggende — er en drøm som kan sette seg fast og vekke uro. De fleste tenker instinktivt: betyr dette at jeg faktisk er syk? Svaret er nesten alltid nei. Disse drømmene handler sjelden om bokstavelig sykdom, men om noe mer overført.
 
 Kroppen i drømmene er et av de sterkeste symbolene vi har for vår indre tilstand.
 
@@ -48,7 +48,7 @@ Noe i livet ditt oppleves som en alvorlig trussel eller belastning. Det fortjene
 Et positivt tegn — ressursene til helbredelse er til stede. Noe forbedrer seg.
 
 **Hvis andre var syke:**
-Bekymring for noen du er glad i, eller en projeksjon av din egen sårbarhet over på noen andre. Det kan henge sammen med drømmer om [død](/drommer/do) eller frykt for tap.
+Bekymring for noen du er glad i, eller en projeksjon av din egen sårbarhet over på noen andre. Det kan henge sammen med drømmer om [død](/drommer/do/) eller frykt for tap.
 
 **Hvis du ikke visste hva som feilte deg:**
 En diffus angst eller belastning som ikke har fått et klart navn ennå.
@@ -60,7 +60,7 @@ Du søker og finner hjelp og støtte — enten faktisk eller symbolsk.
 
 Kroppen i drømmesymbolikken er alltid ladet — den er ikke bare fysisk, men et speil for den psykologiske tilstanden. Å drømme om sykdom er en av de måtene psyken kommuniserer på når verbale og kognitive kanaler ikke strekker til.
 
-Forskning på somatiske drømmer — drømmer der kroppen er sentral, som drømmer om [hodet](/drommer/hode) eller [magen](/drommer/mage) — viser at de er spesielt vanlige i perioder med høy emosjonell belastning, og at de sjelden varsler om faktisk organisk sykdom, men heller om psykologisk stress som bæres i kroppen.
+Forskning på somatiske drømmer — drømmer der kroppen er sentral, som drømmer om [hodet](/drommer/hode/) eller [magen](/drommer/mage/) — viser at de er spesielt vanlige i perioder med høy emosjonell belastning, og at de sjelden varsler om faktisk organisk sykdom, men heller om psykologisk stress som bæres i kroppen.
 
 ## Drømmeguiden anbefaler
 

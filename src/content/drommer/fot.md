@@ -30,11 +30,11 @@ Sterke, sikre føtter på fast mark speiler psykisk stabilitet og en god forankr
 
 ### Retning og de valg du tar
 
-Hvert skritt er en retningsbeslutning — du setter foten ned et sted og ikke et annet. Føtter i drømmene er dermed tett koblet til livets retning: er du på [vei](/drommer/vei) et sted du vil? Tar du de skrittene som trengs? Eller er du fast, redd for å bevege deg?
+Hvert skritt er en retningsbeslutning — du setter foten ned et sted og ikke et annet. Føtter i drømmene er dermed tett koblet til livets retning: er du på [vei](/drommer/vei/) et sted du vil? Tar du de skrittene som trengs? Eller er du fast, redd for å bevege deg?
 
 Drømmer om å gå med sikre skritt speiler besluttsomhet. Drømmer om å ikke komme seg fremover, om å synke i bakken eller om å gå på feil vei, speiler noe mer ambivalent.
 
-### Selvstendighet — å stå på egne [bein](/drommer/bein)
+### Selvstendighet — å stå på egne [bein](/drommer/bein/)
 
 "Å stå på egne bein" er en universell metafor for selvstendighet og selvberging. Å drømme om sterke føtter er å drømme om nettopp dette: evnen til å bære seg selv, til å ikke trenge støtte for å stå.
 

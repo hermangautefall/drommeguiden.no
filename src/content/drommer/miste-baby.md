@@ -63,7 +63,7 @@ Lettelse og gjenforening — noe du fryktet å miste er ikke tapt.
 En ubearbeidet frykt som fortsatt lever i deg. Hva i livet ditt trenger mer omsorg og oppmerksomhet?
 
 **Hvis drømmen opptrådte etter faktisk sorg eller tap:**
-For dem som har mistet et barn i virkeligheten: disse drømmene er en del av sorgbearbeidingen og fortjener romslighet og støtte. Se guiden om [sorg og søvn](/sovn/sorg-sovn).
+For dem som har mistet et barn i virkeligheten: disse drømmene er en del av sorgbearbeidingen og fortjener romslighet og støtte. Se guiden om [sorg og søvn](/sovn/sorg-sovn/).
 
 ## Psykologiske og kulturelle perspektiver
 

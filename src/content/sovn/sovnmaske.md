@@ -87,7 +87,7 @@ Mørket er en av søvnens viktigste forutsetninger:
 - Montering er avgjørende — lys langs kantene underminer effekten
 - Bedre mørke gir bedre REM og mer livaktige drømmer
 
-Les videre: [Soverommet for bedre søvn](/sovn/soverom-sovn) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Melatonin — dose og bruk](/sovn/melatonin)
+Les videre: [Soverommet for bedre søvn](/sovn/soverom-sovn/) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Melatonin — dose og bruk](/sovn/melatonin/)
 
 ## Kilder
 

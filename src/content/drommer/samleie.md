@@ -55,7 +55,7 @@ Psyken utforsker ukjente sider av seg selv. Den fremmede er en del av deg du enn
 Sjelden om faktisk begjær — oftest om beundring, maktdynamikk, ønsket om nærere kontakt eller et ønske om å tilegne seg noe de representerer.
 
 **Hvis det er en ekspartner:**
-Se symbolsiden for [eksen-sex](/drommer/eksen-sex) — dette er et eget og hyppig søkt fenomen.
+Se symbolsiden for [eksen-sex](/drommer/eksen-sex/) — dette er et eget og hyppig søkt fenomen.
 
 **Hvis drømmen var ubehagelig eller påtvunget:**
 Noe i livet ditt krenker dine grenser. Noe tar fra deg det du ikke ønsker å gi. Slike drømmer fortjener seriøs oppmerksomhet.
@@ -77,5 +77,5 @@ I de fleste kulturer har seksuelle drømmer vært tolket som tegn på fruktbarhe
 - Hva skjer i **livet ditt** akkurat nå — savner du nærhet eller kontakt?
 - Har du drømt om **samleie** med denne personen **flere ganger**?
 
-> 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

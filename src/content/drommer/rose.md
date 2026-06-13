@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om en rose?
 
-Rosen er ett av menneskekulturens mest ladede [blomster](/drommer/blomst) — symbol på [kjærlighet](/drommer/kjaerlighet), skjønnhet, hemmeligheter og det hellige gjennom tusenvis av år. I drømmene bærer den denne dobbelheten: noe av det vakreste som finnes, men med torner som sårer hvis du ikke håndterer den varsomt.
+Rosen er ett av menneskekulturens mest ladede [blomster](/drommer/blomst/) — symbol på [kjærlighet](/drommer/kjaerlighet/), skjønnhet, hemmeligheter og det hellige gjennom tusenvis av år. I drømmene bærer den denne dobbelheten: noe av det vakreste som finnes, men med torner som sårer hvis du ikke håndterer den varsomt.
 
 ## De vanligste tolkningene
 

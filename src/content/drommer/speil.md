@@ -39,13 +39,13 @@ Speilet lyver ikke — i hvert fall ikke i symbolsk forstand. Drømmer om speil 
 
 Denne tolkningen er spesielt sterk dersom speilbildet viser noe uventet: et annet ansikt, en eldre eller yngre versjon av deg, eller en følelsesmessig tilstand som er annerledes enn den du opprettholder utad. Drømmen kan da peke mot et gap mellom den du er og den du later som du er — en invitasjon til å bli mer autentisk.
 
-Drømmer om speil i [mørke rom](/drommer/morkt-rom) forsterker dette konfrontasjonstemaet. I mørket er det vanskeligere å gjemme seg, og speilet blir et verktøy for å se sannheten selv når du helst ville unngå den.
+Drømmer om speil i [mørke rom](/drommer/morkt-rom/) forsterker dette konfrontasjonstemaet. I mørket er det vanskeligere å gjemme seg, og speilet blir et verktøy for å se sannheten selv når du helst ville unngå den.
 
 ### Identitet i endring
 
 Speil dukker ofte opp i drømmer under perioder med identitetsmessig omveltning. Kanskje er du i ferd med å bli forelder, har avsluttet et langvarig forhold, eller befinner deg i en yrkesmessig overgang. I slike faser kan drømmen om speilet speile usikkerheten rundt hvem du er nå — den gamle identiteten passer ikke lenger, men den nye er ikke helt på plass ennå.
 
-Denne typen drøm kan også handle om sosiale masker. Hvis du i drømmen ser deg selv i speilet og opplever at ansiktet ikke helt er ditt, kan det peke mot en følelse av å spille en rolle som ikke er ekte. Mange som drømmer om [nakenhet](/drommer/naken) opplever lignende temaer — begge drømmene handler om å bli sett slik man faktisk er.
+Denne typen drøm kan også handle om sosiale masker. Hvis du i drømmen ser deg selv i speilet og opplever at ansiktet ikke helt er ditt, kan det peke mot en følelse av å spille en rolle som ikke er ekte. Mange som drømmer om [nakenhet](/drommer/naken/) opplever lignende temaer — begge drømmene handler om å bli sett slik man faktisk er.
 
 Drømmer der speilet er knust eller sprukket forsterker tematikken rundt identitet i oppløsning. Et knust speil er ikke nødvendigvis negativt — det kan også bety at et gammelt selvbilde brytes ned for å gi plass til et nytt og mer autentisk bilde av deg selv.
 
@@ -64,7 +64,7 @@ Peker ofte mot identitetskrise eller en dyptgripende forandring i hvem du opplev
 **Hvis speilet er tåkelagt eller uklart:**
 Kan tolkes som usikkerhet rundt selvbildet eller en følelse av at du ikke helt ser deg selv klart for øyeblikket.
 
-**Hvis du ser [hender](/drommer/hender) i speilet:**
+**Hvis du ser [hender](/drommer/hender/) i speilet:**
 Hendene som synes i speilet kan symbolisere handlingene dine sett utenfra — kanskje du reflekterer over noe du har gjort eller burde gjøre.
 
 ---

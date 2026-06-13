@@ -34,7 +34,7 @@ Sauen er et mildt og sårbart dyr — det angriper ikke, det forsvarer seg ikke.
 
 ### Ro og naturlig rytme
 
-I norsk kontekst er sauen knyttet til fjell og seterliv — til en langsom, naturlig rytme der du følger beite og sesong. Drømmens sau kan ha en mer rolig og positiv valens: en påminnelse om det enkle, det nøysomme, det som ikke jager. Se også [ku](/drommer/ku) for lignende symbolikk om det jordnære og nærende.
+I norsk kontekst er sauen knyttet til fjell og seterliv — til en langsom, naturlig rytme der du følger beite og sesong. Drømmens sau kan ha en mer rolig og positiv valens: en påminnelse om det enkle, det nøysomme, det som ikke jager. Se også [ku](/drommer/ku/) for lignende symbolikk om det jordnære og nærende.
 
 ## Hva påvirker tolkningen?
 
@@ -48,7 +48,7 @@ Du er i en lederrolle — du har ansvar for å veilede og beskytte noe sårbart.
 Noe sårbart er uten fellesskap og beskyttelse.
 
 **Hvis sauen ble angrepet:**
-Noe uskyldig og sårbart er truet — av ytre krefter eller av noe i deg selv. Drømmer om [ulv](/drommer/ulv) representerer ofte den truende kraften mot det sårbare.
+Noe uskyldig og sårbart er truet — av ytre krefter eller av noe i deg selv. Drømmer om [ulv](/drommer/ulv/) representerer ofte den truende kraften mot det sårbare.
 
 **Hvis du var sauen:**
 Spør deg selv ærlig: følger du andres retning fremfor din egen?
@@ -57,7 +57,7 @@ Spør deg selv ærlig: følger du andres retning fremfor din egen?
 
 "Den gode hyrde" er ett av de sterkeste kristne bildene på omsorg og ledelse — og det er nettopp sauen som trenger gjeting og beskyttelse, som gir dette bildet sin mening. I norsk kulturhistorie er saueholdet dypt forankret: seterdriften, ulla til vadmelen, lammet til høytiden. Sauen er ikke eksotisk — den er gammelmodig og kjent, noe av det mest norske som finnes.
 
-Jung ville sett sauen som en representasjon av det kollektive Persona — den delen av oss som tilpasser seg normen og flokken, som ikke skiller seg ut. Nødvendig, men ikke tilstrekkelig for et fullt liv. Se [kategori dyr](/kategori/dyr) for flere dyresymboler.
+Jung ville sett sauen som en representasjon av det kollektive Persona — den delen av oss som tilpasser seg normen og flokken, som ikke skiller seg ut. Nødvendig, men ikke tilstrekkelig for et fullt liv. Se [kategori dyr](/kategori/dyr/) for flere dyresymboler.
 
 ## Drømmeguiden anbefaler
 

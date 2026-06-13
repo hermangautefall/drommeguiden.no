@@ -72,7 +72,7 @@ Hva betyr fargene for deg, i din kulturelle bakgrunn og i din personlige livshis
 
 ## Praktiske råd
 
-Når du noterer drømmene dine i [drømmejournalen](/guider/drommejournalen), noter alltid farger som var spesielt intense eller uvanlige. Over tid vil du oppdage mønstre: kanskje rød alltid dukker opp i perioder med stress, eller blå i perioder med ro. Dine personlige fargeassosiasjoner er like viktige som de kulturelle.
+Når du noterer drømmene dine i [drømmejournalen](/guider/drommejournalen/), noter alltid farger som var spesielt intense eller uvanlige. Over tid vil du oppdage mønstre: kanskje rød alltid dukker opp i perioder med stress, eller blå i perioder med ro. Dine personlige fargeassosiasjoner er like viktige som de kulturelle.
 
 ## Oppsummering
 
@@ -105,7 +105,7 @@ Uvanlig intense farger i drømmene er gjerne tegn på at noe er særlig ladet �
 
 Hvis du har gjentakende drømmer, legg merke til om fargene er de samme fra gang til gang. Et rom som alltid er grønt, et hav som alltid er mørkeblått, en figur som alltid er hvit — disse gjentakende fargesymbolene er personlig konsistente og forteller noe om et fast tema i underbevistheten.
 
-Over tid, i [drømmejournalen](/guider/drommejournalen), vil du kunne se mønsteret: hvilke farger dominerer i gode perioder, hvilke i krevende perioder, hvilke i overganger.
+Over tid, i [drømmejournalen](/guider/drommejournalen/), vil du kunne se mønsteret: hvilke farger dominerer i gode perioder, hvilke i krevende perioder, hvilke i overganger.
 
 ## Oppsummering
 
@@ -124,4 +124,4 @@ Farger i drømmene er et eget lag av symbolspråk som beriker drømmens mening:
 
 Unaturlig intense eller mette farger er alltid verdt å legge særlig merke til — de er ofte de mest meningsfulle fargeopptredelsene i drømmene.
 
-Relatert: [drommejournalen](/guider/drommejournalen) — [lucid-dromming](/guider/lucid-dromming) — [hva-er-drommer](/guider/hva-er-drommer)
+Relatert: [drommejournalen](/guider/drommejournalen/) — [lucid-dromming](/guider/lucid-dromming/) — [hva-er-drommer](/guider/hva-er-drommer/)

@@ -24,7 +24,7 @@ Skipet er havets mesterverk — menneskenes svar på havets uendelighet. Det bæ
 
 ### Livsreisen gjennom det dype
 
-Den klassiske tolkningen handler om skipet som bærer av livsreisen — du krysser store, dype farvann. [Havet](/drommer/hav) er det ubevisste og det emosjonelle; skipet er det konstruerte, det menneskeskapte som gjør kryssingen mulig. Drømmens skip er din evne til å navigere det store og ukjente.
+Den klassiske tolkningen handler om skipet som bærer av livsreisen — du krysser store, dype farvann. [Havet](/drommer/hav/) er det ubevisste og det emosjonelle; skipet er det konstruerte, det menneskeskapte som gjør kryssingen mulig. Drømmens skip er din evne til å navigere det store og ukjente.
 
 ### Å bære seg selv og andre
 
@@ -49,14 +49,14 @@ Noe som bar deg klarer det ikke lenger. En krise i livsstrukturen.
 Du har kontroll og ansvar for retningen — både for deg selv og andre.
 
 **Hvis skipet var et vikingskip:**
-En særnorsk drømmefigur — mot, eventyr og reisen mot det ukjente. Se [vikingskip i drøm](/drommer/vikingskip).
+En særnorsk drømmefigur — mot, eventyr og reisen mot det ukjente. Se [vikingskip i drøm](/drommer/vikingskip/).
 
 **Hvis du sto og så skipet dra:**
 Noe drar fra deg — en mulighet, en fase, en relasjon du ikke er med på.
 
 ## Psykologiske og kulturelle perspektiver
 
-For nordmenn er skipet ikke et fremmed symbol — det er identitetens kjerne. Vikingtidens skip var teknologiens vidunder og bevegelsesfrihetens instrument. Skipet som krysser en [bro](/drommer/bro) er et særlig kraftfullt bilde. Det norrøne begrepet "langskip" er ikke bare et fartøy — det er et løfte om horisont.
+For nordmenn er skipet ikke et fremmed symbol — det er identitetens kjerne. Vikingtidens skip var teknologiens vidunder og bevegelsesfrihetens instrument. Skipet som krysser en [bro](/drommer/bro/) er et særlig kraftfullt bilde. Det norrøne begrepet "langskip" er ikke bare et fartøy — det er et løfte om horisont.
 
 Jung beskrev skipet som ett av de arketypiske fartøyene for sjelsreisen — det som bærer bevisstheten over ubevisste farvann. Å drømme om et skip er å drømme om å holde seg flytende i det dypeste av alt.
 

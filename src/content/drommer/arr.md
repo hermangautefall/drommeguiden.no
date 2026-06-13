@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om arr?
 
-Et arr er ikke et [sår](/drommer/saar) — det er et leget sår. Det er forskjellen mellom noe som fortsatt gjør vondt og noe som har grodd, men som etterlater et synlig spor. I drømmene er dette et viktig skille: arr handler om fortiden som lever videre i nåtiden — ikke som åpen smerte, men som merke og minne.
+Et arr er ikke et [sår](/drommer/saar/) — det er et leget sår. Det er forskjellen mellom noe som fortsatt gjør vondt og noe som har grodd, men som etterlater et synlig spor. I drømmene er dette et viktig skille: arr handler om fortiden som lever videre i nåtiden — ikke som åpen smerte, men som merke og minne.
 
 ## De vanligste tolkningene
 
@@ -78,5 +78,5 @@ Jung brukte "skadet healer"-arketypen — den Sårede Heleren — som ett av de 
 - Hva skjer i **livet ditt** akkurat nå — er det noe i fortiden din som fortsatt setter merker?
 - Har du drømt om **arr eller merker** **flere ganger**?
 
-> 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

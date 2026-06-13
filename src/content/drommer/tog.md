@@ -18,9 +18,9 @@ author: 'default'
 
 ## Hva betyr det å drømme om tog?
 
-Toget er et av de mest klassiske reisesymbolene i drømmeverdenen — og i motsetning til [bilen](/drommer/bil), der du selv styrer, er toget noe du er passasjer på. Du er med, men du bestemmer ikke kursen. Toget er livet som går, tidsplaner som må overholdes, og en retning som ikke alltid er selvvalgt.
+Toget er et av de mest klassiske reisesymbolene i drømmeverdenen — og i motsetning til [bilen](/drommer/bil/), der du selv styrer, er toget noe du er passasjer på. Du er med, men du bestemmer ikke kursen. Toget er livet som går, tidsplaner som må overholdes, og en retning som ikke alltid er selvvalgt.
 
-Togdrømmene plasserer deg på en [reise](/drommer/utlandet) — og spørsmålet drømmen stiller er ofte: er du på rett tog?
+Togdrømmene plasserer deg på en [reise](/drommer/utlandet/) — og spørsmålet drømmen stiller er ofte: er du på rett tog?
 
 ## De vanligste tolkningene
 
@@ -30,7 +30,7 @@ Den vanligste tolkningen handler om livets retning — jobbveien du har valgt, f
 
 ### Å gå glipp av toget
 
-En av de aller vanligste variantene — du løper men rekker det ikke, du ser det kjøre fra deg, du er på feil tog. Disse drømmene henger tett sammen med [for-sent-drømmene](/drommer/sen) og eksamensdørmmene, og speiler gjerne en frykt for å gå glipp av muligheter, tidspunkter eller overganger i livet.
+En av de aller vanligste variantene — du løper men rekker det ikke, du ser det kjøre fra deg, du er på feil tog. Disse drømmene henger tett sammen med [for-sent-drømmene](/drommer/sen/) og eksamensdørmmene, og speiler gjerne en frykt for å gå glipp av muligheter, tidspunkter eller overganger i livet.
 
 ### Passivitet og mangel på kontroll
 

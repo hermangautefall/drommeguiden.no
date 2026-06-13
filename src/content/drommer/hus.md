@@ -39,7 +39,7 @@ En av de mest fascinerende husdrømmene er den der du oppdager rom du ikke visst
 
 Denne drømmen dukker ofte opp i perioder med personlig vekst — kanskje du har begynt med noe nytt, utforsket en ny interesse, eller kommet i kontakt med sider av deg selv som har ligget i dvale. De nye rommene er psykens måte å si: det er mer i deg enn du tror.
 
-Men drømmen kan også ha en skygge. Dersom de ukjente rommene er mørke, skumle eller truende, kan det handle om deler av deg selv du kvier deg for å utforske. Se drømmer om et [morkt-rom](/drommer/morkt-rom) for mer om dette temaet.
+Men drømmen kan også ha en skygge. Dersom de ukjente rommene er mørke, skumle eller truende, kan det handle om deler av deg selv du kvier deg for å utforske. Se drømmer om et [morkt-rom](/drommer/morkt-rom/) for mer om dette temaet.
 
 ### Vedlikehold og forsømmelse
 
@@ -62,7 +62,7 @@ Drømmen handler sannsynligvis om fortiden — minner, mønstre eller relasjoner
 Et tegn på selvoppdagelse og nye muligheter. Du er i ferd med å finne noe i deg selv som du ikke kjente til.
 
 **Hvis huset brenner:**
-Kan speile en dramatisk forvandling eller en følelse av at noe i livet ditt er i ferd med å gå opp i flammer. Se [brann](/drommer/brann) for en dypere utforskning av dette symbolet.
+Kan speile en dramatisk forvandling eller en følelse av at noe i livet ditt er i ferd med å gå opp i flammer. Se [brann](/drommer/brann/) for en dypere utforskning av dette symbolet.
 
 **Hvis huset er tomt:**
 Kan peke mot en følelse av tomhet, ensomhet eller at du har mistet noe vesentlig i livet ditt.
@@ -75,7 +75,7 @@ Carl Jung brukte huset som et av sine mest sentrale drømmesymboler. Han beskrev
 
 I norrøn tradisjon hadde huset — eller rettere sagt hallen — en dyp symbolsk betydning. Hallen var sentrum for fellesskap, makt og identitet. Å drømme om et stort, sterkt hus ble sett som et godt tegn, mens et falleferdig hus kunne varsle ulykke eller tap av status. Denne forbindelsen mellom huset og identiteten finnes fortsatt i moderne drømmer.
 
-I norsk kultur har hjemmet en helt spesiell plass. Uttrykket "borte bra, hjemme best" sier mye om hvor sterkt nordmenn knytter identitet og trygghet til sitt eget hus. Drømmer om hus i en norsk kontekst bærer ofte med seg denne ekstra dimensjonen — hjemmet som et sted der du kan være deg selv, og der tilstanden til det fysiske rommet speiler tilstanden til den som bor der. Se også drømmer om [speil](/drommer/speil), som deler temaet om selvrefleksjon.
+I norsk kultur har hjemmet en helt spesiell plass. Uttrykket "borte bra, hjemme best" sier mye om hvor sterkt nordmenn knytter identitet og trygghet til sitt eget hus. Drømmer om hus i en norsk kontekst bærer ofte med seg denne ekstra dimensjonen — hjemmet som et sted der du kan være deg selv, og der tilstanden til det fysiske rommet speiler tilstanden til den som bor der. Se også drømmer om [speil](/drommer/speil/), som deler temaet om selvrefleksjon.
 
 ---
 

@@ -77,5 +77,5 @@ Norrøn mytologi har en interessant parallell: Freyja — guddinnen for kjærlig
 - Hva skjer i **livet ditt** akkurat nå — er det noe som bygger seg opp?
 - Har du drømt om **seksuell utladning** uten seksuelt innhold **flere ganger**?
 
-> 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

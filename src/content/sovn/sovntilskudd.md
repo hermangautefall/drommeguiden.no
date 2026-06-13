@@ -25,7 +25,7 @@ Her er en gjennomgang basert på hva forskning faktisk viser — ikke hva produk
 
 Melatonin er det eneste søvntilskuddet med virkelig sterk dokumentasjon — men for spesifikke tilstander. Det virker godt ved jetlag, forsinket søvnfasesyndrom og søvnproblemer hos eldre. Det virker dårlig som generelt sovemiddel for vanlig insomni.
 
-Se den fullstendige artikkelen om [melatonin](/sovn/melatonin) for dosering og brukssituasjoner.
+Se den fullstendige artikkelen om [melatonin](/sovn/melatonin/) for dosering og brukssituasjoner.
 
 <!-- AFFILIATE: Legg til anbefalt melatonin her -->
 
@@ -108,7 +108,7 @@ Ikke alle søvntilskudd er like — her er det korte svaret:
 - Ashwagandha: god dokumentasjon for stressreduksjon — indirekte søvneffekt
 - GABA: tvilsom hjerne-opptak ved oral inntak — begrenset direkte søvneffekt
 
-Les videre: [Melatonin — dose og bruk](/sovn/melatonin) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Angst og søvn](/sovn/angst-sovn)
+Les videre: [Melatonin — dose og bruk](/sovn/melatonin/) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene/) — [Angst og søvn](/sovn/angst-sovn/)
 
 ## Kilder
 

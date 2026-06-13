@@ -35,7 +35,7 @@ Hvis bjørnen i drømmen var rolig og majestetisk, kan det gjenspeile en trygg s
 
 I perioder med utfordringer kan bjørnedrømmen også fungere som en oppfordring om å mobilisere styrken din. Kanskje du har stått i en situasjon der du har vært for forsiktig eller unnvikende. Bjørnen ber deg reise deg opp, ta plass og stå opp for deg selv.
 
-Drømmer om [ulv](/drommer/ulv) deler noe av denne styrketematikken, men der ulven representerer en mer sosial og strategisk kraft, er bjørnens styrke mer individuell og grunnfjellaktig.
+Drømmer om [ulv](/drommer/ulv/) deler noe av denne styrketematikken, men der ulven representerer en mer sosial og strategisk kraft, er bjørnens styrke mer individuell og grunnfjellaktig.
 
 ### Hvile og tilbaketrekning
 
@@ -45,7 +45,7 @@ Hvis du har hatt en travel periode — mye jobb, mange sosiale forpliktelser, el
 
 Denne tolkningen er spesielt relevant hvis bjørnen i drømmen trakk seg tilbake til en hule, sov, eller virket fredelig og uforstyrret. Drømmen speiler da det du trenger, ikke det du frykter. Den er en invitasjon til å tillate deg selv å trekke deg tilbake uten dårlig samvittighet.
 
-Å drømme om bjørn i en [skog](/drommer/skog) kan forsterke denne tolkningen — skogen representerer det naturlige, uberørte rommet der du kan finne tilbake til deg selv.
+Å drømme om bjørn i en [skog](/drommer/skog/) kan forsterke denne tolkningen — skogen representerer det naturlige, uberørte rommet der du kan finne tilbake til deg selv.
 
 ### Beskyttelse og omsorgsinstinkt
 
@@ -55,7 +55,7 @@ Kanskje du er i en situasjon der du føler et sterkt behov for å beskytte noen 
 
 Drømmen kan også handle om at du selv trenger beskyttelse. Kanskje du føler deg sårbar eller utsatt, og bjørnen i drømmen representerer den styrken du ønsker deg — en kraft som kan holde det farlige på avstand.
 
-Hvis bjørnen i drømmen var vennlig og nær, kan det tolkes som at du har sterke beskyttere i livet ditt — mennesker som stiller opp for deg uten betingelser. Drømmer om [hund](/drommer/hund) kan gi lignende tematikk rundt beskyttelse og lojalitet, men bjørnens beskyttelse er villere og mer urberørt.
+Hvis bjørnen i drømmen var vennlig og nær, kan det tolkes som at du har sterke beskyttere i livet ditt — mennesker som stiller opp for deg uten betingelser. Drømmer om [hund](/drommer/hund/) kan gi lignende tematikk rundt beskyttelse og lojalitet, men bjørnens beskyttelse er villere og mer urberørt.
 
 ---
 
@@ -73,7 +73,7 @@ En fredfull bjørn peker mot styrke i balanse. Du har kraften, men du trenger ik
 Binne med unger forsterker temaet om beskyttelse og omsorg. Det kan handle om familierelasjoner, foreldreskap, eller en situasjon der du føler deg ansvarlig for andres ve og vel.
 
 **Hvis bjørnen var i dvale:**
-En sovende bjørn er et sterkt signal om behov for hvile. Kroppen og sinnet ditt ber om pause. Det kan også symbolisere en kraft i deg som er i hvile, men som kan vekkes når den trengs. Bjørnen i [fjell](/drommer/fjell)-landskap forsterker følelsen av urberørt, stille kraft.
+En sovende bjørn er et sterkt signal om behov for hvile. Kroppen og sinnet ditt ber om pause. Det kan også symbolisere en kraft i deg som er i hvile, men som kan vekkes når den trengs. Bjørnen i [fjell](/drommer/fjell/)-landskap forsterker følelsen av urberørt, stille kraft.
 
 ---
 

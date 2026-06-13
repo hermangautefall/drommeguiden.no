@@ -22,7 +22,7 @@ Mellom 3 og 6 år er mareritt på sitt vanligste. Dette er en normal del av utvi
 
 Freuds perspektiv — at drømmene representerer undertrykte ønsker — passer dårlig for barns mareritt. En mer nyttig forståelse er at hjernen i REM-søvn bearbeider emosjonelt materiale, og at barna i drømmealderen er i en fase med mange nye, intense og av og til skremmende erfaringer som skal prosesseres.
 
-Det er viktig å skille mellom mareritt — der barnet husker drømmen og er kontaktbart etter oppvåkning — og nattskrekk, der barnet er ukontaktbart og husker ingenting. Se guiden om [nattskrekk](/guider/nattskrekk) for mer om dette skillet.
+Det er viktig å skille mellom mareritt — der barnet husker drømmen og er kontaktbart etter oppvåkning — og nattskrekk, der barnet er ukontaktbart og husker ingenting. Se guiden om [nattskrekk](/guider/nattskrekk/) for mer om dette skillet.
 
 ## Hva forteller barnas drømmer oss?
 
@@ -52,11 +52,11 @@ La dem tegne eller leke ut drømmene. Særlig for de yngste er det å leke drøm
 
 Noen barn har gjentakende mareritt — samme eller lignende drøm, gang på gang. Dette kan være et tegn på at noe emosjonelt er ubearbeidet: en endring i familiesituasjonen, en konflikt i barnehagen eller skolen, en skremmende opplevelse. Gjentakende mareritt som vedvarer i uker eller måneder fortjener oppmerksomhet — en samtale med helsestasjonen eller barnets lege kan hjelpe.
 
-Image Rehearsal Therapy (IRT) — der barnet med hjelp av en voksen "skriver om" den skremmende drømmens slutt til noe godt — har vist gode resultater for barn med gjentakende mareritt. Se guiden om [mareritt](/guider/mareritt) for mer.
+Image Rehearsal Therapy (IRT) — der barnet med hjelp av en voksen "skriver om" den skremmende drømmens slutt til noe godt — har vist gode resultater for barn med gjentakende mareritt. Se guiden om [mareritt](/guider/mareritt/) for mer.
 
 ## Lucide drømmer hos barn
 
-Noen barn opplever at de vet at de drømmer mens de drømmer — dette kalles [lucide drømmer](/guider/lucid-dromming). Det er vanligst hos barn fra rundt 8–10 år og eldre. Mange barn opplever dette som spennende og positivt — og noen lærer seg å styre drømmens innhold.
+Noen barn opplever at de vet at de drømmer mens de drømmer — dette kalles [lucide drømmer](/guider/lucid-dromming/). Det er vanligst hos barn fra rundt 8–10 år og eldre. Mange barn opplever dette som spennende og positivt — og noen lærer seg å styre drømmens innhold.
 
 Lucide drømmende barn rapporterer gjerne at de aktivt kan endre mareritts forløp: "Jeg bestemte at jeg kunne fly, og da ble monsteret borte." Denne evnen er ikke farlig — den er et tegn på kognitiv modenhet og kreativitet.
 
@@ -80,7 +80,7 @@ Barns drømmeverden er rik, intenst aktiv og viktig å ta på alvor:
 
 ## En enkel drømmejournalrutine for barn
 
-Selv om [drømmejournalen](/guider/drommejournalen) er et kraftfullt verktøy for voksne, kan en tilpasset versjon fungere godt for barn fra rundt 6 år:
+Selv om [drømmejournalen](/guider/drommejournalen/) er et kraftfullt verktøy for voksne, kan en tilpasset versjon fungere godt for barn fra rundt 6 år:
 
 La barnet ha en tegnebok ved sengen fremfor en skrivebok. De første minuttene etter oppvåkning kan barnet tegne noe fra drømmen — et ansikt, et dyr, et sted. Dette trener drømmehusking på en lekende måte.
 
@@ -100,4 +100,4 @@ Barns drømmeverden er rik, intenst aktiv og viktig å ta på alvor:
 - Lucide drømmer hos barn er normalt og positivt
 - Tenåringers søvnbehov og drømmemønstre er biologisk annerledes
 
-Relatert: [drommejournalen](/guider/drommejournalen) — [mareritt](/guider/mareritt) — [nattskrekk](/guider/nattskrekk)
+Relatert: [drommejournalen](/guider/drommejournalen/) — [mareritt](/guider/mareritt/) — [nattskrekk](/guider/nattskrekk/)

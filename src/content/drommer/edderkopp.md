@@ -38,7 +38,7 @@ Kanskje du er i ferd med å bygge noe i livet ditt — et prosjekt, en karriere,
 
 Denne tolkningen er spesielt relevant for deg som arbeider kreativt eller som er i en fase der du legger grunnlaget for noe nytt. Edderkoppen minner deg om at store ting skapes steg for steg — og at prosessen i seg selv er meningsfull.
 
-Nettet kan også symbolisere sammenhenger og forbindelser. Kanskje du er i ferd med å se hvordan ulike deler av livet ditt henger sammen på måter du ikke forsto før. Drømmer om å vandre gjennom en [skog](/drommer/skog) kan bære med seg en lignende følelse av å oppdage skjulte sammenhenger.
+Nettet kan også symbolisere sammenhenger og forbindelser. Kanskje du er i ferd med å se hvordan ulike deler av livet ditt henger sammen på måter du ikke forsto før. Drømmer om å vandre gjennom en [skog](/drommer/skog/) kan bære med seg en lignende følelse av å oppdage skjulte sammenhenger.
 
 ### Frykt og ubehag
 
@@ -46,7 +46,7 @@ Det er umulig å snakke om edderkopper i drømmer uten å nevne frykt. Araknofob
 
 Hvis edderkoppen i drømmen fremkalte frykt, kan den representere noe i livet ditt som du opplever som truende men som du kanskje ikke helt kan sette ord på. Det kan være en diffus angst, en situasjon du unngår, eller en følelse av at noe lurker i skyggene. Drømmen tar den abstrakte frykten og gir den en konkret form.
 
-Størrelsen på edderkoppen kan si noe om hvor stor frykten føles. En liten edderkopp kan peke mot en irritasjon eller en liten bekymring, mens en enorm edderkopp kan symbolisere en frykt som føles overveldende. Drømmer som foregår i [mørke rom](/drommer/morkt-rom) kan forsterke denne følelsen av ukjent trussel.
+Størrelsen på edderkoppen kan si noe om hvor stor frykten føles. En liten edderkopp kan peke mot en irritasjon eller en liten bekymring, mens en enorm edderkopp kan symbolisere en frykt som føles overveldende. Drømmer som foregår i [mørke rom](/drommer/morkt-rom/) kan forsterke denne følelsen av ukjent trussel.
 
 Men det er verdt å huske: Det du frykter i drømmen er ikke nødvendigvis farlig i virkeligheten. Drømmen gir deg et trygt rom for å konfrontere frykten — noe som i seg selv kan være helende.
 
@@ -58,7 +58,7 @@ Hvis du drømte at du var fanget i et edderkoppnett, kan det tolkes som at du f�
 
 Denne tolkningen kan også handle om en bestemt person. Er det noen i livet ditt som virker å spinne nett rundt deg — noen som manipulerer, kontrollerer, eller trekker i tråder bak kulissene? Drømmen kan være et varsel om å være oppmerksom.
 
-Lignende tematikk finnes i drømmer om [slange](/drommer/slange), der slangens lure natur kan peke mot bedrag og skjulte motiver.
+Lignende tematikk finnes i drømmer om [slange](/drommer/slange/), der slangens lure natur kan peke mot bedrag og skjulte motiver.
 
 ---
 
@@ -76,7 +76,7 @@ En fredfull, arbeidsom edderkopp peker mot kreativitet og skaperkraft. Drømmen 
 Å drepe en edderkopp i drømmen kan symbolisere at du konfronterer og overvinner en frykt. Det er et positivt tegn — du er klar for å ta tak i det som har holdt deg tilbake.
 
 **Hvis mange edderkopper omringet deg:**
-Å bli omringet kan peke mot en følelse av å være overveldet av bekymringer eller problemer som hoper seg opp. Det kan også handle om en sosial situasjon der du føler deg presset fra alle kanter. Drømmer om å være i en tett [katt](/drommer/katt)-situasjon med uforutsigbare elementer kan gi lignende følelser.
+Å bli omringet kan peke mot en følelse av å være overveldet av bekymringer eller problemer som hoper seg opp. Det kan også handle om en sosial situasjon der du føler deg presset fra alle kanter. Drømmer om å være i en tett [katt](/drommer/katt/)-situasjon med uforutsigbare elementer kan gi lignende følelser.
 
 ---
 

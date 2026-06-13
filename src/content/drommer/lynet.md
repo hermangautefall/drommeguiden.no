@@ -32,7 +32,7 @@ Lyn er elektrisk — og i drømmene representerer det en ladet, intens tilstand.
 
 ### En plutselig krise eller hendelse
 
-Lynet slår ned uten forvarsel — og drømmene om det kan speile en frykt for, eller en bearbeiding av, noe som skjedde brått. En hendelse som endret alt på et øyeblikk. Se også [jordskjelv](/drommer/jordskjelv) for lignende drømmer om plutselig omveltning.
+Lynet slår ned uten forvarsel — og drømmene om det kan speile en frykt for, eller en bearbeiding av, noe som skjedde brått. En hendelse som endret alt på et øyeblikk. Se også [jordskjelv](/drommer/jordskjelv/) for lignende drømmer om plutselig omveltning.
 
 ## Hva påvirker tolkningen?
 
@@ -40,7 +40,7 @@ Lynet slår ned uten forvarsel — og drømmene om det kan speile en frykt for, 
 Noe treffer deg direkte — en innsikt, en hendelse, en forandring som berører deg personlig.
 
 **Hvis lynet traff noe annet:**
-En kraft som berører omgivelsene dine — noe utenfor deg er i dramatisk forandring. Drømmer om [brann](/drommer/brann) deler noe av den samme destruktive energien.
+En kraft som berører omgivelsene dine — noe utenfor deg er i dramatisk forandring. Drømmer om [brann](/drommer/brann/) deler noe av den samme destruktive energien.
 
 **Hvis lynet var vakkert:**
 Den dramatiske innsiktens skjønnhet — noe overveldende er også beundringsverdig.
@@ -55,7 +55,7 @@ Innsikten er der, men konsekvensene er ennå ikke kommet. Noe er i bevegelse.
 
 Tor — norrønens tordengud — styrte lynet som et våpen og som beskyttelse. Tors hammer Mjølner slo ned fiendene, men vernet også de svake. Lynet er i nordisk tradisjon ikke bare farlig — det er kraftens redskap, brukt av den sterkeste for å opprettholde orden.
 
-Jung ville sett lyndrømmens plutselige innsikt som et gjennombrudd fra det ubevisste til bevisstheten — noe som ikke lar seg ignorere, noe som forlanger oppmerksomhet med full kraft. Lyn opptrer ofte sammen med [storm](/drommer/storm) i drømmene.
+Jung ville sett lyndrømmens plutselige innsikt som et gjennombrudd fra det ubevisste til bevisstheten — noe som ikke lar seg ignorere, noe som forlanger oppmerksomhet med full kraft. Lyn opptrer ofte sammen med [storm](/drommer/storm/) i drømmene.
 
 ## Drømmeguiden anbefaler
 

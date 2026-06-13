@@ -26,15 +26,15 @@ Tematisk overlapping med stresskilden. Drømmene er sjelden bokstavelige — sje
 
 Noen drømmer er så konsekvent knyttet til stress at de nesten er universale:
 
-Eksamen du ikke er forberedt til. En av de vanligste stressdrømmene på tvers av kulturer og aldersgrupper. Du er tilbake på skolen, eksamenen begynner om fem minutter, du har ikke lest. Dette drømmer folk om lenge etter at de er ferdige med utdanningen — fordi drømmens eksamen ikke handler om skole, men om følelsen av å bli vurdert og funnet mangelfull. Se symbolsiden for [eksamen](/drommer/eksamen).
+Eksamen du ikke er forberedt til. En av de vanligste stressdrømmene på tvers av kulturer og aldersgrupper. Du er tilbake på skolen, eksamenen begynner om fem minutter, du har ikke lest. Dette drømmer folk om lenge etter at de er ferdige med utdanningen — fordi drømmens eksamen ikke handler om skole, men om følelsen av å bli vurdert og funnet mangelfull. Se symbolsiden for [eksamen](/drommer/eksamen/).
 
-Å miste [tenner](/drommer/tann). En av de vanligste stressdrømmene — tennene løsner, smuldrer eller faller ut. Drømmen kobles ofte til selvbilde, kontroll og frykt for tap, og er spesielt hyppig i perioder med høyt press.
+Å miste [tenner](/drommer/tann/). En av de vanligste stressdrømmene — tennene løsner, smuldrer eller faller ut. Drømmen kobles ofte til selvbilde, kontroll og frykt for tap, og er spesielt hyppig i perioder med høyt press.
 
-Å komme for sent. Bussen kjører, toget drar, flyet letter — uten deg. En av de tydeligste drømmene på at du opplever livet som for travelt, at du ikke rekker alt, at noe viktig glipp. Se symbolsiden for [sen](/drommer/sen).
+Å komme for sent. Bussen kjører, toget drar, flyet letter — uten deg. En av de tydeligste drømmene på at du opplever livet som for travelt, at du ikke rekker alt, at noe viktig glipp. Se symbolsiden for [sen](/drommer/sen/).
 
-Å bli forfulgt. Klassisk angstdrøm der noe truer og du ikke kan komme unna. Under stress er dette spesielt vanlig — det som forfølger deg er gjerne en personifisering av det presset du bærer på. Se symbolsiden for [forfulgt](/drommer/forfulgt).
+Å bli forfulgt. Klassisk angstdrøm der noe truer og du ikke kan komme unna. Under stress er dette spesielt vanlig — det som forfølger deg er gjerne en personifisering av det presset du bærer på. Se symbolsiden for [forfulgt](/drommer/forfulgt/).
 
-Å falle. Plutselig fritt fall, kontroll som forsvinner. Under stress er falldrømmene hyppigere og mer intense — de speiler en følelse av å miste grepet, av at underlaget ikke er trygt. Se symbolsiden for [falle](/drommer/falle).
+Å falle. Plutselig fritt fall, kontroll som forsvinner. Under stress er falldrømmene hyppigere og mer intense — de speiler en følelse av å miste grepet, av at underlaget ikke er trygt. Se symbolsiden for [falle](/drommer/falle/).
 
 Å ikke klare å snakke. Munnen vil ikke forme ord, stemmen er borte, ingen hører. En drøm om å ikke nå frem, om å ikke bli hørt — svært vanlig i perioder med høy arbeidsbelastning og for mye støy rundt deg.
 
@@ -66,13 +66,13 @@ Selv om stressdrømmene har en funksjon, er det mye du kan gjøre for å bedre s
 
 **Skriv ned bekymringene.** Forskning på "worry journaling" viser at å skrive ned bekymringer — ikke løse dem, bare skrive dem ned — reduserer den kognitive belastningen under søvn. Hjernen slipper å "holde" det fordi det er skrevet ned.
 
-**Bruk [drømmejournalen](/guider/drommejournalen) aktivt.** Å skrive ned stressdrømmene etter oppvåkning hjelper å bearbeide dem bevisst og identifisere mønstre. Hva dukker opp igjen og igjen? Hva er stresskilden drømmene peker mot?
+**Bruk [drømmejournalen](/guider/drommejournalen/) aktivt.** Å skrive ned stressdrømmene etter oppvåkning hjelper å bearbeide dem bevisst og identifisere mønstre. Hva dukker opp igjen og igjen? Hva er stresskilden drømmene peker mot?
 
 **Vurder hva stresset faktisk handler om.** Drømmene er ofte mer presise enn vi gir dem kreditt for. Hvis du drømmer om å komme for sent, handler det sjelden om tidsfrister — det handler om noe i livet som kjennes for mye. Hva er det?
 
 ## Når stressdrømmene er et tegn på noe mer
 
-Vedvarende [mareritt](/guider/mareritt) og søvnforstyrrelser over lengre tid kan være et tegn på noe som trenger mer enn søvnhygiene: utbrenthet, angstlidelse eller PTSD. Drømmene er symptom, ikke problem — og symptomet peker mot noe i dagliglivet som trenger oppmerksomhet.
+Vedvarende [mareritt](/guider/mareritt/) og søvnforstyrrelser over lengre tid kan være et tegn på noe som trenger mer enn søvnhygiene: utbrenthet, angstlidelse eller PTSD. Drømmene er symptom, ikke problem — og symptomet peker mot noe i dagliglivet som trenger oppmerksomhet.
 
 Hvis stressdrømmene er intense, hyppige og påvirker daglig fungering over flere uker, er det verdt å snakke med fastlegen.
 
@@ -84,10 +84,10 @@ Stress og drømmer henger nøye sammen — og sammenhengen er godt dokumentert:
 - Kortisol forstyrrer søvnarkitekturen og gir REM-rebound sent om morgenen
 - Klassiske stressdrømmer er eksamen, å komme for sent, å bli forfulgt og å falle
 - Drømmene spiller en aktiv rolle i å bearbeide stress — de er ikke bare bivirkninger
-- God søvnhygiene, worry journaling og [drømmejournalen](/guider/drommejournalen) hjelper
+- God søvnhygiene, worry journaling og [drømmejournalen](/guider/drommejournalen/) hjelper
 - Vedvarende stressdrømmer over lang tid kan peke mot utbrenthet eller angst
 
-Relatert: [mareritt](/guider/mareritt) — [drommejournalen](/guider/drommejournalen) — [gjentakende-drommer](/guider/gjentakende-drommer)
+Relatert: [mareritt](/guider/mareritt/) — [drommejournalen](/guider/drommejournalen/) — [gjentakende-drommer](/guider/gjentakende-drommer/)
 
-> 💡 **Les også fra søvnseksjonen:** [Angst og søvn](/sovn/angst-sovn) · [Søvnhygiene](/sovn/sovnhygiene)
+> 💡 **Les også fra søvnseksjonen:** [Angst og søvn](/sovn/angst-sovn/) · [Søvnhygiene](/sovn/sovnhygiene/)
 

@@ -35,7 +35,7 @@ Den mest utbredte tolkningen av drukningsdrømmer er at du føler deg overveldet
 
 Denne drømmen dukker ofte opp i perioder med store livsendringer, som å bli forelder, miste noen, eller stå midt i en konflikt som føles uløselig. Følelsen av å ikke kunne puste under vann er et kraftfullt bilde på det å ikke ha kapasitet til mer — og drømmen kan være psykens måte å si: du trenger å komme opp til overflaten.
 
-Drømmer du gjentatte ganger om å drukne, kan det være verdt å se nærmere på hva i livet ditt som skaper denne opplevelsen av å gå under. Se også symbolikken i drømmer om [hav](/drommer/hav), som ofte deler dette temaet.
+Drømmer du gjentatte ganger om å drukne, kan det være verdt å se nærmere på hva i livet ditt som skaper denne opplevelsen av å gå under. Se også symbolikken i drømmer om [hav](/drommer/hav/), som ofte deler dette temaet.
 
 ### Noe fra fortiden prøver å komme opp
 
@@ -49,7 +49,7 @@ Mange som drømmer om å drukne, opplever at drømmen endrer karakter over tid. 
 
 En tredje vanlig tolkning handler om kontroll — eller rettere sagt mangelen på den. Å drukne i en drøm kan speile en situasjon i livet der du opplever at du mister grepet. Det kan gjelde jobb, økonomi, en relasjon eller helsen din. Følelsen av å bli dratt ned av vannet er et bilde på krefter som er sterkere enn deg — ting du ikke kan styre uansett hvor hardt du prøver.
 
-Denne tolkningen forsterkes dersom du i drømmen prøver desperat å svømme, men ikke klarer det. Det kan også knyttes til drømmer om å [falle](/drommer/falle), som deler den samme grunnfølelsen av å miste fotfestet. Om du også opplever [storm](/drommer/storm) i drømmen, kan det tyde på at ytre kaos forsterker den indre uroen.
+Denne tolkningen forsterkes dersom du i drømmen prøver desperat å svømme, men ikke klarer det. Det kan også knyttes til drømmer om å [falle](/drommer/falle/), som deler den samme grunnfølelsen av å miste fotfestet. Om du også opplever [storm](/drommer/storm/) i drømmen, kan det tyde på at ytre kaos forsterker den indre uroen.
 
 ---
 
@@ -58,7 +58,7 @@ Denne tolkningen forsterkes dersom du i drømmen prøver desperat å svømme, me
 Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike tolkninger:
 
 **Hvis du drukner i havet:**
-Havet representerer ofte det store og ukjente. Å drukne i havet kan speile en følelse av å være liten overfor livets uforutsigbarhet. Les mer om [hav](/drommer/hav) som drømmesymbol.
+Havet representerer ofte det store og ukjente. Å drukne i havet kan speile en følelse av å være liten overfor livets uforutsigbarhet. Les mer om [hav](/drommer/hav/) som drømmesymbol.
 
 **Hvis du drukner i en elv eller bekk:**
 Rennende vann knyttes til livets gang og tid. Å drukne her kan bety at du føler at livet beveger seg for raskt — at du ikke klarer å henge med.

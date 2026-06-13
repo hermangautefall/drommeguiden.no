@@ -28,13 +28,13 @@ Disse drømmene er faktisk noen av de mest meningsbærende vi kan ha — og verd
 
 Den klart vanligste og mest støttede tolkningen av drømmens død handler om slutten på noe — ikke livet, men en fase av det. I drømmesymbolikken er død og gjenfødsel to sider av samme mynt. Når noe dør i drømmen, åpner det gjerne for noe nytt.
 
-Du kan ha drømt om å dø i en periode der du avslutter noe viktig: et forhold, en jobb, en livsfase, en versjon av deg selv du ikke lenger er. Mange opplever også drømmer om [avdøde personer](/drommer/avdod-person) i slike perioder. Underbevistheten bruker det mest dramatiske bildet den har tilgjengelig — død — for å markere at dette er en reell og betydningsfull overgang, ikke bare en overfladisk endring.
+Du kan ha drømt om å dø i en periode der du avslutter noe viktig: et forhold, en jobb, en livsfase, en versjon av deg selv du ikke lenger er. Mange opplever også drømmer om [avdøde personer](/drommer/avdod-person/) i slike perioder. Underbevistheten bruker det mest dramatiske bildet den har tilgjengelig — død — for å markere at dette er en reell og betydningsfull overgang, ikke bare en overfladisk endring.
 
 Jung kalte dette individasjonsprosessen: den livslange reisen mot å bli den man egentlig er, der gamle identiteter og roller må "dø" for at nye skal kunne vokse frem.
 
 ### Frigjøring fra noe som tynger deg
 
-Noen ganger handler dødsdrømmen ikke om overgang, men om frigjøring. Noe i livet ditt — et ansvar, en relasjon, en rolle, en forestilling om hvem du bør være — har blitt for tung å bære. Denne følelsen kan også vise seg som drømmer om å bli [forfulgt](/drommer/forfulgt). Drømmen om å dø kan være underbevissthetens drastiske måte å si: dette orker jeg ikke lenger.
+Noen ganger handler dødsdrømmen ikke om overgang, men om frigjøring. Noe i livet ditt — et ansvar, en relasjon, en rolle, en forestilling om hvem du bør være — har blitt for tung å bære. Denne følelsen kan også vise seg som drømmer om å bli [forfulgt](/drommer/forfulgt/). Drømmen om å dø kan være underbevissthetens drastiske måte å si: dette orker jeg ikke lenger.
 
 Dette er ikke farlig — det er faktisk et tegn på sunn selvbevissthet. Noe trenger å slippes, og psyken vet det, selv om du kanskje ikke har tillatt deg å innrømme det i våken tilstand.
 
@@ -48,7 +48,7 @@ Vi er alle dødelige, og de fleste av oss lever med en viss angst for dette uten
 
 I perioder med høyt stress, overbelastning eller sterk frykt for noe konkret, kan drømmer om død opptre mer som angstdrømmer enn som symbolske budskap. Hjernen kjører gjennom worst-case-scenarioer — inkludert det verste av alt — som en del av sin normale stresshåndtering.
 
-Hvis disse drømmene — som kan føles som [mareritt](/guider/mareritt) — kommer hyppig i en periode med sterk belastning, er de et signal om at du trenger ro, støtte og kanskje hjelp til å bære det du bærer — ikke et tegn på fare.
+Hvis disse drømmene — som kan føles som [mareritt](/guider/mareritt/) — kommer hyppig i en periode med sterk belastning, er de et signal om at du trenger ro, støtte og kanskje hjelp til å bære det du bærer — ikke et tegn på fare.
 
 ## Hva påvirker tolkningen?
 
@@ -56,7 +56,7 @@ Hvis disse drømmene — som kan føles som [mareritt](/guider/mareritt) — kom
 En av de mest trøstende variantene — speiler gjerne aksept og ro overfor en overgang eller endring som du egentlig er klar for.
 
 **Hvis du døde voldsomt eller plutselig:**
-En dramatisk forandring eller avslutning som kom eller kommer brått — noe du ikke fikk forberedt deg på. Dette kan minne om drømmer om å [falle](/drommer/falle).
+En dramatisk forandring eller avslutning som kom eller kommer brått — noe du ikke fikk forberedt deg på. Dette kan minne om drømmer om å [falle](/drommer/falle/).
 
 **Hvis du var vitne til din egen begravelse:**
 Et perspektiv utenfra på ditt eget liv — hvem er der, hva sier de, hva savner du? Disse drømmene kan gi overraskende klar innsikt i hva som virkelig betyr noe.

@@ -35,7 +35,7 @@ Hvis katten i drømmen var frimodig, rolig og selvstendig, kan det gjenspeile en
 
 Denne tolkningen kan også handle om noen andre. Kanskje det er en person i livet ditt som minner deg om en katt — noen som er uavhengig, litt fjern, og som ikke alltid er lett å komme nær. Drømmen kan invitere deg til å reflektere over dette forholdet og hva det betyr for deg.
 
-Drømmer om [hund](/drommer/hund) gir en interessant kontrast her. Mens hunden symboliserer lojalitet og tilhørighet, representerer katten det autonome og selvstyrte. Begge er verdifulle kvaliteter, og drømmen din kan peke mot hvilken av dem som trenger mer plass i livet ditt.
+Drømmer om [hund](/drommer/hund/) gir en interessant kontrast her. Mens hunden symboliserer lojalitet og tilhørighet, representerer katten det autonome og selvstyrte. Begge er verdifulle kvaliteter, og drømmen din kan peke mot hvilken av dem som trenger mer plass i livet ditt.
 
 ### Intuisjon og det mystiske
 
@@ -43,7 +43,7 @@ I mange kulturer har katten vært knyttet til det mystiske, det spirituelle og d
 
 Hvis katten i drømmen opptrådte som en slags guide — kanskje den ledet deg et sted, eller den dukket opp på et avgjørende tidspunkt — kan det tolkes som at din intuisjon prøver å nå frem til deg. Kanskje du har hatt en fornemmelse av noe i det siste som du har avfeid som irrasjonelt. Drømmen ber deg lytte.
 
-Kattens kobling til det mystiske gjør den også til et symbol for det ubevisste. I likhet med drømmer om [slange](/drommer/slange), som også bærer mystisk symbolikk, kan kattedrømmen handle om skjulte sannheter som er i ferd med å komme til overflaten.
+Kattens kobling til det mystiske gjør den også til et symbol for det ubevisste. I likhet med drømmer om [slange](/drommer/slange/), som også bærer mystisk symbolikk, kan kattedrømmen handle om skjulte sannheter som er i ferd med å komme til overflaten.
 
 ### Feminine energi og sensualitet
 
@@ -68,7 +68,7 @@ En aggressiv katt kan peke mot en person eller situasjon i livet ditt som du opp
 **Hvis katten var svart:**
 Svarte katter har sterke kulturelle assosiasjoner — både som ulykkessymbol og som spirituelt kraftdyr. I drømmer kan en svart katt peke mot det ukjente og det skjulte, eller mot en ubevisst frykt du bærer på.
 
-**Hvis du så deg selv gjennom kattens øyne eller i et [speil](/drommer/speil) med en katt:**
+**Hvis du så deg selv gjennom kattens øyne eller i et [speil](/drommer/speil/) med en katt:**
 Denne varianten kan handle om selvrefleksjon og om å se deg selv fra et nytt perspektiv. Katten inviterer deg til å betrakte deg selv med nysgjerrighet i stedet for selvkritikk.
 
 ---
@@ -79,7 +79,7 @@ Carl Jung knyttet katten til det feminine arketypet — anima — som represente
 
 I egyptisk kultur ble katten tilbedt som hellig, knyttet til gudinnen Bastet, som representerte hjemmet, fruktbarhet og beskyttelse. I nordisk tradisjon trakk gudinnen Frøya sin vogn med to store katter — et bilde på styrke, kjærlighet og uavhengighet i kombinasjon.
 
-I norsk folketro har katten hatt en mer ambivalent plass. Den ble noen ganger sett som en hjelper og noen ganger som et uhyggelig vesen knyttet til mørke krefter. Denne dobbeltheten lever videre i drømmesymbolikken: katten er aldri bare god eller bare farlig — den rommer begge deler. Drømmer om [edderkopp](/drommer/edderkopp) deler noe av denne tvetydigheten, der det skremmende og det visdomsfulle lever side om side.
+I norsk folketro har katten hatt en mer ambivalent plass. Den ble noen ganger sett som en hjelper og noen ganger som et uhyggelig vesen knyttet til mørke krefter. Denne dobbeltheten lever videre i drømmesymbolikken: katten er aldri bare god eller bare farlig — den rommer begge deler. Drømmer om [edderkopp](/drommer/edderkopp/) deler noe av denne tvetydigheten, der det skremmende og det visdomsfulle lever side om side.
 
 ---
 

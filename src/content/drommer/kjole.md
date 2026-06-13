@@ -30,7 +30,7 @@ Kjernen i kjolesymbolikken er identitet og fremtoning — hva du velger å vise 
 
 ### En spesiell anledning
 
-Kjolen er ikke hverdagsklær — den er for noe spesielt. [Bryllupskjole](/drommer/bryllup), festkjole, konfirmasjonskjole. Drømmens kjole kan speile en forventning om noe viktig som nærmer seg, eller en lengsel etter å markere noe. Det å se en kjole hengende klar, men ikke ha på den, signaliserer ofte at "noe står og venter" i livet ditt.
+Kjolen er ikke hverdagsklær — den er for noe spesielt. [Bryllupskjole](/drommer/bryllup/), festkjole, konfirmasjonskjole. Drømmens kjole kan speile en forventning om noe viktig som nærmer seg, eller en lengsel etter å markere noe. Det å se en kjole hengende klar, men ikke ha på den, signaliserer ofte at "noe står og venter" i livet ditt.
 
 ### Det feminine og det elegante
 
@@ -53,7 +53,7 @@ Du er i din rette rolle og er komfortabel med hvordan du fremstår.
 Noe ved rollen du spiller stemmer ikke — enten for mye eller for lite.
 
 **Hvis kjolen var hvit:**
-Se bryllupssymbolikk — renhet, overgang, noe viktig. Se også [ring](/drommer/ring) som symbol.
+Se bryllupssymbolikk — renhet, overgang, noe viktig. Se også [ring](/drommer/ring/) som symbol.
 
 **Hvis kjolen var mørk eller svart:**
 Eleganse og autoritet, eller sorg og det formelle.
@@ -62,7 +62,7 @@ Eleganse og autoritet, eller sorg og det formelle.
 Noe ved din selvpresentasjon er skadet eller under press.
 
 **Hvis du ikke ville ha på kjolen:**
-Motstand mot en rolle eller identitet som er forventet av deg. Se også [naken](/drommer/naken) i drøm.
+Motstand mot en rolle eller identitet som er forventet av deg. Se også [naken](/drommer/naken/) i drøm.
 
 **Hvis kjolen var av en uvanlig farge for deg:**
 Du er i en periode der noe annet enn det vanlige søker uttrykk gjennom deg.

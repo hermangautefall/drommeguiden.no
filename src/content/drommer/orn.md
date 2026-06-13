@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om ørn?
 
-Ørnen er blant de mest majestetsfulle symbolene i drømmeverdenen — og i nesten alle kulturer bærer den på et budskap om kraft, frihet og høyde. Den ser det andre ikke ser. Den beveger seg der andre ikke kan nå — og deler dette med drømmer om [flyging](/drommer/flyging). Å drømme om ørn er sjelden en liten drøm.
+Ørnen er blant de mest majestetsfulle symbolene i drømmeverdenen — og i nesten alle kulturer bærer den på et budskap om kraft, frihet og høyde. Den ser det andre ikke ser. Den beveger seg der andre ikke kan nå — og deler dette med drømmer om [flyging](/drommer/flyging/). Å drømme om ørn er sjelden en liten drøm.
 
 Tolkningen avhenger mye av hva ørnen gjorde i drømmen, og hvilken følelse den vekket i deg.
 
@@ -52,12 +52,12 @@ Konsentrasjon og fokus. Du er klar til å gripe noe du lenge har hatt øye på.
 Kan peke mot at noen med stor autoritet eller makt presser på deg, eller at dine egne ambisjoner begynner å føles truende.
 
 **Hvis ørnen er skadet eller fanget:**
-Kan speile at du føler din frihet eller dine muligheter er begrenset. Noe holder deg tilbake. Se også drømmer om [mørkt rom](/drommer/morkt-rom) for lignende symbolikk.
+Kan speile at du føler din frihet eller dine muligheter er begrenset. Noe holder deg tilbake. Se også drømmer om [mørkt rom](/drommer/morkt-rom/) for lignende symbolikk.
 
 
 ## Psykologiske og kulturelle perspektiver
 
-I norrøn mytologi satt ørnen øverst i verdensasken Yggdrasil, høyt over [fjellene](/drommer/fjell) — høyest av alle skapninger, med visdom og overblikk over verden. Den var Odins fugl. Å drømme om ørn i denne tradisjonen var et tegn på guddommelig oppmerksomhet eller høy skjebne.
+I norrøn mytologi satt ørnen øverst i verdensasken Yggdrasil, høyt over [fjellene](/drommer/fjell/) — høyest av alle skapninger, med visdom og overblikk over verden. Den var Odins fugl. Å drømme om ørn i denne tradisjonen var et tegn på guddommelig oppmerksomhet eller høy skjebne.
 
 Jung så fugler generelt som symboler på frigjorte tanker og sjelen i fri bevegelse. Ørnen spesielt representerer det øverste nivået av bevissthet — evnen til å se seg selv og sitt liv med klarhet og distanse.
 
@@ -68,4 +68,4 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om ørn **flere ganger**? Utforsk flere [dyresymboler i drømmer](/kategori/dyr).
+- Har du drømt om ørn **flere ganger**? Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).

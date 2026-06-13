@@ -41,7 +41,7 @@ Ikke alle hundedrømmer er positive. Å drømme om en aggressiv, bjeffende eller
 
 En hund som knurrer kan peke mot en konflikt som ulmer under overflaten. Det er kanskje noe usagt mellom deg og noen du er nær — en uenighet som ingen av dere har tatt opp, men som begge kjenner på. Drømmen ber deg se dette i øynene.
 
-Å bli bitt av en hund i drømmen tolkes ofte som et svik eller en skuffelse fra noen du stolte på. Det er en av de mest smertefulle hundedrømmene, fordi den snur lojalitetssymbolet på hodet. Drømmer om farlige dyr, som [ulv](/drommer/ulv) eller [bjorn](/drommer/bjorn), kan bære med seg en lignende energi, men med en villere og mer uforutsigbar karakter.
+Å bli bitt av en hund i drømmen tolkes ofte som et svik eller en skuffelse fra noen du stolte på. Det er en av de mest smertefulle hundedrømmene, fordi den snur lojalitetssymbolet på hodet. Drømmer om farlige dyr, som [ulv](/drommer/ulv/) eller [bjorn](/drommer/bjorn/), kan bære med seg en lignende energi, men med en villere og mer uforutsigbar karakter.
 
 ### Instinkter og intuisjon
 
@@ -67,7 +67,7 @@ En syk hund kan peke mot en relasjon som trenger oppmerksomhet, eller en side av
 Å miste en hund i drømmen kan symbolisere tap av tillit, vennskap eller trygghet. Det kan gjenspeile en faktisk situasjon der du føler at noen du stolte på har distansert seg.
 
 **Hvis hunden beskyttet deg:**
-En beskyttende hund er et positivt tegn. Det kan tolkes som at du har gode støttespillere rundt deg, eller at din egen indre styrke vokter over deg i en utfordrende tid. En lignende beskytterenergi kan finnes i drømmer om [hest](/drommer/hest).
+En beskyttende hund er et positivt tegn. Det kan tolkes som at du har gode støttespillere rundt deg, eller at din egen indre styrke vokter over deg i en utfordrende tid. En lignende beskytterenergi kan finnes i drømmer om [hest](/drommer/hest/).
 
 ---
 

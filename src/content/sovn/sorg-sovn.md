@@ -52,7 +52,7 @@ Drømmene etter et tap er blant de mest intense og minnerike mennesker rapporter
 
 Begge typer er normale. Begge er tegn på at sorgen bearbeides.
 
-Se guiden [Å drømme om avdøde](/guider/drommer-om-avdode) for en grundigere gjennomgang av hva disse drømmene betyr og hva du kan gjøre med dem.
+Se guiden [Å drømme om avdøde](/guider/drommer-om-avdode/) for en grundigere gjennomgang av hva disse drømmene betyr og hva du kan gjøre med dem.
 
 ## Søvnproblemer i sorg — når det trenger mer oppmerksomhet
 
@@ -72,7 +72,7 @@ Det er lite spesifikk forskning på søvnbehandling i sorg, men det vi vet fra i
 
 **Ritualer rundt sovning.** Et lite ritual til minne om den avdøde — et lys, et bilde, noen ord — kan skape en psykologisk ramme som gjør overgangen til søvn lettere.
 
-**Journalskriving.** Å skrive ned tanker og savn om kvelden gir dem et sted å bo og "parkerer" dem fra å sirkulere under søvnen. En [drømmejournalen](/guider/drommejournalen) som inkluderer kveldstanker og morgendrømmer kan bli et verdifullt sorgarbeid-verktøy.
+**Journalskriving.** Å skrive ned tanker og savn om kvelden gir dem et sted å bo og "parkerer" dem fra å sirkulere under søvnen. En [drømmejournalen](/guider/drommejournalen/) som inkluderer kveldstanker og morgendrømmer kan bli et verdifullt sorgarbeid-verktøy.
 
 **Sosial støtte.** Isolasjon forverrer sorgens søvnproblemer. Menneskelig nærhet — ikke nødvendigvis samtaler om tapet, men bare tilstedeværelse — har dokumentert positiv effekt på søvnkvaliteten hos sørgende.
 
@@ -86,7 +86,7 @@ Sorg og søvn er uatskillelig forbundet — og søvnen er en aktiv del av sorgen
 - Langvarig alvorlig insomni etter tap trenger behandling som for vanlig insomni
 - Journalskriving, ritualer og sosial støtte er de mest effektive søvntiltakene i sorgtiden
 
-Les videre: [Å drømme om avdøde](/guider/drommer-om-avdode) — [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Drømmejournalen](/guider/drommejournalen)
+Les videre: [Å drømme om avdøde](/guider/drommer-om-avdode/) — [Søvnproblemer og insomni](/sovn/sovnproblemer/) — [Drømmejournalen](/guider/drommejournalen/)
 
 ## Kilder
 

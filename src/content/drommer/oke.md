@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om en eik?
 
-Eiken er ikke et hvilket som helst [tre](/drommer/tre). Den er Europas helligste og mektigste — Zevs sitt hellige tre i Hellas, Tors tre i Norden, Druiderens offer- og visdomstre. Den lever i 500, 700, noen ganger 1000 år. Den tåler storm som dreper andre. Den gir eikehagen til vill trossikkerhet, soliditet og varig nærvær.
+Eiken er ikke et hvilket som helst [tre](/drommer/tre/). Den er Europas helligste og mektigste — Zevs sitt hellige tre i Hellas, Tors tre i Norden, Druiderens offer- og visdomstre. Den lever i 500, 700, noen ganger 1000 år. Den tåler storm som dreper andre. Den gir eikehagen til vill trossikkerhet, soliditet og varig nærvær.
 
 I drømmene bærer den alt dette.
 

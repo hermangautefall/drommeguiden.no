@@ -30,7 +30,7 @@ Denne drømmen er så vanlig at den regnes som en av de klassiske arketypiske dr
 
 ### Du unngår noe som begynner å innhente deg
 
-Den vanligste og best dokumenterte tolkningen av forfølgelsesdrømmen handler om unnvikelse. Noe i livet ditt — en uferdig konflikt, en beslutning du utsetter, en samtale du gruer deg til, en sannhet du ikke vil se på — følger etter deg. Mange opplever at forfølgelsesdrømmer glir over i drømmer om [å falle](/drommer/falle) eller å bli fanget i et [mørkt rom](/drommer/morkt-rom). Og jo lenger du løper, jo nærmere kommer det.
+Den vanligste og best dokumenterte tolkningen av forfølgelsesdrømmen handler om unnvikelse. Noe i livet ditt — en uferdig konflikt, en beslutning du utsetter, en samtale du gruer deg til, en sannhet du ikke vil se på — følger etter deg. Mange opplever at forfølgelsesdrømmer glir over i drømmer om [å falle](/drommer/falle/) eller å bli fanget i et [mørkt rom](/drommer/morkt-rom/). Og jo lenger du løper, jo nærmere kommer det.
 
 Forfølgeren er sjelden tilfeldig. Om det er et monster, en ukjent person, en kjent, eller bare en diffus trussel — det representerer noe konkret du unngår. Drømmens budskap er enkelt og direkte: det hjelper ikke å løpe.
 
@@ -69,11 +69,11 @@ Kjente forfølgere peker mot konkrete relasjoner eller situasjoner. Ukjente forf
 
 ## Psykologiske og kulturelle perspektiver
 
-Forfølgelsesdrømmen er så universalt menneskelig at den finnes dokumentert i drømmebeskrivelser fra antikkens Hellas og Egypt til moderne søvnforskning. Den er en av de drømmtypene som oftest rapporteres som [gjentakende](/guider/gjentakende-drommer) — noe som understreker at den speiler noe vedvarende i livssituasjonen, ikke bare en tilfeldig natts opplevelse.
+Forfølgelsesdrømmen er så universalt menneskelig at den finnes dokumentert i drømmebeskrivelser fra antikkens Hellas og Egypt til moderne søvnforskning. Den er en av de drømmtypene som oftest rapporteres som [gjentakende](/guider/gjentakende-drommer/) — noe som understreker at den speiler noe vedvarende i livssituasjonen, ikke bare en tilfeldig natts opplevelse.
 
-Jung beskrev møtet med forfølgeren som et av de viktigste øyeblikkene i drømmearbeid. Å snu seg og spørre forfølgeren "hvem er du og hva vil du?" — enten i drømmen (ved hjelp av [lucid dreaming](/guider/lucid-dromming)) eller etterpå i refleksjon — kan gi overraskende klar innsikt i hva som egentlig driver angsten.
+Jung beskrev møtet med forfølgeren som et av de viktigste øyeblikkene i drømmearbeid. Å snu seg og spørre forfølgeren "hvem er du og hva vil du?" — enten i drømmen (ved hjelp av [lucid dreaming](/guider/lucid-dromming/)) eller etterpå i refleksjon — kan gi overraskende klar innsikt i hva som egentlig driver angsten.
 
-I norsk folkloretradisjon er det å bli jaget av noe mørkt og udefinerbart et gammelt motiv — mare, draug og andre nattfigurer som jager den sovende. De ble sett som tegn på at noe var ute av balanse og trengte å bli adressert. Samme budskap, annet språk. Forfølgelsesdrømmer regnes som en klassisk form for [mareritt](/guider/mareritt).
+I norsk folkloretradisjon er det å bli jaget av noe mørkt og udefinerbart et gammelt motiv — mare, draug og andre nattfigurer som jager den sovende. De ble sett som tegn på at noe var ute av balanse og trengte å bli adressert. Samme budskap, annet språk. Forfølgelsesdrømmer regnes som en klassisk form for [mareritt](/guider/mareritt/).
 
 ## Drømmeguiden anbefaler
 
@@ -83,5 +83,5 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om å bli forfulgt **flere ganger**?
 
-> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 

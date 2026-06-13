@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om bad?
 
-Baderommet er [hjemmets](/drommer/hus) mest private rom — det stedet vi er alene med kroppen vår, der vi renser oss, der vi forbereder oss på dagen eller slipper den fra oss om kvelden. I drømmeverdenen bærer det på all denne privathetens tyngde. Det er det aller mest skjermede stedet i drømmens hus, og det er nettopp derfor det bærer på så mye symbolikk.
+Baderommet er [hjemmets](/drommer/hus/) mest private rom — det stedet vi er alene med kroppen vår, der vi renser oss, der vi forbereder oss på dagen eller slipper den fra oss om kvelden. I drømmeverdenen bærer det på all denne privathetens tyngde. Det er det aller mest skjermede stedet i drømmens hus, og det er nettopp derfor det bærer på så mye symbolikk.
 
 Drømmer om bad dukker gjerne opp i perioder der noe trenger å renses bort, der noe privat er truet, eller der du står midt i en overgang mellom én livsfase og en annen.
 
@@ -30,11 +30,11 @@ Den vanligste tolkningen handler om renselse — et behov for å kvitte seg med 
 
 ### Det ytterste private
 
-Badet er der vi er mest sårbare og mest oss selv. Drømmens bad handler om noe svært privat — noe som ikke er ment for andres øyne, noe som er dypt personlig. Å bli sett i badet er å bli eksponert i det mest private; se også [naken](/drommer/naken) i drøm. Disse drømmene oppstår særlig i perioder der noe sårbart i livet ditt risikerer å bli sett av andre.
+Badet er der vi er mest sårbare og mest oss selv. Drømmens bad handler om noe svært privat — noe som ikke er ment for andres øyne, noe som er dypt personlig. Å bli sett i badet er å bli eksponert i det mest private; se også [naken](/drommer/naken/) i drøm. Disse drømmene oppstår særlig i perioder der noe sårbart i livet ditt risikerer å bli sett av andre.
 
 ### Transformasjon gjennom vann
 
-[Vannet](/drommer/vann) i badekaret eller dusjen bærer på vannets symbolikk — renselse, transformasjon, overgang. Å bade i drøm kan speile en transformasjonsprosess du står midt i: gammelt skal vaskes av, noe nytt skal trå frem rent. Disse drømmene har ofte en rituell tyngde, selv når du ikke kan sette ord på det.
+[Vannet](/drommer/vann/) i badekaret eller dusjen bærer på vannets symbolikk — renselse, transformasjon, overgang. Å bade i drøm kan speile en transformasjonsprosess du står midt i: gammelt skal vaskes av, noe nytt skal trå frem rent. Disse drømmene har ofte en rituell tyngde, selv når du ikke kan sette ord på det.
 
 ### En pause fra verden
 
@@ -56,7 +56,7 @@ Noe forstyrrer renselsesprosessen — noe henger ved deg ennå.
 En krenkelse av privatlivet — noe som burde vært privat er ikke det.
 
 **Hvis du ikke klarte å vaske deg ren:**
-En skyldfølelse eller et mønster som ikke slipper, uansett hva du gjør. Se også [toalett](/drommer/toalett) i drøm.
+En skyldfølelse eller et mønster som ikke slipper, uansett hva du gjør. Se også [toalett](/drommer/toalett/) i drøm.
 
 **Hvis badet fløt over:**
 Følelsene overveldes — det private rommet tåler ikke mer.
@@ -80,7 +80,7 @@ I den islamske verden har *hammam* — det offentlige dampbadet — vært et sen
 
 I jødisk tradisjon er *mikveh* — det rituelle bassenget — et helt eget sakralrom. Mannlige og kvinnelige *mikvaot* har egne formål og en svært gammel historie. Drømmens bad i jødisk lesning er nær knyttet til ideen om å være "ren nok" til å gå inn i hellig tid eller hellig rom.
 
-I hinduistisk tradisjon er bading i hellige elver — særlig [Ganges](/drommer/elv) — en av de mest kraftfulle renselseshandlingene. *Snan* (rituell bading) ved *Kumbh Mela* samler millioner av mennesker. Drømmens bad i denne tradisjonen kan ha kosmiske, ikke bare personlige, dimensjoner.
+I hinduistisk tradisjon er bading i hellige elver — særlig [Ganges](/drommer/elv/) — en av de mest kraftfulle renselseshandlingene. *Snan* (rituell bading) ved *Kumbh Mela* samler millioner av mennesker. Drømmens bad i denne tradisjonen kan ha kosmiske, ikke bare personlige, dimensjoner.
 
 I kristen tradisjon er *dåpen* den dypeste badesymbolikken — å gå ned i vannet og opp som et nytt menneske. Mange drømmer om bad har dette dåpsritualet som ubevisst klangbunn: noe gammelt dør i vannet, noe nytt stiger opp.
 

@@ -18,9 +18,9 @@ Du våkner med et rykk, hjertet banker, og en følelse av frykt eller ubehag hen
 
 Et mareritt er en levende og ubehagelig drøm som vanligvis forekommer under REM-søvn, spesielt i nattens siste halvdel. Det som skiller et mareritt fra en vanlig ubehagelig drøm, er at du som regel våkner av det, og at du husker innholdet etterpå. Den emosjonelle reaksjonen — frykt, angst, tristhet eller avsky — er ofte så sterk at den vedvarer etter at du har våknet.
 
-Innholdet i mareritt varierer fra person til person, men visse temaer går igjen. Drømmer om å bli jaget er svært vanlig, det samme gjelder drømmer om å [falle](/drommer/falle), [drukne](/drommer/drukne), miste [tenner](/drommer/tann), eller befinne seg i en farlig situasjon med en [brann](/drommer/brann) eller [storm](/drommer/storm). Mange opplever også mareritt der de er [nakne](/drommer/naken) foran andre, eller der de ikke klarer å flykte fra noe truende.
+Innholdet i mareritt varierer fra person til person, men visse temaer går igjen. Drømmer om å bli jaget er svært vanlig, det samme gjelder drømmer om å [falle](/drommer/falle/), [drukne](/drommer/drukne/), miste [tenner](/drommer/tann/), eller befinne seg i en farlig situasjon med en [brann](/drommer/brann/) eller [storm](/drommer/storm/). Mange opplever også mareritt der de er [nakne](/drommer/naken/) foran andre, eller der de ikke klarer å flykte fra noe truende.
 
-Det er verdt å skille mellom vanlige mareritt og [nattskrekk](/guider/nattskrekk). Nattskrekk skjer i dyp NREM-søvn, typisk i nattens første del. Personen kan rope, sitte opp i sengen, eller virke vettskremt, men husker sjelden noe etterpå. Mareritt, derimot, er drømmer du husker, og de skjer i lettere søvn.
+Det er verdt å skille mellom vanlige mareritt og [nattskrekk](/guider/nattskrekk/). Nattskrekk skjer i dyp NREM-søvn, typisk i nattens første del. Personen kan rope, sitte opp i sengen, eller virke vettskremt, men husker sjelden noe etterpå. Mareritt, derimot, er drømmer du husker, og de skjer i lettere søvn.
 
 ---
 
@@ -28,11 +28,11 @@ Det er verdt å skille mellom vanlige mareritt og [nattskrekk](/guider/nattskrek
 
 Det finnes ikke én enkelt årsak til mareritt. Som oftest er det et samspill mellom flere faktorer.
 
-**Stress og bekymringer.** Den vanligste utløseren for mareritt er hverdagsstress. Perioder med mye press — enten det er jobb, skole, økonomi eller relasjoner — kan gi seg utslag i urolige drømmer. Hjernen bruker REM-søvn til å bearbeide emosjonelle opplevelser, og når det emosjonelle trykket er høyt, kan denne prosessen ta form av skremmende drømmer. Drømmer om å kjøre en [bil](/drommer/bil) uten kontroll eller å stå fast i et [mørkt rom](/drommer/morkt-rom) dukker ofte opp i stressende perioder.
+**Stress og bekymringer.** Den vanligste utløseren for mareritt er hverdagsstress. Perioder med mye press — enten det er jobb, skole, økonomi eller relasjoner — kan gi seg utslag i urolige drømmer. Hjernen bruker REM-søvn til å bearbeide emosjonelle opplevelser, og når det emosjonelle trykket er høyt, kan denne prosessen ta form av skremmende drømmer. Drømmer om å kjøre en [bil](/drommer/bil/) uten kontroll eller å stå fast i et [mørkt rom](/drommer/morkt-rom/) dukker ofte opp i stressende perioder.
 
 **Traumer.** Mennesker som har opplevd traumatiske hendelser — ulykker, overgrep, krig, plutselige tap — har betydelig høyere risiko for gjentakende mareritt. Traumerelaterte mareritt kan reprodusere den opprinnelige hendelsen ganske nøyaktig, eller presentere den i forkledd form. Ved posttraumatisk stresslidelse (PTSD) er gjentakende mareritt et av de mest fremtredende symptomene, og de kan vedvare i årevis uten behandling.
 
-**Søvnmangel og uregelmessig søvnmønster.** Noen opplever også [søvnparalyse](/guider/sovnparalyse) i forbindelse med forstyrret søvn, som kan ledsage eller utløse mareritt. Paradoksalt nok kan det å sove for lite øke sannsynligheten for mareritt. Når du endelig får sove etter en periode med lite søvn, kan kroppen kompensere med lengre og mer intense REM-perioder — noe som kalles REM-rebound. Disse intense periodene er grobunn for levende og ofte ubehagelige drømmer.
+**Søvnmangel og uregelmessig søvnmønster.** Noen opplever også [søvnparalyse](/guider/sovnparalyse/) i forbindelse med forstyrret søvn, som kan ledsage eller utløse mareritt. Paradoksalt nok kan det å sove for lite øke sannsynligheten for mareritt. Når du endelig får sove etter en periode med lite søvn, kan kroppen kompensere med lengre og mer intense REM-perioder — noe som kalles REM-rebound. Disse intense periodene er grobunn for levende og ofte ubehagelige drømmer.
 
 **Mat, medisiner og rusmidler.** Noen medisiner, spesielt visse antidepressiva og blodtrykksmedisin, kan påvirke drømmemønsteret. Alkohol undertrykker REM-søvn i nattens første del, noe som fører til en REM-rebound mot morgenen — ofte med intense drømmer eller mareritt. Tung mat sent på kvelden kan også spille en rolle, selv om dette er individuelt.
 
@@ -46,7 +46,7 @@ En av de mest dokumenterte metodene for å behandle gjentakende mareritt er Imag
 
 Prinsippet er at du på dagtid bevisst omskriver innholdet i marerittene dine. Slik gjør du det:
 
-**Steg 1: Skriv ned maretittet.** Bruk [drømmejournalen](/guider/drommejournalen) din til å skrive ned maretittet i detalj. Hva skjedde? Hvor var du? Hva følte du?
+**Steg 1: Skriv ned maretittet.** Bruk [drømmejournalen](/guider/drommejournalen/) din til å skrive ned maretittet i detalj. Hva skjedde? Hvor var du? Hva følte du?
 
 **Steg 2: Endre drømmen.** Nå skriver du en ny versjon av drømmen — en der du har kontroll, eller der utfallet er positivt. Hvis du drømte at du ble jaget av en truende figur, kan den nye versjonen innebære at du snur deg og konfronterer figuren, eller at den forvandler seg til noe ufarlig. Det er viktig at den nye versjonen føles meningsfull og troverdig for deg.
 
@@ -96,12 +96,12 @@ Mareritt kan føles overveldende i øyeblikket, men de trenger ikke å styre net
 
 ## Relaterte symboler og emner
 
-- [Drømmer om å falle](/drommer/falle)
-- [Drømmer om å drukne](/drommer/drukne)
-- [Drømmer om brann](/drommer/brann)
-- [Drømmer om storm](/drommer/storm)
-- [Drømmer om mørkt rom](/drommer/morkt-rom)
-- [Gjentakende drømmer — hva prøver hjernen å si?](/guider/gjentakende-drommer)
+- [Drømmer om å falle](/drommer/falle/)
+- [Drømmer om å drukne](/drommer/drukne/)
+- [Drømmer om brann](/drommer/brann/)
+- [Drømmer om storm](/drommer/storm/)
+- [Drømmer om mørkt rom](/drommer/morkt-rom/)
+- [Gjentakende drømmer — hva prøver hjernen å si?](/guider/gjentakende-drommer/)
 
-> 💡 **Les også fra søvnseksjonen:** [Søvnproblemer](/sovn/sovnproblemer) · [PTSD og drømmer](/sovn/ptsd-drommer)
+> 💡 **Les også fra søvnseksjonen:** [Søvnproblemer](/sovn/sovnproblemer/) · [PTSD og drømmer](/sovn/ptsd-drommer/)
 
