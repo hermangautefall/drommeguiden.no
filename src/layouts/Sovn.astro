@@ -90,6 +90,11 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
 const baseSite = 'https://drommeguiden.no';
 const canonical = `${baseSite}${pathFor(lang, 'sovn', slug)}`;
 
+const aboutUrl = lang === 'sv' ? '/sv/om-oss/' : '/om-oss/';
+const bylineLabel = lang === 'sv' ? 'Skriven av' : 'Skrevet av';
+const oppdatertDato = oppdatert ?? dato;
+const oppdatertFmt = oppdatertDato.toLocaleDateString(labels.dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
+
 const crumbs = [
   { name: labels.hjem, url: homePath(lang) },
   { name: labels.sovn, url: pathFor(lang, 'sovn') },
@@ -132,10 +137,13 @@ const crumbs = [
         {kat.label}
       </span>
       <div class="sovn-meta-row">
+        <span class="sovn-meta sovn-byline">
+          {bylineLabel} <a href={aboutUrl}>{resolvedAuthor.name}</a>
+        </span>
         <span class="sovn-meta">{leseminutter} {labels.lesetid}</span>
-        {oppdatert && (
-          <span class="sovn-meta">{labels.oppdatert} {oppdatert.toLocaleDateString(labels.dateLocale, { day: 'numeric', month: 'long', year: 'numeric' })}</span>
-        )}
+        <span class="sovn-meta">
+          {labels.oppdatert} <time datetime={oppdatertDato.toISOString().slice(0, 10)}>{oppdatertFmt}</time>
+        </span>
       </div>
       <h1 class="sovn-title">{tittel}</h1>
       <p class="sovn-intro">{kortbeskrivelse}</p>
@@ -291,6 +299,16 @@ const crumbs = [
     font-weight: 500;
     color: var(--color-text-muted);
     letter-spacing: 0.3px;
+  }
+  .sovn-byline a {
+    color: var(--color-text-body);
+    text-decoration: underline;
+    text-decoration-color: rgba(45, 41, 38, 0.2);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 0.2s ease;
+  }
+  .sovn-byline a:hover {
+    text-decoration-color: #1D9E75;
   }
   .sovn-title {
     font-family: var(--font-heading);

@@ -58,6 +58,13 @@ const langConfig = languages[lang];
 const baseSite = 'https://drommeguiden.no';
 const canonical = `${baseSite}${pathFor(lang, 'drommer', slug)}`;
 
+const aboutUrl = lang === 'sv' ? '/sv/om-oss/' : '/om-oss/';
+const bylineLabel = lang === 'sv' ? 'Skriven av' : 'Skrevet av';
+const oppdatertLabel = lang === 'sv' ? 'Senast uppdaterad' : 'Sist oppdatert';
+const dateLocale = lang === 'sv' ? 'sv-SE' : 'nb-NO';
+const oppdatertDato = oppdatert ?? dato;
+const oppdatertFmt = oppdatertDato.toLocaleDateString(dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
+
 const labels = lang === 'sv'
   ? { hjem: 'Hem', symboler: 'Symboler', breadcrumb: 'Brödsmulor' }
   : { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødsmuler' };
@@ -115,6 +122,15 @@ const crumbs = [
           )}
         </div>
         <h1 class="symbol-title">{tittel}</h1>
+        <div class="symbol-byline-row">
+          <span class="symbol-byline">
+            {bylineLabel} <a href={aboutUrl}>{resolvedAuthor.name}</a>
+          </span>
+          <span class="symbol-byline-sep" aria-hidden="true">·</span>
+          <span class="symbol-oppdatert">
+            {oppdatertLabel}: <time datetime={oppdatertDato.toISOString().slice(0, 10)}>{oppdatertFmt}</time>
+          </span>
+        </div>
         <p class="symbol-intro">{kortbeskrivelse}</p>
         <ShareButtons url={canonical} title={tittel} variant="inline" lang={lang} />
       </div>
@@ -384,6 +400,32 @@ const crumbs = [
     line-height: 1.7;
     color: rgba(242, 237, 230, 0.7);
     max-width: 540px;
+  }
+
+  /* ========== BYLINE ========== */
+  .symbol-byline-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin: 14px 0 18px;
+    font-family: var(--font-nav);
+    font-size: 12px;
+    color: rgba(242, 237, 230, 0.6);
+    letter-spacing: 0.3px;
+  }
+  .symbol-byline a {
+    color: rgba(242, 237, 230, 0.85);
+    text-decoration: underline;
+    text-decoration-color: rgba(242, 237, 230, 0.25);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 0.2s ease;
+  }
+  .symbol-byline a:hover {
+    text-decoration-color: rgba(242, 237, 230, 0.7);
+  }
+  .symbol-byline-sep {
+    opacity: 0.45;
   }
 
   /* ========== CONTENT AREA ========== */
