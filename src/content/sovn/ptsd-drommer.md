@@ -83,3 +83,10 @@ PTSD og traumatiske drømmer er blant de best forståtte — og mest belastende 
 *PTSD krever profesjonell behandling. Oppsøk lege eller psykolog.*
 
 Les videre: [Mareritt — årsaker og behandling](/guider/mareritt) — [Gjentakende drømmer](/guider/gjentakende-drommer) — [Depresjon og søvn](/sovn/depresjon-sovn)
+
+## Kilder
+
+- Helsenorge — ["Posttraumatisk stresslidelse (PTSD)"](https://www.helsenorge.no/sykdom/psykiske-lidelser/angst/posttraumatisk-stresslidelse/)
+- Folkehelseinstituttet (FHI, 2025) — ["Ikke-medikamentelle behandlinger for voksne med posttraumatisk stresslidelse (PTSD) — hurtigoversikt"](https://www.fhi.no/contentassets/edf8a971059d44949ed0bade465b4298/ikke-medikamentelle-behandlinger-for-voksne-med-posttraumatisk-stresslidelse-ptsd-rapport-2025-.pdf) (PDF)
+- Norsk Legemiddelhåndbok — ["T5.1.1.5 Posttraumatisk stresslidelse (PTSD)"](https://www.legemiddelhandboka.no/T5.1.1.5/Posttraumatisk_stresslidelse_(PTSD_))
+- Nasjonalt kunnskapssenter om vold og traumatisk stress (NKVTS) — ["Behandlingsforløp for posttraumatisk stresslidelse (PTSD) for voksne"](https://www.nkvts.no/ressurser-og-verktoy/behandlingsforlop-for-posttraumatisk-stresslidelse-ptsd/)

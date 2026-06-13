@@ -85,3 +85,10 @@ Norrøn drømmefundamentalisme er en av de rikeste og mest sofistikerte drømmek
 - Felles med moderne psykologi: drømmene er meningsfulle og bærer informasjon
 
 Les videre: [Profetiske drømmer](/guider/profetiske-drommer) — [Berømte drømmer i historien](/sovn/beroemte-drommer) — [Troll — hva det betyr å drømme om troll](/drommer/troll)
+
+## Kilder
+
+- NDLA (Nasjonal digital læringsarena) — ["Sagaen om Gunnlaug Ormstunge"](https://ndla.no/nb/subject:1:50dfc86d-6566-4a45-a531-d32b82e8bfa1/topic:3:a4bf97c3-9daf-4587-bc9f-822855432151/topic:1:e013fa83-8015-4d7c-96e2-cd2c4d6d6ae3/resource:1:138926)
+- Store norske leksikon — ["islendingesaga"](https://snl.no/islendingesaga)
+- Store norske leksikon — ["Den eldre Edda"](https://snl.no/Den_eldre_Edda)
+- Wikipedia (kildedokumentert) — ["Gunnlaugs saga ormstungu"](https://en.wikipedia.org/wiki/Gunnlaugs_saga_ormstungu)

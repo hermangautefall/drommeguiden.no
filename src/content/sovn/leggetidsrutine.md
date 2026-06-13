@@ -110,3 +110,10 @@ En god leggetidsrutine er hjernens nedtrappingsprotokoll:
 7. Gjør det til omtrent samme tid hver kveld
 
 Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Drømmejournalen](/guider/drommejournalen) — [Angst og søvn](/sovn/angst-sovn)
+
+## Kilder
+
+- Helsenorge — ["Gode råd for betre søvn"](https://www.helsenorge.no/sovnproblemer/rad-for-bedre-sovn/)
+- Norsk Helseinformatikk (NHI.no) — ["Gode råd for bedre søvn"](https://nhi.no/livsstil/egenomsorg/sovnhygieniske-rad/gode-rad-for-bedre-sovn)
+- Sleep Medicine Reviews (Mindell & Williamson, 2018) — ["Benefits of a bedtime routine in young children: Sleep, development, and beyond"](https://pubmed.ncbi.nlm.nih.gov/29195725/)
+- Helse Bergen / Nasjonalt kompetansesenter for søvnsykdommer (SOVno) — ["Søvnhygiene — gode råd ved søvnproblemer"](https://www.helse-bergen.no/nasjonal-kompetansetjeneste-for-sovnsykdommer-sovno/sovn-og-sovnsykdommer/sovnhygiene---gode-rad-ved-sovnproblemer/)

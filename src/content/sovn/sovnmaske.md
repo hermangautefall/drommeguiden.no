@@ -88,3 +88,10 @@ Mørket er en av søvnens viktigste forutsetninger:
 - Bedre mørke gir bedre REM og mer livaktige drømmer
 
 Les videre: [Soverommet for bedre søvn](/sovn/soverom-sovn) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Melatonin — dose og bruk](/sovn/melatonin)
+
+## Kilder
+
+- Critical Care / PubMed Central (Hu et al., 2015) — ["Effects of earplugs and eye masks combined with relaxing music on sleep, melatonin and cortisol levels in ICU patients: a randomized controlled trial"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4391192/)
+- Australian Critical Care / PubMed Central — ["The Efficacy of Eye Masks and Earplugs Interventions for Sleep Promotion in Critically Ill Patients: A Systematic Review and Meta-Analysis"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8678458/)
+- Helsenorge — ["Gode råd for betre søvn"](https://www.helsenorge.no/sovnproblemer/rad-for-bedre-sovn/)
+- Folkehelseinstituttet (FHI, 2015) — ["Anbefalte faglige normer for inneklima"](https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2015/anbefalte-faglige-normer-for-inneklima-pdf.pdf) (PDF)

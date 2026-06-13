@@ -94,3 +94,10 @@ Lydmaskering er et enkelt og effektivt søvntiltak — særlig i støyete miljø
 - Gir mer sammenhengende søvn og bedre drømmehusking
 
 Les videre: [Soverommet for bedre søvn](/sovn/soverom-sovn) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Drømmejournalen](/guider/drommejournalen)
+
+## Kilder
+
+- Sleep Medicine Reviews (Riedy et al., 2021) — ["Noise as a sleep aid: A systematic review"](https://www.sciencedirect.com/science/article/abs/pii/S1087079220301283)
+- Journal of Clinical Sleep Medicine — ["Systematic review: auditory stimulation and sleep"](https://jcsm.aasm.org/doi/10.5664/jcsm.9860)
+- Sleep Medicine — ["Continuous white noise exposure during sleep and childhood development: A scoping review"](https://www.sciencedirect.com/science/article/abs/pii/S1389945724001588)
+- PubMed Central — ["Effects of white noise on preterm infants in the neonatal intensive care unit: A meta-analysis of randomised controlled trials"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10794858/)

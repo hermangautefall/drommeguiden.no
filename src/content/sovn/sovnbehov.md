@@ -80,3 +80,10 @@ Søvnbehovet er individuelt — men de fleste trenger mer enn de tror:
 - Søvnkvalitet teller like mye som timer — effektiv søvn gir mer enn mange timer med dårlig søvn
 
 Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Hva er søvn?](/sovn/hva-er-sovn) — [Søvnhygiene](/sovn/sovnhygiene)
+
+## Kilder
+
+- Sleep Health (Hirshkowitz et al., 2015) — ["National Sleep Foundation's sleep time duration recommendations: methodology and results summary"](https://www.sleephealthjournal.org/article/s2352-7218(15)00015-7/fulltext)
+- Norsk Helseinformatikk (NHI.no) — ["Hva er søvn? — Søvnmengde og søvnmønster"](https://nhi.no/kroppen-var/funksjoner/hva-er-sovn/sovnmengde-og-sovnmonster)
+- Store medisinske leksikon (SNL) — ["søvn"](https://sml.snl.no/s%C3%B8vn)
+- Helsedirektoratet — ["Søvn og søvnvansker"](https://www.helsedirektoratet.no/tema/sovn/sovn-og-sovnvansker)

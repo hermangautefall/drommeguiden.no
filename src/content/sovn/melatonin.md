@@ -80,3 +80,10 @@ Melatonin er et tidssignal, ikke et sovemiddel:
 - Timing er avgjørende: 30–60 minutter før ønsket leggetid
 
 Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Søvnhygiene](/sovn/sovnhygiene)
+
+## Kilder
+
+- Norsk Legemiddelhåndbok — ["L5.1.5.1 Melatonin"](https://www.legemiddelhandboka.no/L5.1.5.1/Melatonin)
+- Helsebiblioteket (Pediatriveilederen) — ["15.11 Behandling av søvnsykdommer — medikamentelle tiltak"](https://www.helsebiblioteket.no/innhold/retningslinjer/pediatri/generell-veileder-i-pediatri/15.sovnsykdommer/15.11-behandling-av-sovnsykdommer-medikamentelle-tiltak)
+- Felleskatalogen — ["Melatonin Orion Pharma"](https://www.felleskatalogen.no/medisin/melatonin-orion-pharma-orion-722413)
+- Journal of Pineal Research (Cruz‑Sanabria et al., 2024) — ["Optimizing the Time and Dose of Melatonin as a Sleep‑Promoting Drug: A Systematic Review of Randomized Controlled Trials and Dose–Response Meta‑Analysis"](https://onlinelibrary.wiley.com/doi/10.1111/jpi.12985)

@@ -90,3 +90,10 @@ Tenåringers søvnproblemer er biologisk forankret — ikke atferdsmessig latska
 - Sen skoletidsstart er det best dokumenterte strukturelle tiltaket
 
 Les videre: [Søvnbehovet ditt](/sovn/sovnbehov) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Barn og drømmer](/guider/barn-og-drommer)
+
+## Kilder
+
+- Folkehelseinstituttet (FHI) — ["Søvnvansker i Norge"](https://www.fhi.no/he/fr/folkehelserapporten/psykisk-helse/sovnvansker-folkehelserapporten/)
+- Bufdir (Barne-, ungdoms- og familiedirektoratet) — ["Søvn og tenåringer"](https://www.bufdir.no/foreldrehverdag/ungdom/utvikling-selvfolelse-og-kommunikasjon/sovn-og-tenaringer/)
+- Norsk Helseinformatikk (NHI.no) — ["Ungdom og søvn — 8 tips til god søvn"](https://nhi.no/familie/barn/ungdom-og-sovn-8-tips-til-god-sovn)
+- Universitetet i Bergen / WALOSS (2022) — ["Søvn og skolestart — en undersøkelse blant elever i videregående skole"](https://filer.uib.no/psyfa/ISP/W4/WALOSS_rapport_skolestart_og_sovn_2022.pdf) (PDF)

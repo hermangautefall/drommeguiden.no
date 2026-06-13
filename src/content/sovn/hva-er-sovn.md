@@ -89,3 +89,10 @@ Søvn er ikke passivt — det er en av kroppens mest avanserte biologiske proses
 - Drømmene er søvnens psykologiske kjerne — og de har en dokumentert funksjon
 
 Videre lesing: [Søvnfaser i detalj](/sovn/sovnfaser) — [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi) — [Søvnhygiene: 12 vaner for bedre søvn](/sovn/sovnhygiene)
+
+## Kilder
+
+- Norsk Helseinformatikk (NHI.no) — ["Hva er søvn?"](https://nhi.no/kroppen-var/funksjoner/hva-er-sovn)
+- Store medisinske leksikon (SNL) — ["søvn"](https://sml.snl.no/s%C3%B8vn)
+- Tidsskrift for Norsk psykologforening (Bjorvatn, 2020) — ["Hva er søvn?"](https://www.psykologtidsskriftet.no/artikkel/2020as07ae-Hva-er-sovn-)
+- Helsedirektoratet — ["Søvn og søvnvansker"](https://www.helsedirektoratet.no/tema/sovn/sovn-og-sovnvansker)

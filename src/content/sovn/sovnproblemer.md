@@ -127,3 +127,10 @@ Søvnproblemer rammer én av tre nordmenn — og de lar seg ofte behandle:
 - Søvnproblemer forstyrrer drømmekvaliteten direkte — og viser seg i økt marerittforekomst
 
 Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Angst og søvn](/sovn/angst-sovn) — [Stress og drømmene](/guider/stress-og-drommer)
+
+## Kilder
+
+- Helsenorge — ["Søvn og søvnproblemer"](https://www.helsenorge.no/sovnproblemer/)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnløshet"](https://nhi.no/livsstil/egenomsorg/sovnloshet)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnløshet — Ikke-medikamentell behandling"](https://nhi.no/livsstil/egenomsorg/sovnloshet/ikke-medikamentell-behandling)
+- Helse Bergen / Nasjonalt kompetansesenter for søvnsykdommer (SOVno) — ["Nasjonal anbefaling for utredning og behandling av insomni"](https://www.helse-bergen.no/49cddc/siteassets/seksjon/sovno/documents/nasjonal-anbefaling-for-utredning-og-behandling-av-insomni.pdf) (PDF)

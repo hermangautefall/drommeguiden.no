@@ -105,3 +105,10 @@ Søvnapper og wearables er nyttige verktøy, brukt riktig:
 - Kombiner med drømmejournalen for et komplett bilde
 
 Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Drømmejournalen](/guider/drommejournalen) — [Søvnbehovet ditt](/sovn/sovnbehov)
+
+## Kilder
+
+- Sensors / Brigham and Women's Hospital (2024) — ["Accuracy of Three Commercial Wearable Devices for Sleep Tracking in Healthy Adults"](https://pmc.ncbi.nlm.nih.gov/articles/PMC11511193/)
+- JMIR mHealth and uHealth (2023) — ["Accuracy of 11 Wearable, Nearable, and Airable Consumer Sleep Trackers: Prospective Multicenter Validation Study"](https://mhealth.jmir.org/2023/1/e50983)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnforstyrrelser hos voksne, veiviser"](https://nhi.no/symptomer/psyke-og-sinn/sovnforstyrrelser-hos-voksne-veiviser)
+- Helsenorge — ["Søvn og søvnproblemer"](https://www.helsenorge.no/sovnproblemer/)

@@ -99,3 +99,10 @@ Vektede tepper er dokumentert effektive — for de rette personene:
 - Ikke egnet ved søvnapné, klausofobi eller for dem som sover veldig varmt
 
 Les videre: [Soverommet for bedre søvn](/sovn/soverom-sovn) — [Angst og søvn](/sovn/angst-sovn) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene)
+
+## Kilder
+
+- Journal of Clinical Sleep Medicine (Ekholm et al., 2020) — ["A randomized controlled study of weighted chain blankets for insomnia in psychiatric disorders"](https://jcsm.aasm.org/doi/10.5664/jcsm.8636)
+- BMC Psychiatry (2024) — ["Effect of weighted blankets on sleep quality among adults with insomnia: a pilot randomized controlled trial"](https://link.springer.com/article/10.1186/s12888-024-06218-9)
+- Journal of Psychiatric Research (2024) — ["The effect of weighted blankets on sleep quality and mental health symptoms in people with psychiatric disorders: A systematic review and meta-analysis"](https://www.sciencedirect.com/science/article/pii/S0022395624005508)
+- Frontiers in Psychiatry (2024) — ["The effect of weighted blankets on sleep and related disorders: a brief review"](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1333015/full)

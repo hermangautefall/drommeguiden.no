@@ -99,3 +99,10 @@ Den biologiske klokken er et av kroppens viktigste styringssystemer:
 - REM-søvnen og drømmene er de første til å forsvinne ved forstyrrelser i rytmen
 
 Les videre: [Melatonin — dose og bruk](/sovn/melatonin) — [Søvnfaser forklart](/sovn/sovnfaser) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene)
+
+## Kilder
+
+- Store medisinske leksikon (SNL) — ["circadiansk rytme"](https://sml.snl.no/circadiansk_rytme)
+- Store medisinske leksikon (SNL) — ["døgnrytmer — mennesket"](https://sml.snl.no/d%C3%B8gnrytmer_-_mennesket)
+- Tidsskrift for Norsk psykologforening — ["Forsinket søvnfasesyndrom"](https://www.psykologtidsskriftet.no/fagartikkel/2005/03/forsinket-sovnfasesyndrom)
+- Norsk Legemiddelhåndbok — ["L5.1.5.1 Melatonin"](https://www.legemiddelhandboka.no/L5.1.5.1/Melatonin)

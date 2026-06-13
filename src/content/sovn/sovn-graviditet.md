@@ -102,3 +102,10 @@ Søvn under graviditet er utfordrende — men det finnes gode tiltak:
 - Sideleie med graviditetspute, begrensning av væske om kvelden og korte hviler på dagtid er de viktigste tiltakene
 
 Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Hva drømmene om graviditet betyr](/drommer/gravid) — [Barn og drømmer](/guider/barn-og-drommer)
+
+## Kilder
+
+- Norsk Helseinformatikk (NHI.no) — ["Gravide bør ikke sove på ryggen"](https://nhi.no/familie/graviditet/gravide-bor-ikke-sove-pa-ryggen)
+- Norsk Helseinformatikk (NHI.no) — ["Hvor mye søvn trenger du egentlig? — Graviditet"](https://nhi.no/livsstil/egenomsorg/hvor-mye-sovn-trenger-du-egentlig/graviditet)
+- Helsebiblioteket — ["Søvnproblemer under graviditet kan øke risikoen for preeklampsi"](https://www.helsebiblioteket.no/innhold/artikler/psykisk-helse/psyknytt/sovnproblemer-under-graviditet-kan-oke-risikoen-for-preeklampsi)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnvansker etter fødselen"](https://nhi.no/familie/graviditet/symptomsjekker/sovnvansker-etter-fodselen)

@@ -85,3 +85,10 @@ Overgangsalderen forandrer søvnen gjennom flere mekanismer:
 - Kjølig soverom, HRT (etter legevurdering), CBT-I og avslapningsteknikker er de viktigste tiltakene
 
 Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Angst og søvn](/sovn/angst-sovn) — [Søvnhygiene: 12 vaner](/sovn/sovnhygiene)
+
+## Kilder
+
+- Helsenorge — ["Hva er overgangsalderen?"](https://www.helsenorge.no/kvinnehelse/overgangsalder/hva-er/)
+- Helsenorge — ["Symptomer på overgangsalder"](https://www.helsenorge.no/kvinnehelse/overgangsalder/symptomer/)
+- Helsenorge — ["Hormonbehandling i overgangsalderen"](https://www.helsenorge.no/kvinnehelse/overgangsalder/hormonbehandling/)
+- Norsk Helseinformatikk (NHI.no) — ["Overgangsalderen"](https://nhi.no/sykdommer/kvinne/hormonbehandling/overgangsalderen)

@@ -98,3 +98,10 @@ Søvnapné er vanlig, alvorlig og svært behandlingsbar:
 - Søk lege hvis du kjenner deg igjen i symptomene — fastlegen kan bestille søvnregistrering
 
 Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Søvnfaser forklart](/sovn/sovnfaser) — [Stress og drømmene](/guider/stress-og-drommer)
+
+## Kilder
+
+- Helsenorge — ["Søvnapné"](https://www.helsenorge.no/sykdom/sovnsykdommer/sovnapne/)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnapné hos voksne"](https://nhi.no/livsstil/egenomsorg/sovnapne-hos-voksne)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnapné hos voksne — Behandling"](https://nhi.no/livsstil/egenomsorg/sovnapne-hos-voksne/behandling)
+- Helse Bergen / Nasjonalt kompetansesenter for søvnsykdommer (SOVno) — ["Nasjonal anbefaling obstruktiv søvnapné"](https://www.helse-bergen.no/49b623/contentassets/4d21b6058a5247bcb5e9a1601989db5e/anbefaling-sovnapne.pdf) (PDF)

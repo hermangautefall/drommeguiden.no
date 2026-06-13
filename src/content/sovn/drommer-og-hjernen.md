@@ -95,3 +95,10 @@ Drømmenes nevrologiske basis er godt kartlagt og dypt fascinerende:
 - Lucide drømmere aktiverer prefrontal cortex under REM — et nevrologisk unikt fenomen
 
 Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Lucid dreaming](/guider/lucid-dromming) — [Søvnparalyse](/guider/sovnparalyse)
+
+## Kilder
+
+- Store medisinske leksikon (SNL) — ["REM-søvn"](https://sml.snl.no/REM-s%C3%B8vn)
+- Tidsskrift for Norsk psykologforening — ["Nye funn om drøm som fenomen"](https://www.psykologtidsskriftet.no/artikkel/2007as04ae-Nye-funn-om-drom-som-fenomen)
+- Tidsskrift for Norsk psykologforening (Bjorvatn, 2020) — ["Hva er søvn?"](https://www.psykologtidsskriftet.no/artikkel/2020as07ae-Hva-er-sovn-)
+- American Journal of Psychiatry (Hobson & McCarley, 1977) — ["The brain as a dream state generator: an activation-synthesis hypothesis of the dream process"](https://www.semanticscholar.org/paper/The-brain-as-a-dream-state-generator:-an-hypothesis-Hobson-McCarley/f1af886bfac2ee058ddaf1a6fb61dabe08e19b08) (Semantic Scholar — primærsitering)

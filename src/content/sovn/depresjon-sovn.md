@@ -77,3 +77,10 @@ Depresjon og søvn er dypt sammenflettet i en selvforsterkende spiral:
 *Vedvarende søvnproblemer kombinert med depressive symptomer bør utredes av lege.*
 
 Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Angst og søvn](/sovn/angst-sovn) — [Stress og drømmene](/guider/stress-og-drommer)
+
+## Kilder
+
+- Helsenorge — ["Depresjon"](https://www.helsenorge.no/sykdom/psykiske-lidelser/depresjon/)
+- Norsk Helseinformatikk (NHI.no) — ["Depresjon — en oversikt"](https://nhi.no/sykdommer/psykisk-helse/depresjon/depresjon-en-oversikt)
+- Tidsskrift for Norsk psykologforening — ["Søvnforstyrrelser ved psykiske lidelser"](https://www.psykologtidsskriftet.no/artikkel/2007as04ae-Sovnforstyrrelser-ved-psykiske-lidelser)
+- Tidsskrift for Norsk psykologforening — ["Behandling av depresjon med søvndeprivasjon og søvnfaseforskyvning"](https://psykologtidsskriftet.no/fagbulletin/2013/12/behandling-av-depresjon-med-sovndeprivasjon-og-sovnfaseforskyvning)

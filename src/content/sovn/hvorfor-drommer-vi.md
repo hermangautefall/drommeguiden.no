@@ -107,3 +107,10 @@ Forskningen gir ikke ett svar på hvorfor vi drømmer — men gir oss flere komp
 - Psykologisk kommunikasjon: Jung og Freud pekte på at drømmene formidler noe fra det ubevisste
 
 Videre lesing: [Søvnfaser og REM forklart](/sovn/sovnfaser) — [Hva er søvn?](/sovn/hva-er-sovn) — [Drømmejournalen — slik husker du drømmene](/guider/drommejournalen)
+
+## Kilder
+
+- Tidsskrift for Norsk psykologforening (Bjorvatn, 2020) — ["Hva er søvn?"](https://www.psykologtidsskriftet.no/artikkel/2020as07ae-Hva-er-sovn-)
+- Tidsskrift for Norsk psykologforening — ["Nye funn om drøm som fenomen"](https://www.psykologtidsskriftet.no/artikkel/2007as04ae-Nye-funn-om-drom-som-fenomen)
+- Store medisinske leksikon (SNL) — ["REM-søvn"](https://sml.snl.no/REM-s%C3%B8vn)
+- American Journal of Psychiatry (Hobson & McCarley, 1977) — ["The brain as a dream state generator: an activation-synthesis hypothesis of the dream process"](https://www.semanticscholar.org/paper/The-brain-as-a-dream-state-generator:-an-hypothesis-Hobson-McCarley/f1af886bfac2ee058ddaf1a6fb61dabe08e19b08)

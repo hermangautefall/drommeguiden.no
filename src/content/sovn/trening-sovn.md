@@ -78,3 +78,10 @@ Trening er et av de beste søvnmidlene som finnes:
 - Trening om morgenen kombinert med morgenlys er den beste biologiske klokkekalibreringen
 
 Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Angst og søvn](/sovn/angst-sovn) — [Søvnbehovet ditt](/sovn/sovnbehov)
+
+## Kilder
+
+- PubMed Central — ["The best approaches and doses of exercise for improving sleep quality: a network meta-analysis and dose-response relationship study"](https://pmc.ncbi.nlm.nih.gov/articles/PMC11987399/)
+- Sleep Medicine — ["Effects of exercise on sleep quality in general population: Meta-analysis and systematic review"](https://www.sciencedirect.com/science/article/abs/pii/S1389945724005021)
+- PubMed Central (2025) — ["Effects of Aerobic Exercise on Sleep Quality, Insomnia, and Inflammatory Markers: A Systematic Review and Meta-Analysis"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12293783/)
+- Helsenorge — ["Gode råd for betre søvn"](https://www.helsenorge.no/sovnproblemer/rad-for-bedre-sovn/)

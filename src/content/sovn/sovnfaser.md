@@ -119,3 +119,10 @@ Søvnfasene er ikke tilfeldige. De er en nøye orkestrert prosess der kropp og h
 - Alkohol undertrykker REM; sen leggetid kutter dyp søvn; tidlig vekking kutter REM
 
 Videre lesing: [Hva er søvn?](/sovn/hva-er-sovn) — [Hvorfor drømmer vi?](/sovn/hvorfor-drommer-vi) — [Søvnhygiene](/sovn/sovnhygiene)
+
+## Kilder
+
+- Store medisinske leksikon (SNL) — ["søvn"](https://sml.snl.no/s%C3%B8vn)
+- Store medisinske leksikon (SNL) — ["REM-søvn"](https://sml.snl.no/REM-s%C3%B8vn)
+- Norsk Helseinformatikk (NHI.no) — ["Hva er søvn?"](https://nhi.no/kroppen-var/funksjoner/hva-er-sovn)
+- Tidsskrift for Norsk psykologforening (Bjorvatn, 2020) — ["Hva er søvn?"](https://www.psykologtidsskriftet.no/artikkel/2020as07ae-Hva-er-sovn-)

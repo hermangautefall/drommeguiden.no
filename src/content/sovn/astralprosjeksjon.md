@@ -77,3 +77,10 @@ OBE og astralprosjeksjon er reelle opplevelser med en nevrologisk forklaring:
 - Nær-døden-opplevelsers status er vitenskapelig kontroversiell men faktisk dokumentert
 
 Les videre: [Lucid dreaming](/guider/lucid-dromming) — [Søvnparalyse](/guider/sovnparalyse) — [Falsk oppvåkning](/guider/falsk-oppvakning)
+
+## Kilder
+
+- Brain: A Journal of Neurology (Blanke et al., 2004) — ["Out-of-body experience and autoscopy of neurological origin"](https://academic.oup.com/brain/article-abstract/127/2/243/347826)
+- New England Journal of Medicine (Blanke, 2007) — ["Visualizing Out-of-Body Experience in the Brain"](https://www.nejm.org/doi/full/10.1056/NEJMoa070010)
+- Cureus / PubMed Central — ["Astral Projection: A Strange Out-of-Body Experience in Dissociative Disorder"](https://pmc.ncbi.nlm.nih.gov/articles/PMC8425774/)
+- Store medisinske leksikon (SNL) — ["depersonalisasjonsfenomen"](https://sml.snl.no/depersonalisasjonsfenomen)

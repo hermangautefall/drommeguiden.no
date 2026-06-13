@@ -87,3 +87,10 @@ Koffein er en effektiv søvntyv fordi halveringstiden er mye lenger enn de flest
 - Kuttede koffeinsøvn gir mer sammenhengende REM og bedre drømmehusking
 
 Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Alkohol og søvn](/sovn/alkohol-sovn) — [Søvnfaser forklart](/sovn/sovnfaser)
+
+## Kilder
+
+- Folkehelseinstituttet (FHI) — ["Koffein og koffeinholdige drikker"](https://www.fhi.no/le/kosthold/koffein-koffeinholdige-drikker/)
+- Norsk Helseinformatikk (NHI.no) — ["Hvor lenge varer effekten av en kopp kaffe?"](https://nhi.no/kosthold/forebyggende-kost-og-sykdom/hvor-lenge-varer-effekten-av-en-kopp-kaffe)
+- Norsk Helseinformatikk (NHI.no) — ["Kaffe, koffein og helse — koffeinets effekter"](https://nhi.no/for-helsepersonell/fra-vitenskapen/kaffe-kaffein-og-helse/koffeinets-effekter)
+- Sleep Medicine Reviews (Gardiner et al., 2023) — ["The effect of caffeine on subsequent sleep: A systematic review and meta-analysis"](https://www.sciencedirect.com/science/article/pii/S1087079223000205)

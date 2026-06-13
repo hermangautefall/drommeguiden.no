@@ -72,3 +72,10 @@ Polyfasisk søvn er fascinerende, men de mest ekstreme variantene er ikke bærek
 - Polyfasisk søvn er interessant for lucide drømmere, ikke som produktivitetshack
 
 Les videre: [Søvnfaser forklart](/sovn/sovnfaser) — [Søvnbehovet ditt](/sovn/sovnbehov) — [Lucid dreaming](/guider/lucid-dromming)
+
+## Kilder
+
+- Sleep Health / National Sleep Foundation consensus panel (2021) — ["Adverse impact of polyphasic sleep patterns in humans: Report of the National Sleep Foundation sleep timing and variability consensus panel"](https://www.sciencedirect.com/science/article/pii/S2352721821000309)
+- Sleep Foundation — ["Polyphasic Sleep: Benefits and Risks"](https://www.sleepfoundation.org/how-sleep-works/polyphasic-sleep)
+- Cleveland Clinic — ["Should You Try Polyphasic Sleep?"](https://health.clevelandclinic.org/polyphasic-sleep)
+- Sleep Health (Hirshkowitz et al., 2015) — ["National Sleep Foundation's sleep time duration recommendations"](https://www.sleephealthjournal.org/article/s2352-7218(15)00015-7/fulltext)

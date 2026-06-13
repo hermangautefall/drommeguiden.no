@@ -121,3 +121,10 @@ De 12 viktigste søvnhygienetiltakene, rangert etter effekt:
 12. Håndter bekymringer aktivt på dagtid
 
 Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Angst og søvn](/sovn/angst-sovn) — [Drømmejournalen](/guider/drommejournalen)
+
+## Kilder
+
+- Helsenorge — ["Gode råd for betre søvn"](https://www.helsenorge.no/sovnproblemer/rad-for-bedre-sovn/)
+- Norsk Helseinformatikk (NHI.no) — ["Gode råd for bedre søvn"](https://nhi.no/livsstil/egenomsorg/sovnhygieniske-rad/gode-rad-for-bedre-sovn)
+- Helsedirektoratet — ["Søvn og søvnvansker"](https://www.helsedirektoratet.no/tema/sovn/sovn-og-sovnvansker)
+- Helse Bergen / Nasjonalt kompetansesenter for søvnsykdommer (SOVno) — ["Søvnhygiene — gode råd ved søvnproblemer"](https://www.helse-bergen.no/nasjonal-kompetansetjeneste-for-sovnsykdommer-sovno/sovn-og-sovnsykdommer/sovnhygiene---gode-rad-ved-sovnproblemer/)

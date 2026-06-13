@@ -108,3 +108,10 @@ Soveromsmiljøet er en undervurdert søvnfaktor:
 - Et optimalt soveromsmiljø gir mer sammenhengende REM-søvn og bedre drømmehusking
 
 Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Vektet teppe — guide og anbefalinger](/sovn/vektet-teppe) — [Søvnproblemer og insomni](/sovn/sovnproblemer)
+
+## Kilder
+
+- Helsenorge — ["Gode råd for betre søvn"](https://www.helsenorge.no/sovnproblemer/rad-for-bedre-sovn/)
+- Norsk Helseinformatikk (NHI.no) — ["Gode råd for bedre søvn"](https://nhi.no/livsstil/egenomsorg/sovnhygieniske-rad/gode-rad-for-bedre-sovn)
+- Folkehelseinstituttet (FHI, 2015) — ["Anbefalte faglige normer for inneklima"](https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2015/anbefalte-faglige-normer-for-inneklima-pdf.pdf) (PDF — temperatur og luftfuktighet i boliger)
+- Helse Bergen / Nasjonalt kompetansesenter for søvnsykdommer (SOVno) — ["Søvnhygiene — gode råd ved søvnproblemer"](https://www.helse-bergen.no/nasjonal-kompetansetjeneste-for-sovnsykdommer-sovno/sovn-og-sovnsykdommer/sovnhygiene---gode-rad-ved-sovnproblemer/)

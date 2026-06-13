@@ -76,3 +76,10 @@ Søvnen endres biologisk med alderen — men mye er behandlingsbart:
 - Eldre drømmer mer positivt og rolig — men drømmer om avdøde er vanligere og ofte trøstende
 
 Les videre: [Melatonin — dose og bruk](/sovn/melatonin) — [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Drømmer om avdøde](/guider/drommer-om-avdode)
+
+## Kilder
+
+- Helsedirektoratet — ["Søvnplager hos eldre bør kartlegges, vurderes og følges opp"](https://www.helsedirektoratet.no/faglige-rad/psykiske-lidelser-hos-eldre/sovn-og-sovnvansker/sovnplager-hos-eldre-bor-kartlegges-vurderes-og-folges-opp-og-ikke-bare-oppfattes-som-en-naturlig-del-av-aldring)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnløshet blant eldre"](https://nhi.no/livsstil/egenomsorg/sovnloshet-blant-eldre)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnløshet blant eldre — Behandling"](https://nhi.no/livsstil/egenomsorg/sovnloshet-blant-eldre/behandling)
+- Norsk Helseinformatikk (NHI.no) — ["Aldring og alderdom, alderdomssvekkelse"](https://nhi.no/kroppen-var/kropp/geriatri)

@@ -82,3 +82,10 @@ Alkohol er ikke et sovemiddel — det er en søvntyv:
 - Kutting av alkohol de siste 3–6 timene før søvn gir merkbar bedring
 
 Les videre: [Søvnhygiene: 12 vaner](/sovn/sovnhygiene) — [Søvnfaser forklart](/sovn/sovnfaser) — [Søvnproblemer og insomni](/sovn/sovnproblemer)
+
+## Kilder
+
+- Norsk Helseinformatikk (NHI.no) — ["Et glass alkohol før sengetid forstyrrer søvnen"](https://nhi.no/livsstil/egenomsorg/et-glass-alkohol-for-sengetid-forstyrrer-sovnen)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnforstyrrelser hos voksne, veiviser"](https://nhi.no/symptomer/psyke-og-sinn/sovnforstyrrelser-hos-voksne-veiviser)
+- Sleep Medicine Reviews (2024) — ["The effect of alcohol on subsequent sleep in healthy adults: A systematic review and meta-analysis"](https://www.sciencedirect.com/science/article/pii/S1087079224001345)
+- European Respiratory Review / PubMed Central — ["Alcohol and the risk of sleep apnoea: a systematic review and meta-analysis"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5840512/)

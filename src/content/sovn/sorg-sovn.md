@@ -87,3 +87,10 @@ Sorg og søvn er uatskillelig forbundet — og søvnen er en aktiv del av sorgen
 - Journalskriving, ritualer og sosial støtte er de mest effektive søvntiltakene i sorgtiden
 
 Les videre: [Å drømme om avdøde](/guider/drommer-om-avdode) — [Søvnproblemer og insomni](/sovn/sovnproblemer) — [Drømmejournalen](/guider/drommejournalen)
+
+## Kilder
+
+- Sleep Medicine Reviews (Lancel et al., 2020) — ["Sleep disturbances in bereavement: A systematic review"](https://www.sciencedirect.com/science/article/pii/S1087079220300745)
+- Sleep Foundation — ["How Grief and Complicated Grief Affect Sleep"](https://www.sleepfoundation.org/mental-health/grief-and-sleep)
+- Death Studies / PubMed (Hardison et al., 2005) — ["Insomnia and complicated grief symptoms in bereaved college students"](https://pubmed.ncbi.nlm.nih.gov/15802260/)
+- Norsk Helseinformatikk (NHI.no) — ["Søvnforstyrrelser hos voksne, veiviser"](https://nhi.no/symptomer/psyke-og-sinn/sovnforstyrrelser-hos-voksne-veiviser)

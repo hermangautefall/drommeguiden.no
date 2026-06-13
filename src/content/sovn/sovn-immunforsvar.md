@@ -80,3 +80,10 @@ Søvn og immunforsvaret er biologisk uadskillelige:
 - Søvn er aktiv behandling under sykdom, ikke passivitet
 
 Les videre: [Hva er søvn?](/sovn/hva-er-sovn) — [Søvnbehovet ditt](/sovn/sovnbehov) — [Søvnproblemer og insomni](/sovn/sovnproblemer)
+
+## Kilder
+
+- Norsk Helseinformatikk (NHI.no) — ["En god natts søvn — Kan påvirke vekt og immunforsvar"](https://nhi.no/livsstil/egenomsorg/en-god-natts-sovn/kan-pavirke-vekt-og-immunforsvar)
+- Folkehelseinstituttet (FHI) — ["Immunitet og hvordan vaksiner virker — håndbok for helsepersonell"](https://www.fhi.no/va/vaksinasjonshandboka/vaksinasjon/immunitet-og-hvordan-vaksiner-virker/)
+- Tidsskrift for Norsk psykologforening (Bjorvatn, 2020) — ["Hva er søvn?"](https://www.psykologtidsskriftet.no/artikkel/2020as07ae-Hva-er-sovn-)
+- Folkehelseinstituttet (FHI) — ["Søvnvansker i Norge"](https://www.fhi.no/he/fr/folkehelserapporten/psykisk-helse/sovnvansker-folkehelserapporten/)
