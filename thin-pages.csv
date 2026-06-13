@@ -1,8 +1,4 @@
 tier,filsti,slug,ordtelling,gsc_klikk_3mnd,gsc_visninger_3mnd,kategori
-KRITISK_TYNN,src/content/drommer/frosk.md,frosk,389,2,161,dyr
-KRITISK_TYNN,src/content/drommer/bestemor.md,bestemor,396,0,27,mennesker
-KRITISK_TYNN,src/content/drommer/hjort.md,hjort,398,2,112,dyr
-KRITISK_TYNN,src/content/drommer/krokodille.md,krokodille,398,5,93,dyr
 MISTANKE,src/content/drommer/skip.md,skip,404,1,73,steder
 MISTANKE,src/content/drommer/pingvin.md,pingvin,405,2,46,dyr
 MISTANKE,src/content/drommer/ring.md,ring,408,7,91,gjenstander
@@ -212,6 +208,7 @@ OK,src/content/drommer/buss.md,buss,890,10,175,steder
 OK,src/content/drommer/morkt-rom.md,morkt-rom,893,2,23,steder
 OK,src/content/sovn/sovn-graviditet.md,sovn-graviditet,895,0,215,livsfaser
 OK,src/content/drommer/fingre.md,fingre,897,0,46,kropp
+OK,src/content/drommer/frosk.md,frosk,906,2,161,dyr
 OK,src/content/drommer/hender.md,hender,910,2,25,kropp
 OK,src/content/drommer/hus.md,hus,914,10,364,steder
 OK,src/content/drommer/falle.md,falle,915,8,528,hendelser
@@ -230,11 +227,14 @@ OK,src/content/drommer/operasjon.md,operasjon,939,1,37,hendelser
 OK,src/content/drommer/brann.md,brann,953,0,41,natur
 OK,src/content/drommer/naken.md,naken,954,5,357,kropp
 OK,src/content/drommer/speil.md,speil,956,1,109,gjenstander
+OK,src/content/drommer/hjort.md,hjort,962,2,112,dyr
 OK,src/content/drommer/krage.md,krage,966,11,431,dyr
 OK,src/content/sovn/hva-er-sovn.md,hva-er-sovn,967,0,62,vitenskap
 OK,src/content/drommer/hav.md,hav,970,1,120,vann
 OK,src/content/drommer/eksen.md,eksen,971,4,332,mennesker
+OK,src/content/drommer/bestemor.md,bestemor,974,0,27,mennesker
 OK,src/content/drommer/katt.md,katt,982,0,2,dyr
+OK,src/content/drommer/krokodille.md,krokodille,985,5,93,dyr
 OK,src/content/drommer/bror.md,bror,999,3,36,mennesker
 OK,src/content/drommer/baby.md,baby,1006,7,236,mennesker
 OK,src/content/drommer/ulykke.md,ulykke,1007,1,72,hendelser
