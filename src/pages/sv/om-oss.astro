@@ -1,11 +1,15 @@
 ---
 import Base from '../../layouts/Base.astro';
+import { getAuthor } from '../../data/authors';
+
+const author = getAuthor('default');
+const spotifyUrl = author.sameAs.find((u) => u.includes('spotify.com')) || null;
 ---
 
 <Base
   lang="sv"
   tittel="Om oss"
-  beskrivelse="Drömguiden är gjord för dig som vaknar med en dröm i huvudet och undrar vad den betyder. Läs mer om vilka vi är."
+  beskrivelse="Drömguiden är gjord för dig som vaknar med en dröm i huvudet och undrar vad den betyder. Möt redaktören och se hur vi arbetar."
   alternates={[{ lang: 'nb', url: 'https://drommeguiden.no/om-oss/' }]}
 >
   <div class="static-page">
@@ -17,22 +21,52 @@ import Base from '../../layouts/Base.astro';
         Drömguiden är gjord för dig som vaknar med en dröm i huvudet och undrar vad den betyder. Vi tror att drömmar är en värdefull källa till självinsikt — inte magi eller spådom, utan ett fönster in i det omedvetna som förtjänar att tas på allvar.
       </p>
 
+      <h2>Vem står bakom Drömguiden</h2>
       <p>
-        Vårt mål är att vara den mest kompletta och tillgängliga resursen för drömtydning på svenska. Vi skriver i en varm och respektfull ton, och vi undviker medvetet absoluta påståenden. Drömmar är personliga, och tolkningen är alltid din egen.
+        Drömguiden drivs och redigeras av <strong>{author.name}</strong>.
+      </p>
+      <p>
+        Isac Levine är en norsk pianist och kompositör som skriver neoklassisk pianomusik för vila, avslappning och sömn. Med ett dämpat, melodiskt uttryck skapar han stilla klangrum där tankarna får sänka sig — musik gjord för de lugna timmarna innan natten tar över.
+      </p>
+      <p>
+        Utgivningar som <em>Stillhet</em>, <em>Over Havet</em>, <em>Reflections</em> och <em>Clarity</em> bär alla samma signum: enkla, nära pianomelodier utan onödigt brus, där pauserna betyder lika mycket som tonerna. Musiken är en naturlig följeslagare till drömmarna och sömnen vi skriver om här på Drömguiden.
+      </p>
+      {spotifyUrl && (
+        <p>
+          Du kan höra Isac Levine på <a href={spotifyUrl} target="_blank" rel="noopener noreferrer">Spotify</a>.
+        </p>
+      )}
+
+      <h2>Varför den här webbplatsen finns</h2>
+      <p>
+        Det mesta som finns om drömmar på svenska är antingen korta, ytliga uppslagsverk eller magiska spådomssajter utan facklig förankring. Vi tyckte att det förtjänades något bättre — en seriös, varm och läsbar resurs som varken är reduktiv eller mystisk. Vi skriver för att drömmarna är en del av människolivet som fascinerat oss tvärs över tid och kulturer, och för att vi anser att nattens bildspråk förtjänar att mötas med samma respekt som dagens.
       </p>
 
+      <h2>Hur vi arbetar med drömtydning</h2>
       <p>
-        Vårt innehåll bygger på erkänd drömpsykologi, arketypisk symbolik och kulturell kontext — med särskild tyngd på nordisk tradition. Vi hämtar insikt från Carl Jung, modern sömnforskning och folkliga drömtraditioner.
+        Vi kombinerar tre stora källor när vi skriver om drömsymboler. <strong>Norrön och nordisk arv</strong> ger oss ett lokalt symbolspråk som ofta saknas i internationella drömböcker — från Yggdrasil-hjortarna till skaldemjödet. <strong>Jungiansk psykologi</strong> ger oss ett språk för det omedvetnas arketyper, Persona, anima/animus och individuationsprocessen. <strong>Komparativ kultur och religion</strong> ger oss perspektiv från islam, hinduism, buddhism, urfolkstraditioner och världens mytologier — för drömmar har aldrig varit bara ett lokalt fenomen.
+      </p>
+      <p>
+        Vi undviker medvetet absoluta påståenden. Du kommer aldrig att läsa "denna dröm BETYDER att..." hos oss; du kommer att läsa "kan betyda", "tolkas ofta som" och "fråga dig själv". Drömmar är personliga, och tolkningen är alltid din egen.
       </p>
 
+      <h2>Hur vi arbetar med sömninnehåll</h2>
       <p>
-        Drömguiden är ett oberoende projekt drivet av nyfikenhet och ett genuint intresse för drömmarnas värld. Vi är inte terapeuter eller psykologer, och vårt innehåll ersätter inte professionell rådgivning. Men vi hoppas att våra sidor kan ge dig en bra utgångspunkt för reflektion — och kanske en liten aha-upplevelse nästa gång du minns en dröm.
+        Sömnsektionen står på en annan fot än drömsidorna. Här skriver vi om sömnvetenskap, sömnhygien och sömnstörningar med utgångspunkt i fackgranskad forskning, kliniska riktlinjer och folkhälsoinstitutionernas rekommendationer. Vi citerar inte alla källor direkt i texten av läsvänlighetsskäl, men innehållet bygger på etablerad litteratur från bland andra Sleep Medicine Reviews, Journal of Sleep Research, NIH, CDC och nordiska folkhälsoinstanser.
+      </p>
+      <p>
+        Vi uppdaterar sömnartiklarna när ny forskning kräver det, och vi markerar tydligt där det fortfarande råder facklig oenighet eller icke-konklusiv kunskap. Vi ger aldrig konkreta medicinska råd. Sömnbesvär som kvarstår eller plågar dig ska alltid utredas av vårdcentral eller sömnspecialist.
       </p>
 
+      <h2>Vi är inte terapeuter</h2>
       <p>
-        Har du frågor, återkoppling eller önskemål om nya symboler? Vi hör gärna från dig.
+        Det är viktigt att detta står tydligt: vi är inte psykologer, psykiatriker, terapeuter eller läkare. Vårt innehåll ersätter inte professionell vård. Vi erbjuder <em>reflektion</em>, inte <em>diagnos</em>. Om du brottas med återkommande mardrömmar, allvarliga sömnstörningar, trauma eller psykisk ohälsa uppmanar vi dig att söka kontakt med vårdcentral, en kvalificerad terapeut eller hälso- och sjukvården i din kommun.
       </p>
 
+      <h2>Kontakt och redaktionell återkoppling</h2>
+      <p>
+        Vi tar emot återkoppling, rättelser och förslag med öppna armar. Har du sett ett faktafel, en otydlighet, en symbol du saknar, eller en kulturell vinkling vi missat? Säg till. Drömguiden är ett levande projekt, och kvaliteten beror på att läsarna säger ifrån när något inte stämmer.
+      </p>
       <p>
         <a href="/sv/kontakt/">Kontakta oss här &rarr;</a>
       </p>
@@ -42,7 +76,7 @@ import Base from '../../layouts/Base.astro';
 
 <style>
   .static-page {
-    max-width: 680px;
+    max-width: 720px;
     margin: 0 auto;
   }
   .static-label {
@@ -64,5 +98,8 @@ import Base from '../../layouts/Base.astro';
   }
   @media (min-width: 768px) {
     .static-title { font-size: 44px; }
+  }
+  .prose h2 {
+    margin-top: 2.5rem;
   }
 </style>

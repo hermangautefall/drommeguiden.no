@@ -1,11 +1,15 @@
 ---
 import Base from '../layouts/Base.astro';
+import { getAuthor } from '../data/authors';
+
+const author = getAuthor('default');
+const spotifyUrl = author.sameAs.find((u) => u.includes('spotify.com')) || null;
 ---
 
 <Base
   lang="nb"
   tittel="Om oss"
-  beskrivelse="Drømmeguiden er laget for deg som våkner med en drøm i hodet og lurer på hva den betyr. Les mer om hvem vi er."
+  beskrivelse="Drømmeguiden er laget for deg som våkner med en drøm i hodet og lurer på hva den betyr. Møt redaktøren og se hvordan vi jobber."
   alternates={[{ lang: 'sv', url: 'https://drommeguiden.no/sv/om-oss/' }]}
 >
   <div class="static-page">
@@ -17,22 +21,49 @@ import Base from '../layouts/Base.astro';
         Drømmeguiden er laget for deg som våkner med en drøm i hodet og lurer på hva den betyr. Vi tror at drømmer er en verdifull kilde til selvinnsikt — ikke magi eller spådomskunst, men et vindu inn i det ubevisste som fortjener å bli tatt på alvor.
       </p>
 
+      <h2>Hvem står bak Drømmeguiden</h2>
       <p>
-        Målet vårt er å være Norges mest komplette og tilgjengelige ressurs for drømmetolkning. Vi skriver på norsk, i en varm og respektfull tone, og vi unngår bevisst absolutte påstander. Drømmer er personlige, og tolkningen er alltid din egen.
+        Drømmeguiden drives og redigeres av <strong>{author.name}</strong>.
+      </p>
+      {author.bio.map((paragraph) => (
+        <p>{paragraph}</p>
+      ))}
+      {spotifyUrl && (
+        <p>
+          Du kan høre Isac Levine på <a href={spotifyUrl} target="_blank" rel="noopener noreferrer">Spotify</a>.
+        </p>
+      )}
+
+      <h2>Hvorfor dette nettstedet finnes</h2>
+      <p>
+        Det meste som finnes om drømmer på norsk er enten korte, overfladiske oppslagsverk eller magiske spådomssider uten faglig forankring. Vi mente det fortjentes noe bedre — en seriøs, varm og leselig ressurs som verken er reduktiv eller mystisk. Vi skriver fordi drømmene er en del av menneskelivet som har fascinert oss på tvers av tid og kulturer, og fordi vi mener nattens billedspråk fortjener å bli møtt med samme respekt som dagens.
       </p>
 
+      <h2>Hvordan vi jobber med drømmetolkning</h2>
       <p>
-        Innholdet vårt er basert på anerkjent drømmepsykologi, arketypisk symbolikk og kulturell kontekst — med særlig vekt på nordisk og norsk tradisjon. Vi trekker på innsikt fra Carl Jung, moderne søvnforskning og folkelige drømmetradisjoner.
+        Vi kombinerer tre store kilder når vi skriver om drømmesymboler. <strong>Norrøn og nordisk arv</strong> gir oss et lokalt symbolspråk som ofte mangler i internasjonale drømmebøker — fra Yggdrasil-hjortene til skaldemjøden. <strong>Jungiansk psykologi</strong> gir oss et språk for det ubevisstes arketyper, Persona, anima/animus og individuasjonsprosessen. <strong>Komparativ kultur og religion</strong> gir oss perspektiver fra islam, hinduisme, buddhisme, urfolkstradisjoner og verdens mytologier — fordi drømmer aldri har vært bare et lokalt fenomen.
+      </p>
+      <p>
+        Vi unngår bevisst absolutte påstander. Du vil aldri lese "denne drømmen BETYR at..." hos oss; du vil lese "kan bety", "tolkes ofte som" og "spør deg selv". Drømmer er personlige, og tolkningen er alltid din egen.
       </p>
 
+      <h2>Hvordan vi jobber med søvn-innhold</h2>
       <p>
-        Drømmeguiden er et uavhengig prosjekt drevet av nysgjerrighet og en genuin interesse for drømmenes verden. Vi er ikke terapeuter eller psykologer, og innholdet vårt erstatter ikke profesjonell rådgivning. Men vi håper at sidene våre kan gi deg et godt utgangspunkt for refleksjon — og kanskje en liten aha-opplevelse neste gang du husker en drøm.
+        Søvnseksjonen vår står på en annen fot enn drømmesidene. Her skriver vi om søvnvitenskap, søvnhygiene og søvnlidelser med utgangspunkt i fagfellevurdert forskning, kliniske retningslinjer og folkehelseinstitusjonenes anbefalinger. Vi siterer ikke alle kilder direkte i teksten av leservennlighetshensyn, men innholdet er bygget på etablert litteratur fra blant annet Sleep Medicine Reviews, Journal of Sleep Research, NIH, CDC og norske/svenske folkehelseinstanser.
+      </p>
+      <p>
+        Vi oppdaterer søvnartiklene når ny forskning krever det, og vi merker tydelig hvor det fortsatt er faglig uenighet eller ikke-konkluderende kunnskap. Vi gir aldri konkrete medisinske råd. Søvnvansker som varer eller plager deg skal alltid utredes av fastlege eller søvnspesialist.
       </p>
 
+      <h2>Vi er ikke terapeuter</h2>
       <p>
-        Har du spørsmål, tilbakemeldinger eller ønsker om nye symboler? Vi vil gjerne høre fra deg.
+        Det er viktig at dette står tydelig: vi er ikke psykologer, psykiatere, terapeuter eller leger. Innholdet vårt erstatter ikke profesjonell helsehjelp. Vi tilbyr <em>refleksjon</em>, ikke <em>diagnose</em>. Hvis du sliter med tilbakevendende mareritt, alvorlige søvnforstyrrelser, traume eller psykisk lidelse, oppfordrer vi deg sterkt til å snakke med fastlege, en kvalifisert terapeut eller helsetjenesten i kommunen din.
       </p>
 
+      <h2>Kontakt og redaksjonell tilbakemelding</h2>
+      <p>
+        Vi tar imot tilbakemeldinger, korreksjoner og forslag med åpne armer. Har du sett en faktafeil, en uklarhet, et symbol du savner, eller en kulturell vinkling vi har bommet på? Si fra. Drømmeguiden er et levende prosjekt, og kvaliteten avhenger av at leserne sier ifra når noe ikke stemmer.
+      </p>
       <p>
         <a href="/kontakt/">Ta kontakt med oss her &rarr;</a>
       </p>
@@ -42,7 +73,7 @@ import Base from '../layouts/Base.astro';
 
 <style>
   .static-page {
-    max-width: 680px;
+    max-width: 720px;
     margin: 0 auto;
   }
   .static-label {
@@ -64,5 +95,8 @@ import Base from '../layouts/Base.astro';
   }
   @media (min-width: 768px) {
     .static-title { font-size: 44px; }
+  }
+  .prose h2 {
+    margin-top: 2.5rem;
   }
 </style>
