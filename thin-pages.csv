@@ -1,9 +1,4 @@
 tier,filsti,slug,ordtelling,gsc_klikk_3mnd,gsc_visninger_3mnd,kategori
-KRITISK_TYNN,src/content/drommer/bad.md,bad,342,1,71,steder
-KRITISK_TYNN,src/content/drommer/bie.md,bie,343,3,160,dyr
-KRITISK_TYNN,src/content/drommer/krabbe.md,krabbe,355,4,69,dyr
-KRITISK_TYNN,src/content/drommer/kjole.md,kjole,356,6,112,gjenstander
-KRITISK_TYNN,src/content/drommer/ulykke.md,ulykke,359,1,72,hendelser
 KRITISK_TYNN,src/content/drommer/stein.md,stein,365,2,65,gjenstander
 KRITISK_TYNN,src/content/drommer/buss.md,buss,370,10,175,steder
 KRITISK_TYNN,src/content/drommer/fingre.md,fingre,373,0,46,kropp
@@ -203,6 +198,8 @@ OK,src/content/drommer/onkel.md,onkel,814,0,1,mennesker
 OK,src/content/drommer/tante.md,tante,815,0,6,mennesker
 OK,src/content/drommer/tre.md,tre,827,5,98,natur
 OK,src/content/drommer/storm.md,storm,837,0,56,natur
+OK,src/content/drommer/bie.md,bie,840,3,160,dyr
+OK,src/content/drommer/krabbe.md,krabbe,842,4,69,dyr
 OK,src/content/sovn/drommer-og-hjernen.md,drommer-og-hjernen,847,0,2,vitenskap
 OK,src/content/drommer/drepe.md,drepe,849,7,443,hendelser
 OK,src/content/drommer/dor.md,dor,851,0,8,steder
@@ -210,6 +207,7 @@ OK,src/content/drommer/flyging.md,flyging,851,6,464,hendelser
 OK,src/content/drommer/skog.md,skog,859,1,71,steder
 OK,src/content/sovn/angst-sovn.md,angst-sovn,863,1,78,psykologi
 OK,src/content/drommer/bok.md,bok,882,1,13,gjenstander
+OK,src/content/drommer/bad.md,bad,884,1,71,steder
 OK,src/content/drommer/skole.md,skole,887,6,127,steder
 OK,src/content/drommer/sykehus.md,sykehus,889,2,77,steder
 OK,src/content/drommer/tann.md,tann,889,3,591,kropp
@@ -227,6 +225,7 @@ OK,src/content/sovn/dognrytme.md,dognrytme,926,0,33,vitenskap
 OK,src/content/drommer/blod.md,blod,927,12,224,kropp
 OK,src/content/drommer/fjell.md,fjell,929,3,135,steder
 OK,src/content/drommer/hund.md,hund,929,0,2,dyr
+OK,src/content/drommer/kjole.md,kjole,929,6,112,gjenstander
 OK,src/content/sovn/beroemte-drommer.md,beroemte-drommer,929,0,3,vitenskap
 OK,src/content/drommer/regn.md,regn,931,0,24,vann
 OK,src/content/drommer/brann.md,brann,953,0,41,natur
@@ -238,6 +237,7 @@ OK,src/content/drommer/hav.md,hav,970,1,120,vann
 OK,src/content/drommer/eksen.md,eksen,971,4,332,mennesker
 OK,src/content/drommer/katt.md,katt,982,0,2,dyr
 OK,src/content/drommer/baby.md,baby,1006,7,236,mennesker
+OK,src/content/drommer/ulykke.md,ulykke,1007,1,72,hendelser
 OK,src/content/drommer/edderkopp.md,edderkopp,1009,0,38,dyr
 OK,src/content/sovn/sovnproblemer.md,sovnproblemer,1020,0,52,lidelser
 OK,src/content/drommer/bjorn.md,bjorn,1032,17,434,dyr
