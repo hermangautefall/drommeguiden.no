@@ -54,11 +54,13 @@ En rädsla som är oproportionerligt stor i förhållande till det faktiska hote
 **Om du fångade musen:**
 Du tar tag i något litet men besvärligt och löser det.
 
-## Psykologiska och kulturella perspektiv
+## De små bekymren — och den tysta styrkan
 
-I sagotraditionen är musen gärna den lilla som hjälper — den som klarar där de stora misslyckas, för att storlek inte alltid är en fördel. Askungens möss som blev hästar är kanske den starkaste bilden: det lilla och obetydliga kan bli något stort när rätt ögonblick kommer.
+Ett näraliggande perspektiv handlar om de små, gnagande bekymren. Musen kan representera blyghet, en känsla av att vara liten eller obetydlig, eller mindre problem som pilar i utkanten av medvetandet. Något som "gnager" i dig — inte stort nog att ta tag i på allvar, men nog för att stjäla en bit av uppmärksamheten varje dag.
 
-Jung skulle ha sett musen som en symbol för det personliga omedvetna i sin mest vardagliga form — de små, vardagliga komplexen och bekymren som gnager i bakgrunden av medvetandet. Drömmar om ditt [hus](/sv/drommar/hus/), där musen gärna uppträder, handlar om självet och ditt inre rum.
+Ett annat perspektiv ligger i anspråkslösheten. Musen lever i marginalerna, ofta obemärkt, och kan därför spegla en uppmärksamhet på detaljer som lätt förbises — eller en känsla av att själv vara förbisedd, tyst och föga synlig i en situation där andra tar mer plats.
+
+Samtidigt är musen ett uppfinningsrikt och motståndskraftigt djur som hittar vägar att överleva nästan var som helst. I fabeltraditionen är det ofta den lilla musen som räddar det mäktiga lejonet — en bild av att det som är litet kan göra en avgörande skillnad. Även i hinduisk tradition rider guden Ganesha på en mus, som en symbol för det som övervinner hinder genom att ta sig in på de minsta och mest svåråtkomliga platserna. Drömmens mus kan alltså, trots sin storlek, peka på en tyst men verkningsfull styrka.
 
 ## Drömguiden rekommenderar
 

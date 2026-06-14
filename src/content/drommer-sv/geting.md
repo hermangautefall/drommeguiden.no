@@ -52,11 +52,13 @@ Du sätter stopp för något irriterande eller aggressivt. En lösning är funne
 **Om getingarna var i ett bo:**
 Något organiserat och potentiellt kraftfullt väntar på att störas. Var försiktig.
 
-## Psykologiska och kulturella perspektiv
+## Ilska, stick och det som irriterar
 
-Getingen är i många kulturer en symbol för vrede och bestraffning — det grekiska uttrycket "att sätta getingar i någons byxor" handlar om att trigga en aggressiv reaktion. I nordisk folkmedicin användes getingstick tidvis som kur för ledgikt — det smärtsamma hade sin funktion.
+Ett näraliggande perspektiv handlar om ilska och vassa känslor. Getingen kan representera irritabilitet eller fientlighet — din egen, eller något du möter från andra. Ett "stickande" ord, en spetsig kommentar, eller en situation där någon beter sig aggressivt utan den produktiva sötman vi förknippar med [biet](/sv/drommar/bi/). Drömmens geting kan alltså peka på en aggression som behöver ett utlopp.
 
-Jung skulle ha sett getingdrömmen som en manifestation av det aggressiva komplexet — en undertryckt aggression som surrar runt och sticker i det omedvetna tills den får mer konstruktivt uttryck. Se även [myra](/sv/drommar/myra/) för en mildare version av insektsymboliken.
+Ett annat perspektiv handlar om hot och försvar. Att bli jagad eller stungen kan spegla en känsla av att vara provocerad eller satt under press — en person som är petig, hämndlysten, eller bara svår att ha att göra med. Ett getingbo som drömmens bild kan representera en spänd situation som bäst lämnas i fred, snarare än att rotas i.
+
+Till sist kan getingen helt enkelt stå för mindre bekymmer som inte släpper — en ihållande, surrande oro i bakhuvudet. Fråga dig gärna vilken energi getingen i drömmen egentligen bär: är det aggression som vill ut, eller en varning om något som bör hanteras varsamt?
 
 ## Drömguiden rekommenderar
 

@@ -71,20 +71,12 @@ Något värdefullt har slutat producera — en förlust, ett nederlag, en utbrä
 **Om du var rädd för bina:**
 En generell rädsla för gemenskap eller för att bli "stungen" av kollektivet.
 
-## Psykologiska och kulturella perspektiv
+## Flit, gemenskap och det söta
 
-Biet har en av drömsymbolikens längsta och mest färgrika kulturella historier — knappast någon annan liten varelse har tillskrivits så mycket mening på så många platser.
+Ett av de mest näraliggande perspektiven handlar om flit och gemenskap. "Flitig som ett bi" är inget slumpartat uttryck — biet är själva bilden av outtröttlig arbetsinsats, men också av en gemenskap där var och en har sin roll. Drömmens bikupa kan påminna dig om din egen plats i en grupp, en familj eller på en arbetsplats: vad bidrar du med, och hur samspelar du med de andra?
 
-I norrön tradition är biet kopplat till *skaldemjödet* — mjödet som skapades av Kvasirs blod och honung, och som gav den som drack det skaldevisdom och diktarkonst. Biets honung är i norrön mening själva konstens råmaterial.
+Ett annat perspektiv finns i sötman. Biet gör honung — frukten av arbete, en belöning som kommer efter ansträngning. Att drömma om bi kan därför handla om en överflöd som är på väg, eller om att något gott äntligen mognar efter en period av tålamod.
 
-I egyptisk mytologi sades bin vara tårar av solguden Ra som föll till jorden. I gamla Egypten var honung både medicin, offer och en kunglig symbol — faraonen omtalades som "han från Sedge och Bee". Drömmens bi i en egyptisk läsning är nära kopplat till det gudomliga och det kungliga.
+Biet har dessutom en lång historia som ett heligt djur i många kulturer. I det gamla Egypten sades bina härstamma från solguden Ras tårar, och biet var en kunglig symbol för Nedre Egypten. I keltisk och brittisk folktradition finns seden att "berätta för bina" — man underrättade bikupan när någon i familjen dog, som om bina var budbärare mellan denna värld och nästa. Drömmens bi kan därför tolkas som något som korsar gränser, och som bär bud vidare.
 
-I grekisk tradition var bin heliga för Demeter, gudinnan för spannmål och fruktbarhet. Prästinnorna vid oraklet i Delfi kallades *Melissae* — "bin" — eftersom de bar på gudomliga budskap. Också Pythagoras lärde att själarna hos de rättfärdiga efter döden blev till bin.
-
-I mayakulturen var det stingless bee *Melipona* heligt — guden *Ah Muzen Cab* var bigudaktig och vakade över honungens heliga produktion. Drömmens bi i mesoamerikansk mening bär på direkt gudomlig närvaro.
-
-I keltisk och senare brittisk folktradition finns praktiken "telling the bees" — att berätta för bina när någon i familjen dör, gifter sig eller får barn. Bina räknades som familjens medlemmar, och om de inte fick veta det, skulle de lämna kupan. Drömmens bi i denna tradition är nära släkt med familjens och släktens öde.
-
-I islamisk tradition har biet sin egen sura i Koranen — *Surat al-Nahl* — där biets visdom och produktion av honung som "läkare för människor" omtalas specifikt. Drömmens bi kan i denna tradition vara en påminnelse om Guds gåvor och om att arbeta tålmodigt med dem.
-
-Den moderna biologen och drömforskaren Anthony Stevens har påpekat att insekter generellt — och bin specifikt — har en ovanligt stark plats i drömmar över kulturer, kanske för att de är några av människans äldsta samarbetspartner i naturen. Drömmens bi kan alltså bära på en arketypisk relation mellan människan och det som "arbetar tillsammans" för att skapa något värdefullt.
+Om biet stack dig i drömmen kan det tolkas mer vardagligt: en liten men skarp oro, ett sårande ord, eller en bekymring för något som i sig inte är stort, men som ändå gör ont där det träffar.

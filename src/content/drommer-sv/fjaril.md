@@ -54,11 +54,13 @@ Kan symbolisera sorg eller övergång — men i många kulturer är den svarta f
 En förvandling som är svår eller en process som möter motstånd. Var tålmodig med dig själv. Se även [drömjournalen](/sv/guider/dromjournal/) för att följa förvandlingen över tid.
 
 
-## Psykologiska och kulturella perspektiv
+## Förvandling, själ och lätthet
 
-I japansk tradition symboliserar två fjärilar lycka i kärlek. I mexikansk folktro är fjärilarna själar som återvänder från de döda under Día de los Muertos. I kinesisk tradition är fjärilen en symbol för odödlighet och kärlek.
+Det mest grundläggande perspektivet handlar om själva förvandlingen. Metamorfosen från larv till puppa till fjäril är en av naturens mest konkreta bilder för djup personlig förändring — att lämna en gammal form bakom sig och träda fram som något nytt. På grekiska betyder ordet "psyche" både "själ" och "fjäril", och denna dubbelhet har följt symbolen i årtusenden: fjärilen som själens egen gestalt.
 
-Jung skulle ha sett fjärilen som en symbol för individuationsprocessen — den livslånga resan mot att bli den man egentligen är, i all sin skönhet.
+Ett annat perspektiv handlar om lätthet, glädje och frihet. Fjärilen är skönhet i sin mest flyktiga form — en varelse som lever kort men intensivt, och som påminner oss om att vara närvarande i nuet. Drömmen kan bära ett hoppfullt, milt budskap: att något lätt och vackert är på väg in i ditt liv.
+
+I många kulturer är fjärilen också kopplad till de dödas själar — i Mexiko förknippas monarkfjärilarna med Día de los Muertos, där de sägs bära med sig förfädernas själar tillbaka. Den kinesiske filosofen Zhuangzi berättade den berömda drömmen om att vara en fjäril: vaknade han som en människa som hade drömt att han var en fjäril, eller var han en fjäril som nu drömde att han var en människa? Frågan pekar på något fjärilsdrömmar ofta rör vid — gränsen mellan dröm och verklighet, och hur skört och kortvarigt ett vackert tillstånd kan vara.
 
 
 ## Drommeguiden rekommenderar

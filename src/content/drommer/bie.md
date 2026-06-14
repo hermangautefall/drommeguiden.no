@@ -70,20 +70,12 @@ Noe verdifullt har sluttet å produsere — et tap, et nederlag, en utbrenthet.
 **Hvis du var redd for biene:**
 En generell frykt for fellesskap eller for å bli "stukket" av kollektivet.
 
-## Psykologiske og kulturelle perspektiver
+## Flid, fellesskap og det søte
 
-Bien har en av drømmesymbolikkens lengste og mest fargerike kulturelle historier — knapt noen annen liten skapning har vært tillagt så mye mening på så mange steder.
+Et av de mest nærliggende perspektivene handler om flid og fellesskap. "Flittig som en bie" er ikke tilfeldig — bien er selve bildet på utrettelig arbeidsinnsats, men også på et fellesskap der hver enkelt har sin rolle. Drømmens bikube kan minne deg om din egen plass i en gruppe, en familie eller en arbeidsplass: hva bidrar du med, og hvordan spiller du sammen med de andre?
 
-I norrøn tradisjon er bien knyttet til *skaldemjøden* — mjøden som ble skapt av Kvasirs blod og honning, og som ga den som drakk den skaldisk visdom og dikterkunst. Biens honning er i norrøn forstand selve kunstens råmateriale.
+Et annet perspektiv ligger i sødmen. Bien lager honning — frukten av arbeid, en belønning som kommer etter innsats. Å drømme om bie kan derfor handle om overflod som er på vei, eller om at noe godt endelig modnes etter en periode med tålmodighet.
 
-I egyptisk mytologi ble bier sagt å være tårer av sol-guden Ra som falt til jorden. I gammelt Egypt var honning både medisin, ofring og et kongelig symbol — faraoen ble omtalt som "han fra Sedge og Bee". Drømmens bie i en egyptisk lesning er nær knyttet til det guddommelige og det kongelige.
+Bien har dessuten en lang historie som et hellig dyr på tvers av kulturer. I gammelt Egypt ble biene sagt å stamme fra solguden Ras tårer, og bien var et kongelig symbol for Nedre Egypt. I keltisk og britisk folketradisjon finner man skikken "å fortelle biene" — man underrettet bikuben når noen i familien døde, som om biene var budbringere mellom denne verden og den neste. Drømmens bie kan derfor tolkes som noe som krysser grenser, og som bærer bud videre.
 
-I gresk tradisjon var bier hellig for Demeter, gudinnen for korn og fruktbarhet. Prestinnene ved orakelet i Delfi ble kalt *Melissae* — "bier" — fordi de bar på guddommelig budskap. Også Pythagoras lærte at sjelene til de rettferdige etter døden ble til bier.
-
-I mayansk kultur var den stingless bee *Melipona* hellig — guddommen *Ah Muzen Cab* var biegudaktig og passet på honningens hellige produksjon. Drømmens bie i mesoamerikansk forstand bærer på direkte guddommelig nærvær.
-
-I keltisk og senere britisk folketradisjon finnes praksisen "telling the bees" — å fortelle biene når noen i familien dør, gifter seg eller får barn. Biene ble regnet som familiens medlemmer, og om de ikke fikk vite det, ville de forlate kuben. Drømmens bie i denne tradisjonen er nært beslektet med familiens og slektens skjebne.
-
-I islamsk tradisjon har bien sin egen sure i Koranen — *Surat al-Nahl* — der biens visdom og produksjon av honning som "lege for mennesker" omtales spesifikt. Drømmens bie kan i denne tradisjonen være en påminnelse om Guds gaver og om å arbeide tålmodig med dem.
-
-Den moderne biologen og drømmeforskeren Anthony Stevens har påpekt at insekter generelt — og bier spesielt — har en uvanlig sterk plass i drømmer på tvers av kulturer, kanskje fordi de er noen av menneskets eldste samarbeidspartnere i naturen. Drømmens bie kan altså bære på en arketypisk relasjon mellom mennesket og det som "arbeider sammen" for å skape noe verdifullt.
+Stikker bien deg i drømmen, kan det tolkes mer beskjedent: en liten, men skarp bekymring, et sårende ord, eller en uro for noe som i seg selv ikke er stort, men som likevel gjør vondt der det treffer.

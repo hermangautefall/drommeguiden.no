@@ -91,4 +91,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] frosk (groda) — metamorfose + Heqet/fruktbarhet + froskeprinsen + amfibie/følelser
 - [x] krokodille (krokodil) — skjult fare + krokodilletårer + Sobek + eldgammel kraft
 
-## Status: 55/214 NB ferdig (+ 55 SV).
+## Batch 12 — insekter/små skapninger
+- [x] bie (bi) — flid/fellesskap + honning/belønning + Egypt/sjelen + stikk/uro
+- [x] maur (myra) — flid/kollektiv + tålmodighet (Æsop) + irritasjon + samfunn
+- [x] veps (geting) — sinne/skarpe følelser + trussel/forsvar + vepsebol + kontrast til bie
+- [x] sommerfugl (fjaril) — metamorfose/psyche + letthet + Día de los Muertos/Zhuangzi
+- [x] mus (mus) — små bekymringer + beskjedenhet + Æsop/Ganeshas mus + stille styrke
+
+## Status: 60/214 NB ferdig (+ 60 SV).

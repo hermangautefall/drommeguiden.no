@@ -53,11 +53,13 @@ En frykt som er uforholdsmessig stor i forhold til den faktiske trusselen. Se og
 **Hvis du fanget musen:**
 Du tar tak i noe lite men plagsomt og løser det.
 
-## Psykologiske og kulturelle perspektiver
+## De små bekymringene — og den stille styrken
 
-I eventyrtradisjonen er musen gjerne den lille som hjelper — den som kan der de store mislykkes, fordi størrelse ikke alltid er en fordel. Askepotts mus som ble hester er kanskje det sterkeste bildet: det lille og ubetydelige kan bli noe stort når det rette øyeblikket kommer.
+Et nærliggende perspektiv handler om de små, gnagende bekymringene. Musen kan representere sjenanse, en følelse av å være liten eller ubetydelig, eller mindre problemer som piler i utkanten av bevisstheten. Noe som "gnager" på deg — ikke stort nok til å ta tak i for fullt, men nok til at det stjeler litt oppmerksomhet hver dag.
 
-Jung ville sett musen som et symbol på det personlige ubevisste i sin mest hverdagslige form — de små, hverdagslige kompleksene og bekymringene som gnager i bakgrunnen av bevisstheten. Drømmer om [huset](/drommer/hus/) ditt, der musen gjerne opptrer, handler om selvet og ditt indre rom.
+Et annet perspektiv ligger i beskjedenheten. Musen lever i marginene, ofte ubemerket, og kan derfor speile en oppmerksomhet på detaljer som lett overses — eller en følelse av selv å være oversett, stille og lite synlig i en situasjon der andre tar mer plass.
+
+Samtidig er musen et oppfinnsomt og motstandsdyktig dyr som finner veier til å overleve nesten hvor som helst. I fabeltradisjonen er det ofte den lille musen som redder den mektige løven — et bilde på at det som er smått kan utgjøre en avgjørende forskjell. Også i hinduistisk tradisjon rir guden Ganesha på en mus, som et symbol på det som overvinner hindringer ved å komme inn på de minste og mest utilgjengelige stedene. Drømmens mus kan altså, til tross for sin størrelse, peke på en stille, men virkningsfull styrke. Se også [rotte](/drommer/rotte/) for et nærliggende, men noe mer ladet symbol.
 
 ## Drømmeguiden anbefaler
 

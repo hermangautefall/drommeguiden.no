@@ -53,11 +53,13 @@ Kan symbolisere sorg eller overgang — men i mange kulturer er den svarte somme
 En forvandling som er vanskelig eller en prosess som møter motstand. Vær tålmodig med deg selv. Se også [drømmejournalen](/guider/drommejournalen/) for å spore forvandlingen over tid.
 
 
-## Psykologiske og kulturelle perspektiver
+## Forvandling, sjel og letthet
 
-I japansk tradisjon symboliserer to sommerfugler lykke i kjærlighet. I meksikansk folklore er sommerfuglene sjeler som vender tilbake fra de døde under Día de los Muertos. I kinesisk tradisjon er sommerfuglen et symbol på udødelighet og kjærlighet.
+Det mest grunnleggende perspektivet handler om selve forvandlingen. Metamorfosen fra larve til puppe til sommerfugl er et av naturens mest konkrete bilder på dyp personlig endring — å legge en gammel form bak seg og tre frem som noe nytt. På gresk betyr ordet "psyche" både "sjel" og "sommerfugl", og denne dobbeltheten har fulgt symbolet i årtusener: sommerfuglen som sjelens egen skikkelse.
 
-Jung ville sett sommerfuglen som et symbol på individuasjonsprosessen — den livslange reisen mot å bli den man egentlig er, i all sin skjønnhet.
+Et annet perspektiv handler om letthet, glede og frihet. Sommerfuglen er skjønnhet i sin mest flyktige form — et vesen som lever kort, men intenst, og som minner oss om å være til stede i nuet. Drømmen kan bære et håpefullt, mildt budskap: at noe lett og vakkert er på vei inn i livet ditt.
+
+I mange kulturer er sommerfuglen også knyttet til de dødes sjeler — i Mexico forbindes monarksommerfuglene med Día de los Muertos, der de sies å bære med seg sjelene til forfedrene tilbake. Den kinesiske filosofen Zhuangzi fortalte den berømte drømmen om å være en sommerfugl: våknet han som et menneske som hadde drømt at han var en sommerfugl, eller var han en sommerfugl som nå drømte at han var et menneske? Spørsmålet peker på noe sommerfugledrømmer ofte rører ved — grensen mellom drøm og virkelighet, og hvor skjør og kortvarig en vakker tilstand kan være.
 
 
 ## Drømmeguiden anbefaler

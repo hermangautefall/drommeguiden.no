@@ -53,11 +53,13 @@ Noe uønsket trenger seg inn i din personlige sfære. Grenser utfordres.
 Du observerer noe industriøst og organisert. En påminnelse om styrken i system og struktur.
 
 
-## Psykologiske og kulturelle perspektiver
+## Flid, samarbeid og de små stegene
 
-I mange kulturer er mauren et symbol på dyd — flid, orden og selvdisiplin. I Salomos ordspråk heter det: "Gå til mauren, du late, se dens veier og bli vis." Drømmen kan bære med seg denne oppfordrende energien.
+Mauren er på mange måter selve sinnbildet på flid og samarbeid. I Salomos ordspråk heter det: "Gå til mauren, du late, se dens veier og bli vis" — en oppfordring til å planlegge for fremtiden mens tiden er gunstig, slik mauren samler forråd før vinteren. Drømmens maur kan bære med seg nettopp denne energien: en påminnelse om at små, jevne steg mot et mål til slutt summerer seg til noe stort.
 
-Jung ville trolig sett massen av maur som et bilde på det kollektive ubevisste — de mange kreftene som arbeider under overflaten av bevisstheten, ofte uten at vi merker det før de plutselig er overalt.
+Samtidig peker maurtuen på et spenningsforhold mellom individet og kollektivet. Hver maur er nesten ingenting alene, men sammen bygger de noe som overgår dem alle. Drømmen kan derfor handle om din rolle i et lag eller en gruppe — er du en del av noe meningsfullt, eller kjenner du deg redusert til "bare en brikke" i et større maskineri?
+
+Når mauren dukker opp i mengder — kryper, myldrer, invaderer — kan det også speile en mer hverdagslig følelse: mange små, gnagende ting som har hopet seg opp og nå krever oppmerksomhet samtidig. [Bien](/drommer/bie/) deler noe av maurens flid, men der bien ofte er knyttet til søtere belønninger, handler mauren mer om selve prosessen — arbeidet, samarbeidet og det lange løpet.
 
 
 ## Drømmeguiden anbefaler

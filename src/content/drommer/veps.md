@@ -51,11 +51,13 @@ Du setter stopp for noe irriterende eller aggressivt. En løsning er funnet.
 **Hvis vepsene var i et bol:**
 Noe organisert og potensielt kraftfullt venter på å bli forstyrret. Vær forsiktig.
 
-## Psykologiske og kulturelle perspektiver
+## Sinne, stikk og det som irriterer
 
-Vepsen er i mange kulturer et symbol på vrede og straf — det greske uttrykket "å sette veps i buksene på noen" handler om å trigge en aggressiv reaksjon. I norsk folkemedisin ble vepsstikk tidvis brukt som kur for leddgikt — det smertefulle hadde sin funksjon.
+Et nærliggende perspektiv handler om sinne og skarpe følelser. Vepsen kan representere irritabilitet eller fiendtlighet — din egen, eller noe du møter fra andre. Et "stikkende" ord, en spiss kommentar, eller en situasjon der noen oppfører seg aggressivt uten den produktive sødmen vi forbinder med [bien](/drommer/bie/). Drømmens veps kan altså peke på en aggresjon som trenger et utløp.
 
-Jung ville sett vepsdrømmen som en manifestasjon av det aggressive komplekset — en undertrykt aggresjon som pusser rundt og stikker i det ubevisste til den får mer konstruktivt uttrykk. Se også [maur](/drommer/maur/) for en mildere versjon av insektsymbolikken.
+Et annet perspektiv handler om trussel og forsvar. Å bli jaget eller stukket kan speile en følelse av å være provosert eller satt under press — en person som er pirkete, hevngjerrig, eller bare vanskelig å ha med å gjøre. Et vepsebol som drømmens bilde kan representere en spent situasjon som best lar seg ligge i fred, fremfor å bli rotet i.
+
+Til sist kan vepsen rett og slett stå for mindre bekymringer som ikke gir slipp — en vedvarende, summende uro i bakhodet. Spør deg gjerne hvilken energi vepsen i drømmen egentlig bærer: er det aggresjon som vil ut, eller en advarsel om noe som bør håndteres med varsomhet?
 
 ## Drømmeguiden anbefaler
 

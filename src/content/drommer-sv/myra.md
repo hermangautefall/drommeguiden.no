@@ -54,11 +54,13 @@ Något oönskat tränger sig in i din personliga sfär. Gränser utmanas.
 Du iakttar något flitigt och organiserat. En påminnelse om styrkan i system och struktur.
 
 
-## Psykologiska och kulturella perspektiv
+## Flit, samarbete och de små stegen
 
-I många kulturer är myran en symbol för dygd — flit, ordning och självdisciplin. I Salomos ordspråk heter det: "Gå till myran, du late, se hennes vägar och bli vis." Drömmen kan bära med sig denna uppmanande energi.
+Myran är på många sätt själva sinnebilden för flit och samarbete. I Salomos ordspråk heter det: "Gå till myran, du late, se hennes vägar och bli vis" — en uppmaning att planera för framtiden medan tiden är god, precis som myran samlar förråd inför vintern. Drömmens myra kan bära med sig just denna energi: en påminnelse om att små, jämna steg mot ett mål till slut summeras till något stort.
 
-Jung skulle troligen se myrornas massa som en bild av det kollektiva omedvetna — de många krafter som arbetar under medvetandets yta, ofta utan att vi märker dem förrän de plötsligt är överallt.
+Samtidigt pekar myrstacken på ett spänningsförhållande mellan individen och kollektivet. Varje myra är nästan ingenting på egen hand, men tillsammans bygger de något som övergår dem alla. Drömmen kan därför handla om din roll i ett lag eller en grupp — är du en del av något meningsfullt, eller känner du dig reducerad till "bara en kugge" i ett större maskineri?
+
+När myran dyker upp i mängder — kryper, myllrar, invaderar — kan det också spegla en mer vardaglig känsla: många små, gnagande saker som har hopat sig och nu kräver uppmärksamhet samtidigt. [Biet](/sv/drommar/bi/) delar något av myrans flit, men där biet ofta är kopplat till sötare belöningar, handlar myran mer om själva processen — arbetet, samarbetet och det långa loppet.
 
 
 ## Drömguiden rekommenderar
