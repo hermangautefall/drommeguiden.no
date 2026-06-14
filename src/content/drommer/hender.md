@@ -71,13 +71,13 @@ Kan forsterke følelsen av sårbarhet eller ærlighet — du viser deg slik du e
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Handlekraft, forbindelse og det vi gjør
 
-I jungiansk psykologi representerer hender den bevisste viljen — evnen til å gripe inn i verden og forme sitt eget liv. Jung la stor vekt på symboler som knytter seg til kroppen, og hender er blant de mest ladede. Drømmer om hender kan i dette perspektivet handle om forholdet mellom bevisst vilje og ubevisste krefter — og om du opplever at du har agens i ditt eget liv.
+Hendene er det vi handler med — de gjør, skaper, former og griper tak. Å drømme om hender kan derfor handle om handlekraft: opplever du at du har grepet om livet ditt, eller kjennes det som om du ikke får gjort noe med situasjonen din? Uttrykket "å ta saken i egne hender" sier mye om hva hender ofte representerer i drømmer — kompetanse, initiativ og muligheten til selv å påvirke det som skjer.
 
-Hender har en rik plass i nordisk tradisjon og folketro. I norrøn kultur var håndslaget en hellig handling — et løfte gitt med hånden var bindende og ble vitnet av gudene. Hender i drømmer kan dermed bære med seg konnotasjoner av ære, forpliktelse og løfter. I norsk folkemedisin ble hendene sett som kanaler for helbredende kraft, og kloke koner brukte hendene aktivt i sine ritualer.
+Hender er også det vi rekker ut til andre med. De gir og mottar, hjelper og holder. En drøm om hender kan derfor speile relasjonene dine — en hjelpende hånd, å holde noen i hånden, eller å slippe taket på noe eller noen. Slike bilder kan handle om nærhet, tillit, eller om en forbindelse som er i endring.
 
-Kulturelt sett er hendene også bærere av arbeid og identitet. I et land preget av fiske, jordbruk og håndverk har hendene alltid vært forbundet med hva man gjør og hvem man er. Drømmer om hender i en norsk kontekst kan dermed berøre disse dype lagene av praktisk identitet og verdighet knyttet til arbeid.
+Hvis hendene i drømmen var skitne eller skadet, kan det peke mot skyldfølelse — "blod på hendene" — eller mot at noe har krevd mye av deg. Bundne eller lammede hender kan på sin side speile en følelse av avmakt, av ikke å kunne gripe inn der du ønsker. Hender er også verktøy for uttrykk — håndverk, kreativitet, og de gestene vi kommuniserer med. I mange kulturer har hånden blitt "lest" som et slags kart over et menneskes liv og karakter, en påminnelse om hvor mye vi forbinder med disse to kroppsdelene.
 
 ---
 

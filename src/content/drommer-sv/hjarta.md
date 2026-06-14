@@ -65,13 +65,13 @@ En stark och dramatisk dröm — inte nödvändigtvis ett varsel om hälsa, utan
 **Om du höll hjärtat i handen:**
 Du hanterar något mycket personligt och sårbart — kanske din egen kärleksförmåga eller en annan persons kärlek till dig.
 
-## Psykologiska och kulturella perspektiv
+## Känslornas centrum och det vi verkligen känner
 
-I nästan alla kulturer genom historien har hjärtat varit sätet för själen, känslorna och modet — inte hjärnan. Egyptierna vägde hjärtat mot en fjäder efter döden för att avgöra själens värdighet. Aristoteles placerade själen i hjärtat. När vi säger "jag tror på det av hela mitt hjärta", aktiverar vi en uråldrig förståelse av hjärtat som sanningens centrum.
+Hjärtat är på många sätt känslolivets adress — vi säger att något "går rakt till hjärtat", att vi "följer hjärtat", eller att vi "har hjärtat på rätt ställe". Att drömma om hjärtat kan därför handla om [kärlek](/sv/drommar/karlek/), medkänsla och emotionell ärlighet: vad är det du egentligen känner, bakom allt det praktiska och förnuftiga som fyller dagarna?
 
-Carl Jung knöt hjärtat till Självet — den integrerade psykets kärna — och till den emotionella intelligensen som kompletterar den rationella. Att drömma om hjärtat är, i jungiansk mening, att drömma om det som verkligen betyder något — det som inte kan rationaliseras bort.
+Samtidigt är hjärtat ett organ, och kroppen talar också genom drömmarna. Hjärtdrömmar kan ibland spegla en underliggande oro för hälsan, eller stress och ångest som satt sig i kroppen — det bultande hjärtat vid ångest är en bekant kroppslig upplevelse. Oftast är drömmen symbolisk, men det kan ändå vara värt att lyssna på kroppen om oron dröjer kvar i vaket tillstånd.
 
-I nordisk tradition är hjärtat kärnan i modet — "hjärtstyrka" är inte bara ett uttryck, det är en kvalitet som värderas över intellektuell skicklighet. Att drömma om hjärtat träffar därmed något djupt i den nordiska karaktären.
+"Hjärta" är även ett ord för mod och kärna — att "ta mod till sig" handlar om att våga visa vad man känner, och "sakens kärna" pekar mot det som verkligen betyder något. Kulturellt har hjärtat länge setts som själens och känslornas säte — i det gamla Egypten bevarades hjärtat efter döden och vägdes mot Maats fjäder, medan hjärnan kastades bort som oviktig. Drömmar om hjärtat kan därmed peka mot dina kärnvärderingar: vad som betyder mest för dig, och om du lever i linje med det.
 
 ## Drömguiden rekommenderar
 

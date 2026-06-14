@@ -52,11 +52,13 @@ Vad du sade i drömmen är ett budskap — från undermedvetandet till dig själ
 **Om tänderna föll ut (vanlig variant):**
 Se symbolsidan för [tand](/sv/drommar/tand/) — detta är en av de vanligaste kroppsdrömmarna.
 
-## Psykologiska och kulturella perspektiv
+## Rösten, orden och det vi tar in
 
-Att drömma om [öron](/sv/drommar/ora/) handlar om den andra sidan av kommunikation — att lyssna och ta in. Munnen är i många traditioner knuten till skaparkraft — "I begynnelsen var Ordet" — och till livgivande andedräkt. Att drömma om en blockerad mun är att drömma om blockerad skaparkraft och hämmat uttryck.
+Munnen är platsen där ord blir till — och drömmar om munnen handlar ofta om din röst: vad du säger, vad du inte får sagt, och vad du ångrar att du sade. Att "bita sig i tungan" är en bild för självkontroll som kan gå åt båda hållen — ibland lönar det sig att hålla tillbaka, andra gånger känns det som att bli tystad. En mun som inte öppnar sig, eller som du inte kan få att tala, kan i drömmar peka mot en känsla av att inte bli hörd eller inte komma till tals.
 
-Jung var upptagen av att det omedvetna kommunicerar via drömmarna just för att medvetandet är för stelt, för kontrollerat, för rädd för att säga det som verkligen är sant. Drömmens mun är där det omedvetna försöker släppa igenom. Läs mer om [vad drömmar är](/sv/guider/vad-ar-drommar/) och varför undermedvetandet kommunicerar så.
+Det som faktiskt kommer ut ur munnen i drömmen är också värt att lägga märke till — var orden sanna, hårda, vänliga, eller falska? Drömmar speglar ofta hur vi förhåller oss till sanning och ärlighet i vår kommunikation, både med andra och med oss själva.
+
+Munnen är samtidigt en ingång — det är här vi tar in mat, men också idéer, intryck och påverkan utifrån. En dröm om munnen kan därför handla om aptit i bred mening: vad du har lust på, vad du låter dig påverkas av, eller vad du kanske borde vara mer kritisk till att "svälja". Mundrömmar överlappar ofta med tanddrömmar, och kan båda handla om oro för utseende, kommunikation eller kontroll.
 
 ## Drömguiden rekommenderar
 

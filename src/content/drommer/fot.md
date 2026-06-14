@@ -64,13 +64,13 @@ Et tap av grunnlag eller selvstendighet — noe som bærer deg er borte.
 **Hvis du vasket andres føtter:**
 En tjenesteimpuls, en ydmykhet eller en omsorg for noens grunnleggende behov.
 
-## Psykologiske og kulturelle perspektiver
+## Fotfeste, retning og veien videre
 
-Føtter er ett av de symbolrikeste kroppsdelene i verdens kulturer. Egyptisk kunst viste guddommers fotspor som hellig grunn. I hinduistisk tradisjon er å berøre en lærers føtter den høyeste form for respekt. I buddhismen er Buddhas fotspor (buddhapada) ett av de eldste hellige symbolene.
+Føttene er fundamentet du står på — det som gjør deg jordet og stabil. "Å stå på egne [bein](/drommer/bein/)" og "å finne fotfeste" er uttrykk som peker mot nettopp dette: en grunnleggende trygghet i tilværelsen. Drømmer om sterke, sikre føtter kan speile en følelse av å stå stødig i livet, mens ustøe eller smertefulle føtter kan peke mot noe som gjør grunnen mindre stabil enn du skulle ønske.
 
-Norrønt: sporene etter Odin — alltid vandring, alltid på vei — er ett av hans kjennetegn. Gungnir i hånden, Sleipner under seg, og alltid bevegelse. Føttene til den vandrende guden er retning og søken.
+Føttene bærer deg også fremover — de handler om retning og bevegelse. En drøm om å gå kan dreie seg om hvor du er på [vei](/drommer/vei/), om du beveger deg mot noe du ønsker, eller om du opplever fremgang i det hele tatt. Å være fastlåst, eller å ikke komme deg fremover uansett hvor mye du går, kan speile en periode der noe i livet kjennes stillestående.
 
-Psykoanalytisk sett er føttene knyttet til det vi i norsk sier: å stå støtt, å ha bakkekontakt, å ikke miste fotfestet. Disse uttrykkene er ikke tilfeldige — de speiler den primære forbindelsen mellom kropp, grunnlag og psykisk stabilitet.
+Samtidig handler føtter om frihet og uavhengighet — evnen til å gå din egen vei uten å være avhengig av andre. Skadede eller bundne føtter kan derfor speile en begrenset frihet, eller en følelse av å bli holdt tilbake. Føttene har også en plass som symbol på ydmykhet i mange tradisjoner — fotvask som tegn på omsorg og tjeneste finnes på tvers av kulturer — og den kjente påminnelsen om at selv den lengste reisen begynner med ett skritt, gjelder like mye i drømmenes verden som i våken tilstand.
 
 ## Drømmeguiden anbefaler
 

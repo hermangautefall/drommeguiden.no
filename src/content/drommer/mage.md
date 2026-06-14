@@ -51,11 +51,13 @@ Noe skjult som påvirker deg — en uro, en frykt, en sannhet du bærer på.
 **Hvis magen var sterk og god:**
 God helse, god intuisjon og evne til å bearbeide det livet gir deg. Se også [mat](/drommer/mat/) for drømmer om næring og fordøyelse.
 
-## Psykologiske og kulturelle perspektiver
+## Magefølelsen, intuisjonen og det vi fordøyer
 
-Forskning på tarmhjernen — det enteriske nervesystemet — viser at magen faktisk inneholder hundrevis av millioner nerveceller og kommuniserer konstant med hjernen. Magefølelsen er ikke metafor — det er biologi. Drømmene om magen treffer dermed noe genuint fysiologisk.
+Å drømme om magen kan handle om intuisjon — den vissheten du har før du har klart å sette ord på den. "Stol på magefølelsen" er ikke bare et munnhell: forskere kaller det enteriske nervesystemet i tarmen for "den andre hjernen", og det sender stadig signaler til hjernen om hvordan du egentlig har det. Drømmer om magen kan dermed være en påminnelse om å lytte til det du sanser, før fornuften har rukket å overprøve det.
 
-Jung var opptatt av kroppens rolle i drømmene og mente at somatiske drømmer — der kroppen er sentral — ofte kommuniserte noe bevisstheten ikke hadde tilgang til gjennom ordinær tanke.
+Magen er også der vi "fordøyer" det som skjer med oss. "Sommerfugler i magen" eller å "ikke tåle" noe er bilder på hvordan erfaringer og følelser bearbeides i kroppen. En drøm om magen kan derfor speile noe du fortsatt er i gang med å bearbeide — en opplevelse som trenger mer tid for å "sette seg".
+
+Magen kan også handle om næring og behov — sult, hva som faktisk gir deg energi, eller en sårbarhet du bærer på (den myke, ubeskyttede magen). Av og til er forklaringen enklere enn man tror: faktisk sult eller fordøyelse mens du sover kan også forme drømmebildene, og det er ingenting å bekymre seg over.
 
 ## Drømmeguiden anbefaler
 

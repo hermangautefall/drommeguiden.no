@@ -64,13 +64,13 @@ En sterk og dramatisk drøm — ikke nødvendigvis et varsel om helse, men et bi
 **Hvis du holdt hjertet i hånden:**
 Du håndterer noe svært personlig og sårbart — kanskje din egen kjærlighetsevne eller en annen persons kjærlighet til deg.
 
-## Psykologiske og kulturelle perspektiver
+## Følelsenes sentrum og det vi virkelig føler
 
-I nesten alle kulturer gjennom historien har hjertet vært setet for sjelen, følelsene og motet — ikke hjernen. Egypterne veide hjertet mot en fjær etter døden for å avgjøre sjelen verdighet. Aristoteles plasserte sjelen i hjertet. Når vi sier "jeg tror på det av hele mitt hjerte", aktiverer vi en urgammel forståelse av hjertet som sannhetens senter.
+Hjertet er på mange måter følelseslivets adresse — vi sier at noe "går rett til hjertet", at vi "følger hjertet", eller at vi "har hjertet i halsen". Å drømme om hjertet kan derfor handle om [kjærlighet](/drommer/kjaerlighet/), medfølelse og emosjonell ærlighet: hva er det du egentlig føler, bak alt det praktiske og fornuftige som fyller dagene?
 
-Carl Jung knyttet hjertet til Selvet — den integrerte psykens kjerne — og til den emosjonelle intelligensen som komplementerer den rasjonelle. Å drømme om hjertet er, i jungiansk forstand, å drømme om det som virkelig betyr noe — det som ikke kan rasjonaliseres bort.
+Samtidig er hjertet et organ, og kroppen snakker også gjennom drømmene. Hjertedrømmer kan av og til speile en underliggende uro for helsen, eller stress og angst som har satt seg i kroppen — det hamrende hjertet ved angst er en kjent kroppslig erfaring. Som regel er drømmen symbolsk, men det er likevel verdt å lytte til hvis uroen vedvarer i våken tilstand.
 
-I nordisk tradisjon er hjertet kjernen i motet — "hjertestyrke" er ikke bare et uttrykk, det er en kvalitet som verdsettes over intellektuell dyktighet. Å drømme om hjertet treffer dermed noe dypt i den norske karakteren.
+"Hjerte" er også et ord for mot og kjerne — å "ta mot til seg" handler om å våge å vise hva man føler, og "sakens kjerne" peker mot det som virkelig betyr noe. Kulturelt har hjertet i lange tider blitt sett som sjelens og følelsenes sete — i det gamle Egypt ble hjertet bevart etter døden og veid mot Ma'ats fjær, mens hjernen ble kastet bort som uvesentlig. Drømmer om hjertet kan dermed peke mot dine kjerneverdier: hva som betyr mest for deg, og om du lever i tråd med det.
 
 ## Drømmeguiden anbefaler
 

@@ -65,13 +65,13 @@ En förlust av grund eller självständighet — något som bär dig är borta.
 **Om du tvättade andras fötter:**
 En tjänsteimpuls, en ödmjukhet eller en omsorg för någons grundläggande behov.
 
-## Psykologiska och kulturella perspektiv
+## Fotfäste, riktning och vägen vidare
 
-Fötter är en av de mest symbolrika kroppsdelarna i världens kulturer. Egyptisk konst visade gudomars fotspår som helig mark. I hinduistisk tradition är att beröra en lärares fötter den högsta formen av respekt. I buddhismen är Buddhas fotspår (buddhapada) en av de äldsta heliga symbolerna.
+Fötterna är grunden du står på — det som gör dig jordad och stabil. "Att stå på egna [ben](/sv/drommar/ben/)" och "att hitta fotfäste" är uttryck som pekar mot just detta: en grundläggande trygghet i tillvaron. Drömmar om starka, säkra fötter kan spegla en känsla av att stå stadigt i livet, medan ostadiga eller smärtande fötter kan peka mot något som gör grunden mindre stabil än du skulle önska.
 
-Fornnordiskt: spåren efter Oden — alltid vandring, alltid på väg — är ett av hans kännetecken. Gungner i handen, Sleipner under sig, och alltid rörelse. Fötterna till den vandrande guden är riktning och sökande.
+Fötterna bär dig också framåt — de handlar om riktning och rörelse. En dröm om att gå kan handla om vart du är på [väg](/sv/drommar/vag/), om du rör dig mot något du önskar, eller om du över huvud taget upplever framsteg. Att vara fastlåst, eller att inte komma framåt oavsett hur mycket du går, kan spegla en period där något i livet känns stillastående.
 
-Psykoanalytiskt sett är fötterna knutna till det vi säger: att stå stadigt, att ha markkontakt, att inte tappa fotfästet. Dessa uttryck är inte slumpmässiga — de speglar den primära förbindelsen mellan kropp, grund och psykisk stabilitet.
+Samtidigt handlar fötter om frihet och självständighet — förmågan att gå din egen väg utan att vara beroende av andra. Skadade eller bundna fötter kan därför spegla en begränsad frihet, eller en känsla av att hållas tillbaka. Fötterna har också en plats som symbol för ödmjukhet i många traditioner — fottvätt som tecken på omsorg och tjänande finns i flera kulturer — och den kända påminnelsen om att även den längsta resan börjar med ett steg gäller lika mycket i drömmarnas värld som i vaket tillstånd.
 
 ## Drömguiden rekommenderar
 

@@ -52,11 +52,13 @@ Något dolt som påverkar dig — en oro, en rädsla, en sanning du bär på.
 **Om magen var stark och god:**
 God hälsa, god intuition och förmåga att bearbeta det livet ger dig. Se även [mat](/sv/drommar/mat/) för drömmar om näring och matsmältning.
 
-## Psykologiska och kulturella perspektiv
+## Magkänslan, intuitionen och det vi smälter
 
-Forskning på tarmhjärnan — det enteriska nervsystemet — visar att magen faktiskt innehåller hundratals miljoner nervceller och kommunicerar konstant med hjärnan. Magkänslan är inte metafor — det är biologi. Drömmarna om magen träffar därmed något genuint fysiologiskt.
+Att drömma om magen kan handla om intuition — den visshet du har innan du har hunnit sätta ord på den. "Lita på din magkänsla" är inte bara ett talesätt: forskare kallar det enteriska nervsystemet i tarmen "den andra hjärnan", och det skickar ständigt signaler till hjärnan om hur du egentligen mår. Drömmar om magen kan därför vara en påminnelse om att lyssna på det du känner, innan förnuftet hunnit ifrågasätta det.
 
-Jung var upptagen av kroppens roll i drömmarna och menade att somatiska drömmar — där kroppen är central — ofta kommunicerade något medvetandet inte hade tillgång till genom vanligt tänkande.
+Magen är också där vi "smälter" det som händer oss. "Fjärilar i magen" eller att "inte tåla" något är bilder för hur erfarenheter och känslor bearbetas i kroppen. En dröm om magen kan därför spegla något du fortfarande är i färd med att bearbeta — en upplevelse som behöver mer tid för att "sätta sig".
+
+Magen kan också handla om näring och behov — hunger, vad som faktiskt ger dig energi, eller en sårbarhet du bär på (den mjuka, oskyddade magen). Ibland är förklaringen enklare än man tror: faktisk hunger eller matsmältning medan du sover kan också forma drömbilderna, och det finns ingen anledning att oroa sig för det.
 
 ## Drömguiden rekommenderar
 

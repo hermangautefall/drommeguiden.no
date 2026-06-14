@@ -133,4 +133,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] gammel-venn (gammal-van) — nostalgi/tidligere selv + hva de representerer + uavsluttet + identitet
 - [x] kjaerlighet (karlek) — behov for forbindelse + selvkjærlighet + eros/filia/storge/agape + idealisering
 
-## Status: 85/214 NB ferdig (+ 85 SV).
+## Batch 18 — kroppsdeler
+- [x] hjerte (hjarta) — følelser/kjærlighet + helseuro + mot/kjernen + Egypt (hjertet veid)
+- [x] hender (hander) — handlekraft/agency + gi/motta + skitne/bundne + ferdighet/uttrykk
+- [x] mage (mage) — magefølelse/intuisjon (andre hjernen) + fordøye erfaring + næring + fysisk
+- [x] munn (mun) — stemme/kommunikasjon + ordenes kraft + inntak/appetitt + tann-kobling
+- [x] fot (fot) — fotfeste/stabilitet + retning/bevegelse + frihet + ydmykhet/Laozi
+
+## Status: 90/214 NB ferdig (+ 90 SV).

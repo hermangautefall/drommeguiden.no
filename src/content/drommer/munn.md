@@ -51,11 +51,13 @@ Hva du sa i drømmen er et budskap — fra underbevistheten til deg selv.
 **Hvis tennene falt ut (vanlig variant):**
 Se symbolsiden for [tann](/drommer/tann/) — dette er en av de vanligste kroppsdrømmene.
 
-## Psykologiske og kulturelle perspektiver
+## Stemmen, ordene og det vi tar inn
 
-Å drømme om [ører](/drommer/ore/) handler om den andre siden av kommunikasjon — det å lytte og ta inn. Munnen er i mange tradisjoner knyttet til skaperkraft — "I begynnelsen var Ordet" — og til livsgivende pust. Å drømme om en blokkert munn er å drømme om blokkert skaperkraft og hemmet uttrykk.
+Munnen er stedet ord blir til — og drømmer om munnen handler ofte om stemmen din: hva du sier, hva du ikke får sagt, og hva du angrer på at du sa. "Å bite seg i tunga" er et bilde på selvkontroll som kan slå begge veier — noen ganger lønner det seg å holde tilbake, andre ganger kjennes det som å bli brakt til taushet. En munn som ikke åpner seg, eller som du ikke får til å snakke med, kan i drømmer peke mot en følelse av ikke å bli hørt eller ikke å slippe til.
 
-Jung var opptatt av at det ubevisste kommuniserer via drømmene nettopp fordi bevisstheten er for stiv, for kontrollert, for redd for å si det som egentlig er sant. Drømmens munn er der det ubevisste prøver å slippe gjennom. Les mer om [hva drømmer er](/guider/hva-er-drommer/) og hvorfor underbevisstheten kommuniserer slik.
+Det som faktisk kommer ut av munnen i drømmen er også verdt å legge merke til — var ordene sanne, harde, vennlige, eller løgnaktige? Drømmer speiler ofte hvordan vi forholder oss til sannhet og ærlighet i kommunikasjonen vår, både med andre og med oss selv.
+
+Munnen er samtidig en inngang — det er her vi tar inn mat, men også ideer, inntrykk og påvirkning utenfra. En drøm om munnen kan derfor handle om appetitt i bred forstand: hva du har lyst på, hva du lar deg påvirke av, eller hva du kanskje burde være mer kritisk til å "svelge". Munn-drømmer overlapper ofte med tann-drømmer, og kan begge handle om uro for utseende, kommunikasjon eller kontroll.
 
 ## Drømmeguiden anbefaler
 

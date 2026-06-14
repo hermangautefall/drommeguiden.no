@@ -72,13 +72,13 @@ Kan förstärka känslan av sårbarhet eller ärlighet — du visar dig som du �
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Handlingskraft, förbindelse och det vi gör
 
-I jungiansk psykologi representerar händer den medvetna viljan — förmågan att ingripa i världen och forma sitt eget liv. Jung lade stor vikt vid symboler som knyter sig till kroppen, och händer är bland de mest laddade. Drömmar om händer kan i detta perspektiv handla om förhållandet mellan medveten vilja och omedvetna krafter — och om du upplever att du har agens i ditt eget liv.
+Händerna är det vi handlar med — de gör, skapar, formar och griper tag. Att drömma om händer kan därför handla om handlingskraft: upplever du att du har greppet om ditt liv, eller känns det som att du inte kan göra något åt situationen? Uttrycket "att ta saken i egna händer" säger mycket om vad händer ofta representerar i drömmar — kompetens, initiativ och möjligheten att själv påverka det som händer.
 
-Händer har en rik plats i nordisk tradition och folktro. I fornnordisk kultur var handslaget en helig handling — ett löfte givet med handen var bindande och bevittnades av gudarna. Händer i drömmar kan därmed bära med sig konnotationer av ära, förpliktelse och löften. I folkmedicin sågs händerna som kanaler för läkande kraft, och kloka gummor använde händerna aktivt i sina ritualer.
+Händer är också det vi räcker ut till andra med. De ger och tar emot, hjälper och håller. En dröm om händer kan därför spegla dina relationer — en hjälpande hand, att hålla någon i handen, eller att släppa taget om något eller någon. Sådana bilder kan handla om närhet, tillit, eller om en förbindelse som är på väg att förändras.
 
-Kulturellt sett är händerna också bärare av arbete och identitet. I ett land präglat av fiske, jordbruk och hantverk har händerna alltid varit förbundna med vad man gör och vem man är. Drömmar om händer i en nordisk kontext kan därmed beröra dessa djupa lager av praktisk identitet och värdighet knuten till arbete.
+Om händerna i drömmen var smutsiga eller skadade kan det peka mot skuldkänslor — "blod på händerna" — eller mot att något har krävt mycket av dig. Bundna eller förlamade händer kan å sin sida spegla en känsla av maktlöshet, av att inte kunna ingripa där du önskar. Händer är också verktyg för uttryck — hantverk, kreativitet och de gester vi kommunicerar med. I många kulturer har handen "lästs" som en sorts karta över en människas liv och karaktär, en påminnelse om hur mycket vi förknippar med just dessa två kroppsdelar.
 
 ---
 
