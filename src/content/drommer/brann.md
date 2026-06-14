@@ -75,13 +75,13 @@ En brann som sprer seg ukontrollert peker mot følelser eller situasjoner som ha
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Ild som ødelegger og forvandler
 
-Carl Jung så ild som et arketypisk symbol med dyp resonans i den menneskelige psyken. I jungiansk tradisjon representerer ild psykisk energi — libido i bred forstand, ikke bare seksuell energi, men all livsenergi og driv. Å drømme om ild kan derfor handle om ditt forhold til din egen livskraft.
+På tvers av kulturer er ild et av de mest tvetydige symbolene som finnes — på samme tid ødeleggelse OG fornyelse. Fugl Føniks som reiser seg fra asken er det mest kjente bildet på dette, men også i naturen kan en brann rydde grunnen for ny vekst i skogen. Når ild dukker opp i en drøm, kan den derfor bære på begge betydninger samtidig: noe brytes ned, samtidig som noe nytt blir mulig.
 
-I norrøn mytologi spiller ild en sentral rolle. Verdenen begynner med Muspelheim, ildverdenen, og ender med Ragnarok, der flammene fortærer alt for at en ny verden skal oppstå. Denne kosmiske syklusen av ødeleggelse og fornyelse gjenfinnes i mange nordmenns drømmer om brann — den dype, kulturelle forståelsen av at noe må brenne for at noe nytt kan vokse.
+Ild kan også tolkes som et bilde på intens følelse — lidenskap, begjær, sinne eller kreativ energi som "brenner" i deg. Noen ganger handler det om det motsatte: en følelse av å være "utbrent", av å ha blitt fortært av noe som krevde for mye. I gresk mytologi ble ilden stjålet fra gudene av Promethevs og gitt til menneskene — et bilde på kunnskap, fremskritt og det å våge seg over en grense.
 
-Fra et psykologisk perspektiv er branndrømmer ofte knyttet til sterke, undertrykte følelser. Forskning tyder på at mennesker som opplever mye frustrasjon eller sinne i hverdagen, oftere drømmer om ild. Drømmen fungerer da som en ventil — et sted der følelsene kan uttrykkes uten konsekvenser. Å utforske hva ilden representerer for deg personlig kan derfor være en verdifull øvelse i selvinnsikt.
+En ukontrollert brann i drømmen kan tolkes som frykt for å miste noe, eller en situasjon som har kommet "ut av kontroll". Samtidig har ilden en helt annen side i peisen eller bålet — der den representerer varme, hjem og samvær. Hvordan ilden oppleves i drømmen, sier ofte mye om hvilken av disse betydningene som er mest relevant for deg.
 
 ---
 

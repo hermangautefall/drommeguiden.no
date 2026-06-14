@@ -31,3 +31,10 @@ Regler:
 - [x] eksamen (tenta) — Freuds eksamensdrøm ("allerede bestått") + prestasjonsangst + kontinuitet
 - [x] hus (hus) — huset som selvet (rom=deler) + husets tilstand + Bachelard
 - [x] bil (bil) — kontroll/retning (hvem kjører) + moderne symbol + tilstand/fart
+
+## Batch 4 — høytrafikk-klassikere
+- [x] avdod-person (avliden-person) — continuing bonds + besøksdrømmer + psyken bearbeider tap
+- [x] eksen (ex) — bearbeiding ikke lengsel + hva eksen representerer + REM/Walker + tilknytning
+- [x] brann (brand) — forvandling/renselse (Føniks) + lidenskap/sinne + Prometheus + advarsel/hjem
+- [x] baby (baby) — nye begynnelser + sårbarhet/omsorg + indre barn + håp (allment)
+- [x] sex (sex) — forening/integrasjon + Freud (balansert) + intimitet/sårbarhet + REM-fysiologi

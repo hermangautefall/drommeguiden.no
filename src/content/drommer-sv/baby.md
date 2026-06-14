@@ -77,13 +77,13 @@ Att ge näring åt en baby i drömmen symboliserar ofta omsorg, generositet och 
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Det nya och det sårbara
 
-Carl Jung såg barnet som en arketypisk symbol för självet — den potentiella helheten i personligheten. I jungiansk tradition representerar barnarketypen något som är på väg att bli till, en process av integration och utveckling. Att drömma om en baby kan därför tolkas som att du är i kontakt med en djup, skapande kraft i dig själv.
+En baby i drömmen kan ofta förstås som en bild för något nytt som håller på att gro i ditt liv — ett projekt, en relation, en fas, eller en sida av dig själv som är på väg att växa fram. Precis som en baby behöver tid och näring för att utvecklas, kan drömmen peka mot något som fortfarande är i en tidig och skör fas.
 
-I svensk kultur har drömmar om babyer traditionellt knutits till lycka och ny början. I folktron kunde sådana drömmar varsla om kommande händelser — inte nödvändigtvis en födelse, men något nytt och viktigt som var på väg. Denna positiva grundhållning till babydrömmar lever vidare i dag.
+Samtidigt kan babyn representera sårbarhet — en liten, ny del av dig som behöver omvårdnad, skydd och uppmärksamhet. I modernt terapispråk talar man ofta om "det inre barnet": de delar av oss som är öppna, äkta och beroende av omsorg, och som vi ibland behöver lära känna igen.
 
-Från ett psykologiskt perspektiv är det värt att nämna att babydrömmar är vanliga hos människor i alla livsfaser, inte bara hos dem som önskar sig barn. De kan uppstå i perioder av kreativitet, i övergångsfaser, eller när man bearbetar egna barndomsupplevelser. Drömmen bjuder alltid in till reflektion: Vad är det nya som behöver din uppmärksamhet? Vad i dig själv förtjänar omsorg?
+Spädbarnet är över kulturer och tidsepoker en symbol för hopp, potential och en nystart. Drömmen bjuder ofta in till frågan: vad är det nya som behöver din uppmärksamhet just nu, och finns det något i dig själv som längtar efter mer omsorg?
 
 ---
 

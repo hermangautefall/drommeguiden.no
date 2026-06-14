@@ -76,13 +76,13 @@ Att släcka eld kan tolkas som att du tar kontroll över en svår situation. Det
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Eld som förstör och förvandlar
 
-Carl Jung såg elden som en arketypisk symbol med djup resonans i den mänskliga psyken. I jungiansk tradition representerar elden psykisk energi — libido i bred bemärkelse, inte bara sexuell energi, utan all livsenergi och drift. Att drömma om eld kan därför handla om din relation till din egen livskraft.
+Över hela världen är eld en av de mest tvetydiga symboler som finns — på samma gång förstörelse OCH förnyelse. Fenix som reser sig ur askan är den mest kända bilden av detta, men även i naturen kan en brand röja mark för ny tillväxt i skogen. När eld dyker upp i en dröm kan den därför bära på båda betydelserna samtidigt: något bryts ner, samtidigt som något nytt blir möjligt.
 
-I fornnordisk mytologi spelar elden en central roll. Världen börjar med Muspelheim, eldens värld, och slutar med Ragnarök, där lågorna förtär allt för att en ny värld ska uppstå. Denna kosmiska cykel av förstörelse och förnyelse återfinns i många människors drömmar om brand — den djupa, kulturella förståelsen av att något måste brinna för att något nytt ska växa.
+Eld kan också tolkas som en bild för intensiv känsla — lidelse, begär, ilska eller kreativ energi som "brinner" i dig. Ibland handlar det om motsatsen: en känsla av att vara "utbränd", av att ha blivit förtärd av något som krävde för mycket. I grekisk mytologi stals elden från gudarna av Prometheus och gavs till människorna — en bild för kunskap, framsteg och att våga ta sig över en gräns.
 
-Ur ett psykologiskt perspektiv är branddrömmar ofta knutna till starka, undertryckta känslor. Forskning tyder på att människor som upplever mycket frustration eller ilska i vardagen, oftare drömmer om eld. Drömmen fungerar då som en ventil — en plats där känslorna kan uttryckas utan konsekvenser. Att utforska vad elden representerar för dig personligen kan därför vara en värdefull övning i självinsikt.
+En okontrollerad brand i drömmen kan tolkas som rädsla för att förlora något, eller en situation som har kommit "ur kontroll". Samtidigt har elden en helt annan sida i brasan eller härden — där den representerar värme, hem och samvaro. Hur elden upplevs i drömmen säger ofta mycket om vilken av dessa betydelser som är mest relevant för dig.
 
 ---
 

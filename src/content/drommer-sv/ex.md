@@ -73,13 +73,13 @@ Till exempel på ditt jobb eller i [barndomshemmet](/sv/drommar/hus/) — tyder 
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## När en gammal relation dyker upp igen
 
-I jungiansk psykologi är exet i drömmar ett exempel på anima- eller animusfiguren — den inre representationen av det feminina eller maskulina i oss. När exet dyker upp i drömmar kan det enligt Jung handla om integrering av dessa inre aspekter — en process där du gör dig mer hel genom att acceptera delar av dig själv du har projicerat över på partnern.
+Enligt kontinuitetshypotesen inom drömforskning speglar drömmar ofta det vi tänker på och bearbetar i vardagen — och ett ex som dyker upp betyder nästan aldrig att du faktiskt vill ha personen tillbaka. Oftare är det ett tecken på att sinnet fortfarande arbetar med obearbetade känslor, en lärdom från förhållandet, eller ett mönster som har en tendens att upprepa sig i ditt liv.
 
-Modern relationsforskning stödjer tanken om att drömmar om ex är en del av den emotionella bearbetningen efter ett uppbrott. Studier har visat att det att drömma om en tidigare partner är mycket vanligt under månaderna efter ett uppbrott, och att frekvensen gradvis avtar i takt med att man bearbetar förlusten. Drömmarna är alltså inte ett tecken på att något är fel — de är tvärtom ett tecken på att något är på väg att helas.
+Det kan också vara värt att fråga sig vad exet egentligen *representerar* för dig. Kanske står personen för en egenskap du beundrade, en version av dig själv från den tiden, en frihet eller lidelse du förknippar med tiden ni var tillsammans — eller ett sår som aldrig riktigt fick läka. Drömmen handlar då om detta, inte om personen i sig.
 
-I svensk kultur, där vi kanske inte alltid talar lika öppet om känslor kopplade till uppbrott, kan drömmarna bli ett extra viktigt rum för bearbetning. Det finns en stark kulturell förväntning om att "gå vidare", och drömmar om ex kan kännas som ett svek mot det idealet. Men drömmarna bryr sig inte om ideal — de bryr sig om det som är sant. Att drömma om ett [bröllop](/sv/drommar/brollop/) med exet betyder inte att du vill gifta dig igen — det kan lika gärna handla om förpliktelse, löften och vad de betyder för dig.
+Hjärnforskaren Matthew Walker har beskrivit REM-sömn som en form av "nattlig terapi": hjärnan besöker emotionellt laddade minnen på nytt för att dämpa intensiteten i dem över tid. Gamla relationer är ofta just sådana laddade minnen, och kan därför dyka upp igen — särskilt i perioder av stress, eller när du går in i en ny relation som väcker gamla anknytningsmönster.
 
 ---
 

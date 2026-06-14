@@ -67,13 +67,13 @@ Ikke et tegn på undertrykte ønsker — snarere et tegn på at den personen rep
 **Hvis du følte skyld eller ubehag i drømmen:**
 En indre konflikt om noe du ønsker men ikke tillater deg selv. Noe som er forbudt — ikke nødvendigvis seksuelt.
 
-## Psykologiske og kulturelle perspektiver
+## Mer enn begjær — forening og nærhet
 
-Sigmund Freud mente at seksuelle drømmer var direkte uttrykk for undertrykte ønsker og at de avslørte det ubevisste begjæret. Carl Jung tok et videre perspektiv: sex i drømmene handler om forening av motsetninger — det maskuline og feminine, det bevisste og ubevisste, selvet og den andre.
+Seksuelle drømmer handler sjelden bokstavelig om hvem du har lyst på. Oftere symboliserer de et ønske om forbindelse — eller en form for integrasjon, der partneren i drømmen representerer en egenskap eller en side av deg selv som du ønsker å ta mer inn i livet ditt. Slik forstått er sex i drømmer mer et bilde på forening enn på fysisk lyst.
 
-Moderne drømmeforskning støtter Jungs mer nyanserte syn. Seksuelle drømmer er svært vanlige (de fleste voksne har dem regelmessig), og de er ikke tegn på problemer, undertrykte ønsker eller umoralske impulser — de er en normal del av hjernens nattlige bearbeiding av sosiale og emosjonelle relasjoner. Drømmer om å være [naken](/drommer/naken/) henger ofte tematisk sammen med seksuelle drømmer.
+Sigmund Freud så slike drømmer som et direkte uttrykk for undertrykte ønsker. Moderne psykologi har imidlertid et bredere syn: seksuelle drømmer ser ut til å handle om langt mer enn bokstavelig ønskeoppfyllelse — de kan også speile behov for intimitet, nærhet, aksept eller selvtillit. Hvis drømmepartneren er noen du ikke er tiltrukket av i virkeligheten, handler drømmen som regel om en egenskap personen legemliggjør, ikke om personen selv.
 
-I norsk og vestlig kultur er det en tendens til å overfortolke eller skamlegge seksuelle drømmer. Men de fortjener den samme nøkterne, nysgjerrige tilnærmingen som alle andre drømmer.
+Det er også verdt å vite at fysiologisk opphisselse under REM-søvn er svært vanlig og skjer uavhengig av drømmens innhold — det sier i seg selv lite om faktisk begjær. Seksuelle drømmer er en normal og utbredt del av søvnen, og de fortjener den samme nøkterne og nysgjerrige tilnærmingen som alle andre drømmer.
 
 ## Drømmeguiden anbefaler
 

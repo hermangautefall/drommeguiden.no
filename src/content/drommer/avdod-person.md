@@ -63,13 +63,13 @@ En vanlig variant — hjernen hentar frem minner fra da de levde, uten å aktive
 **Hvis de ga deg et budskap eller råd:**
 Legg merke til det. Det er noe du selv vet og trenger å høre — formidlet gjennom et kjært ansikt.
 
-## Psykologiske og kulturelle perspektiver
+## Drømmer som bærer de døde videre
 
-Forskning på sorgdrømmer viser at de er svært vanlige og at de for de fleste oppleves som positive — ikke skremmende. En studie publisert i fagfeltet palliativ omsorg fant at et flertall av sørgende beskrev drømmer om avdøde som trøstende og meningsfulle.
+Innen moderne sorgforskning har man et begrep som kalles "continuing bonds" — tanken om at sunn sorg ikke handler om å "slippe taket", men om å finne en ny form for bånd til den som er borte. Drømmer er ett av de stedene dette båndet fortsetter å leve. Studier fra blant annet palliativ omsorg viser at sorgdrømmer er svært vanlige, og at de aller fleste som opplever dem beskriver dem som meningsfulle og trøstende snarere enn skremmende.
 
-Carl Jung så slike drømmer som underbevissthetens måte å integrere store tap på — å gi dem en form og en plass i psyken. Den avdøde lever videre som en indre figur, en del av hvem vi er blitt gjennom relasjonen med dem.
+En egen kategori kalles ofte "besøksdrømmer" — uvanlig levende og fredfulle drømmer der den avdøde virker frisk, rolig og fullt til stede, og du våkner med en følelse av at noe ekte har skjedd. Dette fenomenet er beskrevet på tvers av nesten alle kulturer og tidsepoker, og det er en av de mest universelle drømmeopplevelsene mennesker har.
 
-I norsk og nordisk tradisjon har det lenge vært en sterk forestilling om at de avdøde kan besøke oss i drømmene, særlig rundt høytider og i [kirken](/drommer/kirke/). Denne troen er ikke unik for Norden — den finnes i nesten alle kulturer og til alle tider.
+Mer enn noe annet kan disse drømmene forstås som psykens måte å gi rom for det som ikke ble sagt. Den avdøde fortsetter å eksistere som en indre skikkelse — en stemme, et blikk, en tilstedeværelse — som du bærer videre i deg, og drømmen blir et sted der dette båndet kan vise seg igjen.
 
 ## Drømmeguiden anbefaler
 

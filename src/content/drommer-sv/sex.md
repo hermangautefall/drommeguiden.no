@@ -68,13 +68,13 @@ Inte ett tecken på undertryckta önskningar — snarare ett tecken på att pers
 **Om du kände skuld eller obehag i drömmen:**
 En inre konflikt om något du vill men inte tillåter dig själv. Något som är förbjudet — inte nödvändigtvis sexuellt.
 
-## Psykologiska och kulturella perspektiv
+## Mer än begär — förening och närhet
 
-Sigmund Freud menade att sexuella drömmar var direkta uttryck för undertryckta önskningar och att de avslöjade det omedvetna begäret. Carl Jung tog ett vidare perspektiv: sex i drömmarna handlar om förening av motsatser — det maskulina och feminina, det medvetna och omedvetna, självet och den andre.
+Sexuella drömmar handlar sällan bokstavligt om vem du är attraherad av. Oftare symboliserar de en önskan om förbindelse — eller en form av integration, där partnern i drömmen representerar en egenskap eller en sida av dig själv som du vill ta mer in i ditt liv. Sett så är sex i drömmar mer en bild för förening än för fysisk lust.
 
-Modern drömforskning stöder Jungs mer nyanserade syn. Sexuella drömmar är mycket vanliga (de flesta vuxna har dem regelbundet), och de är inte tecken på problem, undertryckta önskningar eller omoraliska impulser — de är en normal del av hjärnans nattliga bearbetning av sociala och emotionella relationer. Drömmar om att vara [naken](/sv/drommar/naken/) hänger ofta tematiskt samman med sexuella drömmar.
+Sigmund Freud såg sådana drömmar som ett direkt uttryck för undertryckta önskningar. Modern psykologi har dock en bredare syn: sexuella drömmar verkar handla om mycket mer än bokstavlig önskeuppfyllelse — de kan också spegla behov av intimitet, närhet, acceptans eller självkänsla. Om drömpartnern är någon du inte är attraherad av i verkligheten, handlar drömmen oftast om en egenskap personen förkroppsligar, inte om personen själv.
 
-I nordisk och västerländsk kultur finns en tendens att övertolka eller skambelägga sexuella drömmar. Men de förtjänar samma nyktra, nyfikna tillnärmning som alla andra drömmar.
+Det är också värt att veta att fysiologisk upphetsning under REM-sömn är mycket vanlig och sker oberoende av drömmens innehåll — det säger i sig självt lite om faktiskt begär. Sexuella drömmar är en normal och vanlig del av sömnen, och de förtjänar samma nyktra och nyfikna tillnärmning som alla andra drömmar.
 
 ## Drömguiden rekommenderar
 

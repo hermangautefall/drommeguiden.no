@@ -64,13 +64,13 @@ En vanlig variant — hjärnan plockar fram minnen från när de levde, utan att
 **Om de gav dig ett budskap eller råd:**
 Lägg märke till det. Det är något du själv vet och behöver höra — förmedlat genom ett kärt ansikte.
 
-## Psykologiska och kulturella perspektiv
+## Drömmar som bär de döda vidare
 
-Forskning på sorgdrömmar visar att de är mycket vanliga och att de för de flesta upplevs som positiva — inte skrämmande. En studie publicerad inom palliativ vård fann att en majoritet av sörjande beskrev drömmar om avlidna som tröstande och meningsfulla.
+Inom modern sorgforskning talar man ibland om "continuing bonds" — tanken att sund sorg inte handlar om att "släppa taget", utan om att hitta en ny form för bandet till den som är borta. Drömmar är en av de platser där detta band fortsätter att leva. Studier från bland annat palliativ vård visar att sorgdrömmar är mycket vanliga, och att de flesta som upplever dem beskriver dem som meningsfulla och tröstande snarare än skrämmande.
 
-Carl Jung såg sådana drömmar som det omedvetnas sätt att integrera stora förluster — att ge dem en form och en plats i psyket. Den avlidne lever vidare som en inre figur, en del av vem vi har blivit genom relationen med dem.
+En egen kategori brukar kallas "besöksdrömmar" — ovanligt levande och fridfulla drömmar där den avlidne verkar frisk, lugn och fullt närvarande, och du vaknar med en känsla av att något verkligt har hänt. Detta fenomen är beskrivet över nästan alla kulturer och tidsepoker, och är en av de mest universella drömupplevelser människor har.
 
-I svensk och nordisk tradition har det länge funnits en stark föreställning om att de avlidna kan besöka oss i drömmarna, särskilt runt högtider och i [kyrkan](/sv/drommar/kyrka/). Denna tro är inte unik för Norden — den finns i nästan alla kulturer och i alla tider.
+Mer än något annat kan dessa drömmar förstås som psykets sätt att ge utrymme för det som inte blev sagt. Den avlidne fortsätter att finnas som en inre gestalt — en röst, en blick, en närvaro — som du bär vidare inom dig, och drömmen blir en plats där detta band kan visa sig igen.
 
 ## Drömguiden rekommenderar
 

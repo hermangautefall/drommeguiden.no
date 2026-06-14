@@ -76,13 +76,13 @@ Denne drømmen kan være angstfylt og handler ofte om frykt for at noe verdifull
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Det nye og det sårbare
 
-Carl Jung så barnet som et arketypisk symbol for selvet — den potensielle helheten i personligheten. I jungiansk tradisjon representerer barnearketypen noe som er i ferd med å bli til, en prosess av integrasjon og vekst. Å drømme om en baby kan derfor tolkes som at du er i kontakt med en dyp, skapende kraft i deg selv.
+En baby i drømmen kan ofte forstås som et bilde på noe nytt som er i emning i livet ditt — et prosjekt, en relasjon, en fase, eller en side av deg selv som er i ferd med å vokse frem. På samme måte som en baby trenger tid og næring for å utvikle seg, kan drømmen peke mot noe som fortsatt er i en tidlig og skjør fase.
 
-I norsk kultur har drømmer om babyer tradisjonelt blitt knyttet til lykke og ny begynnelse. I folketroen kunne slike drømmer varsle om kommende hendelser — ikke nødvendigvis en fødsel, men noe nytt og viktig som var på vei. Denne positive grunnholdningen til babydrømmer lever videre i dag.
+Samtidig kan babyen representere sårbarhet — en liten, ny del av deg som trenger pleie, beskyttelse og oppmerksomhet. I moderne terapispråk snakker man ofte om "det indre barnet": de delene av oss som er åpne, ekte og avhengige av omsorg, og som vi noen ganger trenger å bli bedre kjent med igjen.
 
-Fra et psykologisk ståsted er det verdt å nevne at babydrømmer er vanlige hos mennesker i alle livsfaser, ikke bare hos de som ønsker seg barn. De kan oppstå i perioder med kreativitet, i overgangsfaser, eller når man bearbeider egne barndomsopplevelser. Drømmen inviterer alltid til refleksjon: Hva er det nye som trenger din oppmerksomhet? Hva i deg selv fortjener omsorg?
+Spedbarnet er på tvers av kulturer og tider et symbol på håp, potensial og en frisk start. Drømmen inviterer ofte til å spørre: hva er det nye som trenger din oppmerksomhet akkurat nå, og er det noe i deg selv som lengter etter mer omsorg?
 
 ---
 

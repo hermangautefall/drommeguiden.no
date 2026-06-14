@@ -72,13 +72,13 @@ For eksempel på jobben din eller i [barndomshjemmet](/drommer/hus/) — tyder p
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Når en gammel relasjon dukker opp igjen
 
-I jungiansk psykologi er eksen i drømmer et eksempel på anima- eller animusfiguren — den indre representasjonen av det feminine eller maskuline i oss. Når eksen dukker opp i drømmer, kan det ifølge Jung handle om integrering av disse indre aspektene — en prosess der du gjør deg mer hel ved å akseptere deler av deg selv du har projisert over på partneren.
+Ifølge kontinuitetshypotesen i drømmeforskning gjenspeiler drømmer ofte det vi tenker på og bearbeider i hverdagen — og en eks som dukker opp betyr nesten aldri at du faktisk vil ha personen tilbake. Oftere er det et tegn på at sinnet fortsatt arbeider med uforløste følelser, en lærdom fra forholdet, eller et mønster som har en tendens til å gjenta seg i livet ditt.
 
-Moderne relasjonsforskning støtter opp under tanken om at drømmer om ekser er en del av den emosjonelle bearbeidingen etter et brudd. Studier har vist at det å drømme om en tidligere partner er svært vanlig i månedene etter et brudd, og at frekvensen gradvis avtar i takt med at man bearbeider tapet. Drømmene er altså ikke et tegn på at noe er galt — de er tvert imot et tegn på at noe er i ferd med å heles.
+Det kan også være nyttig å spørre hva eksen faktisk *representerer* for deg. Kanskje står personen for en egenskap du beundret, en versjon av deg selv fra den perioden, en frihet eller lidenskap du forbinder med tiden dere var sammen — eller et sår som aldri fikk gro helt. Drømmen handler da om dette, ikke om personen i seg selv.
 
-I norsk kultur, der vi kanskje ikke alltid snakker like åpent om følelser knyttet til brudd, kan drømmene bli et ekstra viktig rom for bearbeiding. Det finnes en sterk kulturell forventning om å "komme seg videre", og drømmer om eksen kan føles som et svik mot det idealet. Men drømmene bryr seg ikke om idealer — de bryr seg om det som er sant. Å drømme om en [bryllup](/drommer/bryllup/) med eksen betyr ikke at du vil gifte deg på nytt — det kan like gjerne handle om forpliktelse, løfter og hva de betyr for deg.
+Hjerneforskeren Matthew Walker har beskrevet REM-søvn som en slags "nattlig terapi": hjernen besøker emosjonelt ladede minner på nytt for å dempe intensiteten i dem over tid. Gamle relasjoner er ofte nettopp slike ladede minner, og kan derfor dukke opp igjen — særlig i perioder med stress, eller når du går inn i en ny relasjon som aktiverer gamle tilknytningsmønstre.
 
 ---
 
