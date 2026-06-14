@@ -53,11 +53,13 @@ Et ønske eller en mulighet gis til deg. Ta imot det med åpne hender.
 **Hvis du ga gullfisken:**
 Du gir noen andre en mulighet eller et ønske — generøsitet.
 
-## Psykologiske og kulturelle perspektiver
+## Den lille verdenen — flaks, frihet og ønsker
 
-Gullfiskens tre ønsker er ett av folkloretradisjonens klokeste historier — ønskene brukes dumt, grådigheten tar over, og man ender opp der man startet. Drømmens gullfisk bærer på denne visdommen: hva ønsker du virkelig, og ville det gjøre deg lykkelig?
+Gullfisken lever i en liten, avgrenset verden — bollen er hele dens univers. Dette kan i drømmer tolkes som et bilde på en situasjon der du selv føler deg begrenset eller innesperret, eller der du går i ring uten å komme videre. Det gamle mytestoffet om gullfiskens korte hukommelse kan også tolkes på flere måter: som en lengsel etter å kunne gi slipp og leve mer i nuet, eller som et bilde på å gjenta mønstre uten helt å lære av dem.
 
-I kinesisk tradisjon er gullfisken (jin yú) et av de sterkeste lykke- og velstandssymbolene — den gylne fargen er gullfargen, rikdommens farge. Å drømme om gullfisk er å drømme om velstandens mulighet. Se også [penger](/drommer/penger/) for drømmer om rikdom.
+I kinesisk kultur er gullfisken derimot et av de mest positive symbolene som finnes — ordet for fisk har en klang som forbindes med overskudd og hell, og gullfisken tolkes ofte som et håpefullt tegn på velstand som er på vei.
+
+Som et kjæledyr som er fullstendig avhengig av sin eier, kan gullfisken også tolkes som et bilde på omsorg og ansvar — noe skjørt som er lagt i din varetekt. Og i eventyret om fiskeren og gullfisken ligger en annen kjent visdom: ønsker, lengsler og grådighet er nært forbundet, og spørsmålet om hva som faktisk gir tilfredshet, er verdt å stille seg selv.
 
 ## Drømmeguiden anbefaler
 

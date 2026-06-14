@@ -98,4 +98,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] sommerfugl (fjaril) — metamorfose/psyche + letthet + Día de los Muertos/Zhuangzi
 - [x] mus (mus) — små bekymringer + beskjedenhet + Æsop/Ganeshas mus + stille styrke
 
-## Status: 60/214 NB ferdig (+ 60 SV).
+## Batch 13 — vanndyr
+- [x] delfin (delfin) — lek/intelligens + Arion/veiledning + emosjonell harmoni + kommunikasjon
+- [x] hval (val) — det dype ubevisste + det sublime + Jona/gjenfødelse + hvalsang/visdom
+- [x] krabbe (krabba) — skall/forsvar + sidelengs/unngåelse + Krepsen + skallskifte/vekst
+- [x] laks (lax) — mot strømmen + hjemkomst/syklus + Kunnskapens laks (keltisk) + overflod
+- [x] gullfisk (guldfisk) — liten verden/innesperring + kinesisk flaks + omsorg + ønskefisk
+
+## Status: 65/214 NB ferdig (+ 65 SV).

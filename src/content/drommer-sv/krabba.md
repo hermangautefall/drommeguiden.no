@@ -71,18 +71,10 @@ Ett helt mönster av sidledes rörelse — kanske en hel arena där ingen möter
 **Om du höll krabban i handen:**
 Du tar emot något som vanligtvis klämmer — en behärskning av något som annars skrämmer.
 
-## Psykologiska och kulturella perspektiv
+## Skal, klor och rörelse i sidled
 
-Krabban har varit ett symbolladdat väsen i mänskliga kulturer över kontinenter, och drömmens krabba drar på detta djupa lager.
+Krabbans hårda skal och starka klor kan i drömmar tolkas som bilder för självskydd och emotionell rustning. Att hålla fast med klorna, samtidigt som man skyddar något mjukt därinnanför, kan spegla en period då du värnar om något sårbart inom dig — och drömmen kan ställa frågan om vad det egentligen är du skyddar, och om skalet har blivit tjockare än det behöver vara.
 
-I västerländsk astrologi är Kräftan — *Cancer*, latin för krabba — tecknet för det känsliga, det hemkära och det skyddande. Den styrs av Månen och är kopplad till mor, hem och det djupaste känslolivet. Krabbans skal är den bostad den bär med sig, precis som Kräftan är kopplad till hemmet och det nära.
+Krabbans sidledes gång är ett annat välkänt drag — den närmar sig sällan något rakt på, utan rör sig snett och indirekt. I drömmar kan detta tolkas som ett indirekt sätt att hantera ett problem: ett undvikande, eller ett mer försiktigt och sidledes sätt att närma sig något du egentligen vill nå. I astrologin är krabban tecknet för Kräftan — kopplat till hem, familj, känslighet och omsorg, och känt för sin egen form av seghet, att "hålla fast" vid något.
 
-I babylonisk astronomi var stjärnbilden Kräftan porten där själarna kom in i kroppen vid födelsen och lämnade den vid döden — krabban var alltså väktare av övergången mellan världar. I egyptisk kosmologi var krabban en av de skapelser som associerades med soluppgång och solens uppståndelse.
-
-I polynesisk mytologi, särskilt på Hawaii, framträder krabbor som förfädersandar (*'aumakua*) som antar form och skyddar efterkommande. I delar av Västafrika är krabban helig för vissa vattenandar och uppträder i divinationsritualer som frågor om öde och riktning.
-
-I tarottraditionen visar kortet Månen ofta en krabba som krälar upp ur vattnet — symbolen för det omedvetna som stiger upp till ytan under månsken. Drömmens krabba kan i denna läsning vara "något från det omedvetna som är på väg att komma till synes".
-
-Carl Jung beskrev sjösymbolik generellt som arketypisk för det omedvetna, och skalbärande varelser som bilder för psykets förmåga att bygga skyddande strukturer runt det sårbara. Senare arketypspsykologer som James Hillman har lagt vikt vid att krabban specifikt representerar "indirekt intelligens" — att nå målet genom att gå sidledes, en form av visdom som inte handlar om rak linje.
-
-I svensk västkust- och skärgårdskultur är krabban vardagsmat och havets vardagsdjur — kopplad till stranden och tångbankarna. Nära och bekant, men ändå främmande i sin sidledes logik. Drömmens krabba i en svensk kontext bär ofta denna dubbelhet: något välkänt som ändå rör sig efter regler vi inte riktigt förstår.
+Krabban byter också skal för att växa — den lämnar sitt gamla skydd bakom sig för att bli större. Det kan tolkas som en bild för en övergångsfas: en period då gamla försvar inte längre passar, och där en viss sårbarhet är en naturlig del av att utvecklas vidare.

@@ -70,18 +70,10 @@ Et helt mønster av sidelengs bevegelse — kanskje en hel arena der ingen møte
 **Hvis du holdt krabben i hånden:**
 Du tar imot noe som vanligvis klemmer — en beherskelse av noe som ellers skremmer.
 
-## Psykologiske og kulturelle perspektiver
+## Skall, klør og sidelengs bevegelse
 
-Krabben har vært et symbolladet vesen i menneskekulturer på tvers av kontinenter, og drømmens krabbe trekker på dette dype lageret.
+Krabbens harde skall og sterke klør kan i drømmer tolkes som bilder på selvbeskyttelse og følelsesmessig rustning. Å holde fast med klørne, samtidig som man skjermer noe mykt innenfor, kan speile en periode der du beskytter et sårbart indre — og drømmen kan stille spørsmålet om hva det egentlig er du verner om, og om skallet har blitt tykkere enn det behøver å være.
 
-I vestlig astrologi er Krepsen — *Cancer*, latinsk for krabbe — tegnet for det følsomme, det hjemkjære og det beskyttende. Den styres av Månen, og er knyttet til mor, hjem og det dypeste følelseslivet. Krabbens skall er boligen den bærer med seg, akkurat som Krepsen er knyttet til hjemmet og det nære.
+Krabbens sidelengse gange er en annen kjent egenskap — den nærmer seg sjelden noe rett på, men beveger seg skrått og indirekte. I drømmer kan dette tolkes som en indirekte måte å håndtere et problem på: en unngåelse, eller en mer skrå og forsiktig tilnærming til noe du egentlig vil nærmere. I astrologien er krabben tegnet for Krepsen — knyttet til hjem, familie, følelsesmessig følsomhet og omsorg, og kjent for sin egen form for seighet, det å "henge fast" ved noe.
 
-I babylonsk astronomi var stjernebildet Krepsen porten der sjelene kom inn i kropp ved fødsel og forlot den ved død — krabben var altså vokter av overgangen mellom verdener. I egyptisk kosmologi var krabben en av skapningene som ble assosiert med soloppgang og soloppstandelse.
-
-I polynesisk mytologi, særlig i Hawaii, opptrer krabber som forfedreånder (*'aumakua*) som tar form og beskytter etterkommere. I deler av Vest-Afrika er krabben hellig for visse vannguder og opptrer i divinasjonsritualer som spørsmål om skjebne og retning.
-
-I Tarot-tradisjonen viser kortet Månen ofte en krabbe som krabber opp av vannet — symbolet på det ubevisste som stiger til overflaten under måneskinn. Drømmens krabbe kan i denne lesningen være "noe fra det ubevisste som er i ferd med å komme til syne".
-
-Carl Jung beskrev sjøsymbolikk generelt som arketypisk for det ubevisste, og skall-bærende skapninger som bilder på psykens evne til å bygge beskyttende strukturer rundt det sårbare. Senere arketypiske psykologer som James Hillman har lagt vekt på at krabben spesielt representerer "indirekte intelligens" — det å nå målet ved å gå sidelengs, en form for visdom som ikke handler om rett linje.
-
-I norsk kystkultur er krabben hverdagsmat og havets hverdagsdyr — knyttet til stranden og fjæra. Nær og kjent, men likevel fremmed i sin sidelengs logikk. Drømmens krabbe i en norsk kontekst bærer ofte denne dobbelheten: noe velkjent som likevel beveger seg etter regler vi ikke helt forstår.
+Krabben skifter også skall for å vokse — den legger fra seg sin gamle beskyttelse for å bli større. Dette kan tolkes som et bilde på en overgangsfase: en periode der gamle forsvarsmekanismer ikke lenger passer, og der en viss sårbarhet er en naturlig del av å utvikle seg videre.

@@ -56,11 +56,13 @@ En klassisk transformationssymbolik — att gå in i det stora för att komma ut
 **Om valen var skadad eller strandad:**
 Något enormt och värdefullt är i fara. En kraft som behöver hjälp eller uppmärksamhet.
 
-## Psykologiska och kulturella perspektiv
+## Djupet, det väldiga och återfödelsen
 
-För nordbor är valen inte ett exotiskt fantasidjur — den är en del av det nationella medvetandet, av kustkultur och havshistoria. Valfångsten, valen som hotade och fascinerade på en gång, valen som närde och dödade. I drömmarna kan valen också dyka upp i en [älv](/sv/drommar/alv/) — där den blir ännu mer laddad med mening. Att drömma om val i nordisk kontext berör något av detta ambivalenta förhållande till havets gigant.
+Valen kan i drömmar tolkas som en bild av det djupa omedvetna — kraftfulla känslor som rör sig långt under ytan. När något så enormt stiger upp för att andas kan det tolkas som att en stor känsla, en insikt eller en sida av dig själv är på väg upp i ljuset, efter att ha legat och samlat kraft i det tysta.
 
-Bibelns Jona är en av de starkaste val-symbolerna i västerländsk kultur: att bli slukad av valen är inte slutet — det är början på en transformation. Jona kommer ut förändrad. Drömmens val bär på detta: den är stor nog att rymma dig helt — och släppa ut dig igen.
+De största varelserna i havet väcker ofta en känsla av vördnad — något sublimt och överväldigande, en påminnelse om krafter som är mycket större än en själv. I bibelns berättelse om Jona blir mannen "uppslukad" av valen — en bild som ofta tolkas som en period av mörker, tillbakadragenhet eller kris, som likväl bär på möjligheten till förvandling. En inre resa innan man träder fram igen, förändrad.
+
+Valens sång — djup kommunikation som når över enorma avstånd — kan också tolkas som en symbol för något som försöker nå dig från en plats längre bort än det vanliga. I vissa traditioner ses valen som bärare av uråldrig visdom, ett minne som sträcker sig långt tillbaka i tiden.
 
 ## Drömguiden rekommenderar
 

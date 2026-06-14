@@ -56,11 +56,13 @@ Något är fullbordat — en cykel är avslutad, något har gett allt det hade.
 **Om laxen simmade fritt i havet:**
 Frihet och överflöd — den stora världen före hemvändandet.
 
-## Psykologiska och kulturella perspektiv
+## Mot strömmen — uthållighet och hemkomst
 
-Laxen är i fornnordisk mytologi knuten till Loke — när Loke gömde sig från gudarna förvandlade han sig till en lax. Men laxen är också den vise: i irsk och keltisk tradition (nära besläktad med den fornnordiska) är laxen den visa fisken som har ätit hasselnötterna från världens mitt och därmed bär all visdom.
+Laxens kamp mot strömmen kan tolkas som en av naturens starkaste bilder för beslutsamhet. Drömmens lax simmar inte med strömmen för att det är lättast — den simmar dit den vet att den ska, oavsett motstånd. Det kan tolkas som en bild för att gå mot strömmen i sitt eget liv: att driva mot ett mål du vet är ditt, även när allt runt omkring pekar åt ett annat håll, eller som ett uttryck för en trohet mot något i dig själv som inte låter sig rubbas.
 
-I nordisk kultur är laxälven nästan helig — den är egendom, den är tradition, den är stolthet. Laxlordernas rättigheter till laxfisket är hundratals år gamla. Att drömma om lax är att drömma om något av det ädlaste i nordisk naturkultur.
+Laxens resa hem till platsen där den själv föddes kan tolkas som en bild för hemkomst och att fullborda en cykel — en påminnelse om rötter, ursprung och något som ges vidare till nästa generation. I irsk och keltisk tradition finns berättelsen om Visdomens lax, en fisk som sades bära all världens visdom efter att ha smakat på kunskapens nötter — en bild för insikt som vinns genom lång erfarenhet och uthållighet, inte genom genvägar.
+
+I många nordliga kulturer har laxen också varit en källa till överflöd och livsviktig näring — en symbol som kan tolkas som att något du har arbetat hårt för äntligen är inom räckhåll.
 
 ## Drömguiden rekommenderar
 

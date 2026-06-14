@@ -55,13 +55,13 @@ I antiken sågs delfiner som människornas vänner i havet — det fanns otaliga
 
 **Om det var många delfiner:** Gemenskap och social glädje är aktivt — eller är något du söker mer av.
 
-## Psykologiska och kulturella perspektiv
+## Lek, intelligens och vägledning
 
-Delfinen har en av de rikaste mytologiska historierna av alla havsdjur. I grekisk mytologi var delfiner Apollons heliga djur — förbundna med musik, profetia och intelligens. Namnet Delfi — platsen för det mest berömda oraklet i antiken — är kanske etymologiskt knutet till delfin (delphis). Det var delfiner som ledde Apollon till platsen där han grundade sin kult.
+Delfinen förknippas ofta med intelligens, lekfullhet och glädje — egenskaper som i drömmar kan tolkas som en påminnelse om social harmoni och emotionell klokhet. Många upplever en dröm med delfin som en signal om att balansera arbete med lek, och att möta livet med lite mer lätthet.
 
-I fornnordisk tradition är havets varelser generellt förbundna med de djupaste krafterna — men delfinen är en sydlig och medelhavsbaserad symbol som inte är starkt representerad i fornnordisk mytologi. Ändå är havsguden Ägir och hans hustru Ran förbundna med havets dubbla natur: det som tar och det som ger.
+I flera maritima kulturer sågs delfinen som en vägvisare och räddare för sjöfarare — en skyddande och välvillig följeslagare på havet. I grekisk myt räddade en delfin skalden Arion från att drunkna, och delfinen var helig för både Apollon och Poseidon. Ett sådant möte i drömmen kan tolkas som att något eller någon leder dig tryggt vidare genom okänt vatten.
 
-Det är värt att notera att delfinen är ett av de få djur som verkar hjälpa av altruistiska skäl — inklusive att rädda människor. Det gör den till en av naturens tydligaste bilder av vänlighet utan villkor.
+Som ett däggdjur som är hemma i [havet](/sv/drommar/hav/) — ofta tolkat som känslolivets symbol — kan delfinen också representera en harmoni mellan intellekt och känsla: förmågan att navigera det emotionella landskapet med elegans. Delfinens avancerade kommunikation kan dessutom spegla ett tema om samhörighet och gemenskap — en önskan om att bli sedd och förstådd.
 
 ## Drömguiden rekommenderar
 

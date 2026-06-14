@@ -55,11 +55,13 @@ Noe er fullbyrdet — en syklus er avsluttet, noe har gitt alt det hadde.
 **Hvis laksen svømte fritt i havet:**
 Frihet og overflod — den store verden før hjemvendingen.
 
-## Psykologiske og kulturelle perspektiver
+## Mot strømmen — utholdenhet og hjemkomst
 
-Laksen er i norrøn mytologi knyttet til Loke — da Loke gjemte seg fra gudene forvandlet han seg til en laks. Men laksen er også den vise: i irsk og keltisk tradisjon (nært beslektet med norrøn) er laksen den vise fisken som har spist hasselnøttene fra verdens midte og dermed bærer all visdom.
+Laksens kamp mot strømmen kan tolkes som et av naturens sterkeste bilder på besluttsomhet. Drømmens laks svømmer ikke med strømmen fordi det er lettest — den svømmer dit den vet den skal, uansett motstand. Dette kan tolkes som et bilde på å gå mot strømmen i eget liv: å forfølge et mål du vet er ditt, selv når alt rundt deg peker i en annen retning, eller som et uttrykk for troskap mot noe i deg selv som ikke lar seg rokke.
 
-I norsk kultur er lakseelven nærmest hellig — den er eiendom, den er tradisjon, den er stolthet. Lakselordenes rettigheter til laksefisket er hundreår gamle. Å drømme om laks er å drømme om noe av det edleste i norsk naturkultur.
+Laksens reise hjem til stedet den selv ble født, kan tolkes som et bilde på hjemkomst og det å fullføre en syklus — en påminnelse om røtter, opphav, og noe som gis videre til neste generasjon. I irsk og keltisk tradisjon finnes fortellingen om Kunnskapens laks, en fisk som ble sagt å bære all verdens visdom etter å ha smakt på kunnskapens nøtter — et bilde på innsikt som vinnes gjennom lang erfaring og utholdenhet, ikke gjennom snarveier.
+
+I mange nordlige kulturer har laksen også vært en kilde til overflod og livsviktig næring — et symbol som kan tolkes som at noe du har arbeidet hardt for, endelig er innen rekkevidde.
 
 ## Drømmeguiden anbefaler
 

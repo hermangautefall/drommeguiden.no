@@ -54,11 +54,13 @@ En önskan eller möjlighet ges till dig. Ta emot den med öppna händer.
 **Om du gav guldfisken:**
 Du ger någon annan en möjlighet eller önskan — generositet.
 
-## Psykologiska och kulturella perspektiv
+## Den lilla världen — tur, frihet och önskningar
 
-Guldfiskens tre önskningar är en av folkloretraditionens klokaste historier — önskningarna används dumt, girigheten tar över, och man hamnar där man började. Drömmens guldfisk bär på denna visdom: vad önskar du verkligen, och skulle det göra dig lycklig?
+Guldfisken lever i en liten, avgränsad värld — bowlen är hela dess universum. Det kan i drömmar tolkas som en bild för en situation där du själv känner dig begränsad eller instängd, eller där du går i cirklar utan att komma vidare. Den gamla föreställningen om guldfiskens korta minne kan också tolkas på flera sätt: som en längtan efter att kunna släppa taget och leva mer i nuet, eller som en bild för att upprepa mönster utan att riktigt lära sig av dem.
 
-I kinesisk tradition är guldfisken (jin yú) en av de starkaste lycko- och välståndssymbolerna — den gyllene färgen är guldfärgen, rikedomens färg. Att drömma om guldfisk är att drömma om välståndets möjlighet. Se även [pengar](/sv/drommar/pengar/) för drömmar om rikedom.
+I kinesisk kultur är guldfisken däremot ett av de mest positiva symbolerna som finns — ordet för fisk har en klang som förknippas med överflöd och tur, och guldfisken tolkas ofta som ett hoppfullt tecken på välstånd som är på väg.
+
+Som ett husdjur som är helt beroende av sin ägare kan guldfisken också tolkas som en bild för omsorg och ansvar — något ömtåligt som lagts i din vård. Och i sagan om fiskaren och guldfisken finns en annan välkänd visdom: önskningar, längtan och girighet hänger nära samman, och frågan om vad som egentligen ger tillfredsställelse är väl värd att ställa sig själv.
 
 ## Drömguiden rekommenderar
 

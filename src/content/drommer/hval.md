@@ -55,11 +55,13 @@ En klassisk transformasjonssymbolikk — å gå inn i det store for å komme ut 
 **Hvis hvalen var skadet eller strandet:**
 Noe enormt og verdifullt er i fare. En kraft som trenger hjelp eller oppmerksomhet.
 
-## Psykologiske og kulturelle perspektiver
+## Dypet, det veldige og gjenfødelsen
 
-For nordmenn er hvalen ikke et eksotisk fantasidyr — den er en del av den nasjonale bevissthet, av kystkultur og havhistorie. Hvalfangsten, hvalen som truet og fascinerte på én gang, hvalen som nærte og drepte. I drømmene kan hvalen også dukke opp i en [elv](/drommer/elv/) — der den blir enda mer ladet med mening. Å drømme om hval i norsk kontekst berører noe av dette ambivalente forholdet til havets gigant.
+Hvalen kan i drømmer tolkes som et bilde på det dype ubevisste — kraftfulle følelser som beveger seg langt under overflaten. Når noe så enormt stiger opp for å puste, kan det tolkes som at en stor følelse, en erkjennelse eller en side av deg selv er på vei opp i lyset, etter å ha ligget og samlet seg i det stille.
 
-Bibelens Jonas er en av de sterkeste hval-symbolene i vestlig kultur: å bli svelget av hvalen er ikke slutten — det er begynnelsen på en transformasjon. Jonas kommer ut forandret. Drømmens hval bærer på dette: den er stor nok til å romme deg helt — og slippe deg ut igjen.
+De største skapningene i havet vekker ofte en følelse av ærefrykt — noe sublimt og overveldende, en påminnelse om krefter som er langt større enn én selv. I bibelens fortelling om Jonas blir mannen "slukt" av hvalen — et bilde som ofte tolkes som en periode med mørke, tilbaketrekning eller krise, som likevel bærer i seg muligheten for forvandling. En indre reise før man igjen trer frem, forandret.
+
+Hvalens sang — dyp kommunikasjon som bærer over enorme avstander — kan også tolkes som et symbol på noe som forsøker å nå deg fra et sted lengre unna enn det vanlige. I noen tradisjoner ses hvalen som bærer av eldgammel visdom, en hukommelse som strekker seg langt tilbake i tid.
 
 ## Drømmeguiden anbefaler
 

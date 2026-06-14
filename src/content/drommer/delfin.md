@@ -54,13 +54,13 @@ I antikken ble delfiner sett som menneskenes venner i havet — det var utallige
 
 **Hvis det var mange delfiner:** Fellesskap og sosial glede er aktivt — eller er noe du søker mer av.
 
-## Psykologiske og kulturelle perspektiver
+## Lek, intelligens og veiledning
 
-Delfinen har en av de rikeste mytologiske historiene av alle havdyr. I gresk mytologi var delfiner Apollons hellige dyr — forbundet med musikk, profeti og intelligens. Navnet Delfi — stedet for det berømteste oraklet i antikken — er kanskje etymologisk knyttet til delfin (delphis). Det var delfiner som ledet Apollon til stedet der han grunnla sin kult.
+Delfinen forbindes ofte med intelligens, lekenhet og glede — egenskaper som i drømmer kan tolkes som en påminnelse om sosial harmoni og emosjonell klokskap. Mange opplever en drøm med delfin som et signal om å balansere arbeid med lek, og å møte livet med litt mer letthet.
 
-I norrøn tradisjon er havets vesener generelt forbundet med de dypeste kreftene — men delfinen er et sørlig og middelhavsbasert symbol som ikke er sterkt representert i norrøn mytologi. Likevel er havets gutt Ægir og hans hustru Ran forbundet med havets dobbelnatur: det som tar og det som gir.
+I flere maritime kulturer ble delfinen sett som en veiviser og redningsmann for sjøfolk — en beskyttende og velvillig følgesvenn på havet. I gresk myte reddet en delfin poeten Arion fra drukningsdøden, og delfinen var hellig for både Apollon og Poseidon. Et slikt møte i drømme kan tolkes som at noe eller noen leder deg trygt videre gjennom ukjent territorium.
 
-Det er verdt å merke seg at delfinen er et av de eneste dyrene som ser ut til å hjelpe av altruistiske grunner — inkludert å redde mennesker. Det gjør den til ett av naturens tydeligste bilder på vennlighet uten betingelse.
+Som et pattedyr som er hjemme i [havet](/drommer/hav/) — ofte tolket som følelseslivets symbol — kan delfinen også representere en harmoni mellom intellekt og følelse: evnen til å navigere det emosjonelle landskapet med ynde. Delfinens avanserte kommunikasjon kan dessuten speile et tema om forbindelse og fellesskap — et ønske om å bli hørt og forstått.
 
 ## Drømmeguiden anbefaler
 
