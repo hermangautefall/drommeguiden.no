@@ -63,13 +63,13 @@ Noe hindrer deg i å gå fullt inn. Hva er det som stopper deg?
 **Ringen som symbol:**
 Se [ring](/drommer/ring/) for en grundig gjennomgang av ringens symbolikk — sirkelen uten begynnelse eller slutt.
 
-## Psykologiske og kulturelle perspektiver
+## Løftet, forpliktelsen og terskelen
 
-Forlovelsesritualet er universelt — i alle kulturer finnes det en form for offentlig bekreftelse av parforpliktelsen. Det norrøne "handslag" var bindende og vitneburet av andre — en forpliktelse like alvorlig som enhver skriftlig kontrakt. Å bryte et slikt løfte var æresløst.
+En forlovelse i drømme kan tolkes som et bilde på et løfte du er i ferd med å gi — til en person, til et prosjekt, eller til en vei du har valgt. Det handler om å gå fra det ubestemte til det bestemte: et "ja" som binder sammen noe som før var åpent. Drømmer av denne typen dukker ofte opp når noe i livet nærmer seg et punkt der det krever en tydeligere forpliktelse.
 
-I jungiansk psykologi er forpliktelsen — coniunctio — ett av de sentrale symbolene for psykens bevegelse mot helhet. Foreningen av motsetninger, forpliktelsen til hele selvet — ikke bare de behagelige delene, men det hele. Drømmens forlovelse kan speile dette: er du klar til å forplikte deg til den du er, i sin helhet?
+Forlovelsen kan også speile foreningen av to deler — to sider av deg selv, eller en relasjon som blir en mer integrert del av hvem du er. Samtidig er det helt naturlig om drømmen bærer på en snert av uro: kalde føtter, tvil om fremtiden, eller spørsmålet "er jeg klar for dette?" hører ofte med når noe stort skal besegles.
 
-Ringen som symbol for forlovelsen er eldgammelt og universelt: sirkelen uten ende, foreningen som ikke brytes. Den første kjente ekteskapsringen ble funnet i Egypt fra rundt 4800 år siden. Det er noe i dette symbolet som taler direkte til psyken om kontinuitet og helhet.
+Selve følelsen av å stå på en terskel — verken i det gamle eller helt i det nye — er gjerne det drømmen forsøker å fange. Det er en mellomtilstand fylt av forventning, og ofte mer håpefull enn skremmende, selv når den kommer med litt nervøsitet.
 
 ## Drømmeguiden anbefaler
 

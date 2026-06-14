@@ -65,13 +65,13 @@ Et vennskap eller en nær relasjon trenger oppmerksomhet. Er det noe uavklart de
 **Hvis dere fant hverandre igjen:**
 Ambivalens — en del av deg ønsker avslutning, en annen del holder fast. Hva vil du egentlig?
 
-## Psykologiske og kulturelle perspektiver
+## Avslutninger, indre splittelse og å gå hver til sitt
 
-Separasjon er ett av de dypeste menneskelige angstmotivene — og ett av de tidligste. Barnepsykolog John Bowlby dokumenterte at separasjonsangst er innebygget i menneskebarnet som en overlevelsesmekanisme. Den voksne psyken bærer disse sporene. Drømmens brudd aktiverer dette gamle systemet.
+Drømmer om å skille lag handler ofte ikke om kjærligheten i seg selv, men om avslutninger mer generelt — å gi slipp på en vane, en rolle eller en identitet som har gjort sitt. Sorgen i drømmen kan godt handle om noe annet enn et forhold: en jobb du forlater, en periode i livet som er over, noe du trenger å legge bak deg for å gå videre.
 
-Jung beskrev livets store overganger som symbolske "dødsfall" — det gamle selvet dør, og et nytt fødes. I individasjonsprosessen er slike drømmede brudd gjerne markører for nettopp slike overganger: noe gammelt tar slutt, noe nytt er på vei. Det smerter som ekte tap — fordi det på ett plan er det.
+Andre ganger kan bildet av å skilles speile en indre splittelse — to deler av deg som trekker i forskjellige retninger, eller en beslutning som river i deg fra begge sider. Hvis drømmen handler om et faktisk forhold, kan den også bare være sinnets måte å bearbeide vanlige og helt menneskelige frykter for avstand og nærhet — ikke en spådom, men en refleksjon av følelser som går opp og ned i alle relasjoner.
 
-I norrøn tradisjon er avskjeden en av de mest ritualiserte handlingene i sagaene. Å ta ordentlig farvel — å si det som skal sies — er ikke svakhet men plikt. Drømmens manglende avskjed, den avbruttede farvel, er noen ganger psykens signal om noe som aldri ble sagt ordentlig.
+Til sist kan det å gå hver til sitt i en drøm også tolkes som noe sunt: et tegn på at du er i ferd med å finne din egen vei, stå litt mer på egne ben, eller skille klarere mellom hva som er ditt og hva som hører til andre. Slike drømmer er sjelden et varsel — de er som oftest sinnets stille bearbeiding av endring.
 
 ## Drømmeguiden anbefaler
 

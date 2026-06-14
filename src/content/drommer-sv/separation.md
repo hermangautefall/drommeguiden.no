@@ -66,13 +66,13 @@ En vänskap eller en nära relation behöver uppmärksamhet. Är det något okla
 **Om ni hittade varandra igen:**
 Ambivalens — en del av dig vill ha avslut, en annan del håller fast. Vad vill du egentligen?
 
-## Psykologiska och kulturella perspektiv
+## Avslut, inre splittring och att gå skilda vägar
 
-Separation är ett av de djupaste mänskliga ångestmotiven — och ett av de tidigaste. Barnpsykologen John Bowlby dokumenterade att separationsångest är inbyggd i människobarnet som en överlevnadsmekanism. Den vuxna psyken bär dessa spår. Drömmens uppbrott aktiverar detta gamla system.
+Drömmar om att skiljas handlar ofta inte om kärleken i sig, utan om avslut mer allmänt — att släppa en vana, en roll eller en identitet som tjänat ut. Sorgen i drömmen kan lika gärna handla om något annat än en relation: ett jobb du lämnar, en period i livet som är över, något du behöver lägga bakom dig för att gå vidare.
 
-Jung beskrev livets stora övergångar som symboliska "dödsfall" — det gamla Självet dör, och ett nytt föds. I individuationsprocessen är sådana drömda uppbrott gärna markörer för just sådana övergångar: något gammalt tar slut, något nytt är på väg. Det smärtar som äkta förlust — eftersom det på ett plan är det.
+Andra gånger kan bilden av att skiljas spegla en inre splittring — två delar av dig som drar åt olika håll, eller ett beslut som river i dig från båda sidor. Om drömmen handlar om en faktisk relation kan den också helt enkelt vara sinnets sätt att bearbeta vanliga och mänskliga rädslor för avstånd och närhet — inte en förutsägelse, utan en spegling av känslor som går upp och ner i alla relationer.
 
-I fornnordisk tradition är avskedet en av de mest ritualiserade handlingarna i sagorna. Att ta ett ordentligt farväl — att säga det som ska sägas — är inte svaghet utan plikt. Drömmens uteblivna avsked, det avbrutna farvälet, är ibland psykets signal om något som aldrig blev ordentligt sagt.
+Till sist kan det att gå skilda vägar i en dröm också tolkas som något friskt: ett tecken på att du är på väg att hitta din egen riktning, stå lite mer på egna ben, eller dra en tydligare gräns mellan vad som är ditt och vad som hör till andra. Sådana drömmar är sällan ett varningstecken — de är oftast sinnets stilla bearbetning av förändring.
 
 ## Drömguiden rekommenderar
 

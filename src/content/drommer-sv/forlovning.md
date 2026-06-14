@@ -64,13 +64,13 @@ Något hindrar dig från att gå helt in. Vad är det som stoppar dig?
 **Ringen som symbol:**
 Se [ring](/sv/drommar/ring/) för en grundlig genomgång av ringens symbolik — cirkeln utan början eller slut.
 
-## Psykologiska och kulturella perspektiv
+## Löftet, åtagandet och tröskeln
 
-Förlovningsritualen är universell — i alla kulturer finns det en form av offentlig bekräftelse av parets förpliktelse. Det fornnordiska "handslag" var bindande och vittnesburet av andra — en förpliktelse lika allvarlig som vilket skriftligt kontrakt som helst. Att bryta ett sådant löfte var ärelöst.
+En förlovning i drömmen kan tolkas som en bild av ett löfte du är på väg att ge — till en person, ett projekt, eller en väg du valt. Det handlar om att gå från det obestämda till det bestämda: ett "ja" som binder samman något som tidigare var öppet. Sådana drömmar dyker ofta upp när något i livet närmar sig en punkt där det kräver ett tydligare åtagande.
 
-I jungiansk psykologi är förpliktelsen — coniunctio — en av de centrala symbolerna för psykets rörelse mot helhet. Föreningen av motsatser, förpliktelsen till hela självet — inte bara de behagliga delarna, utan det hela. Drömmens förlovning kan spegla detta: är du redo att förplikta dig till den du är, i sin helhet?
+Förlovningen kan också spegla föreningen av två delar — två sidor av dig själv, eller en relation som blir en mer integrerad del av den du är. Samtidigt är det helt naturligt om drömmen bär på en känsla av tvekan: kalla fötter, tvivel om framtiden, eller frågan "är jag redo för det här?" hör ofta till när något stort ska beseglas.
 
-Ringen som symbol för förlovningen är uråldrig och universell: cirkeln utan slut, föreningen som inte bryts. Den första kända förlovningsringen hittades i Egypten från omkring 4800 år sedan. Det är något i denna symbol som talar direkt till psyket om kontinuitet och helhet.
+Själva känslan av att stå på en tröskel — varken kvar i det gamla eller helt i det nya — är ofta det drömmen försöker fånga. Det är ett mellantillstånd fyllt av förväntan, och oftare hoppfullt än skrämmande, även när det följs av lite nervositet.
 
 ## Drömguiden rekommenderar
 

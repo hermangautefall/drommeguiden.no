@@ -68,13 +68,13 @@ Något nytt är ännu inte starkt nog — det behöver mer tid och omsorg.
 **Om du inte visste att du var gravid:**
 Se symbolsidan för [gravid](/sv/drommar/gravid/) — något har vuxit i det fördolda utan att du visste om det.
 
-## Psykologiska och kulturella perspektiv
+## Det nya som föds
 
-Födseln är i nästan alla mänskliga kulturer laddad med mystik och helighet — det ögonblick något övergår från det okända till det existerande. I nordisk tradition var nornorna närvarande vid varje barns födelse för att väva ödets tråd — det nyfödda var redan invävt i världens mönster.
+Många drömmar om en födelse kommer i perioder då något nytt gror i livet — en idé, ett projekt, en plan du burit på en tid. Drömmens bild kan tolkas som ett tecken på att det som vuxit i det tysta nu är redo att visa sig för omvärlden. Kreativiteten har sin egen takt, och födelsen i drömmen kan markera att något är "fullgånget" och väntar på att komma ut.
 
-Carl Jung beskrev individuationsprocessen — psykets livsuppgift att bli sig själv — som en serie födslar: varje gång en ny del av självet integreras, föds något. Demonens födelse, hjältens födelse, det gudomliga barnets födelse — alla är bilder av psykets ständiga förnyelse och utveckling. Det gudomliga barnet är en av Jungs viktigaste arketyper: det som är nytt, sårbart och bär på framtidens potential.
+Andra gånger handlar det om en större förändring inom dig själv — en ny fas i livet, en ny roll, ett nytt sätt att se på den du är. Värkarna före födseln kan då tolkas som en bild av den insats och det tålamod som ofta föregår något meningsfullt. Det kan kännas tungt under resans gång, men drömmen pekar oftast framåt, mot något som är på väg att ta form.
 
-Drömmens födelse är aldrig bara biologisk. Den är alltid psykologiskt och symboliskt laddad — en av de starkaste inbjudningar drömmarna ger oss att fråga: vad är det nya som vill leva?
+För dem som själva väntar barn, eller går igenom en stor förändring i livet, är sådana drömmar mycket vanliga — kroppen och sinnet befinner sig i ett tillstånd av förväntan, och drömmarna blir gärna mer levande och färgstarka under sådana perioder. I många kulturer har födsel länge förknippats med förnyelse och hopp om framtiden, och den universella bilden av något nytt som kommer till världen är en av drömmens varmaste symboler.
 
 ## Drömguiden rekommenderar
 

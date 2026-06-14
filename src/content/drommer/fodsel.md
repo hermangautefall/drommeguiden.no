@@ -67,13 +67,13 @@ Noe nytt er ennå ikke sterkt nok — det trenger mer tid og omsorg.
 **Hvis du ikke visste du var gravid:**
 Se symbolsiden for [gravid](/drommer/gravid/) — noe har vokst i det skjulte uten at du visste om det.
 
-## Psykologiske og kulturelle perspektiver
+## Det nye som blir født
 
-Fødsel er i nesten alle menneskelige kulturer ladet med mystikk og helligdom — det øyeblikket noe overgår fra det ukjente til det eksisterende. I norrøn tradisjon var norner til stede ved hvert barns fødsel for å veve skjebnens tråd — det nyfødte var allerede innvevd i verdens mønster.
+Mange drømmer om fødsel kommer i perioder der noe nytt spirer i livet — en idé, et prosjekt, en plan du har båret på en stund. Drømmens bilde kan tolkes som et tegn på at det som har vokst i det stille, nå er klart til å vises for omverdenen. Kreativiteten har sitt eget tempo, og fødselen i drømmen kan markere at noe er "fullbåret" og venter på å komme ut.
 
-Carl Jung beskrev individasjonsprosessen — psykens livsoppgave om å bli seg selv — som en serie fødsler: hver gang en ny del av selvet integreres, fødes noe. Demonens fødsel, heltens fødsel, det guddommelige barnets fødsel — alle er bilder på psykens stadige fornying og utvikling. Det guddommelige barnet er ett av Jungs viktigste arketyper: det som er nytt, sårbart og bærer på fremtidens potensial.
+Andre ganger handler det om en større forvandling i deg selv — en ny fase av livet, en ny rolle, et nytt syn på hvem du er. Veene før fødselen kan da tolkes som bildet på den innsatsen og tålmodigheten som ofte går forut for noe meningsfullt. Det kan kjennes krevende underveis, men drømmen peker som regel fremover, mot noe som er i ferd med å ta form.
 
-Drømmens fødsel er aldri bare biologisk. Den er alltid psykologisk og symbolsk ladet — en av de sterkeste invitasjonene drømmene gir oss til å spørre: hva er det nye som ønsker å leve?
+For dem som selv venter barn, eller går gjennom en stor endring i livet, er slike drømmer svært vanlige — kroppen og sinnet er i en tilstand av forventning, og drømmene blir gjerne livligere og mer fargerike i slike perioder. På tvers av kulturer har fødsel ofte vært knyttet til fornyelse og håp om fremtiden, og det universelle bildet av noe nytt som kommer til verden, er en av drømmens varmeste symboler.
 
 ## Drømmeguiden anbefaler
 

@@ -57,11 +57,13 @@ En diffus ångest eller belastning som inte fått ett klart namn än.
 **Om du fick behandling:**
 Du söker och finner hjälp och stöd — antingen faktiskt eller symboliskt.
 
-## Psykologiska och kulturella perspektiv
+## När något behöver läka — kropp och sinne
 
-Kroppen i drömsymboliken är alltid laddad — den är inte bara fysisk, utan en spegel för det psykologiska tillståndet. Att drömma om sjukdom är ett av de sätt psyket kommunicerar på när verbala och kognitiva kanaler inte räcker till.
+Att drömma om sjukdom kan ofta tolkas som kroppens och sinnets sätt att sätta ord på en känslomässig "olust" — något som tynger dig, en situation som "gör dig sjuk" av oro, eller känslor du inte gett så stort utrymme i vaket tillstånd. Drömmen ger en bild av det som är svårt att beskriva med ord.
 
-Forskning på somatiska drömmar — drömmar där kroppen är central, som drömmar om [huvudet](/sv/drommar/huvud/) eller [magen](/sv/drommar/mage/) — visar att de är särskilt vanliga i perioder med hög emotionell belastning, och att de sällan varslar om faktisk organisk sjukdom, utan snarare om psykologisk stress som bärs i kroppen.
+Sådana drömmar kan också vara en påminnelse om att ta hand om dig själv — att sänka tempot lite, vila, och erkänna behov du kanske skjutit åt sidan. Det är inget misslyckande att behöva omsorg; drömmen kan helt enkelt vara sinnets sätt att säga att det är tid att lyssna på kroppen.
+
+Om drömmen väcker oro för din egen eller andras hälsa är det bra att veta att sådana drömmar nästan aldrig är bokstavliga eller förebådande — de handlar om känslor, inte om framtiden. Ofta pekar de mot ett mönster eller en olöst fråga som "pyrt" en tid, och som det kan vara bra att ge lite uppmärksamhet innan den växer sig större.
 
 ## Drömguiden rekommenderar
 

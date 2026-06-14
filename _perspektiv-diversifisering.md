@@ -140,4 +140,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] munn (mun) — stemme/kommunikasjon + ordenes kraft + inntak/appetitt + tann-kobling
 - [x] fot (fot) — fotfeste/stabilitet + retning/bevegelse + frihet + ydmykhet/Laozi
 
-## Status: 90/214 NB ferdig (+ 90 SV).
+## Batch 19 — hendelser/livsfaser
+- [x] fodsel (fodelse) — nye begynnelser/skapelse + nytt selv/veer + ventende foreldre + hellig fornyelse
+- [x] forlovelse (forlovning) — løfte/forpliktelse + forening + ambivalens/kalde føtter + liminal fase
+- [x] skille-lag (separation) — avslutninger/gi slipp + indre splittelse + frykt for tap + individuasjon
+- [x] operasjon (operation) — heling/skjære bort + sårbarhet/kontroll + forvandling + helseangst
+- [x] sykdom (sjukdom) — følelsesmessig uvelhet + behov for omsorg + helseangst + noe som ulmer
+
+## Status: 95/214 NB ferdig (+ 95 SV).
