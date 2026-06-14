@@ -74,13 +74,13 @@ Kan spegla en vag oro — en känsla av att något är fel utan att du kan sätt
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Livskraft, förlust och släktskap
 
-Carl Jung betraktar blod som en arketypisk symbol med mycket djupa rötter i den mänskliga psyken. I jungiansk tradition representerar blod själssubstansen — det som bär livskraften och förbinder oss med det kollektiva omedvetna. Drömmar om blod kan enligt Jung peka mot en psykisk transformation som kräver offer eller smärta innan den är fullbordad.
+Få symboler är så laddade som blod, och det återkommer i kulturer världen över på nästan samma sätt: blod är liv, blod är släktskap, och blod är offer — ofta allt på en gång. Det är en symbol som rymmer både skapelse och död, och drömmar om blod lånar gärna något av denna dubbelhet.
 
-I fornnordisk tradition hade blod en helt central betydelse. Blotoffer var en del av religiös praktik, och blodsband mellan människor sågs som heliga. Att drömma om blod i en fornnordisk kontext tolkades gärna som ett tecken från gudarna — ett budskap om livskraft, strid eller ödet. Blodets symbolik i nordisk kultur är tätt knuten till ära, offer och förbindelsen mellan levande och döda.
+En vanlig tolkningsväg skiljer mellan att förlora blod och att känna blodet "koka". Att drömma om att tappa blod kan peka mot en känsla av att vara utmattad, dränerad eller tömd på energi — kanske ett tecken på att något eller någon tar mer än det ger tillbaka. Blod kan å andra sidan också stå för starka känslor i rörelse: passion, ilska, eller något som är på väg att explodera — som när vi säger att "blodet kokar".
 
-I modern svensk kultur är blodsymboliken kanske mindre dramatisk, men den lever vidare i de uttryck vi använder: "det kokar i blodet", "blod är tjockare än vatten", "kallblodig". Våra drömmar plockar upp dessa kulturella associationer och väver in dem i sin egen berättelse. En dröm om blod i svensk kontext bär med sig hela denna rikedom av mening — från det uråldriga till det vardagliga.
+Blod är också knutet till släkt och arv — det vi "har i blodet", det som binder generationer samman, för gott och för ont. I många religiösa och rituella traditioner ses blod dessutom som heligt: använt i pakter, offer och reningsritualer. En dröm om blod kan därför röra något mycket grundläggande — frågor om ursprung, tillhörighet och vad vi bär vidare från dem som kom före oss.
 
 ---
 

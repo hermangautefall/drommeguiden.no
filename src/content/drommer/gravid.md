@@ -60,11 +60,13 @@ Noe er klart til å realisere seg — en idé, et prosjekt eller en forandring e
 **Hvis du var redd for å miste barnet:**
 Angst for å mislykkes med noe du har investert mye i. En sårbarhet knyttet til noe viktig — en følelse som også kan vise seg som drømmer om å [miste noe](/drommer/miste-noe/).
 
-## Psykologiske og kulturelle perspektiver
+## Noe som er i ferd med å bli til
 
-Graviditetsdrømmer er studert bredt i drømmeforskning og beskrives konsekvent som noen av de mest symbolsk rike drømmene vi kan ha. De opptrer på tvers av kjønn, alder og kultur — noe som understreker at de handler om et universalt menneskelig fenomen: skapelsen av noe nytt.
+Graviditetsdrømmer er ikke forbeholdt dem som venter eller ønsker barn. Like ofte handler de om noe annet som er underveis — et prosjekt, en idé, en ny livsfase eller noe kreativt som sakte tar form og er i ferd med å bli «født». Drømmen låner et bilde fra kroppen for å fortelle om en prosess som ennå ikke er synlig for omverdenen.
 
-I mange kulturer og tradisjoner er graviditet i drøm sett på som et godt tegn — et varsel om velstand, vekst og gode ting på vei. I norsk folkloretradisjon — noe du kan lese mer om i vår guide om [hva drømmer er](/guider/hva-er-drommer/) — var slike drømmer gjerne fortolket som tegn på fruktbarhet i videste forstand — ikke bare av mennesker, men av planer og livsprosjekter.
+Den greske drømmetolkeren Artemidoros skrev allerede på 100-tallet at slike drømmer måtte tolkes ut fra den som drømte — samme bilde kunne bety helt forskjellige ting for forskjellige mennesker, avhengig av livssituasjon. Den tankegangen er fortsatt aktuell: en graviditetsdrøm hos en som venter barn kan handle om noe helt annet enn samme drøm hos en som nettopp har startet en ny jobb.
+
+Moderne søvnforskning viser dessuten at kvinner som faktisk er gravide, ofte rapporterer mer levende og emosjonelle drømmer — noe som kan knyttes til hormonelle endringer og en annerledes søvnrytme. For andre handler drømmen mer om forventning, om å bære på noe nytt og verdifullt. I mange folketradisjoner er graviditet i drøm dessuten tolket som et godt varsel — et tegn på at noe lykkebringende er på vei.
 
 ## Drømmeguiden anbefaler
 

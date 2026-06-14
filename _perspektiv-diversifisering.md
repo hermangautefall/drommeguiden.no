@@ -17,3 +17,10 @@ Regler:
 - [x] falle (falla) — hypnic jerk (nevro) + Adler (kontroll/mindreverd) + kontinuitet
 - [x] forfulgt (forfoljd) — threat simulation (Revonsuo) + unngåelse + Gestalt
 - [x] naken (naken) — Freud (skamdrøm) + sårbarhet/bedrager + "ingen legger merke til"
+
+## Batch 2 — høytrafikk-klassikere
+- [x] gravid (gravid) — inkubasjon/livsovergang + Artemidoros + REM/hormoner + folketro
+- [x] edderkopp (spindel) — veving av skjebne (Arachne/Anansi/Spider Woman) + "fanget i nettet" + tålmodighet
+- [x] hund (hund) — eldste følgesvenn + Kerberos/Anubis + oppførsel som nøkkel + instinkt
+- [x] katt (katt) — uavhengighet/intuisjon + Bastet + folketro/familiars + oppførsel
+- [x] blod (blod) — livskraft/slektskap + tappet vs lidenskap + arv + rituelt/hellig

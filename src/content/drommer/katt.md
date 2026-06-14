@@ -73,13 +73,13 @@ Denne varianten kan handle om selvrefleksjon og om å se deg selv fra et nytt pe
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Det uavhengige og det mystiske
 
-Carl Jung knyttet katten til det feminine arketypet — anima — som representerer det ubevisste, det mottagelige og det kreative i psyken. For Jung kunne en katt i drømmen peke mot integrering av disse kvalitetene, uansett drømmerens kjønn. Å drømme om en katt var en invitasjon til å la de intuitive og sanselige sidene få mer plass.
+Katten har levd tett på mennesker i tusenvis av år, men har aldri helt latt seg temme — og det er nok noe av grunnen til at den dukker opp i drømmer som et symbol på selvstendighet, intuisjon og en viss uutgrunnelighet. Den kommer og går på sine egne premisser.
 
-I egyptisk kultur ble katten tilbedt som hellig, knyttet til gudinnen Bastet, som representerte hjemmet, fruktbarhet og beskyttelse. I nordisk tradisjon trakk gudinnen Frøya sin vogn med to store katter — et bilde på styrke, kjærlighet og uavhengighet i kombinasjon.
+I det gamle Egypt ble katten tilbedt som hellig og knyttet til gudinnen Bastet, som representerte hjem, fruktbarhet og beskyttelse — et dyr verdig høy respekt og omsorg. Andre steder i verden er bildet mer brokete: svarte katter knyttes i noen tradisjoner til hell, i andre til uhell, og i middelalderens Europa ble katter ofte forbundet med det overnaturlige og med heksenes følgedyr.
 
-I norsk folketro har katten hatt en mer ambivalent plass. Den ble noen ganger sett som en hjelper og noen ganger som et uhyggelig vesen knyttet til mørke krefter. Denne dobbeltheten lever videre i drømmesymbolikken: katten er aldri bare god eller bare farlig — den rommer begge deler. Drømmer om [edderkopp](/drommer/edderkopp/) deler noe av denne tvetydigheten, der det skremmende og det visdomsfulle lever side om side.
+Det er ofte kattens oppførsel i drømmen som gir den beste pekepinnen. En kjælen, rolig katt kan tyde på at du er i god kontakt med din egen uavhengige og intuitive side, eller på et avslappet forhold til noen. En klorende, hissig eller fjern katt kan derimot peke mot en person som oppleves reservert, uforutsigbar eller vanskelig å lese — eller mot at du selv trekker deg unna noe.
 
 ---
 

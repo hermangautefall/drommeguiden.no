@@ -81,13 +81,13 @@ Att bli omringad kan peka mot en känsla av att vara överväldigad av bekymmer 
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Vävaren i nätet — skapare och fångare
 
-Carl Jung betraktade spindeln som en symbol för "den stora modern" — en arketypisk figur som representerar det skapande och det förtärande i ett. Spindeln spinner livet, men den fångar också. För Jung handlade spindeldrömmar ofta om förhållandet till det feminina, till det omedvetna, och till de kreativa krafterna i psyket.
+Spindeln som vävare är ett motiv som dyker upp gång på gång, i kulturer som aldrig haft kontakt med varandra. I grekisk mytologi förvandlades väverskan Arachne till en spindel av gudinnan Athena. I Västafrika är Anansi en av de mest kända gestalterna i den muntliga berättartraditionen — en klok och listig historieberättare. Och i flera nordamerikanska ursprungstraditioner är Spider Woman en skapande kraft som väver själva världens struktur. Att drömma om en spindel som spinner sitt nät kan därför tolkas som en bild av att forma sitt eget liv, tråd för tråd.
 
-I många urfolkskulturer är spindeln en viktig gestalt. I nordamerikansk tradition är "Spider Woman" en skapargudom som väver världens struktur. I västafrikansk tradition är Anansi — spindelfiguren — en slug och vis berättare. Spindeln är alltså globalt förbunden med visdom, kreativitet och list.
+Samtidigt är spindlar en av de absolut vanligaste fobierna, och många spindeldrömmar handlar just om att sitta fast i ett nät — en relation som känns manipulativ, en klibbig situation som är svår att ta sig ur, eller en allmän känsla av att vara fångad. Vem eller vad som spinner nätet i drömmen kan vara en användbar fråga att ställa sig.
 
-I svensk och nordisk tradition har spindeln en mer ambivalent plats. I folktron sågs den ibland som en oläglig varelse knuten till mörka krafter, men den respekterades också för sitt arbete och tålamod. De intrikata spindelnäten i den nordiska naturen har fascinerat människor i generationer. Många äldre kommer att berätta att det bringar olycka att döda en spindel inomhus — ett tecken på den djupa respekten för detta lilla djur.
+I vissa psykologiska tolkningar kopplas spindeln också till en mäktig — och möjligen kontrollerande — modersfigur, eftersom hon både skapar och fångar på samma gång. Men spindeln kan också helt enkelt representera tålamod och hantverk: hon bygger långsamt och noggrant, och väntar. Ett nät som tar tid att väva, men som håller.
 
 ---
 

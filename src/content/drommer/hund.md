@@ -71,13 +71,13 @@ En beskyttende hund er et positivt tegn. Det kan tolkes som at du har gode støt
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Den eldste følgesvennen — lojalitet og instinkt
 
-Carl Jung betraktet dyr i drømmer som representasjoner av våre instinktive, dyriske sider — det han kalte «skyggen». Hunden, som et domestisert dyr, representerer ifølge Jung de instinktene vi har lært å leve med og integrere i hverdagen. En vennlig hund i drømmen kan derfor bety at du har et godt forhold til dine egne drifter og behov.
+Hunden er menneskets eldste dyrefølgesvenn, og det er kanskje ikke så overraskende at den dukker opp like ofte i drømmene våre som i livet. I drømmer representerer hunden ofte vennskap, lojalitet, beskyttelse eller et tillitsforhold — noen, eller noe i deg selv, som er der for deg.
 
-I norsk og nordisk tradisjon har hunden hatt en viktig plass. I norrøn mytologi vokter hunden Garm inngangen til Hels rike — den er både vokter og veiviser mellom verdener. Denne dualiteten lever videre i drømmesymbolikken: hunden er både beskytter og den som leder deg inn i ukjent terreng.
+I flere mytologier vokter hunder grensen mellom verdener: den greske Kerberos voktet inngangen til dødsriket, og den egyptiske Anubis — med sjakalhode — fulgte de døde på deres vei videre. Hunden er altså et gammelt symbol på vokteren ved terskelen, den som passer på overgangen fra ett sted til et annet.
 
-Moderne drømmeforskning viser at hundedrømmer er spesielt vanlige hos mennesker som har eller har hatt hunder. Men også de som aldri har eid en hund, drømmer om dem — noe som understreker at symbolet er dypere enn personlig erfaring. Hunden som drømmesymbol taler til noe universelt i oss: behovet for tilhørighet, lojalitet og instinktiv visdom.
+Det som ofte sier mest i en hundedrøm, er hvordan hunden opptrer. En vennlig, leken hund kan peke mot et støttende forhold, eller mot at du har et godt forhold til dine egne behov og instinkter. En aggressiv eller knurrende hund kan tolkes som en konflikt, et brudd på tillit, eller din egen «vakthund»-instinkt som slår inn. En bortkommen eller forlatt hund kan minne om et forhold — til andre eller til deg selv — som har blitt forsømt og trenger oppmerksomhet.
 
 ---
 

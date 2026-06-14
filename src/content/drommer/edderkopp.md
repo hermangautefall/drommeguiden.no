@@ -80,13 +80,13 @@ En fredfull, arbeidsom edderkopp peker mot kreativitet og skaperkraft. Drømmen 
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Veveren i nettet — skaper og fanger
 
-Carl Jung betraktet edderkoppen som et symbol for «den store moren» — en arketypisk figur som representerer det skapende og det fortærende i ett. Edderkoppen spinner livet, men den fanger også. For Jung handlet edderkoppdrømmer ofte om forholdet til det feminine, til det ubevisste, og til de kreative kreftene i psyken.
+Edderkoppen som vever er et motiv som dukker opp igjen og igjen, på tvers av kulturer som aldri har hatt kontakt med hverandre. I gresk mytologi ble veversken Arachne forvandlet til en edderkopp av gudinnen Athene. I Vest-Afrika er Anansi en av de mest kjente figurene i muntlig fortellertradisjon — en klok og lurvete historieforteller. Og i flere nordamerikanske urfolkstradisjoner er Spider Woman en skapende kraft som vever selve verdens struktur. Å drømme om en edderkopp som spinner sitt nett kan derfor tolkes som et bilde på å forme sitt eget liv, tråd for tråd.
 
-I mange urfolkskulturer er edderkoppen en viktig skikkelse. I nordamerikansk tradisjon er «Spider Woman» en skaperguddom som vever verdens struktur. I vestafrikansk tradisjon er Anansi — edderkoppfiguren — en lur og vis historieforteller. Edderkoppen er altså globalt forbundet med visdom, kreativitet og list.
+Samtidig er edderkopper blant de aller vanligste fobiene, og mange edderkoppdrømmer handler nettopp om det å sitte fast i et nett — en relasjon som kjennes manipulerende, en klissete situasjon det er vanskelig å komme seg ut av, eller en generell følelse av å være fanget. Hvem eller hva som spinner nettet i drømmen, kan være et nyttig spørsmål å stille seg.
 
-I norsk og nordisk tradisjon har edderkoppen en mer ambivalent plass. I folketroen ble den noen ganger sett som et uhyggelig vesen knyttet til mørke krefter, men den ble også respektert for sin arbeidsomhet og tålmodighet. De intrikate edderkoppnettene i den norske naturen har fascinert folk i generasjoner. Mange eldre nordmenn vil fortelle at det bringer ulykke å drepe en edderkopp innendørs — et tegn på den dype respekten for dette lille dyret.
+I noen psykologiske tolkninger blir edderkoppen også knyttet til en mektig — og kanskje kontrollerende — morsfigur, fordi den både skaper og fanger på samme tid. Men edderkoppen kan også ganske enkelt representere tålmodighet og håndverk: den bygger sakte og nøyaktig, og venter. Et nett som tar tid å spinne, men som holder.
 
 ---
 

@@ -72,13 +72,13 @@ En beskyddande hund är ett positivt tecken. Det kan tolkas som att du har goda 
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Den äldsta följeslagaren — lojalitet och instinkt
 
-Carl Jung betraktade djur i drömmar som representationer av våra instinktiva, djuriska sidor — det han kallade "skuggan". Hunden, som ett domesticerat djur, representerar enligt Jung de instinkter vi har lärt oss leva med och integrera i vardagen. En vänlig hund i drömmen kan därför betyda att du har ett gott förhållande till dina egna drifter och behov.
+Hunden är människans äldsta djuriska följeslagare, och det är därför inte konstigt att den dyker upp lika ofta i drömmarna våra som i livet. I drömmar representerar hunden ofta vänskap, lojalitet, beskydd eller ett förhållande byggt på tillit — någon, eller något inom dig själv, som finns där för dig.
 
-I nordisk tradition har hunden haft en viktig plats. I fornnordisk mytologi vaktar hunden Garm ingången till Hels rike — den är både vaktare och vägvisare mellan världarna. Denna dualitet lever vidare i drömsymboliken: hunden är både beskyddare och den som leder dig in i okänt terräng.
+I flera mytologier vaktar hundar gränsen mellan världar: den grekiska Cerberus vaktade ingången till dödsriket, och den egyptiska Anubis — med schakalhuvud — följde de döda på deras väg vidare. Hunden är alltså en gammal symbol för väktaren vid tröskeln, den som vakar över övergången från en plats till en annan.
 
-Modern drömforskning visar att hunddrömmar är särskilt vanliga hos människor som har eller har haft hundar. Men även de som aldrig har ägt en hund drömmer om dem — något som understryker att symbolen är djupare än personlig erfarenhet. Hunden som drömsymbol talar till något universellt i oss: behovet av tillhörighet, lojalitet och instinktiv visdom.
+Det som ofta säger mest i en hunddröm är hur hunden beter sig. En vänlig, lekfull hund kan peka mot ett stödjande förhållande, eller mot att du har en god relation till dina egna behov och instinkter. En aggressiv eller morrande hund kan tolkas som en konflikt, ett brutet förtroende, eller din egen "vakthunds"-instinkt som slår till. En bortsprungen eller övergiven hund kan påminna om ett förhållande — till andra eller till dig själv — som blivit försummat och behöver uppmärksamhet.
 
 ---
 

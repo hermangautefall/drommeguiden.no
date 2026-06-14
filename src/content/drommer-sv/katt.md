@@ -74,13 +74,13 @@ Denna variant kan handla om självreflektion och om att se dig själv från ett 
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Det oberoende och det mystiska
 
-Carl Jung knöt katten till den feminina arketypen — anima — som representerar det omedvetna, det mottagliga och det kreativa i psyket. För Jung kunde en katt i drömmen peka mot integrering av dessa kvaliteter, oavsett drömmarens kön. Att drömma om en katt var en inbjudan att låta de intuitiva och sinnliga sidorna få mer plats.
+Katten har levt nära människor i tusentals år, men har aldrig riktigt låtit sig tämjas helt — och det är nog en del av förklaringen till att den dyker upp i drömmar som en symbol för oberoende, intuition och en viss outgrundlighet. Hon kommer och går på sina egna villkor.
 
-I egyptisk kultur dyrkades katten som helig, knuten till gudinnan Bastet, som representerade hemmet, fruktbarhet och beskydd. I nordisk tradition drog gudinnan Freja sin vagn med två stora katter — en bild av styrka, kärlek och oberoende i kombination.
+I det forntida Egypten dyrkades katten som helig och knöts till gudinnan Bastet, som representerade hem, fruktbarhet och beskydd — ett djur värt stor respekt och omsorg. På andra håll i världen är bilden mer splittrad: svarta katter förknippas i vissa traditioner med tur, i andra med otur, och under medeltiden i Europa kopplades katter ofta till det övernaturliga och till häxornas följeslagare.
 
-I nordisk folktro har katten haft en mer ambivalent plats. Den sågs ibland som en hjälpare och ibland som ett kusligt väsen knutet till mörka krafter. Denna dubbelhet lever vidare i drömsymboliken: katten är aldrig bara god eller bara farlig — den rymmer båda delar. Drömmar om [spindel](/sv/drommar/spindel/) delar något av denna tvetydighet, där det skrämmande och det visdomsfulla lever sida vid sida.
+Det är ofta kattens beteende i drömmen som ger den bästa fingervisningen. En lugn, kelig katt kan tyda på att du har god kontakt med din egen oberoende och intuitiva sida, eller på ett avslappnat förhållande till någon. En klösande, irriterad eller frånvarande katt kan istället peka mot en person som känns reserverad, oförutsägbar eller svår att läsa — eller mot att du själv drar dig undan något.
 
 ---
 

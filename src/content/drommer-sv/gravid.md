@@ -61,11 +61,13 @@ Något är redo att förverkligas — en idé, ett projekt eller en förändring
 **Om du var rädd att förlora barnet:**
 Ångest för att misslyckas med något du investerat mycket i. En sårbarhet kopplad till något viktigt — en känsla som också kan visa sig som drömmar om att [förlora något](/sv/drommar/forlora-nagot/).
 
-## Psykologiska och kulturella perspektiv
+## Något som håller på att bli till
 
-Graviditetsdrömmar är brett studerade inom drömforskning och beskrivs konsekvent som några av de mest symboliskt rika drömmar vi kan ha. De förekommer över kön, ålder och kultur — något som understryker att de handlar om ett universellt mänskligt fenomen: skapandet av något nytt.
+Graviditetsdrömmar är inte förbehållna dem som väntar eller önskar barn. Lika ofta handlar de om något annat som är på väg — ett projekt, en idé, en ny livsfas eller något kreativt som långsamt tar form och håller på att "födas". Drömmen lånar en bild från kroppen för att berätta om en process som ännu inte syns för omvärlden.
 
-I många kulturer och traditioner ses graviditet i drömmen som ett gott tecken — ett varsel om välstånd, tillväxt och goda ting på väg. I nordisk folkloretradition — något du kan läsa mer om i vår guide om [vad drömmar är](/sv/guider/vad-ar-drommar/) — tolkades sådana drömmar ofta som tecken på fruktbarhet i vidaste mening — inte bara av människor, utan av planer och livsprojekt.
+Den grekiske drömtolkaren Artemidoros skrev redan på 100-talet att sådana drömmar måste tolkas utifrån den som drömde — samma bild kunde betyda helt olika saker för olika människor, beroende på livssituation. Det tänket är fortfarande relevant: en graviditetsdröm hos någon som väntar barn kan handla om något helt annat än samma dröm hos någon som just har börjat ett nytt jobb.
+
+Modern sömnforskning visar dessutom att kvinnor som faktiskt är gravida ofta rapporterar mer levande och emotionella drömmar — något som kan kopplas till hormonella förändringar och en annorlunda sömnrytm. För andra handlar drömmen mer om förväntan, om att bära på något nytt och värdefullt. I många folktraditioner har graviditet i drömmen dessutom tolkats som ett gott varsel — ett tecken på att något lyckosamt är på väg.
 
 ## Drömguiden rekommenderar
 
