@@ -68,13 +68,13 @@ Overveldende nåde, beskyttelse og støtte fra noe større enn deg selv.
 **Hvis du selv var engel:**
 En periode der du er i en vokterrolle — passer på noen, formidler noe, bærer et ansvar for andre.
 
-## Psykologiske og kulturelle perspektiver
+## Budbringere, beskyttelse og trøst
 
-Engler finnes i nærmest alle menneskelige kulturer og tradisjoner — fra de abrahamittiske religionenes budbringere til zoroastrismens ameshaventaer, til norrøne tradisjonens valkyrjer som bærer de falne. De er universale på en måte som overskrider enhver enkelt religion, og som peker mot noe dypere i det menneskelige.
+Å drømme om engler handler ofte aller mest om beskyttelse, trøst, oppmuntring og veiledning — en følelse av å bli passet på, særlig i en periode som er vanskelig. Mange opplever slike drømmer som et lite glimt av håp, akkurat når det trengs mest.
 
-Jung kalte engelen en manifestasjon av det han beskrev som det "numinøse" — det overveldende, ukontrollerbare, hellige elementet i menneskets psykologiske erfaring. Engeldrømmene er for Jung ikke religiøse illusjoner — de er ekte psykologiske hendelser som kommuniserer noe fra de dypeste lagene av psyken.
+Ordet "engel" kommer av det greske angelos, som rett og slett betyr "budbringer". I drømmer kan engelen derfor representere et budskap eller en innsikt som er på vei til deg — verdt å legge merke til hva engelen sa, gjorde, eller hvilken følelse den etterlot. Engelen kan også forstås som din egen samvittighet eller bedre natur — den delen av deg som vet hva som er rett, og som ønsker å beskytte og veilede deg gjennom det som er krevende.
 
-I Norge og Norden er englene ikke like sentrale i folkelig fromhetsliv som i mange andre kulturer — men de finnes der, i julesal, i gravstein-inskripsjoner, i de stille forestillingene om hva som skjer etter døden. Å drømme om engler i norsk kontekst berører noe kulturelt dypt, selv for dem som ikke er aktivt troende. Les mer om [hva drømmer er](/guider/hva-er-drommer/) og hvordan underbevisstheten bruker slike bilder.
+Engler finnes i jødedom, kristendom og islam som mellomledd mellom det menneskelige og det guddommelige, og lignende skikkelser går igjen i mange andre tradisjoner. Det gjør englebildet til noe som kjennes igjen av svært mange — også de som ikke er troende. Slike drømmer er spesielt vanlige i forbindelse med sorg, og oppleves da ofte som en stille trøst om at noe — eller noen — er i fred. Se også drømmer om [Gud](/drommer/gud/) eller [himmelen](/drommer/himmel/).
 
 ## Drømmeguiden anbefaler
 

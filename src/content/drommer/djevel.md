@@ -58,13 +58,13 @@ For dem med religiøs bakgrunn der djevelen er en konkret teologisk realitet, ka
 
 **Hvis djevelen hjalp deg på en underlig måte:** Et Jungisk paradoks — Skyggens energi kan, integrert, bli til kraft og kreativitet.
 
-## Psykologiske og kulturelle perspektiver
+## Skyggen, fristelsen og det vi fornekter
 
-Djevelens form i vestlig kultur er sammensatt av mange lag: det jødiske ha-Satan (anklageren), det greske Pan (halvguden av seksualitet og natur), Lucifers fall, middelalderens hornte frister. Han er ikke én ting — han er en samling av alt det som er ekskludert fra det rene og hellige.
+Djevelen i en drøm kan tolkes som de fornektede, fortrengte eller fryktede delene av deg selv — sinne, begjær, skyld, eller andre følelser du har stemplet som "ille" i deg og derfor skyver fra deg. Å møte djevelen i drømme kan da være å bli konfrontert med noe i deg selv som lenge har vært holdt på avstand, og som ber om å bli sett.
 
-I norrøn tradisjon er Loke det nærmeste vi kommer en djevelarketyp: ikke ond av natur, men kaosens prinsipp — det som forstyrrer, utfordrer og bryter grenser. Loke er det nødvendige uromomentets i kosmos, det som forhindrer stagnasjon. Drømmens djevel bærer noe av Lokes ambivalens: kaos og forstyrrelse er ikke utelukkende destruktive.
+Djevelen kan også representere fristelse — en indre kamp mellom lyst og samvittighet, noe du føler du "ikke burde" ønske deg. Drømmen kan speile et reelt dilemma i livet ditt, der noe trekker deg i en retning du vet ikke er din. Andre ganger er djevelen figuren vi projiserer frykt, skyld eller ondskap på utenfra — en ytre "djevel" kan være en person eller en kraft vi klandrer, mens drømmen inviterer til å ta tilbake ansvaret for det som egentlig er vårt eget.
 
-Goethe ga Mefistofeles en av litteraturens fineste selvdefinisjoner: "den kraft som alltid vil det onde, men alltid skaper det gode." Det er Skyggen sett i fugleperspektiv.
+Bildet av djevelen har endret seg mye gjennom historien — fra "Satan" som på hebraisk betyr "anklageren", via middelalderens skremmende fremstillinger, til Goethes Mefistofeles som beskriver seg selv som "den kraft som alltid vil det onde, men alltid skaper det gode". Det er verdt å minne seg selv på: drømmens djevel er sjelden bokstavelig eller overnaturlig. Oftest er han et bilde på noe som allerede finnes inni oss, og som kan møtes med nysgjerrighet i stedet for frykt. Se også drømmer om [helvete](/drommer/helvete/).
 
 ## Drømmeguiden anbefaler
 

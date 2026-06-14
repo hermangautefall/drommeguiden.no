@@ -105,4 +105,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] laks (lax) — mot strømmen + hjemkomst/syklus + Kunnskapens laks (keltisk) + overflod
 - [x] gullfisk (guldfisk) — liten verden/innesperring + kinesisk flaks + omsorg + ønskefisk
 
-## Status: 65/214 NB ferdig (+ 65 SV).
+## Batch 14 — religiøse/kosmiske
+- [x] gud (gud) — mening/det større + autoritet/samvittighet + trøst/numinøse + personlig
+- [x] engler (anglar) — veiledning/trøst + budbringer (angelos) + høyere selv + på tvers av tradisjoner
+- [x] djevel (djavul) — skyggen/fornektet + fristelse + projeksjon + Satan/Mefistofeles
+- [x] himmel (himmel) — frihet/vidde (himmelhvelv) + transcendens/fred + det evige + himmelguder
+- [x] helvete (helvete) — indre pine/fanget + skyld/selvdom + nedstigning/retur (Dante/Orfeus)
+
+## Status: 70/214 NB ferdig (+ 70 SV).

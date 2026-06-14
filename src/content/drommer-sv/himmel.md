@@ -67,13 +67,13 @@ En tro eller förväntning på det transcendenta som är färgad av rädsla snar
 **Om du flög mot himlen:**
 Ambition, frigörelse och en rörelse mot något högre — en av de mest dynamiska och energigivande drömmarna. Se även [flyga](/sv/drommar/flyga/) som drömsymbol.
 
-## Psykologiska och kulturella perspektiv
+## Frihet, vidd och det upphöjda
 
-Carl Jung var fascinerad av himlens symbolik — han såg det himmelska inte som en konkret plats, utan som en psykologisk realitet: representationen av det medvetna sinnets högsta aspiration. Himmelresan i drömmarna är för Jung en rörelse mot individuation — mot den fullständiga realiseringen av Självet.
+"Himmel" kan i drömmar betyda två saker — himlavalvet ovanför oss, och himlen som en plats efter detta livet — och ofta glider de in i varandra. Den öppna himlen kan tolkas som frihet, möjligheter, en önskan om att se livet ur ett högre och klarare perspektiv. Stämningen i drömmen följer ofta himlens tillstånd: en klar himmel kan spegla hopp och klarhet, medan en mörk eller stormig himmel kan spegla oro eller något som tynger dig.
 
-I nordisk och fornnordisk tradition är himlen Asgård — gudarnas boning, inte de dödas vilostad. Valhall är för de stupade krigarna, men Asgård är där gudomlig kraft och visdom bor. Att drömma om himlen i nordisk kulturell kontext berör detta arv: en plats av kraft och ordning över det kaotiska jordiska. Motsatsen till himlen — [helvetet](/sv/drommar/helvete/) — representerar det motsatta i drömsymboliken.
+Himlen som en plats efter detta livet handlar ofta om frid, längtan efter harmoni och det andliga. Sådana drömmar är särskilt vanliga efter sorg och förlust, och kan vara en tröst — en känsla av att något är i sin ordning för den som gått bort, eller att ett idealt tillstånd är inom räckhåll ("att vara i himlen" som uttryck för fullständig lycka).
 
-För den sekulära majoriteten av svenskar är himlen ett laddat begrepp utan enkel definition — något man inte tror på dogmatiskt, men som man ändå drömmer om. Det är just denna ambivalens som gör himmeldrömmarna intressanta: de berättar något om mänsklig längtan som är större än vilken religiös doktrin som helst.
+Att se uppåt, mot himlen, kan också tolkas som att söka mening och det stora sammanhanget — en koppling till något evigt eller bestående, bortom det vardagliga. Över kulturgränser återkommer himlen som det gudomligas rike, och den universella blicken uppåt är kanske en av de mest delade bilder människor har för längtan och hopp. Se även drömmar om [stjärnorna](/sv/drommar/stjarnor/), [Gud](/sv/drommar/gud/) eller [änglar](/sv/drommar/anglar/).
 
 ## Drömguiden rekommenderar
 

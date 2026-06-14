@@ -59,13 +59,13 @@ För dem med religiös bakgrund där djävulen är en konkret teologisk realitet
 
 **Om djävulen hjälpte dig på ett märkligt sätt:** En jungiansk paradox — Skuggans energi kan, integrerad, bli till kraft och kreativitet.
 
-## Psykologiska och kulturella perspektiv
+## Skuggan, frestelsen och det vi förnekar
 
-Djävulens form i västerländsk kultur är sammansatt av många lager: det judiska ha-Satan (åklagaren), den grekiske Pan (halvguden av sexualitet och natur), Lucifers fall, medeltidens behornade frestare. Han är inte en sak — han är en samling av allt som är exkluderat från det rena och heliga.
+Djävulen i en dröm kan tolkas som de förträngda eller fruktade delar av dig själv — ilska, begär, skuld, eller andra känslor du har stämplat som "fula" hos dig och därför skjuter ifrån dig. Att möta djävulen i drömmen kan då vara att konfronteras med något i dig själv som länge hållits på avstånd, och som ber om att bli sett.
 
-I fornnordisk tradition är Loke det närmaste vi kommer en djävulsarketyp: inte ond till sin natur, utan kaosets princip — det som stör, utmanar och bryter gränser. Loke är det nödvändiga oroselementet i kosmos, det som förhindrar stagnation. Drömmens djävul bär något av Lokes ambivalens: kaos och störning är inte uteslutande destruktiva.
+Djävulen kan också representera frestelse — en inre kamp mellan lust och samvete, något du känner att du "inte borde" önska dig. Drömmen kan spegla ett verkligt dilemma i ditt liv, där något drar dig i en riktning du vet inte är din. Andra gånger är djävulen den gestalt vi projicerar rädsla, skuld eller ondska på utåt — en yttre "djävul" kan vara en person eller en kraft vi lägger skulden på, medan drömmen bjuder in till att ta tillbaka ansvaret för det som egentligen är vårt eget.
 
-Goethe gav Mefistofeles en av litteraturens finaste självdefinitioner: "den kraft som alltid vill det onda, men alltid skapar det goda." Det är Skuggan sedd ur fågelperspektiv.
+Bilden av djävulen har förändrats mycket genom historien — från "Satan" som på hebreiska betyder "åklagaren", via medeltidens skrämmande skildringar, till Goethes Mefistofeles som beskriver sig själv som "den kraft som alltid vill det onda, men alltid skapar det goda". Det är värt att påminna sig: drömmens djävul är sällan bokstavlig eller övernaturlig. Oftast är han en bild av något som redan finns inom oss, och som kan mötas med nyfikenhet snarare än rädsla. Se även drömmar om [helvetet](/sv/drommar/helvete/).
 
 ## Drömguiden rekommenderar
 

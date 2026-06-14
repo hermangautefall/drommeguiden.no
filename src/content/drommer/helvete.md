@@ -67,15 +67,15 @@ En tomhet og isolasjon snarere enn aktiv lidelse — ensomhet og depresjon snare
 **Hvis drømmen gjentar seg:**
 En vedvarende indre tilstand som krever oppmerksomhet. En samtale med noen du stoler på kan hjelpe.
 
-## Psykologiske og kulturelle perspektiver
+## Indre pine — og veien ut
 
-Jung så helvete — som himmelen — ikke som et konkret sted, men som en psykologisk realitet: representasjonen av det destruktive potensialet i det ubevisste. Der [himmelen](/drommer/himmel/) er psykens høyeste aspirasjon, er helvete dens dypeste frykt — det som skjer når de destruktive kreftene tar over.
+Helvete i en drøm kan tolkes som en tilstand av lidelse, skyld, angst, eller en følelse av å være fanget i en vond situasjon — det vi i dagligtale kaller "et levende helvete". Drømmen setter ord på en indre pine som kan kjennes umulig å komme unna, og kan speile en krise eller en periode som har vart for lenge.
 
-I norrøn tradisjon er Hel ikke et straffens sted — det er ganske enkelt der alle som ikke dør i kamp ender opp. Hel (navn og sted) er grå og stille, ikke brennende. Denne nordiske versjonen av underverden er merkelig nok mer nøytral enn den kristne — en pause, ikke en straff.
+Bildet kan også handle om skyld og hard selvdom — en frykt for straff, eller en samvittighet som har blitt straffende i stedet for veiledende. Drømmens helvete er da ikke et sted utenfor deg, men et speil av hvordan du dømmer deg selv.
 
-Den kristne helvetestradisjonen, som mange nordmenn har vokst opp med som kulturarv om ikke som aktiv tro, kan gi helvetesdrømmene en ekstra tyngde. Det er viktig å huske at drømmens helvete er skapt av ditt eget sinn — ikke av en ekstern dommer.
+Det gode budskapet er at en helvetesdrøm som regel handler om en vanskelig følelsestilstand — ikke et bokstavelig dødsrike. Mange myter forteller om en reise ned i underverdenen og opp igjen — som Orfeus, eller Dantes ferd gjennom Inferno — der nedstigningen er starten på en forvandling, ikke et endepunkt. Å sette ord på det du bærer på kan være første steg ut: ofte er den eneste veien ut, gjennom. Se også drømmer om [djevelen](/drommer/djevel/), [fengsel](/drommer/fengsel/) eller [et mørkt rom](/drommer/morkt-rom/).
 
-*Opplever du drømmer som ledsages av vedvarende følelser av fortvilelse, skyld eller hjelpeløshet i hverdagen, kan det være nyttig å snakke med noen — enten en venn, en prest, eller en psykolog. Les mer om [mareritt](/guider/mareritt/) og hvordan du håndterer dem.*
+*Opplever du drømmer som ledsages av vedvarende følelser av fortvilelse, skyld eller hjelpeløshet i hverdagen, kan det være nyttig å snakke med noen — enten en venn, en fagperson, eller en du har tillit til. Les mer om [mareritt](/guider/mareritt/) og hvordan du håndterer dem.*
 
 ## Drømmeguiden anbefaler
 

@@ -68,15 +68,15 @@ En tomhet och isolation snarare än aktivt lidande — ensamhet och depression s
 **Om drömmen upprepar sig:**
 Ett bestående inre tillstånd som kräver uppmärksamhet. Ett samtal med någon du litar på kan hjälpa.
 
-## Psykologiska och kulturella perspektiv
+## Inre vånda — och vägen ut
 
-Jung såg helvetet — som himlen — inte som en konkret plats, utan som en psykologisk realitet: representationen av den destruktiva potentialen i det omedvetna. Där [himlen](/sv/drommar/himmel/) är psykets högsta aspiration, är helvetet dess djupaste rädsla — det som händer när de destruktiva krafterna tar över.
+Helvetet i en dröm kan tolkas som ett tillstånd av lidande, skuld, ångest, eller en känsla av att vara fångad i en svår situation — det vi i vardagligt tal kallar "ett levande helvete". Drömmen sätter ord på en inre vånda som kan kännas omöjlig att komma undan, och kan spegla en kris eller en period som pågått för länge.
 
-I fornnordisk tradition är Hel ingen straffplats — det är helt enkelt där alla som inte dör i strid hamnar. Hel (namn och plats) är grå och stilla, inte brinnande. Denna nordiska version av underjorden är märkligt nog mer neutral än den kristna — en paus, inte ett straff.
+Bilden kan också handla om skuld och hård självdom — en rädsla för straff, eller ett samvete som blivit straffande istället för vägledande. Drömmens helvete är då inte en plats utanför dig, utan en spegel av hur du dömer dig själv.
 
-Den kristna helvetestraditionen, som många svenskar har vuxit upp med som kulturarv om inte som aktiv tro, kan ge helvetesdrömmarna en extra tyngd. Det är viktigt att komma ihåg att drömmens helvete är skapat av ditt eget sinne — inte av en extern domare.
+Den goda nyheten är att en helvetesdröm oftast handlar om ett svårt känslotillstånd — inte ett bokstavligt dödsrike. Många myter berättar om en resa ner i underjorden och upp igen — som Orfeus, eller Dantes färd genom Inferno — där nedstigningen är början på en förvandling, inte ett slut. Att sätta ord på det du bär på kan vara första steget ut: ofta är den enda vägen ut, igenom. Se även drömmar om [djävulen](/sv/drommar/djavul/), [fängelse](/sv/drommar/fangelse/) eller [ett mörkt rum](/sv/drommar/morkt-rum/).
 
-*Upplever du drömmar som åtföljs av bestående känslor av förtvivlan, skuld eller hjälplöshet i vardagen, kan det vara nyttigt att prata med någon — antingen en vän, en präst, eller en psykolog. Läs mer om [mardrömmar](/sv/guider/mardrommar/) och hur du hanterar dem.*
+*Upplever du drömmar som åtföljs av bestående känslor av förtvivlan, skuld eller hjälplöshet i vardagen, kan det vara nyttigt att prata med någon — antingen en vän, en fackperson, eller någon du litar på. Läs mer om [mardrömmar](/sv/guider/mardrommar/) och hur du hanterar dem.*
 
 ## Drömguiden rekommenderar
 

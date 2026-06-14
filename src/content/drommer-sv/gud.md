@@ -60,13 +60,13 @@ För troende är drömmar om Gud en erkänd och värdefull del av den spirituell
 
 **Om Gud var främmande eller skrämmande:** Mötet med något radikalt utanför ditt kontrollbehov — det överlägsna som inte kan begripas.
 
-## Psykologiska och kulturella perspektiv
+## Mening, samvete och det större
 
-Gudsdrömmarna har en av de längsta dokumenterade historierna av alla drömmar. Från Josef i Egypten till Muhammed i grottan, från Konstantins korsvision till Teresa av Avilas mystiska upplevelser — mötet med Gud i drömmen är ett av religionshistoriens mest centrala motiv.
+Att drömma om Gud kan ofta tolkas som ett sökande efter mening, vägledning eller en koppling till något som är större än du själv. Drömmen kan dyka upp i perioder där du letar efter en grund att stå på, eller där du möter dina egna högsta värderingar — det du innerst inne tror på och vill leva efter.
 
-I fornnordisk tradition var drömmens gudar — särskilt Oden — direkt aktiva i människornas öden. Oden vandrade i förklädd gestalt och gav råd, gåtor och kunskap till dem han besökte. Att drömma om en gammal vandrare var att kanske ha mött guden själv.
+Gud kan i drömmar också uppträda som den yttersta auktoritets- eller föräldragestalten. Då handlar drömmen ofta om teman som dom, skuld, förlåtelse och acceptans — om att känna sig sedd och bedömd, eller om en längtan efter att bli erkänd för den du är. Var mötet strängt eller dömande kan det spegla en inre röst som varit för hård mot dig själv.
 
-Jung ansåg att Gudsbilden är en av psykets djupaste och mest uråldriga arketyper — inget som är skapat av kulturen, utan något som kulturen försöker gripa genom religion. Drömmens Gud är kontakten med denna arketypiska bild i dig själv.
+Sådana drömmar dyker ofta upp i kriser, och de ger då gärna tröst, vördnad eller en känsla av att inte vara ensam — den typ av upplevelse som kallas "numinös" eller helig. Hur det gudomliga framträder i drömmen formas ofta av din egen uppväxt och bakgrund. Drömmen använder en bekant gestalt för att tala om mening och tillhörighet, och det gäller lika mycket den som inte är religiös som den som är det. Se även drömmar om [änglar](/sv/drommar/anglar/) eller [himlen](/sv/drommar/himmel/).
 
 ## Drömguiden rekommenderar
 

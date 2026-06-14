@@ -66,13 +66,13 @@ En tro eller forventning til det transcendente som er farget av frykt snarere en
 **Hvis du fløy mot himmelen:**
 Ambisjon, frigjøring og en bevegelse mot noe høyere — en av de mest dynamiske og energigivende drømmene. Se også [flyging](/drommer/flyging/) som drømmesymbol.
 
-## Psykologiske og kulturelle perspektiver
+## Frihet, vidde og det opphøyde
 
-Carl Jung var fascinert av himmelens symbolikk — han så det himmelske ikke som et konkret sted, men som en psykologisk realitet: representasjonen av det bevisste sinnets høyeste aspirasjon. Himmelreisen i drømmene er for Jung en bevegelse mot individuasjon — mot den fullstendige realiseringen av Selvet.
+"Himmel" kan i drømmer bety to ting — himmelhvelvet over oss, og himmelen som et sted etter dette livet — og ofte glir de litt over i hverandre. Den åpne himmelen kan tolkes som frihet, muligheter, et ønske om å se livet fra et høyere og klarere perspektiv. Stemningen i drømmen følger ofte himmelens tilstand: en klar himmel kan speile håp og klarhet, mens en mørk eller stormfull himmel kan speile uro eller noe som tynger deg.
 
-I nordisk og norrøn tradisjon er himmelen Åsgard — gudenes bolig, ikke de dødes hvilested. Valhall er for de falne krigerne, men Åsgard er der guddommelig kraft og visdom bor. Å drømme om himmelen i norsk kulturell kontekst berører denne arven: et sted av kraft og orden over det kaotiske jordlige. Motsetningen til himmelen — [helvete](/drommer/helvete/) — representerer det motsatte i drømmesymbolikken.
+Himmelen som et sted etter dette livet handler ofte om fred, lengsel etter harmoni og det åndelige. Slike drømmer er spesielt vanlige etter sorg og tap, og kan være en trøst — en følelse av at noe er i orden for den som er borte, eller at en ideell tilstand er innen rekkevidde ("å være i himmelen" som uttrykk for fullstendig lykke).
 
-For det sekulære flertall av nordmenn er himmelen et ladet begrep uten enkel definisjon — noe man ikke tror på dogmatisk, men som man likevel drømmer om. Det er nettopp denne ambivalensen som gjør himmeldrømmene interessante: de forteller noe om menneskelig lengsel som er større enn enhver religiøs doktrine.
+Å se oppover, mot himmelen, kan også tolkes som å søke mening og det store bildet — en forbindelse til noe som er evig eller varig, utover det dagligdagse. På tvers av kulturer går himmelen igjen som det guddommeliges rike, og det universelle blikket oppover er kanskje et av de mest delte bildene mennesker har for lengsel og håp. Se også drømmer om [stjernene](/drommer/stjerner/), [Gud](/drommer/gud/) eller [engler](/drommer/engler/).
 
 ## Drømmeguiden anbefaler
 

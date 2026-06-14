@@ -69,13 +69,13 @@ Ett av de mest tröstande budskap du kan få i drömmar. Många beskriver detta 
 **Om du själv var ängel:**
 En period där du är i en beskyddarroll — passar på någon, förmedlar något, bär ett ansvar för andra.
 
-## Psykologiska och kulturella perspektiv
+## Budbärare, beskydd och tröst
 
-Änglar finns i nästan alla mänskliga kulturer och traditioner — från de abrahamitiska religionernas budbärare till zoroastrismens ameshaspentor, till fornnordisk traditions valkyrjor som bär de fallna. De är universella på ett sätt som överskrider varje enskild religion, och som pekar mot något djupare i det mänskliga.
+Att drömma om änglar handlar ofta allra mest om beskydd, tröst, uppmuntran och vägledning — en känsla av att bli omhändertagen, särskilt under en period som är svår. Många upplever sådana drömmar som ett litet glimt av hopp, precis när det behövs som mest.
 
-Jung kallade ängeln en manifestation av det han beskrev som det "numinösa" — det överväldigande, okontrollerbara, heliga elementet i människans psykologiska erfarenhet. Ängeldrömmarna är för Jung inte religiösa illusioner — de är äkta psykologiska händelser som kommunicerar något från de djupaste lagren av psyket.
+Ordet "ängel" kommer från grekiska angelos, som helt enkelt betyder "budbärare". I drömmar kan ängeln därför representera ett budskap eller en insikt som är på väg till dig — värt att lägga märke till vad ängeln sade, gjorde, eller vilken känsla den lämnade efter sig. Ängeln kan också förstås som ditt eget samvete eller din bättre natur — den del av dig som vet vad som är rätt, och som vill beskydda och vägleda dig genom det som är svårt.
 
-I Sverige och Norden är änglarna inte lika centrala i folkligt fromhetsliv som i många andra kulturer — men de finns där, i julsalen, i gravstensinskriptioner, i de tysta föreställningarna om vad som händer efter döden. Att drömma om änglar i nordisk kontext berör något kulturellt djupt, även för dem som inte är aktivt troende. Läs mer om [vad drömmar är](/sv/guider/vad-ar-drommar/) och hur det omedvetna använder sådana bilder.
+Änglar finns inom judendom, kristendom och islam som mellanled mellan det mänskliga och det gudomliga, och liknande gestalter återfinns i många andra traditioner. Det gör ängelbilden till något som känns igen av väldigt många — även de som inte är troende. Sådana drömmar är särskilt vanliga i samband med sorg, och upplevs då ofta som en stilla tröst om att något — eller någon — är i frid. Se även drömmar om [Gud](/sv/drommar/gud/) eller [himlen](/sv/drommar/himmel/).
 
 ## Drömguiden rekommenderar
 
