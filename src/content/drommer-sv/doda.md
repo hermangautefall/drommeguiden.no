@@ -70,13 +70,13 @@ En inre konflikt om något du vill göra men inte vet om du borde — eller en h
 **Om du inte kände något:**
 Kan spegla ett emotionellt avstånd till något eller någon i ditt liv, eller en domning som kan förtjäna uppmärksamhet.
 
-## Psykologiska och kulturella perspektiv
+## Att göra slut på något — symboliskt våld
 
-Drömforskare är överens om att aggression i drömmar — inklusive drömmar om att döda — är normalt och mycket vanligt. En studie av drömmars innehåll visade att aggressiva handlingar förekommer i ungefär 50 % av alla drömmar som minns, och att drömmaren själv är utövaren i många av dem. Det är alltså inget tecken på psykopatologi — det är en del av det normala drömspektrumet.
+Det är viktigt att säga rakt ut: att drömma om att döda speglar nästan aldrig en verklig önskan att skada någon. Det är en mycket vanlig dröm, och sinnet använder här en extrem och dramatisk bild helt enkelt därför att den är effektiv — inte för att den ska tolkas bokstavligt.
 
-Jung var angelägen om att de mest skrämmande drömmarna gärna är de viktigaste. Att möta aggression och mörker i drömmens trygga rum är ett sätt att känna på och integrera dessa krafter. För mer om detta, se vår guide om [vad drömmar är](/sv/guider/vad-ar-drommar/) — snarare än att pressa ner dem och låta dem byggas upp okontrollerat.
+Den vanligaste tolkningen handlar om att "göra slut på" något i överförd bemärkelse: att avsluta en vana, lägga en roll åt sidan, göra slut på en relation, eller låta en gammal version av dig själv få dö för att något nytt ska få plats. Offret i drömmen representerar ofta just det du, djupast sett, vill bli av med — inte en verklig person.
 
-Det är värt att notera att kulturell och religiös kontext starkt påverkar hur skambelagt denna drömtyp känns. I kulturer som skiljer tydligare mellan tanke och handling bär samma dröm långt mindre börda.
+För andra kan drömmen vara ett tryggt utlopp för ilska eller frustration som inte får plats i vardagen, eller den kan handla om att återta kontroll och makt i en situation där du känner dig maktlös. Den skuldkänsla som ofta följer en sådan dröm är nästan alltid ett tecken på att du är en omtänksam person — inte ett bevis på något annat.
 
 ## Drömguiden rekommenderar
 

@@ -22,7 +22,7 @@ author: 'default'
 
 Krigsdrömmar hör till de mest intensiva och överväldigande vi kan ha — fyllda av kaos, fara, förlust och dramatik som sätter djupa spår efter uppvaknandet. För dem som har upplevt krig eller konflikt på nära håll kan dessa drömmar vara en del av traumabearbetning och bör mötas med varsamhet och stöd. För de flesta andra handlar krigsdrömmar om något mer symboliskt — men inte mindre viktigt.
 
-Krig är en av människans starkaste bilder av konflikt i sin mest extrema form, och det omedvetna använder den för att kommunicera något det inte hittar mildare ord för. Många upplever också att krigsdrömmar glider över i drömmar om att bli [förföljd](/sv/drommar/forfulgt/) eller att behöva fly.
+Krig är en av människans starkaste bilder av konflikt i sin mest extrema form, och det omedvetna använder den för att kommunicera något det inte hittar mildare ord för. Många upplever också att krigsdrömmar glider över i drömmar om att bli [förföljd](/sv/drommar/forfoljd/) eller att behöva fly.
 
 ## De vanligaste tolkningarna
 
@@ -68,15 +68,13 @@ En lösning är möjlig. Fred och försoning finns inom räckhåll — antingen 
 **Om du inte visste varför det var krig:**
 En diffus konflikt utan tydligt definierad orsak — kanske en underliggande spänning du inte har satt ord på.
 
-## Psykologiska och kulturella perspektiv
+## Den inre och den yttre konflikten
 
-Carl Jung såg kriget som en av de starkaste kollektiva arketypiska symbolerna — en manifestation av det han kallade den kollektiva Skuggan: de destruktiva krafter som finns i alla människor och i alla samhällen, och som med jämna mellanrum bryter ut i kollektiv form.
+Många krigsdrömmar handlar mest om det som pågår inom dig, inte om världen utanför. Kriget kan vara en bild av ett inre tillstånd — två önskningar, värderingar eller sidor av dig som drar åt olika håll, som plikt mot lust, eller den du är mot den du vill bli. När en sådan spänning har byggts upp under lång tid kan sinnet ta till den starkaste bild det har: ett fullskaligt krig.
 
-För dem som har traumatiska krigsupplevelser i sin bakgrund — antingen personligt eller i familjehistorien — kan krigsdrömmar vara en del av generationstrauma som bearbetas genom psyket. I Sverige, där andra världskrigets spår fortfarande lever kvar i det kollektiva minnet, kan krigsdrömmar ha ett kulturellt och historiskt lager som går djupare än det rent personliga.
+Andra gånger speglar drömmen en miljö som helt enkelt känns som en slagfält — en spänd arbetsplats, en jobbig familjekonflikt, eller en relation där det känns som man ständigt måste försvara sig. Drömmen sätter ord på en belastning du kanske inte riktigt insett storleken på.
 
-Modern traumaforskning visar att krigsdrömmar hos PTSD-drabbade är en del av hjärnans försök att bearbeta överväldigande upplevelser — och att dessa drömmar gradvis förändras och avtar med rätt behandling och stöd.
-
-*Upplever du att krigsdrömmarna är mycket intensiva och täta, och att de hänger samman med upplevelser av krig eller våld du har erfarit personligen, kan det vara till hjälp att prata med en psykolog eller traumaterapeut.*
+Det är också värt att nämna, varsamt, att krigsdrömmar kan bli vanligare i perioder då mycket oro i världen fyller nyhetsflödet — sinnet bearbetar även det vi ser och läser om, även när vi inte är direkt berörda. Oavsett vad drömmen springer ur pekar den ofta mot teman som att hålla ut, välja sina strider med omtanke, och längtan efter fred.
 
 ## Drömguiden rekommenderar
 

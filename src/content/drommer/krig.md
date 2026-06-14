@@ -67,15 +67,13 @@ En løsning er mulig. Fred og forsoning er innen rekkevidde — enten i et indre
 **Hvis du ikke visste hvorfor det var krig:**
 En diffus konflikt uten klart definert årsak — kanskje en underliggende spenning du ikke har satt ord på.
 
-## Psykologiske og kulturelle perspektiver
+## Den indre og den ytre konflikten
 
-Carl Jung så krigen som et av de sterkeste kollektive arketypiske symbolene — en manifestasjon av det han kalte den kollektive Skyggen: de destruktive kreftene som finnes i alle mennesker og i alle samfunn, og som med jevne mellomrom bryter ut i kollektiv form.
+Mange krigsdrømmer handler aller mest om det som skjer inne i deg, ikke ute i verden. Krigen kan være et bilde på en indre tilstand — to ønsker, verdier eller deler av deg som trekker i motsatt retning, som plikt mot lyst, eller den du er mot den du gjerne vil være. Når en slik spenning har bygget seg opp lenge, kan sinnet ty til det sterkeste bildet det har: full krig.
 
-For dem som har traumatiske krigsopplevelser i sin bakgrunn — enten personlig eller i familiehistorien — kan krigsdrømmene være en del av generasjonstrauma som bearbeides gjennom psyken. I Norge, med krigshistorien fra andre verdenskrig fortsatt levende i kollektivminnet, kan krigsdrømmene ha et kulturelt og historisk lag som går dypere enn det personlige.
+Andre ganger speiler drømmen et miljø som rett og slett kjennes som en slagmark — en anspent arbeidsplass, en vond familiekonflikt, eller et forhold der det føles som man hele tiden må forsvare seg. Drømmen setter ord på en belastning du kanskje ikke har innsett hvor stor den er.
 
-Moderne traumeforskning viser at krigsdrømmer hos PTSD-rammede er en del av hjernens forsøk på å bearbeide overveldende opplevelser — og at disse drømmene gradvis endres og avtar med riktig behandling og støtte.
-
-*Opplever du at krigsdrømmene er svært intense og hyppige, og at de henger sammen med opplevelser av krig eller vold du har erfart personlig, kan det være nyttig å snakke med en psykolog eller traumeterapeut.*
+Det er også verdt å nevne, varsomt, at krigsdrømmer kan øke i perioder der mye uro i verden fyller nyhetsbildet — sinnet bearbeider også det vi ser og leser om, selv når vi ikke er direkte berørt. Uansett hva drømmen springer ut av, peker den ofte mot temaer som å holde ut, velge sine kamper med omhu, og lengselen etter fred.
 
 ## Drømmeguiden anbefaler
 

@@ -73,11 +73,13 @@ En diffus trussel — noe i omgivelsene dine som er fiendtlig, men ikke lett å 
 **Hvis du ble skutt fra bak:**
 Et svik — noe eller noen du stolte på, angrep deg der du var sårbar.
 
-## Psykologiske og kulturelle perspektiver
+## Å bli truffet — sårbarhet og angrep
 
-Skyting som drømmesymbol er et relativt moderne fenomen — det erstatter i mange kulturer eldre bilder på plutselig angrep: sverdet, pilen, lyn fra himmelen. Alle er bilder på det samme: noe rask, uventet og gjennomtrengende som endrer tilstanden umiddelbart.
+Å drømme om å bli skutt er en av de mer skremmende drømmene mens den varer, men den handler nesten aldri om faktisk vold — den er et bilde på å bli truffet av noe plutselig: et hardt ord, en kritikk, en nyhet du ikke var forberedt på. Hvor du blir truffet kan gi et hint om hva drømmen peker mot — hjertet kan handle om et følelsesmessig sår, mens å bli skutt i ryggen ofte speiler en følelse av svik, av å bli "skutt i ryggen" av noen du stolte på.
 
-I norrøne sagaer er pilen fra ingensteds ett av de mest fryktede angrepene — det æreløse angrepet som gir ingen mulighet til forsvar. Drømmens skudd bærer denne symbolladningen: du fikk ikke muligheten til å forsvare deg, du visste ikke hva som kom.
+I kjernen handler drømmen om sårbarhet og avmakt — det plutselige, det du ikke kunne forutse eller forsvare deg mot. Mange opplever slike drømmer som en slags øvelse: sinnet tester ut en trusselrespons i et trygt rom, uten at det betyr at noe farlig faktisk venter.
+
+Det fine er at det du ofte sitter igjen med etter en slik drøm, er en følelse av å ha overlevd — og det er ikke tilfeldig. Å overleve skuddet i drømmen peker ofte mot at du har mer motstandskraft enn du tror, selv om noe har truffet deg hardt.
 
 ## Drømmeguiden anbefaler
 

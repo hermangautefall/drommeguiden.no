@@ -66,13 +66,13 @@ Du är inte ensam. Det finns stöd tillgängligt — i dig själv eller från an
 **Om drömmen upprepas:**
 Ett ihållande tema om gränser och sårbarhet som behöver tas på allvar.
 
-## Psykologiska och kulturella perspektiv
+## När gränser överskrids
 
-Ångest knuten till fysisk sårbarhet är ett av de djupast nedärvda av alla mänskliga rädslomönster — vi är flockdjur som är sårbara ensamma, och rädslan för angrepp är biologiskt inprogrammerad.
+Att drömma om att bli överfallen är mycket vanligt och handlar nästan alltid om något symboliskt — en känsla av att gränser överskrids, att något eller någon kliver över i ditt liv, eller en sårbarhet du bär med dig i vardagen. Det kan kännas som ett "överfall" på det känslomässiga planet, även om ingenting fysiskt är inblandat.
 
-Inom drömforskning är överfall och förföljelse bland de mest universella mardrömstemana över kulturer och tider. Det är inte förvånande: de aktiverar det mest primitiva och uråldriga i vårt rädslosystem.
+Många upplever också att de fryser eller inte kan ropa i drömmen — det är en helt normal del av REM-sömnen, där kroppen är naturligt förlamad, och har inget att göra med svaghet eller en "fel" reaktion. Drömmen kan helt enkelt vara sinnets sätt att öva på en hotrespons i ett tryggt rum.
 
-Jung påpekade att det som förföljer och angriper oss i drömmarna gärna är det vi inte vill se i oss själva — skuggan i sin mest dramatiska form. Drömmens angripare är inte bara ett yttre hot, utan en inbjudan till att möta det man helst vill undvika.
+Angriparen i drömmen kan också representera en sida av dig själv — som ångest eller självkritik — eller en press du upplever från en konkret situation eller person. Om drömmen hänger ihop med något du faktiskt har upplevt är det inte ovanligt att sådana bilder dyker upp som en del av den naturliga bearbetningen — och det är aldrig fel att söka stöd om det känns tungt.
 
 ## Drömguiden rekommenderar
 

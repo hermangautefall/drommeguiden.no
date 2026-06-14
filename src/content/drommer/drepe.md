@@ -69,13 +69,13 @@ En indre konflikt om noe du vil gjøre men ikke vet om du burde — eller en han
 **Hvis du ikke følte noe:**
 Kan speile en emosjonell distanse til noe eller noen i livet ditt, eller en nummenhet som kan fortjene oppmerksomhet.
 
-## Psykologiske og kulturelle perspektiver
+## Å gjøre slutt på noe — symbolsk vold
 
-Drømmeforskere er enige om at aggresjon i drømmer — inkludert drømmer om å drepe — er normalt og svært vanlig. En studie av drømmeinnhold viste at aggressive handlinger forekommer i rundt 50% av alle drømmer som huskes, og at drømmeren selv er utøveren i mange av dem. Det er altså ikke et tegn på psykopatologi — det er en del av det normale drømmespekteret.
+Det er viktig å si tydelig: å drømme om å drepe gjenspeiler nesten aldri et reelt ønske om å skade noen. Dette er en svært vanlig drøm, og sinnet bruker her et ekstremt og dramatisk bilde rett og slett fordi det er effektivt — ikke fordi det betyr noe bokstavelig.
 
-Jung var opptatt av at de mest skremmende drømmene gjerne er de viktigste. Å møte aggresjon og mørke i drømmens trygge rom er en måte å kjenne på og integrere disse kreftene på. For mer om dette, se vår guide om [hva drømmer er](/guider/hva-er-drommer/) — fremfor å presse dem ned og la dem bygge seg opp ukontrollert.
+Den vanligste lesningen handler om å "ta livet av" noe i overført betydning: å avslutte en vane, legge en rolle på hylla, gjøre slutt på en relasjon, eller la en gammel versjon av deg selv få dø for at noe nytt skal få plass. Offeret i drømmen representerer ofte nettopp det du, dypest sett, ønsker å bli kvitt — ikke en faktisk person.
 
-Det er verdt å merke seg at kulturell og religiøs kontekst påvirker sterkt hvor skambelagt denne drømmtypen føles. I kulturer som skiller klarere mellom tanke og handling, vil den samme drømmen bære langt mindre byrde.
+For andre kan drømmen være et trygt utløp for sinne eller frustrasjon som ikke får plass i våken tilstand, eller den kan handle om å gjenvinne kontroll og makt i en situasjon der du føler deg avmektig. Skyldfølelsen som ofte følger drømmen er nesten alltid et tegn på at du er et omtenksomt menneske — ikke et bevis på noe annet.
 
 ## Drømmeguiden anbefaler
 

@@ -69,13 +69,13 @@ Delade begränsningar — kanske en situation där hela gruppen, familjen eller 
 **Om fängelset var bekvämt:**
 En av de mer tankeväckande varianterna — något du är fångad i ger dig också trygghet och förutsägbarhet. Du är inte säker på om du egentligen vill ut.
 
-## Psykologiska och kulturella perspektiv
+## Instängd — yttre och inre murar
 
-Carl Jung talade om det han kallade den psykologiska komplexbindningen — när vi är emotionellt fångade i mönster, övertygelser eller relationer som begränsar vår växt, utan att vara medvetna om det. Fängelsedrömmen är ett av de klaraste sätten undermedvetet kommunicerar detta på.
+Den vanligaste tolkningen av fängelsedrömmar handlar om att känna sig fångad eller begränsad — av ett jobb, en relation, förpliktelser, eller av egna tankar och vanor som blivit ett slags självpåtaget fängelse. Drömmen sätter ord på en känsla av ofrihet som kan vara svår att sätta fingret på i vardagen.
 
-I Platons allegori om grottan är fängelset själva människornas tillstånd: vi sitter med [ryggen](/sv/drommar/rygg/) mot ljuset och ser bara skuggor på väggen, och tror att det är verkligheten. Att drömma om fängelse kan vara drömmens version av detta — en inbjudan att vända sig om och gå mot ljuset.
+För andra kan fängelset handla om skuld eller dåligt samvete — en känsla av att straffa sig själv, eller en oro för konsekvenser av något som hänt. Gallren i drömmen kan också representera mentala och känslomässiga begränsningar du själv har byggt upp över tid: föreställningar om vad du inte kan, inte förtjänar, eller inte får göra. En bra fråga att ta med sig är ofta: vem är det egentligen som har nyckeln?
 
-I svensk och nordisk tradition är friheten djupt förankrad som värde — något av det vi håller allra högst. Att drömma om inneslutning träffar därmed något existentiellt i den nordiska psyken: vi är skapade för det öppna, för fjällen och vidderna och havet, och att förlora det — även i dröm — känner vi djupt.
+Mycket av detta handlar om hur vi, ofta utan att märka det, internaliserar regler och förväntningar och blir våra egna fångvaktare. Att drömma om fängelse kan därför vara en vänlig påminnelse om att undersöka vilka av dessa murar som faktiskt är nödvändiga — och vilka du kanske kan gå igenom.
 
 ## Drömguiden rekommenderar
 

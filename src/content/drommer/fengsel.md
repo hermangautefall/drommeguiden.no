@@ -68,13 +68,13 @@ Delte begrensninger — kanskje en situasjon der hele gruppen, familien eller te
 **Hvis fengselet var komfortabelt:**
 En av de mer tankevekkende variantene — noe du er fanget i gir deg også trygghet og forutsigbarhet. Du er ikke sikker på om du egentlig vil ut.
 
-## Psykologiske og kulturelle perspektiver
+## Innestengt — ytre og indre murer
 
-Carl Jung snakket om det han kalte den psykologiske kompleksbindingen — når vi er emosjonelt fanget i mønstre, overbevisninger eller relasjoner som begrenser veksten vår, uten å være bevisst på det. Fengselsdrømmen er en av de klareste måtene underbevistheten kommuniserer dette på.
+Den vanligste lesningen av fengselsdrømmer handler om å føle seg fanget eller begrenset — av en jobb, en relasjon, forpliktelser, eller av egne tanker og vaner som har blitt et slags selvpålagt fengsel. Drømmen setter ord på en tilstand av ufrihet som kan være vanskelig å sette fingeren på i våken tilstand.
 
-I Platons allegori om hulen er fengselet selve menneskenes tilstand: vi sitter med [ryggen](/drommer/rygg/) til lyset og ser bare skygger på veggen, og tror det er virkeligheten. Å drømme om fengsel kan være drømmens versjon av dette — en invitasjon til å snu seg og gå mot lyset.
+For andre kan fengselet handle om skyld eller samvittighet — en følelse av å straffe seg selv, eller en uro for konsekvenser av noe som har skjedd. Sprinklene i drømmen kan også representere mentale og følelsesmessige begrensninger du selv har bygget opp over tid: overbevisninger om hva du ikke kan, ikke fortjener, eller ikke får lov til. Et nyttig spørsmål å ta med seg er gjerne: hvem holder egentlig nøkkelen?
 
-I norsk og nordisk tradisjon er friheten dypt forankret som verdi — noe av det vi holder aller høyest. Å drømme om innestengthet treffer dermed noe eksistensielt i den norske psyken: vi er skapt for det åpne, for fjellene og vidda og havet, og å miste det — selv i drøm — kjenner vi dypt.
+Mye av dette handler om hvordan vi, ofte uten å merke det, internaliserer regler og forventninger og blir våre egne voktere. Å drømme om fengsel kan derfor være en vennlig påminnelse om å undersøke hvilke av disse murene som faktisk er nødvendige — og hvilke du kanskje kan gå gjennom.
 
 ## Drømmeguiden anbefaler
 

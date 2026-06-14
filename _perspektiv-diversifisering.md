@@ -53,4 +53,12 @@ Regler:
 - [x] fugl (fagel) — sjel/frihet + budskap/intuisjon + hvilken art + ambisjoner
 - [x] tiger (tiger) — rå kraft + skjult fare + kinesisk/Durga + ensom styrke
 
-## Status: 30/214 NB ferdig (+ 30 SV).
+## Batch 7 — frykt/konflikt (sensitiv, beroligende tone)
+- [x] drepe (doda) — beroligelse + "ta livet av" noe + fortrengt sinne + makt/kontroll
+- [x] bli-skutt (bli-skjuten) — å føle seg angrepet + sårbarhet/avmakt + threat sim + overlevelse
+- [x] krig (krig) — indre konflikt + ytre stress + kollektiv uro + motstandskraft
+- [x] fengsel (fangelse) — innestengt + skyld/selvstraff + begrensende tro + Foucault
+- [x] overfalt (overfallen) — krenkede grenser + fryse-respons/REM-atoni + bearbeiding
+  (+ fikset pre-eks. død SV-lenke forfulgt -> forfoljd i krig.md)
+
+## Status: 35/214 NB ferdig (+ 35 SV).

@@ -74,11 +74,13 @@ Ett diffust hot — något i din omgivning som är fientligt, men inte lätt att
 **Om du blev skjuten bakifrån:**
 Ett svek — något eller någon du litade på attackerade dig där du var sårbar.
 
-## Psykologiska och kulturella perspektiv
+## Att bli träffad — sårbarhet och angrepp
 
-Att bli skjuten som drömsymbol är ett relativt modernt fenomen — det ersätter i många kulturer äldre bilder av plötslig attack: svärdet, pilen, blixten från himlen. Alla är bilder av samma sak: något snabbt, oväntat och genomträngande som förändrar tillståndet omedelbart.
+Att drömma om att bli skjuten kan kännas skrämmande medan det pågår, men det handlar nästan aldrig om faktiskt våld — det är snarare en bild av att bli träffad av något plötsligt: ett hårt ord, en kritik, en nyhet du inte var beredd på. Var i kroppen du blir träffad kan ge en ledtråd till vad drömmen pekar mot — hjärtat kan handla om ett känslomässigt sår, medan att bli skjuten i ryggen ofta speglar en känsla av svek, av att bli "skjuten i ryggen" av någon du litade på.
 
-I fornnordiska sagor är pilen från ingenstans en av de mest fruktade attackerna — den ärolösa attack som inte ger någon möjlighet till försvar. Drömmens skott bär denna symbolladdning: du fick inte möjligheten att försvara dig, du visste inte vad som kom.
+I grunden handlar drömmen om sårbarhet och maktlöshet — det plötsliga, det du inte kunde förutse eller skydda dig mot. Många upplever sådana drömmar som en sorts övning: sinnet testar en hotrespons i ett tryggt rum, utan att det betyder att något farligt faktiskt väntar.
+
+Det fina är att det du ofta bär med dig efter en sådan dröm är en känsla av att ha överlevt — och det är ingen slump. Att överleva skottet i drömmen pekar ofta mot att du har mer motståndskraft än du tror, även när något har träffat dig hårt.
 
 ## Drömguiden rekommenderar
 
