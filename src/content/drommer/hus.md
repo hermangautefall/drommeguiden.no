@@ -69,13 +69,13 @@ Kan peke mot en følelse av tomhet, ensomhet eller at du har mistet noe vesentli
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Huset som et bilde på deg selv
 
-Carl Jung brukte huset som et av sine mest sentrale drømmesymboler. Han beskrev en berømt drøm der han utforsket et hus med mange etasjer, der kjelleren representerte de eldste og dypeste lagene av psyken — det kollektivt ubevisste. For Jung var husdrømmer invitasjoner til selvutforskning, og de ulike rommene var kart over psykens landskap.
+En av de vanligste tolkningene av husdrømmer er at huset representerer deg selv — og at de ulike rommene svarer til ulike sider av deg. [Loftet](/drommer/loft/) kan knyttes til tankene, minnene og det vi har lagt bort for senere, mens [kjelleren](/drommer/kjeller/) ofte forbindes med det som ligger dypere og mindre tilgjengelig. Kjøkkenet kan stå for det som gir næring i livet, og soverommet for det mest private.
 
-I norrøn tradisjon hadde huset — eller rettere sagt hallen — en dyp symbolsk betydning. Hallen var sentrum for fellesskap, makt og identitet. Å drømme om et stort, sterkt hus ble sett som et godt tegn, mens et falleferdig hus kunne varsle ulykke eller tap av status. Denne forbindelsen mellom huset og identiteten finnes fortsatt i moderne drømmer.
+Husets tilstand i drømmen sier ofte noe om livssituasjonen din akkurat nå. Forfall, lekkasjer eller en pågående oppussing kan speile en periode med endring eller noe som krever oppmerksomhet. Å oppdage et rom du ikke visste fantes, tolkes ofte som et tegn på uutnyttet potensial — noe i deg som ennå ikke er utforsket.
 
-I norsk kultur har hjemmet en helt spesiell plass. Uttrykket "borte bra, hjemme best" sier mye om hvor sterkt nordmenn knytter identitet og trygghet til sitt eget hus. Drømmer om hus i en norsk kontekst bærer ofte med seg denne ekstra dimensjonen — hjemmet som et sted der du kan være deg selv, og der tilstanden til det fysiske rommet speiler tilstanden til den som bor der. Se også drømmer om [speil](/drommer/speil/), som deler temaet om selvrefleksjon.
+Huset er også tett knyttet til trygghet, tilhørighet og identitet — forskjellen mellom fasaden vi viser utad og det private rommet innenfor. Filosofen Gaston Bachelard skrev om huset som «vårt innerste vesens geografi», der barndomshjemmet legger grunnlaget for hvordan vi senere drømmer om rom og hjem.
 
 ---
 

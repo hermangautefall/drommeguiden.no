@@ -70,13 +70,13 @@ Kan peka mot en känsla av tomhet, ensamhet eller att du har mist något väsent
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Huset som en bild av dig själv
 
-Carl Jung använde huset som en av sina mest centrala drömsymboler. Han beskrev en berömd dröm där han utforskade ett hus med många våningar, där källaren representerade de äldsta och djupaste lagren av psyket — det kollektiva omedvetna. För Jung var husdrömmar inbjudningar till självutforskning, och de olika rummen var kartor över psykets landskap.
+En av de vanligaste tolkningarna av husdrömmar är att huset representerar dig själv — och att de olika rummen motsvarar olika sidor av dig. [Vinden](/sv/drommar/vind/) kan kopplas till tankarna, minnena och det vi lagt undan för senare, medan [källaren](/sv/drommar/kallare/) ofta förknippas med det som ligger djupare och mindre tillgängligt. Köket kan stå för det som ger näring i livet, och sovrummet för det mest privata.
 
-I fornnordisk tradition hade huset — eller rättare sagt hallen — en djup symbolisk betydelse. Hallen var centrum för gemenskap, makt och identitet. Att drömma om ett stort, starkt hus sågs som ett gott tecken, medan ett fallfärdigt hus kunde varsla olycka eller statusförlust. Denna förbindelse mellan huset och identiteten finns fortfarande i moderna drömmar.
+Husets skick i drömmen säger ofta något om din livssituation just nu. Förfall, läckage eller en pågående renovering kan spegla en period av förändring eller något som kräver din uppmärksamhet. Att upptäcka ett rum du inte visste fanns tolkas ofta som ett tecken på outnyttjad potential — något i dig som ännu inte är utforskat.
 
-I nordisk kultur har hemmet en alldeles särskild plats. Uttrycket "borta bra, hemma bäst" säger mycket om hur starkt vi knyter identitet och trygghet till vårt eget hus. Drömmar om hus i en nordisk kontext bär ofta med sig denna extra dimension — hemmet som en plats där du kan vara dig själv, och där det fysiska rummets tillstånd speglar tillståndet hos den som bor där. Se även drömmar om [spegel](/sv/drommar/spegel/), som delar temat om självreflektion.
+Huset är också nära knutet till trygghet, tillhörighet och identitet — skillnaden mellan fasaden vi visar utåt och det privata rummet innanför. Filosofen Gaston Bachelard skrev om huset som "vårt innersta varas geografi", där barndomshemmet lägger grunden för hur vi senare drömmer om rum och hem.
 
 ---
 

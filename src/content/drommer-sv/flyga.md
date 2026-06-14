@@ -71,13 +71,13 @@ Det konkreta landskapet kan ge ytterligare betydelser. Att flyga över [berg](/s
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Frihet, ärelystnad och att höja sig
 
-Carl Jung tolkade flygdrömmar som uttryck för psykets önskan om transcendens — en rörelse bort från det jordiska och mot en högre förståelse av sig själv. I jungiansk tradition kan flygning representera individuationsprocessen, där man frigör sig från kollektiva förväntningar och finner sin egen väg.
+Över kulturer och tidsåldrar har flykten varit en bild för frihet — för att lösgöra sig från det som binder, och för att höja sig över något som tynger. Många som drömmer om att flyga känner igen en känsla av att plötsligt se livet ur ett annat perspektiv, en plats där bekymmer ser mindre ut på avstånd.
 
-I nordisk folktradition är flygning nära kopplad till det övernaturliga. Oden sände sina två korpar ut över världen för att samla kunskap — en flygning med syfte och visdom. I många nordiska sägner kunde kloka kvinnor och män sända sitt sinne ut i flykt medan kroppen låg i dvala, något som påfallande påminner om flygdrömmar.
+Psykologen Alfred Adler intresserade sig för hur drömmar kan uttrycka ärelystnad och strävan. I hans tänkande kunde flygdrömmar handla om en önskan att bemästra något, att höja sig över en svår situation, eller att inta en position "ovanför" andra — inte nödvändigtvis av överlägsenhet, utan som ett tecken på att man strävar mot något större.
 
-Modern drömforskning pekar på att flygdrömmar ofta förekommer under så kallad klardrömmande sömn, där drömmaren är delvis medveten. Det kan förklara varför upplevelsen känns så levande och fri — och varför många upplever den som en av de mest positiva drömmar de har.
+Att flyga är också en av de vanligaste upplevelserna i klardrömmar, där drömmaren är delvis medveten och kan känna en stark känsla av kontroll. I flera traditioner finns även föreställningen om en "själsresa" — att något inom oss kan lösgöra sig och röra sig fritt, en bild som ligger nära den frihet många beskriver i flygdrömmar.
 
 ---
 

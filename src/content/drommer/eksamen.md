@@ -58,11 +58,13 @@ Hjernen trekker på et gammelt bilde for å kommentere noe nytt. Hva i livet dit
 **Hvis du lot være å møte opp:**
 Et ønske om å trekke seg fra noe krevende — eller en erkjennelse av at en forpliktelse ikke er riktig for deg.
 
-## Psykologiske og kulturelle perspektiver
+## Prøven du allerede har bestått
 
-Forskning på drømmtemaer viser at eksamensdrømmer er blant de mest utbredte i den vestlige verden — og at de rapporteres hyppigst av høytpresterende og pliktoppfyllende mennesker. De er sjeldnere blant dem som generelt er mer avslappede til egen prestasjon.
+Sigmund Freud skrev om nettopp denne drømmen, og pekte på et trekk som mange kjenner seg igjen i: vi drømmer ofte om eksamener vi for lengst har bestått. Han tolket det som en slags indre trøst — et budskap om at "du var redd den gangen også, og det gikk faktisk bra."
 
-I jungiansk forstand er eksamensdrømmens scenario knyttet til det Jung kalte "Persona" — masken vi bærer i sosiale og profesjonelle sammenhenger. Drømmen reiser spørsmålet: er masken god nok, eller vil noen se gjennom den?
+For mange handler eksamensdrømmen likevel mest om en mer generell prestasjonsangst. Frykten for å bli testet, vurdert eller avslørt som utilstrekkelig dukker ikke bare opp på skolen — den følger oss inn i jobben, i relasjoner og i foreldrerollen, der vi stadig kan føle at vi blir bedømt.
+
+Kontinuitetshypotesen i drømmeforskningen peker på at slike drømmer ofte blir vanligere i perioder der vi virkelig opplever press. Sett på den måten kan eksamensdrømmen være en påminnelse fra psyken om at noe i livet nå krever ekstra av deg — og at du, som den gangen, sannsynligvis er bedre forberedt enn du tror.
 
 ## Drømmeguiden anbefaler
 

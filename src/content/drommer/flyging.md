@@ -70,13 +70,13 @@ Det konkrete landskapet kan gi tilleggsmeninger. Å fly over [fjell](/drommer/fj
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Frihet, ærgjerrighet og det å heve seg
 
-Carl Jung tolket flygingsdrømmer som uttrykk for psykens ønske om transcendens — en bevegelse bort fra det jordiske og mot en høyere forståelse av seg selv. I jungiansk tradisjon kan flyging representere individuasjonsprosessen, der man frigjør seg fra kollektive forventninger og finner sin egen vei.
+På tvers av kulturer og tidsepoker har flukten vært et bilde på frihet — å løsrive seg fra det som binder, og å heve seg over noe som tynger. Mange som drømmer om å fly, kjenner seg igjen i en følelse av å plutselig se livet fra et annet perspektiv, et sted der bekymringer virker mindre fra avstand.
 
-I norrøn og nordisk folketradisjon er flyging tett knyttet til det overnaturlige. Odin sendte sine to ravner ut over verden for å samle kunnskap — en flyging med formål og visdom. I mange nordiske sagn kunne kloke kvinner og menn sende sinnet sitt ut i flukt mens kroppen lå i dvale, noe som minner påfallende om flygingsdrømmer.
+Psykologen Alfred Adler var opptatt av hvordan drømmer kan uttrykke ærgjerrighet og streben. I hans tenkning kunne flygedrømmer handle om et ønske om å mestre, å heve seg over en vanskelig situasjon, eller å innta en posisjon "over" andre — ikke nødvendigvis av overlegenhet, men som et tegn på at man jobber mot noe større.
 
-Moderne drømmeforskning peker på at flygingsdrømmer ofte forekommer under såkalt lusindrømmende søvn, der drømmeren er delvis bevisst. Dette kan forklare hvorfor opplevelsen føles så levende og fri — og hvorfor mange opplever den som en av de mest positive drømmene de har.
+Flyging er også en av de vanligste opplevelsene i klardrømmer, der drømmeren er delvis bevisst og kan oppleve en sterk følelse av kontroll. I flere tradisjoner finnes også forestillingen om en "sjelereise" — at noe i oss kan løsrive seg og bevege seg fritt, et bilde som ligger nært den friheten mange beskriver i flygedrømmer.
 
 ---
 

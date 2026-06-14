@@ -24,3 +24,10 @@ Regler:
 - [x] hund (hund) — eldste følgesvenn + Kerberos/Anubis + oppførsel som nøkkel + instinkt
 - [x] katt (katt) — uavhengighet/intuisjon + Bastet + folketro/familiars + oppførsel
 - [x] blod (blod) — livskraft/slektskap + tappet vs lidenskap + arv + rituelt/hellig
+
+## Batch 3 — høytrafikk-klassikere
+- [x] flyging (flyga) — frihet + Adler (ærgjerrighet) + lucid dreaming + sjelereise
+- [x] drukne (drunkna) — emosjonell overveldelse + panikk + pust/søvn + nedsenking/renselse
+- [x] eksamen (tenta) — Freuds eksamensdrøm ("allerede bestått") + prestasjonsangst + kontinuitet
+- [x] hus (hus) — huset som selvet (rom=deler) + husets tilstand + Bachelard
+- [x] bil (bil) — kontroll/retning (hvem kjører) + moderne symbol + tilstand/fart

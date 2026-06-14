@@ -59,11 +59,13 @@ Hjärnan drar på en gammal bild för att kommentera något nytt. Vad i ditt liv
 **Om du lät bli att dyka upp:**
 En önskan att dra sig ur något krävande — eller en insikt om att en förpliktelse inte är rätt för dig.
 
-## Psykologiska och kulturella perspektiv
+## Provet du redan har klarat
 
-Forskning på drömteman visar att tentadrömmar är bland de mest utbredda i den västerländska världen — och att de rapporteras oftast av högpresterande och pliktuppfyllande människor. De är sällsyntare bland dem som generellt är mer avslappnade till sin egen prestation.
+Sigmund Freud skrev om just denna dröm och pekade på något som många känner igen: vi drömmer ofta om tentor vi för länge sedan klarade. Han tolkade det som en slags inre tröst — ett budskap om att "du var rädd då också, och det gick faktiskt bra."
 
-I jungiansk bemärkelse är tentadrömmens scenario knutet till det Jung kallade "Persona" — masken vi bär i sociala och professionella sammanhang. Drömmen reser frågan: är masken bra nog, eller kommer någon att se igenom den?
+För många handlar tentadrömmen ändå mest om en mer allmän prestationsångest. Rädslan för att bli testad, bedömd eller avslöjad som otillräcklig dyker inte bara upp i skolan — den följer med oss in i jobbet, i relationer och i föräldrarollen, där vi ständigt kan känna oss granskade.
+
+Kontinuitetshypotesen inom drömforskningen pekar på att sådana drömmar ofta blir vanligare i perioder då vi verkligen är under press. Sett på det sättet kan tentadrömmen vara en påminnelse från psyket om att något i livet just nu kräver extra av dig — och att du, precis som då, troligen är bättre förberedd än du tror.
 
 ## Drömguiden rekommenderar
 

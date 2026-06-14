@@ -72,13 +72,13 @@ Ett positivt tecken. Drömmen kan spegla att du är på väg att hitta hjälp el
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## När känslorna stiger över huvudet
 
-Carl Jung betraktade vatten som den främsta symbolen för det omedvetna, och att drunkna i drömmar som ett tecken på att medvetandet är på väg att översvämmas av material från djupet. I jungiansk terapi ses en sådan dröm ofta som en inbjudan att utforska det som ligger under ytan — inte med rädsla, utan med nyfikenhet.
+Drömmar om att drunkna speglar ofta en känsla av att bli överväldigad — vi säger ju att vi "drunknar i" arbete, sorg eller bekymmer när allt blir för mycket. I drömmen är vattnet själva känslan: något som stiger snabbare än vi hinner hantera, och som till slut går över huvudet.
 
-I nordisk folktro sågs vatten som en gräns mellan världar, och drunkningsdrömmar kunde tolkas som möten med det övernaturliga. Näcken, den farliga vattenanden, lockade människor under vattnet — och drömmar om att bli dragen ner sågs i vissa traditioner som ett varsel om att man befann sig i ett farligt liminalt tillstånd, mellan två livsfaser.
+Sådana drömmar är ofta intensiva, med en stark känsla av panik och kroppens larmberedskap igång. Det kan helt enkelt vara obehagligt att vakna från dem. Hos vissa kan en drunkningsdröm också ha en rent fysiologisk förklaring — till exempel om andningen varit ojämn eller täckts över under sömnen — men oftast handlar det om något som ligger och trycker i vardagen.
 
-I modern psykologi ses drunkningsdrömmar ofta i samband med ångest och stress. De är bland de vanligaste drömmarna i perioder med utbrändhet, och de kan fungera som en tidig signal om att något måste förändras. Tar du drömmen på allvar, kan den faktiskt vara ett viktigt första steg mot att hitta tillbaka till balans.
+I många kulturer finns även en äldre tanke om att gå under vatten handlar om mer än bara fara. Nedsänkning förknippas ofta med rening och övergång — att gå under och sedan komma upp igen, gärna lite förändrad. På så sätt kan en drunkningsdröm, även om den känns dramatisk, lika gärna tolkas som början på något nytt som bara en varning — ungefär som drömmar om att [falla](/sv/drommar/falla/) ofta handlar om en övergång man redan är mitt i.
 
 ---
 

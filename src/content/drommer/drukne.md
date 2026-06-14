@@ -71,13 +71,13 @@ Et positivt tegn. Drømmen kan speile at du er i ferd med å finne hjelp eller s
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Når følelsene stiger over hodet
 
-Carl Jung betraktet vann som det fremste symbolet på det ubevisste, og å drukne i drømmer som et tegn på at bevisstheten er i ferd med å bli oversvømt av materiale fra dypet. I jungiansk terapi vil en slik drøm ofte bli sett som en invitasjon til å utforske det som ligger under overflaten — ikke med frykt, men med nysgjerrighet.
+Drømmer om å drukne speiler ofte en følelse av å bli overveldet — vi sier jo at vi "drukner i" arbeid, sorg eller bekymringer når alt blir for mye. I drømmen er vannet følelsen selv: noe som stiger raskere enn vi får tatt tak i det, og som til slutt går over hodet.
 
-I nordisk folketro ble vann sett på som en grense mellom verdener, og drukningsdrømmer kunne tolkes som møter med det overnaturlige. Nøkken, den farlige vannånden, lokket folk under vann — og drømmer om å bli dratt ned ble i noen tradisjoner sett som et varsel om at man befant seg i en farlig liminal tilstand, mellom to livsfaser.
+Slike drømmer er ofte intense, med en sterk følelse av panikk og kroppens alarmberedskap satt i sving. Det kan rett og slett være ubehagelig å våkne av dem. Hos noen kan en druknedrøm også ha en helt fysiologisk forklaring — for eksempel hvis pusten har vært ujevn eller tildekket under søvn — men oftest handler det om noe som ligger og presser på i våkenlivet.
 
-I moderne psykologi ser man ofte drukningsdrømmer i sammenheng med angst og stress. De er blant de vanligste drømmene i perioder med utbrenthet, og de kan fungere som et tidlig signal om at noe må endres. Tar du drømmen på alvor, kan den faktisk være et viktig første steg mot å finne tilbake til balanse.
+I mange kulturer er det også en eldre tanke om at å gå under vann handler om mer enn bare fare. Nedsenking forbindes ofte med renselse og overgang — å gå under for så å komme opp igjen, gjerne litt forandret. På den måten kan en druknedrøm, selv om den føles dramatisk, like gjerne tolkes som starten på noe nytt enn bare en advarsel — litt på samme måte som drømmer om å [falle](/drommer/falle/) ofte handler om en overgang man er midt i.
 
 ---
 
