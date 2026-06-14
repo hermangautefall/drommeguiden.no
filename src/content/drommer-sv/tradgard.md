@@ -55,13 +55,13 @@ Ett behov av ro, fördjupning och frihet från krav.
 **Om trädgården hade en port som var öppen:**
 Inbjudan — något är tillgängligt för dig nu.
 
-## Psykologiska och kulturella perspektiv
+## Det vi odlar och vårdar
 
-Trädgården är i västerländsk kultur knuten till paradiset — "paradise" kommer från det persiska ordet för inhägnad trädgård. Den kultiverade trädgården är det människoskapade paradiset: en plats där kaos och natur är bringade i balans med skönhet och avsikt.
+Ordet "paradis" har sitt ursprung i ett forniranskt ord för en inhägnad trädgård — en plats avskärmad från öknen och kaoset utanför, där allt som planterats får växa i fred. Den här idén lever vidare i föreställningen om Edens lustgård, och kan förklara varför trädgårdsdrömmar så ofta bär med sig en känsla av harmoni eller längtan: trädgården är platsen där trygghet, skönhet och överflöd kan existera samtidigt.
 
-Jung beskrev trädgården som en av symbolerna för individuationsprocessen i sin helhet — det odlade inre liv där många olika element är bringade samman i en harmonisk helhet, som en trädgård med många plantor — [träd](/sv/drommar/trad/) och blommor — som alla frodas sida vid sida.
+Samtidigt är en trädgård aldrig statisk — den kräver skötsel för att förbli det den är. Drömmens trädgård kan därför spegla en pågående balansgång mellan ordning och vildvuxenhet: en välskött trädgård kan stå för kontroll, omsorg och något du tar dig tid att underhålla, medan en igenvuxen eller vild trädgård kan peka mot sidor av livet som fått växa fritt utan din inblandning — inte nödvändigtvis negativt, men värt att lägga märke till.
 
-I svensk trädgårdskultur är köksträdgården och blomsterträdgården en del av vardagen för många — något som är djupt förankrat i det nordiska förhållandet till [jord](/sv/drommar/jord/), säsong och måttfullhet. Trädgården är också nära knuten till [huset](/sv/drommar/hus/) som drömsymbol.
+Trädgården följer också årstidernas rytm, och det gör drömmar om trädgårdsarbete till något som ofta handlar om tålamod och timing. Att så är inte samma sak som att skörda, och mellan de två ligger en period då ingenting tycks hända på ytan. En dröm om att plantera, vänta eller skörda i en trädgård kan därför påminna dig om att något i ditt liv behöver tid för att bli det det ska bli — och att den tiden inte nödvändigtvis är bortkastad, även när det inte känns produktivt.
 
 ## Drömguiden rekommenderar
 

@@ -70,15 +70,13 @@ Kan betyda att du har ett mål i sikte men ännu inte har börjat arbeta mot det
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Målet, klättringen och utsikten
 
-Carl Jung betraktade berget som en symbol för självet — den helhetliga personligheten man strävar att realisera genom individuationsprocessen. Bergstoppen representerar i jungiansk mening den fullt integrerade människan, där medvetet och omedvetet är i balans. Klättringen är den psykologiska utvecklingsresan — lång, krävande, men meningsfull.
+I kulturer världen över har bergstoppar förknippats med något heligt eller upphöjt — Sinai, Olympen, Fuji, Kailash. Platser där människor har sökt klarhet, uppenbarelse eller närhet till något större än sig själva, ofta efter att ha dragit sig undan från det vanliga. Att drömma om att vara på ett berg, särskilt högt ovanför molnen eller med en vid utsikt runt omkring dig, kan därför tolkas som ett uttryck för en längtan efter perspektiv: att höja sig över vardagens detaljer och se sitt liv i en större bild.
 
-Jung använde också berget som bild för mandalan — ett centrum och en helhet. Från toppen ser man i alla riktningar, något som i drömperspektiv kan symbolisera ett tillstånd av inre helhet och klarhet.
+Berget är samtidigt en bild för det som inte rör sig. Där mycket annat i livet är flyktigt och föränderligt kan berget representera något stabilt och bestående — ett värde, en relation eller en grundhållning du kan luta dig mot. Men samma bild kan också vändas om: ett berg som blockerar vägen kan stå för något orörligt som är i vägen för dig, ett hinder som inte går att förhandla med, bara mötas.
 
-I fornnordisk kosmologi har berget en central position. Asgård, gudarnas hem, låg i höjden, och Jotunheimen — jättarnas rike — var en värld av berg och vildmark. Berget var alltså både gudarnas och det okändas domän, en plats för vördnad och fara i ett. I nordisk folktro var berget hemvist för trollet, bergakungen, och andra varelser som representerade naturens oregerliga krafter.
-
-För nordbor är berget dessutom en del av den nationella själen. Friluftsliv och fjällvandring är djupt förankrade i kulturen, och att nå en topp upplevs som något mer än fysisk prestation — det är en meditativ, nästan andlig handling. Denna kulturella förankring gör bergsdrömmar särskilt meningsfulla i nordisk kontext. När du drömmer om berg berör du kanske inte bara dina egna ambitioner, utan också en kollektiv längtan efter det stora, det öppna, och det som ligger ovan trädgränsen.
+Till sist handlar bergsdrömmar ofta om förhållandet mellan ansträngning och belöning. Klättringen är det tunga, gradvisa arbetet — steg för steg, ofta utan att du ser hur långt du kommit. Utsikten från toppen är det du får tillbaka för det. En dröm om att klättra kan påminna dig om att mödan har en mening, medan en dröm där du redan står på toppen kan bjuda in dig att stanna upp och verkligen ta in det du har uppnått, innan du går vidare.
 
 ---
 

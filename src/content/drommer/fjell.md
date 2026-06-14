@@ -69,15 +69,13 @@ Kan bety at du har et mål i sikte men ennå ikke har begynt å jobbe mot det, e
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Målet, klatringen og utsikten
 
-Carl Jung betraktet fjellet som et symbol på selvet — den helhetlige personligheten man streber mot å realisere gjennom individuasjonsprosessen. Toppen av fjellet representerer i jungiansk forstand det fullt integrerte mennesket, der bevisst og ubevisst er i balanse. Klatringen er den psykologiske utviklingsreisen — lang, krevende, men meningsfull.
+På tvers av kulturer har fjelltopper vært knyttet til noe hellig eller opphøyd — Sinai, Olympen, Fuji, Kailash. Steder der mennesker har søkt klarhet, åpenbaring eller nærhet til noe større enn seg selv, ofte etter å ha trukket seg tilbake fra alt det vanlige. Å drømme om å være på et fjell, særlig høyt over skyene eller med en vid utsikt rundt deg, kan derfor tolkes som et uttrykk for en lengsel etter perspektiv: å heve seg over detaljene i hverdagen og se livet ditt i et større bilde.
 
-Jung brukte også fjellet som bilde på mandalaen — et senter og en helhet. Fra toppen ser man i alle retninger, noe som i drømmeperspektiv kan symbolisere en tilstand av indre helhet og klarhet.
+Fjellet er samtidig et bilde på det som ikke rører seg. Der mye annet i livet er flyktig og foranderlig, kan fjellet representere noe stabilt og varig — en verdi, en relasjon eller en grunnholdning du kan støtte deg på. Men det samme bildet kan også vende seg om: et fjell som blokkerer veien kan stå for noe urørlig som er i veien for deg, en hindring som ikke lar seg forhandle med, bare møtes.
 
-I norrøn kosmologi har fjellet en sentral posisjon. Asgard, gudenes hjem, befant seg i høyden, og jotunheimene — jetnenes rike — var en verden av fjell og villmark. Fjellet var altså både gudenes og det ukjentes domene, et sted for ærefrykt og fare i ett. I norsk folketro var fjellet hjemsted for trollet, den bergenkinne, og andre vesener som representerte naturens uregjerlige krefter.
-
-For nordmenn er fjellet dessuten en del av den nasjonale sjelen. Friluftsliv og fjellvandring er dypt forankret i kulturen, og å nå en topp oppleves som noe mer enn fysisk prestasjon — det er en meditativ, nesten åndelig handling. Denne kulturelle forankringen gjør fjelldrømmer spesielt meningsfulle i norsk kontekst. Når du drømmer om fjell, berører du kanskje ikke bare dine egne ambisjoner, men også en kollektiv lengsel etter det store, det åpne, og det som ligger over tregrensen.
+Til sist handler fjelldrømmer ofte om forholdet mellom innsats og belønning. Klatringen er det tunge, gradvise arbeidet — steg for steg, ofte uten at du ser hvor langt du har kommet. Utsikten fra toppen er det du får igjen for det. En drøm om å klatre kan minne deg om at strevet har en mening, mens en drøm der du allerede står på toppen kan invitere deg til å stoppe opp og faktisk ta inn det du har oppnådd, før du går videre.
 
 ---
 

@@ -74,13 +74,13 @@ Motvilja eller mod — du kämpar mot det naturliga förloppet. Kanske med goda 
 **Om älven [svämmade](/sv/drommar/oversvamning/) över:**
 Känslor som inte längre håller sig inom sina gränser — något överväldigas.
 
-## Psykologiska och kulturella perspektiv
+## Livets ström och känslornas lopp
 
-Herakleitos berömda uttalande — "du kan aldrig bada i samma älv två gånger" — är kanske filosofihistoriens tätaste formulering av älvens symboliska kraft. Allt är i ström. Ingenting är permanent. Det är älvens budskap, och det är ett budskap som slår an i drömmarna eftersom det träffar något fundamentalt sant om tillvaron.
+Herakleitos berömda uttalande — "du kan aldrig bada i samma älv två gånger" — är kanske filosofihistoriens tätaste formulering av älvens symbolik. Allt är i ström, ingenting står helt stilla, och ändå känner vi igen älven som "densamma" från dag till dag. Att drömma om en älv kan tolkas som en påminnelse om just detta: att förändring är det enda konstanta, och att försöket att hålla fast i något som naturligt är i rörelse ofta är där friktionen uppstår.
 
-I fornnordisk tradition är Urd, Verdandi och Skuld — de tre nornorna — väverskorna av ödet, och de bor vid Urðarbrunnr: Urdsbrunnen, där Yggdrasils rötter dricker. Vattnet i brunnen är tidernas vatten — förflutet, nutid och framtid i ett. Älven i fornnordisk mening är ödet självt, i kontinuerlig rörelse.
+Många älvdrömmar handlar i grunden om känslor som är i rörelse snarare än fastlåsta. Där ett stillastående vatten kan upplevas som djupt och slutet, är älven alltid på väg någonstans — den bearbetar, transporterar, förändrar. En klar och jämn älv kan spegla känslor som flödar fritt och hittar sin naturliga form, medan en älv full av virvlar eller motström kan peka mot något i dig som håller på att bearbetas, men ännu inte funnit ro.
 
-Carl Jung knöt älven till det omedvetna i rörelse — där havet är det djupa, statiska omedvetna, är älven det omedvetna i aktiv ström mot medvetandet. En älv som svämmade över i en patients dröm tolkade han som det omedvetna som pressade över sina gränser in i det medvetna livet — ett genombrott, inte bara en katastrof.
+Älven är också, rent konkret, en resa med en början och ett mål — från källa till hav. Att följa älven i drömmen, eller att låta dig bäras av den, kan därför handla om var du befinner dig i din egen livsresa: är du nära ursprunget, mitt i loppet, eller på väg mot något som väntar längre fram? Och att korsa en älv, så som många myter och berättelser gör en stor sak av, markerar ofta att något avslutas på den ena sidan och något nytt börjar på den andra.
 
 ## Drömguiden rekommenderar
 

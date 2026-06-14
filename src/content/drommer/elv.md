@@ -73,13 +73,13 @@ Motvilje eller mot — du kjemper mot det naturlige forløpet. Kanskje med god g
 **Hvis elven [flommet](/drommer/flom/) over:**
 Følelser som ikke lenger holder seg innenfor sine grenser — noe overveldes.
 
-## Psykologiske og kulturelle perspektiver
+## Livets strøm og følelsenes løp
 
-Heraklits berømte utsagn — "du kan aldri bade i den samme elven to ganger" — er kanskje filosofihistoriens tetteste formulering av elvens symboliske kraft. Alt er i strøm. Ingenting er permanent. Det er elvens budskap, og det er et budskap som slår an i drømmene fordi det treffer noe fundamentalt sant om tilværelsen.
+Heraklits berømte utsagn — "du kan aldri bade i den samme elven to ganger" — er kanskje filosofihistoriens tetteste formulering av elvens symbolikk. Alt er i strøm, ingenting står helt stille, og likevel kjenner vi elven igjen som "den samme" fra dag til dag. Å drømme om en elv kan tolkes som en påminnelse om nettopp dette: at endring er den eneste konstanten, og at det å forsøke å holde fast i noe som naturlig er i bevegelse, ofte er der friksjonen oppstår.
 
-I norrøn tradisjon er Urd, Verdandi og Skuld — de tre nornene — veverskene av skjebnene, og de bor ved Urðarbrunnr: Urds brønn, der Yggdrasils røtter drikker. Vannet i brønnen er tidenes vann — fortid, nåtid og fremtid i ett. Elven i norrøn forstand er skjebnen selv, i kontinuerlig bevegelse.
+Mange elvedrømmer handler i bunn og grunn om følelser som er i bevegelse snarere enn fastlåste. Der et stille vann kan oppleves som dypt og lukket, er elven alltid på vei et sted — den bearbeider, transporterer, forandrer. En klar og jevn elv kan speile følelser som flyter fritt og finner sin naturlige form, mens en elv full av strømvirvler eller motstrøm kan peke mot noe i deg som er i ferd med å bli bearbeidet, men ennå ikke har funnet ro.
 
-Carl Jung knyttet elven til det ubevisste i bevegelse — der havet er det dype, statiske ubevisste, er elven det ubevisste i aktiv strøm mot bevisstheten. En elv som flommet over i en pasients drøm tolket han som det ubevisste som presset over sine grenser inn i det bevisste livet — et gjennombrudd, ikke bare en katastrofe.
+Elven er også, helt konkret, en reise med en begynnelse og et mål — fra kilde til hav. Å følge elven i drømmen, eller å la deg bære av den, kan derfor handle om hvor du er i din egen livsreise: er du nær opprinnelsen, midt i løpet, eller på vei mot noe som venter forut? Og å krysse en elv, slik mange myter og fortellinger gjør et stort poeng av, markerer ofte at noe avsluttes på den ene siden og noe nytt begynner på den andre.
 
 ## Drømmeguiden anbefaler
 

@@ -112,4 +112,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] himmel (himmel) — frihet/vidde (himmelhvelv) + transcendens/fred + det evige + himmelguder
 - [x] helvete (helvete) — indre pine/fanget + skyld/selvdom + nedstigning/retur (Dante/Orfeus)
 
-## Status: 70/214 NB ferdig (+ 70 SV).
+## Batch 15 — steder/natur
+- [x] kirke (kyrka) — indre tilflukt/det hellige + fellesskap/ritual + samvittighet + bygget som selvet
+- [x] skog (skog) — det ubevisste/ukjente + eventyrets terskel + shinrin-yoku + vill vs finne sti
+- [x] fjell (berg) — mål/utfordring + perspektiv/det hellige (Sinai/Fuji) + det urokkelige + klatring vs utsikt
+- [x] elv (alv) — livets/tidens strøm (Heraklit) + følelser i bevegelse + kryssing + hellige elver
+- [x] hage (tradgard) — det dyrkede selvet + paradis/fred (Eden) + orden vs villskap + sykluser
+
+## Status: 75/214 NB ferdig (+ 75 SV).

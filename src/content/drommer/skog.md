@@ -69,13 +69,13 @@ Et positivt tegn. Det kan bety at du er i ferd med å finne klarhet etter en for
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Det ukjente, eventyret og veien gjennom
 
-Carl Jung brukte skogen som et sentralt bilde i sin forståelse av psyken. For Jung var skogen en metafor for det ubevisste: et sted fullt av skjulte skatter og farer, der helten i eventyret må bevege seg for å finne sin sanne identitet. Den jungianske «reisen inn i skogen» er en individuasjonsprosess — veien mot å bli et helt menneske.
+I eventyr og folkefortellinger over hele verden er skogen stedet der forvandlingen skjer — der helten må gjennom for å bli den han eller hun er ment å bli. Tenk på Hans og Grete, Rødhette, eller Dante som vandrer inn i «en mørk skog» midt i livet. Å drømme om å være i en skog kan tolkes som at du står i en lignende prøvelse: en overgangsfase der noe i deg blir testet, og der veien gjennom — ikke utenom — er det som fører deg videre.
 
-I norsk og nordisk kultur har skogen en helt spesiell posisjon. Vi er et skogsfolk, og forholdet til skogen preger både mytologien og dagliglivet. I norrøn tradisjon var skogen hjemsted for vettar, tusser og huldrefolk — vesener som representerte det ukjente og det farlige, men som også kunne belønne den som viste respekt. Å gå seg vill i skogen var i folketroen ikke bare en fysisk hendelse, men et møte med krefter utenfor det hverdagslige.
+Skogen er også et kraftig bilde på naturen og det ville i deg selv. Trærne, røttene og det summende livet under bakken kan speile et behov for å vokse, slå rot, eller komme tilbake i kontakt med en mer instinktiv og kroppslig del av deg som har kommet i skyggen av hverdagens krav. Den japanske praksisen «shinrin-yoku», skogsbading, bygger nettopp på denne ideen: at det å oppholde seg blant trær har en restituerende, nesten healende effekt — noe som kan gjenspeiles i drømmer der skogen oppleves som god å være i.
 
-Disse kulturelle lagene gjør skogsdrømmer spesielt interessante i en norsk kontekst. Skogen er ikke bare et drømmesymbol — den er en del av den kollektive bevisstheten vår, og drømmer om skog kan dermed berøre dypere lag enn vi umiddelbart forstår.
+Om du i drømmen går deg vill eller finner stien, kan det dessuten si noe om hvor du står akkurat nå. Å famle uten retning kan peke mot en periode med usikkerhet om hva neste steg skal være, mens det å finne en sti eller komme ut i en lysning kan tolkes som at en form for klarhet eller retning er på vei — selv om du ikke ser den helt tydelig ennå.
 
 ---
 

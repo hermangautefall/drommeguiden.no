@@ -66,11 +66,13 @@ En tro, en tradisjon eller en kilde til mening som er blitt svekket eller forlat
 **Hvis du følte fred inne i kirken:**
 Din indre spiritualitet eller ditt behov for stillhet og mening er ikke forstummet — det er der og venter.
 
-## Psykologiske og kulturelle perspektiver
+## Tilflukt, fellesskap og det hellige i deg
 
-Jung var dypt opptatt av det religiøse som psykologisk fenomen — ikke som doktrine, men som menneskets evne til å oppleve det numinøse: noe som er større, mer ladet og mer meningsfylt enn det daglige. Drømmer om [engler](/drommer/engler/) og [himmelen](/drommer/himmel/) bærer på en lignende symbolikk. Kirken i drømmene er for Jung et symbol på Selvet — den helhetlige psykens kjerne som rommer mer enn Ego-et alene kan fatte.
+For mange er kirken først og fremst et bilde på et fristed — et sted der tempoet senkes og noe i deg får lov til å bare være. Å drømme om å sitte i en kirkebenk, omsluttet av stillhet og dempet lys, kan tolkes som et signal om at du trenger nettopp dette: et rom der kravene fra omverdenen ikke slipper inn, og der det er plass til ettertanke, trøst eller en stille samtale med deg selv om det som virkelig betyr noe.
 
-I norsk kulturhistorie er kirken uveisomt vevd inn i identiteten — stavkirkene som kulturarv, den hvite trebygningen som midtpunkt i enhver bygd, klokkene som markerer dagen. Selv for den sekulære nordmannen sitter disse bildene dypt. Å drømme om kirke er å drømme om noe av det mest grunnleggende i den norske kulturelle psyken.
+Samtidig er kirken et sted vi sjelden er alene om — den er bygget for fellesskap, for overgangsriter som [bryllup](/drommer/bryllup/), dåp og begravelse, og for tradisjoner som binder generasjoner sammen. En drøm der kirken er full av mennesker kan derfor handle om tilhørighet: ditt forhold til familie, fellesskap eller arven du er en del av, og hvordan du finner din plass i den.
+
+Kirken er også historisk knyttet til samvittighet og verdier — et sted man gikk for å gjøre opp med seg selv. Drømmer om kirke kan derfor invitere til å se nærmere på dine egne verdier, eller på noe du bærer på skyldfølelse for og trenger å legge fra deg. Og selve bygningen sier ofte noe i seg selv: en praktfull, lys kirke kan speile en rik indre tilstand, mens en forfallen eller tom kirke kan peke mot en åndelig tomhet eller ensomhet som ber om oppmerksomhet.
 
 ## Drømmeguiden anbefaler
 

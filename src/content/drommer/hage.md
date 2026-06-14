@@ -54,13 +54,13 @@ Et behov for ro, fordypning og frihet fra krav.
 **Hvis hagen hadde en port som var åpen:**
 Invitasjon — noe er tilgjengelig for deg nå.
 
-## Psykologiske og kulturelle perspektiver
+## Det vi dyrker og pleier
 
-Hagen er i vestlig kultur knyttet til paradis — "paradise" kommer fra det persiske ordet for inngjerdet hage. Den kultiverte hagen er det menneskeskapte paradiset: et sted der kaos og natur er brakt i balanse med skjønnhet og hensikt.
+Ordet "paradis" har sin opprinnelse i et gammelpersisk ord for en inngjerdet hage — et sted skjermet fra ørkenen og kaoset utenfor, der alt som er plantet får lov til å vokse i fred. Denne ideen lever videre i forestillingen om Edens hage, og kan forklare hvorfor hagedrømmer så ofte bærer med seg en følelse av harmoni eller lengsel: hagen er stedet der trygghet, skjønnhet og overflod kan eksistere samtidig.
 
-Jung beskrev hagen som ett av symbolene på individuasjonsprosessen i sin helhet — det dyrkede indre liv der mange ulike elementer er brakt sammen i en harmonisk helhet, som en hage med mange planter — [trær](/drommer/tre/) og blomster — som alle trives side om side.
+Samtidig er en hage aldri statisk — den krever stell for å forbli det den er. Drømmens hage kan derfor speile en pågående balansegang mellom orden og villskap: en velholdt hage kan stå for kontroll, omsorg og noe du tar deg tid til å vedlikeholde, mens en gjengrodd eller vill hage kan peke mot sider av livet som har fått vokse fritt uten din inngripen — ikke nødvendigvis negativt, men verdt å legge merke til.
 
-I norsk hagekultur er kjøkkenhagen og blomsterhagen en del av hverdagen for mange — noe som er dypt forankret i det norske forholdet til [jord](/drommer/jord/), sesong og nøysomhet. Hagen er også nært knyttet til [huset](/drommer/hus/) som drømmesymbol.
+Hagen følger også årstidenes rytme, og det gjør drømmer om hagearbeid til noe som ofte handler om tålmodighet og timing. Å så er ikke det samme som å høste, og mellom de to ligger det en periode der ingenting ser ut til å skje på overflaten. En drøm om å plante, vente eller høste i en hage kan derfor minne deg om at noe i livet ditt trenger tid for å bli til det det skal bli — og at den tiden ikke nødvendigvis er bortkastet, selv når det ikke føles produktivt.
 
 ## Drømmeguiden anbefaler
 

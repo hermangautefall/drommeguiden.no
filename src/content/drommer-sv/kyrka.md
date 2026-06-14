@@ -67,11 +67,13 @@ En tro, en tradition eller en källa till mening som har försvagats eller över
 **Om du kände frid inne i kyrkan:**
 Din inre spiritualitet eller ditt behov av stillhet och mening har inte tystnat — det är där och väntar.
 
-## Psykologiska och kulturella perspektiv
+## Tillflykt, gemenskap och det heliga i dig
 
-Jung var djupt upptagen av det religiösa som psykologiskt fenomen — inte som doktrin, utan som människans förmåga att uppleva det numinösa: något som är större, mer laddat och mer meningsfullt än det dagliga. Drömmar om [änglar](/sv/drommar/anglar/) och [himlen](/sv/drommar/himmel/) bär på en liknande symbolik. Kyrkan i drömmarna är för Jung en symbol för Självet — den helhetliga psykens kärna som rymmer mer än Egot ensamt kan fatta.
+För många är kyrkan framför allt en bild av en fristad — en plats där tempot sänks och något i dig får lov att bara vara. Att drömma om att sitta i en kyrkbänk, omsluten av tystnad och dämpat ljus, kan tolkas som ett tecken på att du behöver just detta: ett rum där omvärldens krav inte släpps in, och där det finns plats för eftertanke, tröst eller ett stilla samtal med dig själv om det som verkligen betyder något.
 
-I nordisk kulturhistoria är kyrkan obevekligen invävd i identiteten — stavkyrkorna som kulturarv, den vita träbyggnaden som medelpunkt i varje by, klockorna som markerar dagen. Även för den sekulära nordbon sitter dessa bilder djupt. Att drömma om kyrka är att drömma om något av det mest grundläggande i den nordiska kulturella psyken.
+Samtidigt är kyrkan en plats vi sällan är ensamma om — den är byggd för gemenskap, för övergångsriter som [bröllop](/sv/drommar/brollop/), dop och begravning, och för traditioner som binder samman generationer. En dröm där kyrkan är full av människor kan därför handla om tillhörighet: din relation till familj, gemenskap eller det arv du är en del av, och hur du hittar din plats i det.
+
+Kyrkan är också historiskt knuten till samvete och värderingar — en plats man gick till för att göra upp med sig själv. Drömmar om kyrka kan därför bjuda in dig att se närmare på dina egna värderingar, eller på något du bär på skuld för och behöver lägga ifrån dig. Och själva byggnaden säger ofta något i sig: en praktfull, ljus kyrka kan spegla ett rikt inre tillstånd, medan en förfallen eller tom kyrka kan peka mot en andlig tomhet eller ensamhet som ber om uppmärksamhet.
 
 ## Drömguiden rekommenderar
 
