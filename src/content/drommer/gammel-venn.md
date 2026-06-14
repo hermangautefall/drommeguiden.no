@@ -52,11 +52,13 @@ Et genuint ønske om gjenforening — kanskje verdt å handle på?
 **Hvis de ignorerte deg:**
 Noe fra fortiden er ikke mulig å gjenoppta slik det var. Noe er over.
 
-## Psykologiske og kulturelle perspektiver
+## Nostalgi, et tidligere selv og det vi savner
 
-Gamle venner i drømmene er, ifølge forskning på nostalgiske drømmer, blant de vanligste og mest positivt ladede drømmene vi har. De er særlig vanlige i perioder med overgang og endring — der fortiden fremstår som tryggere enn fremtiden.
+Den gamle vennen i drømmen er ofte et bilde på en versjon av deg selv fra den tiden dere kjente hverandre godt. Nostalgien som følger drømmen handler sjelden bare om personen — den handler ofte om en frihet, en letthet eller en måte å være på som du forbinder med den perioden, og som du på et vis har vokst bort fra eller mistet kontakt med.
 
-Jung ville sett den gamle vennen som en del av det personlige ubevisste — et spor av en livsperiode og identitet som er lagret og venter på å bli reaktivert.
+Ofte legemliggjør den gamle vennen en egenskap du savner i livet ditt akkurat nå — kanskje spontaniteten, lojaliteten eller leken som kjennetegnet vennskapet deres. Drømmen kan i så fall være en påminnelse om et behov som ikke helt blir møtt i hverdagen din i dag.
+
+Slike drømmer kan også handle om noe uavsluttet: følelser rundt et vennskap som glapp uten en tydelig grunn, eller et stille ønske om å ta opp kontakten igjen. Samtidig minner gamle venner oss om kontinuitet — de er forankret i kjernen av hvem vi er, og å drømme om dem kan være en måte å koble seg til disse delene av identiteten på, selv når livet har gått videre i en annen retning.
 
 ## Drømmeguiden anbefaler
 

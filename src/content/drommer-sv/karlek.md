@@ -66,13 +66,13 @@ En önskan som stöter mot begränsningar — inre eller yttre. Vad är det du �
 **Om du drömde om att bli älskad av ett barn:**
 Villkorslös kärlek — den mest grundläggande och rena bilden på att bli accepterad som du är.
 
-## Psykologiska och kulturella perspektiv
+## Förbindelse, självkärlek och kärlekens många former
 
-Kärlek är människans mest universella och mest utforskade erfarenhet — och drömmarnas kärlek bär hela denna tyngd. Från Platons Symposion, där kärleken beskrivs som längtan efter att bli hel, till Jungs beskrivning av föreningen av motsatser i psyket — kärleken pekar alltid mot något större än det partikulära.
+Kärleksdrömmar speglar ofta ett grundläggande mänskligt behov: önskan om förbindelse, intimitet, acceptans och tillhörighet. Sådana drömmar kan både uttrycka en längtan efter mer av detta i ditt liv, och — för många — en känsla av att behovet redan är uppfyllt.
 
-I fornnordisk mytologi är Freja inte bara kärleksgudinnan — hon är också gudinnan för krig och för de döda. Det är en påminnelse om att äkta kärlek innehåller allt: livets glädje och livets allvar, föreningen och förlusten. Drömmens kärlek är sällan enkel — men den är alltid meningsfull.
+Lika ofta pekar kärleken i drömmen inåt, mot din relation till dig själv. Klarar du att ta emot omsorg och värme när den ges till dig? Drömmar där du blir älskad och uppskattad kan tolkas som psykets sätt att visa dig något du förtjänar, men inte alltid ger dig själv i vardagen.
 
-Psykologen Erich Fromm påpekade att kärleken inte primärt är en känsla, utan en förmåga — något som övas och kultiveras. Drömmens kärleksbilder kan då läsas som övningsfältet: psyket övar något du behöver mer av i det vakna livet.
+Det är inte heller givet att drömmen handlar om romantisk kärlek. Redan de antika grekerna skilde mellan flera former av kärlek — eros, filia, storge och agape — och drömmens kärlek kan tillhöra vilken som helst av dessa: en vänskap, ett familjeband, eller en mer universell medkänsla. Ibland uttrycker drömmen också en idealiserad längtan snarare än en verklighet — en bild av vad du önskar dig, ställd mot det du faktiskt har.
 
 ## Drömguiden rekommenderar
 

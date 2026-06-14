@@ -126,4 +126,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] bestemor (farmor) — visdom/omsorg/røtter + continuing bonds + arv + indre vise
 - [x] bestefar (farfar) — visdom/veiledning/arv + trøst + mild autoritet + indre mentor
 
-## Status: 80/214 NB ferdig (+ 80 SV).
+## Batch 17 — mennesker/sosialt
+- [x] sjef (chef) — autoritet/vurdering + kontroll/autonomi + ambisjon/selvverd + indre sjef
+- [x] nabo (granne) — grenser/nærhet + del av selvet i nærheten + fellesskap + kjent fremmed
+- [x] fremmed (frammande) — ukjent selv/skygge + det nye + projeksjon + den fremmede som katalysator
+- [x] gammel-venn (gammal-van) — nostalgi/tidligere selv + hva de representerer + uavsluttet + identitet
+- [x] kjaerlighet (karlek) — behov for forbindelse + selvkjærlighet + eros/filia/storge/agape + idealisering
+
+## Status: 85/214 NB ferdig (+ 85 SV).

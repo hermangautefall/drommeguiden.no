@@ -57,11 +57,13 @@ I jungiansk tolkning kan dette representere din anima eller animus — den indre
 **Hvis det var mange fremmede:**
 Kan speile en situasjon der du føler deg anonym, oversett, eller der du ikke kjenner deg selv i omgivelsene dine. Det kan også minner om følelsen i drømmer om å være [naken](/drommer/naken/).
 
-## Psykologiske og kulturelle perspektiver
+## Det ukjente i deg selv og verden
 
-Jung beskrev møtet med Skyggen — representert som en fremmed i drømmene — som en av de viktigste psykologiske prosessene vi kan gå gjennom. Å anerkjenne og integrere disse sidene av oss selv er, ifølge Jung, veien mot psykologisk helhet.
+En fremmed i drømmen bærer ofte et ukjent potensial — en egenskap, et talent eller en holdning du ikke har møtt hos deg selv ennå. Å drømme om å møte deg selv "i forkledning" kan tolkes som et tegn på at noe i deg er klart for å bli oppdaget eller tatt i bruk, selv om det ennå føles fremmed.
 
-I mange kulturer er drømmens fremmed sett på som en budbringer — noen som bærer på et budskap fra det ubevisste eller fra en verden hinsides det hverdagslige. Uansett perspektiv er budskapet det samme: legg merke til hvem denne personen er, for den forteller deg noe om deg selv.
+Drømmen kan også speile hvordan du forholder deg til det nye generelt — endringer, nye mennesker, ukjente situasjoner som er på vei inn i livet ditt. Er den fremmede i drømmen avslappende eller urovekkende, kan det si noe om hvor åpen eller forsiktig du er i møte med det uventede akkurat nå.
+
+Vi har dessuten en tendens til å projisere på fremmede: de blir tomme flater vi fyller med egne følelser. En truende fremmed kan derfor bære på en frykt du allerede har, mens en hjelpsom fremmed kan representere en ressurs, et råd eller en vei videre du ikke helt har sett selv. I mange fortellinger er nettopp den mystiske fremmede en som dukker opp for å bringe et budskap eller sette noe i bevegelse — en liten katalysator i historien om livet ditt.
 
 ## Drømmeguiden anbefaler
 

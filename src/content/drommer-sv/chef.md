@@ -56,11 +56,13 @@ Kan spegla att du är redo för mer, eller att du bär på mer ansvar än du ork
 **Om chefen var din bortgångne far eller en annan auktoritetsfigur:**
 [Chefen och fadersfiguren](/sv/drommar/pappa/) överlappar ofta i drömsymboliken — båda representerar auktoritet och bedömning.
 
-## Psykologiska och kulturella perspektiv
+## Auktoritet, bedömning och den inre chefen
 
-I jungiansk psykologi är chefsfiguren i drömmar nära besläktad med faderskomplexet — båda representerar den auktoritära principen som bedömer, sätter gränser och avgör vad som är värdigt och vad som inte är det. Att drömma om chefen är därför ofta en förlängning av de tidigaste relationerna vi hade till auktoritet.
+Chefen i drömmar kan stå för vem som helst som har — eller upplevs ha — makt över dig: en ledare, en förälder, en institution, eller bara livet självt när det ställer krav. Drömmen kan därför handla om hur du förhåller dig till att bli bedömd, och om du känner dig fri eller styrd i situationer där andra sätter ramarna.
 
-Forskning om arbetsrelaterade drömmar visar att de är mycket vanliga i perioder med högt arbetstryck — som också kan ge drömmar om att komma [för sent](/sv/drommar/sen/) — och att de sällan är förebud om något konkret, utan snarare tecken på att hjärnan bearbetar emotionella aspekter av arbetssituationen.
+För många handlar detta lika mycket om kontroll och självständighet som om jobbet. Att drömma att chefen bestämmer över dig kan tolkas som en signal om att du önskar mer rådighet över din egen tid och dina egna val — eller att du, under en period, har gett ifrån dig mer kontroll än du egentligen är bekväm med.
+
+Chefen kan också spegla din egen ambition och förhållande till framgång. Vad betyder det för dig att bli sedd som tillräckligt bra? Många känner en smygande bedragarkänsla inför en chefsfigur i drömmen — en rädsla för att någon snart ska "avslöja" att man inte räcker till. Andra upplever att chefen i drömmen egentligen är en projektion av deras eget inre driv: den del av dig som organiserar, pressar och sätter standarder. Om den inre rösten ofta är hård kan drömmen vara en påminnelse om att visa dig själv lite av den vänlighet du gärna ger andra.
 
 ## Drömguiden rekommenderar
 

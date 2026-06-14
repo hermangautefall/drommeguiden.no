@@ -58,11 +58,13 @@ I jungiansk tolkning kan detta representera din anima eller animus — den inre 
 **Om det var många främlingar:**
 Kan spegla en situation där du känner dig anonym, förbisedd, eller där du inte känner dig själv i din omgivning. Det kan också påminna om känslan i drömmar om att vara [naken](/sv/drommar/naken/).
 
-## Psykologiska och kulturella perspektiv
+## Det okända i dig själv och världen
 
-Jung beskrev mötet med Skuggan — representerad som en främling i drömmarna — som en av de viktigaste psykologiska processerna vi kan gå igenom. Att erkänna och integrera dessa sidor av oss själva är, enligt Jung, vägen mot psykologisk helhet.
+En främling i drömmen bär ofta på en okänd potential — en egenskap, en talang eller en hållning du ännu inte mött hos dig själv. Att drömma om att möta dig själv "i förklädnad" kan tolkas som ett tecken på att något i dig är redo att upptäckas eller tas i bruk, även om det fortfarande känns främmande.
 
-I många kulturer ses drömmens främling som en budbärare — någon som bär på ett budskap från det omedvetna eller från en värld bortom det vardagliga. Oavsett perspektiv är budskapet detsamma: lägg märke till vem denna person är, för den berättar något om dig själv.
+Drömmen kan också spegla hur du förhåller dig till det nya i allmänhet — förändringar, nya människor, okända situationer som är på väg in i ditt liv. Om främlingen i drömmen känns avslappnande eller oroande kan det säga något om hur öppen eller försiktig du är inför det oväntade just nu.
+
+Vi har dessutom en tendens att projicera på främlingar: de blir tomma ytor vi fyller med våra egna känslor. En hotfull främling kan därför bära på en rädsla du redan har, medan en hjälpsam främling kan representera en resurs, ett råd eller en väg framåt du inte riktigt sett själv. I många berättelser är just den mystiska främlingen någon som dyker upp för att föra med sig ett budskap eller sätta något i rörelse — en liten katalysator i berättelsen om ditt liv.
 
 ## Drömguiden rekommenderar
 

@@ -70,18 +70,10 @@ Sammenligning og indre spørsmål om eget livsvalg.
 **Hvis det var en konflikt eller bråk:**
 En uavklart situasjon i nærmiljøet — eller en indre konflikt mellom hvem du er og hvem du tror du bør være.
 
-## Psykologiske og kulturelle perspektiver
+## Grenser, nærhet og det vi viser naboen
 
-Naboforholdet er gjenstand for noen av menneskehetens eldste etiske refleksjoner, og dette gir drømmens nabo en spesiell tyngde. I norsk og generelt nordisk kontekst er naboen en sentral figur, særlig i den uskrevne "janteloven" — det normative fellesskapet som vet hva du driver med og forventer at du holder deg innenfor visse rammer. Drømmens nabo bærer ofte på dette i norsk kontekst.
+Naboen lever tett på livet ditt uten å være en del av det — og denne blandingen av nærhet og distanse er ofte selve kjernen i drømmen. Den kan handle om grenser: hva du deler med omverdenen og hva du holder for deg selv, og om noen i livet ditt nylig har kommet litt for nært, eller om du selv trenger å trekke en linje tydeligere. Drømmer der naboen krysser en grense — kommer inn uten å spørre, ser inn vinduene dine — kan tolkes som et signal om at noe privat trenger bedre vern akkurat nå.
 
-I konfutsiansk etikk er forholdet til naboen en av de viktige sosiale relasjonene som binder samfunnet sammen. Et godt naboforhold er ikke bare praktisk hyggelig — det er et moralsk fundament. Drømmens nabo kan derfor i en østasiatisk lesning representere ditt forhold til "den sosiale orden" som helhet.
+Naboen kan også representere en del av deg selv som er kjent, men ikke fullt eid — noe som ligger like i utkanten av bevisstheten, "nær nok" til at du kjenner det igjen, men ikke nær nok til at du har tatt det helt inn over deg. I så fall kan drømmen invitere deg til å se nærmere på denne ukjente, men nære, siden av deg selv.
 
-I islamsk tradisjon har naboens rettigheter — *huquq al-jar* — en svært høy plass. Profeten Muhammad sa: "Gabriel fortsatte å minne meg om naboens rettigheter inntil jeg trodde han skulle gjøre naboen til arving." Det finnes lange katalogiseringer av disse rettighetene: ikke å plage med matlukt naboen ikke kan dele, å besøke ved sykdom, å hjelpe ved sorg. Drømmens nabo kan i denne tradisjonen være et bilde av en moralsk forpliktelse som krever noe av deg.
-
-I jødisk og kristen tradisjon er "elsk din neste" — *ve'ahavta le're'akha* — en av de mest siterte etiske bud. I Lukas-evangeliet stiller en lovkyndig Jesus spørsmålet: "Hvem er min neste?" Svaret — historien om den barmhjertige samaritan — utvider naboen til å bety enhver i nød du møter på vegen. Drømmens nabo kan i denne tradisjonen være et bilde på det etiske kallet selv.
-
-I buddhistisk *mettā*-praksis — utvidet kjærlighet — starter man ofte med seg selv, så sin nærmeste, så naboen, så de man ikke kjenner, så fienden, og til slutt alle levende vesener. Naboen er det tredje trinnet, og dermed et viktig speil for hvor langt ens medfølelse rekker. Drømmens nabo kan i en buddhistisk lesning være et øvelsesfelt for selve hjertets utvidelse.
-
-Sosialantropologen Robert Putnam har vist at "tette nabolag" — der man kjenner og stoler på dem rundt seg — er sterke prediktorer for både individuell og kollektiv lykke. Tap av nabofellesskap er en del av moderne ensomhetskrisen. Drømmens nabo kan dermed også være et bilde av denne større lengselen — etter et fellesskap som er nært nok til å være ekte, men ikke for tett til å være kvelende.
-
-Jung og senere arketypiske psykologer som James Hillman har pekt på at "den andre" i drømmer ofte er en del av oss selv vi ennå ikke har integrert. Drømmens nabo kan altså være "den som ligner deg, men er nok annerledes til at du kan se ham klart" — et nyttig speil for å se sider av seg selv som er for nære til å se direkte.
+Samtidig handler nabo-drømmer ofte om tilhørighet til et fellesskap — følelsen av å være et godt medlem av nærmiljøet, eller av å bli vurdert av det. Et sammenligningsblikk ("hvordan ser livet mitt ut sett fra utsiden?") kan dukke opp her. Naboen er til syvende og sist den kjente fremmede: en påminnelse om at vi alltid lever med et lag av sosial overflate utenpå det vi egentlig er — og drømmen kan invitere deg til å reflektere over forholdet mellom de to.

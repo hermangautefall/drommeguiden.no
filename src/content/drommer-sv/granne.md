@@ -71,18 +71,10 @@ Jämförelse och inre frågor om eget livsval.
 **Om det var en konflikt eller bråk:**
 En outklarad situation i närmiljön — eller en inre konflikt mellan vem du är och vem du tror du bör vara.
 
-## Psykologiska och kulturella perspektiv
+## Gränser, närhet och det vi visar grannen
 
-Granneförhållandet är föremål för några av mänsklighetens äldsta etiska reflektioner, och det ger drömmens granne en särskild tyngd. I svensk och allmänt nordisk kontext är grannen en central figur, särskilt i den oskrivna "jantelagen" — den normativa gemenskapen som vet vad du håller på med och förväntar att du håller dig inom vissa ramar. Drömmens granne bär ofta detta i svensk kontext.
+Grannen lever tätt intill ditt liv utan att vara en del av det — och just den blandningen av närhet och distans är ofta kärnan i drömmen. Den kan handla om gränser: vad du delar med omvärlden och vad du håller för dig själv, och om någon i ditt liv den senaste tiden har kommit lite för nära, eller om du själv behöver dra en gräns tydligare. Drömmar där grannen kliver över en gräns — kommer in utan att fråga, ser in genom dina fönster — kan tolkas som en signal om att något privat behöver bättre skydd just nu.
 
-I konfucianska etik är förhållandet till grannen en av de viktiga sociala relationer som binder samhället samman. Ett gott granneförhållande är inte bara praktiskt trevligt — det är en moralisk grund. Drömmens granne kan därför i en östasiatisk läsning representera ditt förhållande till "den sociala ordningen" som helhet.
+Grannen kan också representera en del av dig själv som är bekant, men inte helt erkänd — något som ligger strax i utkanten av medvetandet, "nära nog" för att du känner igen det, men inte nära nog för att du tagit det till dig fullt ut. I så fall kan drömmen vara en inbjudan att se närmare på denna okända, men nära, sidan av dig själv.
 
-I islamisk tradition har grannens rättigheter — *huquq al-jar* — en mycket hög plats. Profeten Muhammad sa: "Gabriel fortsatte att påminna mig om grannens rättigheter tills jag trodde han skulle göra grannen till arvinge." Det finns långa katalogiseringar av dessa rättigheter: att inte plåga med matos grannen inte kan dela, att besöka vid sjukdom, att hjälpa vid sorg. Drömmens granne kan i denna tradition vara en bild av en moralisk förpliktelse som kräver något av dig.
-
-I judisk och kristen tradition är "älska din nästa" — *ve'ahavta le're'akha* — ett av de mest citerade etiska buden. I Lukasevangeliet ställer en laglärd Jesus frågan: "Vem är min nästa?" Svaret — berättelsen om den barmhärtige samariern — utvidgar nästan till att betyda vem som helst i nöd du möter på vägen. Drömmens granne kan i denna tradition vara en bild av själva det etiska kallet.
-
-I buddhistisk *mettā*-praktik — utvidgad kärlek — börjar man ofta med sig själv, sedan sin närmaste, sedan grannen, sedan dem man inte känner, sedan fienden, och slutligen alla levande varelser. Grannen är det tredje steget, och därmed en viktig spegel för hur långt ens medkänsla räcker. Drömmens granne kan i en buddhistisk läsning vara ett övningsfält för själva hjärtats utvidgning.
-
-Socialantropologen Robert Putnam har visat att "täta grannskap" — där man känner och litar på dem omkring sig — är starka prediktorer för både individuell och kollektiv lycka. Förlust av grannegemenskap är en del av den moderna ensamhetskrisen. Drömmens granne kan därmed också vara en bild av denna större längtan — efter en gemenskap som är nära nog för att vara äkta, men inte för tät för att vara kvävande.
-
-Jung och senare arketypspsykologer som James Hillman har pekat på att "den andre" i drömmar ofta är en del av oss själva vi ännu inte integrerat. Drömmens granne kan alltså vara "den som liknar dig, men är tillräckligt annorlunda för att du ska kunna se honom klart" — en användbar spegel för att se sidor av sig själv som är för nära för att se direkt.
+Samtidigt handlar drömmar om grannar ofta om tillhörighet till en gemenskap — känslan av att vara en god medlem i närmiljön, eller av att bli bedömd av den. Ett jämförande blick ("hur ser mitt liv ut sett utifrån?") kan dyka upp här. Grannen är i grund och botten den bekanta främlingen: en påminnelse om att vi alltid lever med ett lager av social yta utanpå det vi egentligen är — och drömmen kan bjuda in dig att reflektera över relationen mellan de två.

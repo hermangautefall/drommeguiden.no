@@ -65,13 +65,13 @@ Et ønske som støter mot begrensninger — indre eller ytre. Hva er det du øns
 **Hvis du drømte om å bli elsket av et barn:**
 Betingelsesløs kjærlighet — det mest grunnleggende og rene bildet på å bli akseptert som du er.
 
-## Psykologiske og kulturelle perspektiver
+## Forbindelse, selvkjærlighet og kjærlighetens mange former
 
-Kjærlighet er menneskenes mest universelle og mest utforskede erfaring — og drømmenes kjærlighet bærer hele denne tyngden. Fra Platons Symposion, der kjærligheten beskrives som lengselen etter å bli hel, til Jungs beskrivelse av foreningen av motsetninger i psyken — kjærligheten peker alltid mot noe større enn det partikulære.
+Kjærlighetsdrømmer speiler ofte et grunnleggende menneskelig behov: ønsket om forbindelse, intimitet, aksept og tilhørighet. Slike drømmer kan både uttrykke en lengsel etter mer av dette i livet ditt, og — for noen — en følelse av at behovet allerede er oppfylt.
 
-I norrøn mytologi er Freyja ikke bare kjærlighetsgudinen — hun er også gudinnen for krig og for de avdøde. Det er en påminnelse om at ekte kjærlighet inneholder alt: livets glede og livets alvor, foreningen og tapet. Drømmens kjærlighet er sjelden enkel — men den er alltid meningsfull.
+Like ofte peker kjærligheten i drømmen innover, mot ditt forhold til deg selv. Klarer du å ta imot omsorg og varme når den blir gitt deg? Drømmer der du blir elsket og verdsatt kan tolkes som psykens måte å vise deg noe du fortjener, men ikke alltid gir deg selv i det daglige.
 
-Psykolog Erich Fromm påpekte at kjærligheten ikke primært er en følelse, men en evne — noe som øves og kultiveres. Drømmens kjærlighetsbilder kan da leses som øvelsesfeltet: psyken praktiserer noe du trenger mer av i det våkne livet.
+Det er heller ikke gitt at drømmen handler om romantisk kjærlighet. Allerede de gamle grekerne skilte mellom flere former for kjærlighet — eros, filia, storge og agape — og drømmens kjærlighet kan tilhøre hvilken som helst av disse: et vennskap, et familiebånd, eller en mer universell medfølelse. Noen ganger uttrykker drømmen også en idealisert lengsel snarere enn en virkelighet — et bilde av hva du ønsker deg, satt opp mot det du faktisk har.
 
 ## Drømmeguiden anbefaler
 

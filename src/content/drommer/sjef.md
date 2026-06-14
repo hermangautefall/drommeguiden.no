@@ -55,11 +55,13 @@ Kan speile at du er klar for mer, eller at du bærer på mer ansvar enn du orker
 **Hvis sjefen var din avdøde far eller en annen autoritetsfigur:**
 [Sjefen og farsfiguren](/drommer/far/) overlapper ofte i drømmesymbolikken — begge representerer autoritet og vurdering.
 
-## Psykologiske og kulturelle perspektiver
+## Autoritet, vurdering og den indre sjefen
 
-I jungiansk psykologi er sjefsfiguren i drømmer nært beslektet med farskomplekset — begge representerer det autoritære prinsippet som vurderer, setter grenser og avgjør hva som er verdig og hva som ikke er det. Å drømme om sjefen er dermed ofte en videreføring av de tidligste relasjonene vi hadde til autoritet.
+Sjefen i drømmer kan stå for hvem som helst som har — eller oppleves å ha — makt over deg: en leder, en forelder, en institusjon, eller bare livet selv når det stiller krav. Drømmen kan dermed handle om hvordan du forholder deg til å bli vurdert, og om du kjenner deg fri eller styrt i situasjoner der andre setter rammene.
 
-Forskning på arbeidsrelaterte drømmer viser at de er svært vanlige i perioder med høyt arbeidspress — som også kan gi drømmer om å komme [for sent](/drommer/sen/) — og at de sjelden er varsler om noe konkret, men snarere tegn på at hjernen bearbeider emosjonelle aspekter av arbeidssituasjonen.
+For mange handler dette like mye om kontroll og selvstendighet som om jobb. Å drømme at sjefen bestemmer over deg kan tolkes som et signal om at du ønsker mer råderett over egen tid og egne valg — eller at du, i en periode, har gitt fra deg mer kontroll enn du egentlig er bekvem med.
+
+Sjefen kan også speile din egen ambisjon og forholdet til suksess. Hva betyr det for deg å bli sett på som god nok? Noen kjenner en snikende bedragerfølelse i møte med en sjeffigur i drømmen — en frykt for at noen snart vil "avsløre" at man ikke strekker til. Andre opplever at sjefen i drømmen egentlig er en projeksjon av deres eget indre driv: den delen av deg som organiserer, presser og setter standarder. Hvis denne indre stemmen ofte er hard, kan drømmen være en påminnelse om å vise deg selv litt mer av den vennligheten du gjerne gir andre.
 
 ## Drømmeguiden anbefaler
 
