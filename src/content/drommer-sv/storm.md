@@ -68,13 +68,13 @@ Regnet tillför ett eget lager av symbolik — rening, känsloutlopp eller förn
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Uppror i känslolivet
 
-Carl Jung tolkade naturkrafter i drömmar som uttryck för psykets egna krafter. Stormen representerar i jungiansk mening det arketypiska kaos som måste genomlevas för att ny ordning ska uppstå. Jung menade att psyket, liksom naturen, opererar i cykler av uppbyggnad och nedbrytning — och att stormdrömmar ofta signalerar att en sådan cykel är i gång.
+En storm i en dröm kan tolkas som inre oro satt i rörelse — vrede som byggts upp, ångest som legat och pyrt, eller en konflikt som är på väg att brytas ut. Stillheten före ett åskväder kan spegla spänningen i en situation som snart måste lösas, medan stillheten efteråt kan handla om lättnaden som kommer när något svårt äntligen är sagt eller gjort.
 
-I fornnordisk mytologi är stormen oupplösligt knuten till gudarna. Tor med sin hammare Mjölner var åskans och stormens gud, och åskan sågs som uttryck för gudomlig kraft och beskydd. I nordisk folktro tolkades våldsamt väder ofta som tecken från högre makter — något som gav stormen en dubbel betydelse av både fara och vördnad.
+Stormen kan också tolkas som en yttre omvälvning — en turbulent period i livet, en plötslig förändring, eller en känsla av kaos du inte riktigt kan styra. Storm som dyker upp tillsammans med [regn](/sv/drommar/regn/) i en dröm knyter ofta denna oro till en bredare känslomässig process.
 
-För nordbor har stormen en särskild resonans. Vi lever med havet och fjällen, och vet att stormar är en del av naturens ordning. Denna vardagliga förtrogenhet med naturkrafterna kan göra stormdrömmar extra meningsfulla — de berör något vi känner i kroppen, inte bara i tankarna. Att drömma om storm i en nordisk kontext kan därmed handla lika mycket om respekt för krafterna i sig själva som om rädsla för dem.
+En annan bild är stormens öga — den märkligt stilla punkten mitt i allt kaos. Att finna lugn där, mitt i oron, kan tolkas som en påminnelse om att även stormar går över. Naturkrafternas råa styrka kan dessutom väcka en känsla av vördnad och vanmakt — en påminnelse om krafter som är större än oss, och att det ibland är rätt att ge sig hän åt dem istället för att kämpa emot.
 
 ---
 

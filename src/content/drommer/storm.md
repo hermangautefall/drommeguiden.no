@@ -67,13 +67,13 @@ Regnet tilfører et eget lag av symbolikk — renselse, følelsesutløsning elle
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Opprør i følelseslivet
 
-Carl Jung tolket naturkrefter i drømmer som uttrykk for psykens egne krefter. Stormen representerer i jungiansk forstand det arketypiske kaoset som må gjennomleves for at ny orden skal oppstå. Jung mente at psyken, i likhet med naturen, opererer i sykluser av oppbygging og nedbryting — og at stormdrømmer ofte signaliserer at en slik syklus er i gang.
+En storm i en drøm kan tolkes som indre uro satt i bevegelse — sinne som har bygget seg opp, angst som har ligget og ulmet, eller en konflikt som er i ferd med å bryte ut. Stillheten før et tordenvær kan speile spenningen i en situasjon som snart må løses, mens stillheten etterpå kan handle om lettelsen som kommer når noe vanskelig endelig er sagt eller gjort.
 
-I norrøn mytologi er stormen uløselig knyttet til gudene. Tor med sin hammer Mjølner var tordnens og stormens gud, og torden ble sett som uttrykk for guddommelig kraft og beskyttelse. I norsk folketro ble voldsomt vær ofte tolket som tegn fra høyere makter — noe som ga stormen en dobbelt betydning av både fare og ærefrykt.
+Stormen kan også tolkes som en ytre omveltning — en turbulent periode i livet, en plutselig endring, eller en følelse av kaos du ikke helt kan styre. Storm som dukker opp sammen med [regn](/drommer/regn/) i en drøm, knytter ofte denne uroen til en bredere følelsesmessig prosess.
 
-For nordmenn har stormen en spesiell resonans. Vi lever med havet og fjellene, og vet at stormer er en del av naturens orden. Denne hverdagslige fortroligheten med naturkreftene kan gjøre stormdrømmer ekstra meningsfulle — de berører noe vi kjenner i kroppen, ikke bare i tankene. Å drømme om storm i en norsk kontekst kan dermed handle like mye om respekt for kreftene i seg selv som om frykt for dem.
+Et annet bilde er stormens øye — det merkelig stille sentrumet midt i alt kaoset. Å finne ro der, midt i uroen, kan tolkes som en påminnelse om at også stormer går over. Naturkreftenes rå styrke kan dessuten vekke en følelse av ærefrykt og avmakt — en påminnelse om krefter som er større enn oss, og at det noen ganger er riktig å gi seg over til dem i stedet for å kjempe.
 
 ---
 

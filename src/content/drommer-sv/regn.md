@@ -70,13 +70,13 @@ Kan symbolisera att du observerar dina egna känslor på avstånd — kanske sky
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Känslor som faller — gråt, rening och växt
 
-Carl Jung betraktade vatten i drömmar som en grundläggande symbol för det omedvetna, och regn representerar i jungiansk bemärkelse det omedvetnas påverkan som faller ned över det medvetna. Regnet är inte något du väljer — det kommer till dig utifrån, precis som omedvetna insikter och känslor kan tränga sig på oväntat. Att stå i regnet i en dröm kan i detta perspektiv handla om att låta sig beröras av sitt eget inre liv.
+Regn kan tolkas som en känslomässig utlösning i bildform — tårar som äntligen får falla, en spänning som löses upp, eller något du hållit tillbaka som nu får komma ut. Ett milt, varmt regn upplevs ofta som lindring och förnyelse, medan ett plötsligt skyfall kan spegla känslor eller en sorg som sköljer genom dig med större kraft än du var beredd på. Att [gråta](/sv/drommar/grata/) i en dröm och att drömma om regn ligger ofta nära varandra i betydelse.
 
-I fornnordisk kosmologi var regn knutet till fruktbarhet och gudarnas gunst. Frej, fruktbarhetsguden, rådde över regn och gröda, och gott regn var ett tecken på att gudarna var tillfredsställda. Omvänt kunde torka och för mycket regn tolkas som ett varsel om obalans i världen. Denna dualitet — regn som både gåva och plåga — speglas i modern drömtolkning.
+Över kulturgränser är regn också förknippat med näring, tillväxt och välsignelse. Regn efter en lång torka tolkas ofta som en bild av hopp och nytt liv — ett tecken på att något som legat i vila nu får möjlighet att växa igen. Samtidigt bär regnet på en reningssymbolik som går långt tillbaka: vattnet som tvättar rent, sköljer bort det gamla och röjer plats för en ny start.
 
-För oss som bor i Norden är regnet en konstant följeslagare. Vi har ord för otaliga varianter av regn, från duggregn till slagregn, och vårt förhållande till regnet präglas av pragmatisk acceptans. I drömkontext kan denna förtrogenhet med regn innebära att regndrömmar för nordbor kanske handlar mer om intensitet än om fenomenet i sig. Det är inte att det regnar som är budskapet — det är hur det regnar, och vad du gör med det.
+Stämningen i drömmen säger mycket om tolkningen. Regn kan kännas vemodigt och tungt, men det kan också vara förknippat med en skön känsla av mys och trygghet — att se regnet falla utanför medan du själv sitter varm och trygg inomhus.
 
 ---
 

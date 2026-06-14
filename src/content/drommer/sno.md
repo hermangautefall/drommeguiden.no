@@ -66,13 +66,13 @@ Glede, barnlighet og det å finne fryd i det enkle. En påminnelse om lekenhet o
 **Hvis snøen var overveldende — storm eller skred:**
 Noe hvitt og rent kan også bli farlig i for store mengder. En situasjon som har eskalert utover det håndterbare — ikke ulikt drømmer om [storm](/drommer/storm/).
 
-## Psykologiske og kulturelle perspektiver
+## Stillhet, kulde og blanke ark
 
-I norsk og samisk kultur er snøen ikke bare vær — den er en del av selve identiteten. Ordet "snø" har utallige varianter i samisk, fordi snøen er et levende, nyansert fenomen som må beskrives presist for å overleve i den. For nordmenn flest er snøen knyttet til barndom, jul, friluftsliv og en særegen norsk livsrytme der vinter ikke er noe man unngår, men noe man lever i.
+Snø bærer ofte to sider i drømmespråket. Den ene siden er ro, fred og renhet — et landskap som blir stille og vakkert. Den andre siden er kulde, nummenhet og isolasjon — følelser som har stivnet, eller en avstand som har lagt seg mellom deg og omverdenen. Hvilken side som dominerer i drømmen, kan ofte si noe om hvordan du har det akkurat nå: er snøen fredfull, eller er den frossen?
 
-Å drømme om snø treffer derfor noe kulturelt dypt — noe som handler om hvem vi er og hvordan vi er skrudd sammen som folk i dette klimaet.
+Nysnø som dekker alt kan tolkes som et blankt ark — en mulighet til å begynne på nytt, eller et bilde på noe som er i ferd med å dekkes over eller skjules. Snø og vinter kan også tolkes som en hvileperiode, en brakkmark der noe ligger og venter på riktig tidspunkt for å vokse igjen — slik frø ligger under snøen og venter på våren.
 
-Jung ville sett den hvite snøen som et symbol på det han kalte "tabula rasa" — den blanke tavlen, muligheten til nytt begynnelse — men ville også advart mot at det hvite kan skjule det mørke under. Snøen er ikke alltid bare ren; den kan også begrave.
+For mange er snø også tett forbundet med minner og barndom — undringen ved den første snøen, lyden av stillheten den skaper. Slike drømmer kan rett og slett tolkes som nostalgi, en lengsel tilbake til en enklere tid.
 
 ## Drømmeguiden anbefaler
 

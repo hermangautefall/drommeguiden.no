@@ -66,13 +66,13 @@ Glädje, barnslighet och att finna fröjd i det enkla. En påminnelse om lekfull
 **Om snön var överväldigande — storm eller skred:**
 Något vitt och rent kan också bli farligt i för stora mängder. En situation som eskalerat utöver det hanterbara.
 
-## Psykologiska och kulturella perspektiv
+## Stillhet, kyla och blanka blad
 
-I nordisk och samisk kultur är snön inte bara väder — den är en del av själva identiteten. Ordet "snö" har otaliga varianter på samiska, eftersom snön är ett levande, nyanserat fenomen som måste beskrivas precist för att överleva i den. För nordbor är snön knuten till barndom, jul, friluftsliv och en särpräglad nordisk livsrytm där vintern inte är något man undviker, utan något man lever i.
+Snö bär ofta på två sidor i drömspråket. Den ena sidan är lugn, frid och renhet — ett landskap som blir tyst och vackert. Den andra sidan är kyla, känslomässig nedstämdhet och isolering — känslor som har stelnat, eller ett avstånd som lagt sig mellan dig och omvärlden. Vilken sida som dominerar i drömmen kan ofta säga något om hur du mår just nu: är snön fridfull, eller är den frusen?
 
-Att drömma om snö träffar därför något kulturellt djupt — något som handlar om vilka vi är och hur vi är skruvade samman som folk i detta klimat.
+Nysnö som täcker allt kan tolkas som ett blankt blad — en möjlighet att börja om, eller en bild av något som håller på att täckas över eller döljas. Snö och vinter kan också tolkas som en vilofas, en mark i träda där något ligger och väntar på rätt tillfälle att växa igen — precis som frön vilar under snön och väntar på våren.
 
-Jung skulle ha sett den vita snön som en symbol för det han kallade "tabula rasa" — den blanka tavlan, möjligheten till en ny början — men skulle också ha varnat för att det vita kan dölja det mörka under. Snön är inte alltid bara ren; den kan också begrava.
+För många är snö också nära förknippat med minnen och barndom — förundran inför den första snön, ljudet av den tystnad den skapar. Sådana drömmar kan helt enkelt tolkas som nostalgi, en längtan tillbaka till en enklare tid.
 
 ## Drömguiden rekommenderar
 

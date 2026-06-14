@@ -51,11 +51,11 @@ En frykt for det ukontrollerbare og plutselige — noe som kan komme uten forvar
 **Hvis du så lynet men hørte ikke tordenen:**
 Innsikten er der, men konsekvensene er ennå ikke kommet. Noe er i bevegelse.
 
-## Psykologiske og kulturelle perspektiver
+## Det plutselige — innsikt og sjokk
 
-Tor — norrønens tordengud — styrte lynet som et våpen og som beskyttelse. Tors hammer Mjølner slo ned fiendene, men vernet også de svake. Lynet er i nordisk tradisjon ikke bare farlig — det er kraftens redskap, brukt av den sterkeste for å opprettholde orden.
+Lyn kan tolkes som et glimt av innsikt — et plutselig "aha"-øyeblikk der noe blir klart for deg på et splitsekund, en oppvåkning eller en sannhet som slår ned med full kraft. Slike drømmer kan komme i perioder der du er i ferd med å forstå noe viktig om deg selv eller livet ditt, selv om bevisstheten ikke har innhentet det helt ennå.
 
-Jung ville sett lyndrømmens plutselige innsikt som et gjennombrudd fra det ubevisste til bevisstheten — noe som ikke lar seg ignorere, noe som forlanger oppmerksomhet med full kraft. Lyn opptrer ofte sammen med [storm](/drommer/storm/) i drømmene.
+Lyn kan også tolkes som et bilde på sjokk og brå endring — noe som kommer som lyn fra klar himmel, en hendelse eller et vendepunkt som endrer alt på et øyeblikk. På tvers av kulturer har lynet lenge vært knyttet til guddommelig kraft og dom — tenk på Zevs og hans tordenkile, et symbol på makten til gudene over himmelen. Denne forbindelsen til noe stort og ukontrollerbart kan også gi drømmen en undertone av frykt: frykten for å bli truffet av krefter du ikke har kontroll over, og sårbarheten som ligger i det.
 
 ## Drømmeguiden anbefaler
 

@@ -52,11 +52,11 @@ En rädsla för det okontrollerbara och plötsliga — något som kan komma utan
 **Om du såg blixten men inte hörde åskan:**
 Insikten finns där, men konsekvenserna har inte kommit än. Något är i rörelse.
 
-## Psykologiska och kulturella perspektiv
+## Det plötsliga — insikt och chock
 
-Tor — fornnordens åskgud — styrde blixten som ett vapen och som skydd. Tors hammare Mjölner slog ner fienderna, men skyddade också de svaga. Blixten är i nordisk tradition inte bara farlig — den är kraftens redskap, använt av den starkaste för att upprätthålla ordning.
+Blixten kan tolkas som en glimt av insikt — ett plötsligt "aha"-ögonblick där något blir klart för dig på en bråkdel av en sekund, ett uppvaknande eller en sanning som slår till med full kraft. Sådana drömmar kan dyka upp i perioder då du är på väg att förstå något viktigt om dig själv eller ditt liv, även om medvetandet inte riktigt hunnit ikapp ännu.
 
-Jung skulle ha sett blixtdrömmens plötsliga insikt som ett genombrott från det omedvetna till medvetandet — något som inte låter sig ignoreras, något som kräver uppmärksamhet med full kraft. Blixtar uppträder ofta tillsammans med [storm](/sv/drommar/storm/) i drömmarna.
+Blixten kan också tolkas som en bild av chock och plötslig förändring — något som kommer som en blixt från klar himmel, en händelse eller ett vändpunkt som förändrar allt på ett ögonblick. Över kulturgränser har blixten länge förknippats med gudomlig kraft och dom — tänk på Zeus och hans åskvigg, en symbol för gudarnas makt över himlen. Denna koppling till något stort och okontrollerbart kan också ge drömmen en underton av rädsla: rädslan för att träffas av krafter du inte rår över, och den sårbarhet som ligger i det.
 
 ## Drömguiden rekommenderar
 

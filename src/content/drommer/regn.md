@@ -69,13 +69,13 @@ Oversvømmelse i drømmer peker mot at følelsene truer med å ta overhånd. Det
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Følelser som faller — gråt, renselse og vekst
 
-Carl Jung betraktet vann i drømmer som et grunnleggende symbol for det ubevisste, og regn representerer i jungiansk forstand det ubevisstes påvirkning som faller ned over den bevisste bevisstheten. Regnet er ikke noe du velger — det kommer til deg utenifra, akkurat som ubevisste innsikter og følelser kan trenge seg på uventet. Å stå i regnet i en drøm kan i dette perspektivet handle om å la seg berøre av sitt eget indre liv.
+Regn kan tolkes som en følelsesmessig utløsning satt i bilder — tårer som endelig får falle, en spenning som løses opp, eller noe du har holdt tilbake som nå får komme ut. Et mildt, varmt regn oppleves ofte som lindring og fornyelse, mens et plutselig skybrudd kan speile følelser eller en sorg som strømmer gjennom deg med større kraft enn du var forberedt på. Å [gråte](/drommer/grate/) i en drøm og å drømme om regn ligger ofte tett opp til hverandre i betydning.
 
-I norrøn kosmologi var regn knyttet til fruktbarhet og gudenes gunst. Frey, fruktbarhetsguden, rådde over regn og grøde, og godt regn var et tegn på at gudene var tilfredse. Omvendt kunne tørke og for mye regn tolkes som et varsel om ubalanse i verden. Denne dualiteten — regn som både gave og plage — speiles i moderne drømmtolkning.
+På tvers av kulturer er regn også knyttet til næring, vekst og velsignelse. Regn etter en lang tørke tolkes ofte som et bilde på håp og nytt liv — et tegn på at noe som har ligget i ro, nå får mulighet til å gro igjen. Samtidig bærer regnet en renselsessymbolikk som går langt tilbake: vannet som vasker rent, skyller bort det gamle og rydder plass til en ny start.
 
-For oss som bor i Norge, er regnet en konstant følgesvenn. Vi har ord for utallige varianter av regn, fra yr til styrtregn, og forholdet vårt til regnet er preget av pragmatisk aksept. I drømmekontekst kan denne fortroligheten med regn bety at regndrømmer for nordmenn kanskje handler mer om intensitet enn om fenomenet i seg selv. Det er ikke at det regner som er budskapet — det er hvordan det regner, og hva du gjør med det.
+Stemningen i drømmen sier mye om tolkningen. Regn kan kjennes vemodig og tungt, men det kan også være forbundet med en god følelse av hygge og trygghet — å se regnet falle utenfor mens du selv er i ro og varme innenfor.
 
 ---
 

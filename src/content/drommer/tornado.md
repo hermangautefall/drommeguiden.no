@@ -52,11 +52,13 @@ Se symbolsiden for [hus](/drommer/hus/) — selvet og det trygge er truet.
 **Hvis du stod rolig i tornandoens øye:**
 Midtpunktet i kaoset — en overraskende ro midt i stormen.
 
-## Psykologiske og kulturelle perspektiver
+## Virvelvinden — kaos og omveltning
 
-Tornados er kulturelt sett et særlig amerikansk fenomen — men i drømmenes symbolspråk er de universale bilder på destruktiv rotasjon. For nordmenn, som sjelden opplever tornadoer, er de i drømmene rent symbolske — uten den realistiske frykten som kan prege drømmene til dem som faktisk lever i tornadobeltet.
+En tornado kan tolkes som et bilde på overveldende følelser — særlig sinne eller angst — som føles ukontrollerbare og river med seg alt på sin vei. Å drømme om å bli fanget i en tornado kan speile en følelse av å være fanget i kaos, der følelsene går i sirkel uten å finne ro.
 
-Jung ville sett tornandoen som en manifestasjon av det ubevisste i sin mest destruktive og ukontrollerbare form — en kraft som ikke kan stoppes, bare unngås eller overleves. Se også [flom](/drommer/flom/) og [jordskjelv](/drommer/jordskjelv/) for andre naturkatastrofe-drømmer.
+Tornadoen kan også tolkes som en brå, destruktiv endring — en omveltning som snur livet på hodet i løpet av kort tid: en krise, eller en ustabil situasjon eller person som med rette kunne kalles «en virvelvind». Kjernen i symbolet handler ofte om tap av kontroll — følelsen av å være maktesløs mot en kraft som trekker deg inn, som trakten i en tornado.
+
+I et mer moderne kulturelt lys kan tornadoen også minne om overgangen i *Trollmannen fra Oz* — virvelvinden som river deg ut av det kjente og inn i en helt ny, fremmed verden. Tolket slik kan drømmen handle om en stor forvandling, der det som føles skremmende også åpner døren til noe nytt.
 
 ## Drømmeguiden anbefaler
 

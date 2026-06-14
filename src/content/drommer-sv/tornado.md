@@ -53,11 +53,13 @@ Se symbolsidan för [hus](/sv/drommar/hus/) — jaget och det trygga är hotat.
 **Om du stod lugnt i tornadons öga:**
 Mittpunkten i kaoset — en överraskande ro mitt i stormen.
 
-## Psykologiska och kulturella perspektiv
+## Virveln — kaos och omvälvning
 
-Tornados är kulturellt sett ett särskilt amerikanskt fenomen — men i drömmarnas symbolspråk är de universella bilder av destruktiv rotation. För nordbor, som sällan upplever tornados, är de i drömmarna rent symboliska — utan den realistiska rädsla som kan prägla drömmarna hos dem som faktiskt lever i tornadobältet.
+En tornado kan tolkas som en bild av överväldigande känslor — särskilt vrede eller ångest — som känns okontrollerbara och river med sig allt i sin väg. Att drömma om att fångas i en tornado kan spegla en känsla av att vara fångad i kaos, där känslorna snurrar i cirklar utan att hitta ro.
 
-Jung skulle ha sett tornadon som en manifestation av det omedvetna i sin mest destruktiva och okontrollerbara form — en kraft som inte kan stoppas, bara undvikas eller överlevas. Se även [översvämning](/sv/drommar/oversvamning/) och [jordbävning](/sv/drommar/jordbavning/) för andra naturkatastrofdrömmar.
+Tornadon kan också tolkas som en plötslig, destruktiv förändring — en omvälvning som vänder upp och ner på livet på kort tid: en kris, eller en ostadig situation eller person som med rätta kunde kallas "en virvelvind". Kärnan i symbolen handlar ofta om förlust av kontroll — känslan av att vara maktlös inför en kraft som drar dig med sig, som tratten i en tornado.
+
+I ett mer modernt kulturellt ljus kan tornadon också påminna om övergången i *Trollkarlen från Oz* — virveln som river dig bort från det kända och in i en helt ny, främmande värld. Tolkad så kan drömmen handla om en stor förvandling, där det som känns skrämmande också öppnar dörren till något nytt.
 
 ## Drömguiden rekommenderar
 

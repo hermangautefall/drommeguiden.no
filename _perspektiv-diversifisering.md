@@ -61,4 +61,11 @@ Regler:
 - [x] overfalt (overfallen) — krenkede grenser + fryse-respons/REM-atoni + bearbeiding
   (+ fikset pre-eks. død SV-lenke forfulgt -> forfoljd i krig.md)
 
-## Status: 35/214 NB ferdig (+ 35 SV).
+## Batch 8 — vær/natur
+- [x] regn (regn) — følelser/utløsning + fornyelse/fruktbarhet + renselse + stemning
+- [x] storm (storm) — følelsesopprør + ytre omveltning + stormens øye + det sublime
+- [x] sno (sno) — stillhet/nummenhet + blanke ark + dvale + minne/barndom
+- [x] lynet (blixten) — plutselig innsikt + sjokk/brå endring + Zevs/sky-gud + fare
+- [x] tornado (tornado) — overveldende kaos + brå endring + tap av kontroll + Oz
+
+## Status: 40/214 NB ferdig (+ 40 SV).
