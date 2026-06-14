@@ -75,13 +75,29 @@ En trygg landing kan tolkes som et tegn på at du har indre ressurser til å hå
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Når kroppen og sinnet faller sammen
 
-Fra et fysiologisk perspektiv har falledrømmer en interessant forklaring: De oppstår ofte i det man sovner, i den såkalte hypnagogiske fasen. Kroppen slapper av, og hjernen kan tolke denne avslappingen som et fall, noe som utløser en ufrivillig muskelsammentrekning kalt en «hypnic jerk». Dette er helt normalt og ufarlig.
+Falledrømmer har ofte en helt konkret fysiologisk forklaring. Den
+plutselige fallsensasjonen som oppstår når man sovner, kalles en
+«hypnic jerk» — en hypnagogisk rykning. Kroppen slapper av, og hjernen
+feiltolker dette som et fall, noe som utløser en ufrivillig
+muskelsammentrekning. Selv om det kan kjennes dramatisk i øyeblikket, er
+det helt normalt og ufarlig, og forklarer hvorfor så mange opplever
+nettopp denne drømmen rett før de sovner.
 
-Psykologen Sigmund Freud mente at falledrømmer kunne knyttes til angst og ubevisste konflikter. Carl Jung hadde en bredere tilnærming og så fallet som en del av individuasjonsprosessen — det å bli konfrontert med sine skyggesider og lære å akseptere hele seg selv. I jungiansk tradisjon kan fallet representere en nødvendig nedstigning til det ubevisste for å hente opp noe verdifullt.
+Psykologen Alfred Adler knyttet fallet til frykten for å mislykkes —
+tap av status, kontroll eller anerkjennelse, og en underliggende følelse
+av mindreverd. I Adlers individualpsykologi står dette i spenning til
+menneskets grunnleggende streben etter mestring: drømmen kan dermed
+peke mot et sted i livet der du kjenner at du ikke strekker til, eller
+der noe du har bygget opp er i fare for å rase.
 
-I nordisk folketro har drømmer om fall noen ganger blitt tolket som et varsel om at noe i livet er i ubalanse. Det var ikke nødvendigvis et dårlig tegn, men heller en oppfordring om å stoppe opp og vurdere kursen. Drømmer om å stå på kanten av et [mørkt rom](/drommer/morkt-rom/) eller på randen av et stup deler noe av den samme symbolikken — du står ved et vendepunkt.
+I en mer moderne forståelse, der drømmer ofte sees som en fortsettelse
+av våkenlivets følelser, kan fallet rett og slett speile en opplevelse
+av usikkerhet, mangel på støtte eller å miste fotfestet — at grunnen du
+trodde du sto på, forsvinner under deg. Drømmer om å stå på kanten av et
+[mørkt rom](/drommer/morkt-rom/) deler noe av den samme symbolikken: du
+står ved et vendepunkt, uten å vite hva som venter under.
 
 ---
 

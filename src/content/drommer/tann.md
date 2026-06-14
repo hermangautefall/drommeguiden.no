@@ -75,13 +75,28 @@ Denne varianten forsterker tolkningen knyttet til selvbilde. Speilet representer
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Fra antikkens tydning til moderne søvnforskning
 
-Sigmund Freud tolket tanndrømmer på flere måter, blant annet som uttrykk for undertrykt seksualitet og frykt for kastrasjon — tolkninger som moderne psykologer har gått bort fra. Carl Jung hadde en mer symbolsk tilnærming og mente at tenner i drømmer kunne representere «rebirthÃ» — en transformasjon der noe gammelt må falle bort for at noe nytt skal vokse frem.
+Tanndrømmen er ikke noe nytt fenomen. Allerede i Oneirocritica — den
+eldste systematiske drømmeboken vi kjenner, skrevet av Artemidoros på
+100-tallet e.Kr. — ble tenner tolket som representanter for medlemmer av
+husholdningen. Å miste tenner i drømme kunne varsle tap av familie eller
+slekt, eller tap av penger og eiendom. Tanken om at tennene "står for"
+de nærmeste, har overlevd i ulike former helt frem til vår tid.
 
-Moderne drømmeforskning peker i retning av at tanndrømmer oftest er knyttet til dagligdags stress og angst, snarere enn dype symbolske budskap. En studie fra tidsskriftet Frontiers in Psychology fant at tanndrømmer korrelerte med dårlig søvnkvalitet og tannirritasjon under søvn, noe som tyder på at kroppen også spiller en rolle.
+I folketro som har vært utbredt i store deler av Europa og Hellas, ble
+det å miste tenner i en drøm gjerne forstått som et tegn på sykdom eller
+dødsfall i familien — en seiglivet overtro som i dag oftest forstås som
+en metafor for tap, snarere enn et bokstavlig varsel.
 
-I norsk folketradisjon ble drømmer om tenner noen ganger tolket som et forvarsel om tap — enten av en person, en eiendel, eller noe annet verdifullt. Denne tolkningen lever videre i den folkelige bevisstheten, selv om den i dag gjerne forstås mer som en metafor for følelsesmessig tap enn bokstavelig tap.
+Nyere søvnforskning nærmer seg tanndrømmer fra en annen vinkel.
+Tanndrømmer er blant de vanligste drømmene mennesker rapporterer, og de
+ser ofte ut til å være knyttet til stress og angst i dagliglivet. Noen
+studier har også antydet en mulig kobling mellom tanndrømmer og
+tanngnissing (bruksisme) eller annen tannirritasjon under søvn, selv om
+denne sammenhengen ikke er fullt klarlagt. I en mer symbolsk lesning kan
+tanndrømmer handle om tap av kontroll, uro for utseende og aldring, eller
+ord og kommunikasjon man ikke kan ta tilbake.
 
 ---
 

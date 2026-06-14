@@ -73,13 +73,27 @@ Ett positivt tecken som kan peka mot en önskan om autenticitet och mod att visa
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Att bli sedd — mellan skam och frihet
 
-Sigmund Freud tolkade nakendrömmar i samband med barndomens sorglösa nakenhet — drömmen som en regression till en tid då nakenhet var naturlig och utan skam. I freudiansk tradition kan nakendrömmen spegla en undermedveten önskan att återvända till detta oskyldiga tillstånd.
+Sigmund Freud skrev specifikt om det han kallade förlägenhetsdrömmen om
+nakenhet i sitt verk Drömtydning. Han kopplade den till barndomens
+sorglösa nakenhet — en tid då kroppen var naturlig och utan skam — och
+såg drömmen som ett uttryck för spänningen mellan en önskan att visa sig
+fritt och den skam vi senare lär oss att förknippa med det. Denna
+tolkning stämmer fortfarande väl för många som upplever nakendrömmar
+idag.
 
-Carl Jung skulle sannolikt ha lagt vikt vid persona-begreppet — den sociala mask vi alla bär. Att drömma om nakenhet är i jungiansk bemärkelse att drömma om att personan faller av, och att det egentliga självet blir synligt. För Jung är detta inte nödvändigtvis negativt — det kan tvärtom vara ett viktigt steg i individuationsprocessen, alltså resan mot att bli en mer hel och autentisk människa.
+En annan vinkel handlar om sårbarhet och exponering. Rädslan för att bli
+"sedd" i ordets djupaste mening — bedömd, genomskådad, eller avslöjad
+som en bedragare — är något väldigt många känner av, särskilt i perioder
+då man presterar eller visar sig för andra. Nakendrömmen blir då en bild
+för att visa sitt egentliga jag, utan den mask man vanligtvis bär.
 
-I nordisk kultur har förhållandet till nakenhet sina egna nyanser. Den skandinaviska badkulturen och bastutraditionen har gjort nakenhet i vissa sammanhang mer accepterad än i många andra kulturer. Ändå finns rädslan för att sticka ut — den nordiska jantelagen skapar sitt eget drömlandskap där att bli sedd, sticka fram, eller skilja sig från mängden kan kännas hotande. Nakendrömmar i en nordisk kontext kan därför bära med sig denna dubbla spänning: mellan den kulturella accepten för nakenhet och den djupa rädslan för att sticka ut.
+Det finns ändå en viktig poäng som återkommer i många nakendrömmar:
+ofta är det ingen annan i drömmen som lägger märke till nakenheten,
+eller de bryr sig helt enkelt inte. Det säger något väsentligt — rädslan
+för att bli dömd är ofta självskapad, och bor mer inom oss själva än i
+hur andra faktiskt ser på oss.
 
 ---
 

@@ -90,22 +90,29 @@ eller något du ännu inte har sett i ögonen.
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Ormen — förvandling, fara och begär
 
-Carl Jung betraktade ormen som en av de centrala arketypiska symbolerna —
-en representation av det omedvetna jaget, med förmåga till både helande
-och destruktion. I jungiansk drömtolkning är ormen ofta ett tecken på
-att psyket är i aktiv rörelse.
+Få djur har följt mänskligheten genom så många myter och symboler som
+ormen. Den ömsar skinn flera gånger under sitt liv, och detta har över
+kulturer gjort den till en bild för förnyelse och cykliska
+förändringar. I egyptisk och grekisk tankevärld finner vi Ouroboros —
+ormen som biter sig själv i svansen — en symbol för evigheten och det
+eviga kretsloppet. Att drömma om en orm kan därför tolkas som ett tecken
+på att något i ditt liv håller på att återuppstå i ny form.
 
-I nordisk tradition spelar ormar en särskild roll — Midgårdsormen
-Jörmungandr som omsluter hela världen är en bild av kaos, men också av
-världsordningen själv. Att drömma om en stor orm i nordisk folktro var
-inte nödvändigtvis ett ont förebud, utan ett tecken på att stora krafter
-var i rörelse.
+Ormen är också nära knuten till läkekonst. Asklepiosstaven, med en orm
+slingrad runt en stav, kommer från grekisk mytologi och representerar
+läkekonstens gud — symbolen används fortfarande inom medicinen idag. Här
+finns en del av ormens grundläggande dubbelhet: den kan vara både gift
+och bot, fara och läkedom, ofta samtidigt.
 
-Över kulturer finns ormen som symbol för medicin, kunskap och livskraft
-— och denna ambivalens är just det som gör drömormens budskap så
-intressant att utforska.
+Sigmund Freud pekade på ormen som en av de mest omtalade fallosymbolerna
+i drömmar, och kopplade den till undertryckt begär eller sexualitet. I
+hinduisk och yogisk tradition möter vi en annan tolkning: kundalini, den
+"hoprullade ormen" av energi som vilar längst ner i ryggraden, och som
+förknippas med andligt uppvaknande. Vilken av dessa tolkningar som
+stämmer bäst beror ofta på hur ormen uppträdde i din dröm — och vilken
+känsla den väckte.
 
 ---
 

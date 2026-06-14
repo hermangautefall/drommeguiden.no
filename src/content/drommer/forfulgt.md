@@ -67,13 +67,31 @@ Beina som ikke fungerer er en svært vanlig variant — og speiler gjerne en fø
 **Om forfølgeren er kjent eller ukjent:**
 Kjente forfølgere peker mot konkrete relasjoner eller situasjoner. Ukjente forfølgere peker oftere mot indre krefter eller mer diffuse angster.
 
-## Psykologiske og kulturelle perspektiver
+## Jakten som speiler det vi flykter fra
 
-Forfølgelsesdrømmen er så universalt menneskelig at den finnes dokumentert i drømmebeskrivelser fra antikkens Hellas og Egypt til moderne søvnforskning. Den er en av de drømmtypene som oftest rapporteres som [gjentakende](/guider/gjentakende-drommer/) — noe som understreker at den speiler noe vedvarende i livssituasjonen, ikke bare en tilfeldig natts opplevelse.
+Den finske drømmeforskeren Antti Revonsuo har gjort forfølgelsesdrømmen
+til et av de mest siterte eksemplene i moderne drømmeforskning. Ifølge
+hans threat simulation-teori er drømmer om å bli jaget en slags
+evolusjonær øving — hjernen simulerer fare og trener "kjemp eller
+flykt"-responsen, slik at vi er bedre forberedt på reelle trusler i
+våken tilstand. Sett på denne måten er det ikke så overraskende at
+nettopp denne drømmen er en av de vanligste vi har.
 
-Jung beskrev møtet med forfølgeren som et av de viktigste øyeblikkene i drømmearbeid. Å snu seg og spørre forfølgeren "hvem er du og hva vil du?" — enten i drømmen (ved hjelp av [lucid dreaming](/guider/lucid-dromming/)) eller etterpå i refleksjon — kan gi overraskende klar innsikt i hva som egentlig driver angsten.
+I en mer klinisk og dagsaktuell forståelse speiler det vi flykter fra i
+drømme ofte det vi unngår i våkenlivet — en konflikt vi skyver fra oss,
+en følelse vi ikke vil kjenne på, en avgjørelse vi stadig utsetter, eller
+en person vi har vansker med. Forfølgeren er sjelden tilfeldig: den er
+ofte en fornektet del av en selv, som angst, skyldfølelse eller en frist
+som nærmer seg.
 
-I norsk folkloretradisjon er det å bli jaget av noe mørkt og udefinerbart et gammelt motiv — mare, draug og andre nattfigurer som jager den sovende. De ble sett som tegn på at noe var ute av balanse og trengte å bli adressert. Samme budskap, annet språk. Forfølgelsesdrømmer regnes som en klassisk form for [mareritt](/guider/mareritt/).
+Gestaltterapeuten Fritz Perls foreslo en konkret øvelse for slike
+drømmer: bli forfølgeren. I stedet for å løpe, kan man i ettertankens ro
+forestille seg å snakke SOM den som jager — for å oppdage hvilken del av
+deg selv den faktisk representerer. Mange opplever at forfølgelsesdrømmer
+glir over i drømmer om [å falle](/drommer/falle/) eller å bli fanget i et
+[mørkt rom](/drommer/morkt-rom/), og slike drømmer regnes som en klassisk
+form for [mareritt](/guider/mareritt/). Med [lucid dreaming](/guider/lucid-dromming/)
+kan man også øve på å snu seg og møte forfølgeren midt i drømmen selv.
 
 ## Drømmeguiden anbefaler
 

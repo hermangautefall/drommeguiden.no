@@ -90,21 +90,29 @@ eller noe du ennå ikke har sett i øynene.
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Slangen — forvandling, fare og begjær
 
-Carl Jung betraket slangen som et av de sentrale arketypiske symbolene —
-en representasjon av det ubevisste selv, med evne til både helbredelse
-og destruksjon. I jungiansk drømmtolkning er slangen ofte et tegn på
-at psyken er i aktiv bevegelse.
+Få dyr har fulgt menneskeheten gjennom så mange myter og symboler som
+slangen. Den skifter ham flere ganger i livet, og dette har på tvers av
+kulturer gjort den til et bilde på fornyelse og sykliske endringer. I
+egyptisk og gresk tankegang finner vi Ouroboros — slangen som biter seg
+selv i halen — et symbol på evigheten og det evige kretsløpet. Å drømme
+om slange kan derfor tolkes som et tegn på at noe i livet ditt er i ferd
+med å gjenoppstå i ny form.
 
-I norrøn tradisjon spiller slanger og ormer en særegen rolle — Midgardsormen
-Jormungandr som omslutter hele verden er et bilde på kaos, men også på
-verdensordenen selv. Å drømme om en stor slange i norsk folklore var ikke
-nødvendigvis et vondt varsel, men et tegn på at store krefter var i spill.
+Slangen er også tett knyttet til helbredelse. Asklepiosstaven, med én
+slange viklet rundt en stav, stammer fra gresk mytologi og representerer
+legekunstens gud — symbolet brukes fortsatt i medisinen i dag. Her ligger
+noe av slangens grunnleggende tvetydighet: den kan være både gift og
+legedom, fare og kur, ofte på samme tid.
 
-På tvers av kulturer finnes slangen som symbol på medisin, kunnskap og
-livskraft — og denne ambivalensen er nettopp det som gjør drømmeslangens
-budskap så interessant å utforske.
+Sigmund Freud pekte på slangen som ett av de mest omtalte falliske
+symbolene i drømmer, og knyttet den til undertrykt begjær eller
+seksualitet. I hinduistisk og yogisk tradisjon møter vi en annen
+tolkning: kundalini, den "sammenkveilede slangen" av energi som ligger
+nederst i ryggraden, og som forbindes med åndelig oppvåkning. Hvilken av
+disse lesningene som treffer best, avhenger ofte av hvordan slangen
+opptrådte i drømmen din — og hvilken følelse den vekket.
 
 ---
 

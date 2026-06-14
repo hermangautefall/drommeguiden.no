@@ -111,26 +111,29 @@ handla om att konfrontera delar av dig själv du inte tycker om.
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Från antikens tydning till modern sömnforskning
 
-Sigmund Freud tolkade tanddrömmar på flera sätt, bland annat som
-uttryck för undertryckt sexualitet och kastrationsångest — tolkningar
-som moderna psykologer har gått bort ifrån. Carl Jung hade en mer
-symbolisk ingång och menade att tänder i drömmar kunde representera
-"återfödelse" — en transformation där något gammalt måste falla bort
-för att något nytt ska växa fram.
+Tanddrömmen är inget nytt fenomen. Redan i Oneirocritica — den äldsta
+systematiska drömboken vi känner till, skriven av Artemidoros under
+100-talet e.Kr. — tolkades tänder som representanter för medlemmar i
+hushållet. Att förlora tänder i en dröm kunde varsla om förlust av
+familj eller släkt, eller förlust av pengar och egendom. Tanken om att
+tänderna "står för" de närmaste har levt vidare i olika former ända in
+i vår tid.
 
-Modern drömforskning pekar mot att tanddrömmar oftast är kopplade till
-vardaglig stress och ångest, snarare än djupa symboliska budskap. En
-studie i tidskriften Frontiers in Psychology fann att tanddrömmar
-korrelerade med dålig sömnkvalitet och tandirritation under sömn,
-vilket tyder på att kroppen också spelar en roll.
+I folktro som varit spridd i stora delar av Europa och Grekland tolkades
+tanddrömmar ofta som ett tecken på sjukdom eller dödsfall i familjen —
+en seglivad föreställning som idag oftast förstås som en metafor för
+förlust snarare än ett bokstavligt varsel.
 
-I nordisk folktro tolkades drömmar om tänder ibland som ett förebud om
-förlust — antingen av en person, en ägodel eller något annat
-värdefullt. Denna tolkning lever vidare i folklig medvetenhet, även
-om den idag ofta förstås mer som en metafor för emotionell förlust än
-bokstavlig förlust.
+Modern sömnforskning närmar sig tanddrömmar från ett annat håll.
+Tanddrömmar är bland de vanligaste drömmarna människor rapporterar, och
+de tycks ofta vara kopplade till stress och ångest i vardagen. Vissa
+studier har också antytt en möjlig koppling mellan tanddrömmar och
+tandgnissling (bruxism) eller annan tandirritation under sömnen, även om
+detta samband inte är helt klarlagt. I en mer symbolisk tolkning kan
+tanddrömmar handla om förlust av kontroll, oro för utseende och
+åldrande, eller ord och kommunikation man inte kan ta tillbaka.
 
 ---
 

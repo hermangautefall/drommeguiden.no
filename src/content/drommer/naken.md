@@ -72,13 +72,26 @@ Et positivt tegn som kan peke mot et ønske om autentisitet og mot til å vise s
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Å bli sett — mellom skam og frihet
 
-Sigmund Freud tolket nakendrømmer i sammenheng med barndommens sorgløse nakenhet — drømmen som en regresjon til en tid da nakenhet var naturlig og uten skam. I freudiansk tradisjon kan nakendrømmen speile et underbevisst ønske om å vende tilbake til denne uskyldige tilstanden.
+Sigmund Freud skrev spesifikt om det han kalte forlegenhetsdrømmen om
+nakenhet i sitt verk Drømmetydning. Han knyttet den til barndommens
+sorgløse nakenhet — en tid da kroppen var naturlig og uten skam — og så
+drømmen som et uttrykk for spenningen mellom et ønske om å vise seg fritt
+og den skammen vi senere lærer å forbinde med det. Denne tolkningen
+treffer fortsatt godt for mange som opplever nakendrømmer i dag.
 
-Carl Jung ville sannsynligvis ha lagt vekt på persona-begrepet — den sosiale masken vi alle bærer. Å drømme om nakenhet er i jungiansk forstand å drømme om at personaen faller av, og at det egentlige selvet blir synlig. For Jung er dette ikke nødvendigvis negativt — det kan tvert imot være et viktig skritt i individuasjonsprosessen, altså reisen mot å bli et mer helt og autentisk menneske.
+En annen vinkel handler om sårbarhet og eksponering. Frykten for å bli
+"sett" i ordets dypeste betydning — bedømt, gjennomskuet, eller avslørt
+som en bedrager — er noe svært mange kjenner på, særlig i perioder der
+man presterer eller viser seg for andre. Nakendrømmen blir da et bilde
+på det å vise sitt egentlige jeg, uten masken man vanligvis bærer.
 
-I nordisk kultur har forholdet til nakenhet sine egne nyanser. Den skandinaviske badekultur og saunatetradisjonen har gjort nakenhet i visse kontekster mer akseptert enn i mange andre kulturer. Likevel finnes frykten for å skille seg ut — den nordiske janteloven skaper sitt eget drømmelandskap der det å bli sett, å stikke seg frem, eller å skille seg fra mengden kan føles truende. Nakendrømmer i en norsk kontekst kan derfor bære med seg denne doble spenningen: mellom den kulturelle aksepten for nakenhet og den dype frykten for å skille seg ut.
+Det er likevel et viktig poeng som går igjen i mange nakendrømmer: ofte
+er det ingen andre i drømmen som legger merke til nakenheten, eller de
+bryr seg rett og slett ikke. Det sier noe vesentlig — frykten for å bli
+dømt er ofte selvskapt, og bor mer i oss selv enn i hvordan andre faktisk
+ser på oss.
 
 ---
 
