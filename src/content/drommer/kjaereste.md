@@ -55,11 +55,13 @@ En uløst spenning mellom dere, eller noe du ønsker å si men ikke har sagt.
 **Hvis kjæresten forlot deg:**
 Forlatenhetsfrykt — svært vanlig og ikke et varsel. Kan handle om selvbilde mer enn om forholdet. Les mer om [drømmer om en fremmed](/drommer/fremmed/) hvis kjæresten føltes ukjent.
 
-## Psykologiske og kulturelle perspektiver
+## Forholdet, behovene og det indre speilet
 
-I jungiansk psykologi kan kjæresten i drømmen representere din "anima" (hvis du er mann) eller "animus" (hvis du er kvinne) — den indre, komplementære siden av din psyke. Drømmene handler da ikke bare om personen, men om en kvalitet du projiserer på dem som egentlig finnes i deg selv. Mange opplever lignende temaer i drømmer om [bryllup](/drommer/bryllup/).
+Å drømme om kjæresten speiler ofte forholdets følelsesmessige tilstand akkurat nå — uuttalte tanker, en bekymring som ikke har fått ord, eller noe godt du ikke har lagt merke til i hverdagen. Drømmen kan fungere som et slags følelsesmessig regnskap: hva bærer du på i relasjonen som du ikke har sagt høyt?
 
-Forskning på drømmers funksjon viser at drømmer om romantiske partnere er blant de vanligste vi har, og at de ofte gjenspeiler emosjonell bearbeiding av relasjonen — særlig i perioder med stress, endring eller usikkerhet.
+I noen drømmer er kjæresten mindre en faktisk person og mer et bilde på en del av deg selv — egenskaper du forbinder med dem, eller din egen evne til nærhet og kjærlighet. Drømmen kan da handle om "den indre andre": hvordan du gir og tar imot kjærlighet, uavhengig av hvem som er ved din side. Mange opplever lignende temaer i drømmer om [bryllup](/drommer/bryllup/).
+
+Drømmer om kjæresten kan også løfte fram tilknytningsmønstre — trygghet, frykt for å bli forlatt, sjalusi, eller et ønske om mer nærhet. Og hvis du er singel og drømmer om en kjæreste du ikke har, eller om et ukjent ansikt, kan det tolkes som en lengsel etter forbindelse, eller et ønske om å bli kjent med en side av deg selv du ennå ikke har integrert — sjelden et varsel om hvem du faktisk kommer til å møte.
 
 ## Drømmeguiden anbefaler
 

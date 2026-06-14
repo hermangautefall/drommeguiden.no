@@ -119,4 +119,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] elv (alv) — livets/tidens strøm (Heraklit) + følelser i bevegelse + kryssing + hellige elver
 - [x] hage (tradgard) — det dyrkede selvet + paradis/fred (Eden) + orden vs villskap + sykluser
 
-## Status: 75/214 NB ferdig (+ 75 SV).
+## Batch 16 — relasjoner/familie
+- [x] kjaereste (partner) — forholdets tilstand + partner som del av selvet + tilknytning + symbolsk partner
+- [x] bror (bror) — familiedynamikk/skygge + rivalisering/lojalitet (Kain/Abel) + speil + reell relasjon
+- [x] soester (syster) — speil/kvinnelige egenskaper + støtte vs rivalisering + søsterskap
+- [x] bestemor (farmor) — visdom/omsorg/røtter + continuing bonds + arv + indre vise
+- [x] bestefar (farfar) — visdom/veiledning/arv + trøst + mild autoritet + indre mentor
+
+## Status: 80/214 NB ferdig (+ 80 SV).

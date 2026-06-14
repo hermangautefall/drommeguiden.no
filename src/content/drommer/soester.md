@@ -55,11 +55,13 @@ Sammenligning og selvbilde — hva er det du måler deg mot, og hva føler du at
 **Hvis søsteren var avdød men levende i drømmen:**
 Et trøstende besøk og en fortsettelse av relasjonen på et indre plan.
 
-## Psykologiske og kulturelle perspektiver
+## Speilbildet, samholdet og rivaliseringen
 
-Jung beskrev søskenrelasjonen som en av de tidligste og mest formative arenaene for å lære om det sosiale — om konkurranse, om å dele, om å finne sin plass i en gruppe. Søsteren i drømmene bærer dermed på noe av denne tidlige lærlingen.
+En søster i drømmen kan fungere som et speilbilde av deg selv — kvinnelige egenskaper, for enhver drømmer, som du gjenkjenner eller kjenner avstand til. Dere deler bakgrunn, men har ofte valgt forskjellige veier, og drømmen kan handle om sammenligning: hvem er friere, modigere, tryggere — og hva sier det om hva du selv lengter etter?
 
-I nordisk tradisjon har søsterforholdet en sterk plass i sagaer og eventyr — fra de tre søstrene i eventyrene til [søskenpar](/drommer/bror/) i norrøn mytologi. Drømmens søster er ladet med denne kulturelle arven.
+Søsterskap rommer både støtte og rivalisering, ofte side om side. Drømmen kan speile solidaritet og fortrolighet — at hun er en av de få som virkelig kjenner deg. Men den kan også løfte fram gammel konkurranse, særlig rundt identitet, utseende eller prestasjoner, ting som kanskje aldri har blitt sagt høyt mellom dere.
+
+Drømmen kan også ganske enkelt handle om den faktiske relasjonen til henne — uforløste følelser, en lengsel etter mer kontakt, eller en bekymring du bærer på. Og i en bredere forstand kan "søsterskap" i drømmen representere kvinnelig vennskap og solidaritet generelt — en valgt familie, ikke bare en biologisk en.
 
 ## Drømmeguiden anbefaler
 

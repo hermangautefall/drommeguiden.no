@@ -56,11 +56,13 @@ En olöst spänning mellan er, eller något du önskar säga men inte har sagt.
 **Om partnern lämnade dig:**
 Övergivenhetsrädsla — mycket vanlig och inte ett förvarning. Kan handla om självbild mer än om förhållandet. Läs mer om [drömmar om en främmande](/sv/drommar/frammande/) om partnern kändes okänd.
 
-## Psykologiska och kulturella perspektiv
+## Relationen, behoven och den inre spegeln
 
-I jungiansk psykologi kan partnern i drömmen representera din "anima" (om du är man) eller "animus" (om du är kvinna) — den inre, komplementära sidan av din psyke. Drömmarna handlar då inte bara om personen, utan om en kvalitet du projicerar på dem som egentligen finns i dig själv. Många upplever liknande teman i drömmar om [bröllop](/sv/drommar/brollop/).
+Att drömma om sin partner speglar ofta relationens känslomässiga tillstånd just nu — outtalade tankar, en oro som inte fått ord, eller något bra du inte har lagt märke till i vardagen. Drömmen kan fungera som ett slags känslomässigt bokslut: vad bär du på i relationen som du inte har sagt högt?
 
-Forskning på drömmars funktion visar att drömmar om romantiska partner är bland de vanligaste vi har, och att de ofta speglar emotionell bearbetning av relationen — särskilt i perioder med stress, förändring eller osäkerhet.
+I vissa drömmar är partnern mindre en verklig person och mer en bild av en del av dig själv — egenskaper du förknippar med dem, eller din egen förmåga till närhet och kärlek. Drömmen kan då handla om "den inre andra": hur du ger och tar emot kärlek, oavsett vem som står vid din sida. Många upplever liknande teman i drömmar om [bröllop](/sv/drommar/brollop/).
+
+Drömmar om partnern kan också lyfta fram anknytningsmönster — trygghet, rädsla för att bli lämnad, svartsjuka, eller en önskan om mer närhet. Och om du är singel och drömmer om en partner du inte har, eller om ett okänt ansikte, kan det tolkas som en längtan efter förbindelse, eller en önskan att bli bekant med en sida av dig själv som du ännu inte integrerat — sällan ett förebud om vem du faktiskt kommer att möta.
 
 ## Drömguiden rekommenderar
 

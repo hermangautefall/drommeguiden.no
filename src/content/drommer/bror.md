@@ -72,24 +72,10 @@ En frykt for å miste noe nært — eller en uavklart distanse i relasjonen.
 **Hvis broren var ulik den han faktisk er:**
 Drømmens bror er kanskje ikke ham — det er en figur som bærer hans navn men noe annens kvalitet.
 
-## Psykologiske og kulturelle perspektiver
+## Slektskap, speil og samhold
 
-Få relasjoner er mer universelt mytologiserte enn brorforholdet — det dukker opp som en hjørnestein i nesten alle store kulturers fundamentale fortellinger, og drømmens bror trekker på dette dype mytologiske lageret.
+En bror i drømmen representerer ofte en del av deg selv — en slags "skygge-bror" som bærer på egenskaper du gjenkjenner, deler eller helst skyver fra deg. Drømmen kan dukke opp som en gammel barndomsdynamikk: hvem var "den flinke", hvem var "den frie", hvem fikk hvilken rolle i familien — og hvilken av disse rollene bærer du fortsatt på, bevisst eller ubevisst?
 
-I jødisk-kristen tradisjon er det første drama i menneskehetens historie en konflikt mellom brødre: Kain og Abel. Senere kommer Esau og Jakob, Josef og hans brødre, Moses og Aron. Hver av disse fortellingene utforsker brorforholdet som scene for alle livets store spørsmål — sjalusi, tilgivelse, ansvar, lojalitet. Drømmens bror kan i denne arven bære på vekten av dette eldgamle dramaet.
+Søskenforholdet rommer ofte begge ytterpunkter på samme tid — rivalisering og dyp lojalitet. Drømmen om broren kan handle om konkurranse, sammenligning eller en gammel spenning som aldri ble snakket ut. Men den kan like gjerne handle om brorskapets bånd: den som står ved siden av deg, den du kan stole på selv når alt annet svikter. Hvilken av disse følelsene var sterkest i drømmen, sier ofte noe om hvor du står i relasjonen akkurat nå.
 
-I romersk grunnleggelsesmyte er Romulus og Remus tvillingbrødre — den ene dreper den andre, og fra dette grunnmordet vokser Roma. Drømmens bror i denne arven bærer på spørsmålet om hva man bygger over: hva er ofret, hva er fortrengt?
-
-I hinduistisk tradisjon er Krishna og Balarama brødre med ulike kvaliteter — Krishna den listige, Balarama den sterke. I Mahabharata utforskes brorforholdet i ekstrem skala mellom Pandavaene og Kauravaene — to brorgrupper hvis konflikt blir til verdenskrig. Drømmens bror kan i denne tradisjonen bære på spørsmål om dharma — hva er din plikt overfor blod?
-
-I yorubareligionen er *Ibeji* — tvillinger — hellige vesener med egen kult. Tvillingbarn ble historisk ansett som spesielle, og det er fortsatt en sterk åndelig tradisjon rundt brorpar. Drømmens bror kan i denne lesningen ha en utvetydig spirituell dimensjon.
-
-I japansk shinto er Susanoo og Amaterasu søsken — kaos-broren og solgudinne-søsteren — hvis konflikt og forsoning danner kosmologisk balanse. Drømmens bror kan bære på dette bildet av kaos som komplement til orden.
-
-I buddhismen er Anandas rolle som Buddhas fetter og nærmeste ledsager en av historiens vakreste brorlignende relasjoner — ikke biologisk, men gjennom oppdraget. Drømmens bror kan i denne tradisjonen handle om "valgte brødre", de som er bror i kraft av lojalitet og felles vei.
-
-I latinen ble brodersymbolet utvidet til *frater* — herfra kommer *fraternity*, brorskap som ide. Drømmens bror kan også handle om brorskap i utvidet forstand: foreninger, kamerater, fellesskap.
-
-Alfred Adler — Freuds tidlige kollega — utviklet teorien om *birth order* og søskenrekkefølgens psykologiske vekt. Drømmens bror kan i denne lesningen bringe frem spørsmål om plass: var du den eldste, den yngste, den i midten? Hva ble forventet av deg i kraft av denne plassen?
-
-Jung beskrev "brorparet" som arketypisk for dualiteten i psyken — to sider av samme person. Senere arketypisk psykolog James Hillman lagde vekt på at brorfiguren i drømmer ofte representerer "den parallelle deg" — versjonen av deg selv som tok et annet valg. Drømmens bror er da ikke nødvendigvis bare en bror; han er muligens den du kunne ha vært, eller den du frykter å bli, eller den du leter etter inni deg selv.
+For mange — uavhengig av kjønn — kan broren også speile maskuline sider av en selv: handlekraft, mot, eller en alternativ vei du kunne tatt. Og uansett hva drømmen handler om, kan den også ganske enkelt være en bearbeiding av det faktiske forholdet til ham — noe uoppgjort, eller noe godt, som ber om litt oppmerksomhet. Se også drømmer om [søster](/drommer/soester/) eller [far](/drommer/far/).

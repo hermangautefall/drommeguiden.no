@@ -54,11 +54,13 @@ Ett av de mest tröstande besöken — ett möte som ger något som annars skull
 **Om ni hade ett gott samtal:**
 Något klarnar mellan generationerna — en försoning eller en vägledning.
 
-## Psykologiska och kulturella perspektiv
+## Visdom, arv och vägledning
 
-Jung beskrev den "vise gamle mannen" — Senex-arketypen — som en av de viktigaste och mest läkande figurerna som kan dyka upp i drömmarna. Han representerar en visdom som överskrider den individuella erfarenheten och pekar mot något större och mer varaktigt.
+Farfar i drömmarna kan representera visdom och erfarenhet som byggts upp under ett helt liv — en form av ro som kommer från att ha sett mycket och överlevt det mesta. Drömmen kan dyka upp som en påminnelse om att du har tillgång till en sådan vägledning, antingen genom minnen av honom eller genom din egen inre röst.
 
-I svensk kultur är farfar historiskt en central figur — han som minns kriget, han som byggde något med händerna, han som var tyst men stadig. Att drömma om honom berör denna kultur av tyst maskulin auktoritet och tålmodig värdighet.
+Om farfar är avliden upplevs drömmen ofta som ett tröstande besök — ett möte som ger något man trodde var förlorat. Många beskriver det som att söka hans godkännande eller råd, och drömmen kan vara en naturlig del av att bearbeta sorg och hålla fast i bandet till honom. Se även [avliden person i dröm](/sv/drommar/avliden-person/).
+
+Farfar kan också representera auktoritet och värderingar på ett mildare sätt än pappan ofta gör — tradition, moralisk förankring, familjehistorier som format vem du är. Och i en mer inre läsning kan han stå för din egen mentorröst: den del av dig som lyckas hålla huvudet kallt och se saker i ett större perspektiv. Läs även om drömmar om [farmor](/sv/drommar/farmor/) eller [pappa](/sv/drommar/pappa/).
 
 ## Drömguiden rekommenderar
 

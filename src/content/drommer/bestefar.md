@@ -53,11 +53,13 @@ Et av de mest trøstende besøkene — et møte som gir noe som ellers ville gå
 **Hvis dere hadde en god samtale:**
 Noe avklares mellom generasjonene — en forsoning eller en veiledning.
 
-## Psykologiske og kulturelle perspektiver
+## Visdom, arv og veiledning
 
-Jung beskrev den "vise gamle mannen" — Senex-arketypen — som en av de viktigste og mest helende figurene som kan opptre i drømmene. Han representerer en visdom som overskrider den individuelle erfaringen og peker mot noe større og mer varig.
+Bestefaren i drømmene kan representere visdom og erfaring som er bygget opp over et helt liv — en form for ro som kommer av å ha sett mye og overlevd det meste. Drømmen kan dukke opp som en påminnelse om at du har tilgang til en slik veiledning, enten gjennom minner om ham eller gjennom din egen indre stemme.
 
-I norsk kultur er bestefaren historisk en sentralt figur — han som husker krigen, han som bygde noe med hendene, han som var stille men solid. Å drømme om ham berører denne kulturen av taus maskulin autoritet og tålmodig verdighet.
+Hvis bestefaren er gått bort, oppleves drømmen ofte som et trøstende besøk — et møte som gir noe man trodde var tapt. Mange beskriver det som å søke hans godkjenning eller råd, og drømmen kan være en naturlig del av å bearbeide sorg og holde fast i båndet til ham. Se også [avdød person i drøm](/drommer/avdod-person/).
+
+Bestefaren kan også representere autoritet og verdier på en mildere måte enn faren ofte gjør — tradisjon, moralsk forankring, familiehistorier som har formet hvem du er. Og i en mer indre lesning kan han stå for din egen mentor-stemme: den delen av deg som klarer å holde hodet kaldt og se ting i et større perspektiv. Les også om drømmer om [bestemor](/drommer/bestemor/) eller [far](/drommer/far/).
 
 ## Drømmeguiden anbefaler
 
