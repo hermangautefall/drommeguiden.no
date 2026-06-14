@@ -70,20 +70,10 @@ Du er i en periode der noe annet enn det vanlige søker uttrykk gjennom deg.
 **Hvis du arvet eller fikk kjolen:**
 En rolle som er gitt deg — fra familien, kulturen, omstendighetene. Spørsmålet er om du tar den eller ikke.
 
-## Psykologiske og kulturelle perspektiver
+## Identitet, rolle og hvordan vi vil bli sett
 
-Kjolen er ett av menneskehetens eldste sosiale signaler. Hva vi har på oss forteller hvem vi er, hvor vi hører hjemme, og hva vi forventer av møtet med andre. Drømmens kjole bærer på dette dype kulturelle laget.
+Klær er noe av det mest direkte vi viser verden av oss selv, og en kjole i drømmen kan tolkes som et bilde på identiteten du bærer utenpå — den rollen, den femininiteten eller det bildet av deg selv som du presenterer for andre. Å prøve en kjole i drømmen kan derfor leses som å prøve på en identitet eller en mulighet: passer dette meg, eller er det noe jeg bare har tatt på meg?
 
-I indisk tradisjon er *sariet* mer enn et plagg — det er en hel kulturell grammatikk. Måten det vikles, fargen, materialet og brodersymbolikken signaliserer alder, region, status, livsfase og rituell tilstand. Drømmens kjole i en sør-asiatisk lesning er knyttet til hele dette betydningsuniverset.
+En spesiell kjole — til [bryllup](/drommer/bryllup/), fest eller en annen markering — kan tolkes som at noe betydningsfullt nærmer seg, eller som et bilde på et selv i forvandling. Hvordan kjolen kjentes i drømmen sier ofte mer enn selve kjolen: følte du deg selvsikker, eksponert, eller som om den ikke var helt din? Klær dekker og avslører på samme tid, og en kjole som ikke passer kan tolkes som en rolle som ikke lenger stemmer, mens en kjole du kjenner deg vakker i kan speile en form for selvaksept.
 
-I kinesisk historie var *qipao* (eller *cheongsam*) en av de mest ladde feminine plaggene — en moderniseringssymbol i 1920-tallets Shanghai, et politisk omstridt klesplagg under kulturrevolusjonen, og i dag et signal for kinesisk identitet. Drømmens kjole i denne tradisjonen er aldri politisk nøytral.
-
-I vest-afrikanske kulturer, særlig blant Yoruba, finnes praksisen *aso ebi* — å kle seg likt med en gruppe ved bryllup, begravelser eller andre anledninger for å markere fellesskap og tilhørighet. Drømmens kjole i denne kontekst kan være et bilde på det å være del av et større "vi", eller om frykten for å falle utenfor det.
-
-I japansk tradisjon er *kimonoen* knyttet til presisjon: hver brett, hver linje, hvert *obi*-knytt har mening. Den moderne japanske drømmen om kimono bærer ofte på et savn etter en mer rituell, langsom måte å være i kroppen på.
-
-I vestlig motehistorie har kjolen vært et politisk slagsmål. Bloomers, Coco Chanel sin "lille svarte", miniskjørtet på 1960-tallet, dekonstruerte plagg fra Comme des Garçons — hver av disse skiftet ladningen til kvinnens kjole. Den moderne, kjønnsfri kjolen — båret av personer av alle kjønn — bærer på en helt ny ladning igjen: kjolen som personlig uttrykk, ikke som kjønnsmarkør.
-
-Carl Jung beskrev Persona — den sosiale masken — som ett av de viktigste og mest komplekse aspektene av psyken. Klær i drømmene er Personaens mest bokstavelige representasjon. Kjolen er Personaen i sin mest elegante og bevisste form: du har valgt å kle deg slik, og det sier noe.
-
-Den amerikanske antropologen Joanne Eicher har vist at klær er menneskets mest ærlige form for selvfortelling — vi vet ikke alltid hva vi vil si, men kroppen i klærne forteller det likevel. Drømmens kjole er underbevissthetens redskap for å se hva slags fortelling du holder på å fortelle om deg selv akkurat nå.
+Også fargen og tilstanden på kjolen kan bære mening i tolkningen. En flekket, revet eller for trang kjole kan tolkes som selvtvil eller en rolle som klemmer, mens en kjole som sitter perfekt kan speile en periode der du kjenner deg trygg i din egen hud. Drømmer om å være [naken](/drommer/naken/) eller se deg selv i [speilet](/drommer/speil/) handler ofte om noe av det samme — hvordan du ser deg selv, og hvordan du tror andre ser deg.

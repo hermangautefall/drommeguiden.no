@@ -55,11 +55,13 @@ En advarsel om at noe som ser verdifullt ut ikke holder mål.
 **Hvis du var omgitt av gull:**
 Overflod og anerkjennelse av det rike livet du lever eller har levd.
 
-## Psykologiske og kulturelle perspektiver
+## Verdi, det ekte og forvandlingen
 
-Gull er i norrøn tradisjon knyttet til gudene og til den høyeste verdien — Odin og gudene bor i Gladsheim, hallen med gulltak. Det norrøne begrepet "gullalder" er tidenes beste tid. Men gullet er også farlig: det er Fáfnirs gull som korrumperer, [ringens](/drommer/ring/) gull i Niebelungen som ødelegger alt det berører. Gullet er det beste og det mest forførende på én gang.
+Gull har til alle tider vært målestokken for det dyrebare, og i drømmer fungerer det ofte som et bilde på din egen verdi — talentene, egenskapene eller den indre rikdommen du bærer på, kanskje uten alltid å se det selv. Å finne gull i en drøm kan tolkes som at noe i deg er klart for å bli oppdaget eller verdsatt, et slags "gull" som har ligget gjemt.
 
-Jung analyserte drømmens gull som et av de tydeligste symbolene på Selvet — det som er ekte og varig i psyken, det som ikke kan falme — som [lyset](/drommer/lys/) som aldri slukner. "Arbeidet med sjelen" kalte han alchemistenes gullfremstilling — en transformasjonsprosess der base metaller (uintegrerte deler av psyken) gjøres til gull (integrert helhet).
+Men gull har også en skyggeside. Lokkingen av rikdom kan tolkes som grådighet eller ambisjon som har tatt overhånd, og drømmen kan stille spørsmålet: er dette ekte verdi, eller bare noe som glitrer? Forskjellen på gull og "kattegull" — det som ser ut som mye, men ikke er det — kan være nettopp det drømmen ber deg legge merke til.
+
+I alkymien var forvandlingen av bly til gull aldri bare snakk om metall — alkymistene selv beskrev det som et bilde på indre arbeid, der noe rått og ubearbeidet i mennesket gradvis foredles. Et slikt blikk kan gjøre drømmens gull til et tegn på vekst og forvandling som er i gang. Gull kan også ganske enkelt være bildet på mestring og belønning — "gullstandarden", det å lykkes med noe du har lagt mye i, eller [vinne](/drommer/vinne-penger/) noe du har strebet etter lenge.
 
 ## Drømmeguiden anbefaler
 

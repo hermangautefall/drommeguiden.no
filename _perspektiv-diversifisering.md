@@ -147,4 +147,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] operasjon (operation) — heling/skjære bort + sårbarhet/kontroll + forvandling + helseangst
 - [x] sykdom (sjukdom) — følelsesmessig uvelhet + behov for omsorg + helseangst + noe som ulmer
 
-## Status: 95/214 NB ferdig (+ 95 SV).
+## Batch 20 — gjenstander
+- [x] ring (ring) — sirkel/evighet/binding + helhet/selvet + status/tilhørighet + miste/knuse
+- [x] telefon (telefon) — kommunikasjon/forbindelse + samtaler man ikke får fullført + det ubevisste kaller + moderne overveldelse
+- [x] gull (guld) — verdi/det dyrebare + grådighet vs ekte + alkymi/forvandling + mestring
+- [x] koffert (resvaska) — reise/overgang + emosjonell bagasje + hva er inni + frihet vs byrde
+- [x] kjole (klanning) — identitet/persona + anledning/forvandling + tildekking vs avsløring + farge/tilstand
+
+## Status: 100/214 NB ferdig (+ 100 SV).

@@ -54,11 +54,13 @@ En mer dramatisk version av förlusten — något är förstört på ett sätt s
 **Om du fick ett viktigt samtal:**
 Ett budskap är på väg till dig — från omgivningarna eller från dig själv.
 
-## Psykologiska och kulturella perspektiv
+## Förbindelse, budskap och det som kallar
 
-Telefonen som drömsymbol är modern, men den speglar ett uråldrigt behov: att hålla kontakt med dem vi bryr oss om. Separationsångest — en av de mest grundläggande mänskliga erfarenheterna — tar idag gärna form av telefondrömmar.
+Telefonen är framför allt en bild av förbindelse — eller bristen på den. Drömmen kan handla om ett behov av att nå någon, ett viktigt budskap som inte kommit fram, eller en känsla av att stå utanför något du önskar vara del av. Ofta är det samtalet du väntat på — eller det du skjutit ifrån dig — som dyker upp i bilden av en ringande telefon.
 
-Intressant nog rapporterar yngre generationer oftare om telefonångestdrömmar än äldre — ett tecken på att anknytning till den digitala världen blivit lika emotionellt laddad som traditionell fysisk närvaro.
+En mycket vanlig variant är drömmen där du inte får knapparna att fungera, telefonen inte går igenom, eller du inte hör vad som sägs. Det kan tolkas som en frustration över att inte bli hörd, eller över att inte hitta orden för något du behöver uttrycka. Ibland tolkas detta också som en signal från det undermedvetna — en "väckarklocka" från en del av dig själv som försöker fånga din uppmärksamhet.
+
+Som en relativt ny symbol speglar telefonen också vår tid: ständig uppkoppling, ett flöde av notiser, och pressen att alltid vara tillgänglig. En dröm om telefon kan därför lika gärna handla om överväldigande information och distraktion som om själva kontakten — kanske speglar den ett behov av att koppla bort lite, vare sig det gäller [internet](/sv/drommar/internet/) eller [sociala medier](/sv/drommar/sociala-medier/).
 
 ## Drömguiden rekommenderar
 

@@ -56,11 +56,13 @@ En varning om att något som ser värdefullt ut inte håller måttet.
 **Om du var omgiven av guld:**
 Överflöd och erkännande av det rika livet du lever eller har levt.
 
-## Psykologiska och kulturella perspektiv
+## Värde, det äkta och förvandlingen
 
-Guld är i fornnordisk tradition knutet till gudarna och till det högsta värdet — Oden och gudarna bor i Gladsheim, hallen med guldtak. Det fornnordiska begreppet "guldålder" är tidernas bästa tid. Men guldet är också farligt: det är Fáfnirs guld som korrumperar, [ringens](/sv/drommar/ring/) guld i Niebelungen som förstör allt det berör. Guldet är det bästa och det mest förföriska på en gång.
+Guld har i alla tider varit måttstocken för det dyrbara, och i drömmar fungerar det ofta som en bild av ditt eget värde — talangerna, egenskaperna eller den inre rikedom du bär på, kanske utan att själv alltid se det. Att hitta guld i en dröm kan tolkas som att något i dig är redo att upptäckas eller uppskattas, ett slags "guld" som legat gömt.
 
-Jung analyserade drömmens guld som en av de tydligaste symbolerna på Självet — det som är äkta och varaktigt i psyket, det som inte kan blekna — som [ljuset](/sv/drommar/ljus/) som aldrig slocknar. "Arbetet med själen" kallade han alkemisternas guldframställning — en transformationsprocess där basmetaller (ointegrerade delar av psyket) förvandlas till guld (integrerad helhet).
+Men guld har också en skuggsida. Lockelsen av rikedom kan tolkas som girighet eller ambition som tagit överhanden, och drömmen kan ställa frågan: är detta äkta värde, eller bara något som glittrar? Skillnaden mellan guld och "oäkta guld" — det som ser ut att vara mycket, men inte är det — kan vara just det drömmen vill att du ska lägga märke till.
+
+I alkemin handlade förvandlingen av bly till guld aldrig bara om metall — alkemisterna själva beskrev det som en bild av inre arbete, där något rått och obearbetat i människan gradvis förädlas. Med ett sådant synsätt kan drömmens guld bli ett tecken på en växt och förvandling som redan är på gång. Guld kan också helt enkelt vara bilden av att lyckas och bli belönad — "guldstandarden", att lyckas med något du lagt mycket i, eller att [vinna](/sv/drommar/vinna-pengar/) något du strävat efter länge.
 
 ## Drömguiden rekommenderar
 

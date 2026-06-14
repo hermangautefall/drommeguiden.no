@@ -54,11 +54,13 @@ Något i ditt liv är [värdefullt](/sv/drommar/pengar/) och varaktigt — erkä
 **Om ringen var krossad eller förstörd:**
 Ett löfte eller en förpliktelse är [brutet](/sv/drommar/ex/) — eller i fara att brytas.
 
-## Psykologiska och kulturella perspektiv
+## Cirkeln — helhet, bindning och evighet
 
-Jung såg ringen som en symbol för Självet — den fullständiga psyken i sin cirkelform, det Jung kallade "mandalans" arketypiska bild. Att drömma om en ring är att drömma om helhet och fullständighet.
+Ringens form har ingen början och inget slut, och det är möjligen denna obrutna cirkel som gör att ringen så lätt blir bärare av stora ord: förpliktelse, trohet, ett band som håller. En [förlovnings- eller vigselring](/sv/drommar/forlovning/) i en dröm kan tolkas som ett löfte — till en partner, men också till ett projekt eller ett värde du har bundit dig till. Frågan drömmen ofta ställer är hur lojal du egentligen är mot det du sagt dig bunden till.
 
-I fornnordisk tradition var ringen en av de viktigaste symbolerna för äresförpliktelse — Oden svär vid sin ring Draupner, och brudgummen bär ringen som tecken på sitt löfte. Att drömma om ring i nordisk kulturell kontext berör något gammalt och djupt.
+Samtidigt kan cirkeln läsas som en bild av helhet i sig — inte bara det som binder dig till något utanför dig, utan en känsla av att något i dig har rundats av, kommit "full cirkel". En ring kan också peka på status och tillhörighet: ett signetmärke, en roll, en symbol för att du hör till en viss grupp eller har en viss position.
+
+Om ringen i drömmen tappades bort eller krossades, kan det tolkas som oro för att en förpliktelse är i fara, eller rädsla för att en relation går sönder. Att hitta en ring kan istället spegla ett nytt band som är på väg in i ditt liv — en möjlighet, en överenskommelse, eller en tillhörighet du ännu inte lagt märke till.
 
 ## Drömguiden rekommenderar
 

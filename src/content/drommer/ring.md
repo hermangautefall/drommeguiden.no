@@ -53,11 +53,13 @@ Noe i livet ditt er [verdifullt](/drommer/penger/) og varig — anerkjenn det.
 **Hvis ringen var knust eller ødelagt:**
 Et løfte eller en forpliktelse er [brutt](/drommer/eksen/) — eller i fare for å brytes.
 
-## Psykologiske og kulturelle perspektiver
+## Sirkelen — helhet, binding og evighet
 
-Jung så ringen som et symbol på Selvet — den fullstendige psyken i sin sirkelform, det Jung kalte "mandalaens" arketypiske bilde. Å drømme om en ring er å drømme om helhet og fullstendighet.
+Ringens form har ingen begynnelse og ingen ende, og denne ubrutte sirkelen er kanskje grunnen til at ringen så lett blir bærer av store ord: forpliktelse, troskap, et bånd som varer. En [forlovelses- eller giftering](/drommer/forlovelse/) i en drøm kan tolkes som et løfte — til en partner, men også til et prosjekt eller en verdi du har bundet deg til. Spørsmålet drømmen stiller er ofte hvor lojal du egentlig er mot det du har sagt deg bundet til.
 
-I norrøn tradisjon var ringen et av de viktigste symbolene på æresforpliktelse — Odin sverger ved sin ring Draupnir, og brudgommen bærer ringen som tegn på sitt løfte. Å drømme om ring i norsk kulturell kontekst berører noe gammelt og dypt.
+Samtidig kan sirkelen leses som et bilde på helhet i seg selv — ikke bare det som binder deg til noe utenfor deg, men en følelse av at noe i deg har rundet seg av, kommet "full sirkel". En ring kan også peke på status og tilhørighet: et signaturmerke, en rolle, et symbol på at du hører til en bestemt gruppe eller har en bestemt posisjon.
+
+Hvis ringen i drømmen ble mistet eller knust, kan det tolkes som uro for at en forpliktelse er i fare, eller frykt for at et forhold går i stykker. Å finne en ring kan derimot speile et nytt bånd som er på vei inn i livet ditt — en mulighet, en avtale, eller en tilhørighet du ennå ikke har lagt merke til.
 
 ## Drømmeguiden anbefaler
 

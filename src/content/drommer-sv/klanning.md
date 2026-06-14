@@ -71,20 +71,10 @@ Du är i en period då något annat än det vanliga söker uttryck genom dig.
 **Om du ärvde eller fick klänningen:**
 En roll som getts dig — från familjen, kulturen, omständigheterna. Frågan är om du tar den eller inte.
 
-## Psykologiska och kulturella perspektiv
+## Identitet, roll och hur vi vill bli sedda
 
-Klänningen är en av mänsklighetens äldsta sociala signaler. Vad vi har på oss berättar vem vi är, var vi hör hemma, och vad vi förväntar oss av mötet med andra. Drömmens klänning bär på detta djupa kulturella lager.
+Kläder är något av det mest direkta vi visar världen av oss själva, och en klänning i drömmen kan tolkas som en bild av den identitet du bär utåt — den roll, den feminina sidan eller den bild av dig själv som du visar för andra. Att prova en klänning i drömmen kan därför läsas som att prova en identitet eller en möjlighet: passar detta mig, eller är det något jag bara tagit på mig?
 
-I indisk tradition är *sarin* mer än ett plagg — det är en hel kulturell grammatik. Hur det viras, färgen, materialet och brodersymboliken signalerar ålder, region, status, livsfas och rituell tillstånd. Drömmens klänning i en sydasiatisk läsning är kopplad till hela detta betydelseuniversum.
+En särskild klänning — till [bröllop](/sv/drommar/brollop/), fest eller något annat firande — kan tolkas som att något betydelsefullt närmar sig, eller som en bild av ett jag i förvandling. Hur klänningen kändes i drömmen säger ofta mer än klänningen själv: kände du dig självsäker, exponerad, eller som om den inte riktigt var din? Kläder döljer och avslöjar samtidigt, och en klänning som inte passar kan tolkas som en roll som inte längre stämmer, medan en klänning du känner dig vacker i kan spegla en form av självacceptans.
 
-I kinesisk historia var *qipao* (eller *cheongsam*) ett av de mest laddade feminina plaggen — en moderniseringssymbol i 1920-talets Shanghai, ett politiskt omstritt klädesplagg under kulturrevolutionen, och idag en signal för kinesisk identitet. Drömmens klänning i denna tradition är aldrig politiskt neutral.
-
-I västafrikanska kulturer, särskilt bland Yoruba, finns praktiken *aso ebi* — att klä sig likadant med en grupp vid bröllop, begravningar eller andra tillfällen för att markera gemenskap och tillhörighet. Drömmens klänning i denna kontext kan vara en bild av att vara del av ett större "vi", eller om rädslan för att falla utanför det.
-
-I japansk tradition är *kimonon* kopplad till precision: varje veck, varje linje, varje *obi*-knytning har mening. Den moderna japanska drömmen om kimono bär ofta på en saknad efter ett mer rituellt, långsamt sätt att vara i kroppen.
-
-I västerländsk modehistoria har klänningen varit ett politiskt slagsmål. Bloomers, Coco Chanels "lilla svarta", minikjolen på 1960-talet, dekonstruerade plagg från Comme des Garçons — var och en av dessa skiftade laddningen i kvinnans klänning. Den moderna, könsfria klänningen — buren av personer av alla kön — bär på en helt ny laddning igen: klänningen som personligt uttryck, inte som könsmarkör.
-
-Carl Jung beskrev Persona — den sociala masken — som en av de viktigaste och mest komplexa aspekterna av psyket. Kläder i drömmarna är Personans mest bokstavliga representation. Klänningen är Personan i sin mest eleganta och medvetna form: du har valt att klä dig så, och det säger något.
-
-Den amerikanska antropologen Joanne Eicher har visat att kläder är människans mest ärliga form av självberättelse — vi vet inte alltid vad vi vill säga, men kroppen i kläderna berättar det ändå. Drömmens klänning är det omedvetnas redskap för att se vilken slags berättelse du håller på att berätta om dig själv just nu.
+Även färgen och skicket på klänningen kan bära mening i tolkningen. En fläckig, trasig eller för trång klänning kan tolkas som självtvivel eller en roll som klämmer, medan en klänning som sitter perfekt kan spegla en period då du känner dig trygg i din egen kropp. Drömmar om att vara [naken](/sv/drommar/naken/) eller se dig själv i [spegeln](/sv/drommar/spegel/) handlar ofta om något av samma slag — hur du ser dig själv, och hur du tror att andra ser dig.

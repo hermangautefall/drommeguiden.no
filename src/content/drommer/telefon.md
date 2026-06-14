@@ -53,11 +53,13 @@ En mer dramatisk versjon av tapet — noe er ødelagt på en måte som krever gj
 **Hvis du fikk en viktig telefon:**
 Et budskap er på vei til deg — fra omgivelsene eller fra deg selv.
 
-## Psykologiske og kulturelle perspektiver
+## Forbindelse, budskap og det som kaller
 
-Telefonen som drømmesymbol er moderne, men den speiler et urgammelt behov: å holde kontakt med de vi bryr oss om. Separasjonsangst — en av de mest grunnleggende menneskelige erfaringene — tar i dag gjerne form av telefondrømmer.
+Telefonen er først og fremst et bilde på forbindelse — eller mangelen på den. Drømmen kan handle om et behov for å nå noen, et viktig budskap som ikke har kommet frem, eller en følelse av å stå utenfor noe du gjerne ville vært en del av. Ofte er det samtalen du har ventet på — eller den du har skjøvet fra deg — som dukker opp i bildet av en ringende telefon.
 
-Interessant nok rapporterer yngre generasjoner hyppigere om telefon-angstdrømmer enn eldre — et tegn på at tilknytning til den digitale verden er blitt like emosjonelt ladet som tradisjonell fysisk tilstedeværelse.
+En svært vanlig variant er drømmen der du ikke får tastet riktig, telefonen ikke virker, eller du ikke hører hva som blir sagt. Dette kan tolkes som en frustrasjon over å ikke bli hørt, eller over å ikke finne ordene for noe du trenger å uttrykke. Noen ganger leses dette også som et signal fra det ubevisste — en "vekker" fra en del av deg selv som prøver å få oppmerksomheten din.
+
+Som et relativt nytt symbol speiler telefonen også vår tid: konstant tilkobling, en strøm av varsler, og presset om alltid å være tilgjengelig. En drøm om telefon kan derfor like gjerne handle om overveldelse og distraksjon som om selve kontakten — kanskje speiler den et behov for å koble fra litt, enten fra [internett](/drommer/internett/) eller [sosiale medier](/drommer/sosiale-medier/).
 
 ## Drømmeguiden anbefaler
 

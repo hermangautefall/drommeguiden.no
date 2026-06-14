@@ -54,11 +54,13 @@ Du prøver å ta med for mye. Noe må velges bort.
 **Hvis kofferten inneholdt noe uventet:**
 Et overraskende funn i din egen bagasje — noe du bærer uten å ha visst det.
 
-## Psykologiske og kulturelle perspektiver
+## Reisen, bagasjen og det vi bærer med oss
 
-"Emosjonell bagasje" er ikke tilfeldig som uttrykk — vi bærer bokstavelig talt fortiden med oss gjennom livet, som baggasje. Drømmens koffert er ett av de mest direkte bildene på dette.
+En koffert i drømmen kan tolkes som et bilde på reise og overgang — at noe i livet ditt er i bevegelse, eller at en ny fase nærmer seg. Å pakke en koffert kan speile en forberedelse, mens uklarhet om hva som skal med kan tolkes som usikkerhet rundt selve reisen eller overgangen.
 
-For en generasjon nordmenn er kofferten knyttet til emigrasjonen — de som forlot Norge med alt de eide i én koffert. Drømmer om koffert henger ofte sammen med drømmer om å [fly](/drommer/flyging/). Denne historien lever i kulturen og gir kofferten en eksistensielt tung valens: det man tar med er det man er.
+Uttrykket "emosjonell bagasje" er ikke tilfeldig — kofferten kan tolkes som det du bærer med deg av tidligere erfaringer, uavsluttede saker eller mønstre fra fortiden. En tung koffert kan derfor speile en følelse av å bære for mye, mens en [mistet koffert](/drommer/miste-noe/) kan tolkes som frykt for å miste en del av seg selv, eller å miste kontrollen midt i en overgang.
+
+Hva du legger i kofferten, og hva du lar ligge, kan også speile prioriteringer — hva som faktisk betyr noe for deg akkurat nå, og hvilken identitet du tar med deg videre. Reisen kan kjennes som frihet og nye muligheter, men kofferten er samtidig en påminnelse om vekten av det vi ikke helt klarer å legge fra oss.
 
 ## Drømmeguiden anbefaler
 
