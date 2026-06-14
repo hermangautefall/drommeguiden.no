@@ -84,4 +84,11 @@ NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vin
 - [x] nokler (nycklar) — tilgang/løsninger + hemmeligheter + makt/ansvar + autoritet
 - [x] bro (bro) — overgang/forbindelse + krysse vs nøle + bygge broer + Chinvat/regnbue
 
-## Status: 50/214 NB ferdig (+ 50 SV). ~164 NB gjenstår (long-tail).
+## Batch 11 — landdyr
+- [x] bjorn (bjorn) — styrke/dvale + mammabjørn + trussel + urfolk/Kallisto (ikke norrønt)
+- [x] elefant (elefant) — hukommelse/visdom + Ganesha + hvit elefant (Buddha) + elefanten i rommet
+- [x] rev (rav) — klokskap/list + kitsune/Reynard/Æsop + en "rev" + tilpasning
+- [x] frosk (groda) — metamorfose + Heqet/fruktbarhet + froskeprinsen + amfibie/følelser
+- [x] krokodille (krokodil) — skjult fare + krokodilletårer + Sobek + eldgammel kraft
+
+## Status: 55/214 NB ferdig (+ 55 SV).

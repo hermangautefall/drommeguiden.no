@@ -70,24 +70,10 @@ Symbolet ber om dialog — det er ikke ren trussel; det er noe å lytte til.
 **Hvis du var krokodillen:**
 Du identifiserer deg med kvaliteten av tålmodig overlevelse — kanskje med rette, kanskje som forsvar.
 
-## Psykologiske og kulturelle perspektiver
+## Faren som ligger stille
 
-Krokodillen har vært et av menneskekulturens mest respekterte og fryktede dyr i over fem tusen år, og drømmens krokodille trekker på dette dype lageret.
+Krokodillen kan tolkes som et bilde på en skjult fare — noe som ligger rolig under overflaten og slår til uten forvarsel. Drømmen kan handle om en trussel du ikke helt har sett ennå, eller om primale instinkter og aggresjon som lurer under en fasade av ro, både hos deg selv og andre.
 
-I egyptisk mytologi var *Sobek* — krokodilleguden — en av de mektigste figurene. Han var beskytter av faraoer og soldater, og samtidig representerte han Nilens livgivende og dødelige kraft. Drømmens krokodille i egyptisk lesning bærer på denne dobbeltheten: den som dreper er også den som beskytter. Den egyptiske tradisjonen lærte at man måtte forsone seg med krokodillen, ikke unngå den.
+Et nært beslektet spor er bedrag: uttrykket «krokodilletårer» peker mot falske følelser og uoppriktighet. Drømmen kan tolkes som et signal om at noe — eller noen — ikke er det det later til å være, eller at en situasjon som virker ufarlig faktisk bærer på en brodd.
 
-I mesoamerikansk kosmologi — særlig hos aztekerne og maya — er *Cipactli* urtidskrokodillen som verden er bygget på. Kosmos hviler på krokodillens rygg. Drømmens krokodille kan i denne lesningen bære på selve grunnen vi står på — det urtidlige som fortsatt bærer alt.
-
-I yorubareligionen er krokodillen knyttet til *Olokun* — havets gudinne — som har både næringsgivende og truende sider. Krokodillen i yoruba-tradisjon er den som vokter på det dype, og som kun viser seg når noe må sies fra dypet.
-
-I australsk aboriginsk tradisjon, særlig hos folk i Top End og Kimberley, er krokodillen ofte forfedreånd og lærer. *Ginga* — saltvannskrokodillen — er en av de viktigste *dreamtime*-skapningene, og lærer mennesker om respekt og om å lese tegnene i vannet. Drømmens krokodille i denne tradisjonen er en lærer, ikke et monster.
-
-I tidlig kinesisk tradisjon var krokodillen — *jiao* — én av de levende kildene til drage-myten. Dragen er på mange måter den abstraherte og forskjønnede krokodillen. Drømmens krokodille kan i en kinesisk lesning derfor bære på dragesymbolikkens dobbelthet: kraftfull, urgammel, både velsignelse og trussel.
-
-I bibelsk tradisjon dukker *Leviatan* opp i Jobs bok som en skapning som beskrives med krokodille-lignende trekk — uovervinnelig, urgammel, et av Guds skaperkraftbilder. Drømmens krokodille i denne arven bærer på det uoverskuelige, det som ingen kan temme.
-
-I moderne økologi har krokodillen fått betegnelsen "levende fossil" — en art som har overlevd nesten uendret i over to hundre millioner år. Drømmens krokodille i en samtidskontekst bærer på dette: kontakt med noe som har eksistert lenger enn menneskene, og som vil eksistere lenger.
-
-Jung beskrev krokodillen som en av de eldste arketypiske skapningene fra det kollektive ubevisste — et bilde av "den urgamle psyken", instinkter som er eldre enn både språk og kultur. Senere arketypiske psykologer som James Hillman har lagt vekt på at krokodillen i drømmer ofte representerer "den indre evolusjonshistorien" — sider av oss som er millioner av år gamle og som vi sjelden får tilgang til i våken tilstand.
-
-Den franske psykoanalytikeren Jacques Lacan brukte ofte krokodillen som metafor for *moderens kjeve* — den fortærende kraften i tidlig binding som må forhandles i barnets utvikling. Drømmens krokodille kan i en lacaniansk lesning bære på spørsmål om frigjøring fra noe altoppslukende — en avhengighet, en relasjon, en gammel struktur.
+I det gamle Egypt var *Sobek* krokodilleguden, en skikkelse knyttet til både fare og beskyttelse — han representerte Nilens fruktbarhet, men også dens dødelige kraft, og ble både respektert og fryktet. Krokodillen regnes også som en av jordens eldste «levende fossiler», og i drømmer kan den derfor tolkes som et bilde på dype, instinktive og overlevelsesdrevne krefter i psyken — eldgamle deler av oss som sjelden kommer til orde i dagliglivet.

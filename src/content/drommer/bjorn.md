@@ -77,15 +77,13 @@ En sovende bjørn er et sterkt signal om behov for hvile. Kroppen og sinnet ditt
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Styrke, tilbaketrekning og beskyttelse
 
-Carl Jung betraktet bjørnen som et symbol for det ubevisste — de kraftige, instinktive delene av psyken som vi ikke alltid har kontakt med. I jungiansk tradisjon kan bjørnen representere den delen av deg som handler uten ord, den som vet gjennom kroppen snarere enn gjennom tanken.
+Bjørnen kan tolkes som et bilde på rå styrke som veksler med dyp ro. Tenk på dvalen: bjørnen trekker seg tilbake, lader opp i stillhet, og kommer ut igjen forandret når tiden er inne. Drømmer om bjørn kan derfor handle om et behov for å trekke seg tilbake en periode — eller om en kraft i deg som ligger og venter på å bli tatt i bruk igjen.
 
-I nordisk og samisk tradisjon har bjørnen hatt en helt spesiell plass. Bjørnen ble betraktet som et hellig dyr, en forbindelse mellom menneskets verden og åndeverdenen. I samisk kultur var bjørneseremonien en av de viktigste ritualene — en feiring av bjørnens kraft og visdom, og en måte å opprettholde balansen mellom mennesket og naturen.
+Bjørnen bærer også på en sterk beskyttende, nesten maternal kraft. Tenk på «mammabjørnen» som forsvarer ungene sine uten å tenke seg om — drømmen kan speile hvor langt du selv er villig til å gå for å verne om noe eller noen du er glad i, eller et behov for å selv bli tatt vare på med samme intensitet.
 
-I norrøn tradisjon var berserkene krigere som tok bjørnens kraft i kamp — ordet «berserk» kommer fra «bjørn» (ber) og «skjorte» (serk). Denne forestillingen om å ta på seg bjørnens hud og styrke lever videre som en metafor for å finne sin indre kraft i møte med utfordringer.
-
-Moderne drømmeforskning bekrefter at drømmer om store dyr som bjørn ofte oppstår i perioder med stress eller store utfordringer. Bjørnen i drømmen kan da tolkes som psykens måte å mobilisere ressurser — den minner deg om at du har det som trengs for å møte det som kommer.
+Hvis bjørnen i drømmen oppleves som truende, kan den tolkes som et overveldende problem, en mektig person i livet ditt, eller et sinne — ditt eget eller andres — som du på et tidspunkt må møte. I flere urfolkstradisjoner på den nordlige halvkule, blant både nordamerikanske og sibirske folk, har bjørnen blitt sett på som en mektig ånd og healer, et vesen som forbinder menneskeverdenen med noe større. Også på stjernehimmelen lever denne æren videre, i stjernebildet som de gamle grekerne knyttet til Kallisto — Den store bjørnen.
 
 ---
 

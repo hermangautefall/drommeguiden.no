@@ -78,15 +78,13 @@ En sovande björn är en stark signal om behov av vila. Din kropp och ditt sinne
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Styrka, tillbakadragande och beskydd
 
-Carl Jung betraktade björnen som en symbol för det omedvetna — de kraftiga, instinktiva delarna av psyket som vi inte alltid har kontakt med. I jungiansk tradition kan björnen representera den del av dig som handlar utan ord, den som vet genom kroppen snarare än genom tanken.
+Björnen kan tolkas som en bild av rå styrka som växlar med djup vila. Tänk på vintersömnen: björnen drar sig tillbaka, laddar om i tystnad och kommer ut igen förändrad när tiden är mogen. Drömmar om björn kan därför handla om ett behov av att dra sig tillbaka en period — eller om en kraft i dig som ligger och väntar på att tas i bruk igen.
 
-I nordisk och samisk tradition har björnen haft en helt särskild plats. Björnen betraktades som ett heligt djur, en förbindelse mellan människans värld och andevärlden. I samisk kultur var björnceremonin en av de viktigaste ritualerna — en hyllning till björnens kraft och visdom, och ett sätt att upprätthålla balansen mellan människan och naturen.
+Björnen bär också på en stark beskyddande, näst intill maternell kraft. Tänk på "björnmamman" som försvarar sina ungar utan att tveka — drömmen kan spegla hur långt du själv är beredd att gå för att skydda något eller någon du älskar, eller ett behov av att själv bli omhändertagen med samma intensitet.
 
-I fornnordisk tradition var bärsärkarna krigare som tog björnens kraft i strid — ordet "bärsärk" kommer från "björn" (ber) och "skjorta" (serk). Denna föreställning om att ta på sig björnens hud och styrka lever vidare som en metafor för att finna sin inre kraft i möte med utmaningar.
-
-Modern drömforskning bekräftar att drömmar om stora djur som björn ofta uppstår i perioder med stress eller stora utmaningar. Björnen i drömmen kan då tolkas som psykets sätt att mobilisera resurser — den påminner dig om att du har det som behövs för att möta det som kommer.
+Om björnen i drömmen känns hotfull kan den tolkas som ett överväldigande problem, en mäktig person i ditt liv, eller en ilska — din egen eller andras — som du förr eller senare måste möta. I flera urfolkstraditioner på norra halvklotet, bland både nordamerikanska och sibiriska folk, har björnen setts som en mäktig ande och helare, en varelse som förbinder människans värld med något större. Även på stjärnhimlen lever denna respekt vidare, i stjärnbilden som de gamla grekerna knöt till Kallisto — Stora björnen.
 
 ---
 

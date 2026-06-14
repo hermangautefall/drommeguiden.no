@@ -71,22 +71,10 @@ Något har förlorat sin livskraft — kanske en förmåga att röra sig fritt m
 **Om grodan kysste dig eller blev något annat:**
 Sagosymbolik — något som ser oansenligt ut bär något ädelt.
 
-## Psykologiska och kulturella perspektiv
+## Förvandling, vatten och dold potential
 
-Grodan har burit rik symbolik över kulturer i tusentals år, och drömmens groda drar på detta djupa lager.
+Grodan kan tolkas som en bild av förvandling och tillväxt. Resan från grodyngel till groda är en av naturens mest synliga metamorfoser, och i drömmar kan den spegla att du själv är på väg genom en livsfas — att något i dig håller på att träda fram i en ny form, även om processen ännu inte är klar.
 
-I egyptisk mytologi var *Heqet* en grodhuvad gudinna för födelse och fruktbarhet — kvinnor i förlossning hade grodamuletter, och hon bads till när något nytt skulle komma till världen. Drömmens groda i egyptisk läsning är en otvetydig livskraftssymbol.
+Grodan är också nära knuten till vatten, regn och fruktbarhet i många kulturer. I det gamla Egypten var *Heqet* en grodhuvad gudinna förknippad med födelse och fruktbarhet, och i flera folktraditioner ses grodor som regnbringare — deras kväkande efter [regn](/sv/drommar/regn/) tolkades som ett tecken på att livet återvänder. Drömmens groda kan på liknande sätt handla om förnyelse, om något som sköljs bort och ger plats för något fräscht.
 
-I kinesisk tradition sägs *Chang'e* — månens gudinna — ha blivit en groda (eller kopplats till grodan som hennes följeslagare) efter att hon flög till månen. *Den tre-fotade månegrodan* (蟾蜍, *chánchú*) är fortfarande en symbol för lycka och rikedom i kinesisk folkreligion, särskilt knuten till månårsfirandet.
-
-I Västafrika, särskilt bland Yoruba och Akan, är grodan en regnbringare. När regnet kommer i torrtiden och grodorna börjar kväka, är det själva livets återkomst. Drömmens groda i denna tradition är en bild av längtan som besvaras, av torka som tar slut.
-
-I europeisk sagotradition — särskilt Bröderna Grimms *Grodprinsen* — är grodan kungasonen förvandlad, det förklädda ädla. Drömmens groda i detta arv säger: avskriv inget för snabbt. Det som ser lågt och slemmigt ut, kan vara något förvandlat som väntar på att bli sett klart.
-
-I mesoamerikansk tradition, särskilt hos aztekerna, var grodguden *Tlaltecuhtli* en av jordens skapare — grodan som bärare av den materiella världen. Drömmens groda kan i denna läsning vara en bild av själva det grundläggande, det som bär allt annat.
-
-I australisk aboriginsk tradition finns *Tiddalik* — den enorma grodan som drack allt vattnet i världen och fångades av de andra djuren som måste få honom att skratta för att vattnet skulle släppas ut igen. Drömmens groda i denna tradition kan handla om något som hålls inne, och skrattet som öppnar det.
-
-I modern ekologi har grodan fått en helt ny symbolladdning: som bioindikator. Grodor är mycket känsliga för miljöförändringar, och deras försvinnande är ofta det första tecknet på att något är fel. Drömmens groda i en samtida kontext kan bära på något av denna oro — något sårbart och varslande.
-
-Jung beskrev grodan som en arketypisk förvandlingsbild — särskilt i sammanhang med sagotraditioner. Senare arketypspsykologer som James Hillman har lagt vikt vid att amfibiska djur i drömmar ofta representerar "psykets förmåga att leva i två element samtidigt" — att vara rationell och emotionell, vuxen och barnslig, jordbunden och andlig, utan att behöva välja.
+I sagan om Grodprinsen finns en annan tolkning: något som vid första anblicken verkar oansenligt kan visa sig bära på stort värde när man vågar se bortom ytan. Som amfibie rör sig grodan mellan vatten och land, mellan känsla och förnuft — drömmen kan därför också tolkas som en bild av en känslomässig övergång, där något som legat under ytan en tid nu är redo att visa sig.

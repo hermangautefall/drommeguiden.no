@@ -55,11 +55,13 @@ Klassisk varsel om at noe tas fra deg — oppmerksomhet, energi, ressurser — a
 Sterk, positiv energi. Livsglede og vitalitet som ønsker å komme til uttrykk.
 
 
-## Psykologiske og kulturelle perspektiver
+## List, klokskap og forvandling
 
-I japansk mytologi er kitsune — den magiske reven — en av de mest komplekse skapningene: en budbringer, en forfører, en beskytter og en listig spøkefugl på én gang. Dette spennet gjenspeiler noe grunnleggende ved revesymbolikken: den befinner seg alltid i grenselandet mellom det trygge og det usikre.
+Reven kan tolkes som et bilde på klokskap og tilpasningsevne — egenskaper som ikke handler om muskelkraft, men om vidd, oppfinnsomhet og evnen til å lese en situasjon riktig. Drømmen kan peke mot at problemløsning og smidighet er mer verdt akkurat nå enn å møte noe med rå styrke, men kløkten har også en skyggeside: «listig som en rev» kan minne om at noe — eller noen — bruker sjarm til å bedra.
 
-Jung ville trolig sett reven som en manifestasjon av Trickster-arketypen — en figur som forstyrrer det etablerte, tvinger frem ny tenkning og ikke lar seg binde av regler. Drømmen kan invitere deg til å tenke utenfor de vanlige rammene. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).
+På tvers av kulturer dukker reven opp som en formskifter og lurendreier. I japansk folketro er kitsune en magisk reveånd som kan opptre som både voktere og bedragere, alltid med et snev av mystikk. I europeisk middelalderlitteratur var Mikkel Rev (Reynard) den evige listige antihelten som lurte alle andre dyr, og i Æsops fabler er reven den som finner en bortforklaring når noe ikke lar seg oppnå — som i fortellingen om reven og de utilgjengelige rognebærene.
+
+Drømmen kan også handle om en person i livet ditt som er uvanlig kløktig eller listig, eller om en side av deg selv som trives best i utkanten — uavhengig, tilpasningsdyktig og alltid med et triks i bakhånd. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).
 
 
 ## Drømmeguiden anbefaler

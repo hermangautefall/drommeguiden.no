@@ -70,22 +70,10 @@ Noe har mistet sin livskraft — kanskje en evne til å bevege seg fritt mellom 
 **Hvis frosken kysset deg eller ble noe annet:**
 Eventyrsymbolikk — noe som ser uanseelig ut bærer noe edelt.
 
-## Psykologiske og kulturelle perspektiver
+## Forvandling, vann og skjult potensial
 
-Frosken har båret rikt symbolikk over kulturer i tusenvis av år, og drømmens frosk drar på dette dype lageret.
+Frosken kan tolkes som et bilde på forvandling og vekst. Reisen fra rumpetroll til frosk er en av naturens mest synlige metamorfoser, og i drømmer kan den speile at du selv er på vei gjennom en livsfase — at noe i deg er i ferd med å tre frem i en ny form, selv om prosessen ennå ikke er fullført.
 
-I egyptisk mytologi var *Heqet* en froskhodet gudinne for fødsel og fruktbarhet — kvinner i fødsel hadde froskeamuletter, og hun ble bedt til når noe nytt skulle komme til verden. Drømmens frosk i egyptisk lesning er et utvetydig livskraftsymbol.
+Frosken er også nært knyttet til vann, regn og fruktbarhet i mange kulturer. I det gamle Egypt var *Heqet* en froskhodet gudinne forbundet med fødsel og fruktbarhet, og i flere folketradisjoner regnes frosker som regnbringere — deres kvekking etter [regn](/drommer/regn/) ble sett som et tegn på at livet vender tilbake. Drømmens frosk kan på samme måte handle om fornyelse, om noe som vaskes bort og gir plass for noe friskt.
 
-I kinesisk tradisjon er *Chang'e* — månegudinnen — sagt å ha blitt en frosk (eller knyttet til frosken som hennes følgesvenn) etter at hun fløy til månen. *Den treføtte månefrosken* (蟾蜍, *chánchú*) er fortsatt et symbol på lykke og rikdom i kinesisk folkereligion, særlig knyttet til måneåret.
-
-I Vest-Afrika, særlig blant Yoruba og Akan, er frosken en regnbringer. Når regnet kommer i tørketiden og froskene begynner å kvekke, er det selve livets retur. Drømmens frosk i denne tradisjonen er et bilde av lengsel som besvares, av tørke som ender.
-
-I europeisk eventyrtradisjon — særlig Brødrene Grimms *Froskeprinsen* — er frosken kongesønnen forvandlet, det forklædde edle. Drømmens frosk i denne arven sier: ikke avskriv noe for raskt. Det som ser lavt og slimet ut, kan være noe forvandlet som venter på å bli sett klart.
-
-I mesoamerikansk tradisjon, særlig hos aztekerne, var froskeguden *Tlaltecuhtli* en av jordens skapere — frosken som bærer av den materielle verden. Drømmens frosk kan i denne lesningen være et bilde av selve det grunnleggende, det som bærer alt annet.
-
-I australsk aboriginsk tradisjon finnes *Tiddalik* — den enorme frosken som drakk alt vannet i verden og ble fanget av de andre dyrene som måtte få ham til å le for at vannet skulle slippes ut igjen. Drømmens frosk i denne tradisjonen kan handle om noe som holdes inne, og latteren som åpner det.
-
-I moderne økologi har frosken fått en helt ny symbolladning: som bioindikator. Frosker er svært sensitive for miljøforandringer, og deres forsvinning er ofte det første tegnet på at noe er galt. Drømmens frosk i en samtidskontekst kan bære på noe av denne uroen — noe sårbart og varslende.
-
-Jung beskrev frosken som et arketypisk forvandlingsbilde — særlig i sammenheng med eventyrtradisjoner. Senere arketypiske psykologer som James Hillman har lagt vekt på at amfibiske dyr i drømmer ofte representerer "psykens evne til å leve i to elementer samtidig" — å være rasjonell og emosjonell, voksen og barnlig, jordbunden og åndelig, uten å måtte velge.
+I eventyret om Froskeprinsen ligger en annen tolkning: noe som ser lite tiltalende ut ved første blikk, kan vise seg å bære på stor verdi når man våger å se forbi det ytre. Som amfibium beveger frosken seg mellom vann og land, mellom følelse og fornuft — drømmen kan derfor også tolkes som et bilde på en følelsesmessig overgang, der noe som har ligget under overflaten en stund nå er klart til å vise seg.

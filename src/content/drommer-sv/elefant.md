@@ -54,11 +54,13 @@ En visdom eller styrka som är i sin späda början. Något växer i dig.
 Du är i kontakt med en stor kraft och styr den. Mästring och kontroll. En liknande dröm är att [rida på häst](/sv/drommar/hast/).
 
 
-## Psykologiska och kulturella perspektiv
+## Minne, visdom och styrka
 
-I hinduismen är Ganesha — elefantguden — symbolen för nya början, visdom och avlägsnande av hinder. Att drömma om elefant i denna tradition är ett gott varsel. I afrikansk tradition är elefanten stammoderns symbol — den som minns, leder och bevarar.
+Elefanten förknippas ofta med minne — "en elefant glömmer aldrig" — och med en visdom som kommer av att ha levt länge och sett mycket. Att drömma om elefant kan tolkas som en bild av tålamod och en mild, eftertänksam styrka: kraft som inte behöver bevisa sig, men som ändå finns där när den behövs.
 
-Jung skulle ha sett elefanten som en symbol för Självet i sin mest stabila och tålmodiga form — det som vet och minns, men aldrig hastar.
+I hinduisk tradition är Ganesha, guden med elefanthuvud, en av de mest älskade gestalterna — känd för att undanröja hinder och öppna dörrar till nya början. I buddhistisk berättartradition sägs det att drottning Maya drömde om en vit elefant innan Buddha föddes, och elefanten blev därmed ett heligt tecken på något stort som var på väg. Den vita elefanten har sedan stått som en bild av ett disciplinerat, lugnt sinne — möjligen en kvalitet din dröm pekar mot att du har, eller behöver mer av.
+
+Drömmen kan också handla om "elefanten i rummet" — något stort och uppenbart som du eller andra undviker att tala om. I andra fall kan elefanten i stället tolkas som en tung börda du bär på, något som kräver både styrka och tålamod att hantera, men som du ändå är rustad för att bära.
 
 
 ## Drömguiden rekommenderar

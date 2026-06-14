@@ -53,11 +53,13 @@ Klassiskt varsel om att något tas från dig — uppmärksamhet, energi, resurse
 **Om räven är röd och strålande:**
 Stark, positiv energi. Livsglädje och vitalitet som vill komma till uttryck.
 
-## Psykologiska och kulturella perspektiv
+## List, klokhet och förvandling
 
-I japansk mytologi är kitsune — den magiska räven — en av de mest komplexa varelserna: en budbärare, en förförare, en beskyddare och en listig skämtare på en och samma gång. Detta spann speglar något grundläggande i rävsymboliken: den befinner sig alltid i gränslandet mellan det trygga och det osäkra.
+Räven kan tolkas som en bild av klokhet och anpassningsförmåga — egenskaper som inte handlar om muskelstyrka, utan om skärpa, uppfinningsrikedom och förmågan att läsa en situation rätt. Drömmen kan peka mot att problemlösning och smidighet är mer värdefullt just nu än att möta något med ren kraft, men klokheten har också en baksida: "listig som en räv" kan påminna om att något — eller någon — använder charm för att bedra.
 
-Jung skulle troligen sett räven som en manifestation av Trickster-arketypen — en figur som stör det etablerade, framtvingar ny tänkning och inte låter sig bindas av regler. Drömmen kan bjuda in dig att tänka utanför de vanliga ramarna. Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).
+Över olika kulturer dyker räven upp som en gestaltskiftare och lurendrejare. I japansk folktro är kitsune en magisk rävande som kan uppträda som både väktare och bedragare, alltid med ett stänk av mystik. I europeisk medeltidslitteratur var Mickel Räv (Reynard) den eviga listiga antihjälten som lurade alla andra djur, och i Aisopos fabler är räven den som hittar en bortförklaring när något inte går att uppnå — som i berättelsen om räven och de oåtkomliga rönnbären.
+
+Drömmen kan också handla om en person i ditt liv som är ovanligt klok eller listig, eller om en sida av dig själv som trivs bäst i utkanten — oberoende, anpassningsbar och alltid med ett trick i bakfickan. Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).
 
 ## Drömguiden rekommenderar
 

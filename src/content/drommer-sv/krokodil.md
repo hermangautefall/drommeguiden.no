@@ -71,24 +71,10 @@ Symbolen ber om dialog — det är inte rent hot; det är något att lyssna på.
 **Om du var krokodilen:**
 Du identifierar dig med kvaliteten av tålmodig överlevnad — kanske med rätta, kanske som försvar.
 
-## Psykologiska och kulturella perspektiv
+## Faran som ligger stilla
 
-Krokodilen har varit ett av människokulturens mest respekterade och fruktade djur i över femtusen år, och drömmens krokodil drar på detta djupa lager.
+Krokodilen kan tolkas som en bild av en dold fara — något som ligger lugnt under ytan och slår till utan förvarning. Drömmen kan handla om ett hot du inte riktigt har sett ännu, eller om primala instinkter och aggression som lurar under en fasad av lugn, både hos dig själv och andra.
 
-I egyptisk mytologi var *Sobek* — krokodilguden — en av de mäktigaste figurerna. Han var beskyddare för faraoner och soldater, och samtidigt representerade han Nilens livgivande och dödliga kraft. Drömmens krokodil i egyptisk läsning bär på denna dubbelhet: den som dödar är också den som beskyddar. Den egyptiska traditionen lärde att man måste försonas med krokodilen, inte undvika den.
+Ett närbesläktat spår är bedrägeri: uttrycket "krokodiltårar" pekar mot falska känslor och oärlighet. Drömmen kan tolkas som en signal om att något — eller någon — inte är vad det ser ut att vara, eller att en situation som verkar harmlös faktiskt bär på en udda.
 
-I mesoamerikansk kosmologi — särskilt hos aztekerna och maya — är *Cipactli* urtidskrokodilen som världen är byggd på. Kosmos vilar på krokodilens rygg. Drömmens krokodil kan i denna läsning bära på själva grunden vi står på — det urtidsliga som fortfarande bär allt.
-
-I yorubareligionen är krokodilen knuten till *Olokun* — havets gudinna — som har både närande och hotfulla sidor. Krokodilen i yorubatradition är den som vakar över det djupa, och som bara visar sig när något måste sägas från djupet.
-
-I australisk aboriginsk tradition, särskilt hos folk i Top End och Kimberley, är krokodilen ofta förfädersande och lärare. *Ginga* — saltvattenskrokodilen — är en av de viktigaste *dreamtime*-varelserna, och lär människor om respekt och om att läsa tecknen i vattnet. Drömmens krokodil i denna tradition är en lärare, inte ett monster.
-
-I tidig kinesisk tradition var krokodilen — *jiao* — en av de levande källorna till drakmyten. Draken är på många sätt den abstraherade och försköna krokodilen. Drömmens krokodil kan i en kinesisk läsning därför bära på draksymbolikens dubbelhet: kraftfull, urgammal, både välsignelse och hot.
-
-I bibelsk tradition dyker *Leviatan* upp i Jobs bok som en varelse som beskrivs med krokodilliknande drag — oövervinnerlig, urgammal, en av Guds skaparkraftbilder. Drömmens krokodil i detta arv bär på det oöverskådliga, det som ingen kan tämja.
-
-I modern ekologi har krokodilen fått beteckningen "levande fossil" — en art som överlevt nästan oförändrad i över tvåhundra miljoner år. Drömmens krokodil i en samtida kontext bär på detta: kontakt med något som funnits längre än människan, och som kommer att finnas längre.
-
-Jung beskrev krokodilen som en av de äldsta arketypiska varelserna från det kollektiva omedvetna — en bild av "den urgamla psyken", instinkter som är äldre än både språk och kultur. Senare arketypspsykologer som James Hillman har lagt vikt vid att krokodilen i drömmar ofta representerar "den inre evolutionshistorien" — sidor av oss som är miljontals år gamla och som vi sällan får tillgång till i vaket tillstånd.
-
-Den franske psykoanalytikern Jacques Lacan använde ofta krokodilen som metafor för *moderns käft* — den uppslukande kraften i tidig bindning som måste förhandlas i barnets utveckling. Drömmens krokodil kan i en lacaniansk läsning bära på frågor om frigörelse från något allomfattande — ett beroende, en relation, en gammal struktur.
+I det gamla Egypten var *Sobek* krokodilguden, en gestalt kopplad till både fara och beskydd — han representerade Nilens fruktbarhet, men också dess dödliga kraft, och var både respekterad och fruktad. Krokodilen räknas också som en av jordens äldsta "levande fossiler", och i drömmar kan den därför tolkas som en bild av djupa, instinktiva och överlevnadsdrivna krafter i psyket — urgamla sidor av oss som sällan kommer till tals i vardagen.
