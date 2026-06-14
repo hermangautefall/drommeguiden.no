@@ -60,13 +60,13 @@ Du skapar själv en möjlighet — och det är en av de mest positiva brodrömma
 **Om bron var vacker:**
 Övergången är inte bara nödvändig — den är betydelsefull och fin.
 
-## Psykologiskt perspektiv
+## Övergången — att korsa över
 
-Jung beskrev bron som en av de starkaste symbolerna för psykologisk integration — förmågan att förbinda det medvetna och det omedvetna, det maskulina och det feminina, självet och den andre. Att korsa bron i drömmen är att röra sig mot större psykologisk helhet.
+En bro i drömmen kan tolkas som att korsa från en fas eller ett tillstånd till ett annat — en övergång, ett beslut om att gå vidare, eller en förbindelse mellan två sidor som tidigare varit åtskilda: människor, idéer, eller delar av dig själv som ännu inte har funnit varandra.
 
-## Kulturell och symbolisk betydelse
+Hur korsningen känns kan säga något om var du står i denna övergång. Att gå tryggt över bron tolkas ofta som att du är redo för förändringen, medan att tveka, eller drömma om en bro som vacklar eller är trasig, kan peka mot osäkerhet om det är säkert att gå vidare just nu. Det som finns under bron kan också vara värt att lägga märke till — vatten under bron förknippas ofta med känslor, medan ett stup kan handla om risk. När man säger att någon "bygger broar" handlar det ofta om att reparera en relation eller förena delar av livet som vuxit isär.
 
-Bifrost — [regnbågs](/sv/drommar/regnbage/)bron i fornnordisk mytologi — är den gudomliga bron mellan Midgård och Asgård, mellan det mänskliga och det gudomliga. Den är färgrik, vacker och delvis osynlig för människorna, och bara de värdiga kan korsa den. Att drömma om en storslagen bro i nordisk kulturell kontext berör något av detta arv.
+Genom olika kulturer har broar setts som förbindelser mellan världar — i zoroastrisk tradition korsar själen Chinvat-bron efter döden, och regnbågen har ofta tolkats som en bro mellan himmel och jord. Sådana bilder kan påminna om att en bro i drömmen lika gärna kan handla om en andlig eller inre övergång som en praktisk en, och att [havet](/sv/drommar/hav/) eller vattnet den korsar ofta säger lika mycket som bron själv.
 
 ## Vad bör du göra efter en dröm om bro?
 

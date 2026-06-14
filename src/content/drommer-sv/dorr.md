@@ -71,15 +71,13 @@ Många möjligheter eller val, som är överväldigande eller spännande beroend
 **Om det var en [källar](/sv/drommar/kallare/)- eller [vindsdörr](/sv/drommar/vind/):**
 Se de egna symbolsidorna — dessa specifika dörrar bär särskilt stark symbolik knuten till det omedvetna och det glömda.
 
-## Psykologiskt perspektiv
+## Tröskeln — val och möjligheter
 
-Sigmund Freud såg drömmens dörr som en sexuell symbol — porten till den andres kropp, gränsen mellan det privata och det intima. Carl Jung hade ett vidare perspektiv: dörren är psykets gräns mellan det medvetna och det omedvetna, och en dörr som öppnar sig i drömmen är en inbjudan att utforska det som ligger bortom medvetandet — det som är där, men som inte är erkänt.
+En dörr i drömmen kan tolkas som en tröskel, ett val eller en övergång. En öppen dörr tolkas ofta som nya möjligheter eller en inbjudan, medan en stängd eller låst dörr kan peka mot ett hinder, en chans som inte är inom räckhåll just nu — eller en fråga om du har "nyckeln" som behövs. Drömmar om många dörrar kan handla om beslut som väntar, och om att känna efter vilken väg som egentligen är din.
 
-## Kulturell och symbolisk betydelse
+Det som finns bakom dörren är ofta det mest intressanta: det okända, en förväntan, eller något dolt inom dig själv som ännu inte fått komma till uttryck. Genom olika kulturer har dörrar och trösklar setts som laddade, skyddade övergångsplatser — i romersk mytologi vaktar guden Janus alla portar och dörrar, med blicken vänd både bakåt och framåt, som en bild av att varje övergång knyter samman ett före och ett efter.
 
-I fornnordisk tradition är tröskeln en helig plats — övergången mellan inne och ute, mellan trygghet och det farliga okända. Trösklar skyddas av husguden, och att korsa tröskeln kräver respekt. Drömmens dörr bär denna urmänskliga medvetenhet om att övergångar är laddade med kraft.
-
-I sagotraditionen är den tredje dörren, den förbjudna, den man aldrig ska öppna — och naturligtvis öppnar hjälten den. För det är där historien börjar.
+I sagotraditionen är den förbjudna dörren ett välkänt motiv — den man aldrig ska öppna, och som hjälten naturligtvis öppnar likväl. Det är ofta där berättelsen egentligen börjar, och kanske är det något liknande din dröm pekar mot: att det är på andra sidan dörren något nytt kan ta sin början.
 
 ## Vad bör du göra efter en dröm om dörr?
 

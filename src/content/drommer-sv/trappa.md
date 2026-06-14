@@ -73,15 +73,13 @@ Brådska och ambition — du vill snabbt nå det du är på väg mot. Frågan ä
 **Om trappan plötsligt försvann:**
 En möjlighet eller väg har stängts — något du litade på att nå är inte längre tillgängligt.
 
-## Psykologiskt perspektiv
+## Steg för steg — upp eller ner
 
-Freud analyserade trappdrömmar grundligt i "Drömtydning" (1900) och knöt dem primärt till sexualitet och rytmisk kroppslig rörelse. Han dokumenterade att hans patienters trappdrömmar nästan alltid innehöll en form av kroppslig aktivering — och att uppvaknande mitt i trappgången ofta sammanföll med en fysiologisk signal.
+En trappa kan tolkas som rörelse mellan nivåer i livet eller i medvetandet. Att gå uppåt tolkas ofta som framgång, ambition eller att resa sig inför en utmaning, medan en nedstigning kan handla om att vända sig mot det förflutna, mot det omedvetna, eller en period av tillbakagång. Hur tung klättringen känns i drömmen kan spegla ansträngningen situationen kräver — och en spiraltrappa kan stå för en resa som svänger och upprepar sig, där man ständigt återvänder till bekanta teman från nya vinklar.
 
-Jung utvidgade detta perspektiv och integrerade trappan i sin förståelse av psykets arkitektur — där [huset](/sv/drommar/hus/) är jaget och de olika våningarna representerar olika nivåer av medvetande. [Källaren](/sv/drommar/kallare/) är det omedvetna, vinden är det glömda och arkiverade, och första våningen är vardagsmedvetandet. Trappan är rörelsen mellan dessa lager — och förmågan att röra sig fritt mellan våningarna är ett tecken på psykologisk hälsa.
+Oändliga trappor, eller en känsla av att aldrig nå toppen, tolkas ofta som frustration över att framsteg känns omöjligt. Att falla nerför trappan i en dröm kan på samma sätt peka mot en upplevelse av att förlora kontrollen, eller ett bakslag man oroar sig för.
 
-## Kulturell och symbolisk betydelse
-
-I fornnordisk kosmologi är Bifrost — regnbågsbron — själva övergången mellan Midgård och Asgård, mellan det mänskliga och det gudomliga. Trappan är inte en neutral struktur: den är platsen där nivåer möts, och mötespunkten är alltid laddad.
+[Huset](/sv/drommar/hus/) förknippas ofta i drömmar med jaget, där de olika våningarna kan representera olika sidor av medvetandet — [källaren](/sv/drommar/kallare/) som det dolda och omedvetna, vinden som det glömda. Trappan blir då förbindelsen mellan dessa lager. Genom olika traditioner finns liknande bilder av trappor och stegar som knyter jorden till himlen — Jakobs stege i bibliska berättelser, eller tempeltrappor som en fysisk bro mellan människans värld och något större.
 
 ## Vad bör du göra efter en dröm om trappa?
 

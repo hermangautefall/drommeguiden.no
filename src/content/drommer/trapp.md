@@ -72,15 +72,13 @@ Hastverk og ambisjon — du vil nå raskt det du er på vei mot. Spørsmålet er
 **Hvis trappen plutselig forsvant:**
 En mulighet eller vei har stengt seg — noe du stolte på å nå er ikke lenger tilgjengelig.
 
-## Psykologisk perspektiv
+## Trinn for trinn — opp eller ned
 
-Freud analyserte trappedrømmer grundig i "Drømmenes tydning" (1900) og knyttet dem primært til seksualitet og rytmisk kroppslig bevegelse. Han dokumenterte at sine pasienters trappedrømmer nesten alltid inneholdt en form for kroppslig aktivering — og at oppvåkning midt i trappegangen ofte sammenfalt med et fysiologisk signal.
+En trapp kan tolkes som bevegelse mellom nivåer i livet eller i bevisstheten. Å gå opp tolkes ofte som fremgang, ambisjon eller å reise seg til en utfordring, mens en nedstigning kan handle om å vende seg mot fortiden, mot det ubevisste, eller en periode med tilbakegang. Hvor tung klatringen oppleves i drømmen kan speile innsatsen situasjonen krever — og en vindeltrapp kan stå for en reise som svinger og gjentar seg, der man stadig kommer tilbake til kjente tema fra nye vinkler.
 
-Jung utvidet dette perspektivet og integrerte trappen i sin forståelse av psykens arkitektur — der [huset](/drommer/hus/) er selvet og de ulike etasjene representerer ulike nivåer av bevissthet. [Kjelleren](/drommer/kjeller/) er det ubevisste, loftet er det glemte og arkiverte, og første etasje er hverdagsbevisstheten. Trappen er bevegelsen mellom disse lagene — og evnen til å bevege seg fritt mellom etasjene er et tegn på en psykologisk sunnhet.
+Endeløse trapper, eller en følelse av aldri å nå toppen, tolkes ofte som frustrasjon over at fremgang virker umulig å oppnå. Å falle ned trappen i en drøm kan på samme måte peke mot en opplevelse av å miste kontroll, eller et tilbakeslag man er bekymret for.
 
-## Kulturell og symbolsk betydning
-
-I norrøn kosmologi er Bifrost — regnbuebroen — selve overgangen mellom Midgard og Åsgard, mellom det menneskelige og det guddommelige. Trappen er ikke en nøytral struktur: den er stedet der nivåer møtes, og møtepunktet er alltid ladet.
+[Huset](/drommer/hus/) forbindes ofte i drømmer med selvet, der de ulike etasjene kan representere ulike sider av bevisstheten — [kjelleren](/drommer/kjeller/) som det skjulte og ubevisste, loftet som det glemte. Trappen blir da forbindelsen mellom disse lagene. På tvers av tradisjoner finner man lignende bilder av trapper og stiger som knytter jord til himmel — Jakobs stige i bibelsk fortelling, eller tempeltrapper som en fysisk bro mellom menneskeverden og noe større.
 
 ## Hva bør du gjøre etter en drøm om trapp?
 

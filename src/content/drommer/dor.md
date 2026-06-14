@@ -70,15 +70,13 @@ Mange muligheter eller valg, som er overveldende eller spennende avhengig av ste
 **Hvis det var en [kjeller](/drommer/kjeller/)- eller [loft](/drommer/loft/)dør:**
 Se de egne symbolsidene — disse spesifikke dørene bærer på særlig sterk symbolikk knyttet til det ubevisste og det glemte.
 
-## Psykologisk perspektiv
+## Terskelen — valg og muligheter
 
-Sigmund Freud så drømmens dør som et seksuelt symbol — porten til den andres kropp, grensen mellom det private og det intime. Carl Jung hadde et videre perspektiv: døren er psykens grense mellom det bevisste og ubevisste, og en dør som åpner seg i drøm er en invitasjon til å utforske det som ligger hinsides bevisstheten — det som er der, men som ikke er erkjent.
+En dør i drømme kan tolkes som en terskel, et valg eller en overgang. En åpen dør tolkes ofte som nye muligheter eller en invitasjon, mens en lukket eller låst dør kan peke mot et hinder, en sjanse som ikke er innen rekkevidde akkurat nå — eller et spørsmål om du har "nøkkelen" som skal til. Drømmer om mange dører kan handle om beslutninger som venter på deg, og om å kjenne etter hvilken vei som egentlig er din.
 
-## Kulturell og symbolsk betydning
+Det som ligger bak døren er ofte det mest interessante: det ukjente, en forventning, eller noe skjult i deg selv som ennå ikke har fått komme til syne. På tvers av kulturer har dører og terskler blitt sett som ladede, beskyttede overgangssteder — i romersk mytologi vokter guden Janus alle porter og dører, med blikket vendt både bakover og fremover, som et bilde på at hver overgang knytter sammen et før og et etter.
 
-I norrøn tradisjon er terskelen et hellig sted — overgangen mellom inne og ute, mellom trygghet og det farlige ukjente. Treskjegg beskyttes av husguden, og å krysse terskelen krever respekt. Drømmens dør bærer på denne urmenneskelige bevisstheten om at overganger er ladet med kraft.
-
-I eventyrtradisjonen er den tredje døren, den forbudte, den man aldri skal åpne — og naturligvis åpner helten den. Fordi det er der historien begynner.
+I eventyrtradisjonen er den forbudte døren et kjent motiv — den man aldri skal åpne, og som helten naturligvis åpner likevel. Det er ofte der historien egentlig begynner, og kanskje er det noe av det samme drømmen din peker mot: at det er på den andre siden av døren noe nytt kan starte.
 
 ## Hva bør du gjøre etter en drøm om dør?
 

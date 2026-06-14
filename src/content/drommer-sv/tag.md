@@ -54,11 +54,13 @@ Osäkerhet om riktning och mål — du är på en resa utan att veta destination
 **Om tåget kraschade:**
 En dramatisk störning av planer eller riktning — något som inte gick som förväntat.
 
-## Psykologiska och kulturella perspektiv
+## Resan på fasta spår
 
-Tåg som drömsymbol är nära knutet till den industriella modernitetens framväxt — tåget som framsteg, som destination, som tidens och effektivitetens metafor. Jung skulle ha sett tåget som en symbol för kollektiv rörelse: det är inte din privata resa, det är resan många tar tillsammans, på ett spår som redan är lagt.
+Ett tåg kan tolkas som din livsresa, men på ett fast spår — du följer en förutbestämd rutt, omgivningens förväntningar, eller en kurs du redan har förpliktat dig till. Jämfört med att köra bil ger tåget mindre kontroll: du kan inte styra det, bara välja om du sitter på eller inte. Drömmen kan dyka upp när du känner att livet rör sig av sig självt, i en riktning som någon annan har bestämt.
 
-I nordisk kontext har tåget en särskild resonans — järnvägen band landet samman, skapade nationen. Att drömma om tåg i Norden är att drömma om något av det mest nationellt formativa vi har.
+Den klassiska drömmen om att missa tåget tolkas ofta som en rädsla för att låta ett tillfälle passera — att du är för sen, eller att chansen redan är förbi. Att sitta på fel tåg, eller inte kunna kliva av, kan istället peka mot en känsla av att vara fast i en riktning du inte själv har valt.
+
+Eftersom ett tåg fraktar många människor samtidigt kan drömmen också handla om det gemensamma — att följa med "i flocken" med andra, eller en känsla av att livet går efter en tidtabell du inte har satt själv.
 
 ## Drömguiden rekommenderar
 

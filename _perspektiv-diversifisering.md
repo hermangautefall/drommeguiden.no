@@ -77,4 +77,11 @@ Regler:
 
 NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vinkel (utløsning/privatliv/grenser).
 
-## Status: 45/214 NB ferdig (+ 45 SV).
+## Batch 10 — overgang/objekter
+- [x] tog (tag) — livsretning på fast spor + miste toget + feil tog + kollektivt
+- [x] trapp (trappa) — fremgang/retning + innsats + fryktvariant + Jakobs stige
+- [x] dor (dorr) — terskel/valg + det ukjente bak + Janus + forbudte døren
+- [x] nokler (nycklar) — tilgang/løsninger + hemmeligheter + makt/ansvar + autoritet
+- [x] bro (bro) — overgang/forbindelse + krysse vs nøle + bygge broer + Chinvat/regnbue
+
+## Status: 50/214 NB ferdig (+ 50 SV). ~164 NB gjenstår (long-tail).

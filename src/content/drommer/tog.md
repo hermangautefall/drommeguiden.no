@@ -53,11 +53,13 @@ Usikkerhet om retning og mål — du er på en reise uten å vite destinasjonen.
 **Hvis toget krasjet:**
 En dramatisk forstyrrelse av planer eller retning — noe som ikke gikk som forventet.
 
-## Psykologiske og kulturelle perspektiver
+## Reisen på faste spor
 
-Tog som drømmesymbol er tett knyttet til den industrielle modernitetens fremvekst — toget som fremskritt, som destinasjon, som tidens og effektivitetens metafor. Jung ville sett toget som et symbol på kollektiv bevegelse: det er ikke din private reise, det er reisen mange tar sammen, på et spor som allerede er lagt.
+Et tog kan tolkes som livsreisen din, men på et fast spor — du følger en forhåndsbestemt rute, samfunnets forventninger, eller en kurs du allerede har forpliktet deg til. Sammenlignet med å kjøre [bil](/drommer/bil/) gir toget mindre kontroll: du kan ikke styre det, bare velge om du sitter på eller ikke. Drømmen kan dukke opp når du kjenner at livet beveger seg av seg selv, i en retning andre har bestemt.
 
-I norsk kontekst har toget en særlig resonans — jernbanen bandt landet sammen, skapte nasjonen. Å drømme om tog i Norge er å drømme om noe av det mest nasjonalt formative vi har.
+Den klassiske "å gå glipp av toget"-drømmen tolkes ofte som en frykt for å la en mulighet passere — at du er for sen, eller at sjansen allerede er forbi. Å sitte på feil tog, eller ikke kunne komme av, kan på sin side peke mot en følelse av å være fast i en retning du ikke selv har valgt.
+
+Fordi et tog frakter mange mennesker samtidig, kan drømmen også handle om det kollektive — å bli med "på lasset" med andre, eller en opplevelse av at livet går etter en rutetabell du ikke har satt selv.
 
 ## Drømmeguiden anbefaler
 

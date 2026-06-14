@@ -59,13 +59,13 @@ Du skaper selv en mulighet — og det er en av de mest positive brodrømmene som
 **Hvis broen var vakker:**
 Overgangen er ikke bare nødvendig — den er betydningsfull og fin.
 
-## Psykologisk perspektiv
+## Overgangen — å krysse over
 
-Jung beskrev broen som et av de sterkeste symbolene på psykologisk integrasjon — evnen til å forbinde det bevisste og ubevisste, det maskuline og feminine, selvet og den andre. Å krysse broen i drøm er å bevege seg mot større psykologisk helhet.
+En bro i drømme kan tolkes som det å krysse fra én fase eller tilstand til en annen — en overgang, en beslutning om å gå videre, eller en forbindelse mellom to sider som tidligere har vært atskilt: mennesker, ideer, eller deler av deg selv som ennå ikke har funnet sammen.
 
-## Kulturell og symbolsk betydning
+Hvordan krysningen kjennes kan si noe om hvor du står i denne overgangen. Å gå trygt over broen tolkes ofte som at du er klar for forandringen, mens å nøle, eller drømme om en bro som vakler eller er ødelagt, kan peke mot usikkerhet om det er trygt å gå videre akkurat nå. Det som befinner seg under broen kan også være verdt å legge merke til — vann under broen forbindes ofte med følelser, mens et stup kan handle om risiko. Når vi sier at noen "bygger broer", handler det ofte om å reparere en relasjon eller forene deler av livet som har vokst i hver sin retning.
 
-Bifrost — [regnbue](/drommer/regnbue/)broen i norrøn mytologi — er den guddommelige broen mellom Midgard og Åsgard, mellom det menneskelige og det guddommelige. Den er fargerik, vakker og delvis usynlig for menneskene, og bare de verdige kan krysse den. Å drømme om en storslått bro i norsk kulturell kontekst berører noe av denne arven.
+På tvers av kulturer har broer blitt sett som forbindelser mellom verdener — i zoroastrisk tradisjon krysser sjelen Chinvat-broen etter døden, og regnbuen har ofte blitt tolket som en bro mellom himmel og jord. Slike bilder kan minne om at en bro i drømme like gjerne kan handle om en åndelig eller indre overgang som en praktisk en, og at [elven](/drommer/elv/) eller [havet](/drommer/hav/) den krysser ofte forteller like mye som broen selv.
 
 ## Hva bør du gjøre etter en drøm om bro?
 
