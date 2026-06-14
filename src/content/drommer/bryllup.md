@@ -79,13 +79,13 @@ Kaos i et bryllup — forsinket prest, ødelagt kjole, manglende gjester — kan
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Forening, forpliktelse og overgang
 
-I jungiansk psykologi er bryllupet et av de mest betydningsfulle arketypiske bildene. «Hieros gamos» — det hellige bryllupet — representerer foreningen av anima og animus, de kvinnelige og mannlige aspektene i psyken. Når denne foreningen skjer i drømmen, tolker Jung det som et tegn på psykologisk modning og integrering.
+Et bryllup i drømme kan tolkes som et bilde på at to deler av deg selv finner sammen — for eksempel fornuft og følelse, eller det praktiske og det lengtende. Når denne foreningen skjer i drømmen, kan det handle om en indre integrasjon: at du er i ferd med å forplikte deg til en ny fase i livet, en beslutning eller en retning.
 
-I norsk kultur har bryllupet tradisjonelt vært langt mer enn en privat feiring. Det var en samfunnskontrakt, en allianse mellom familier, og en overgangsrite som markerte en ny fase i livet. Denne kollektive dimensjonen lever videre i drømmene våre — bryllup i drøm handler sjelden bare om deg og en annen person, men om din plass i en større sammenheng.
+Bryllup er også en av menneskehetens mest universelle overganger — en terskel mellom det som var og det som kommer, markert med ritualer i nær sagt alle kulturer. Å binde seg til noe, enten det er en person, en vei eller et valg, er sjelden en liten ting, og drømmen kan ta opp i seg alt det som hører med: gleden, men også vekten av forpliktelsen.
 
-Fra et moderne psykologisk perspektiv er bryllupsdrømmer vanlige i overgangsfaser — ikke bare når man vurderer ekteskap, men også ved jobbytte, flytting, studiestart eller andre livsendringer. Drømmen tar det konkrete bryllupsbildet og bruker det som en ramme for å bearbeide følelsene knyttet til forandring og forpliktelse. Den spør: Er du klar for det neste kapittelet?
+Hvis bryllupet i drømmen er stressende, eller går galt på ulike vis, kan det heller speile ambivalens — en uro for en stor endring, eller et press og forventninger du kjenner på, enten fra deg selv eller andre. Spørsmålet drømmen kan stille er ofte ganske enkelt: er du klar for det som kommer?
 
 ---
 

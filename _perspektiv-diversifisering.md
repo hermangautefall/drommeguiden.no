@@ -38,3 +38,12 @@ Regler:
 - [x] brann (brand) — forvandling/renselse (Føniks) + lidenskap/sinne + Prometheus + advarsel/hjem
 - [x] baby (baby) — nye begynnelser + sårbarhet/omsorg + indre barn + håp (allment)
 - [x] sex (sex) — forening/integrasjon + Freud (balansert) + intimitet/sårbarhet + REM-fysiologi
+
+## Batch 5 — høytrafikk/symbolrike
+- [x] penger (pengar) — selvverd/verdi + Freud/Ferenczi + folketro + makt
+- [x] bryllup (brollop) — forening av motsetninger + forpliktelse/overgang + angstvariant + rituale
+- [x] mor (mor) — tilknytning (Bowlby) + god/fortærende mor + indre mor + morsgudinner
+- [x] far (pappa) — autoritet/indre kritiker + Freud (overjeg) + beskyttelse vs fravær
+- [x] speil (spegel) — selvbilde/identitet + dobbeltgjenger/skygge + sannhet + folketro
+
+## Status: 25/214 NB ferdig (+ 25 SV). Resten av long-tail gjenstår.

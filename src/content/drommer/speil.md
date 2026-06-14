@@ -69,15 +69,13 @@ Hendene som synes i speilet kan symbolisere handlingene dine sett utenfra — ka
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Selvbildet og det vi ser tilbake
 
-Carl Jung betraktet speilet som et av de mest potente symbolene i drømmearbeid. For Jung representerte speilet møtet med «selvet» — den dypeste kjernen av personligheten, som inkluderer både de bevisste og ubevisste sidene. Å se seg selv i et drømmespeil er i jungiansk forstand å stå ansikt til ansikt med totaliteten av hvem man er, ikke bare den redigerte versjonen man viser verden.
+Speilet i en drøm tolkes ofte som et bilde på hvordan du ser deg selv akkurat nå. Et forvrengt, sprukket eller knust speilbilde kan peke mot identitetsforvirring, selvtvil, eller en kjensle av at det er et gap mellom hvordan du opplever deg selv og hvordan tingene egentlig er.
 
-Jung beskrev også «skyggen» som det vi ikke vil se ved oss selv, og speilet i drømmer kan tvinge frem dette møtet. Det er ubehagelig, men potensielt helende: å se og akseptere sin egen skygge er et sentralt steg i den psykologiske utviklingsprosessen.
+Å møte et fremmed ansikt i speilet — eller en versjon av deg selv du ikke kjenner igjen — kan handle om å stå foran en side av deg du har skjult eller fortrengt, en slags dobbeltgjenger som ber om å bli sett. Slike møter er sjelden behagelige, men de kan også åpne for en mer ærlig selvransakelse.
 
-I nordisk tradisjon har refleksjon og speiling en mystisk plass. Vannflater ble brukt som speil i vikingtiden, og å se inn i stille vann var forbundet med å se inn i andre verdener. Norrøn mytologi forteller om Urdarbrunnen, der Odin ofret sitt eget øye for å kunne se dypere sannheter — en handling som minner om speilets evne til å avsløre det skjulte. I norsk folketro ble speil også forbundet med overtro: å knuse et speil brakte ulykke, og speil ble tildekket når noen døde, for å hindre sjelen i å bli fanget.
-
-Denne kulturelle bakgrunnen gir speildrømmer en ekstra dimensjon i norsk kontekst. Speilet er ikke bare et hverdagslig objekt — det er en portal til dypere forståelse av seg selv.
+Speilet har lenge vært et bilde på sannhet og selvinnsikt i fortellinger og folketro, fra Snøhvits talende speil til Narkissos som ble fanget av sitt eget bilde i vannet. I mange folketradisjoner har speil også blitt sett som portaler eller "sjelefangere" — derfor ble de dekket til etter et dødsfall. Knuste speil ble varslet om ulykke. Denne arven gjør at speil i drømmer ofte kjennes mer ladet enn et vanlig hverdagsobjekt.
 
 ---
 

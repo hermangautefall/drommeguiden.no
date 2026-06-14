@@ -80,13 +80,13 @@ Att fly från ett bröllop i drömmen kan tolkas som en stark önskan att slippa
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Förening, åtagande och övergång
 
-I jungiansk psykologi är bröllopet en av de mest betydelsefulla arketypiska bilderna. "Hieros gamos" — det heliga bröllopet — representerar föreningen av anima och animus, de kvinnliga och manliga aspekterna i psyket. När denna förening sker i drömmen tolkar Jung det som ett tecken på psykologisk mognad och integration.
+Ett bröllop i drömmen kan tolkas som en bild av att två sidor av dig själv möts — till exempel förnuft och känsla, eller det praktiska och det längtansfulla. När denna förening sker i drömmen kan det handla om en inre integration: att du är på väg att förbinda dig till en ny fas i livet, ett beslut eller en riktning.
 
-I svensk kultur har bröllopet traditionellt varit långt mer än en privat fest. Det var ett samhällskontrakt, en allians mellan familjer, och en övergångsrit som markerade en ny fas i livet. Denna kollektiva dimension lever vidare i våra drömmar — bröllop i dröm handlar sällan bara om dig och en annan person, utan om din plats i ett större sammanhang.
+Bröllop är också en av mänsklighetens mest universella övergångar — en tröskel mellan det som varit och det som kommer, markerad med ritualer i nästan alla kulturer. Att binda sig till något, vare sig det är en person, en väg eller ett val, är sällan en liten sak, och drömmen kan bära med sig allt det som hör till: glädjen, men också tyngden av åtagandet.
 
-Ur ett modernt psykologiskt perspektiv är bröllopsdrömmar vanliga i övergångsfaser — inte bara när man överväger äktenskap, utan också vid jobbyte, flytt, studiestart eller andra livsförändringar. Drömmen tar den konkreta bröllopsbilden och använder den som en ram för att bearbeta känslorna knutna till förändring och förpliktelse. Den frågar: Är du redo för nästa kapitel?
+Om bröllopet i drömmen känns stressigt, eller går fel på olika sätt, kan det snarare spegla ambivalens — en oro inför en stor förändring, eller press och förväntningar du känner av, från dig själv eller andra. Frågan drömmen kan ställa är ofta ganska enkel: är du redo för det som kommer?
 
 ---
 

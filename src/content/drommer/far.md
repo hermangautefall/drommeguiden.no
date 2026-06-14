@@ -55,11 +55,13 @@ Kan handle om din egen bekymring for ham, eller om at en autoritet i livet ditt 
 **Hvis han var avdød men levende i drømmen:**
 Et besøk mange beskriver som mer ekte enn vanlige drømmer — en form for bearbeiding og avskjed som fortsetter lenge etter tapet.
 
-## Psykologiske og kulturelle perspektiver
+## Autoritet, beskyttelse og indre stemmer
 
-I jungiansk psykologi er farsskikkelsen knyttet til "Logos" — prinsippet om struktur, logikk og bevisst vilje. Der [moren](/drommer/mor/) representerer det nærende og ubevisste, representerer faren det formende og bevisste. Drømmer om far handler dermed ofte om forholdet ditt til egne mål, verdier og evnen til å handle i verden.
+Faren i drømmer kan ofte representere autoritet, struktur og de reglene og forventningene vi har lært oss å forholde oss til. For mange dukker farsfiguren opp som en slags "indre kritiker" — en stemme som dømmer, måler og setter standarder, og som drømmen kan gi et ansikt og en historie.
 
-I nordisk tradisjon har farsfiguren historisk vært knyttet til både beskyttelse og dom — den som setter grenser for hva som er mulig, men også den som åpner dører til verden utenfor hjemmet. Denne dobbeltheten gjenspeiles i drømmene: faren er sjelden nøytral.
+Farsfiguren har også en sentral plass i tidlig psykoanalyse, der forholdet til faren ble sett som avgjørende for hvordan vi internaliserer regler og samvittighet — det som senere ble en del av vårt eget overjeg. Om faren i drømmen oppleves som støttende, kan det handle om veiledning og trygghet i en beslutning; om han er fraværende eller streng, kan drømmen heller peke mot udekkede behov, frykt for å bli dømt, eller en uro i forholdet til autoriteter generelt.
+
+På tvers av kulturer finner vi lignende bilder i fars- og himmelguder som Zevs — figurer knyttet til autoritet, orden og de reglene som rammer inn en verden. [Mor](/drommer/mor/) og far utgjør ofte to sider av samme mynt i drømmenes språk: det nærende og det formende.
 
 ## Drømmeguiden anbefaler
 

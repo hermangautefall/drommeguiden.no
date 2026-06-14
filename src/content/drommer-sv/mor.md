@@ -60,11 +60,13 @@ En av de vanligaste och mest tröstande drömmarna — upplevs ofta som ett bes�
 **Om ni grälade:**
 Kan handla om oavslutade känslor, eller om en inre konflikt mellan vad du vill och vad du tror förväntas av dig.
 
-## Psykologiska och kulturella perspektiv
+## Omsorg, anknytning och ursprung
 
-Carl Jung såg modern som en av de mest fundamentala arketyperna i det kollektiva omedvetna — "Den stora modern" som representerar både livgivande omsorg och den krävande gränssättarens kraft. I drömmar är hon sällan bara sig själv — hon bär på en universell symbol som alla människor delar över kulturer och tid.
+Inom anknytningsteorin beskrivs modern ofta som mallen för vår tidigaste upplevelse av närhet och trygghet — den första relationen vi formar våra förväntningar på omsorg utifrån. Drömmar om mor kan därför väcka mönster i hur du knyter an till andra idag, och hur du upplever att bli (eller inte bli) sedd.
 
-I nordisk tradition är modersrollen starkt sammanvävd med föreställningen om hemvist och tillhörighet. Att drömma om mor kan för många nordbor hänga tätt ihop med drömmar om [hemmet](/sv/drommar/hus/), naturen och rötterna — platser där man hörde hemma utan att behöva förtjäna det.
+Modersgestalten bär ofta på en spänning mellan det närande och det kontrollerande — den som ger trygghet, men som också kan kännas gränssättande eller till och med kvävande. Denna ambivalens återkommer i flera myter, bland annat berättelsen om Demeter och Persefone, och kan dyka upp i drömmar som både varma och oroande bilder av samma person.
+
+Mor kan också representera något inom dig själv: din egen förmåga att ta hand om dig, eller ett otillgodosett behov av omsorg du bär med dig. Och över kulturgränser hittar vi modersgudinnor som Demeter, Isis och Gaia — gestalter knutna till jord, fruktbarhet och ursprung, som en spegel av varifrån vi alla kommer.
 
 ## Drömguiden rekommenderar
 

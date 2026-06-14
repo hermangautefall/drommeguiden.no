@@ -59,11 +59,13 @@ En av de mest vanlige og trøstende drømmene — oppleves gjerne som et besøk.
 **Hvis dere kranglet:**
 Kan handle om uoppgjorte følelser, eller om en indre konflikt mellom hva du vil og hva du tror forventes av deg.
 
-## Psykologiske og kulturelle perspektiver
+## Omsorg, tilknytning og opphav
 
-Carl Jung så moren som en av de mest fundamentale arketypene i det kollektive ubevisste — "Den store moren" som representerer både livgivende omsorg og den krevende, grensesetterens kraft. I drømmer er hun sjelden bare seg selv — hun bærer på et universelt symbol som alle mennesker deler på tvers av kultur og tid.
+Innen tilknytningsteori beskrives moren ofte som malen for vår tidligste opplevelse av nærhet og trygghet — det første forholdet vi former forventninger om omsorg ut fra. Drømmer om mor kan derfor bringe frem mønstre fra hvordan du knytter deg til andre i dag, og hvordan du opplever det å bli (eller ikke bli) møtt.
 
-I norsk og nordisk tradisjon er morsrollen sterkt vevd inn i forestillingen om hjemsted og tilhørighet. Å drømme om mor kan for mange nordmenn henge tett sammen med drømmer om [hjem](/drommer/hus/), natur og røtter — steder der man hørte til uten å måtte fortjene det.
+Morsfiguren rommer ofte en spenning mellom det nærende og det kontrollerende — den som gir trygghet, men som også kan kjennes grensesettende eller til og med kvelende. Denne ambivalensen går igjen i mange myter, blant annet i historien om Demeter og Persefone, og kan dukke opp i drømmer som både varme og urovekkende bilder av samme person.
+
+Mor kan også representere noe i deg selv: din egen evne til å ta vare på deg, eller et udekket behov for omsorg du bærer på. Og på tvers av kulturer finner vi morsgudinner som Demeter, Isis og Gaia — figurer knyttet til jord, fruktbarhet og opphav, som et speil av hvor vi alle kommer fra.
 
 ## Drømmeguiden anbefaler
 

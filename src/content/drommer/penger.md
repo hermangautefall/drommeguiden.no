@@ -67,11 +67,13 @@ Noe i livet fremstår som verdifullt, men er hult. En illusjon om verdi som ikke
 **Hvis du var veldig rik:**
 Et ønske om frihet, trygghet og valgmuligheter — eller en bearbeiding av et genuint ønske om et annerledes liv.
 
-## Psykologiske og kulturelle perspektiver
+## Verdi, selvfølelse og det vi setter pris på
 
-Jung var skeptisk til å tolke penger i drømmene bokstavelig — han så dem nesten alltid som symboler på psykisk energi og libido i vid forstand: den livskraften som kan strømme fritt eller bli blokkert. Å drømme om pengemangel kan dermed handle om en blokkert kreativitet eller vitalitet, mens rikdom i drøm kan speile at noe i psyken blomstrer.
+Penger i drømmer handler sjelden om bokstavelig økonomi — de tolkes ofte heller som et bilde på selvfølelse, personlig verdi og de ressursene du har i deg selv. Å finne penger i en drøm kan peke mot at du er i ferd med å oppdage en evne eller et talent du ikke har sett verdien av; å miste penger kan handle om en frykt for å miste status, kontroll eller selvtillit.
 
-I norsk kultur er det en interessant ambivalens rundt penger — Janteloven tilsier at man ikke skal tro man er bedre enn andre, at man ikke skal vise frem rikdom. Dette kan gjøre pengedrømmene ekstra ladede for mange nordmenn: drømmene om rikdom kan kjennes skamfulle, drømmene om fattigdom kan kjennes skremmende. Begge deler er verdt å undersøke.
+Noen tidlige psykoanalytikere, blant dem Freud og Ferenczi, knyttet penger og gull til behovet for kontroll og det å holde tilbake — en historisk kuriositet som likevel kan kjennes treffende for dem som kjenner seg igjen i å "samle på" trygghet. I folketroen er bildet langt fra entydig: i noen tradisjoner er pengedrømmer et lykkevarsel, i andre et motvarsel — "drømmer du om penger, våkner du til tap".
+
+Til syvende og sist kan pengedrømmer også handle om makt og energi: hva du verdsetter, hvem som har kontrollen, og hvordan disse spørsmålene spiller seg ut i relasjonene dine.
 
 ## Drømmeguiden anbefaler
 

@@ -70,15 +70,13 @@ Händerna som syns i spegeln kan symbolisera dina handlingar sett utifrån — k
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Självbilden och det vi ser tillbaka
 
-Carl Jung betraktade spegeln som en av de mest potenta symbolerna i drömarbete. För Jung representerade spegeln mötet med "självet" — den djupaste kärnan av personligheten, som inkluderar både de medvetna och omedvetna sidorna. Att se sig själv i en drömspegel är i jungiansk mening att stå ansikte mot ansikte med totaliteten av den man är, inte bara den redigerade versionen man visar världen.
+Spegeln i en dröm tolkas ofta som en bild av hur du ser dig själv just nu. En förvrängd, sprucken eller krossad spegelbild kan peka mot identitetsförvirring, självtvivel, eller en känsla av att det finns ett gap mellan hur du upplever dig själv och hur saker faktiskt är.
 
-Jung beskrev också "skuggan" som det vi inte vill se hos oss själva, och spegeln i drömmar kan tvinga fram detta möte. Det är obehagligt, men potentiellt helande: att se och acceptera sin egen skugga är ett centralt steg i den psykologiska utvecklingsprocessen.
+Att möta ett främmande ansikte i spegeln — eller en version av dig själv du inte känner igen — kan handla om att stå inför en sida av dig som du gömt eller förträngt, en sorts dubbelgångare som ber om att bli sedd. Sådana möten är sällan bekväma, men de kan också öppna för en mer ärlig självrannsakan.
 
-I nordisk tradition har reflektion och spegling en mystisk plats. Vattenytor användes som speglar i vikingatiden, och att se in i stilla vatten var förknippat med att se in i andra världar. Fornnordisk mytologi berättar om Urdarbrunnen, där Odin offrade sitt eget öga för att kunna se djupare sanningar — en handling som påminner om spegelns förmåga att avslöja det dolda. I nordisk folktro förknippades speglar också med vidskepelse: att krossa en spegel bringade olycka, och speglar täcktes över när någon dog, för att hindra själen från att fångas.
-
-Denna kulturella bakgrund ger spegeldrömmar en extra dimension i nordisk kontext. Spegeln är inte bara ett vardagligt föremål — den är en portal till djupare förståelse av sig själv.
+Spegeln har länge varit en bild för sanning och självinsikt i berättelser och folktro, från Snövits talande spegel till Narcissus som fångades av sin egen bild i vattnet. I många folktraditioner har speglar också setts som portaler eller "själfångare" — därför täcktes de över efter ett dödsfall, och en krossad spegel varslade om olycka. Denna arv gör att speglar i drömmar ofta känns mer laddade än ett vanligt vardagsföremål.
 
 ---
 

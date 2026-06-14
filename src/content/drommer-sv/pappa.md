@@ -56,11 +56,13 @@ Kan handla om din egen oro för honom, eller om att en auktoritet i ditt liv fö
 **Om han var avliden men levande i drömmen:**
 Ett besök många beskriver som mer äkta än vanliga drömmar — en form av bearbetning och avsked som fortsätter länge efter förlusten.
 
-## Psykologiska och kulturella perspektiv
+## Auktoritet, beskydd och inre röster
 
-I jungiansk psykologi är fadersgestalten knuten till "Logos" — principen om struktur, logik och medveten vilja. Där [modern](/sv/drommar/mamma/) representerar det närande och omedvetna, representerar pappan det formande och medvetna. Drömmar om pappa handlar därmed ofta om ditt förhållande till egna mål, värderingar och förmågan att handla i världen.
+Pappan i drömmar kan ofta representera auktoritet, struktur och de regler och förväntningar vi har lärt oss att förhålla oss till. För många dyker fadersgestalten upp som en sorts "inre kritiker" — en röst som dömer, mäter och sätter standarder, och som drömmen kan ge ett ansikte och en historia.
 
-I nordisk tradition har fadersfiguren historiskt varit knuten till både skydd och dom — den som sätter gränser för vad som är möjligt, men också den som öppnar dörrar till världen utanför hemmet. Denna dubbelhet speglas i drömmarna: pappan är sällan neutral.
+Fadersgestalten har också haft en central plats i tidig psykoanalys, där relationen till pappan sågs som avgörande för hur vi internaliserar regler och samvete — det som senare blev en del av vårt eget överjag. Om pappan i drömmen känns stödjande kan det handla om vägledning och trygghet i ett beslut; om han är frånvarande eller sträng kan drömmen snarare pekar mot otillgodosedda behov, rädsla för att bli dömd, eller en oro i förhållandet till auktoriteter i stort.
+
+Över kulturgränser hittar vi liknande bilder i faders- och himmelsgudar som Zeus — gestalter knutna till auktoritet, ordning och de regler som ramar in en värld. [Mor](/sv/drommar/mor/) och pappa utgör ofta två sidor av samma mynt i drömmarnas språk: det närande och det formande.
 
 ## Drömguiden rekommenderar
 

@@ -68,11 +68,13 @@ Något i livet framstår som värdefullt men är ihåligt. En illusion om värde
 **Om du var väldigt rik:**
 En önskan om frihet, trygghet och valmöjligheter — eller en bearbetning av en genuin önskan om ett annat liv.
 
-## Psykologiska och kulturella perspektiv
+## Värde, självkänsla och det vi sätter värde på
 
-Jung var skeptisk till att tolka pengar i drömmarna bokstavligt — han såg dem nästan alltid som symboler för psykisk energi och libido i vid bemärkelse: den livskraft som kan strömma fritt eller blockeras. Att drömma om penningbrist kan därmed handla om en blockerad kreativitet eller vitalitet, medan rikedom i drömmen kan spegla att något i psyket blomstrar.
+Pengar i drömmar handlar sällan om bokstavlig ekonomi — de tolkas ofta snarare som en bild av självkänsla, personligt värde och de resurser du bär på inom dig. Att hitta pengar i en dröm kan signalera att du är på väg att upptäcka en förmåga eller talang du inte riktigt sett värdet av; att förlora pengar kan handla om en rädsla för att förlora status, kontroll eller självförtroende.
 
-I nordisk kultur finns en intressant ambivalens kring pengar — Jantelagen säger att man inte ska tro att man är bättre än andra, att man inte ska visa upp rikedom. Detta kan göra pengadrömmarna extra laddade för många nordbor: drömmarna om rikedom kan kännas skamfulla, drömmarna om fattigdom kan kännas skrämmande. Båda delar är värda att undersöka.
+Några tidiga psykoanalytiker, bland andra Freud och Ferenczi, kopplade pengar och guld till behovet av kontroll och att hålla tillbaka — en historisk kuriositet som ändå kan kännas träffande för den som känner igen sig i att "samla på" trygghet. I folktron är bilden långt ifrån entydig: i vissa traditioner är pengadrömmar ett lyckotecken, i andra ett motsatt varsel — drömmer du om pengar, vaknar du till förlust.
+
+I grund och botten kan pengadrömmar också handla om makt och energi: vad du värdesätter, vem som har kontrollen, och hur dessa frågor spelar sig ut i dina relationer.
 
 ## Drömguiden rekommenderar
 
