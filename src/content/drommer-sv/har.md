@@ -54,11 +54,13 @@ En förändring i identitet eller självuppfattning. Vilken färg det blev är r
 **Om någon annan klippte ditt hår:**
 Någon tar kontroll över något som tillhör dig — din identitet, dina val eller din presentation. Se även drömmar om [ögon](/sv/drommar/ogon/) för en besläktad kroppssymbol.
 
-## Psykologiska och kulturella perspektiv
+## Identitet, styrka och självbild
 
-I många kulturer och traditioner är hår knutet till kraft och livskraft — från Simson i bibeln till fornnordiska sagor där hårklippning av en fiende var en förödmjukelse. I psykologisk mening är hår en av de mest personliga och identitetsbärande elementen vi har, och drömmar om det speglar ofta något grundläggande om självbild och kontroll. Utforska gärna [drömmar om spegel](/sv/drommar/spegel/) för ett liknande tema.
+Hår är något av det mest synliga hos oss — det formar hur vi uppfattar oss själva, och hur vi vill bli sedda av andra. I berättelsen om Simson i Bibeln låg hans styrka i håret, och den kopplingen mellan hår och kraft, vitalitet och attraktionskraft känns igen i hur drömmar om håravfall ofta upplevs: som en rädsla för åldrande, försvagat självförtroende eller en känsla av att bli mer sårbar än tidigare.
 
-Intressant nog är drömmar om håravfall statistiskt sett bland de vanligaste ångestdrömmarna — och de rapporteras lika ofta av män och kvinnor, unga och gamla. Det berättar för oss att symbolen träffar något djupt och universellt.
+Att klippa håret i en dröm kan tolkas som en handling lika mycket som en symbol. Ett medvetet, önskat klipp kan spegla ett behov av en ny start — att lämna något bakom sig och göra plats för något annat. Ett oönskat eller påtvingat klipp pekar däremot oftare mot en känsla av att förlora kontrollen, eller att utsättas för en förändring du själv inte bett om.
+
+Genom historien har hår också burit stor social och kulturell betydelse — som tecken på status, uppror, tillhörighet eller konformitet. Tovigt och ovårdat hår i en dröm kan därför tolkas som mental oro eller förvirring, medan frisyren kan säga något om hur du presenterar dig själv för omvärlden just nu.
 
 ## Drömguiden rekommenderar
 

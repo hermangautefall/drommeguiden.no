@@ -54,11 +54,13 @@ Något du inte vill, kan eller orkar se på. Undvikande eller bristande insikt �
 **Om ett tredje öga öppnade sig:**
 En klassisk symbol för andlig insikt och intuition som väcks — mycket laddat i många traditioner.
 
-## Psykologiska och kulturella perspektiv
+## Att se och bli sedd
 
-Ögat är en av de mest universella symbolerna i mänsklig kultur. Från det egyptiska udjat-ögat (Horus öga) till Odens ena öga som offer för visdom, till det alltseende ögat i kristen ikonografi — ögat representerar överallt förmågan att se det som är dolt för de flesta.
+Ögat är en av de mest universella symbolerna i mänsklig kultur och dyker upp i många olika sammanhang — från det egyptiska Horusögat till det allseende ögat i religiös konst. Gemensamt för flera av dessa traditioner är att ögat representerar förmågan att se det som är dolt för andra: en koppling till sanning, klarsyn och en djupare form av förståelse.
 
-I jungiansk psykologi är drömmens öga knutet till medvetandet självt — själva förmågan att se och förstå. Drömmar om ögon är därmed drömmar om medvetande: om det vidgas, inskränks, hotas eller vaknar.
+I många kulturer runt Medelhavet och Mellanöstern finns också tron på "det onda ögat" — föreställningen om att en blick kan bära med sig avundsjuka eller en önskan om skada, och att man kan skydda sig mot det. Drömmar där du känner dig iakttagen av många ögon, eller av en blick du inte kan undkomma, kan påminna om just den känslan: av att bli bedömd, genomskådad eller följd på ett sätt som gör dig orolig.
+
+Samtidigt finns föreställningen om "det tredje ögat" inom hinduisk och buddhistisk tradition — en symbol för intuition och inre insikt, en förmåga att se bortom det som visas på ytan. Slutna eller blinda ögon i en dröm kan å sin sida tolkas som ett uttryck för undvikande — något i ditt liv som du ännu inte är redo att se rakt på, eller väljer att inte se.
 
 ## Drömguiden rekommenderar
 

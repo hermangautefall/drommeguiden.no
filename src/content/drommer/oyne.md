@@ -53,11 +53,13 @@ Noe du ikke vil, kan eller orker å se på. Unngåelse eller manglende innsikt �
 **Hvis et tredje øye åpnet seg:**
 Et klassisk symbol på åndelig innsikt og intuisjon som våkner — svært ladet i mange tradisjoner.
 
-## Psykologiske og kulturelle perspektiver
+## Å se og bli sett
 
-Øyet er et av de mest universale symbolene i menneskelig kultur. Fra det egyptiske udžat-øyet (Horus-øyet) til Odins ene øye som offer for visdom, til det alleseende øyet i kristen ikonografi — øyet representerer overalt evnen til å se det som er skjult for de fleste.
+Øyet er et av de mest universale symbolene i menneskelig kultur, og dukker opp i svært ulike sammenhenger — fra det egyptiske Horus-øyet til det alleseende øyet i religiøs kunst. Felles for mange av disse tradisjonene er at øyet representerer evnen til å se det som ligger skjult for andre: en forbindelse til sannhet, klarsyn og en dypere form for forståelse.
 
-I jungiansk psykologi er drømmens øye knyttet til bevisstheten selv — selve evnen til å se og forstå. Drømmer om øyne er dermed drømmer om bevissthet: om den utvides, innsnevres, trues eller våkner.
+I mange kulturer rundt Middelhavet og Midtøsten finnes også troen på "det onde øyet" — forestillingen om at et blikk kan bære med seg misunnelse eller ønske om skade, og at man kan beskytte seg mot det. Drømmer der du føler deg iakttatt av mange øyne, eller av et blikk du ikke kan unnslippe, kan minne om denne følelsen: av å bli vurdert, gjennomskuet eller fulgt med på en måte som gjør deg urolig.
+
+Samtidig finnes forestillingen om "det tredje øyet" i hinduistisk og buddhistisk tradisjon — et symbol på intuisjon og indre innsikt, en evne til å se bak det som vises på overflaten. Lukkede eller blinde øyne i en drøm kan på sin side tolkes som et uttrykk for unngåelse — noe i livet ditt som du ennå ikke er klar til å se rett på, eller velger å la være å se.
 
 ## Drømmeguiden anbefaler
 

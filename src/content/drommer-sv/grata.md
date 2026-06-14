@@ -63,15 +63,13 @@ Något släpper. En positiv kris — det värsta är kanske över.
 **Om du vaknade med tårar:**
 Särskilt stark emotionell bearbetning — kroppen och själen var med.
 
-## Psykologiskt perspektiv
+## Tårar som förlöser
 
-Forskning om drömmarnas emotionella funktion visar att REM-sömnen spelar en viktig roll för att reglera och bearbeta svåra känslor. Hjärnan använder drömmarna för att "avsluta" emotionella processer — och gråt i drömmen är ett av de tydligaste tecknen på att denna bearbetning sker aktivt.
+Forskning om drömmarnas emotionella funktion visar att REM-sömnen spelar en viktig roll för att reglera och bearbeta svåra känslor. Hjärnan använder drömmarna för att "avsluta" emotionella processer — och gråt i drömmen är ett av de tydligaste tecknen på att denna bearbetning sker aktivt, ofta som en sund säkerhetsventil. Vissa vaknar lättare till sinnes, medan andra faktiskt märker tårar på kinderna när de vaknar.
 
-Jung såg gråten i drömmarna som ett av de starkaste tecknen på att psyket är i rörelse — att något lossnar, att ett block är på väg att släppa. Han såg det inte som svaghet, utan som styrka: förmågan att känna känslorna fullt ut, även i drömmarna.
+Drömmens gråt kan också ge utrymme för känslor du inte tillåter dig själv att känna fullt ut i vaket tillstånd. I en kultur där vi inte alltid gråter lätt inför andra kan drömmen bli en plats där dessa känslor äntligen får komma till uttryck — utan att någon ser det.
 
-## Kulturell och symbolisk betydelse
-
-I svensk kultur är gråten ofta förknippad med en viss reservation — vi gråter inte lätt i andras åsyn. Drömmens gråt ger oss rummet vi kanske inte tar oss annars.
+Att gråta för någon annan i drömmen, oavsett om det är någon du älskar eller [någon som har det svårt](/sv/drommar/avliden-person/), kan också handla om medkänsla: en förmåga att känna andras smärta som din egen. Oavsett vad drömmen handlar om är gråtdrömmar oftast ett tecken på att något bearbetas — inte ett dåligt varsel.
 
 ## Vad bör du göra efter en dröm om att gråta?
 

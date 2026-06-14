@@ -62,15 +62,13 @@ Noe slipper. En positiv krise — det verste er kanskje over.
 **Hvis du våknet med tårer:**
 Særlig sterk emosjonell prosessering — kroppen og sjelen var med på det.
 
-## Psykologisk perspektiv
+## Tårer som forløser
 
-Forskning på drømmenes emosjonelle funksjon viser at REM-søvn spiller en viktig rolle i å regulere og bearbeide vanskelige følelser. Hjernen bruker drømmene til å "avslutte" emosjonelle prosesser — og gråt i drøm er ett av de tydeligste tegnene på at denne bearbeidingen skjer aktivt.
+Forskning på drømmenes emosjonelle funksjon viser at REM-søvn spiller en viktig rolle i å regulere og bearbeide vanskelige følelser. Hjernen bruker drømmene til å "avslutte" emosjonelle prosesser — og gråt i drøm er ett av de tydeligste tegnene på at denne bearbeidingen skjer aktivt, ofte som en sunn sikkerhetsventil. Noen våkner lettere til sinns, mens andre faktisk merker tårer på kinnet når de våkner.
 
-Jung så gråten i drømmene som et av de sterkeste tegnene på at psyken er i bevegelse — at noe løsner, at en blokk er i ferd med å slippe. Han så det ikke som svakhet, men som styrke: evnen til å kjenne følelsene fullt ut, selv i drømmene.
+Drømmens gråt kan også gi rom for følelser du ikke tillater deg å kjenne på fullt ut i våken tilstand. I en kultur der vi ikke alltid gråter lett i andres påsyn, kan drømmen bli et sted der disse følelsene endelig får komme til uttrykk — uten at noen ser det.
 
-## Kulturell og symbolsk betydning
-
-I norsk kultur er gråten gjerne assosiert med en viss reservasjon — vi gråter ikke lett i andres påsyn. Drømmens gråt gir oss rommet vi kanskje ikke tar oss ellers.
+Å gråte for en annen i drømmen, enten det er en du er glad i eller [en som har det vondt](/drommer/avdod-person/), kan også handle om medfølelse: en evne til å kjenne andres smerte som din egen. Uansett hva drømmen handler om, er gråtedrømmer som regel et tegn på at noe bearbeides — ikke et dårlig varsel.
 
 ## Hva bør du gjøre etter en drøm om å gråte?
 

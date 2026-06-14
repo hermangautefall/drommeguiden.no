@@ -68,4 +68,13 @@ Regler:
 - [x] lynet (blixten) — plutselig innsikt + sjokk/brå endring + Zevs/sky-gud + fare
 - [x] tornado (tornado) — overveldende kaos + brå endring + tap av kontroll + Oz
 
-## Status: 40/214 NB ferdig (+ 40 SV).
+## Batch 9 — kropp/tap
+- [x] har (har) — identitet/vitalitet (Samson) + klipp=forvandling + sosial mening + floket=forvirring
+- [x] oyne (ogon) — sjelens speil/bevissthet + det onde øyet + tredje øyet + lukkede=unngåelse
+- [x] do (do) — OBS: "å dø", ikke toalett! Forvandling ikke forutsigelse + overgang + død/gjenfødelse/tarot
+- [x] grate (grata) — følelsesutløsning + undertrykte følelser + empati + beroligelse (slo sammen 2 H2)
+- [x] miste-noe (forlora-nagot) — tap av kontroll + overganger + overveldelse + å gi slipp
+
+NB: toalett (toalett) gjenstår — separat artikkel fra do; gi den en annen vinkel (utløsning/privatliv/grenser).
+
+## Status: 45/214 NB ferdig (+ 45 SV).

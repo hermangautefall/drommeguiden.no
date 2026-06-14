@@ -53,11 +53,13 @@ En endring i identitet eller selvoppfattelse. Hvilken farge det ble er relevant.
 **Hvis noen andre klippet håret ditt:**
 Noen tar kontroll over noe som tilhører deg — din identitet, dine valg eller din presentasjon. Se også drømmer om [øyne](/drommer/oyne/) for et beslektet kroppssymbol.
 
-## Psykologiske og kulturelle perspektiver
+## Identitet, styrke og selvbilde
 
-I mange kulturer og tradisjoner er hår knyttet til kraft og livskraft — fra Samson i bibelen til norrøne sagaer der hårklipping av en fiende var en ydmykelse. I psykologisk forstand er hår et av de mest personlige og identitetsbærende elementene vi har, og drømmer om det speiler ofte noe grunnleggende om selvbilde og kontroll. Utforsk gjerne [drømmer om speil](/drommer/speil/) for et lignende tema.
+Hår er noe av det mest synlige ved oss — det er med på å forme hvordan vi kjenner oss selv, og hvordan vi ønsker å bli oppfattet. I bibelens fortelling om Samson lå styrken hans i håret, og denne koblingen mellom hår og kraft, vitalitet og tiltrekningskraft kan kjennes igjen i hvordan drømmer om hårtap ofte oppleves: som en frykt for aldring, svekket selvtillit eller en følelse av å bli mer sårbar enn før.
 
-Interessant nok er drømmer om hårtap statistisk sett blant de vanligste angstdrømmene — og de rapporteres like hyppig av menn og kvinner, unge og eldre. Det forteller oss at symbolet treffer noe dypt og universalt.
+Å klippe håret i en drøm kan tolkes som en handling like mye som et symbol. Et bevisst, ønsket klipp kan speile et behov for en ny start — å legge noe bak deg og gi rom for noe annet. Et uønsket eller påtvunget klipp peker derimot oftere mot en følelse av å miste kontroll, eller å bli utsatt for en endring du ikke selv har bedt om.
+
+Gjennom historien har hår også båret stor sosial og kulturell betydning — som tegn på status, opprør, tilhørighet eller konformitet. Floket og uflidd hår i en drøm kan derfor tolkes som mental forvirring eller uro, mens hvordan håret er friserte kan si noe om hvordan du presenterer deg selv for omverdenen akkurat nå.
 
 ## Drømmeguiden anbefaler
 

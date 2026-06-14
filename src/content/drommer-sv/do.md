@@ -71,13 +71,13 @@ Ett tecken på djup acceptans och ro. Kanske en transformation du är redo för,
 **Om du var desperat rädd:**
 Starkt motstånd mot en förändring som ändå är oundviklig — eller bearbetning av en grundläggande rädsla som bärs i det tysta.
 
-## Psykologiska och kulturella perspektiv
+## Förvandling, inte förutsägelse
 
-Carl Jung var angelägen om att död i drömmar nästan alltid betyder förvandling, inte bokstavligt slut. Han såg psyket som något som ständigt förnyar sig — och som använder de starkaste symboler det har tillgängligt, nämligen själva livet och döden, för att markera de viktigaste inre övergångarna.
+Det är värt att säga tydligt: att drömma om sin egen död varslar nästan aldrig om en verklig död. Tvärtom är det en av de vanligaste symboliska drömmar vi har, och den handlar oftast om förvandling. När en gammal fas, roll eller version av dig själv har gjort sitt, kan psyket måla upp det som en död — för att något nytt ska få plats.
 
-I fornnordisk tradition var övergången mellan liv och död inte en vägg, utan en tröskel — något man korsade och kom tillbaka från, något som gav visdom snarare än att ta den. Oden hängde sig i Yggdrasil, "gav sig själv till sig själv", och kom tillbaka med runvisdom. Döden som gåva, inte som straff.
+För många hänger dödsdrömmar samman med en stor övergång: en separation, ett jobbyte, en flytt, eller en inre förändring som håller på att ske. Döden är det yttersta okända, och drömmen kan därför bära med sig en oro för att förlora kontrollen, eller för att inte veta vad som väntar på andra sidan av förändringen.
 
-Modern sömnforskning bekräftar att dessa drömmar är mycket vanliga, inte patologiska, och att de oftare associeras med psykologisk bearbetning än med psykisk ohälsa. De är kroppens och sinnets sätt att hantera livets stora teman — förändring, förlust och mening — på ett sätt som är tryggt nog att tillåtas i drömmens rum.
+Motivet död och återfödelse återkommer i kulturer över hela världen — från invigningsriter där den gamla identiteten symboliskt dör, till Döden-kortet i tarot, som traditionellt tolkas som omvälvning och nybörjan snarare än bokstavlig död. Ibland kan en fridfull dödsdröm till och med tolkas som en form av acceptans: ett tecken på att du är redo att släppa taget om något och gå vidare.
 
 ## Drömguiden rekommenderar
 

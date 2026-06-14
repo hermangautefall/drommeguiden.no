@@ -56,11 +56,13 @@ Lettelse og løsning er innen rekkevidde. Du har ressursene du trenger.
 **Hvis du aldri fant det:**
 En mer vedvarende følelse av tap — noe som kanskje ikke kan gjenhentes slik det var.
 
-## Psykologiske og kulturelle perspektiver
+## Det vi er redde for å miste
 
-Tapdrømmer er nært beslektet med separasjonsangst og drømmer om [å falle](/drommer/falle/) — en grunnleggende menneskelig frykt som begynner tidlig i livet og ikke forsvinner med alderen. I drømmene tar den form som konkrete tap av objekter vi forbinder med trygghet og identitet.
+Tapdrømmer dukker ofte opp i forbindelse med overganger i livet — en ny jobb, et brudd, en flytting, eller andre endringer der noe kjent skal forlates. Drømmen bearbeider gjerne det du frykter å legge bak deg, selv om endringen i seg selv kan være ønsket eller positiv.
 
-Jung ville sett slike drømmer som uttrykk for en psyke som bearbeider sårbarhet og endring. Det tapte objektet er et symbol på noe mer grunnleggende som føles truet.
+Den frustrerende følelsen av å lete og lete uten å finne det du har mistet, kan også speile en opplevelse av å være overveldet, spredt eller glemsk i hverdagen — som om tankene dine ikke er helt der du vil ha dem.
+
+Ikke alt som mistes i en drøm er nødvendigvis tungt. Noen ganger øver psyken seg på å gi slipp på ting som ikke lenger trengs, og skaper dermed plass til noe nytt. [Nøkler](/drommer/nokler/) som mistes kan for eksempel handle om at en gammel tilgang eller rolle ikke lenger er aktuell — og det kan være helt i orden.
 
 ## Drømmeguiden anbefaler
 

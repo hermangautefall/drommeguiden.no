@@ -70,13 +70,13 @@ Et tegn på dyp aksept og ro. Kanskje en transformasjon du er klar for, selv om 
 **Hvis du var desperat redd:**
 Sterk motstand mot en forandring som likevel er uunngåelig — eller bearbeiding av en grunnleggende frykt som bæres i det stille.
 
-## Psykologiske og kulturelle perspektiver
+## Forvandling, ikke forutsigelse
 
-Carl Jung var opptatt av at død i drømmer nesten alltid betyr forvandling, ikke bokstavelig slutt. Han så psyken som noe som konstant fornyer seg — og som bruker de sterkeste symbolene den har tilgjengelig, nemlig selve livet og døden, for å markere de viktigste indre overgangene.
+Det er verdt å si tydelig: å drømme om sin egen død varsler nesten aldri en virkelig død. Tvert imot er det en av de vanligste symbolske drømmene vi har, og den handler som regel om forvandling. Når en gammel fase, rolle eller versjon av deg selv har gjort sitt, kan psyken male det ut som en død — for at noe nytt skal få plass.
 
-I norrøn tradisjon var overgangen mellom liv og død ikke en vegg, men en terskel — noe man krysset og kom tilbake fra, noe som ga visdom snarere enn å ta den. Odin hang seg i Yggdrasil, "ga seg selv til seg selv", og kom tilbake med runevisdom. Døden som gave, ikke som straff.
+For mange henger dødsdrømmer sammen med en stor overgang: et brudd, et jobbskifte, en flytting, eller en indre endring som er i ferd med å skje. Døden er det ultimate ukjente, og drømmen kan derfor bære med seg en uro for å miste kontroll, eller for ikke å vite hva som venter på den andre siden av forandringen.
 
-Moderne søvnforskning bekrefter at disse drømmene er svært vanlige, ikke patologiske, og at de oftere assosieres med psykologisk bearbeiding enn med psykisk uhelse. De er kroppen og sinnets måte å håndtere livets store temaer — forandring, tap og mening — på en måte som er trygg nok til å tillates i drømmens rom.
+Motivet død og gjenfødelse går igjen i kulturer over hele verden — fra innvielsesritualer der den gamle identiteten symbolsk dør, til Døden-kortet i tarot, som tradisjonelt tolkes som omveltning og nybegynnelse snarere enn bokstavelig død. Noen ganger kan en fredfull dødsdrøm til og med tolkes som en form for aksept: et tegn på at du er klar til å gi slipp på noe og gå videre.
 
 ## Drømmeguiden anbefaler
 

@@ -57,11 +57,13 @@ Lättnad och lösning är inom räckhåll. Du har de resurser du behöver.
 **Om du aldrig hittade det:**
 En mer varaktig känsla av förlust — något som kanske inte kan återvinnas som det var.
 
-## Psykologiska och kulturella perspektiv
+## Det vi är rädda att förlora
 
-Förlustdrömmar är nära besläktade med separationsångest och drömmar om [att falla](/sv/drommar/falla/) — en grundläggande mänsklig rädsla som börjar tidigt i livet och inte försvinner med åldern. I drömmarna tar den form som konkreta förluster av föremål vi förknippar med trygghet och identitet.
+Förlustdrömmar dyker ofta upp i samband med övergångar i livet — ett nytt jobb, en separation, en flytt, eller andra förändringar där något bekant ska lämnas bakom sig. Drömmen bearbetar gärna det du fruktar att lämna, även om förändringen i sig kan vara önskad eller positiv.
 
-Jung skulle se sådana drömmar som uttryck för en psyke som bearbetar sårbarhet och förändring. Det förlorade föremålet är en symbol för något mer grundläggande som känns hotat.
+Den frustrerande känslan av att leta och leta utan att hitta det du förlorat kan också spegla en upplevelse av att vara överväldigad, splittrad eller glömsk i vardagen — som om tankarna inte riktigt är där du vill ha dem.
+
+Allt som förloras i en dröm behöver inte vara tungt. Ibland övar psyket på att släppa saker som inte längre behövs, och skapar därmed plats för något nytt. [Nycklar](/sv/drommar/nycklar/) som förloras kan till exempel handla om att en gammal tillgång eller roll inte längre är aktuell — och det kan vara helt i sin ordning.
 
 ## Drömguiden rekommenderar
 
