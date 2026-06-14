@@ -53,11 +53,13 @@ Du er klar over en risiko, men har fortsatt tid og mulighet til å handle.
 Dine egne mørke instinkter er under kontroll. Du er i balanse med de dypere sidene av deg selv.
 
 
-## Psykologiske og kulturelle perspektiver
+## Faren under overflaten
 
-Haien er i moderne populærkultur blitt et kraftig bilde på ren, kald trussel — men i mange kystfolks tradisjoner er haien en beskytter og et totemvesen. I hawaiisk kultur er haien (mano) en forfedreånd som vokter familien.
+En hai i drømmen kan vekke en helt urgammel form for frykt — følelsen av at noe sirkler under overflaten, en fare du ikke kan se helt tydelig, men som du vet er der. Vannet representerer ofte følelseslivet eller det ubevisste, og haien blir da symbolet på en trussel eller en angst som ligger og venter under bevisstheten, klar til å dukke opp når du minst venter det.
 
-Jung ville sett haien som et symbol på det ubevisste i sin mest primitive form — noe som beveger seg i dypet av psyken med sin egen agenda, uavhengig av hva Ego-et ønsker.
+Andre ganger handler drømmen mer om en person eller en situasjon i hverdagen. Å kalle noen en "hai" er ikke tilfeldig — det kan tolkes som at drømmen advarer om en hensynsløs eller rovgrisk person, eller en situasjon som føles som den vil "spise deg opp" hvis du ikke er forsiktig, for eksempel et tøft arbeidsmiljø eller en relasjon i ubalanse. Haien kan også speile ditt eget fortrengte sinne — en kraft i deg som plutselig stiger til overflaten.
+
+Det er verdt å nevne at haien ikke alltid har vært et fryktsymbol. I polynesisk og hawaiisk tradisjon ble haier ('aumākua) ofte sett som beskyttende åndelige forfedre som voktet familien fra havet. Kanskje kan drømmen, sett i et slikt lys, også tolkes som at noe sterkt og kraftfullt vokter over deg — selv om det først ser skremmende ut.
 
 
 ## Drømmeguiden anbefaler

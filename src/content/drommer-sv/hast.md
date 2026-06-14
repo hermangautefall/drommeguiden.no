@@ -70,13 +70,13 @@ Ett positivt tecken som ofta pekar mot att du tar hand om din egen inre kraft oc
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Kraft, frihet och att hålla tyglarna
 
-Carl Jung såg hästen som en symbol för den djuriska och instinktiva delen av psyket — det som existerar under medvetandets yta och driver oss framåt med energi vi inte alltid förstår. I jungiansk tradition representerar hästen ofta libido i vid mening: inte bara sexuell energi, utan livskraft generellt.
+Hästen kan tolkas som en bild av en kraftfull livsenergi inom dig — handlingskraft, passion och en drift som vill framåt. Hur du förhåller dig till hästen i drömmen säger ofta något om hur du förhåller dig till den här kraften i livet. En häst du sitter tryggt på och styr med lätthet kan tolkas som att du har god kontakt med din egen energi och dina passioner. En skenande häst kan däremot spegla drifter, känslor eller ambitioner som kommit ur kontroll.
 
-I fornnordisk mytologi har hästen en alldeles särskild plats. Sleipner, Odens åttafotade häst, kunde röra sig mellan världarna — och hästar i drömmar tolkades i fornnordisk folktro ofta som budbärare mellan det synliga och det osynliga. En [varg](/sv/drommar/varg/) och en häst i samma dröm skulle setts som ett särskilt kraftfullt tecken.
+Genom olika kulturer har hästen länge förknippats med frihet och resning — ett djur som bär människan längre och snabbare än hon kan komma på egen hand. Drömmen kan därför handla om en längtan efter att röra sig friare i livet, vare sig det gäller en resa, en ny möjlighet eller bara ett behov av mer utrymme.
 
-I nordisk bondetradition var hästen oumbärlig, och drömmar om hästar knöts till praktiska ting som arbete, resor och välstånd. En frisk, stark häst i drömmen var ett gott tecken — medan en halt häst varslade motgång. Denna jordnära inställning till drömtolkning har följt skandinavisk kultur i generationer, och påminner oss om att drömmarnas symboler alltid är färgade av den kultur vi lever i.
+Häst-symbolen rymmer också tanken på partnerskap. Relationen mellan ryttare och häst bygger på ömsesidigt förtroende, och drömmen kan därför spegla en relation i ditt liv — eller förhållandet till dig själv, mellan den del som vill styra och den del som vill galoppera fritt. I mytologin finns även den bevingade Pegasos, en bild för inspiration och fantasins fria flykt, och hästar som bär mellan världar återkommer i berättelser från många kulturer.
 
 ---
 

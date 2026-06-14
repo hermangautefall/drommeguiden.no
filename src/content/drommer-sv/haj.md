@@ -54,11 +54,13 @@ Du är medveten om en risk, men har fortfarande tid och möjlighet att agera.
 Dina egna mörka instinkter är under kontroll. Du är i balans med de djupare sidorna av dig själv.
 
 
-## Psykologiska och kulturella perspektiv
+## Faran under ytan
 
-Hajen är i modern populärkultur blivit en kraftig bild av rent, kallt hot — men i många kustfolks traditioner är hajen en beskyddare och ett totemväsen. I hawaiisk kultur är hajen (mano) en förfäderande som vaktar familjen.
+En haj i drömmen kan väcka en närmast urgammal rädsla — känslan av att något cirklar under ytan, ett hot du inte riktigt kan urskilja men ändå vet finns där. Vattnet brukar representera känslolivet eller det undermedvetna, och hajen blir då en symbol för ett hot eller en oro som ligger och väntar under medvetandet, redo att dyka upp när du minst anar det.
 
-Jung skulle sett hajen som en symbol på det omedvetna i sin mest primitiva form — något som rör sig i psykets djup med sin egen agenda, oberoende av vad Egot önskar.
+Ibland handlar drömmen snarare om en person eller en situation i vardagen. Att kalla någon en "haj" är inte slumpmässigt — det kan tolkas som att drömmen varnar för en hänsynslös eller rovgirig person, eller en situation som känns som att den vill "äta upp dig" om du inte är försiktig, till exempel en tuff arbetsmiljö eller en relation i obalans. Hajen kan också spegla din egen undertryckta ilska — en kraft inom dig som plötsligt stiger till ytan.
+
+Värt att nämna är att hajen inte alltid har varit en skräckfigur. I polynesisk och hawaiisk tradition betraktades hajar ('aumākua) ofta som beskyddande andliga förfäder som vakade över familjen från havet. Sett i det ljuset kan drömmen kanske också tolkas som att något starkt och kraftfullt vakar över dig — även om det först ser skrämmande ut.
 
 
 ## Drömguiden rekommenderar

@@ -72,13 +72,13 @@ Et positivt tegn som kan peke mot forsoning med egne skyggesider, eller at du ha
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Det ville og det lojale
 
-Carl Jung betraktet ulven som en kraftig arketyp knyttet til skyggen — den delen av personligheten vi helst skjuler for verden og oss selv. I jungiansk drømmtolkning kan ulven representere undertrykte drifter, instinkter som har blitt holdt i sjakk for lenge, eller en vill kraft som søker uttrykk. Å møte ulven i drømmen er for Jung et potensielt transformerende øyeblikk: det er her skyggearbeidet begynner.
+En ulv i drømmen kan tolkes som et bilde på det utemmede i deg selv — instinktene, friheten og en livskraft som ikke alltid passer inn i et ordnet liv. Samtidig er ulven et flokkdyr, og drømmen kan derfor like gjerne handle om lojalitet, tilhørighet og behovet for å høre til et sted.
 
-I norrøn mytologi er ulven en av de mest sentrale skikkelsene. Fenrisulven, som er bundet av gudene men som en dag skal slite seg løs og sluke Odin ved Ragnarok, representerer den uunngåelige destruksjonen — men også nødvendigheten av at det gamle brytes ned for at det nye skal kunne oppstå. Odins to ulver, Gere og Freke, symboliserer derimot grådighet og behov — instinktive krefter i tjeneste hos visdom.
+Hvordan ulven oppfører seg i drømmen er ofte avgjørende for tolkningen. En truende eller jagende ulv kan tolkes som en frykt, en konflikt eller egne drifter og "hunger" som du opplever som vanskelig å kontrollere. En ulv som derimot går side om side med deg, eller som virker rolig og oppmerksom, kan tolkes som en alliert — en påminnelse om at du har mer kontakt med dine instinkter enn du tror.
 
-I norsk kulturhistorie har ulven en ambivalent posisjon. Fryktet av bønder og gjeterfolk, men også respektert som naturens mest utholdende jeger. Den pågående debatten om ulvens plass i norsk natur gir dette drømmesymbolet en ekstra aktualitet. Å drømme om ulv i Norge handler kanskje ikke bare om det personlige, men berører også dypere spørsmål om forholdet mellom menneske og natur, det ville og det tamme, frihet og kontroll.
+Ulven har også to svært forskjellige ansikter i fortellingstradisjonen. I eventyret om Rødhette er den forkledningen og faren — "ulven i fåreklær" som lurer den uvitende. Men i legenden om Roma var det en ulvinne som ammet og reddet grunnleggerne Romulus og Remus, og ble selve symbolet på beskyttelse og opphav. Kanskje handler drømmen om hvor du selv står mellom disse to bildene — om du nå opplever ulven som en trussel, eller som noe som tar vare på deg.
 
 ---
 

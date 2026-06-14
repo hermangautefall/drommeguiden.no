@@ -69,13 +69,13 @@ Et positivt tegn som ofte peker mot at du tar vare på din egen indre kraft og h
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Kraft, frihet og det å holde tøylene
 
-Carl Jung så hesten som et symbol på den dyriske og instinktive delen av psyken — det som eksisterer under bevissthetens overflate og driver oss fremover med energi vi ikke alltid forstår. I jungiansk tradisjon representerer hesten ofte libido i bred forstand: ikke bare seksuell energi, men livskraft generelt.
+Hesten kan tolkes som et bilde på en kraftfull livsenergi i deg — pågangsmot, lidenskap og en drift som vil fremover. Hvordan du forholder deg til hesten i drømmen sier ofte noe om hvordan du forholder deg til denne kraften i livet. En hest du sitter trygt på og styrer med letthet kan tolkes som at du har god kontakt med din egen energi og dine lidenskaper. En løpsk hest, derimot, kan speile drifter, følelser eller ambisjoner som har kommet ut av kontroll.
 
-I norrøn mytologi har hesten en helt spesiell plass. Sleipner, Odins åttefotede hest, kunne bevege seg mellom verdener — og hester i drømmer ble i norrøn folketro ofte tolket som budbringere mellom det synlige og det usynlige. En [ulv](/drommer/ulv/) og en hest i samme drøm ville blitt sett som et særlig kraftfullt tegn.
+På tvers av kulturer har hesten lenge vært knyttet til frihet og adel — et dyr som bærer mennesket lenger og raskere enn det kan komme på egen hånd. Drømmen kan derfor handle om en lengsel etter å bevege seg friere i livet, enten det er en reise, en ny mulighet eller bare et ønske om mer albuerom.
 
-I norsk bondetradisjon var hesten uunnværlig, og drømmer om hester ble knyttet til praktiske ting som arbeid, reiser og velstand. En frisk, sterk hest i drømmen var et godt tegn — mens en halt hest varslet motgang. Denne jordnære tilnærmingen til drømmetolkning har fulgt skandinavisk kultur i generasjoner, og minner oss om at drømmenes symboler alltid er farget av den kulturen vi lever i.
+Hest-symbolet rommer også ideen om partnerskap. Forholdet mellom rytter og hest bygger på tillit i begge retninger, og drømmen kan derfor speile en relasjon i livet ditt — eller forholdet til deg selv, mellom den delen som vil styre og den delen som vil galoppere fritt. I mytologien finner vi også den bevingede Pegasus, et bilde på inspirasjon og fantasiens frie flukt, og hester som bærer mellom verdener går igjen i fortellinger fra mange kulturer.
 
 ---
 

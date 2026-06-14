@@ -46,4 +46,11 @@ Regler:
 - [x] far (pappa) — autoritet/indre kritiker + Freud (overjeg) + beskyttelse vs fravær
 - [x] speil (spegel) — selvbilde/identitet + dobbeltgjenger/skygge + sannhet + folketro
 
-## Status: 25/214 NB ferdig (+ 25 SV). Resten av long-tail gjenstår.
+## Batch 6 — dyr
+- [x] hai (haj) — urfrykt/trussel + rovgrisk person + fortrengt sinne + 'aumākua (hawaiisk)
+- [x] ulv (varg) — instinkt/det ville + rovdyr vs veiviser + Rødhette/Romulus (ikke Fenris)
+- [x] hest (hast) — kraft/drifter + frihet/adel + partnerskap + Pegasus
+- [x] fugl (fagel) — sjel/frihet + budskap/intuisjon + hvilken art + ambisjoner
+- [x] tiger (tiger) — rå kraft + skjult fare + kinesisk/Durga + ensom styrke
+
+## Status: 30/214 NB ferdig (+ 30 SV).

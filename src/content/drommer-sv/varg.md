@@ -73,13 +73,13 @@ Ett positivt tecken som kan peka mot försoning med egna skuggsidor, eller att d
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Det vilda och det lojala
 
-Carl Jung betraktade vargen som en kraftfull arketyp knuten till Skuggan — den del av personligheten vi helst döljer för världen och oss själva. I jungiansk drömtydning kan vargen representera undertryckta drifter, instinkter som hållits i schack för länge, eller en vild kraft som söker uttryck. Att möta vargen i drömmen är för Jung ett potentiellt transformerande ögonblick: det är här skuggarbetet börjar.
+En varg i drömmen kan tolkas som en bild av det otämjda i dig själv — instinkterna, friheten och en livskraft som inte alltid får plats i ett ordnat liv. Samtidigt är vargen ett flockdjur, och drömmen kan därför lika gärna handla om lojalitet, tillhörighet och behovet av att höra till någonstans.
 
-I fornnordisk mytologi är vargen en av de mest centrala gestalterna. Fenrisulven, som är bunden av gudarna men som en dag ska slita sig loss och sluka Oden vid Ragnarök, representerar den oundvikliga destruktionen — men också nödvändigheten av att det gamla bryts ned för att det nya ska kunna uppstå. Odens två vargar, Gere och Freke, symboliserar däremot glupskhet och behov — instinktiva krafter i visdomens tjänst.
+Hur vargen beter sig i drömmen är ofta avgörande för tolkningen. En hotfull eller jagande varg kan tolkas som en rädsla, en konflikt eller egna drifter och en "hunger" som känns svår att kontrollera. En varg som istället går sida vid sida med dig, eller verkar lugn och uppmärksam, kan tolkas som en allierad — en påminnelse om att du har mer kontakt med dina instinkter än du tror.
 
-I nordisk kulturhistoria har vargen en ambivalent position. Fruktad av bönder och herdar, men också respekterad som naturens mest uthålliga jägare. Den pågående debatten om vargens plats i nordisk natur ger denna drömsymbol en extra aktualitet. Att drömma om varg i Norden handlar kanske inte bara om det personliga, utan berör också djupare frågor om förhållandet mellan människa och natur, det vilda och det tama, frihet och kontroll.
+Vargen har också två mycket olika ansikten i berättartraditionen. I sagan om Rödluvan är den förklädnaden och faran — "vargen i fårakläder" som lurar den ovetande. Men i legenden om Rom var det en varghona som ammade och räddade grundarna Romulus och Remus, och blev själva symbolen för beskydd och ursprung. Kanske handlar drömmen om var du själv står mellan dessa två bilder — om du just nu upplever vargen som ett hot, eller som något som tar hand om dig.
 
 ---
 

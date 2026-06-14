@@ -66,13 +66,13 @@ En kör av impulser, möjligheter eller budskap — något är laddat och aktivt
 **Om fågeln var svart:**
 Se [kråka](/sv/drommar/kraka/)-sidan — svarta fåglar bär sin egen, rikare symbolik.
 
-## Psykologiska och kulturella perspektiv
+## Själ, frihet och budskap
 
-Odens två korpar, Hugin (tanken) och Munin (minnet), flög ut över världen varje morgon och förde med sig kunskap om allt som hände. Fåglar som kunskapsförmedlare och själens bärare är djupt förankrat i nordisk tradition — och är ett av de starkaste och mest särpräglade dragen i nordisk mytologi.
+Genom olika kulturer har fågeln länge varit en bild för själen, anden och det som kan lösgöra sig från det tunga och materiella. En fågel i en bur kan tolkas som en känsla av att vara instängd eller begränsad, medan en fågel som svävar fritt ofta tolkas som frigörelse, perspektiv eller en längtan efter att höja sig över en svår situation.
 
-Carl Jung beskrev fåglar generellt som symboler för tankar och idéer som är frigjorda från det konkreta och materiella — själen i sin lättaste och friast rörliga form. Att drömma om fågel är att drömma om psykets förmåga att röra sig obehindrat.
+I många traditioner har fåglar också varit budbärare — tecken på att något nytt är på väg. Drömmen kan därför handla om tankar, idéer eller förhoppningar som är i rörelse, som "lyfter" och hittar en ny form. En fågel som flyger bort kan på samma sätt tolkas som något du behöver släppa, eller en möjlighet som glider undan.
 
-Intressant nog är fågeldrömmarna bland dem med bredast positiv resonans i drömforskning — de upplevs sällan som skrämmande, och de lämnar gärna en känsla av frihet och lätthet som sitter kvar länge. Se även [flyga](/sv/drommar/flyga/) som besläktad drömsymbol.
+Det är ofta värt att lägga märke till vilken fågel det är, eftersom olika fåglar bär olika associationer: en duva kan kännas som fred och försoning, en uggla kan tolkas som vishet — men också som ett varsel — medan en korp ofta bär med sig något mer mystiskt och tankeväckande. Se även [flyga](/sv/drommar/flyga/) som en besläktad drömsymbol.
 
 ## Drömguiden rekommenderar
 

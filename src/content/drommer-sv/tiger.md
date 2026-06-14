@@ -56,11 +56,13 @@ Ett kraftfullt, respektfullt erkännande av något starkt i dig själv. En fin d
 En ung, växande kraft. Potential som ännu inte är fullt utvecklad.
 
 
-## Psykologiska och kulturella perspektiv
+## Rå kraft och det otämjda
 
-I kinesisk tradition är tigern ett av de tolv djuren i zodiakcykeln och symboliserar mod, energi och beskydd. Tigerpersoner sägs vara karismatiska men impulsiva. I hinduismen avbildas gudinnan Durga ridande på en tiger — kraft i gudinnans tjänst.
+Tigern kan tolkas som en bild av en rå, okontrollerad kraft inom dig — passion, ilska eller ett instinkt som inte riktigt låter sig tämjas. Ofta är det en kraft du själv känner igen, men kanske inte vill visa upp: drömmen kan då tolkas som en inbjudan att lära känna din egen intensitet bättre, istället för att skjuta undan den.
 
-Jung såg tigern som en manifestation av Skuggan i sin mest vilda form — inte olikt [ormen](/sv/drommar/orm/) — de sidor av oss vi inte integrerat, men som har enorm energi. Drömmen är en inbjudan att möta dessa sidor med respekt snarare än rädsla.
+En tiger som smyger eller verkar hotfull kan tolkas som en fara eller en stark känsla du har undvikit att förhålla dig till. Att möta tigern, eller till och med tämja den i drömmen, kan tolkas som ett tecken på att du är på väg att använda den här kraften på ett sätt som gynnar dig, istället för att låta den styra dig.
+
+I kinesisk tradition är tigern ett av de tolv djuren i den astrologiska cykeln och förknippas med mod, styrka och skydd mot det onda. I hinduistisk mytologi rider gudinnan Durga på en tiger eller lejon — en bild av en våldsam men beskyddande kvinnlig kraft. Tigern är också ett djur som lever mycket för sig själv, och drömmen kan därför även handla om oberoende och självständighet — styrkan i att stå på egna ben.
 
 
 ## Drömguiden rekommenderar

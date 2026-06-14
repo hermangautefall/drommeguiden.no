@@ -65,13 +65,13 @@ Et kor av impulser, muligheter eller budskaper — noe er ladet og aktivt.
 **Hvis fuglen var svart:**
 Se [kråke](/drommer/krage/)-siden — svarte fugler bærer sin egen, rikere symbolikk.
 
-## Psykologiske og kulturelle perspektiver
+## Sjel, frihet og budskap
 
-Odins to ravner, Hugin (tanken) og Munin (minnet), fløy ut over verden hver morgen og brakte ham kunnskap om alt som skjedde. Fugler som kunnskapsformidlere og sjelens bærere er dypt forankret i norrøn tradisjon — og er en av de sterkeste og mest særegne trekkene ved nordisk mytologi.
+På tvers av kulturer har fuglen lenge vært et bilde på sjelen, ånden og det som kan løsrive seg fra det tunge og materielle. En fugl som sitter i et bur kan tolkes som en følelse av å være fanget eller begrenset, mens en fugl som svever fritt ofte tolkes som frigjøring, perspektiv eller en lengsel etter å heve seg over en vanskelig situasjon.
 
-Carl Jung beskrev fugler generelt som symboler på tanker og ideer som er frigjort fra det konkrete og materielle — sjelen i sin letteste og friest bevegelige form. Å drømme om fugl er å drømme om psykens evne til å bevege seg uhindret.
+I mange tradisjoner har fugler også vært budbringere — varsler om nytt, tegn på at noe er på vei. Drømmen kan derfor handle om tanker, ideer eller håp som er i bevegelse, som "letter" og finner en ny form. En fugl som flyr bort kan på samme måte tolkes som noe du må gi slipp på, eller en mulighet som glipper.
 
-Interessant nok er fugledrømmene blant dem med bredest positiv resonans i drømmeforskning — de oppleves sjelden som skremmende, og de etterlater gjerne en følelse av frihet og letthet som sitter igjen lenge. Se også [flyging](/drommer/flyging/) som beslektet drømmesymbol.
+Det er ofte verdt å legge merke til hvilken fugl det er, siden ulike fugler bærer ulike assosiasjoner: en due kan kjennes som fred og forsoning, en ugle kan tolkes som visdom — men også som et varsel — mens en ravn ofte bærer noe mer mystisk og tankefullt med seg. Se også [flyging](/drommer/flyging/) som et beslektet drømmesymbol.
 
 ## Drømmeguiden anbefaler
 
