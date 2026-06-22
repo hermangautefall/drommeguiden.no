@@ -138,7 +138,7 @@ const hreflangLinks = [
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Hanken+Grotesk:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
 
@@ -188,6 +188,25 @@ const hreflangLinks = [
     <slot name="head" />
   </head>
   <body class="min-h-screen flex flex-col bg-pattern" style="background-color: var(--color-bg-cream); color: var(--color-text-body);">
+    <div class="site-bg" aria-hidden="true">
+      <div class="waves">
+        <div class="wave w1"></div>
+        <div class="wave w2"></div>
+        <div class="wave w3"></div>
+      </div>
+      <div class="shape blob1"></div>
+      <div class="shape blob2"></div>
+      <div class="shape blob3"></div>
+      <div class="system s1">
+        <div class="ring r3"><span class="moon"></span></div>
+        <div class="ring r2"><span class="moon sm"></span></div>
+        <div class="ring r1"><span class="moon"></span></div>
+      </div>
+      <div class="system s2">
+        <div class="ring r2"><span class="moon sm"></span></div>
+        <div class="ring r1"><span class="moon"></span></div>
+      </div>
+    </div>
     {progress && <ReadingProgress />}
     <Header lang={lang} alternates={alternates} />
 

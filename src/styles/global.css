@@ -16,40 +16,46 @@ img, video, iframe, svg {
 }
 
 @theme {
-  --color-primary: #7B6FA0;
-  --color-accent: #C08070;
-  --color-bg-cream: #F5F0EC;
-  --color-bg-dark: #1a1f3a;
-  --color-text-heading: #1a1f3a;
+  --color-primary: #b56a4b;
+  --color-accent: #b56a4b;
+  --color-bg-cream: #f5f1ea;
+  --color-bg-dark: #1c1916;
+  --color-text-heading: #24211c;
   --color-text-body: #2d2926;
-  --color-text-muted: #6b6560;
+  --color-text-muted: #5b554c;
 
-  --font-heading: 'Instrument Serif', serif;
-  --font-body: 'Geist', sans-serif;
-  --font-nav: 'Geist', sans-serif;
+  --font-heading: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Hanken Grotesk', -apple-system, system-ui, sans-serif;
+  --font-nav: 'Hanken Grotesk', -apple-system, system-ui, sans-serif;
 }
 
 :root {
-  /* Farger */
-  --color-primary:        #7B6FA0;
-  --color-primary-light:  rgba(123, 111, 160, 0.09);
-  --color-primary-border: rgba(123, 111, 160, 0.35);
-  --color-accent:         #C08070;
-  --color-bg-cream:       #F5F0EC;
+  /* Farger — «Morgenlys (Bølger)»: varm papirpalett, én leiraksent + gull */
+  --color-primary:        #b56a4b;
+  --color-primary-light:  rgba(181, 106, 75, 0.09);
+  --color-primary-border: rgba(181, 106, 75, 0.35);
+  --color-accent:         #b56a4b;
+  --color-clay-soft:      #cf8b6f;
+  --color-gold:           #c9a25a;
+  --color-bg-cream:       #f5f1ea;   /* paper */
+  --color-paper-2:        #efe9df;   /* sekundær flate */
+  --color-card:           #fbf9f5;
   --color-bg-white:       #FFFFFF;
-  --color-bg-dark:        #0f1328;
-  --color-bg-section:     rgba(123, 111, 160, 0.06);
-  --color-contact-bg:     rgba(92, 75, 130, 0.45);
-  --color-text-heading:   #1a1f3a;
+  --color-bg-dark:        #1c1916;   /* varm blekk for mørke flater */
+  --color-bg-section:     rgba(181, 106, 75, 0.06);
+  --color-contact-bg:     rgba(40, 35, 28, 0.55);
+  --color-text-heading:   #24211c;   /* ink */
   --color-text-body:      #2d2926;
-  --color-text-muted:     #6b6560;
-  --color-shadow:         rgba(26, 31, 58, 0.06);
-  --color-star:           #C08070;
+  --color-text-muted:     #5b554c;   /* ink-soft */
+  --color-text-faint:     #8d877c;   /* ink-faint */
+  --color-line:           rgba(40, 35, 28, 0.10);
+  --color-shadow:         rgba(40, 30, 20, 0.08);
+  --color-star:           #c9a25a;
 
   /* Typografi */
-  --font-heading: 'Instrument Serif', serif;
-  --font-body:    'Geist', sans-serif;
-  --font-nav:     'Geist', sans-serif;
+  --font-heading: 'Cormorant Garamond', Georgia, serif;
+  --font-body:    'Hanken Grotesk', -apple-system, system-ui, sans-serif;
+  --font-nav:     'Hanken Grotesk', -apple-system, system-ui, sans-serif;
   --font-size-h1:   48px;
   --font-size-h2:   38px;
   --font-size-h3:   26px;
@@ -71,19 +77,19 @@ img, video, iframe, svg {
   --border-radius-pill:  100px;
   --border-radius-card:  16px;
   --border-radius-input: 8px;
-  --box-shadow-card:     0 2px 8px rgba(26, 31, 58, 0.04), 0 8px 32px rgba(26, 31, 58, 0.06);
-  --box-shadow-hover:    0 8px 24px rgba(26, 31, 58, 0.08), 0 24px 48px rgba(26, 31, 58, 0.06);
-  --box-shadow-dreamy:   0 8px 40px rgba(123, 111, 160, 0.12), 0 2px 12px rgba(192, 128, 112, 0.06);
+  --box-shadow-card:     0 2px 8px rgba(40, 30, 20, 0.05), 0 8px 32px rgba(40, 30, 20, 0.07);
+  --box-shadow-hover:    0 8px 24px rgba(40, 30, 20, 0.10), 0 24px 48px rgba(40, 30, 20, 0.08);
+  --box-shadow-dreamy:   0 30px 70px -40px rgba(40, 30, 20, 0.4), 0 2px 12px rgba(181, 106, 75, 0.06);
   --letter-spacing-btn:  0.5px;
   --transition:          all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 
   /* Legacy aliases */
-  --color-natt: #1a1f3a;
-  --color-krem: #f2ede6;
-  --color-sand: #e8e0d4;
-  --color-terrakotta: #c08070;
+  --color-natt: #1c1916;
+  --color-krem: #f5f1ea;
+  --color-sand: #efe9df;
+  --color-terrakotta: #b56a4b;
   --color-tekst: #2d2926;
-  --color-subtil: #6b6560;
+  --color-subtil: #5b554c;
 }
 
 html {
@@ -119,31 +125,74 @@ a:hover {
   text-decoration: underline;
 }
 
-/* ========== DREAMY BACKGROUND ========== */
+/* ========== MORGENLYS (BØLGER) BACKGROUND ========== */
 .bg-pattern {
   position: relative;
-  background:
-    radial-gradient(ellipse 600px 600px at 15% 8%, rgba(123, 111, 160, 0.07) 0%, transparent 100%),
-    radial-gradient(ellipse 500px 400px at 85% 25%, rgba(192, 128, 112, 0.05) 0%, transparent 100%),
-    radial-gradient(ellipse 700px 500px at 50% 60%, rgba(123, 111, 160, 0.04) 0%, transparent 100%),
-    radial-gradient(ellipse 400px 400px at 80% 85%, rgba(192, 128, 112, 0.06) 0%, transparent 100%),
-    radial-gradient(ellipse 500px 500px at 10% 90%, rgba(123, 111, 160, 0.05) 0%, transparent 100%),
-    var(--color-bg-cream);
+  background: var(--color-bg-cream);
 }
-.bg-pattern::before {
-  content: '';
+/* organisk film-grain-overlay */
+body::before {
+  content: "";
   position: fixed;
   inset: 0;
   pointer-events: none;
-  z-index: 0;
-  background-image:
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='600' viewBox='0 0 1200 600'%3E%3Cdefs%3E%3ClinearGradient id='a' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='rgba(123,111,160,0)' /%3E%3Cstop offset='.5' stop-color='rgba(123,111,160,0.14)' /%3E%3Cstop offset='1' stop-color='rgba(123,111,160,0)' /%3E%3C/linearGradient%3E%3ClinearGradient id='b' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='rgba(192,128,112,0)' /%3E%3Cstop offset='.5' stop-color='rgba(192,128,112,0.1)' /%3E%3Cstop offset='1' stop-color='rgba(192,128,112,0)' /%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath d='M0 300 C100 220 200 180 350 240 C500 300 550 380 700 340 C850 300 950 200 1200 260 L1200 600 L0 600Z' fill='url(%23a)'/%3E%3Cpath d='M0 380 C150 320 250 340 400 400 C550 460 700 420 850 360 C1000 300 1100 340 1200 380 L1200 600 L0 600Z' fill='url(%23b)'/%3E%3Cpath d='M0 200 C200 160 300 260 500 220 C700 180 800 120 1000 180 C1100 210 1150 240 1200 220 L1200 0 L0 0Z' fill='url(%23a)' opacity='.7'/%3E%3Cpath d='M0 450 C80 410 200 430 380 480 C560 530 680 490 820 440 C960 390 1080 430 1200 470 L1200 600 L0 600Z' fill='url(%23a)' opacity='.5'/%3E%3Cpath d='M0 140 C150 100 350 170 500 130 C650 90 750 60 900 120 C1050 180 1150 130 1200 110 L1200 0 L0 0Z' fill='url(%23b)' opacity='.6'/%3E%3C/svg%3E");
-  background-size: 1200px 600px;
-  background-repeat: repeat;
+  z-index: 60;
+  opacity: .5;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
 }
+/* hold sideinnhold over bakgrunnen */
 .bg-pattern > * {
   position: relative;
   z-index: 1;
+}
+
+/* fast, omsluttende bakgrunnslag (bølger + lys-blobs + ringsystemer) */
+.site-bg { position: fixed; inset: 0; z-index: 0; pointer-events: none; overflow: hidden; }
+
+/* flytende bølge-tekstur (lagdelt, drivende) */
+.site-bg .waves {
+  position: absolute; inset: 0;
+  -webkit-mask-image: radial-gradient(ellipse at 50% 36%, #000 32%, transparent 84%);
+  mask-image: radial-gradient(ellipse at 50% 36%, #000 32%, transparent 84%);
+}
+.site-bg .wave { position: absolute; inset: -12% -12%; background-repeat: repeat; will-change: background-position; }
+.site-bg .wave.w1 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='78'%3E%3Cpath d='M0 24 C40 10 80 10 120 24 S200 38 240 24' fill='none' stroke='%23b88a4e' stroke-opacity='0.17' stroke-width='1.4'/%3E%3C/svg%3E"); background-size: 240px 78px; animation: flow1 64s linear infinite; }
+.site-bg .wave.w2 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='58'%3E%3Cpath d='M0 16 C30 6 60 6 90 16 S150 26 180 16' fill='none' stroke='%23b56a4b' stroke-opacity='0.14' stroke-width='1.2'/%3E%3C/svg%3E"); background-size: 180px 58px; animation: flow2 46s linear infinite; }
+.site-bg .wave.w3 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='130' height='40'%3E%3Cpath d='M0 11 C22 4 43 4 65 11 S108 18 130 11' fill='none' stroke='%239694c4' stroke-opacity='0.12' stroke-width='1'/%3E%3C/svg%3E"); background-size: 130px 40px; animation: flow3 36s linear infinite; }
+@keyframes flow1 { to { background-position: 240px 0; } }
+@keyframes flow2 { to { background-position: -180px 0; } }
+@keyframes flow3 { to { background-position: 130px 0; } }
+
+/* orbitale ringsystemer — former i sakte bevegelse */
+.site-bg .system { position: absolute; width: 0; height: 0; }
+.site-bg .system .ring { position: absolute; left: 0; top: 0; border: 1px solid rgba(169,113,79,.18); border-radius: 50%; transform: translate(-50%,-50%); }
+.site-bg .system .moon { position: absolute; top: -5px; left: 50%; width: 10px; height: 10px; margin-left: -5px; border-radius: 50%; background: radial-gradient(circle at 35% 35%,#f3e4c4,#caa35a); box-shadow: 0 0 12px rgba(201,162,90,.55); }
+.site-bg .system .moon.sm { width: 7px; height: 7px; margin-left: -3.5px; top: -3.5px; background: radial-gradient(circle at 35% 35%,#f0dcc6,#b9824f); }
+.site-bg .s1 { top: 7%; right: -70px; }
+.site-bg .s2 { bottom: 3%; left: -50px; }
+.site-bg .ring.r1 { width: 260px; height: 260px; animation: spin 48s linear infinite; }
+.site-bg .ring.r2 { width: 430px; height: 430px; border-color: rgba(169,113,79,.13); animation: spin 80s linear infinite reverse; }
+.site-bg .ring.r3 { width: 620px; height: 620px; border-color: rgba(150,148,196,.14); animation: spin 122s linear infinite; }
+.site-bg .s2 .ring.r1 { width: 200px; height: 200px; animation-duration: 62s; }
+.site-bg .s2 .ring.r2 { width: 350px; height: 350px; animation-duration: 94s; }
+@keyframes spin { to { transform: translate(-50%,-50%) rotate(360deg); } }
+
+/* morfende varme lys-former */
+.site-bg .shape { position: absolute; filter: blur(40px); will-change: transform, border-radius; }
+.site-bg .blob1 { width: 380px; height: 380px; left: -60px; top: 5%; background: radial-gradient(circle at 40% 40%,rgba(201,162,90,.26),transparent 70%); animation: morph 26s ease-in-out infinite, sway1 42s ease-in-out infinite; }
+.site-bg .blob2 { width: 430px; height: 430px; right: -90px; top: 40%; background: radial-gradient(circle at 40% 40%,rgba(207,139,111,.20),transparent 70%); animation: morph 32s ease-in-out infinite reverse, sway2 54s ease-in-out infinite; }
+.site-bg .blob3 { width: 340px; height: 340px; left: 28%; bottom: -50px; background: radial-gradient(circle at 40% 40%,rgba(150,148,196,.16),transparent 70%); animation: morph 30s ease-in-out infinite, sway1 64s ease-in-out infinite; }
+@keyframes morph {
+  0%,100% { border-radius: 60% 40% 55% 45%/55% 45% 60% 40%; }
+  33% { border-radius: 42% 58% 45% 55%/52% 60% 40% 48%; }
+  66% { border-radius: 55% 45% 62% 38%/45% 52% 55% 50%; }
+}
+@keyframes sway1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(40px,-30px); } }
+@keyframes sway2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-46px,28px); } }
+
+@media (prefers-reduced-motion: reduce) {
+  .site-bg .wave, .site-bg .system .ring, .site-bg .shape { animation: none !important; }
 }
 
 /* ========== GLASS EFFECT ========== */
