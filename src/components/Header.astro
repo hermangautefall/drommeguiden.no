@@ -42,7 +42,9 @@ const langLinks = (Object.keys(languages) as Lang[]).map(l => {
   <nav class="header-nav">
     <!-- Logo -->
     <a href={homePath(lang)} class="header-logo hover:no-underline">
-      <span class="header-moon" aria-hidden="true">🌙</span>
+      <svg class="header-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M20 14.5A8 8 0 0 1 9.5 4 7 7 0 1 0 20 14.5Z"/>
+      </svg>
       <span class="header-brand">{langConfig.brand}</span>
     </a>
 
@@ -176,7 +178,10 @@ const langLinks = (Object.keys(languages) as Lang[]).map(l => {
     text-decoration: none;
   }
   .header-moon {
-    font-size: 20px;
+    width: 26px;
+    height: 26px;
+    color: var(--color-accent);
+    flex: none;
   }
   .header-brand {
     font-family: var(--font-heading);
