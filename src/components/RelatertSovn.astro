@@ -14,9 +14,12 @@ interface Props {
 const { artikler, lang = defaultLang } = Astro.props;
 const hasItems = Array.isArray(artikler) && artikler.length > 0;
 
-const labels = lang === 'sv'
-  ? { badge: 'Sömnsektionen', title: 'Sömn och dröm hör ihop', meta: 'min läsning' }
-  : { badge: 'Søvnseksjonen', title: 'Søvn og drømmer henger sammen', meta: 'min lesetid' };
+const labelsByLang: Record<Lang, { badge: string; title: string; meta: string }> = {
+  nb: { badge: 'Søvnseksjonen', title: 'Søvn og drømmer henger sammen', meta: 'min lesetid' },
+  sv: { badge: 'Sömnsektionen', title: 'Sömn och dröm hör ihop', meta: 'min läsning' },
+  en: { badge: 'The sleep section', title: 'Sleep and dreams are connected', meta: 'min read' },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
 ---
 
 {hasItems && (

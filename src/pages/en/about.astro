@@ -1,0 +1,109 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getAuthor } from '../../data/authors';
+
+const author = getAuthor('default');
+const spotifyUrl = author.sameAs.find((u) => u.includes('spotify.com')) || null;
+---
+
+<Base
+  lang="en"
+  tittel="About us"
+  beskrivelse="The Dream Guide is made for anyone who wakes up with a dream on their mind and wonders what it means. Meet the editor and see how we work."
+  alternates={[
+    { lang: 'nb', url: 'https://drommeguiden.no/om-oss/' },
+    { lang: 'sv', url: 'https://drommeguiden.no/sv/om-oss/' },
+    { lang: 'en', url: 'https://drommeguiden.no/en/about/' },
+  ]}
+>
+  <div class="static-page">
+    <span class="static-label">About us</span>
+    <h1 class="static-title">About the Dream Guide</h1>
+
+    <div class="prose">
+      <p>
+        The Dream Guide is made for anyone who wakes up with a dream on their mind and wonders what it means. We believe dreams are a valuable source of self-insight — not magic or fortune-telling, but a window into the unconscious that deserves to be taken seriously.
+      </p>
+
+      <h2>Who's behind the Dream Guide</h2>
+      <p>
+        The Dream Guide is run and edited by <strong>{author.name}</strong>.
+      </p>
+      <p>
+        Isac Levine is a Norwegian pianist and composer who writes neoclassical piano music for rest, relaxation and sleep. With a muted, melodic style, he creates quiet soundscapes where thoughts can settle — music made for the calm hours before night takes over.
+      </p>
+      <p>
+        Releases such as <em>Stillhet</em>, <em>Over Havet</em>, <em>Reflections</em> and <em>Clarity</em> all carry the same signature: simple, intimate piano melodies without unnecessary noise, where the pauses matter as much as the notes. The music is a natural companion to the dreams and sleep we write about here on the Dream Guide.
+      </p>
+      {spotifyUrl && (
+        <p>
+          You can hear Isac Levine on <a href={spotifyUrl} target="_blank" rel="noopener noreferrer">Spotify</a>.
+        </p>
+      )}
+
+      <h2>Why this site exists</h2>
+      <p>
+        Most of what's out there about dreams in English is either a short, shallow reference entry or a mystical fortune-telling site with no grounding in scholarship. We felt this topic deserved something better — a serious, warm and readable resource that is neither reductive nor mystical. We write because dreams are a part of human life that has fascinated people across time and cultures, and because we believe the imagery of the night deserves to be met with the same respect as the imagery of the day.
+      </p>
+
+      <h2>How we approach dream interpretation</h2>
+      <p>
+        We draw on three main sources when we write about dream symbols. <strong>Norse and Nordic heritage</strong> gives us a local symbolic language that's often missing from international dream dictionaries — from the stags of Yggdrasil to the mead of poetry. <strong>Jungian psychology</strong> gives us a vocabulary for the archetypes of the unconscious — the Persona, the anima/animus, and the process of individuation. <strong>Comparative culture and religion</strong> gives us perspectives from Islam, Hinduism, Buddhism, Indigenous traditions and the world's mythologies — because dreams have never been just a local phenomenon.
+      </p>
+      <p>
+        We deliberately avoid absolute claims. You'll never read "this dream MEANS that..." on our site; you'll read "can mean," "is often interpreted as," and "ask yourself." Dreams are personal, and the interpretation is always yours to make.
+      </p>
+
+      <h2>How we approach sleep content</h2>
+      <p>
+        Our sleep section stands on different ground than the dream pages. Here we write about sleep science, sleep hygiene and sleep disorders based on peer-reviewed research, clinical guidelines and recommendations from public health institutions. We don't cite every source directly in the text, for readability, but the content is built on established literature from sources including Sleep Medicine Reviews, Journal of Sleep Research, the NIH, the CDC and Nordic and international public health bodies.
+      </p>
+      <p>
+        We update the sleep articles whenever new research calls for it, and we flag clearly where expert opinion is still divided or the evidence is inconclusive. We never give specific medical advice. Sleep problems that persist or distress you should always be assessed by a doctor or a sleep specialist.
+      </p>
+
+      <h2>We are not therapists</h2>
+      <p>
+        This is important to state clearly: we are not psychologists, psychiatrists, therapists or doctors. Our content does not replace professional care. We offer <em>reflection</em>, not <em>diagnosis</em>. If you're struggling with recurring nightmares, serious sleep disorders, trauma or mental illness, we strongly encourage you to reach out to a doctor, a qualified therapist, or your local health services.
+      </p>
+
+      <h2>Contact and editorial feedback</h2>
+      <p>
+        We welcome feedback, corrections and suggestions with open arms. Spotted a factual error, an unclear passage, a symbol we're missing, or a cultural angle we got wrong? Let us know. The Dream Guide is a living project, and its quality depends on readers speaking up when something isn't right.
+      </p>
+      <p>
+        <a href="/en/contact/">Get in touch here &rarr;</a>
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 32px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+  .prose h2 {
+    margin-top: 2.5rem;
+  }
+</style>

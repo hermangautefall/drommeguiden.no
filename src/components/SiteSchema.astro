@@ -11,19 +11,27 @@ const { lang = defaultLang } = Astro.props;
 
 const baseSite = 'https://drommeguiden.no';
 
-const config = lang === 'sv'
-  ? {
-      name: 'Drömguiden',
-      url: `${baseSite}/sv/`,
-      inLanguage: 'sv',
-      searchTarget: `${baseSite}/sv/drommar/?q={search_term_string}`,
-    }
-  : {
-      name: 'Drømmeguiden',
-      url: `${baseSite}/`,
-      inLanguage: 'nb',
-      searchTarget: `${baseSite}/drommer/?q={search_term_string}`,
-    };
+const configByLang: Record<Lang, { name: string; url: string; inLanguage: string; searchTarget: string }> = {
+  nb: {
+    name: 'Drømmeguiden',
+    url: `${baseSite}/`,
+    inLanguage: 'nb',
+    searchTarget: `${baseSite}/drommer/?q={search_term_string}`,
+  },
+  sv: {
+    name: 'Drömguiden',
+    url: `${baseSite}/sv/`,
+    inLanguage: 'sv',
+    searchTarget: `${baseSite}/sv/drommar/?q={search_term_string}`,
+  },
+  en: {
+    name: 'The Dream Guide',
+    url: `${baseSite}/en/`,
+    inLanguage: 'en',
+    searchTarget: `${baseSite}/en/dreams/?q={search_term_string}`,
+  },
+};
+const config = configByLang[lang] ?? configByLang.nb;
 
 const website = {
   '@context': 'https://schema.org',

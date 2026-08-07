@@ -8,8 +8,10 @@ interface Props {
 }
 
 const { relaterte, lang = defaultLang } = Astro.props;
-const label = lang === 'sv' ? 'Utforska vidare' : 'Utforsk videre';
-const title = lang === 'sv' ? 'Relaterade drömsymboler' : 'Relaterte drømmesymboler';
+const labelByLang: Record<Lang, string> = { nb: 'Utforsk videre', sv: 'Utforska vidare', en: 'Explore further' };
+const label = labelByLang[lang] ?? labelByLang.nb;
+const titleByLang: Record<Lang, string> = { nb: 'Relaterte drømmesymboler', sv: 'Relaterade drömsymboler', en: 'Related dream symbols' };
+const title = titleByLang[lang] ?? titleByLang.nb;
 ---
 
 {relaterte.length > 0 && (

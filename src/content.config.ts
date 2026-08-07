@@ -19,6 +19,7 @@ const drommerSchema = z
     oppdatert: z.coerce.date().optional(),
     sv_slug: z.string().optional(),
     nb_slug: z.string().optional(),
+    en_slug: z.string().optional(),
     author: z.string().optional(),
     sensitivt: z.boolean().optional(),
     relaterte_sovn: z.array(z.string()).optional(),
@@ -38,6 +39,7 @@ const sovnSchema = z
     bilde: z.string().optional(),
     sv_slug: z.string().optional(),
     nb_slug: z.string().optional(),
+    en_slug: z.string().optional(),
     author: z.string().optional(),
     relaterte_sovn: z.array(z.string()).optional(),
     relaterte_drommer: z.array(z.string()).optional(),
@@ -78,6 +80,22 @@ export const collections = {
   }),
   'kategorier-sv': defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/kategorier-sv' }),
+    schema: looseSchema,
+  }),
+  'drommer-en': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/drommer-en' }),
+    schema: drommerSchema,
+  }),
+  'sovn-en': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/sovn-en' }),
+    schema: sovnSchema,
+  }),
+  'guider-en': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/guider-en' }),
+    schema: looseSchema,
+  }),
+  'kategorier-en': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/kategorier-en' }),
     schema: looseSchema,
   }),
 };

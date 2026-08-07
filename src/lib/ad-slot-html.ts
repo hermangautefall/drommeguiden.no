@@ -6,7 +6,7 @@ export interface AdSlotOptions {
   format: 'in-content' | 'bottom' | 'sidebar';
   slotId?: string;
   dataAdFormat?: string;
-  lang?: 'nb' | 'sv';
+  lang?: 'nb' | 'sv' | 'en';
 }
 
 const CLIENT_ID = 'ca-pub-6610380824794050';
@@ -17,7 +17,8 @@ function escape(s: string): string {
 
 export function adSlotHtml(opts: AdSlotOptions): string {
   const { format, slotId = 'placeholder', dataAdFormat = 'auto', lang = 'nb' } = opts;
-  const label = lang === 'sv' ? 'Annons' : 'Annonse';
+  const labelByLang: Record<string, string> = { nb: 'Annonse', sv: 'Annons', en: 'Advertisement' };
+  const label = labelByLang[lang] ?? labelByLang.nb;
   const isPlaceholder = slotId === 'placeholder';
 
   // Inline-CSS holder reservert plass — sikrer at CLS-måling

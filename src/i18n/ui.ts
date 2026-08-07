@@ -105,6 +105,58 @@ export const ui = {
     'dato.publisert': 'Publicerad',
     'dato.oppdatert': 'Uppdaterad',
   },
+  en: {
+    'nav.symboler': 'Symbols',
+    'nav.kategorier': 'Categories',
+    'nav.guider': 'Guides',
+    'nav.sovn': 'Sleep',
+    'nav.omOss': 'About us',
+    'nav.kontakt': 'Contact',
+    'nav.personvern': 'Privacy',
+
+    'cta.utforskSymboler': 'Explore symbols',
+    'cta.lesMer': 'Read more',
+    'cta.tilbake': 'Back',
+    'cta.lesGuidene': 'Read the guides',
+
+    'hero.undertittel': 'Explore the dream guide',
+    'hero.beskrivelse': 'Search over 200 dream symbols — from snakes and oceans to teeth and flying. Based on both research and folk tradition.',
+
+    'sok.placeholder': 'Search for a dream symbol...',
+
+    'footer.tagline': 'Your guide to dreams and their meaning.',
+    'footer.utforsk': 'Explore',
+    'footer.populart': 'Popular',
+    'footer.info': 'Info',
+    'footer.copyright': 'All rights reserved.',
+
+    'symbol.tolkningerTittel': 'Common interpretations',
+    'symbol.tlDr': 'Quick interpretation',
+    'symbol.metaPublisert': 'Published',
+    'symbol.lesetid': 'min read',
+    'symbol.relaterte': 'Related dream symbols',
+    'symbol.utforskVidere': 'Explore further',
+
+    'sovn.tittel': 'Sleep',
+    'sovn.subtitle': 'Science, habits and better nights — everything you need to know about sleep, based on research.',
+    'sovn.artikler': 'articles',
+    'sovn.seksjon': 'The sleep section',
+    'sovn.forbindelsen': 'The connection',
+    'sovn.bridgeTittel': 'Sleep and dreams are connected',
+    'sovn.bridgeTekst': 'Dreams happen during REM sleep — and your sleep quality directly shapes what you dream. Explore over 200 dream symbols in our complete dream guide.',
+    'sovn.bridgeCta': 'Explore dream symbols',
+
+    'sitemap.alle': 'All dream symbols',
+    'sitemap.alleSovn': 'All sleep articles',
+    'sitemap.alleGuider': 'All guides',
+    'sitemap.alleKategorier': 'All categories',
+
+    'lang.label': 'Language',
+    'lang.bytt': 'Change language',
+
+    'dato.publisert': 'Published',
+    'dato.oppdatert': 'Updated',
+  },
 } as const satisfies Record<Lang, Record<string, string>>;
 
 export type UIKey = keyof typeof ui.nb;

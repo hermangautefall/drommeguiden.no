@@ -21,13 +21,24 @@ export const languages = {
     brand: 'Drömguiden',
     dir: 'ltr',
   },
+  en: {
+    code: 'en',
+    locale: 'en_US',
+    flag: '🇬🇧',
+    label: 'English',
+    shortLabel: 'EN',
+    htmlLang: 'en',
+    basePath: '/en',
+    brand: 'The Dream Guide',
+    dir: 'ltr',
+  },
 } as const;
 
 export type Lang = keyof typeof languages;
 
 export const defaultLang: Lang = 'nb';
 
-export const supportedLangs: Lang[] = ['nb', 'sv'];
+export const supportedLangs: Lang[] = ['nb', 'sv', 'en'];
 
 export const pathSegments = {
   nb: {
@@ -48,6 +59,16 @@ export const pathSegments = {
     omOss: 'om-oss',
     kontakt: 'kontakt',
     personvern: 'integritet',
+    cookies: 'cookies',
+  },
+  en: {
+    drommer: 'dreams',
+    kategori: 'category',
+    guider: 'guides',
+    sovn: 'sleep',
+    omOss: 'about',
+    kontakt: 'contact',
+    personvern: 'privacy',
     cookies: 'cookies',
   },
 } as const;

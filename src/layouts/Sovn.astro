@@ -61,15 +61,33 @@ const kategoriMapSv: Record<string, { label: string; color: string; bg: string }
   produkter: { label: 'Produkter', color: '#B8960C', bg: 'rgba(184, 150, 12, 0.1)' },
   psykologi: { label: 'Sömnpsykologi', color: '#9B7FBF', bg: 'rgba(155, 127, 191, 0.1)' },
 };
-const kategoriMap = lang === 'sv' ? kategoriMapSv : kategoriMapNb;
+const kategoriMapEn: Record<string, { label: string; color: string; bg: string }> = {
+  vitenskap: { label: 'Sleep science', color: '#7B6FA0', bg: 'rgba(123, 111, 160, 0.1)' },
+  hygiene: { label: 'Sleep hygiene', color: '#1D9E75', bg: 'rgba(29, 158, 117, 0.1)' },
+  lidelser: { label: 'Sleep disorders', color: '#C07050', bg: 'rgba(192, 112, 80, 0.1)' },
+  livsfaser: { label: 'Life stages', color: '#4A8BBF', bg: 'rgba(74, 139, 191, 0.1)' },
+  produkter: { label: 'Products', color: '#B8960C', bg: 'rgba(184, 150, 12, 0.1)' },
+  psykologi: { label: 'Sleep psychology', color: '#9B7FBF', bg: 'rgba(155, 127, 191, 0.1)' },
+};
+const kategoriMapByLang: Record<Lang, Record<string, { label: string; color: string; bg: string }>> = {
+  nb: kategoriMapNb,
+  sv: kategoriMapSv,
+  en: kategoriMapEn,
+};
+const kategoriMap = kategoriMapByLang[lang] ?? kategoriMapByLang.nb;
 const kat = kategoriMap[kategori] || kategoriMap.vitenskap;
 
-const labels = lang === 'sv'
-  ? { hjem: 'Hem', sovn: 'Sömn', breadcrumb: 'Brödsmulor', lesetid: 'min läsning', oppdatert: 'Uppdaterad', innhold: 'Innehåll', relatert: 'Relaterat', lesMer: 'Läs mer om sömn', fraGuiden: 'Från drömguiden', drommerOgSovn: 'Drömmar och sömn', guideLabel: 'Guide', dateLocale: 'sv-SE' }
-  : { hjem: 'Hjem', sovn: 'Søvn', breadcrumb: 'Brødsmuler', lesetid: 'min lesetid', oppdatert: 'Oppdatert', innhold: 'Innhold', relatert: 'Relatert', lesMer: 'Les mer om søvn', fraGuiden: 'Fra drømmeguiden', drommerOgSovn: 'Drømmer og søvn', guideLabel: 'Guide', dateLocale: 'nb-NO' };
+const labelsByLang: Record<Lang, { hjem: string; sovn: string; breadcrumb: string; lesetid: string; oppdatert: string; innhold: string; relatert: string; lesMer: string; fraGuiden: string; drommerOgSovn: string; guideLabel: string; dateLocale: string }> = {
+  nb: { hjem: 'Hjem', sovn: 'Søvn', breadcrumb: 'Brødsmuler', lesetid: 'min lesetid', oppdatert: 'Oppdatert', innhold: 'Innhold', relatert: 'Relatert', lesMer: 'Les mer om søvn', fraGuiden: 'Fra drømmeguiden', drommerOgSovn: 'Drømmer og søvn', guideLabel: 'Guide', dateLocale: 'nb-NO' },
+  sv: { hjem: 'Hem', sovn: 'Sömn', breadcrumb: 'Brödsmulor', lesetid: 'min läsning', oppdatert: 'Uppdaterad', innhold: 'Innehåll', relatert: 'Relaterat', lesMer: 'Läs mer om sömn', fraGuiden: 'Från drömguiden', drommerOgSovn: 'Drömmar och sömn', guideLabel: 'Guide', dateLocale: 'sv-SE' },
+  en: { hjem: 'Home', sovn: 'Sleep', breadcrumb: 'Breadcrumbs', lesetid: 'min read', oppdatert: 'Updated', innhold: 'Contents', relatert: 'Related', lesMer: 'Read more about sleep', fraGuiden: 'From the dream guide', drommerOgSovn: 'Dreams and sleep', guideLabel: 'Guide', dateLocale: 'en-GB' },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
-const sovnCollection = lang === 'sv' ? 'sovn-sv' : 'sovn';
-const guiderCollection = lang === 'sv' ? 'guider-sv' : 'guider';
+const sovnCollectionByLang: Record<Lang, string> = { nb: 'sovn', sv: 'sovn-sv', en: 'sovn-en' };
+const sovnCollection = sovnCollectionByLang[lang] ?? sovnCollectionByLang.nb;
+const guiderCollectionByLang: Record<Lang, string> = { nb: 'guider', sv: 'guider-sv', en: 'guider-en' };
+const guiderCollection = guiderCollectionByLang[lang] ?? guiderCollectionByLang.nb;
 
 const alleSovn = await getCollection(sovnCollection as any);
 const relaterteSovnArtikler = (relaterte_sovn || [])
@@ -81,7 +99,8 @@ const relaterteGuiderArtikler = (relaterte_guider || [])
   .map(s => alleGuider.find((g: any) => g.data.slug === s))
   .filter(Boolean);
 
-const drommerCollection = lang === 'sv' ? 'drommer-sv' : 'drommer';
+const drommerCollectionByLang: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', en: 'drommer-en' };
+const drommerCollection = drommerCollectionByLang[lang] ?? drommerCollectionByLang.nb;
 const alleDrommer = await getCollection(drommerCollection as any);
 const relaterteDrommerArtikler = (relaterte_drommer || [])
   .map(s => alleDrommer.find((d: any) => d.data.slug === s))
@@ -90,15 +109,21 @@ const relaterteDrommerArtikler = (relaterte_drommer || [])
 const baseSite = 'https://drommeguiden.no';
 const canonical = `${baseSite}${pathFor(lang, 'sovn', slug)}`;
 
-const aboutUrl = lang === 'sv' ? '/sv/om-oss/' : '/om-oss/';
-const bylineLabel = lang === 'sv' ? 'Skriven av' : 'Skrevet av';
+const aboutUrlByLang: Record<Lang, string> = { nb: '/om-oss/', sv: '/sv/om-oss/', en: '/en/about/' };
+const aboutUrl = aboutUrlByLang[lang] ?? aboutUrlByLang.nb;
+const bylineLabelByLang: Record<Lang, string> = { nb: 'Skrevet av', sv: 'Skriven av', en: 'Written by' };
+const bylineLabel = bylineLabelByLang[lang] ?? bylineLabelByLang.nb;
 const oppdatertDato = oppdatert ?? dato;
 const oppdatertFmt = oppdatertDato.toLocaleDateString(labels.dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
 
-const disclaimer = lang === 'sv'
-  ? 'Den här artikeln är tänkt som allmän information och reflektion, inte medicinsk rådgivning. Vid ihållande sömnproblem eller allvarliga besvär bör du kontakta vårdcentral eller annan vårdpersonal.'
-  : 'Denne artikkelen er ment som generell informasjon og refleksjon, ikke medisinsk rådgivning. Ved vedvarende søvnproblemer eller alvorlige plager, oppsøk fastlege eller annet helsepersonell.';
-const disclaimerLabel = lang === 'sv' ? 'Viktigt' : 'Viktig';
+const disclaimerByLang: Record<Lang, string> = {
+  nb: 'Denne artikkelen er ment som generell informasjon og refleksjon, ikke medisinsk rådgivning. Ved vedvarende søvnproblemer eller alvorlige plager, oppsøk fastlege eller annet helsepersonell.',
+  sv: 'Den här artikeln är tänkt som allmän information och reflektion, inte medicinsk rådgivning. Vid ihållande sömnproblem eller allvarliga besvär bör du kontakta vårdcentral eller annan vårdpersonal.',
+  en: 'This article is meant as general information and reflection, not medical advice. If you have persistent sleep problems or serious symptoms, please see a doctor or other healthcare professional.',
+};
+const disclaimer = disclaimerByLang[lang] ?? disclaimerByLang.nb;
+const disclaimerLabelByLang: Record<Lang, string> = { nb: 'Viktig', sv: 'Viktigt', en: 'Important' };
+const disclaimerLabel = disclaimerLabelByLang[lang] ?? disclaimerLabelByLang.nb;
 
 const crumbs = [
   { name: labels.hjem, url: homePath(lang) },

@@ -1,0 +1,183 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="en"
+  tittel="Privacy policy"
+  beskrivelse="Read the Dream Guide's privacy policy. What data we collect, why, and what rights you have under GDPR."
+  alternates={[
+    { lang: 'nb', url: 'https://drommeguiden.no/personvern/' },
+    { lang: 'sv', url: 'https://drommeguiden.no/sv/integritet/' },
+    { lang: 'en', url: 'https://drommeguiden.no/en/privacy/' },
+  ]}
+>
+  <div class="static-page">
+    <span class="static-label">Legal</span>
+    <h1 class="static-title">Privacy policy</h1>
+
+    <div class="prose">
+      <p class="lead">
+        The Dream Guide collects a minimum of anonymized data to understand
+        how the site is used and to show advertising. We never sell
+        information about you, and you can withdraw your consent at any
+        time.
+      </p>
+
+      <p><em>Last updated: June 1, 2026</em></p>
+
+      <h2>Who we are</h2>
+      <p>
+        The Dream Guide (drommeguiden.no) is a website providing information
+        about dream symbols and dream interpretation. The site is owned and
+        operated by Herman Gautefall Olsson, who acts as the data controller
+        under the General Data Protection Regulation (GDPR).
+      </p>
+
+      <h2>What data we collect</h2>
+      <p>
+        We do not collect data that directly identifies you (name, phone
+        number or email address) unless you choose to contact us yourself.
+        The data typically collected automatically when you visit the site
+        is:
+      </p>
+      <ul>
+        <li>IP address (anonymized/masked before it is stored)</li>
+        <li>Which pages you visit, for how long, and in what order</li>
+        <li>Clicks and scroll depth on individual pages</li>
+        <li>Browser, operating system and approximate geographic area (country/region)</li>
+        <li>Referral source (which page or search engine you arrived from)</li>
+        <li>Operational data from Cloudflare needed to deliver the site and protect it against abuse</li>
+      </ul>
+
+      <h2>Services we use</h2>
+      <p>We rely on a small number of third-party services to run, analyze and fund the site:</p>
+      <ul>
+        <li>
+          <strong>Google Analytics 4</strong> — anonymized analysis of site
+          usage. Measures how many people visit which pages, how long they
+          stay and where they come from. IP addresses are masked before
+          being stored, and the data is used only in aggregate to improve
+          our content.
+        </li>
+        <li>
+          <strong>Cloudflare</strong> — operationally necessary
+          infrastructure for CDN delivery, DDoS protection and security.
+          Processes technical data such as IP address and request headers
+          in order to deliver the site quickly and safely.
+        </li>
+        <li>
+          <strong>Google AdSense</strong> — we show ads on article pages to
+          fund the operation of the Dream Guide. If you give consent, Google
+          may show personalized ads based on your interests; without
+          consent, only general, non-personalized ads are shown. Google
+          then sets cookies such as <code>_gads</code>, <code>IDE</code>,
+          <code>NID</code> and <code>__gpi</code> to deliver, measure and
+          limit the display of ads. See our
+          <a href="/en/cookies/">cookie policy</a> for an overview.
+        </li>
+      </ul>
+
+      <h2>Legal basis</h2>
+      <p>Our processing of your data is based on the following grounds under GDPR:</p>
+      <ul>
+        <li>
+          <strong>Consent (Art. 6(1)(a)):</strong> for analytics (Google
+          Analytics 4) and advertising (Google AdSense). You give consent
+          via the consent banner the first time you visit the site, and can
+          withdraw it at any time.
+        </li>
+        <li>
+          <strong>Legitimate interest (Art. 6(1)(f)):</strong> for
+          operationally necessary functions such as CDN delivery, DDoS
+          protection and basic security logging via Cloudflare. These
+          cannot be turned off without the site ceasing to function.
+        </li>
+      </ul>
+
+      <h2>Your rights under GDPR</h2>
+      <p>Under the General Data Protection Regulation (GDPR) you have the right to:</p>
+      <ul>
+        <li><strong>Access</strong> — request a copy of the data we hold about you</li>
+        <li><strong>Rectification</strong> — require that inaccurate data be corrected</li>
+        <li><strong>Erasure</strong> — require that your data be deleted (the "right to be forgotten")</li>
+        <li><strong>Data portability</strong> — receive your data in a machine-readable format</li>
+        <li><strong>Object</strong> — object to processing based on legitimate interest</li>
+        <li>
+          <strong>Complain</strong> to
+          <a href="https://www.datatilsynet.no" target="_blank" rel="noopener">the Norwegian Data Protection Authority (Datatilsynet)</a>
+          if you believe we are processing your data in violation of the
+          rules
+        </li>
+      </ul>
+
+      <h2>How to withdraw consent</h2>
+      <p>
+        Once our consent solution is in place, you will find a link labeled
+        <strong>"Cookie settings"</strong> in the footer on every page.
+        There you can change your consent for analytics and advertising at
+        any time, or withdraw it entirely. Changes take effect immediately.
+      </p>
+      <p>
+        You can also block or delete cookies through your browser's own
+        settings. See the <a href="/en/cookies/">cookie policy</a> for
+        concrete steps.
+      </p>
+
+      <h2>More about advertising</h2>
+      <p>
+        Ads on the Dream Guide are delivered through Google AdSense. How
+        Google uses data in connection with advertising is described in
+        <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Google's advertising policy</a>.
+        You can also control what kind of ads are shown to you across
+        Google's services via
+        <a href="https://adssettings.google.com" target="_blank" rel="noopener">adssettings.google.com</a>,
+        independent of your consent on this site.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 24px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+  .prose .lead {
+    font-size: 17px;
+    line-height: 1.7;
+    color: var(--color-text-body);
+    padding: 18px 20px;
+    background: rgba(123, 111, 160, 0.05);
+    border-left: 3px solid var(--color-primary);
+    border-radius: 0 12px 12px 0;
+    margin: 0 0 24px;
+  }
+  .prose code {
+    font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+    font-size: 0.92em;
+    padding: 1px 6px;
+    background: rgba(123, 111, 160, 0.08);
+    border-radius: 4px;
+  }
+</style>

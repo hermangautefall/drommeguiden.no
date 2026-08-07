@@ -7,7 +7,8 @@ interface Props {
 }
 
 const { tolkninger, lang = defaultLang } = Astro.props;
-const label = lang === 'sv' ? 'Kort sammanfattat' : 'Kort oppsummert';
+const labelByLang: Record<Lang, string> = { nb: 'Kort oppsummert', sv: 'Kort sammanfattat', en: 'In short' };
+const label = labelByLang[lang] ?? labelByLang.nb;
 ---
 
 <div class="tldr-box">

@@ -10,7 +10,7 @@ interface Props {
 }
 
 const { format, slotId = 'placeholder', dataAdFormat = 'auto', lang = defaultLang } = Astro.props;
-const html = adSlotHtml({ format, slotId, dataAdFormat, lang: lang as 'nb' | 'sv' });
+const html = adSlotHtml({ format, slotId, dataAdFormat, lang: lang as 'nb' | 'sv' | 'en' });
 ---
 
 <Fragment set:html={html} />

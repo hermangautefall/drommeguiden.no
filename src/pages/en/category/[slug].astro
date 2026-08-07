@@ -1,0 +1,36 @@
+---
+import { getCollection, render } from 'astro:content';
+import Kategori from '../../../layouts/Kategori.astro';
+import { enToNo, noToSv } from '../../../data/categoryMapping';
+import type { Lang } from '../../../i18n/config';
+
+export async function getStaticPaths() {
+  const kategorier = await getCollection('kategorier-en');
+  return kategorier.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const selfUrl = `https://drommeguiden.no/en/category/${entry.data.slug}/`;
+const nbSlug = enToNo[entry.data.slug];
+const svSlug = nbSlug ? noToSv[nbSlug] : undefined;
+
+const alternates: { lang: Lang; url: string }[] = [];
+if (nbSlug) alternates.push({ lang: 'nb', url: `https://drommeguiden.no/kategori/${nbSlug}/` });
+if (svSlug) alternates.push({ lang: 'sv', url: `https://drommeguiden.no/sv/kategori/${svSlug}/` });
+alternates.push({ lang: 'en', url: selfUrl });
+---
+
+<Kategori
+  tittel={entry.data.tittel}
+  kortbeskrivelse={entry.data.kortbeskrivelse}
+  slug={entry.data.slug}
+  lang="en"
+  alternates={alternates}
+>
+  <Content />
+</Kategori>

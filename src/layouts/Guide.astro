@@ -24,9 +24,12 @@ interface Props {
 const { tittel, kortbeskrivelse, slug, leseminutter, dato, bilde, lang = defaultLang, alternates = [] } = Astro.props;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 
-const labels = lang === 'sv'
-  ? { hjem: 'Hem', guider: 'Guider', breadcrumb: 'Brödsmulor', lesetid: 'min läsning', innhold: 'Innehåll' }
-  : { hjem: 'Hjem', guider: 'Guider', breadcrumb: 'Brødsmuler', lesetid: 'min lesetid', innhold: 'Innhold' };
+const labelsByLang: Record<Lang, { hjem: string; guider: string; breadcrumb: string; lesetid: string; innhold: string }> = {
+  nb: { hjem: 'Hjem', guider: 'Guider', breadcrumb: 'Brødsmuler', lesetid: 'min lesetid', innhold: 'Innhold' },
+  sv: { hjem: 'Hem', guider: 'Guider', breadcrumb: 'Brödsmulor', lesetid: 'min läsning', innhold: 'Innehåll' },
+  en: { hjem: 'Home', guider: 'Guides', breadcrumb: 'Breadcrumbs', lesetid: 'min read', innhold: 'Contents' },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
 const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
 ---

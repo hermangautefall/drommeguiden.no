@@ -6,7 +6,8 @@ interface Props {
 }
 
 const { lang = defaultLang } = Astro.props;
-const label = lang === 'sv' ? 'Tillbaka till toppen' : 'Tilbake til toppen';
+const labelByLang: Record<Lang, string> = { nb: 'Tilbake til toppen', sv: 'Tillbaka till toppen', en: 'Back to top' };
+const label = labelByLang[lang] ?? labelByLang.nb;
 ---
 
 <button

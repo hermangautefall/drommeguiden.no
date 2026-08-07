@@ -13,7 +13,7 @@ function escapeHtml(s) {
 }
 
 function buildHtml(lang) {
-  const label = lang === 'sv' ? 'Annons' : 'Annonse';
+  const label = { nb: 'Annonse', sv: 'Annons', en: 'Advertisement' }[lang] ?? 'Annonse';
   const slotId = 'placeholder';
   const dataAdFormat = 'auto';
   // Push-skriptet utelates når slotId === 'placeholder' (ingen AdSense-
@@ -30,11 +30,11 @@ export default function remarkAdSlots() {
   return function transformer(tree, file) {
     const filePath = String(file?.path || file?.history?.[0] || '');
     // Bare drommer- og sovn-kollektioner (alle språk)
-    const inDrommer = /[/\\]content[/\\]drommer(?:-sv)?[/\\]/.test(filePath);
-    const inSovn = /[/\\]content[/\\]sovn(?:-sv)?[/\\]/.test(filePath);
+    const inDrommer = /[/\\]content[/\\]drommer(?:-sv|-en)?[/\\]/.test(filePath);
+    const inSovn = /[/\\]content[/\\]sovn(?:-sv|-en)?[/\\]/.test(filePath);
     if (!inDrommer && !inSovn) return;
 
-    const lang = /-sv[/\\]/.test(filePath) ? 'sv' : 'nb';
+    const lang = /-sv[/\\]/.test(filePath) ? 'sv' : /-en[/\\]/.test(filePath) ? 'en' : 'nb';
 
     // Finn første H2 (depth=2) på toppnivå av treet
     const children = tree.children || [];

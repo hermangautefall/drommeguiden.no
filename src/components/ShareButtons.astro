@@ -25,31 +25,49 @@ const intents = {
   email:     `mailto:?subject=${enc(title)}&body=${enc(absoluteUrl)}`,
 };
 
-const labels = lang === 'sv'
-  ? {
-      facebook: 'Dela på Facebook',
-      messenger: 'Dela i Messenger',
-      whatsapp: 'Dela på WhatsApp',
-      x: 'Dela på X',
-      linkedin: 'Dela på LinkedIn',
-      email: 'Dela via e-post',
-      copy: 'Kopiera länk',
-      copied: 'Länken är kopierad',
-      share: 'Dela',
-      bottomTitle: 'Hjälpte denna tolkning? Dela med en vän.',
-    }
-  : {
-      facebook: 'Del på Facebook',
-      messenger: 'Del i Messenger',
-      whatsapp: 'Del på WhatsApp',
-      x: 'Del på X',
-      linkedin: 'Del på LinkedIn',
-      email: 'Del via e-post',
-      copy: 'Kopier lenke',
-      copied: 'Lenken er kopiert',
-      share: 'Del',
-      bottomTitle: 'Hjalp denne tolkningen? Del med en venn.',
-    };
+const labelsByLang: Record<Lang, {
+  facebook: string; messenger: string; whatsapp: string; x: string;
+  linkedin: string; email: string; copy: string; copied: string;
+  share: string; bottomTitle: string;
+}> = {
+  nb: {
+    facebook: 'Del på Facebook',
+    messenger: 'Del i Messenger',
+    whatsapp: 'Del på WhatsApp',
+    x: 'Del på X',
+    linkedin: 'Del på LinkedIn',
+    email: 'Del via e-post',
+    copy: 'Kopier lenke',
+    copied: 'Lenken er kopiert',
+    share: 'Del',
+    bottomTitle: 'Hjalp denne tolkningen? Del med en venn.',
+  },
+  sv: {
+    facebook: 'Dela på Facebook',
+    messenger: 'Dela i Messenger',
+    whatsapp: 'Dela på WhatsApp',
+    x: 'Dela på X',
+    linkedin: 'Dela på LinkedIn',
+    email: 'Dela via e-post',
+    copy: 'Kopiera länk',
+    copied: 'Länken är kopierad',
+    share: 'Dela',
+    bottomTitle: 'Hjälpte denna tolkning? Dela med en vän.',
+  },
+  en: {
+    facebook: 'Share on Facebook',
+    messenger: 'Share in Messenger',
+    whatsapp: 'Share on WhatsApp',
+    x: 'Share on X',
+    linkedin: 'Share on LinkedIn',
+    email: 'Share by email',
+    copy: 'Copy link',
+    copied: 'Link copied',
+    share: 'Share',
+    bottomTitle: 'Was this interpretation helpful? Share it with a friend.',
+  },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
 const buttons = [
   { key: 'facebook',  label: labels.facebook,  href: intents.facebook,  ext: true },

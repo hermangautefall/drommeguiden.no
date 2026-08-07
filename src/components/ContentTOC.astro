@@ -17,7 +17,8 @@ const {
   variant = 'sticky',
 } = Astro.props;
 
-const label = lang === 'sv' ? 'Innehåll' : 'Innhold';
+const labelByLang: Record<Lang, string> = { nb: 'Innhold', sv: 'Innehåll', en: 'Contents' };
+const label = labelByLang[lang] ?? labelByLang.nb;
 ---
 
 {variant === 'sticky' && (

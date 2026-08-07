@@ -42,16 +42,24 @@ interface Props {
 }
 
 const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, relaterte_sovn, slug, kategori, dato, oppdatert, bilde, leseminutter, author, sensitivt, lang = defaultLang, alternates = [] } = Astro.props;
-const sovnCollection = lang === 'sv' ? 'sovn-sv' : 'sovn';
+const sovnCollectionByLang: Record<Lang, string> = { nb: 'sovn', sv: 'sovn-sv', en: 'sovn-en' };
+const sovnCollection = sovnCollectionByLang[lang] ?? sovnCollectionByLang.nb;
 const alleSovn = await getCollection(sovnCollection as any);
 const relaterteSovnArtikler = (relaterte_sovn || [])
   .map((s) => alleSovn.find((a: any) => a.data.slug === s))
   .filter(Boolean);
 const resolvedAuthor = getAuthor(author);
 const og = await resolveOgImage(bilde);
-const lesetidLabel = lang === 'sv' ? 'min läsning' : 'min lesetid';
+const lesetidLabelByLang: Record<Lang, string> = { nb: 'min lesetid', sv: 'min läsning', en: 'min read' };
+const lesetidLabel = lesetidLabelByLang[lang] ?? lesetidLabelByLang.nb;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
-const displayTitle = tittel.replace(/ — hva betyr det\?/, '').replace(/^Drömmar om /i, '').replace(/^Drømmer om /i, '');
+const displayTitle = tittel
+  .replace(/ — hva betyr det\?/, '')
+  .replace(/ — what does it mean\?/i, '')
+  .replace(/^Drömmar om /i, '')
+  .replace(/^Drømmer om /i, '')
+  .replace(/^Dreaming of /i, '')
+  .replace(/^Dreams about /i, '');
 const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
 const t = useTranslations(lang);
 const langConfig = languages[lang];
@@ -59,21 +67,32 @@ const langConfig = languages[lang];
 const baseSite = 'https://drommeguiden.no';
 const canonical = `${baseSite}${pathFor(lang, 'drommer', slug)}`;
 
-const aboutUrl = lang === 'sv' ? '/sv/om-oss/' : '/om-oss/';
-const bylineLabel = lang === 'sv' ? 'Skriven av' : 'Skrevet av';
-const oppdatertLabel = lang === 'sv' ? 'Senast uppdaterad' : 'Sist oppdatert';
-const dateLocale = lang === 'sv' ? 'sv-SE' : 'nb-NO';
+const aboutUrlByLang: Record<Lang, string> = { nb: '/om-oss/', sv: '/sv/om-oss/', en: '/en/about/' };
+const aboutUrl = aboutUrlByLang[lang] ?? aboutUrlByLang.nb;
+const bylineLabelByLang: Record<Lang, string> = { nb: 'Skrevet av', sv: 'Skriven av', en: 'Written by' };
+const bylineLabel = bylineLabelByLang[lang] ?? bylineLabelByLang.nb;
+const oppdatertLabelByLang: Record<Lang, string> = { nb: 'Sist oppdatert', sv: 'Senast uppdaterad', en: 'Last updated' };
+const oppdatertLabel = oppdatertLabelByLang[lang] ?? oppdatertLabelByLang.nb;
+const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB' };
+const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
 const oppdatertDato = oppdatert ?? dato;
 const oppdatertFmt = oppdatertDato.toLocaleDateString(dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
 
-const sensitivtTekst = lang === 'sv'
-  ? 'Drömtolkning är reflektion, inte diagnos. Om innehållet i drömmen eller artikeln väcker starka känslor, prata med någon du litar på eller kontakta Mind Självmordslinjen på 90101.'
-  : 'Drømmetolkning er refleksjon, ikke diagnose. Hvis innholdet i drømmen eller artikkelen vekker sterke følelser, snakk med noen du stoler på eller kontakt Mental Helse på 116 123.';
-const sensitivtLabel = lang === 'sv' ? 'Att tänka på' : 'Til ettertanke';
+const sensitivtTekstByLang: Record<Lang, string> = {
+  nb: 'Drømmetolkning er refleksjon, ikke diagnose. Hvis innholdet i drømmen eller artikkelen vekker sterke følelser, snakk med noen du stoler på eller kontakt Mental Helse på 116 123.',
+  sv: 'Drömtolkning är reflektion, inte diagnos. Om innehållet i drömmen eller artikeln väcker starka känslor, prata med någon du litar på eller kontakta Mind Självmordslinjen på 90101.',
+  en: 'Dream interpretation is reflection, not diagnosis. If the content of the dream or this article brings up strong feelings, talk to someone you trust or reach out to a helpline where you live.',
+};
+const sensitivtTekst = sensitivtTekstByLang[lang] ?? sensitivtTekstByLang.nb;
+const sensitivtLabelByLang: Record<Lang, string> = { nb: 'Til ettertanke', sv: 'Att tänka på', en: 'Something to consider' };
+const sensitivtLabel = sensitivtLabelByLang[lang] ?? sensitivtLabelByLang.nb;
 
-const labels = lang === 'sv'
-  ? { hjem: 'Hem', symboler: 'Symboler', breadcrumb: 'Brödsmulor' }
-  : { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødsmuler' };
+const labelsByLang: Record<Lang, { hjem: string; symboler: string; breadcrumb: string }> = {
+  nb: { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødsmuler' },
+  sv: { hjem: 'Hem', symboler: 'Symboler', breadcrumb: 'Brödsmulor' },
+  en: { hjem: 'Home', symboler: 'Symbols', breadcrumb: 'Breadcrumbs' },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
 const crumbs = [
   { name: labels.hjem,      url: homePath(lang) },
@@ -222,17 +241,24 @@ const crumbs = [
           inLanguage: langConfig.htmlLang,
           mainEntity: tolkninger_kort.map((tolkning, i) => {
             const symbol = slug.replace(/-/g, ' ');
-            const patterns = lang === 'sv'
-              ? [
-                  `Vad betyder det att drömma om ${symbol}?`,
-                  `Vad symboliserar ${symbol} i drömmar?`,
-                  `Är det dåligt att drömma om ${symbol}?`,
-                ]
-              : [
-                  `Hva betyr det å drømme om ${symbol}?`,
-                  `Hva symboliserer ${symbol} i drømmer?`,
-                  `Er det dårlig å drømme om ${symbol}?`,
-                ];
+            const patternsByLang: Record<Lang, string[]> = {
+              nb: [
+                `Hva betyr det å drømme om ${symbol}?`,
+                `Hva symboliserer ${symbol} i drømmer?`,
+                `Er det dårlig å drømme om ${symbol}?`,
+              ],
+              sv: [
+                `Vad betyder det att drömma om ${symbol}?`,
+                `Vad symboliserar ${symbol} i drömmar?`,
+                `Är det dåligt att drömma om ${symbol}?`,
+              ],
+              en: [
+                `What does it mean to dream about ${symbol}?`,
+                `What does ${symbol} symbolize in dreams?`,
+                `Is it bad to dream about ${symbol}?`,
+              ],
+            };
+            const patterns = patternsByLang[lang] ?? patternsByLang.nb;
             return {
               '@type': 'Question',
               name: patterns[i % patterns.length],

@@ -18,3 +18,21 @@ export const noToSv: Record<string, string> = {
 export const svToNo: Record<string, string> = Object.fromEntries(
   Object.entries(noToSv).map(([nb, sv]) => [sv, nb])
 );
+
+// Samme prinsipp for engelsk. Sannhetskilde: nb_slug i
+// src/content/kategorier-en/*.md.
+export const noToEn: Record<string, string> = {
+  aandelig:    'spiritual',
+  dyr:         'animals',
+  gjenstander: 'objects',
+  hendelser:   'events',
+  kropp:       'body',
+  mennesker:   'people',
+  natur:       'nature',
+  steder:      'places',
+  vann:        'water',
+};
+
+export const enToNo: Record<string, string> = Object.fromEntries(
+  Object.entries(noToEn).map(([nb, en]) => [en, nb])
+);

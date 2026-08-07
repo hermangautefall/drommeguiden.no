@@ -3,58 +3,82 @@ import Base from './Base.astro';
 import SymbolKort from '../components/SymbolKort.astro';
 import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import { getCollection } from 'astro:content';
+import type { Lang } from '../i18n/config';
 
 interface Props {
   tittel: string;
   kortbeskrivelse: string;
   slug: string;
-  lang?: 'nb' | 'sv';
+  lang?: Lang;
   alternates?: { lang: string; url: string }[];
 }
 
 const { tittel, kortbeskrivelse, slug, lang = 'nb', alternates = [] } = Astro.props;
 
-const collectionName = lang === 'sv' ? 'drommer-sv' : 'drommer';
-const alleSymboler = await getCollection(collectionName);
+const collectionNameByLang: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', en: 'drommer-en' };
+const collectionName = collectionNameByLang[lang] ?? collectionNameByLang.nb;
+const alleSymboler = await getCollection(collectionName as any);
 const symbolerIKategori = alleSymboler.filter((s) => s.data.kategori === slug);
 
-const emojiMap: Record<string, string> = lang === 'sv'
-  ? {
-      djur: '🐾', vatten: '🌊', kropp: '🫀', platser: '🏠',
-      handelser: '⚡', manniskor: '👤', natur: '🌿', foremal: '🔑', andlig: '✨',
-    }
-  : {
-      dyr: '🐾', vann: '🌊', kropp: '🫀', steder: '🏠',
-      hendelser: '⚡', mennesker: '👤', natur: '🌿', gjenstander: '🔑',
-    };
+const emojiMapByLang: Record<Lang, Record<string, string>> = {
+  nb: {
+    dyr: '🐾', vann: '🌊', kropp: '🫀', steder: '🏠',
+    hendelser: '⚡', mennesker: '👤', natur: '🌿', gjenstander: '🔑',
+  },
+  sv: {
+    djur: '🐾', vatten: '🌊', kropp: '🫀', platser: '🏠',
+    handelser: '⚡', manniskor: '👤', natur: '🌿', foremal: '🔑', andlig: '✨',
+  },
+  en: {
+    animals: '🐾', water: '🌊', body: '🫀', places: '🏠',
+    events: '⚡', people: '👤', nature: '🌿', objects: '🔑', spiritual: '✨',
+  },
+};
+const emojiMap = emojiMapByLang[lang] ?? emojiMapByLang.nb;
 const emoji = emojiMap[slug] || '✨';
-const displayTitle = tittel.replace('Drømmesymboler: ', '').replace('Drömsymboler: ', '');
+const displayTitle = tittel.replace('Drømmesymboler: ', '').replace('Drömsymboler: ', '').replace('Dream symbols: ', '');
 
-const labels = lang === 'sv'
-  ? {
-      home: 'Hem',
-      categories: 'Kategorier',
-      breadcrumb: 'Brödsmulor',
-      countSuffix: 'drömsymboler',
-      allLabel: 'Alla symboler',
-      allTitle: 'Utforska symbolerna',
-    }
-  : {
-      home: 'Hjem',
-      categories: 'Kategorier',
-      breadcrumb: 'Brødsmuler',
-      countSuffix: 'drømmesymboler',
-      allLabel: 'Alle symboler',
-      allTitle: 'Utforsk symbolene',
-    };
+const labelsByLang: Record<Lang, { home: string; categories: string; breadcrumb: string; countSuffix: string; allLabel: string; allTitle: string }> = {
+  nb: {
+    home: 'Hjem',
+    categories: 'Kategorier',
+    breadcrumb: 'Brødsmuler',
+    countSuffix: 'drømmesymboler',
+    allLabel: 'Alle symboler',
+    allTitle: 'Utforsk symbolene',
+  },
+  sv: {
+    home: 'Hem',
+    categories: 'Kategorier',
+    breadcrumb: 'Brödsmulor',
+    countSuffix: 'drömsymboler',
+    allLabel: 'Alla symboler',
+    allTitle: 'Utforska symbolerna',
+  },
+  en: {
+    home: 'Home',
+    categories: 'Categories',
+    breadcrumb: 'Breadcrumbs',
+    countSuffix: 'dream symbols',
+    allLabel: 'All symbols',
+    allTitle: 'Explore the symbols',
+  },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
-const canonicalUrl = lang === 'sv'
-  ? `https://drommeguiden.no/sv/kategori/${slug}/`
-  : `https://drommeguiden.no/kategori/${slug}/`;
+const canonicalUrlByLang: Record<Lang, string> = {
+  nb: `https://drommeguiden.no/kategori/${slug}/`,
+  sv: `https://drommeguiden.no/sv/kategori/${slug}/`,
+  en: `https://drommeguiden.no/en/category/${slug}/`,
+};
+const canonicalUrl = canonicalUrlByLang[lang] ?? canonicalUrlByLang.nb;
 
-const homeHref = lang === 'sv' ? '/sv/' : '/';
-const categoriesHref = lang === 'sv' ? '/sv/kategori/' : '/kategori/';
-const selfHref = lang === 'sv' ? `/sv/kategori/${slug}/` : `/kategori/${slug}/`;
+const homeHrefByLang: Record<Lang, string> = { nb: '/', sv: '/sv/', en: '/en/' };
+const homeHref = homeHrefByLang[lang] ?? homeHrefByLang.nb;
+const categoriesHrefByLang: Record<Lang, string> = { nb: '/kategori/', sv: '/sv/kategori/', en: '/en/category/' };
+const categoriesHref = categoriesHrefByLang[lang] ?? categoriesHrefByLang.nb;
+const selfHrefByLang: Record<Lang, string> = { nb: `/kategori/${slug}/`, sv: `/sv/kategori/${slug}/`, en: `/en/category/${slug}/` };
+const selfHref = selfHrefByLang[lang] ?? selfHrefByLang.nb;
 
 const crumbs = [
   { name: labels.home,       url: homeHref },

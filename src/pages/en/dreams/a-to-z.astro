@@ -1,0 +1,220 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import type { Lang } from '../../../i18n/config';
+
+const drommer = await getCollection('drommer-en');
+
+function displayName(tittel: string): string {
+  return tittel
+    .replace(/^Dreaming (of|about) /i, '')
+    .replace(/^Dreamt (of|about) /i, '')
+    .replace(/^Dream (of|about) /i, '')
+    .replace(/^Dreams (of|about) /i, '')
+    .replace(/ — what does it mean.*$/i, '')
+    .replace(/\?.*$/, '')
+    .trim();
+}
+
+// English index is A–Z only (no Nordic letters). Any symbol whose display
+// name starts with a non A–Z character is bucketed under the trailing "#"
+// group instead of its own letter.
+const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+const ALPHA_SET = new Set(ALPHABET);
+
+const items = drommer
+  .map((d) => {
+    const name = displayName(d.data.tittel);
+    const letter = name.charAt(0).toLocaleUpperCase('en');
+    return { slug: d.data.slug, name, letter };
+  })
+  .sort((a, b) => a.name.localeCompare(b.name, 'en'));
+
+const groups: Record<string, typeof items> = {};
+for (const item of items) {
+  const key = ALPHA_SET.has(item.letter) ? item.letter : '#';
+  (groups[key] ||= []).push(item);
+}
+
+const letterOrder = ALPHABET.filter((l) => groups[l]);
+if (groups['#']) letterOrder.push('#');
+
+const alternates: { lang: Lang; url: string }[] = [
+  { lang: 'nb', url: 'https://drommeguiden.no/drommer/a-til-aa/' },
+  { lang: 'sv', url: 'https://drommeguiden.no/sv/drommar/a-till-o/' },
+  { lang: 'en', url: 'https://drommeguiden.no/en/dreams/a-to-z/' },
+];
+---
+
+<Base
+  lang="en"
+  tittel="All dream symbols — A to Z"
+  beskrivelse="A complete alphabetical overview of every dream symbol on the Dream Guide. Browse from A to Z and find the meaning of your dream."
+  canonicalUrl="https://drommeguiden.no/en/dreams/a-to-z/"
+  alternates={alternates}
+>
+  <div class="atoz-page">
+    <header class="atoz-header">
+      <span class="atoz-label">Complete overview</span>
+      <h1 class="atoz-title">All dream symbols — A to Z</h1>
+      <p class="atoz-subtitle">
+        {items.length} symbols sorted alphabetically. Click a letter to jump straight there.
+      </p>
+    </header>
+
+    <nav class="atoz-bar" aria-label="Letter navigation">
+      {ALPHABET.map((letter) => (
+        groups[letter]
+          ? <a href={`#letter-${letter}`} class="atoz-bar-letter">{letter}</a>
+          : <span class="atoz-bar-letter atoz-bar-letter-empty" aria-disabled="true">{letter}</span>
+      ))}
+    </nav>
+
+    {letterOrder.map((letter) => (
+      <section class="atoz-section" id={`letter-${letter}`}>
+        <h2 class="atoz-section-title">{letter}</h2>
+        <ul class="atoz-list">
+          {groups[letter].map((item) => (
+            <li class="atoz-item">
+              <a href={`/en/dreams/${item.slug}/`} class="atoz-link">{item.name}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .atoz-page {
+    max-width: 920px;
+    margin: 0 auto;
+  }
+
+  .atoz-header {
+    margin-bottom: 24px;
+  }
+  .atoz-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .atoz-title {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    color: var(--color-text-heading);
+    margin: 0 0 10px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .atoz-title { font-size: 44px; }
+  }
+  .atoz-subtitle {
+    font-size: 16px;
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+
+  .atoz-bar {
+    position: sticky;
+    top: 64px;
+    z-index: 30;
+    margin: 24px -16px 32px;
+    padding: 10px 16px;
+    background: rgba(245, 240, 236, 0.94);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-top: 1px solid rgba(123, 111, 160, 0.1);
+    border-bottom: 1px solid rgba(123, 111, 160, 0.1);
+    display: flex;
+    gap: 4px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: thin;
+    -webkit-overflow-scrolling: touch;
+  }
+  .atoz-bar::-webkit-scrollbar { height: 4px; }
+  .atoz-bar::-webkit-scrollbar-thumb {
+    background: rgba(123, 111, 160, 0.3);
+    border-radius: 2px;
+  }
+
+  .atoz-bar-letter {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 36px;
+    min-block-size: 36px;
+    padding: 0 6px;
+    border-radius: 8px;
+    font-family: var(--font-nav);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--color-text-body);
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
+  .atoz-bar-letter:hover {
+    background: var(--color-primary);
+    color: #fff;
+    text-decoration: none;
+  }
+  .atoz-bar-letter-empty {
+    color: var(--color-text-muted);
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  .atoz-section {
+    margin: 0 0 40px;
+    scroll-margin-top: 120px;
+  }
+  .atoz-section-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-primary);
+    margin: 0 0 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(123, 111, 160, 0.15);
+    font-weight: 400;
+  }
+
+  .atoz-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+  @media (min-width: 480px) {
+    .atoz-list { grid-template-columns: repeat(2, 1fr); gap: 4px 16px; }
+  }
+  @media (min-width: 768px) {
+    .atoz-list { grid-template-columns: repeat(3, 1fr); }
+  }
+
+  .atoz-item { padding: 0; }
+  .atoz-link {
+    display: block;
+    padding: 8px 10px;
+    font-size: 15px;
+    line-height: 1.4;
+    color: var(--color-text-body);
+    text-decoration: none;
+    border-radius: 6px;
+    text-transform: capitalize;
+    transition: all 0.15s ease;
+  }
+  .atoz-link:hover {
+    background: rgba(123, 111, 160, 0.08);
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+</style>

@@ -15,9 +15,14 @@ interface Props {
 const { artikler, lang = defaultLang } = Astro.props;
 const hasItems = Array.isArray(artikler) && artikler.length > 0;
 
-const labels = lang === 'sv'
-  ? { badge: 'Drömsymboler', title: 'Relaterade drömsymboler' }
-  : { badge: 'Drømmesymboler', title: 'Relaterte drømmesymboler' };
+const labelsByLang: Record<Lang, { badge: string; title: string }> = {
+  nb: { badge: 'Drømmesymboler', title: 'Relaterte drømmesymboler' },
+  sv: { badge: 'Drömsymboler', title: 'Relaterade drömsymboler' },
+  en: { badge: 'Dream symbols', title: 'Related dream symbols' },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
+
+const singleBadgeByLang: Record<Lang, string> = { nb: 'Drømmesymbol', sv: 'Drömsymbol', en: 'Dream symbol' };
 
 function displayName(tittel: string): string {
   return tittel
@@ -27,8 +32,11 @@ function displayName(tittel: string): string {
     .replace(/^Drömt att (du |jag |)/i, '')
     .replace(/^Drömma om /i, '')
     .replace(/^Drömmar om /i, '')
+    .replace(/^Dreaming of /i, '')
+    .replace(/^Dreams about /i, '')
     .replace(/ — hva betyr det.*$/i, '')
     .replace(/ — vad betyder det.*$/i, '')
+    .replace(/ — what does it mean.*$/i, '')
     .replace(/\?.*$/, '')
     .trim();
 }
@@ -47,7 +55,7 @@ function displayName(tittel: string): string {
           </div>
         )}
         <div class="sovn-card-body">
-          <span class="sovn-card-meta">{lang === 'sv' ? 'Drömsymbol' : 'Drømmesymbol'}</span>
+          <span class="sovn-card-meta">{singleBadgeByLang[lang] ?? singleBadgeByLang.nb}</span>
           <h3 class="sovn-card-title">{displayName(art.data.tittel)}</h3>
         </div>
       </a>

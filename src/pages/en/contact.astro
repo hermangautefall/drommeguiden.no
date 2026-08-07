@@ -1,0 +1,75 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="en"
+  tittel="Contact us"
+  beskrivelse="Questions, feedback or suggestions for new dream symbols? Get in touch with the Dream Guide."
+  alternates={[
+    { lang: 'nb', url: 'https://drommeguiden.no/kontakt/' },
+    { lang: 'sv', url: 'https://drommeguiden.no/sv/kontakt/' },
+    { lang: 'en', url: 'https://drommeguiden.no/en/contact/' },
+  ]}
+>
+  <div class="static-page">
+    <span class="static-label">Contact</span>
+    <h1 class="static-title">Contact us</h1>
+
+    <div class="prose">
+      <p>
+        We love hearing from our readers! Whether you have a question about a dream symbol, want to suggest a new symbol we should cover, or just want to share an interesting dream — we read every message.
+      </p>
+
+      <p>
+        Send us an email:
+      </p>
+
+      <p class="kontakt-email">
+        <a href="mailto:hei@drommeguiden.no">hei@drommeguiden.no</a>
+      </p>
+
+      <p>
+        We try to reply within a couple of business days. Feel free to note what your message is about in the subject line — it makes it easier for us to help you.
+      </p>
+
+      <p>
+        The Dream Guide does not offer personal dream interpretation or therapeutic advice. If you're experiencing recurring nightmares or sleep problems that affect your daily life, we recommend contacting your doctor.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 32px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+  .kontakt-email {
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .kontakt-email a {
+    color: var(--color-primary);
+  }
+</style>

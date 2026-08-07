@@ -1,0 +1,1248 @@
+---
+import Base from '../../layouts/Base.astro';
+import DrommensDagEN from '../../components/DrommensDagEN.astro';
+import SiteSchema from '../../components/SiteSchema.astro';
+import { getCollection } from 'astro:content';
+
+const drommer = await getCollection('drommer-en');
+const guider = await getCollection('guider-en');
+const sovn = await getCollection('sovn-en');
+
+// 4 featured sleep articles — falls back to the first 4 once content exists
+// under any slug, since drommer-en/sovn-en are empty at launch.
+const featuredSovnSlugs = ['sleep-stages', 'sleep-hygiene', 'anxiety-sleep', 'melatonin'];
+let featuredSovn = featuredSovnSlugs
+  .map(slug => sovn.find(s => s.data.slug === slug))
+  .filter(Boolean);
+if (featuredSovn.length === 0) {
+  featuredSovn = sovn.slice(0, 4);
+}
+
+// 8 featured symbols — fills 3-col grid evenly with featured first card.
+// Falls back to the first 8 symbols if none of the hardcoded slugs exist yet.
+const featuredSlugs = ['snake', 'ocean', 'ex', 'teeth', 'fire', 'flying', 'dog', 'cat'];
+let featuredSymboler = featuredSlugs
+  .map(slug => drommer.find(d => d.data.slug === slug))
+  .filter(Boolean);
+if (featuredSymboler.length === 0) {
+  featuredSymboler = drommer.slice(0, 8);
+}
+
+const kategorier = [
+  { slug: 'animals', tittel: 'Animals', emoji: '🐾' },
+  { slug: 'water', tittel: 'Water', emoji: '🌊' },
+  { slug: 'body', tittel: 'Body', emoji: '🫀' },
+  { slug: 'places', tittel: 'Places', emoji: '🏠' },
+  { slug: 'events', tittel: 'Events', emoji: '⚡' },
+  { slug: 'people', tittel: 'People', emoji: '👤' },
+  { slug: 'nature', tittel: 'Nature', emoji: '🌿' },
+  { slug: 'objects', tittel: 'Objects', emoji: '🔑' },
+  { slug: 'spiritual', tittel: 'Spiritual', emoji: '✨' },
+];
+
+const kategorierMedAntall = kategorier.map(kat => ({
+  ...kat,
+  antall: drommer.filter(d => d.data.kategori === kat.slug).length,
+}));
+
+// Category SVG icons — same order as kategorier array (animals, water, body, places, events, people, nature, objects, spiritual)
+const katIkoner = [
+  // animals
+  `<svg class="ic" viewBox="0 0 24 24"><circle cx="7" cy="9" r="1.7"/><circle cx="12" cy="7" r="1.7"/><circle cx="17" cy="9" r="1.7"/><path d="M12 11.5c-2.6 0-4.6 2-4.6 4 0 1.7 1.7 2.6 4.6 2.6s4.6-.9 4.6-2.6c0-2-2-4-4.6-4Z"/></svg>`,
+  // water
+  `<svg class="ic" viewBox="0 0 24 24"><path d="M3 9c2-1.6 4-1.6 6 0s4 1.6 6 0 4-1.6 6 0"/><path d="M3 15c2-1.6 4-1.6 6 0s4 1.6 6 0 4-1.6 6 0"/></svg>`,
+  // body
+  `<svg class="ic" viewBox="0 0 24 24"><path d="M12 19s-6.6-4.2-6.6-8.7A3.6 3.6 0 0 1 12 6.9a3.6 3.6 0 0 1 6.6 3.4C18.6 14.8 12 19 12 19Z"/></svg>`,
+  // places
+  `<svg class="ic" viewBox="0 0 24 24"><path d="M4 11l8-6 8 6"/><path d="M6 10v8h12v-8"/></svg>`,
+  // events
+  `<svg class="ic" viewBox="0 0 24 24"><path d="M13 3 5 13.5h5.5l-1 7.5 8-11.5h-5.5l1-6.5Z"/></svg>`,
+  // people
+  `<svg class="ic" viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.2"/><path d="M5.5 19a6.5 6.5 0 0 1 13 0"/></svg>`,
+  // nature
+  `<svg class="ic" viewBox="0 0 24 24"><path d="M5 19c0-8 6-13.5 14-13.5C19 13.5 14 19.5 5.5 18.5"/><path d="M9 15.5c2-2.2 4.2-3.8 7.2-4.8"/></svg>`,
+  // objects
+  `<svg class="ic" viewBox="0 0 24 24"><circle cx="8.5" cy="9" r="3.4"/><path d="M11 11.5 19 19.5"/><path d="M16.5 17l1.8-1.8M14.5 15l1.8-1.8"/></svg>`,
+  // spiritual
+  `<svg class="ic" viewBox="0 0 24 24"><path d="M12 4c.6 4 1.7 5.1 5.7 5.7-4 .6-5.1 1.7-5.7 5.7-.6-4-1.7-5.1-5.7-5.7C10.3 9.1 11.4 8 12 4Z"/></svg>`,
+];
+---
+
+<Base
+  tittel="The Dream Guide"
+  beskrivelse="Discover what your dreams mean. A complete guide to dream symbols and dream interpretation, sorted by theme — clear meanings, no mysticism."
+  lang="en"
+  canonicalUrl="https://drommeguiden.no/en/"
+  alternates={[
+    { lang: 'nb', url: 'https://drommeguiden.no/' },
+    { lang: 'sv', url: 'https://drommeguiden.no/sv/' },
+    { lang: 'en', url: 'https://drommeguiden.no/en/' },
+  ]}
+>
+
+  <!-- 1. HERO -->
+  <section class="hero-section">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <p class="hero-label">Drommeguiden.no</p>
+        <h1 class="hero-title">What did you dream<br /><em>last night?</em></h1>
+        <p class="hero-subtitle">
+          Your guide to dream symbols and dream interpretation. Understand what your dreams are trying to tell you.
+        </p>
+
+        <div class="hero-search-wrapper">
+          <div class="hero-search-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </div>
+          <input
+            type="text"
+            id="sok"
+            placeholder="Search for a dream symbol..."
+            autocomplete="off"
+            class="hero-search-input"
+          />
+          <div
+            id="sok-resultater"
+            class="hero-search-results hidden"
+          ></div>
+          <button
+            type="button"
+            class="hero-search-go"
+            aria-label="Search"
+            onclick="document.getElementById('sok').focus()"
+          >
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h16M14 6l6 6-6 6"/></svg>
+          </button>
+        </div>
+
+        <div class="hero-stats">
+          <span class="hero-stat">{drommer.length} symbols</span>
+          <span class="hero-stat">{kategorier.length} categories</span>
+          <span class="hero-stat">{guider.length} guides</span>
+        </div>
+      </div>
+
+      <div class="hero-dag-wrapper">
+        <DrommensDagEN />
+      </div>
+    </div>
+  </section>
+
+  <!-- 2. QUOTE MARQUEE -->
+  <div class="quote-marquee">
+    <div class="quote-track">
+      <span class="quote-item">« Dreams are the soul's picture language »</span>
+      <span class="quote-dot" aria-hidden="true">✦</span>
+      <span class="quote-item">« One who does not interpret their dreams is like one who does not open their letters »</span>
+      <span class="quote-dot" aria-hidden="true">✦</span>
+      <span class="quote-item">« The dream is the small hidden door to the innermost room of the soul »</span>
+      <span class="quote-dot" aria-hidden="true">✦</span>
+      <span class="quote-item">« All that we see or seem is but a dream within a dream »</span>
+      <span class="quote-dot" aria-hidden="true">✦</span>
+      <span class="quote-item">« Dreams are the soul's picture language »</span>
+      <span class="quote-dot" aria-hidden="true">✦</span>
+      <span class="quote-item">« One who does not interpret their dreams is like one who does not open their letters »</span>
+      <span class="quote-dot" aria-hidden="true">✦</span>
+      <span class="quote-item">« The dream is the small hidden door to the innermost room of the soul »</span>
+      <span class="quote-dot" aria-hidden="true">✦</span>
+      <span class="quote-item">« All that we see or seem is but a dream within a dream »</span>
+      <span class="quote-dot" aria-hidden="true">✦</span>
+    </div>
+  </div>
+
+  <!-- 3. POPULAR SYMBOLS -->
+  {drommer.length > 0 && (
+    <section class="section-block">
+      <div class="section-header">
+        <div>
+          <p class="section-label">Explore</p>
+          <h2>Popular dream symbols</h2>
+        </div>
+        <a href="/en/dreams/" class="section-link">
+          See all symbols
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h16M14 6l6 6-6 6"/></svg>
+        </a>
+      </div>
+      <div class="symbols-grid">
+        {featuredSymboler.map((d) => d && (
+          <a href={`/en/dreams/${d.data.slug}/`} class="symbol-card">
+            {d.data.bilde ? (
+              <div class="symbol-card-image">
+                <img src={d.data.bilde} alt={d.data.tittel} loading="lazy" />
+              </div>
+            ) : (
+              <div class="symbol-card-image symbol-card-image-fallback"></div>
+            )}
+            <div class="symbol-card-body">
+              <h3 class="symbol-card-title">
+                {d.data.slug.replace(/-/g, ' ')}
+              </h3>
+              <p class="symbol-card-desc">{d.data.kortbeskrivelse}</p>
+              <span class="symbol-card-cta">
+                Read interpretation
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h16M14 6l6 6-6 6"/></svg>
+              </span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- 4. CATEGORIES -->
+  <section class="section-block cats-section">
+    <div class="cats-wrap">
+      <div class="cats-head">
+        <p class="section-label">Categories</p>
+        <h2>Explore by theme</h2>
+      </div>
+      <div class="cat-grid">
+        {kategorierMedAntall.map((kat, i) => (
+          <a href={`/en/category/${kat.slug}/`} class="cat">
+            <span class="ico" set:html={katIkoner[i]}></span>
+            <span class="cat-meta">
+              <h4>{kat.tittel}</h4>
+              <span>{kat.antall} symbols</span>
+            </span>
+          </a>
+        ))}
+        <!-- Dark "All" card -->
+        <a href="/en/category/" class="cat cat-alle">
+          <span class="ico ico-alle">
+            <svg class="ic" viewBox="0 0 24 24"><path d="M4 12h16M14 6l6 6-6 6"/></svg>
+          </span>
+          <span class="cat-meta">
+            <h4 class="cat-alle-title">All</h4>
+            <span class="cat-alle-sub">{kategorier.length} categories</span>
+          </span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5. GUIDES -->
+  {guider.length > 0 && (
+    <section class="section-block">
+      <div class="section-header">
+        <div>
+          <p class="section-label">Learn more</p>
+          <h2>Guides about dreams</h2>
+        </div>
+        <a href="/en/guides/" class="section-link">
+          All guides
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h16M14 6l6 6-6 6"/></svg>
+        </a>
+      </div>
+
+      {/* Featured guide */}
+      {guider[0] && (
+        <a href={`/en/guides/${guider[0].data.slug}/`} class="guide-feature">
+          {guider[0].data.bilde ? (
+            <div class="guide-feature-img">
+              <img src={guider[0].data.bilde} alt={guider[0].data.tittel} loading="lazy" />
+            </div>
+          ) : (
+            <div class="guide-feature-img guide-feature-placeholder"></div>
+          )}
+          <div class="guide-feature-overlay"></div>
+          <div class="gf-inner">
+            {guider[0].data.leseminutter && (
+              <div class="guide-feature-tag">{guider[0].data.leseminutter} min read</div>
+            )}
+            <h3>{guider[0].data.tittel}</h3>
+            <p>{guider[0].data.kortbeskrivelse}</p>
+          </div>
+        </a>
+      )}
+
+      {/* Remaining guides */}
+      <div class="guide-row">
+        {guider.slice(1, 4).map((g) => (
+          <a href={`/en/guides/${g.data.slug}/`} class="gmini">
+            <div class="gmini-img">
+              {g.data.bilde ? (
+                <img src={g.data.bilde} alt={g.data.tittel} loading="lazy" />
+              ) : (
+                <div class="gmini-placeholder"></div>
+              )}
+            </div>
+            <div class="gmini-body">
+              <h4>{g.data.tittel}</h4>
+              {g.data.leseminutter && (
+                <span>{g.data.leseminutter} min read</span>
+              )}
+            </div>
+          </a>
+        ))}
+      </div>
+      {guider.length > 4 && (
+        <div class="section-cta">
+          <a href="/en/guides/" class="btn-secondary">See all {guider.length} guides</a>
+        </div>
+      )}
+    </section>
+  )}
+
+  <!-- 6. SLEEP SECTION -->
+  {sovn.length > 0 && (
+    <section class="section-block">
+      <div class="sleep">
+        <span class="sleep-eyebrow">Sleep section</span>
+        <h2 class="sleep-title">Sleep and dreams are connected</h2>
+        <p class="sleep-intro">
+          Dreams happen during REM sleep — and sleep quality directly affects what you dream about.
+          Explore {sovn.length} articles on sleep science, sleep hygiene, and sleep problems.
+        </p>
+        <div class="sleep-grid">
+          {featuredSovn.map((s) => s && (
+            <a href={`/en/sleep/${s.data.slug}/`} class="scard">
+              {s.data.bilde && (
+                <div class="scard-img">
+                  <img src={s.data.bilde} alt={s.data.tittel} loading="lazy" />
+                </div>
+              )}
+              <div class="sc-body">
+                <span>{s.data.leseminutter} min read</span>
+                <h4>{s.data.tittel}</h4>
+              </div>
+            </a>
+          ))}
+        </div>
+        <div class="section-cta">
+          <a href="/en/sleep/" class="btn-primary">Explore the sleep section →</a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Schema -->
+  <SiteSchema lang="en" />
+
+  <!-- Search script -->
+  <script define:vars={{ symboler: drommer.map((d) => ({ tittel: d.data.tittel, slug: d.data.slug, kortbeskrivelse: d.data.kortbeskrivelse, lang: 'en' })), siteLang: 'en' }}>
+    const sokInput = document.getElementById('sok');
+    const resultaterDiv = document.getElementById('sok-resultater');
+
+    if (sokInput && resultaterDiv) {
+      sokInput.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase().trim();
+        if (query.length < 2) {
+          resultaterDiv.classList.add('hidden');
+          resultaterDiv.innerHTML = '';
+          return;
+        }
+
+        const treff = symboler
+          .filter((s) => s.lang === siteLang)
+          .filter(
+            (s) =>
+              s.slug.includes(query) ||
+              s.tittel.toLowerCase().includes(query) ||
+              s.kortbeskrivelse.toLowerCase().includes(query)
+          )
+          .slice(0, 6);
+
+        if (treff.length === 0) {
+          resultaterDiv.classList.add('hidden');
+          resultaterDiv.innerHTML = '';
+          return;
+        }
+
+        resultaterDiv.innerHTML = treff
+          .map((s) => {
+            const href = '/en/dreams/' + s.slug + '/';
+            const tittelKort = s.tittel.replace(/ — what does it mean\?/, '');
+            const beskKort = s.kortbeskrivelse.slice(0, 80);
+            return '<a href="' + href + '" class="search-result-item">'
+              + '<span class="search-result-title">' + tittelKort + '</span>'
+              + '<span class="search-result-desc">' + beskKort + '…</span>'
+              + '</a>';
+          })
+          .join('');
+        resultaterDiv.classList.remove('hidden');
+      });
+
+      document.addEventListener('click', (e) => {
+        if (!sokInput.contains(e.target) && !resultaterDiv.contains(e.target)) {
+          resultaterDiv.classList.add('hidden');
+        }
+      });
+
+      if (new URLSearchParams(window.location.search).has('fokus')) {
+        sokInput.focus();
+      }
+    }
+  </script>
+</Base>
+
+<style>
+  /* ================================================================
+     SHARED ICON
+     ================================================================ */
+  .ic {
+    width: 24px;
+    height: 24px;
+    display: block;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  /* ================================================================
+     HERO
+     ================================================================ */
+  .hero-section {
+    position: relative;
+    margin: -2rem -1rem 0;
+    padding: 56px 20px 36px;
+    overflow: hidden;
+  }
+  /* varm morgensol-glød */
+  .hero-section::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: -220px;
+    width: 720px;
+    height: 720px;
+    max-width: 135vw;
+    transform: translateX(-50%);
+    background: radial-gradient(circle at 50% 50%, rgba(201, 162, 90, .30), rgba(207, 139, 111, .12) 38%, transparent 64%);
+    filter: blur(6px);
+    pointer-events: none;
+    z-index: 0;
+    animation: sunbreathe 16s ease-in-out infinite;
+  }
+  @keyframes sunbreathe {
+    0%, 100% { transform: translateX(-50%) scale(1); opacity: .92; }
+    50% { transform: translateX(-50%) scale(1.09); opacity: 1; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .hero-section::before { animation: none; }
+  }
+  @media (min-width: 768px) {
+    .hero-section {
+      margin: -2rem calc(-50vw + 50%) 0;
+      padding: 86px 48px 64px;
+    }
+  }
+
+  .hero-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 1180px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 48px;
+    align-items: center;
+  }
+  @media (min-width: 768px) {
+    .hero-inner {
+      grid-template-columns: 1.35fr 0.9fr;
+      gap: 60px;
+    }
+  }
+
+  .hero-label {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 22px;
+    font-weight: 600;
+    animation: fadeInUp 0.6s ease-out both;
+  }
+
+  .hero-title {
+    font-family: var(--font-heading);
+    font-size: 52px;
+    line-height: 0.98;
+    color: var(--color-text-heading);
+    margin-bottom: 26px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    animation: fadeInUp 0.6s ease-out 0.1s both;
+  }
+  .hero-title em {
+    font-style: italic;
+    color: var(--color-accent);
+  }
+  @media (min-width: 480px) {
+    .hero-title { font-size: 68px; }
+  }
+  @media (min-width: 768px) {
+    .hero-title { font-size: 88px; }
+  }
+
+  .hero-subtitle {
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--color-text-muted);
+    max-width: 32ch;
+    margin-bottom: 34px;
+    animation: fadeInUp 0.6s ease-out 0.2s both;
+  }
+
+  /* ---- Search pill ---- */
+  .hero-search-wrapper {
+    position: relative;
+    max-width: 440px;
+    margin-bottom: 30px;
+    animation: fadeInUp 0.6s ease-out 0.3s both;
+  }
+
+  .hero-search-icon {
+    position: absolute;
+    left: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--color-text-faint);
+    pointer-events: none;
+    z-index: 1;
+  }
+  @media (min-width: 480px) {
+    .hero-search-icon { left: 22px; }
+  }
+
+  .hero-search-input {
+    width: 100%;
+    padding: 16px 64px 16px 46px;
+    border-radius: var(--border-radius-pill);
+    border: 1px solid var(--color-line);
+    background: var(--color-card);
+    color: var(--color-text-body);
+    font-size: 16px;
+    font-family: var(--font-body);
+    transition: box-shadow .25s, border-color .25s;
+    box-shadow: 0 14px 40px -22px rgba(40, 30, 20, .5);
+    text-overflow: ellipsis;
+  }
+  @media (min-width: 480px) {
+    .hero-search-input {
+      padding: 18px 64px 18px 54px;
+    }
+  }
+  .hero-search-input::placeholder {
+    color: var(--color-text-faint);
+  }
+  .hero-search-input:focus {
+    outline: none;
+    border-color: var(--color-clay-soft);
+    box-shadow: 0 18px 50px -20px rgba(181, 106, 75, .45);
+  }
+
+  /* Submit button — dark circle on right edge */
+  .hero-search-go {
+    position: absolute;
+    right: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    border: none;
+    background: var(--color-bg-dark);
+    color: var(--color-krem, #f2ede6);
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    transition: background 0.2s;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .hero-search-go:hover {
+    background: var(--color-accent);
+  }
+
+  .hero-search-results {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    right: 0;
+    border-radius: var(--border-radius-card);
+    overflow: hidden;
+    z-index: 50;
+    background: var(--color-bg-white);
+    box-shadow: 0 16px 48px rgba(40, 30, 20, 0.18);
+  }
+
+  .hero-stats {
+    display: flex;
+    gap: 26px;
+    align-items: center;
+    animation: fadeInUp 0.6s ease-out 0.4s both;
+  }
+
+  .hero-stat {
+    font-size: 14px;
+    color: var(--color-text-faint);
+    font-family: var(--font-nav);
+    letter-spacing: 0.3px;
+    position: relative;
+  }
+  .hero-stat + .hero-stat::before {
+    content: '';
+    position: absolute;
+    left: -14px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--color-accent);
+    opacity: 0.6;
+  }
+
+  .hero-dag-wrapper {
+    background: var(--color-card);
+    border-radius: 26px;
+    border: 1px solid var(--color-line);
+    box-shadow: 0 30px 70px -40px rgba(40, 30, 20, .4);
+    overflow: hidden;
+    animation: fadeInUp 0.8s ease-out 0.3s both;
+  }
+  @media (max-width: 767px) {
+    .hero-dag-wrapper {
+      max-width: 400px;
+      margin: 0 auto;
+    }
+  }
+
+  /* ================================================================
+     QUOTE MARQUEE
+     ================================================================ */
+  .quote-marquee {
+    overflow: hidden;
+    padding: 28px 0;
+    margin: 0 -1rem;
+    background:
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='120' viewBox='0 0 600 120'%3E%3Cpath d='M0 60 C80 30 150 80 260 50 C370 20 430 70 520 55 C570 47 590 55 600 58 L600 120 L0 120Z' fill='rgba(255,255,255,0.1)'/%3E%3Cpath d='M0 80 C100 65 180 95 300 75 C420 55 500 85 600 70 L600 120 L0 120Z' fill='rgba(255,255,255,0.07)'/%3E%3Cpath d='M0 35 C70 20 160 50 280 30 C400 10 480 40 600 25 L600 0 L0 0Z' fill='rgba(255,255,255,0.06)'/%3E%3C/svg%3E"),
+      linear-gradient(135deg, var(--color-primary) 0%, #97553c 100%);
+    background-size: 600px 120px, auto;
+    background-repeat: repeat, no-repeat;
+  }
+  @media (min-width: 768px) {
+    .quote-marquee {
+      margin: 0 calc(-50vw + 50%);
+      padding: 32px 0;
+    }
+  }
+
+  .quote-track {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    white-space: nowrap;
+    animation: marquee 45s linear infinite;
+    width: max-content;
+  }
+  .quote-track:hover {
+    animation-play-state: paused;
+  }
+
+  .quote-item {
+    font-family: var(--font-heading);
+    font-size: 17px;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.85);
+    letter-spacing: 0.3px;
+    padding: 0 24px;
+    flex-shrink: 0;
+  }
+  @media (min-width: 768px) {
+    .quote-item {
+      font-size: 19px;
+      padding: 0 32px;
+    }
+  }
+
+  .quote-dot {
+    color: rgba(255, 255, 255, 0.3);
+    font-size: 10px;
+    flex-shrink: 0;
+  }
+
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* ================================================================
+     SECTIONS — shared
+     ================================================================ */
+  .section-block {
+    padding: 56px 0;
+  }
+  @media (min-width: 480px) {
+    .section-block { padding: 72px 0; }
+  }
+  @media (min-width: 768px) {
+    .section-block { padding: 104px 0; }
+  }
+
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 32px;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  @media (min-width: 480px) {
+    .section-header { margin-bottom: 48px; }
+  }
+
+  .section-label {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--color-primary);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .section-header h2 {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    color: var(--color-text-heading);
+    margin: 0;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .section-header h2 { font-size: 40px; }
+  }
+
+  .section-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--font-nav);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: var(--transition);
+    padding-bottom: 4px;
+  }
+  .section-link:hover {
+    color: var(--color-accent);
+    text-decoration: none;
+    gap: 10px;
+  }
+
+  .section-cta {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  /* ================================================================
+     SYMBOL CARDS  — matches mockup .sym
+     ================================================================ */
+  .symbols-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  @media (min-width: 480px) {
+    .symbols-grid { grid-template-columns: repeat(2, 1fr); gap: 20px; }
+  }
+  @media (min-width: 768px) {
+    .symbols-grid { grid-template-columns: repeat(3, 1fr); gap: 30px; }
+  }
+
+  .symbol-card {
+    background: var(--color-card);
+    border: 1px solid var(--color-line);
+    border-radius: 20px;
+    overflow: hidden;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  .symbol-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 28px 60px -36px rgba(40, 30, 20, .5);
+    text-decoration: none;
+  }
+
+  /* image area — rounded top, fixed height */
+  .symbol-card-image {
+    position: relative;
+    height: 230px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .symbol-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .symbol-card:hover .symbol-card-image img {
+    transform: scale(1.05);
+  }
+  .symbol-card-image-fallback {
+    background: linear-gradient(135deg, var(--color-bg-dark), #2a2f5a);
+  }
+
+  /* body */
+  .symbol-card-body {
+    padding: 26px 26px 28px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .symbol-card-title {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    font-weight: 500;
+    color: var(--color-text-heading);
+    margin-bottom: 10px;
+    text-transform: lowercase;
+    line-height: 1.1;
+  }
+
+  .symbol-card-desc {
+    font-size: 14.5px;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 18px;
+    flex: 1;
+  }
+
+  .symbol-card-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--color-accent);
+    font-weight: 600;
+    font-size: 14px;
+    transition: gap 0.2s;
+  }
+  .symbol-card:hover .symbol-card-cta {
+    gap: 12px;
+  }
+
+  /* ================================================================
+     CATEGORIES  — matches mockup .cats-wrap / .cat-grid / .cat
+     ================================================================ */
+  .cats-section {
+    padding-top: 20px;
+  }
+
+  .cats-wrap {
+    background: var(--color-paper-2, #efe9df);
+    border-radius: 34px;
+    padding: 48px 24px;
+  }
+  @media (min-width: 768px) {
+    .cats-wrap { padding: 64px 56px; }
+  }
+
+  .cats-head {
+    margin-bottom: 40px;
+  }
+  .cats-head h2 {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    color: var(--color-text-heading);
+    margin: 8px 0 0;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .cats-head h2 { font-size: 40px; }
+  }
+
+  .cat-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  @media (min-width: 480px) {
+    .cat-grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
+  }
+  @media (min-width: 768px) {
+    .cat-grid { grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  }
+
+  .cat {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    background: var(--color-card);
+    border: 1px solid var(--color-line);
+    border-radius: 16px;
+    padding: 20px 22px;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+  }
+  .cat:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 18px 40px -28px rgba(40, 30, 20, .5);
+    border-color: rgba(181, 106, 75, .4);
+    text-decoration: none;
+  }
+
+  /* icon box */
+  .ico {
+    flex: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 13px;
+    display: grid;
+    place-items: center;
+    background: #fff;
+    border: 1px solid var(--color-line);
+    color: var(--color-accent);
+  }
+  /* Injected via set:html, so target globally (scoped styles don't reach it) */
+  .ico :global(svg) {
+    width: 26px;
+    height: 26px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.4;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  .cat-alle .ico {
+    color: var(--color-gold);
+  }
+
+  /* meta */
+  .cat-meta {
+    display: flex;
+    flex-direction: column;
+  }
+  .cat-meta h4 {
+    font-family: var(--font-heading);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1;
+    color: var(--color-text-heading);
+    margin: 0;
+  }
+  .cat-meta span {
+    font-size: 13px;
+    color: var(--color-text-faint);
+    margin-top: 4px;
+  }
+
+  /* dark "Alle" card */
+  .cat-alle {
+    background: var(--color-bg-dark);
+    border-color: var(--color-bg-dark);
+    color: var(--color-krem, #f2ede6);
+  }
+  .cat-alle:hover {
+    border-color: var(--color-bg-dark);
+  }
+  .ico-alle {
+    background: rgba(255, 255, 255, .08);
+    border-color: rgba(255, 255, 255, .14);
+    color: var(--color-gold, #c9a25a);
+  }
+  .cat-alle-title {
+    color: var(--color-krem, #f2ede6) !important;
+  }
+  .cat-alle-sub {
+    color: #a8a298 !important;
+  }
+
+  /* ================================================================
+     GUIDES  — matches mockup .guide-feature / .guide-row / .gmini
+     ================================================================ */
+  .guide-feature {
+    position: relative;
+    border-radius: 26px;
+    overflow: hidden;
+    min-height: 360px;
+    display: flex;
+    align-items: flex-end;
+    padding: 36px 28px;
+    text-decoration: none;
+    margin-bottom: 24px;
+    transition: box-shadow 0.3s;
+  }
+  @media (min-width: 768px) {
+    .guide-feature {
+      min-height: 420px;
+      padding: 48px;
+    }
+  }
+  .guide-feature:hover {
+    box-shadow: 0 24px 64px -36px rgba(40, 30, 20, .5);
+    text-decoration: none;
+  }
+
+  .guide-feature-img {
+    position: absolute;
+    inset: 0;
+    height: auto;
+  }
+  .guide-feature-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .guide-feature:hover .guide-feature-img img {
+    transform: scale(1.03);
+  }
+  .guide-feature-placeholder {
+    background: linear-gradient(135deg, #2a3550, #5d6b8a);
+  }
+
+  .guide-feature-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(22, 18, 14, .05), rgba(22, 18, 14, .78));
+    pointer-events: none;
+  }
+
+  .gf-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 560px;
+    color: #fff;
+  }
+
+  .guide-feature-tag {
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    opacity: 0.85;
+    margin-bottom: 16px;
+    font-family: var(--font-nav);
+  }
+
+  .gf-inner h3 {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 1.04;
+    margin-bottom: 16px;
+    border: none;
+    padding: 0;
+  }
+  @media (min-width: 768px) {
+    .gf-inner h3 { font-size: 42px; }
+  }
+
+  .gf-inner p {
+    font-size: 16px;
+    opacity: 0.88;
+    max-width: 48ch;
+    line-height: 1.6;
+  }
+
+  /* mini guide row */
+  .guide-row {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  @media (min-width: 768px) {
+    .guide-row { grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  }
+
+  .gmini {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    background: var(--color-card);
+    border: 1px solid var(--color-line);
+    border-radius: 16px;
+    padding: 14px;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .gmini:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 16px 36px -26px rgba(40, 30, 20, .5);
+    text-decoration: none;
+  }
+
+  .gmini-img {
+    flex: none;
+    width: 78px;
+    height: 78px;
+    border-radius: 11px;
+    overflow: hidden;
+  }
+  .gmini-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .gmini:hover .gmini-img img {
+    transform: scale(1.05);
+  }
+  .gmini-placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #8a8378, #cfc7b8);
+  }
+
+  .gmini-body h4 {
+    font-family: var(--font-heading);
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 1.12;
+    color: var(--color-text-heading);
+    margin: 0 0 6px;
+    border: none;
+    padding: 0;
+  }
+  @media (min-width: 768px) {
+    .gmini-body h4 { font-size: 21px; }
+  }
+  .gmini-body span {
+    font-size: 12px;
+    color: var(--color-text-faint);
+  }
+
+  /* ================================================================
+     SLEEP SECTION  — matches mockup .sleep / .sleep-grid / .scard
+     ================================================================ */
+  .sleep {
+    background: linear-gradient(165deg, #e7ece2, #eef0e8);
+    border-radius: 34px;
+    padding: 48px 24px;
+    text-align: center;
+  }
+  @media (min-width: 768px) {
+    .sleep { padding: 70px 56px; }
+  }
+
+  .sleep-eyebrow {
+    display: block;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: #5f7d5a;
+    margin-bottom: 16px;
+  }
+
+  .sleep-title {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 16px;
+  }
+  @media (min-width: 768px) {
+    .sleep-title { font-size: 50px; }
+  }
+
+  .sleep-intro {
+    font-size: 17px;
+    color: var(--color-text-muted);
+    max-width: 56ch;
+    margin: 0 auto 44px;
+    line-height: 1.65;
+  }
+
+  .sleep-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+    text-align: left;
+  }
+  @media (min-width: 768px) {
+    .sleep-grid { grid-template-columns: repeat(4, 1fr); gap: 20px; }
+  }
+
+  .scard {
+    background: var(--color-card);
+    border: 1px solid var(--color-line);
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: transform 0.25s, box-shadow 0.25s;
+  }
+  .scard:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 22px 48px -32px rgba(40, 30, 20, .5);
+    text-decoration: none;
+  }
+
+  .scard-img {
+    height: 140px;
+    overflow: hidden;
+  }
+  .scard-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .scard:hover .scard-img img {
+    transform: scale(1.05);
+  }
+
+  .sc-body {
+    padding: 18px 18px 22px;
+  }
+  .sc-body span {
+    font-size: 11.5px;
+    color: var(--color-text-faint);
+    letter-spacing: 0.04em;
+  }
+  .sc-body h4 {
+    font-family: var(--font-heading);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.12;
+    margin-top: 7px;
+    color: var(--color-text-heading);
+    border: none;
+    padding: 0;
+  }
+  @media (min-width: 768px) {
+    .sc-body h4 { font-size: 22px; }
+  }
+
+  /* ================================================================
+     SEARCH RESULTS
+     ================================================================ */
+  :global(.search-result-item) {
+    display: block;
+    padding: 14px 20px;
+    border-bottom: 1px solid rgba(123, 111, 160, 0.08);
+    text-decoration: none;
+    transition: background 0.15s ease;
+  }
+  :global(.search-result-item:last-child) {
+    border-bottom: none;
+  }
+  :global(.search-result-item:hover) {
+    background: rgba(123, 111, 160, 0.04);
+    text-decoration: none;
+  }
+  :global(.search-result-title) {
+    display: block;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--color-text-heading);
+  }
+  :global(.search-result-desc) {
+    display: block;
+    font-size: 13px;
+    color: var(--color-text-muted);
+    margin-top: 2px;
+  }
+</style>

@@ -12,21 +12,32 @@ const t = useTranslations(lang);
 const langConfig = languages[lang];
 
 // Popular symbol slugs per language
-const popularSlugs = lang === 'sv'
-  ? [
-      { slug: 'orm', label: 'Orm' },
-      { slug: 'hav', label: 'Hav' },
-      { slug: 'ex', label: 'Ex' },
-      { slug: 'flyga', label: 'Flyga' },
-    ]
-  : [
-      { slug: 'slange', label: 'Slange' },
-      { slug: 'hav', label: 'Hav' },
-      { slug: 'eksen', label: 'Eksen' },
-      { slug: 'flyging', label: 'Flyging' },
-    ];
+const popularSlugsByLang: Record<Lang, { slug: string; label: string }[]> = {
+  nb: [
+    { slug: 'slange', label: 'Slange' },
+    { slug: 'hav', label: 'Hav' },
+    { slug: 'eksen', label: 'Eksen' },
+    { slug: 'flyging', label: 'Flyging' },
+  ],
+  sv: [
+    { slug: 'orm', label: 'Orm' },
+    { slug: 'hav', label: 'Hav' },
+    { slug: 'ex', label: 'Ex' },
+    { slug: 'flyga', label: 'Flyga' },
+  ],
+  en: [
+    { slug: 'snake', label: 'Snake' },
+    { slug: 'ocean', label: 'Ocean' },
+    { slug: 'ex', label: 'Ex' },
+    { slug: 'flying', label: 'Flying' },
+  ],
+};
+const popularSlugs = popularSlugsByLang[lang] ?? popularSlugsByLang.nb;
 
 const drommerBase = pathFor(lang, 'drommer');
+
+const azHrefByLang: Record<Lang, string> = { nb: '/drommer/a-til-aa/', sv: '/sv/drommar/a-till-o/', en: '/en/dreams/a-to-z/' };
+const azLabelByLang: Record<Lang, string> = { nb: 'A til Å', sv: 'A till Ö', en: 'A to Z' };
 ---
 
 <footer class="site-footer">
@@ -50,8 +61,8 @@ const drommerBase = pathFor(lang, 'drommer');
           <ul class="footer-links">
             <li><a href={pathFor(lang, 'drommer')}>{t('sitemap.alle')}</a></li>
             <li>
-              <a href={lang === 'sv' ? '/sv/drommar/a-till-o/' : '/drommer/a-til-aa/'}>
-                {lang === 'sv' ? 'A till Ö' : 'A til Å'}
+              <a href={azHrefByLang[lang] ?? azHrefByLang.nb}>
+                {azLabelByLang[lang] ?? azLabelByLang.nb}
               </a>
             </li>
             <li><a href={pathFor(lang, 'kategori')}>{t('nav.kategorier')}</a></li>

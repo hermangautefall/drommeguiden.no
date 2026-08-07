@@ -8,19 +8,27 @@ interface Props {
 
 const { slug, lang = defaultLang } = Astro.props;
 
-const labels = lang === 'sv'
-  ? {
-      question: 'Hjälpte denna tolkning?',
-      yes: 'Ja',
-      no: 'Inte riktigt',
-      thanks: 'Tack för din feedback!',
-    }
-  : {
-      question: 'Hjalp denne tolkningen?',
-      yes: 'Ja',
-      no: 'Ikke helt',
-      thanks: 'Takk for tilbakemeldingen!',
-    };
+const labelsByLang: Record<Lang, { question: string; yes: string; no: string; thanks: string }> = {
+  nb: {
+    question: 'Hjalp denne tolkningen?',
+    yes: 'Ja',
+    no: 'Ikke helt',
+    thanks: 'Takk for tilbakemeldingen!',
+  },
+  sv: {
+    question: 'Hjälpte denna tolkning?',
+    yes: 'Ja',
+    no: 'Inte riktigt',
+    thanks: 'Tack för din feedback!',
+  },
+  en: {
+    question: 'Was this interpretation helpful?',
+    yes: 'Yes',
+    no: 'Not really',
+    thanks: 'Thanks for the feedback!',
+  },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
 ---
 
 <aside class="helpfulness" data-helpfulness data-slug={slug} aria-label={labels.question}>

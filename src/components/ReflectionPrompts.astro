@@ -9,38 +9,59 @@ interface Props {
 
 const { slug, displayName, lang = defaultLang } = Astro.props;
 
-const labels = lang === 'sv'
-  ? {
-      heading: 'Drömguiden rekommenderar',
-      intro: 'Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:',
-      q1: 'Vilken känsla satt kvar när du vaknade?',
-      q2: 'Vad pågår i ditt liv just nu?',
-      q3: `Har du drömt om ${displayName} flera gånger?`,
-      placeholder: 'Skriv din reflektion här...',
-      save: 'Spara min reflektion',
-      saved: 'Sparad!',
-      previousTitle: 'Tidigare reflektioner',
-      previousEmpty: 'Inga sparade reflektioner ännu — börja ovan.',
-      delete: 'Radera',
-      confirmDelete: 'Radera denna reflektion?',
-    }
-  : {
-      heading: 'Drømmeguiden anbefaler',
-      intro: 'Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:',
-      q1: 'Hvilken følelse satt du igjen med da du våknet?',
-      q2: 'Hva skjer i livet ditt akkurat nå?',
-      q3: `Har du drømt om ${displayName} flere ganger?`,
-      placeholder: 'Skriv refleksjonen din her...',
-      save: 'Lagre min refleksjon',
-      saved: 'Lagret!',
-      previousTitle: 'Tidligere refleksjoner',
-      previousEmpty: 'Ingen lagrede refleksjoner ennå — start ovenfor.',
-      delete: 'Slett',
-      confirmDelete: 'Slette denne refleksjonen?',
-    };
+const labelsByLang: Record<Lang, {
+  heading: string; intro: string; q1: string; q2: string; q3: string;
+  placeholder: string; save: string; saved: string; previousTitle: string;
+  previousEmpty: string; delete: string; confirmDelete: string;
+}> = {
+  nb: {
+    heading: 'Drømmeguiden anbefaler',
+    intro: 'Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:',
+    q1: 'Hvilken følelse satt du igjen med da du våknet?',
+    q2: 'Hva skjer i livet ditt akkurat nå?',
+    q3: `Har du drømt om ${displayName} flere ganger?`,
+    placeholder: 'Skriv refleksjonen din her...',
+    save: 'Lagre min refleksjon',
+    saved: 'Lagret!',
+    previousTitle: 'Tidligere refleksjoner',
+    previousEmpty: 'Ingen lagrede refleksjoner ennå — start ovenfor.',
+    delete: 'Slett',
+    confirmDelete: 'Slette denne refleksjonen?',
+  },
+  sv: {
+    heading: 'Drömguiden rekommenderar',
+    intro: 'Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:',
+    q1: 'Vilken känsla satt kvar när du vaknade?',
+    q2: 'Vad pågår i ditt liv just nu?',
+    q3: `Har du drömt om ${displayName} flera gånger?`,
+    placeholder: 'Skriv din reflektion här...',
+    save: 'Spara min reflektion',
+    saved: 'Sparad!',
+    previousTitle: 'Tidigare reflektioner',
+    previousEmpty: 'Inga sparade reflektioner ännu — börja ovan.',
+    delete: 'Radera',
+    confirmDelete: 'Radera denna reflektion?',
+  },
+  en: {
+    heading: 'The Dream Guide recommends',
+    intro: 'Dreams rarely give a simple answer — they speak to you through images and feelings. Ask yourself:',
+    q1: 'What feeling stayed with you when you woke up?',
+    q2: 'What is going on in your life right now?',
+    q3: `Have you dreamed about ${displayName} more than once?`,
+    placeholder: 'Write your reflection here...',
+    save: 'Save my reflection',
+    saved: 'Saved!',
+    previousTitle: 'Previous reflections',
+    previousEmpty: 'No saved reflections yet — start above.',
+    delete: 'Delete',
+    confirmDelete: 'Delete this reflection?',
+  },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
 const questions = [labels.q1, labels.q2, labels.q3];
-const dateLocale = lang === 'sv' ? 'sv-SE' : 'nb-NO';
+const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB' };
+const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
 ---
 
 <details

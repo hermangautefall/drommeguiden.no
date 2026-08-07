@@ -1,0 +1,56 @@
+---
+import { getCollection, render } from 'astro:content';
+import Symbol from '../../../layouts/Symbol.astro';
+import { pathFor } from '../../../i18n/utils';
+import type { Lang } from '../../../i18n/config';
+
+export async function getStaticPaths() {
+  const drommer = await getCollection('drommer-en');
+  return drommer.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const wordCount = (entry.body ?? '').trim().split(/\s+/).filter(Boolean).length;
+const leseminutter = Math.max(1, Math.round(wordCount / 200));
+
+const alternates: { lang: Lang; url: string }[] = [
+  { lang: 'en', url: `https://drommeguiden.no${pathFor('en', 'drommer', entry.data.slug)}` },
+];
+if (entry.data.nb_slug) {
+  alternates.push({
+    lang: 'nb',
+    url: `https://drommeguiden.no${pathFor('nb', 'drommer', entry.data.nb_slug)}`,
+  });
+}
+if (entry.data.sv_slug) {
+  alternates.push({
+    lang: 'sv',
+    url: `https://drommeguiden.no${pathFor('sv', 'drommer', entry.data.sv_slug)}`,
+  });
+}
+---
+
+<Symbol
+  tittel={entry.data.tittel}
+  kortbeskrivelse={entry.data.kortbeskrivelse}
+  tolkninger_kort={entry.data.tolkninger_kort}
+  relaterte={entry.data.relaterte || []}
+  slug={entry.data.slug}
+  kategori={entry.data.kategori}
+  dato={entry.data.dato}
+  oppdatert={entry.data.oppdatert}
+  bilde={entry.data.bilde}
+  leseminutter={leseminutter}
+  author={entry.data.author}
+  sensitivt={entry.data.sensitivt}
+  relaterte_sovn={entry.data.relaterte_sovn}
+  lang="en"
+  alternates={alternates}
+>
+  <Content />
+</Symbol>

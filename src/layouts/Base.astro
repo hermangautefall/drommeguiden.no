@@ -57,7 +57,9 @@ const fullTitle = isRoot ? brand : `${tittel} | ${brand}`;
 
 // OG-bilde: språkspesifikt branded standardbilde brukes hvis ikke en
 // per-side override er sendt inn. Standardbildet er alltid 1200×630.
-const defaultOgImage = lang === 'sv' ? '/og-sv.png' : '/og-no.png';
+// Per-språk OG-bilde. EN bruker generisk til og-en.png er laget.
+const ogImageByLang: Record<string, string> = { nb: '/og-no.png', sv: '/og-sv.png', en: '/og-image.png' };
+const defaultOgImage = ogImageByLang[lang] ?? '/og-no.png';
 const usingDefault = !ogImage;
 const resolvedOgImage = ogImage || defaultOgImage;
 const ogImageAbsolute = /^https?:\/\//i.test(resolvedOgImage)
