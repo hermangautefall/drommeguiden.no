@@ -13,17 +13,28 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+const alleEn = await getCollection('drommer-en');
 
 const wordCount = (entry.body ?? '').trim().split(/\s+/).filter(Boolean).length;
 const leseminutter = Math.max(1, Math.round(wordCount / 200));
 
-const alternates: { lang: 'nb' | 'sv'; url: string }[] = [
+const alternates: { lang: 'nb' | 'sv' | 'en'; url: string }[] = [
   { lang: 'sv', url: `https://drommeguiden.no${pathFor('sv', 'drommer', entry.data.slug)}` },
 ];
 if (entry.data.nb_slug) {
   alternates.push({
     lang: 'nb',
     url: `https://drommeguiden.no${pathFor('nb', 'drommer', entry.data.nb_slug)}`,
+  });
+}
+// EN kobles via felles nb_slug
+const enMatch = entry.data.nb_slug
+  ? alleEn.find((e: any) => e.data.nb_slug === entry.data.nb_slug)
+  : undefined;
+if (enMatch) {
+  alternates.push({
+    lang: 'en',
+    url: `https://drommeguiden.no${pathFor('en', 'drommer', enMatch.data.slug)}`,
   });
 }
 ---

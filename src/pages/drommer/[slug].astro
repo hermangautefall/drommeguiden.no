@@ -13,18 +13,28 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+const alleEn = await getCollection('drommer-en');
 
 const wordCount = (entry.body ?? '').trim().split(/\s+/).filter(Boolean).length;
 const leseminutter = Math.max(1, Math.round(wordCount / 200));
 
-// Build hreflang alternates: always NO self, and SV if sv_slug exists
-const alternates: { lang: 'nb' | 'sv'; url: string }[] = [
+// Build hreflang alternates: always NO self, plus SV/EN when a
+// translation exists. EN slås opp via drommer-en sitt nb_slug, så
+// nye oversettelser kobles automatisk uten å endre NB-filene.
+const alternates: { lang: 'nb' | 'sv' | 'en'; url: string }[] = [
   { lang: 'nb', url: `https://drommeguiden.no${pathFor('nb', 'drommer', entry.data.slug)}` },
 ];
 if (entry.data.sv_slug) {
   alternates.push({
     lang: 'sv',
     url: `https://drommeguiden.no${pathFor('sv', 'drommer', entry.data.sv_slug)}`,
+  });
+}
+const enMatch = alleEn.find((e: any) => e.data.nb_slug === entry.data.slug);
+if (enMatch) {
+  alternates.push({
+    lang: 'en',
+    url: `https://drommeguiden.no${pathFor('en', 'drommer', enMatch.data.slug)}`,
   });
 }
 ---

@@ -1,7 +1,7 @@
 ---
 tittel: "Drömma om havet — vad betyder det?"
 slug: hav
-kategori: vann
+kategori: vatten
 kortbeskrivelse: "Har du drömt om havet? Havet i drömmar symboliserar ofta känslor, det omedvetna och livets stora strömmar. Läs de vanligaste tolkningarna här."
 relaterte:
   - orm

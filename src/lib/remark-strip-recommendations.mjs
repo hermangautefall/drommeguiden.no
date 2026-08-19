@@ -1,11 +1,13 @@
 // Remark-plugin som fjerner "Drømmeguiden anbefaler"-blokken
-// (og SV-varianten "Drömguiden rekommenderar") fra slutten av
-// drommer/-artikler. Erstattes av <ReflectionPrompts> komponenten
-// i Symbol.astro så blokken blir interaktiv i stedet for statisk.
+// (og SV-varianten "Drömguiden rekommenderar" / EN-varianten
+// "The Dream Guide recommends") fra slutten av drommer/-artikler.
+// Erstattes av <ReflectionPrompts> komponenten i Symbol.astro så
+// blokken blir interaktiv i stedet for statisk.
 
 const HEADING_PATTERNS = [
   /^dr(ø|ö)mmeguiden anbefaler/i,
   /^dr(ø|ö)mguiden rekommenderar/i,
+  /^the dream guide recommends/i,
 ];
 
 function isMatch(text) {
@@ -20,8 +22,8 @@ function headingText(node) {
 export default function remarkStripRecommendations() {
   return function transformer(tree, file) {
     const filePath = String(file?.path || file?.history?.[0] || '');
-    // Bare drommer-kollektioner (NO + SV)
-    if (!/[/\\]content[/\\]drommer(-sv)?[/\\]/.test(filePath)) return;
+    // Bare drommer-kollektioner (NO + SV + EN)
+    if (!/[/\\]content[/\\]drommer(-sv|-en)?[/\\]/.test(filePath)) return;
 
     const children = tree.children || [];
     let startIdx = -1;
