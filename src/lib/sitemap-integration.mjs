@@ -155,9 +155,15 @@ function buildAllEntries(srcDir = 'src') {
 
   const entries = [];
 
-  // Statiske sider (EN-oppføring bare hvis siden faktisk finnes)
+  // Statiske sider (EN-oppføring bare hvis siden finnes OG har innhold).
+  // Tomme listesider (f.eks. /en/sleep/ uten sovn-en-artikler) holdes ute
+  // av sitemapen slik at vi ikke ber Google indeksere tynne sider.
+  const enTommeSeksjoner = new Set();
+  if (sovnEn.length === 0) enTommeSeksjoner.add('/en/sleep/');
+  if (guiderEn.length === 0) enTommeSeksjoner.add('/en/guides/');
+
   for (const p of staticPairs) {
-    const enExists = existsSync(p.enSrc);
+    const enExists = existsSync(p.enSrc) && !enTommeSeksjoner.has(p.en);
     const enUrl = enExists ? p.en : null;
     const alternates = { nb: p.no, sv: p.sv, ...(enUrl ? { en: enUrl } : {}), 'x-default': p.no };
     entries.push({ url: p.no, lang: 'nb', lastmod: fileMtimeIso(p.noSrc), alternates });

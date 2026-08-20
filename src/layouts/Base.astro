@@ -27,6 +27,9 @@ interface Props {
   lang?: Lang;
   alternates?: AlternateLink[];
   progress?: boolean;
+  /** Sett true for sider uten reelt innhold (f.eks. tomme listesider),
+      så de ikke indekseres som tynt innhold. */
+  noindex?: boolean;
 }
 
 const {
@@ -43,6 +46,7 @@ const {
   lang = defaultLang,
   alternates = [],
   progress = false,
+  noindex = false,
 } = Astro.props;
 
 const SITE = 'https://drommeguiden.no';
@@ -100,6 +104,7 @@ const hreflangLinks = [
     <title>{fullTitle}</title>
     <meta name="description" content={beskrivelse} />
     <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
 
     {hreflangLinks.map(link => (
       <link rel="alternate" hreflang={link.hreflang} href={link.href} />

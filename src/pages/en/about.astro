@@ -3,7 +3,6 @@ import Base from '../../layouts/Base.astro';
 import { getAuthor } from '../../data/authors';
 
 const author = getAuthor('default');
-const spotifyUrl = author.sameAs.find((u) => u.includes('spotify.com')) || null;
 ---
 
 <Base
@@ -30,16 +29,11 @@ const spotifyUrl = author.sameAs.find((u) => u.includes('spotify.com')) || null;
         The Dream Guide is run and edited by <strong>{author.name}</strong>.
       </p>
       <p>
-        Isac Levine is a Norwegian pianist and composer who writes neoclassical piano music for rest, relaxation and sleep. With a muted, melodic style, he creates quiet soundscapes where thoughts can settle — music made for the calm hours before night takes over.
+        The Dream Guide is edited by a small Norwegian editorial team writing about dreams, symbols and sleep. We are not psychologists or therapists, and we do not present ourselves as such. We are readers of the dream literature who think the subject deserves better coverage than it usually gets.
       </p>
       <p>
         Releases such as <em>Stillhet</em>, <em>Over Havet</em>, <em>Reflections</em> and <em>Clarity</em> all carry the same signature: simple, intimate piano melodies without unnecessary noise, where the pauses matter as much as the notes. The music is a natural companion to the dreams and sleep we write about here on the Dream Guide.
       </p>
-      {spotifyUrl && (
-        <p>
-          You can hear Isac Levine on <a href={spotifyUrl} target="_blank" rel="noopener noreferrer">Spotify</a>.
-        </p>
-      )}
 
       <h2>Why this site exists</h2>
       <p>

@@ -49,6 +49,7 @@ export const pathSegments = {
     omOss: 'om-oss',
     kontakt: 'kontakt',
     personvern: 'personvern',
+    vilkar: 'vilkar',
     cookies: 'cookies',
   },
   sv: {
@@ -59,6 +60,7 @@ export const pathSegments = {
     omOss: 'om-oss',
     kontakt: 'kontakt',
     personvern: 'integritet',
+    vilkar: 'villkor',
     cookies: 'cookies',
   },
   en: {
@@ -69,6 +71,7 @@ export const pathSegments = {
     omOss: 'about',
     kontakt: 'contact',
     personvern: 'privacy',
+    vilkar: 'terms',
     cookies: 'cookies',
   },
 } as const;

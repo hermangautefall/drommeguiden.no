@@ -24,9 +24,13 @@ const alternates: { lang: Lang; url: string }[] = [
   { lang: 'sv', url: 'https://drommeguiden.no/sv/somn/' },
   { lang: 'en', url: 'https://drommeguiden.no/en/sleep/' },
 ];
+
+// Tom samling => ikke indekser (unngå tynn side i indeks)
+const erTom = alleArtikler.length === 0;
 ---
 
 <Base
+  noindex={erTom}
   tittel="Sleep — science, habits and better nights"
   beskrivelse="Everything you need to know about sleep: sleep stages, sleep hygiene, sleep problems and the link between sleep and dreams. Grounded in research."
   lang="en"

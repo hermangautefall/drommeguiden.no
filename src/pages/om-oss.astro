@@ -3,7 +3,6 @@ import Base from '../layouts/Base.astro';
 import { getAuthor } from '../data/authors';
 
 const author = getAuthor('default');
-const spotifyUrl = author.sameAs.find((u) => u.includes('spotify.com')) || null;
 ---
 
 <Base
@@ -28,11 +27,6 @@ const spotifyUrl = author.sameAs.find((u) => u.includes('spotify.com')) || null;
       {author.bio.map((paragraph) => (
         <p>{paragraph}</p>
       ))}
-      {spotifyUrl && (
-        <p>
-          Du kan høre Isac Levine på <a href={spotifyUrl} target="_blank" rel="noopener noreferrer">Spotify</a>.
-        </p>
-      )}
 
       <h2>Hvorfor dette nettstedet finnes</h2>
       <p>

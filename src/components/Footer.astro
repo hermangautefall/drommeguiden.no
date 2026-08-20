@@ -86,6 +86,9 @@ const azLabelByLang: Record<Lang, string> = { nb: 'A til Å', sv: 'A till Ö', e
             <li><a href={pathFor(lang, 'omOss')}>{t('nav.omOss')}</a></li>
             <li><a href={pathFor(lang, 'kontakt')}>{t('nav.kontakt')}</a></li>
             <li><a href={pathFor(lang, 'personvern')}>{t('nav.personvern')}</a></li>
+            {lang === 'nb' && (
+              <li><a href={pathFor(lang, 'vilkar')}>{t('nav.vilkar')}</a></li>
+            )}
             <li><a href={pathFor(lang, 'cookies')}>Cookies</a></li>
           </ul>
         </div>

@@ -3,7 +3,6 @@ import Base from '../../layouts/Base.astro';
 import { getAuthor } from '../../data/authors';
 
 const author = getAuthor('default');
-const spotifyUrl = author.sameAs.find((u) => u.includes('spotify.com')) || null;
 ---
 
 <Base
@@ -26,16 +25,11 @@ const spotifyUrl = author.sameAs.find((u) => u.includes('spotify.com')) || null;
         Drömguiden drivs och redigeras av <strong>{author.name}</strong>.
       </p>
       <p>
-        Isac Levine är en norsk pianist och kompositör som skriver neoklassisk pianomusik för vila, avslappning och sömn. Med ett dämpat, melodiskt uttryck skapar han stilla klangrum där tankarna får sänka sig — musik gjord för de lugna timmarna innan natten tar över.
+        Drömguiden redigeras av en liten norsk redaktion som skriver om drömmar, symboler och sömn. Vi är inte psykologer eller terapeuter, och vi utger oss inte för att vara det. Vi är läsare av drömlitteratur som tycker att ämnet förtjänar bättre förmedling än det som finns idag.
       </p>
       <p>
         Utgivningar som <em>Stillhet</em>, <em>Over Havet</em>, <em>Reflections</em> och <em>Clarity</em> bär alla samma signum: enkla, nära pianomelodier utan onödigt brus, där pauserna betyder lika mycket som tonerna. Musiken är en naturlig följeslagare till drömmarna och sömnen vi skriver om här på Drömguiden.
       </p>
-      {spotifyUrl && (
-        <p>
-          Du kan höra Isac Levine på <a href={spotifyUrl} target="_blank" rel="noopener noreferrer">Spotify</a>.
-        </p>
-      )}
 
       <h2>Varför den här webbplatsen finns</h2>
       <p>

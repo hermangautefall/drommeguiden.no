@@ -263,7 +263,7 @@ const crumbs = [
       url: canonical,
       ...(bilde && { image: `${baseSite}${bilde}` }),
       author: {
-        '@type': 'Person',
+        '@type': resolvedAuthor.type,
         name: resolvedAuthor.name,
         url: `${baseSite}${resolvedAuthor.url}`,
         ...(resolvedAuthor.sameAs.length > 0 && { sameAs: resolvedAuthor.sameAs }),

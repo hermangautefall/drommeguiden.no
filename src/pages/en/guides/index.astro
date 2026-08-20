@@ -11,9 +11,13 @@ const alternates: { lang: Lang; url: string }[] = [
   { lang: 'sv', url: 'https://drommeguiden.no/sv/guider/' },
   { lang: 'en', url: 'https://drommeguiden.no/en/guides/' },
 ];
+
+// Tom samling => ikke indekser (unngå tynn side i indeks)
+const erTom = guider.length === 0;
 ---
 
 <Base
+  noindex={erTom}
   tittel="Guides on dreams and dream interpretation"
   beskrivelse="In-depth guides on dreams, dream interpretation, dream journaling and how to better understand your dreams."
   lang="en"

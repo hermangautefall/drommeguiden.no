@@ -9,6 +9,7 @@ export const ui = {
     'nav.omOss': 'Om oss',
     'nav.kontakt': 'Kontakt',
     'nav.personvern': 'Personvern',
+    'nav.vilkar': 'Vilkår',
 
     'cta.utforskSymboler': 'Utforsk symboler',
     'cta.lesMer': 'Les mer',
@@ -61,6 +62,7 @@ export const ui = {
     'nav.omOss': 'Om oss',
     'nav.kontakt': 'Kontakt',
     'nav.personvern': 'Integritet',
+    'nav.vilkar': 'Villkor',
 
     'cta.utforskSymboler': 'Utforska symboler',
     'cta.lesMer': 'Läs mer',
@@ -113,6 +115,7 @@ export const ui = {
     'nav.omOss': 'About us',
     'nav.kontakt': 'Contact',
     'nav.personvern': 'Privacy',
+    'nav.vilkar': 'Terms',
 
     'cta.utforskSymboler': 'Explore symbols',
     'cta.lesMer': 'Read more',
