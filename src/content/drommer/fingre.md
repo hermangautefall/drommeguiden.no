@@ -22,7 +22,7 @@ Der [hendene](/drommer/hender/) er drømmesymbolets brede bilde på handling og 
 
 Drømmer om fingre dukker gjerne opp i perioder der noe i livet ditt krever presisjon, der din evne til å skape er aktiv, eller der spørsmål om berøring og kontakt med andre er ladet.
 
-## De vanligste tolkningene
+## Det hendene dine kan skape
 
 ### Skaperglede og håndverk
 
@@ -44,7 +44,7 @@ Fingeravtrykk er unike — ingen andres er som dine. Drømmer om fingre kan derf
 
 Vi teller på fingrene — fingrene var menneskehetens første kalkulator. Drømmer der du teller noe på fingrene, eller der fingrene har feil antall, kan handle om en pågående regnskap i livet ditt: hva har du, hva har du gjort, hva mangler, hva er nok?
 
-## Hva påvirker tolkningen?
+## Hvilken finger, og hva som skjedde med den
 
 **Hvis fingrene var sterke og dyktige:**
 Skaperkraft, presisjon og mestring. Du er god på det du gjør.
@@ -70,7 +70,7 @@ En forvrengning av identitet eller selvbilde — noe er "feil" ved hvordan du se
 **Hvis du brukte fingrene til musikk eller tegn:**
 Et uttrykksbehov som ber om å bli sett og hørt.
 
-## Psykologiske og kulturelle perspektiver
+## Fingrenes symbolikk på tvers av kulturer
 
 Fingrene har båret enorm symbolikk på tvers av kulturer — knapt noen del av menneskekroppen har vært tillagt så detaljert mening i religion, kunst, ritualer og hverdagskommunikasjon.
 

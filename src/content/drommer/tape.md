@@ -20,7 +20,7 @@ author: 'default'
 
 Drømmens tap — å komme sist, mislykkes i konkurransen, bli slått eller ikke nå opp — er ett av de vanligste angstscenarioene i drømmeverdenen. Det er ubehagelig, men det er også rikt på informasjon om hva som er aktivt i deg.
 
-## De vanligste tolkningene
+## Frykten for å komme til kort
 
 ### Frykt for å mislykkes med noe viktig
 
@@ -44,7 +44,7 @@ Drømmens tap kan da speile en livssituasjon der du sammenligner deg med feil me
 
 Har du nylig tapt noe — en konkurranse, en mulighet, et forhold, en jobb? Drømmens tap kan da være direkte bearbeiding av en reell opplevelse. Hjernen gjenopplever og integrerer det som skjedde.
 
-## Hva påvirker tolkningen?
+## Hva du tapte, og for hvem
 
 **Hvis du tap mot noen du kjenner:**
 Sammenligning og konkurranse med en spesifikk person — hva har de som du vil ha, og er den sammenligningen rettferdig?
@@ -61,7 +61,7 @@ Du er i ferd med å forholde deg mer modent til egne grenser og livets uforutsig
 **Hvis tapet var katastrofalt:**
 Perfeksjonisme og overdrevne konsekvenstenkning — et tap er ikke slutten, selv om det kjennes slik.
 
-## Psykologiske og kulturelle perspektiver
+## Nederlaget som læring
 
 Prestasjonsmotiv — ønsket om å gjøre det godt og frykten for å mislykkes — er ett av de mest studerte psykologiske fenomenene siden David McClelland klassifiserte det i 1950-åra. Drømmens tap er en direkte manifestasjon av det McClelland kalte "fear of failure" — en av de to sidene av prestasjonsbehovet.
 

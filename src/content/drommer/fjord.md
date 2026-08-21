@@ -20,7 +20,7 @@ author: 'default'
 
 Fjorden er det mest særnorske av alle naturbilder — den lange, dype, stille armen av [havet](/drommer/hav/) som skjærer seg inn mellom [fjellene](/drommer/fjell/). Den er ikke havet i all sin åpenhet og fare; den er havet som har funnet en beskyttet vei innover. I drømmeverdenen er fjorden et av de mest ro- og dybde-ladede symbolene du kan møte.
 
-## De vanligste tolkningene
+## Dypet mellom fjellsidene
 
 ### Dybde og stillhet
 
@@ -38,7 +38,7 @@ Fjorden er et bilde ingen andre folk eier på samme måte. Å drømme om fjord e
 
 Fjordvannet er stille og klart — og det speiler. Drømmens fjord kan handle om refleksjon og selvbetraktning: å se seg selv tydelig, å ha det stille nok til at bildet ikke rister.
 
-## Hva påvirker tolkningen?
+## Hvor på fjorden du befant deg
 
 **Hvis fjorden var stille og speilblank:**
 Dyp ro og klarhet. Et øyeblikk av ekte stillhet og selvrefleksjon.
@@ -58,7 +58,7 @@ Den klassiske norske drømmescenen — noe urgammelt, vakkert og overdimensjoner
 **Hvis fjorden var urolig:**
 Selv det beskyttede farvannet er i bevegelse — noe forstyrrer det som pleide å være stille.
 
-## Psykologiske og kulturelle perspektiver
+## Fjorden i norsk selvforståelse
 
 Fjorden er for norsk selvforståelse det Nilen er for Egypt eller Themsen for England — et geografisk element som er blitt identitet. Hardangerfjorden, Sognefjorden, Geirangerfjorden: navnene er ladet med tilhørighet og stolthet. Å drømme om fjord er å drømme om norskhetens kjerne.
 

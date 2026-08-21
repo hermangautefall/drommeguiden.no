@@ -26,7 +26,7 @@ relaterte_sovn:
 
 Men disse drømmene er svært sjelden varsler om noe som faktisk foregår. De handler nesten alltid om noe annet — og vel så viktig.
 
-## De vanligste tolkningene
+## Usikkerheten som ikke er sagt høyt
 
 ### En usikkerhet i relasjonen som ikke er adressert
 
@@ -48,7 +48,7 @@ Utroskapdrømmer kan også symbolisere konkurranse om tid og oppmerksomhet — i
 
 Av og til kan drømmens utroskap speile egne følelser du ikke har vedkjent deg — en mild tiltrekning til noen du kjenner, en nysgjerrighet du ikke har tillatt deg å tenke på. Drømmen er ikke en oppfordring til handling, men et tegn på at noe underbevisst er til stede og ønsker anerkjennelse fremfor undertrykking.
 
-## Hva påvirker tolkningen?
+## Hvem som var utro mot hvem
 
 **Hvis det var partneren som var utro:**
 Speiler oftest din egen usikkerhet og forlatenhetsfrykt — ikke en faktisk mistanke. Drømmens skyldig partner er ofte et bilde på deg selv og din sårbarhet.
@@ -65,7 +65,7 @@ Et ønske om forsoning og å komme videre — enten i relasjonen eller med deg s
 **Hvis drømmen gjentar seg:**
 En vedvarende usikkerhet som trenger oppmerksomhet — kanskje en samtale med partneren ville hjulpet mer enn analysen av drømmen. Les mer om [gjentakende drømmer](/guider/gjentakende-drommer/) og hva de prøver å fortelle deg.
 
-## Psykologiske og kulturelle perspektiver
+## Sviket som indre bilde
 
 Forskning på utroskapdrømmer viser at de er svært vanlige og ikke korrelerer med faktisk utroskap i forholdet. De er hyppigst i perioder med stress, distanse, store livsendringer eller lav selvfølelse. Drømmer om [sex](/drommer/sex/) kan gi et utfyllende perspektiv på intimitet i drømmene. De er like vanlige blant dem i svært gode forhold som blant dem i mer urolige forhold.
 

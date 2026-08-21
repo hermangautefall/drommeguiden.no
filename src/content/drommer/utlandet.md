@@ -22,7 +22,7 @@ author: 'default'
 
 Men drømmens utland er sjelden bare et geografisk sted — det er et psykologisk rom.
 
-## De vanligste tolkningene
+## Å tre ut av det vante
 
 ### Nye perspektiver og utbrudd fra det vante
 
@@ -36,7 +36,7 @@ Utlandet er for mange forbundet med frihet — å reise, kanskje med [tog](/drom
 
 Fremmede land representerer det ukjente — og i drømmene kan de symbolisere ukjente sider av din egen personlighet du er i ferd med å utforske. Å reise i drøm er å reise innover.
 
-## Hva påvirker tolkningen?
+## Hvor du reiste, og om du kom hjem
 
 **Hvis landet var eksotisk og fremmed:**
 Jo mer annerledes, jo sterkere ønske om noe radikalt nytt og utenom det ordinære.
@@ -53,7 +53,7 @@ Noe trygt og kjent savnes — kanskje er forandringen for stor eller for brå.
 **Hvis landet var gjenkjennelig men likevel fremmed:**
 Den klassiske drømmens logikk — noe kjent presenteres som ukjent for å peke på noe nytt ved det.
 
-## Psykologiske og kulturelle perspektiver
+## Reisen som selvutforskning
 
 I jungiansk forstand representerer det fremmede landet gjerne Skyggens territorium eller det ubevisste — et sted der de vanlige reglene ikke gjelder og der det undertrykte kan vise seg. Å reise dit i drøm er å åpne seg for nye indre erfaringer.
 

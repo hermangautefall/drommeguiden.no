@@ -24,7 +24,7 @@ Av alle seksuelle drømmer er dette kanskje den mest psykologisk interessante: e
 
 Svaret fra drømmepsykologien er overraskende: de er deg.
 
-## De vanligste tolkningene
+## Det ukjente i deg selv
 
 ### En uoppdaget side av deg selv
 
@@ -48,7 +48,7 @@ Drømmen er ikke nødvendigvis en oppfordring til å søke noe utenfor livet dit
 
 I hverdagen er du definert av relasjoner: du er partner, forelder, kollega, barn. Drømmens fremmede vet ingenting om disse rollene. Det seksuelle møtet med dem kan representere et ønske om å møte og bli møtt som bare deg selv — uten alle lagene av forventning og identitet.
 
-## Hva påvirker tolkningen?
+## Følelsen, ikke handlingen
 
 **Hvis den fremmede hadde en spesifikk egenskap som var tydelig:**
 Den egenskapen er nøkkelen. Hva representerte de — styrke, frihet, varme, mystikk?
@@ -62,7 +62,7 @@ Svært positivt — et tegn på at du nærmer deg sider av deg selv med åpenhet
 **Hvis drømmen gjentar seg med samme type fremmed:**
 Et tydelig arketypisk signal — noe i deg vil bli kjent. Drømmejournalen er et godt sted å begynne å utforske det.
 
-## Psykologiske og kulturelle perspektiver
+## Anima, animus og det uutforskede
 
 Den fremmede som arketypisk figur har eksistert i drømmeforskning siden Freud — men Freuds tolkning (undertrykt seksuelt begjær etter fremmede) er i dag ansett som utilstrekkelig. Jungs forståelse av den fremmede som en indre figur er langt mer fruktbar og i tråd med moderne drømmeforskning.
 

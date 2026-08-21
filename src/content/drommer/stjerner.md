@@ -23,7 +23,7 @@ relaterte_sovn:
 
 Stjernene er menneskekulturens eldste navigasjonspunkter — de har guidet sjøfarere, fortalt historier og representert alt fra guder til avdøde sjeler. I drømmene deler de [himmelens](/drommer/himmel/) symbolikk om noe som er høyere og større. I drømmeverdenen bærer de på denne rikdommen: de er håpets symboler, rettningens tegn, og minnelser om at noe er der oppe langt utover hverdagens horisont.
 
-## De vanligste tolkningene
+## Noe å navigere etter
 
 ### Håp og noe å navigere etter
 
@@ -37,7 +37,7 @@ Stjernene minner oss om universets omfang — og i drømmene kan de representere
 
 "Å nå for stjernene" er ikke tilfeldig som uttrykk — stjernene symboliserer de høye ambisjonene, drømmene som er vanskelige å nå men som gir livet retning. Å drømme om stjerner kan speile en ambisjon eller et mål som lyser opp mørket.
 
-## Hva påvirker tolkningen?
+## Om himmelen var klar
 
 **Hvis stjernene var mange og klare:**
 Håp, muligheter og en vidde av potensial — mange veier å gå.
@@ -54,7 +54,7 @@ En transcendent opplevelse — å heve seg over det jordlige og se livet fra kos
 **Hvis himmelen var mørk uten stjerner:**
 Mørke, desorientering og mangel på håp. Noe har skjult ledetegnene for deg. Se også [mørkt rom](/drommer/morkt-rom/) for drømmer om mørke.
 
-## Psykologiske og kulturelle perspektiver
+## Stjernene som orienteringspunkt
 
 Stjernene er i norrøn tradisjon spredd fra gnistene i Muspelheim — skapt i skapelsens kaos, plassert av gudene for å lyse opp nattehimmelen. Å drømme om stjerner i norsk kontekst berører noe av den første skapelseskraften — noe urgammelt og strålende.
 

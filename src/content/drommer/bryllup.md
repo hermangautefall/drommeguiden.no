@@ -27,7 +27,7 @@ Enten du drømte om ditt eget bryllup, noen andres, eller et bryllup som gikk ga
 
 ---
 
-## De vanligste tolkningene
+## Løftet og vendepunktet
 
 ### Forpliktelse og vendepunkt
 
@@ -61,7 +61,7 @@ Det er viktig å understreke at disse drømmene ikke betyr at du bør unngå for
 
 ---
 
-## Hva påvirker tolkningen?
+## Stemningen i seremonien
 
 Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike tolkninger:
 

@@ -22,7 +22,7 @@ Ryggen bærer kroppen — og i drømmesymbolikken bærer den mye mer enn det. De
 
 Ryggdrømmer er vanlige i perioder med høyt press og store ansvar. De kan ligne på drømmer om å [falle](/drommer/falle/), der kontrollen glipper.
 
-## De vanligste tolkningene
+## Byrden og det som bærer deg
 
 ### En byrde som er for tung å bære
 
@@ -38,7 +38,7 @@ Ryggraden er det som holder deg oppreist — og i drømmene kan den representere
 
 Ryggen peker bakover — og drømmer om ryggen kan handle om noe fra fortiden du bærer med deg. En gammel sårhet, en ubearbeidet opplevelse, eller noe du har skjøvet bak deg uten å ha gjort deg ferdig med det.
 
-## Hva påvirker tolkningen?
+## Hvor smerten satt
 
 **Hvis ryggen var smertefull:**
 Du bærer for mye. Noe trenger å settes ned eller deles med andre.
@@ -55,7 +55,7 @@ Sårbarhet — noe du vanligvis beskytter er blitt synlig for andre.
 **Hvis du hadde vondt i ryggen og ikke klarte å rette deg opp:**
 En byrde som hindrer deg i å stå oppreist og se fremover. Se også [bein](/drommer/bein/) for lignende drømmer om å stå stødig.
 
-## Psykologiske og kulturelle perspektiver
+## Ryggen som bilde på styrke
 
 Ryggen som byrdesymbol er ett av de mest universale i menneskelig kultur — fra mytenes Atlas som bærer verden på sine skuldre, til det dagligdagse uttrykket "å ha mye på ryggen". Vi bærer ansvar, sorg og forpliktelser — og kroppen i drømmene er presis på å vise hvor det sitter.
 

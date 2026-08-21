@@ -22,7 +22,7 @@ Toget er et av de mest klassiske reisesymbolene i drømmeverdenen — og i motse
 
 Togdrømmene plasserer deg på en [reise](/drommer/utlandet/) — og spørsmålet drømmen stiller er ofte: er du på rett tog?
 
-## De vanligste tolkningene
+## Å være på rett spor — eller ikke
 
 ### Livsretning og om du er på rett spor
 
@@ -36,7 +36,7 @@ En av de aller vanligste variantene — du løper men rekker det ikke, du ser de
 
 Fordi toget kjører på skinner og du er passasjer, kan drømmer om tog speile en følelse av å ikke ha kontroll over livets retning — at ting skjer med deg heller enn at du velger dem aktivt. Du er med på noe, men du styrer ikke.
 
-## Hva påvirker tolkningen?
+## Om du rakk toget
 
 **Hvis du rakk toget:**
 Du er i takt med livet og dine mål. Ting går som planlagt.

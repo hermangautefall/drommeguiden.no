@@ -24,7 +24,7 @@ Drømmer om sjefen sin er ekstremt vanlige — og de dukker gjerne opp i periode
 
 Den sjefen du drømmer om er like mye en indre figur som en ekstern person.
 
-## De vanligste tolkningene
+## Forholdet ditt til autoritet
 
 ### Din relasjon til autoritet
 
@@ -38,7 +38,7 @@ Noen ganger er drømmen rett og slett praktisk — hjernen fortsetter å bearbei
 
 Sjefen i drømmen kan være et ansikt på din egen indre kritiker — stemmen som vurderer, dømmer og aldri synes du er god nok. Særlig hvis sjefen i drømmen var misfornøyd, kald eller skuffet — spør deg selv om det egentlig er din egen stemme du hører. Les også om [drømmer om skole](/drommer/skole/) for et lignende tema.
 
-## Hva påvirker tolkningen?
+## Hvordan sjefen behandlet deg
 
 **Hvis sjefen var fornøyd eller anerkjennende:**
 Et tegn på at du er i god kontakt med din egen mestringsfølelse akkurat nå.

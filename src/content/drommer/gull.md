@@ -20,7 +20,7 @@ author: 'default'
 
 Gull er ikke bare et edelt metall — det er ett av menneskekulturens sterkeste symboler på det ultimate, det varige og det ekte. Det ruster ikke, det falmer ikke, det beholder sin glans gjennom alt. I drømmeverdenen er gull sjelden bokstavelig. Det er et bilde på det mest verdifulle — og spørsmålet er alltid hva det er for deg.
 
-## De vanligste tolkningene
+## Ekte verdi og det du streber mot
 
 ### Ekte verdi og det som virkelig betyr noe
 
@@ -38,7 +38,7 @@ I jungiansk psykologi er gull et symbol på Selvet — den autentiske kjernen av
 
 Drømmer der gull viser seg å være falskt — eller der grådighet etter gull ødelegger noe — er advarende. "Alt som glitrer er ikke gull" er ikke bare et ordtak. Drømmens falske gull er en advarsel mot å forfølge noe som ser verdifullt ut men ikke er det.
 
-## Hva påvirker tolkningen?
+## Hva du gjorde med gullet
 
 **Hvis du fant gull:**
 En oppdagelse av noe genuint verdifullt — i livet, i deg selv, i en relasjon.

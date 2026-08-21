@@ -22,7 +22,7 @@ author: 'default'
 
 Ørkendrømmer er sjelden nøytrale. De treffer noe dypt — og deler noe med drømmer om [snø](/drommer/sno/), der stillheten og tomheten også står sentralt.
 
-## De vanligste tolkningene
+## Tomheten og prøvelsen
 
 ### Tomhet og åndelig tørke
 
@@ -40,7 +40,7 @@ I mange religiøse og spirituelle tradisjoner er ørkenen stedet man går gjenno
 
 Ørkenen er også et sted der alt overflødig er borte — bare det essensielle gjenstår. Drømmen kan komme i perioder der du søker klarhet, der du ønsker å kvitte deg med støy og distraksjon for å finne ut hva som virkelig betyr noe.
 
-## Hva påvirker tolkningen?
+## Om du hadde vann og retning
 
 **Hvis ørkenen var vakker og stillferdig:**
 En positiv variant — klarhet, ro og et møte med det essensielle. En meditativ drøm.
@@ -57,7 +57,7 @@ En følelse av at det aldri tar slutt — en vedvarende utmattelse eller tomhet.
 **Hvis du vandret alene:**
 Den ensomme reisen gjennom noe krevende — kanskje et nødvendig enerom med deg selv. Utforsk flere [natursymboler i drømmene](/kategori/natur/).
 
-## Psykologiske og kulturelle perspektiver
+## Ørkenvandringen som motiv
 
 Ørkenen er i jungiansk psykologi knyttet til Skyggelandet — det sted der Ego-et ikke lenger kan opprettholde sine vanlige forsvar og fasader. Der må man møte seg selv uten distraksjoner. Det er ikke et behagelig sted, men det kan være et nødvendig ett.
 

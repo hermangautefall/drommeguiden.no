@@ -22,7 +22,7 @@ Det er kanskje den seksuelle drømmen som skaper mest uro hos den som ikke ident
 
 La oss si det tydelig med en gang: en slik drøm endrer ikke din seksuelle identitet, avslører ikke skjulte ønsker du ikke er klar over, og er ikke noe å skamme seg over. Drømmens seksualitet er ett billedspråk for noe som primært ikke handler om sex.
 
-## De vanligste tolkningene
+## Integrasjon og selvaksept
 
 ### Selvaksept og forening med undertrykte sider
 
@@ -44,7 +44,7 @@ Mange opplever at det er vanskeligere å ha dyp emosjonell nærhet med egne kjø
 
 Hvis du selv identifiserer deg som homofil, bifil eller er i en prosess med å utforske din seksuelle identitet, kan slike drømmer selvfølgelig speile det direkte. Drømmene er da en del av identitetsbearbeidingen — psyken som jobber med noe som er aktivt i selvforståelsen.
 
-## Hva påvirker tolkningen?
+## Følelsen i drømmen, ikke handlingen
 
 **Hvis du er heterofil og drømmen skapte ubehag:**
 Ubehaget er verdt å utforske. Hva er det du ikke vil akseptere i deg selv? Det er sjelden kjønnet eller seksualiteten i drømmen som er nøkkelen — det er det emosjonelle.
@@ -58,7 +58,7 @@ Drømmene er en del av den prosessen — ta dem seriøst, men ikke som definitiv
 **Hvis drømmen gjentok seg:**
 Et tema psyken ønsker å arbeide med. Hva handler de om emosjonelt, utover det seksuelle?
 
-## Psykologiske og kulturelle perspektiver
+## Hva forskningen sier om seksuelle drømmer
 
 Forsker William Domhoff ved University of California dokumenterte at seksuelle drømmer om eget kjønn er svært vanlige uavhengig av seksuell orientering — og konsistent tolket som symboler for selvintegrasjon og nærhet, ikke seksuelle ønsker.
 

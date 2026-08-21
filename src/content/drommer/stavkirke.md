@@ -22,7 +22,7 @@ Stavkirken er ett av de mest fascinerende kulturelle hybridene i Norges historie
 
 Å drømme om stavkirke er å drømme om dette møtet mellom to tradisjoner, to tider, og noe dypt genuint norsk.
 
-## De vanligste tolkningene
+## Det urgamle og det hellige
 
 ### Forbindelsen til det urgamle og åndelige
 
@@ -36,7 +36,7 @@ Stavkirken er et bilde på synkretisme — på at to verdener kan eksistere i sa
 
 Kirken er stedet der man søker det som er større enn en selv. Stavkirken er dette rommet i sin mest norske og ekte form — ikke importert marmor, men innlandets gran og furu — levende [tre](/drommer/tre/) — formet av norske hender. Drømmens stavkirke kan representere et behov for eller en kontakt med det hellige i bred forstand: noe som overskrider hverdagens målbarhet.
 
-## Hva påvirker tolkningen?
+## Om kirken var åpen eller stengt
 
 **Hvis du var inne i stavkirken:**
 Du er i kontakt med noe hellig og stille — en dyp ro er tilgjengelig.
@@ -53,7 +53,7 @@ Fellesskap og tradisjon i sitt beste uttrykk.
 **Hvis dragen på taket var fremtredende:**
 Det norrøne er til stede — noe gammelt og kraftfullt er en del av det hellige rommet.
 
-## Psykologiske og kulturelle perspektiver
+## To tradisjoner flettet sammen
 
 Norge har rundt 28 bevarte stavkirker — de fleste fra 1100- og 1200-tallet. De er ikke museer; de er levende kirker, mange fremdeles i bruk. De representerer en periode der den norrøne og den kristne tradisjonen var i aktiv dialog, og der resultatet ble noe helt unikt i verdenshistorien.
 

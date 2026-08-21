@@ -20,7 +20,7 @@ author: 'default'
 
 Skipet er havets mesterverk — menneskenes svar på havets uendelighet. Det bærer, det navigerer, det gir trygghet midt i det mest ustabile av alle elementer. I drømmeverdenen er skipet ett av de mektigste symbolene på livets reise gjennom det emosjonelle og ubevisste havet.
 
-## De vanligste tolkningene
+## Reisen over det dype
 
 ### Livsreisen gjennom det dype
 
@@ -34,7 +34,7 @@ Skipet er konstruert for å bære — last, passasjerer, det som trengs for reis
 
 Skip er sjelden solitære — de har mannskap og passasjerer. Drømmens skip kan handle om et fellesskap du er del av, en gruppe som navigerer noe vanskelig sammen.
 
-## Hva påvirker tolkningen?
+## Sjøens tilstand og hvem som styrte
 
 **Hvis skipet seilte stødig:**
 Du navigerer de store tingene i livet med styrke og retning.
@@ -54,7 +54,7 @@ En særnorsk drømmefigur — mot, eventyr og reisen mot det ukjente. Se [viking
 **Hvis du sto og så skipet dra:**
 Noe drar fra deg — en mulighet, en fase, en relasjon du ikke er med på.
 
-## Psykologiske og kulturelle perspektiver
+## Skipet som livsfartøy
 
 For nordmenn er skipet ikke et fremmed symbol — det er identitetens kjerne. Vikingtidens skip var teknologiens vidunder og bevegelsesfrihetens instrument. Skipet som krysser en [bro](/drommer/bro/) er et særlig kraftfullt bilde. Det norrøne begrepet "langskip" er ikke bare et fartøy — det er et løfte om horisont.
 

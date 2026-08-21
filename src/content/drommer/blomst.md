@@ -20,7 +20,7 @@ author: 'default'
 
 Blomster er ett av naturens mest ladet symboler på skjønnhet, vekst og livets kortvarighet på én gang. I drømmeverdenen bærer de på en dobbel symbolikk: de er vakre og livgivende, men de visner også. Hva slags blomster, hvilken tilstand de er i og hva du gjør med dem gir ledetråder til tolkningen.
 
-## De vanligste tolkningene
+## Noe som blomstrer i deg
 
 ### Vekst og blomstring
 
@@ -34,7 +34,7 @@ Blomster er kulturelt sett uløselig knyttet til [kjærlighet](/drommer/ring/) o
 
 En blomst visner — og det er en del av dens skjønnhet. Drømmer om blomster kan speile en bevissthet om livets forgjengelighet: noe er vakkert nettopp fordi det ikke varer evig. En påminnelse om å sette pris på det som er der nå.
 
-## Hva påvirker tolkningen?
+## Blomstens tilstand og farge
 
 **Hvis blomstene var vakre og levende:**
 Positiv vekst, kjærlighet og livsglede. Et av de lyseste drømmesymbolene.
@@ -51,7 +51,7 @@ Kjærlighet og anerkjennelse gis til deg. Noen ser deg.
 **Hvis blomstene var uvanlig store eller fargerike:**
 En overveldende følelse av livsglede, kreativitet eller kjærlighet.
 
-## Psykologiske og kulturelle perspektiver
+## Selvet i sin blomstertid
 
 Blomsten er i jungiansk psykologi knyttet til Selvet i sin blomstertid — psyken i sin mest åpne og mottakelige tilstand. Den er ikke den modne [fruktens](/drommer/gravid/) overflod, men blomstens løfte om hva som er mulig.
 

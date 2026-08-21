@@ -21,7 +21,7 @@ author: 'default'
 
 Et sår er en åpning i det som skulle vært lukket — en skade som ennå ikke er leget. I drømmene er sår ett av de mest direkte bildene psyken har for det som gjør vondt, det som ikke er ferdig bearbeidet, og det som fortsatt er ømt å berøre.
 
-## De vanligste tolkningene
+## Det åpne og ubearbeidede
 
 ### Det som er åpent og ubearbeidet
 
@@ -43,7 +43,7 @@ Det interessante er at sår i drømmene ikke nødvendigvis er nye. Et gammelt, i
 
 Ikke alle sår-drømmer er om åpne, blødende sår. Drømmer om sår som heles, som gror, som stelles — er positive bilder på en pågående bearbeidingsprosess. Psyken er i gang med noe.
 
-## Hva påvirker tolkningen?
+## Hvor såret satt og om det grodde
 
 **Hvis såret blødde kraftig:**
 Noe tapper deg for energi nå — en aktiv, pågående smerte som krever oppmerksomhet.
@@ -63,7 +63,7 @@ En positiv prosess er i gang. Noe som har vært åpent, lukkes.
 **Hvis du ikke visste hvor såret kom fra:**
 Et ubevisst sår — noe som gjør vondt men som du ennå ikke har identifisert kilden til.
 
-## Psykologiske og kulturelle perspektiver
+## Såret som synlig sårbarhet
 
 Sår-symbolikken er universell i menneskenes mytologiske tenkning. Den sårede helten er et gjennomgående arketypisk motiv: Achilles i hælen, Siegfried mellom skulderbladene, Amfortas med det ulegrelige sår i Parsifal. Alle er menn hvis styrke er absolutt — bortsett fra ett punkt. Det punktet er sårene.
 

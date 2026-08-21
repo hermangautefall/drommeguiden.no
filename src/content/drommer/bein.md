@@ -20,7 +20,7 @@ author: 'default'
 
 Beina bærer oss gjennom livet — de gir oss evnen til å stå, til å bevege oss, til å ta steget fremover. I drømmesymbolikken er de knyttet til nettopp dette: grunnlaget du står på, evnen til å bære deg selv, og friheten til å velge retning.
 
-## De vanligste tolkningene
+## Å stå støtt — eller ikke
 
 ### Din evne til å stå stødig
 
@@ -34,7 +34,7 @@ Beina gir deg muligheten til å gå — og i drømmene handler de om bevegelsesf
 
 Beina er grunnlaget — og drømmene om dem kan handle om hva du bygger livet ditt på. Dine verdier, relasjoner, rutiner og det som holder deg oppe. Er fundamentet solid?
 
-## Hva påvirker tolkningen?
+## Om beina bar deg eller sviktet
 
 **Hvis beina var sterke:**
 Stabilitet, handlekraft og evne til å gå fremover. Du er stødig.
@@ -51,7 +51,7 @@ En konkret hendelse eller situasjon har svekket din evne til å fungere fritt.
 **Hvis du løp raskt:**
 Frihet, energi og bevegelsesglede. Du er i flyt. Se også [ryggen](/drommer/rygg/) som symbol på det som bærer deg.
 
-## Psykologiske og kulturelle perspektiver
+## Fundamentet vi står på
 
 Bein som symbol på fundament er universalt — fra det å "stå med beggje beina på jorda" til uttrykket "å ha beina på nakken". Det å stå, gå og løpe er av de mest grunnleggende menneskelige handlingene, og i drømmene er de tett knyttet til psykologisk frihet og styrke.
 

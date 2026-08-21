@@ -22,7 +22,7 @@ Isen er frossen vann — og der vannet er følelsenes naturlige tilstand (flyten
 
 Isdrømmene er vanlige i perioder med emosjonell nummenhet, stillstand eller det å holde noe tilbake.
 
-## De vanligste tolkningene
+## Det som har frosset fast
 
 ### Frosne eller undertrykte følelser
 
@@ -40,7 +40,7 @@ Isen bevarer — den holder ting friskt og uforandret. Drømmens is kan ha en po
 
 Is er farlig å gå på — og drømmene der du går på is speiler gjerne en situasjon der underlaget er usikkert. Noe bærer deg, men det er ikke garantert at det holder.
 
-## Hva påvirker tolkningen?
+## Isens tykkelse og om den bar
 
 **Hvis isen var tykk og solid:**
 Et stabilt og godt bevart fundament — kanskje for solid til å endre seg.
@@ -57,7 +57,7 @@ Skjønn, stille klarhet — noe er rent og uforstyrt.
 **Hvis du var fanget i isen:**
 En sterk opplevelse av å være fastlåst og ute av stand til å bevege seg.
 
-## Psykologiske og kulturelle perspektiver
+## Is som hverdag, ikke eksotikk
 
 For nordmenn er is ikke et eksotisk symbol — det er hverdagen en del av året. Is kan også forbindes med [snø](/drommer/sno/) og det frosne [havet](/drommer/hav/). Is på veiene, is på innsjøen, isen som bærer eller svikter. Isens symbolikk er dypt forankret i nordisk erfaring: vi vet hva det vil si at isen bærer, og vi vet hva det vil si at den gir etter.
 

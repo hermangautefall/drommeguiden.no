@@ -20,7 +20,7 @@ author: 'default'
 
 Føtter er det som bærer deg gjennom livet. De er kontaktpunktet mellom deg og bakken — mellom det indre og det jordlige, mellom den du er og stedet du er. I drømmene speiler de dette: grunnlaget du står på, retningen du beveger deg i, og evnen til å bære deg selv fremover.
 
-## De vanligste tolkningene
+## Forankring, retning og selvstendighet
 
 ### Grunnlag og forankring
 
@@ -44,7 +44,7 @@ Drømmens svake eller skadet fot kan da speile en periode der du er mer avhengig
 
 I religiøse og kulturelle tradisjoner er det å vaske andres føtter ett av de kraftigste symbolene for ydmykhet og tjeneste — fra Jesus som vasker disiplenes føtter til den muslimske rituelle vaskingen. Å drømme om å vaske eller bli vasket på føttene kan speile dette: en dyp tjenestevillighet, eller en lengsel etter å bli pleiet på det mest grunnleggende.
 
-## Hva påvirker tolkningen?
+## Føttenes tilstand
 
 **Hvis føttene var sterke og sikre:**
 Du er godt forankret. Grunnlaget ditt holder.

@@ -22,7 +22,7 @@ Eiken er ikke et hvilket som helst [tre](/drommer/tre/). Den er Europas helligst
 
 I drømmene bærer den alt dette.
 
-## De vanligste tolkningene
+## Rotfeste, tålmodighet og ly
 
 ### Rotfeste og indre styrke
 
@@ -42,7 +42,7 @@ Eikens brede krone gir skygge og ly. I mange kulturer har eiken vært samlingsst
 
 I norrøn tradisjon er eiken Tors tre — assosiert med lyn, kraft og fruktbarhet. Det er ikke tilfeldig: lyn slår oftere ned i eik enn i andre trær, og de gamle så dette som et tegn på guddommelig kontakt. Å drømme om en eik i storm — med lyn — er et av de kraftigste bildene på at noe stort og transformerende er i gang.
 
-## Hva påvirker tolkningen?
+## Eikens tilstand og alder
 
 **Hvis eiken var stor og sunn:** Du er godt forankret. Den du er hviler på et solid fundament.
 
@@ -54,7 +54,7 @@ I norrøn tradisjon er eiken Tors tre — assosiert med lyn, kraft og fruktbarhe
 
 **Hvis du satt i dens skygge:** Du søker beskyttelse og ro. Noe gir deg ly.
 
-## Psykologiske og kulturelle perspektiver
+## Treet som verdensbilde
 
 Druideorden — de keltiske prestene — tok sitt navn fra eiken (dru = eik på gammelirsk). Tingstedet i Skandinavia ble gjerne lagt under en eik. Dodona-oraklet i det antikke Hellas var en helig eik der Zevs' vilje ble tolket gjennom bladenes rasling.
 

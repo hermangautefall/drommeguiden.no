@@ -22,7 +22,7 @@ Drømmer om kjærlighet — der du elsker, er elsket, eller kjenner kjærlighete
 
 Men hva betyr de? Her er psykologiens svar — og det er rikere enn du kanskje tror.
 
-## De vanligste tolkningene
+## Lengselen etter å bli sett
 
 ### Lengsel etter forbundethet og å bli sett
 
@@ -48,7 +48,7 @@ I jungiansk psykologi er kjærligheten i drømmene ett av de kraftigste bildene 
 
 Slike drømmer kan oppstå i perioder med personlig vekst, etter terapi, eller etter å ha gjort noe vanskelig og riktig. De er psykens bekreftelse.
 
-## Hva påvirker tolkningen?
+## Hvem kjærligheten var rettet mot
 
 **Hvis kjærligheten i drømmen var gjengjeldt og varmt:**
 Et tegn på psykisk integrasjon og kontakt med det gode i livet ditt.

@@ -44,7 +44,7 @@ Menn som drømmer om en babyjente er ikke i kontakt med "det feminine" som noe f
 
 Begge er like verdifulle og like meningsfulle.
 
-## De vanligste tolkningene av baby generelt
+## Det nye som krever noe av deg av baby generelt
 
 ### Et nytt prosjekt, en ny fase, en ny side av deg selv
 
@@ -58,7 +58,7 @@ En baby krever total omsorg. Drømmens baby speiler gjerne noe i livet ditt som 
 
 For dem som er gravide, prøver å bli gravide, eller er nylige foreldre: babydrømmene er en direkte bearbeiding av den største livsendringen de fleste gjennomgår. Kjønnet kan da speile ønsker, forventninger eller bekymringer knyttet til det konkrete barnet.
 
-## Hva påvirker tolkningen?
+## Guttebarnets alder og tilstand
 
 **Hvis babyen var frisk og lykkelig:**
 Det nye som er på vei har godt potensial. Noe utvikler seg vel.
@@ -75,7 +75,7 @@ Det nye i deg er mer utviklet enn du tror — det har allerede noe å si deg.
 **Hvis du mistet babyen:**
 Se [miste-baby](/drommer/miste-baby/) — det er et eget og viktig symbol.
 
-## Psykologiske og kulturelle perspektiver
+## Kjønn i drømmens billedspråk
 
 Barn som symboler er universelle og alltid positive i sin grunnstruktur — selv i kulturer der barnedødelighet var høy, representerte drømmens friske barn håp og fornyelse.
 

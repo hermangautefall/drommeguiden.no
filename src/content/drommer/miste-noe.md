@@ -25,7 +25,7 @@ relaterte_sovn:
 
 Det handler om hva objektet symboliserer.
 
-## De vanligste tolkningene
+## Tapet av oversikt og kontroll
 
 ### Tap av kontroll og oversikt
 
@@ -39,7 +39,7 @@ Hva du mister i drømmen gir ledetråder. Nøkler symboliserer tilgang og kontro
 
 Drømmene kan også komme som en advarsel fra underbevistheten: noe du har og verdsetter er i fare. Ikke nødvendigvis materielt — det kan være en relasjon, en mulighet, en del av deg selv.
 
-## Hva påvirker tolkningen?
+## Hva du mistet
 
 **Hvis du mistet nøkler:**
 Frykt for å miste tilgang, kontroll eller muligheten til å komme inn et sted — bokstavelig eller symbolsk.

@@ -20,7 +20,7 @@ author: 'default'
 
 Du skraper lodd, vinner i lotteriet, finner sedler på gaten. Det er en av de hyggeligste drømmescenarioene som finnes — og som oftest etterlater en med et stikk av skuffelse ved oppvåkning. Men hva betyr den egentlig?
 
-## De vanligste tolkningene
+## Lengselen etter frihet og trygghet
 
 ### Lengsel etter frihet og muligheter
 
@@ -40,7 +40,7 @@ Det er ikke alltid symbolsk. Av og til er drømmens pengegevinst en indikasjon p
 
 Drømmene kompenserer for det vi mangler i det våkne livet. I perioder med trang økonomi eller opplevd ressursmangel er pengedrømmene svært vanlige — psyken gir deg det du mangler, i alle fall for noen timer.
 
-## Hva påvirker tolkningen?
+## Hva du gjorde med gevinsten
 
 **Hvis pengene forsvant eller ble tatt fra deg:** Frykt for å miste det du har, eller en mulighet som glapp.
 
@@ -50,7 +50,7 @@ Drømmene kompenserer for det vi mangler i det våkne livet. I perioder med tran
 
 **Hvis du ikke visste hva du skulle gjøre med pengene:** Ressurser er tilgjengelig — men du vet ikke helt hva du vil bruke dem til. Hva vil du egentlig?
 
-## Psykologiske og kulturelle perspektiver
+## Flaks og fortjeneste
 
 I mange kulturer er drømmens penger et spesifikt varsel — en god omen om kommende lykke. I kinesisk drømmeforskning er penger generelt et positivt symbol. I islamsk drømmforskning kan penger symbolisere en gave fra Gud.
 

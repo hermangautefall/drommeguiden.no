@@ -22,7 +22,7 @@ Tanten er den nære som likevel ikke er forelder — hun har omsorg uten samme k
 
 Drømmer om tanten din dukker gjerne opp i perioder der du leter etter en form for kvinnelig støtte eller modellering du ikke finner i kjernefamilien, eller når et bestemt minne fra henne er på vei tilbake i bevisstheten.
 
-## De vanligste tolkningene
+## Omsorg uten forventninger
 
 ### Omsorg uten krav
 
@@ -44,7 +44,7 @@ I dybdepsykologien er tanten ofte en mer "internalisert" feminin figur enn moren
 
 Tanter hører ofte til barndommens spesielle ferier, jul, familieselskap. Drømmens tante kan rett og slett være barndommen som søker deg igjen — en lengsel etter en enklere tid, en bestemt opplevelse som vil bearbeides, eller et uoppgjort spørsmål fra den gangen.
 
-## Hva påvirker tolkningen?
+## Hvilken rolle tanten hadde
 
 **Hvis tanten var varm og nær:**
 Tilgang til ubetinget omsorg og støtte fra utsiden av kjernen.
@@ -67,7 +67,7 @@ Tantens livsform kan speile en livsstil du selv vurderer eller lengter etter.
 **Hvis hun tok seg av et barn i drømmen:**
 Den omsorgen du selv trenger — eller den omsorgen du holder på å tilby deg selv.
 
-## Psykologiske og kulturelle perspektiver
+## Den feminine modellen ved siden av moren
 
 Tantens betydning varierer dramatisk mellom kulturer, og dette gjør drømmens tante til en flertydig figur. I norsk og generelt nordeuropeisk kontekst er tanten ofte en perifer figur — viktig, men ikke daglig. Drømmen om en norsk tante handler ofte om nostalgi eller om en spesifikk personlig relasjon.
 

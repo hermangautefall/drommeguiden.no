@@ -20,7 +20,7 @@ author: 'default'
 
 Munnen er kroppens kommunikasjonsport — der ord formes, der vi spiser og tar inn, der vi kysser og uttrykker nærhet. I drømmesymbolikken er den knyttet til alt som handler om å uttrykke seg, om hva som slipper ut og hva som holdes inne.
 
-## De vanligste tolkningene
+## Det usagte og det du slipper inn
 
 ### Noe du ikke har sagt
 
@@ -34,7 +34,7 @@ Munnen er også stemmen — og drømmer om den kan handle om evnen til å uttryk
 
 Munnen er en grense mellom innsiden og utsiden — hva du tar inn, og hva du slipper ut. Drømmer om munnen kan handle om hva du svelger uten å ha lyst, hva du nekter å ta inn, eller hva du velger å holde tilbake.
 
-## Hva påvirker tolkningen?
+## Hva som skjedde med munnen
 
 **Hvis du ikke klarte å snakke:**
 Noe hindrer deg i å uttrykke deg — en frykt, en hemning, en situasjon der du ikke slipper til.

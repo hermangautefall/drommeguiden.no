@@ -20,7 +20,7 @@ author: 'default'
 
 Drømmer om seier — å vinne en konkurranse, en kamp, en pris eller et veddemål — er gjerne behagelige drømmer som etterlater en god følelse. Men de er ikke bare tilfeldige positive scenarier. De sier noe konkret om hva du søker og trenger.
 
-## De vanligste tolkningene
+## Mestring og bekreftelse
 
 ### Et behov for mestring og bekreftelse
 
@@ -44,7 +44,7 @@ Spør deg: hva vant jeg i drømmen — og hva trenger jeg mer av i det våkne li
 
 Drømmene er kjent for å kompensere for det vi ikke opplever nok av i våken tilstand. En periode med mange tilbakeslag, mye kritikk eller lite anerkjennelse kan gi svært mange vinndrømmer — psyken balanserer det emosjonelle regnskapet.
 
-## Hva påvirker tolkningen?
+## Hva du vant
 
 **Hvis du vant noe konkret og verdifullt:**
 Et spesifikt behov er aktivt — hva du vant er nøkkelen til hva du egentlig ønsker.
@@ -61,7 +61,7 @@ Et ønske om anerkjennelse fra omgivelsene — å bli sett og bekreftet.
 **Hvis du vant men ikke kjente glede:**
 Et signal om at det du arbeider mot kanskje ikke er det som gir deg mening.
 
-## Psykologiske og kulturelle perspektiver
+## Seieren som indre anerkjennelse
 
 Seier og anerkjennelse er ett av Maslows høyeste behov i behovspyramiden — aktelsen, den positive selvvurderingen, følelsen av å mestre og bety noe. Drømmens seier er en direkte projeksjon av dette behovet.
 

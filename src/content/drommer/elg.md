@@ -22,7 +22,7 @@ Elgen er Norges største landdyr — stille og massiv, tilsynelatende klossete m
 
 I drømmeverdenen er elgen ett av de mest genuint norske symbolene vi har.
 
-## De vanligste tolkningene
+## Den stille kraften i skogen
 
 ### Majestætisk kraft og stille verdighet
 
@@ -36,7 +36,7 @@ Elgen er skogens overhode — den er der alle andre dyr, som [hjorten](/drommer/
 
 Elgen dukker opp plutselig — i veikanten, i skogen, midt i hverdagen — og krever at du stopper og tar inn det du ser. Drømmens elg kan representere noe uventet og imponerende som viser seg: en innsikt, en mulighet, en oppdagelse.
 
-## Hva påvirker tolkningen?
+## Hvor nær elgen kom
 
 **Hvis elgen var rolig og majestætisk:**
 En stille og solid kraft er til stede i livet ditt. Noe er trygt og sterkt.
@@ -53,7 +53,7 @@ En kraft i bevegelse — noe kraftfullt er i endring eller flukt.
 **Hvis du så elgen fra avstand:**
 Du observerer en stor kraft eller mulighet uten å nærme deg den.
 
-## Psykologiske og kulturelle perspektiver
+## Nesten et nasjonaldyr
 
 Elgen er i norsk kultur nesten et nasjonaldyr — den er på postkort, i reklamer, i vitser og i skogopplevelsene som preger norsk barndom. Elgen er tett nok til å møte på tur, og eksotisk nok til at møtet alltid sitter. Drømmens elg bærer på all denne kulturelle fortroligheten kombinert med dyrets iboende størrelse og verdighet.
 

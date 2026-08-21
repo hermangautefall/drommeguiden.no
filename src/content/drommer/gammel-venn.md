@@ -22,7 +22,7 @@ Plutselig er de der igjen — noen du ikke har tenkt på aktivt på årevis, som
 
 Det er sjelden tilfeldig hvem som dukker opp.
 
-## De vanligste tolkningene
+## Savnet etter en tid eller en egenskap
 
 ### Et savn etter en kvalitet eller en periode
 
@@ -38,7 +38,7 @@ Noen ganger dukker den gamle vennen opp fordi noe mellom dere aldri fikk en orde
 
 Drømmer om gamle venner kommer gjerne når noe i det nåværende livet aktiverer minner fra den perioden de tilhørte. En lignende situasjon, et lignende valg, den samme følelsen som dengang. Hjernen kobler sammen det nye og det gamle.
 
-## Hva påvirker tolkningen?
+## Hvordan møtet forløp
 
 **Hvis drømmen var varm og god:**
 Savn og varme minner. Et behov for mer av det den perioden ga.

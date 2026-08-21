@@ -21,7 +21,7 @@ author: 'default'
 
 Å drømme om overfall — der noen angriper deg fysisk, truer deg eller krenker din integritet — er en av de mest emosjonelt intense drømmescenarioene vi kjenner. Den etterlater en med en klar og vanskelig følelse. Og den bærer gjerne et viktig budskap.
 
-## De vanligste tolkningene
+## Hva overfallet i drømmen egentlig angriper
 
 ### Noe krenker dine grenser i virkeligheten
 
@@ -45,25 +45,9 @@ For dem med PTSD er overfall-drømmer spesielt vanlige og kan kreve profesjonell
 
 Noen ganger er overfallet ikke en ytre kraft, men en indre: det er selvkritikken som angriper, skammen som overveldes, den indre stemmen som sier du ikke duger. Drømmens angriper er da en del av deg selv — og spørsmålet er ikke hva du forsvarer deg mot, men hva du angriper deg selv med.
 
-## Hva påvirker tolkningen?
+## Angrepet, forsvaret og hvem som sto ved din side
 
-**Hvis du forsvarte deg:**
-Du har ressurser og mot til å stå imot det som truer deg.
-
-**Hvis du ikke klarte å forsvare deg:**
-En opplevelse av hjelpeløshet og sårbarhet som fortjener oppmerksomhet.
-
-**Hvis overfallet kom fra noen du kjenner:**
-En spesifikk relasjon eller situasjon krenker deg. Hva er det — og er det akseptabelt?
-
-**Hvis overfallet kom fra en fremmed:**
-En diffus trussel — noe i omgivelsene eller i deg selv som angriper.
-
-**Hvis noen hjalp deg under overfallet:**
-Du er ikke alene. Det finnes støtte tilgjengelig — i deg selv eller fra andre.
-
-**Hvis drømmen gjentas:**
-Et vedvarende tema om grenser og sårbarhet som trenger å tas på alvor.
+Klarte du å forsvare deg i drømmen, har du ressurser og mot til å stå imot det som truer deg. Klarte du det ikke, kan drømmen speile en opplevelse av hjelpeløshet og sårbarhet som fortjener oppmerksomhet. Kom overfallet fra noen du kjenner, er det gjerne en spesifikk relasjon eller situasjon som krenker deg — spørsmålet er hva det er, og om det er akseptabelt. Kom det fra en fremmed, peker det oftere mot en diffus trussel, noe i omgivelsene eller i deg selv som angriper. Fikk du hjelp underveis, er det et viktig signal: du er ikke alene, og det finnes støtte tilgjengelig, enten i deg selv eller fra andre. Og gjentar drømmen seg, er det som regel et vedvarende tema om grenser og sårbarhet som fortjener å bli tatt på alvor.
 
 ## Når grenser overskrides
 
@@ -72,11 +56,5 @@ Et vedvarende tema om grenser og sårbarhet som trenger å tas på alvor.
 Mange opplever også at de fryser eller ikke får ropt i drømmen — dette er en helt vanlig del av REM-søvnen, der kroppen er naturlig lammet, og har ingenting å gjøre med svakhet eller feil reaksjon. Drømmen kan rett og slett være sinnets måte å øve på en trusselrespons i et trygt rom.
 
 Angriperen i drømmen kan også representere en side av deg selv — som angst eller selvkritikk — eller et press du opplever fra en konkret situasjon eller person. Hvis drømmen henger sammen med noe du faktisk har opplevd, er det heller ikke uvanlig at slike bilder dukker opp som en del av den naturlige bearbeidingen — og det er aldri feil å søke støtte hvis det føles tungt.
-
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe som krenker dine grenser?
-- Har du drømt om **å bli angrepet eller truet** **flere ganger**?
 
 *Hvis disse drømmene er knyttet til reelle opplevelser av vold eller overgrep, fortjener du støtte. Det er ingen skam å søke hjelp.*

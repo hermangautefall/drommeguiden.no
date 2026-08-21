@@ -25,7 +25,7 @@ Drømmer om barn er svært vanlige og beriker nesten alltid drømmeverdenen med 
 
 Barn i drømmer er sjelden bare barn — de representerer gjerne noe i deg selv.
 
-## De vanligste tolkningene
+## Barnet som en del av deg selv
 
 ### Ditt indre barn
 
@@ -41,7 +41,7 @@ Barn symboliserer i drømmer også nye ting som er i ferd med å vokse — et pr
 
 For foreldre er drømmer om egne barn svært vanlige — og ofte farget av bekymring. Å drømme at barnet er i fare, forsvinner eller har det vondt er en av de mest angstfylte drømmene foreldre rapporterer, på linje med drømmer om å [miste noe](/drommer/miste-noe/) verdifullt. Disse drømmene reflekterer sjelden en reell fare — de speiler den dype omsorgskraften og ansvaret som følger med å elske noen så sårbart og fullstendig.
 
-## Hva påvirker tolkningen?
+## Hvem barnet var, og hva det gjorde
 
 **Hvis barnet var ditt eget:**
 Omsorg, beskyttelse og foreldreangst er i spill — eller glede og kjærlighet, avhengig av drømmens tone.
@@ -58,7 +58,7 @@ En visdom fra din egen indre barnlige del — intuisjon og ærlighet som voksne 
 **Hvis du mistet barnet eller det forsvant:**
 En av de mer skremmende drømmene, men sjelden et varsel. Speiler gjerne angst for tap av kontroll over noe du har ansvar for.
 
-## Psykologiske og kulturelle perspektiver
+## Barnearketypen og det som vil vokse
 
 I jungiansk psykologi er barnet et av de viktigste arketypiske symbolene — det representerer potensial, helhet og fremtid. Jung skrev at barnet i drømmen symboliserer det selvet vi er på vei mot å bli: noe som ennå ikke er realisert, men som allerede eksisterer som mulighet.
 

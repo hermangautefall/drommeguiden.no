@@ -22,7 +22,7 @@ Onkelen er den mannlige figuren i familiens ytre ring — han har omsorg og tilk
 
 Drømmer om onkelen din dukker gjerne opp i perioder der du leter etter en form for maskulin støtte eller modellering som du ikke finner andre steder, eller når en bestemt erfaring fra ham er på vei tilbake i bevisstheten.
 
-## De vanligste tolkningene
+## Veiledning uten krav
 
 ### Maskulin veiledning uten krav
 
@@ -44,7 +44,7 @@ I dybdepsykologien er onkelen ofte mer "internalisert" enn faren — en figur du
 
 Onkler hører ofte barndommen til, særlig de få store sommerdagene, julene, fellesferiene. Drømmens onkel kan rett og slett være barndommen som banker på — en lengsel etter en enklere tid, en bestemt opplevelse som lever videre i deg, eller et uoppgjort spørsmål fra den gangen.
 
-## Hva påvirker tolkningen?
+## Hvilken rolle onkelen hadde
 
 **Hvis onkelen var vennlig og veiledende:**
 Tilgang til maskulin erfaring og støtte uten press.
@@ -67,7 +67,7 @@ Symbolet på gaven er nøkkelen — det er noe han "overlater" til deg.
 **Hvis han var i jobbsituasjonen sin:**
 Onkelens yrke kan symbolisere et arbeidsliv eller en livsform du selv vurderer.
 
-## Psykologiske og kulturelle perspektiver
+## Den maskuline modellen ved siden av faren
 
 Onkelens rolle varierer dramatisk på tvers av kulturer, og dette gjør drømmens onkel til en flertydig figur. I norsk og generelt nordeuropeisk kontekst er onkelen en perifer omsorgsfigur — viktig, men ikke daglig. Drømmen om en norsk onkel handler ofte om noe nostalgisk eller om en spesifikk relasjon.
 

@@ -20,7 +20,7 @@ author: 'default'
 
 Internett er det nærmeste vår tid har kommet til et bilde på det kollektive ubevisste — et uendelig nettverk der all menneskelig kunnskap, alle stemmer og alle forbindelser eksisterer samtidig. I drømmene speiler det dette: tilgangen til noe enormt, og utfordringen ved å navigere i det.
 
-## De vanligste tolkningene
+## Informasjonsstrømmen og søken etter svar
 
 ### Det kollektive ubevisste i moderne form
 
@@ -40,7 +40,7 @@ Internett er overveldende. Det finnes ingen kant, ingen slutt, ingen redaktør. 
 
 Drømmer om å miste internettforbindelsen, om treg nett, om å ikke finne frem — speiler en opplevelse av å være avskåret fra det kollektive, av å ikke nå frem, av å stå utenfor et nettverk du burde være del av.
 
-## Hva påvirker tolkningen?
+## Hva du lette etter på nettet
 
 **Hvis du søkte og fant det du lette etter:** Du har tilgang til ressursene og svarene du trenger.
 
@@ -52,7 +52,7 @@ Drømmer om å miste internettforbindelsen, om treg nett, om å ikke finne frem 
 
 **Hvis noen hacket deg eller overvåket deg:** En følelse av at din private sfære er krenket.
 
-## Psykologiske og kulturelle perspektiver
+## Et kollektivt rom i moderne form
 
 Internett som drømmesymbol er relativt nytt og lite studert — men vokser raskt i drømmerapporter. Det er interessant at det allerede har funnet et fast plass i drømmenes bildespråk på bare noen tiår: det forteller noe om hvor dypt det digitale nettverk er integrert i vår kollektive bevissthet.
 

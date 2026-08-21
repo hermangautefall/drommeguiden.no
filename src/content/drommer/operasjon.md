@@ -23,7 +23,7 @@ Operasjonen er en av de mest intense menneskelige erfaringene — du legger krop
 
 Drømmer om operasjon dukker gjerne opp i perioder der noe i livet ditt er under reparasjon, der noe må kuttes vekk, eller der du står midt i en prosess som krever at du gir slipp på kontrollen.
 
-## De vanligste tolkningene
+## Å bli reparert — og å overgi kontrollen
 
 ### Noe repareres eller fjernes
 
@@ -45,7 +45,7 @@ Operasjonen er ett av drømmespråkets sterkeste bilder på psykologisk arbeid �
 
 Operasjonen er ikke en gradvis prosess — den er konkret, planlagt og avsluttende. Drømmens operasjon kan handle om en bevisstgjøring av at noe i livet ditt ikke kan løses ved å vente — det krever et bestemt, samlet inngrep.
 
-## Hva påvirker tolkningen?
+## Hva som ble operert
 
 **Hvis operasjonen gikk bra:**
 En prosess avsluttes vellykket — noe er fikset, noe er fjernet som ikke hørte hjemme.

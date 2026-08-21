@@ -55,11 +55,11 @@ En trussel som er for stor til å ignorere — noe som krever direkte handling.
 **Rotten som slapp unna:**
 Det du er redd for, unndrar seg konfrontasjon, men forsvinner ikke — det gjemmer seg bare et annet sted.
 
-## Psykologisk perspektiv
+## Skyggen og det vi helst overser
 
 I jungiansk psykologi er Skyggen betegnelsen på de sidene av oss selv vi ikke vil kjennes ved — impulser, egenskaper og følelser vi skyver ned fordi de føles for skamfulle eller uverdige til å vises frem. Rotten passer uvanlig godt som bilde på nettopp dette, fordi den lever akkurat der Skyggen gjør: i veggene, under gulvet, i mørket ingen andre ser inn i. Å møte den i en drøm kan derfor være underbevisstheten som ber om at noe uferdig blir konfrontert, ikke skjøvet lenger ned.
 
-## Kulturell og symbolsk betydning
+## Rotten mellom pest og overlevelse
 
 Rotten er i vestlig tradisjon gjennomgående negativt ladet — fra svartedauden til skrekkfilmens kloakkrotte. Men i kinesisk tradisjon er rotten faktisk det første dyret i stjernetegnsyklusen og representerer intelligens, ressursrikdom og tilpasningsevne. I en norsk kontekst er rotten primært et negativt symbol — skadedyr, forrådnelse, noe man ikke vil ha i huset.
 

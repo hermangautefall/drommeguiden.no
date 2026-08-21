@@ -22,7 +22,7 @@ Naboen er den nærmeste fremmede — tett nok til å se ditt dagligliv, men uten
 
 Drømmer om naboen dukker gjerne opp i perioder med spørsmål om grenser, fellesskap eller tilhørighet — eller når noe nært deg krever oppmerksomhet du ennå ikke har gitt det.
 
-## De vanligste tolkningene
+## Det nære fellesskapet og grensene
 
 ### Det nære fellesskapet
 
@@ -44,7 +44,7 @@ Naboen lever et liv som er litt likt og litt ulikt ditt eget — så nært at sa
 
 Naboen vet hva du gjør, og du vet hva naboen gjør. Det er den uskrevne sosiale kontrakten. Drømmens nabo kan derfor representere det normative — "hva tror folk om meg", "hva er passende", "hvordan ser dette ut for andre". Disse drømmene blir særlig sterke i perioder der du gjør valg som bryter med det forventede.
 
-## Hva påvirker tolkningen?
+## Hvordan naboen oppførte seg
 
 **Hvis naboen var vennlig og hjelpsom:**
 Et trygt og godt nærmiljø — fellesskap i hverdagen.

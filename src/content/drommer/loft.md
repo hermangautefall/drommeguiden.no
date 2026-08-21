@@ -38,7 +38,7 @@ I Jungs husmodell er de øvre etasjene knyttet til bevissthet, intellekt og det 
 
 Loftet er der skattene er — bestemorens gamle møbler, barndomsbilder, ting som har sentimental verdi men ikke praktisk plass. Drømmens loft kan representere noe verdifullt du har glemt å ta vare på: en evne, en relasjon, en del av deg selv.
 
-### Hva påvirker tolkningen?
+### Hva du fant på loftet
 
 **Hvis loftet var fullt av ting:**
 Et rikt arkiv — mange deler av fortiden er lagret og venter.
@@ -58,11 +58,11 @@ Klar tilgang til fortid og høyere tanke. Ingenting er skjult.
 **Hvis loftet var mørkt og støvete:**
 Noe er lenge ikke tenkt på, og det begynner å forsvinne.
 
-## Psykologisk perspektiv
+## Loftet i husets indre arkitektur
 
 Jung beskrev huset i drømmene som et av de viktigste arketypiske symbolene, og plasserte eksplisitt de ulike etasjene i en psykologisk hierarki: kjelleren som det ubevisste, første etasje som hverdagsbevisstheten, og de øvre etasjene — inkludert loftet — som det bevisste intellektet og den åndelige dimensjonen.
 
-## Kulturell og symbolsk betydning
+## Minnene vi tar vare på
 
 I norsk huskultur er loftet historisk sett et spesielt rom: på de gamle Husmannsplassene og gårdshusene var loftet gjerne der jentene sov, og det hadde en viss mystikk og privatliv. Å drømme om et norsk loft berører denne kulturelle arven av det halvt-private, det mellom-romlige.
 

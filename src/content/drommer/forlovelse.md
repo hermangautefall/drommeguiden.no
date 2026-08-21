@@ -22,7 +22,7 @@ relaterte_sovn:
 
 Forlovelse er ikke bare et romantisk ritual — det er en offentlig og privat bekreftelse av en dyptgripende beslutning: jeg velger dette. Jeg går inn i dette fullt og helt. I drømmenes symbolspråk bærer forlovelsen denne hele vekten.
 
-## De vanligste tolkningene
+## Løftet før løftet
 
 ### En forpliktelse du er klar for
 
@@ -46,7 +46,7 @@ Noen ganger er drømmens forlovelse ikke en bekreftelse, men en utfordring: hva 
 
 Slike drømmer oppstår gjerne i perioder med store beslutninger — der psyken tester forpliktelsen for å se hva som er sant.
 
-## Hva påvirker tolkningen?
+## Følelsen da spørsmålet kom
 
 **Hvis forlovelsen kjentes riktig og god:**
 En beslutning du er klar for. Noe i deg ønsker å forplikte seg fullt ut.

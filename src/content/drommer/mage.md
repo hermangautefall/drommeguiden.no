@@ -20,7 +20,7 @@ author: 'default'
 
 Magen er kroppens bearbeidingssenter — ikke bare for mat, men i drømmesymbolikken for erfaringer og emosjoner. "Magefølelse" er ikke bare et uttrykk — vi vet faktisk noe i magen før hodet har formulert det. Drømmene om magen handler om denne intuitive, kroppsbårne visdomsformen. Det er en helt annen type kroppsdrøm enn drømmer om [hjertet](/drommer/hjerte/), som handler om kjærlighet og mot.
 
-## De vanligste tolkningene
+## Magefølelsen og det du fordøyer
 
 ### Intuisjon og magefølelse
 
@@ -34,7 +34,7 @@ Magen fordøyer — og i drømmene kan dette bety at du bearbeider noe vanskelig
 
 Angst og uro setter seg gjerne i magen — vi kjenner sommerfugler, krimper, kvalme. Å drømme om magen kan speile en emosjonell tilstand som er så sterk at den tar bolig i kroppen. Hva er det du gruer deg til, er redd for, eller kjenner i bunn og grunn?
 
-## Hva påvirker tolkningen?
+## Hva du kjente i magen
 
 **Hvis magen var smertefull:**
 Noe du svelger er vanskelig å fordøye. Noe kjennes feil.

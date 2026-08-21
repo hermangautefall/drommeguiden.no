@@ -21,7 +21,7 @@ author: 'default'
 
 Å drømme om brudd — enten du forlater eller forlates — er en av de mest emosjonelt intense drømmene vi har. Du våkner med sorg, lettelse, eller en merkelig blanding av begge. Og du lurer på hva drømmen faktisk forsøker å si deg.
 
-## De vanligste tolkningene
+## Avslutningen som nærmer seg
 
 ### En overgang er på vei i livet ditt
 
@@ -45,7 +45,7 @@ Det er verdt å spørre: er det noe i livet mitt som drømmens brudd peker på �
 
 Hvis du har gjennom gått et brudd tidligere — romantisk eller annet — kan slike drømmer være spor av den bearbeidingen som aldri ble helt ferdig. Hjernen returnerer til emosjonelt uavsluttet materiale, særlig i perioder med nye livsendringer eller relasjonelt stress.
 
-## Hva påvirker tolkningen?
+## Hvem som gikk, og hvorfor
 
 **Hvis du var den som forlot:**
 Du vurderer et skifte — aktivt eller ubevisst. Hva vil du bort fra, eller mot?

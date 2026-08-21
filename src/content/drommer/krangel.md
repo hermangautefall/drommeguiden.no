@@ -22,7 +22,7 @@ relaterte_sovn:
 
 Drømmens krangel kan etterlate deg med en ubehagelig følelse av konflikt — særlig hvis den er med noen du er glad i. Men krangelen i drømmene er sjelden en spådom eller et faktisk bilde av et forhold. Den er mye oftere en indre dialog du har med deg selv.
 
-## De vanligste tolkningene
+## Hvem snakker egentlig i krangelen
 
 ### En indre konflikt eksternalisert
 
@@ -46,36 +46,14 @@ Det er ikke noe farlig. Det er faktisk sunt. Sinne som får et uttrykk — selv 
 
 Å krangle er å markere grenser. Drømmens krangel kan speile et behov for å sette grenser i virkeligheten — overfor en bestemt person, en situasjon eller en forventning du ikke lenger vil leve opp til. Psyken øver grensesettingen i drømmens trygge rom.
 
-## Hva påvirker tolkningen?
+## Hvordan krangelen endte
 
-**Hvis du krangler med en som er nær deg:**
-Enten et uavklart tema i den relasjonen, eller denne personen representerer en side av deg selv.
+Kranglet du med noen som står deg nær, er det enten et uavklart tema i den relasjonen, eller så representerer personen en side av deg selv. Kranglet du med en fremmed, er det oftere ren indre konflikt — den fremmede er en ukjent del av deg selv som du er i konflikt med. Endte krangelen i forsoning, er en indre konflikt i ferd med å løses, og noe motstridende begynner å finne fred. Eskalerte den i stedet og ble verre, øker spenningen i livet ditt, og noe trenger å adresseres — enten internt eller i en konkret relasjon. Sa du noe du angret på, er det gjerne fordi noe i deg er redd for å skade andre med din ærlighet eller ditt sinne. Og vant du krangelen, kan det speile et ønske om å bli hørt og anerkjent — eller en følelse av at noe i deg trenger å "vinne".
 
-**Hvis du krangler med en fremmed:**
-Ren indre konflikt — den fremmede er en ukjent del av deg selv som du er i konflikt med.
-
-**Hvis krangler endte i forsoning:**
-En indre konflikt er i ferd med å løses. Noe motstridende begynner å finne fred.
-
-**Hvis krangler ble verre og eskalerte:**
-Spenningen i livet ditt øker. Noe trenger å adresseres — enten internt eller i en relasjon.
-
-**Hvis du sa noe du angret på:**
-Noe i deg er redd for å skade andre med din ærlighet eller ditt sinne.
-
-**Hvis du vant krangler:**
-Et ønske om å bli hørt og anerkjent — eller en følelse av at noe i deg trenger å "vinne".
-
-## Psykologiske og kulturelle perspektiver
+## Fra Jungs komplekser til sagaens holmgang
 
 Konflikt er ett av psykologiens mest studerte mellommenneskelige fenomener — og ett av de minst studerte i drømmekontekst. Det er overraskende, fordi konfliktsymbolikk er svært vanlig i drømmene.
 
 Jung beskrev det han kalte "komplekser" — emosjonelt ladde tanke- og følelsesklynger som kan "ta over" i drømmene og agere som selvstendige figurer. Personen du krangler med i drømmen er gjerne aktiveringen av et slikt kompleks: en del av deg selv med stor emosjonell ladning.
 
 I norrøne sagaer er ærestvist — holmgang og verbal duell — ett av de mest ritualiserte konfliktmønstrene. Det interessante er at sagaens konflikter alltid handler om noe grunnleggende: ære, sannhet, tilhørighet. Drømmens krangel bærer gjerne den samme alvoret, selv om den handler om det trivielle.
-
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe uavklart eller uavsluttet i en relasjon?
-- Har du drømt om **krangel** med denne personen **flere ganger**?

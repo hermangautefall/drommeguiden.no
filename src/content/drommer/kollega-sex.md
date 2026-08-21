@@ -22,7 +22,7 @@ Det er en av drømmene folk er mest flaue over å fortelle om — og en av de al
 
 Ta pusten. Det betyr ikke at du er tiltrukket av dem. Det betyr ikke at du vil ha et forhold. Det betyr nesten alltid noe helt annet.
 
-## De vanligste tolkningene
+## Beundring og maktdynamikk
 
 ### Beundring for noe kollegaen representerer
 
@@ -46,7 +46,7 @@ Seksualitet i drømmen kan symbolisere et ønske om mer innflytelse, anerkjennel
 
 I perioder med press, konflikter eller utrygghet på jobb vil hjernen bearbeide dette gjennom drømmene. Seksuelle drømmer om kolleger kan oppstå nettopp i slike perioder — ikke som et uttrykk for begjær, men som psykens forsøk på å løse spenning og skape forbundethet i en kontekst der relasjoner er anspente.
 
-## Hva påvirker tolkningen?
+## Hva kollegaen representerer
 
 **Hvis det var en overordnet eller sjef:**
 Maktdynamikk og ønsket om anerkjennelse er sannsynlig tema. Hva vil du ha fra dem i arbeidslivet?
@@ -63,7 +63,7 @@ Noe uavklart i relasjonen eller noe ubearbeidet i din relasjon til arbeidslivet 
 **Hvis drømmen skapte ubehag på jobben neste dag:**
 Normalt og forventet — men husk at drømmer ikke er valgt. Du er ikke ansvarlig for hva hjernen gjør i søvnen.
 
-## Psykologiske og kulturelle perspektiver
+## Arbeidsplassen som sosialt landskap
 
 Forsker Deirdre Barrett ved Harvard Medical School har studert arbeidsrelaterte drømmer og dokumentert at seksuell aktivitet med kolleger er blant de vanligste drømmescenarioene — særlig i stressede arbeidsperioder. Konklusjonen er konsistent: det handler om relasjoner og maktdynamikk, ikke seksualitet.
 

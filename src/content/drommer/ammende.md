@@ -23,7 +23,7 @@ relaterte_sovn:
 
 Amming er en av de mest grunnleggende handlingene som finnes: å gi av kroppen sin, av seg selv, for å nære et annet liv. I drømmens symbolspråk er det ett av de kraftigste bildene for omsorg, offer og forbundethet — og for spørsmålet om grenser og ressurser.
 
-## De vanligste tolkningene
+## Å gi næring — og bli tømt
 
 ### Å gi av seg selv — omsorg og næring
 
@@ -47,7 +47,7 @@ Det kan handle om en relasjon du lengter etter å fordype, et kall du vil gi deg
 
 For mødre som faktisk ammer er drømmer om amming naturlig bearbeidende — kroppen og psyken integrerer en ny og krevende rolle. Slike drømmer kan speile glede, overgivelse, utmattelse, ambivalens eller alle disse på én gang.
 
-## Hva påvirker tolkningen?
+## Hvem du ammet, og hvordan det kjentes
 
 **Hvis ammingen kjentes godt og riktig:**
 Du gir med glede og overbevisning. Det du nærer, næres av det du gir.
@@ -64,7 +64,7 @@ Frykt for utilstrekkelighet: er det jeg gir nok? Har jeg nok å gi?
 **Hvis ammingen var smertefull:**
 Omsorg koster deg noe. Prisen er reell og merkes i kroppen.
 
-## Psykologiske og kulturelle perspektiver
+## Ammingen som urbilde
 
 Amming som symbol på guddommelig omsorg og næring er universelt: Isis som ammer Horus er ett av de eldste billedmotivene i menneskenes kunst. Maria lactans — den ammende Maria — er et sentralt motiv i europeisk kunst fra middelalderen. Bildet av en ammende [mor](/drommer/mor/) er ett av arketypenes mest primære.
 

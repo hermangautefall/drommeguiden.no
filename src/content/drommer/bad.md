@@ -22,7 +22,7 @@ Baderommet er [hjemmets](/drommer/hus/) mest private rom — det stedet vi er al
 
 Drømmer om bad dukker gjerne opp i perioder der noe trenger å renses bort, der noe privat er truet, eller der du står midt i en overgang mellom én livsfase og en annen.
 
-## De vanligste tolkningene
+## Å vaske noe av seg
 
 ### Renselse og behovet for å vaske bort
 
@@ -44,7 +44,7 @@ Badet er rommet du går inn i for å være utilgjengelig. Drømmens bad kan hand
 
 Vi bader før noe viktig: før jobben, før festen, før møtet med en annen. Drømmens bad kan signalisere at noe står for døren som du forbereder deg på — bevisst eller ubevisst. Det er overgangsritualet mellom hva du var og hva du skal være.
 
-## Hva påvirker tolkningen?
+## Vannet, rommet og hvem som var der
 
 **Hvis badet var rent og avslappende:**
 En god renselsesprosess — noe avsluttes og slipper taket.
@@ -70,7 +70,7 @@ Det private er ikke skjermet — du bærer noe sårbart eksponert ut i verden.
 **Hvis du badet sammen med noen du er nær:**
 Tillit og intimitet — det private deles trygt med noen.
 
-## Psykologiske og kulturelle perspektiver
+## Rituelle bad gjennom historien
 
 Renselsesritualet er ett av menneskenes eldste — det finnes spor av rituelle bad i nesten alle kultursfærer, og drømmens bad bærer på denne dype kulturelle vekten. Vannet renser ikke bare kropp, men også symbolsk sjelen.
 

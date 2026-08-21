@@ -20,7 +20,7 @@ author: 'default'
 
 Arbeidsdrømmer er blant de vanligste drømmene voksne rapporterer — og de er gjerne ubehagelige. Du er på jobb, men noe går galt. Du er sent, uforberedt, mister kontrollen, glemmer noe avgjørende. Det er en drømmetype som sier mye om forholdet ditt til arbeid, identitet og egne krav.
 
-## De vanligste tolkningene
+## Jobben som følger med inn i søvnen
 
 ### Identitet og selvverd gjennom jobb
 
@@ -42,7 +42,7 @@ Noen ganger er budskapet enklere og mer alvorlig: du klarer ikke å koble fra. J
 
 Drømmene prosesserer relasjonelle spenninger, og jobbens konflikter og maktdynamikker er rike drømmemateriale. Kollegaer, sjefer og arbeidsoppgaver er alle symboler for bredere psykologiske temaer — se symbolene for [sjef](/drommer/sjef/) og [kollega-sex](/drommer/kollega-sex/).
 
-## Hva påvirker tolkningen?
+## Hva du gjorde på jobb i drømmen
 
 **Hvis du var produktiv og effektiv i drømmens jobb:** En periode der du er i flytsonen — arbeidet kjennes meningsfullt og godt.
 
@@ -54,7 +54,7 @@ Drømmene prosesserer relasjonelle spenninger, og jobbens konflikter og maktdyna
 
 **Hvis du sluttet i drømmen:** Et ønske om frihet eller forandring som kanskje fortjener oppmerksomhet.
 
-## Psykologiske og kulturelle perspektiver
+## Arbeid, identitet og det å koble av
 
 Forsker Tore Nielsen dokumenterte at arbeidsdrømmer har økt markant i frekvens siden 1980-åra — sammenfallende med fremveksten av en arbeidskultur der jobben er blitt primær identitetsarena.
 

@@ -22,7 +22,7 @@ Stranden er et av de mest poetiske og symbolmettede stedene i drømmeverdenen �
 
 Stranddrømmene er sjelden nøytrale — de er ladede med stemning og følelse.
 
-## De vanligste tolkningene
+## Grenselandet mellom to tilstander
 
 ### Et grenseland mellom to tilstander
 
@@ -38,7 +38,7 @@ Stranden er i moderne tid blitt et symbol på ferie og frihet fra hverdagens kra
 
 En vid strand med horisonten foran deg er et av de sterkeste bildene på muligheter og frihet. Drømmen kan komme i perioder der du opplever begrensninger, og speile et ønske om mer åpenhet, mer rom, mer frihet til å velge.
 
-## Hva påvirker tolkningen?
+## Om du gikk uti eller ble stående
 
 **Hvis stranden var rolig og vakker:**
 Indre ro, hvile og en positiv overgang. Du er klar for noe nytt.
@@ -55,7 +55,7 @@ Ensomhet, stillhet og muligens et behov for å finne andre mennesker — eller f
 **Hvis du ikke kunne nå stranden:**
 Et sted du ønsker å komme til — hvile, frihet, overgang — som fortsatt føles utenfor rekkevidde.
 
-## Psykologiske og kulturelle perspektiver
+## Møtet mellom land og hav
 
 I jungiansk psykologi er havet et symbol på det kollektive ubevisste — det store, dype, udefinerbare. Stranden er grensen mellom dette og den bevisste verden. Å stå på stranden i drømmen er å stå i bevisstheten og se ut mot det som er større enn deg. Drømmer der [solen](/drommer/sol/) skinner på stranden forsterker ofte det positive og livgivende aspektet.
 

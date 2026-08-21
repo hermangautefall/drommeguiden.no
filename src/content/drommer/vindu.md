@@ -20,7 +20,7 @@ author: 'default'
 
 Vinduet er ikke en [dør](/drommer/dor/) — du kan ikke gå gjennom det. Men det gir deg noe døren ikke gir: utsyn. Muligheten til å se uten å delta, til å observere uten å eksponere deg. I drømmeverdenen er vinduet knyttet til perspektiv, til det å se klart, og til grensen mellom din indre verden og verden utenfor.
 
-## De vanligste tolkningene
+## Utsikten og avstanden
 
 ### Ditt perspektiv og din evne til å se
 
@@ -34,7 +34,7 @@ Vinduet gir deg utsyn til noe du ikke er inne i — og drømmens vindu kan repre
 
 [Huset](/drommer/hus/) er selvet — og vinduet er der innsiden kan se utover og utsiden kan se inn. Drømmens vindu handler om denne grensen: hva slipper du inn, hva holder du ut, og hvordan ser du på verden fra der du er?
 
-## Hva påvirker tolkningen?
+## Om vinduet var åpent eller lukket
 
 **Hvis vinduet var klart:**
 Klar innsikt og godt perspektiv. Du ser situasjonen slik den er.
@@ -54,7 +54,7 @@ Du åpner opp for noe — ny luft, ny informasjon, ny kontakt med verden.
 **Hvis du satt ved vinduet og betraktet:**
 En observerende og reflekterende fase — du ser på livet fra siden.
 
-## Psykologiske og kulturelle perspektiver
+## Vinduet mellom inne og ute
 
 Vinduet er i arkitektur- og rompsykologi en av de mest psykologisk ladde elementene i et hjem — det er [lyset](/drommer/lys/) som kommer inn, det er utsikten, det er kontakten med verden. Hjem uten vinduer er fengsler; hjem med store vinduer er frihet. I drømmene bærer vinduet på denne symbolske vekten.
 

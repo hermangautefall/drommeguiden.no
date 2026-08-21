@@ -24,7 +24,7 @@ relaterte_sovn:
 
 Drømmens kule er usynlig, den kommer uten forvarsel, og den treffer. Det er ett av drømmenes sterkeste bilder på et plutselig og uventet angrep — og i drømmenes symbolspråk handler det sjelden om faktisk vold.
 
-## De vanligste tolkningene
+## Kulen som treffer uten forvarsel
 
 ### Et uventet angrep på noe viktig
 
@@ -56,22 +56,9 @@ Beina: et angrep på det som bærer deg og gir deg retning.
 
 For dem som har vært utsatt for faktisk vold, trusler eller traumatiske hendelser: drømmens skudd kan være direkte bearbeiding av disse erfaringene. Se guiden om [PTSD og drømmer](/sovn/ptsd-drommer/) for mer om dette.
 
-## Hva påvirker tolkningen?
+## Hvem trakk av — og hvor du ble truffet
 
-**Hvis du overlevde skuddet:**
-Du er mer motstandsdyktig enn du tror. Noe rammet — men det knekte deg ikke.
-
-**Hvis du var alvorlig skadet:**
-Noe i livet ditt har skadet deg dypt. Det fortjener oppmerksomhet og omsorg.
-
-**Hvis du visste hvem som skjøt:**
-Spesifikk person knyttet til en smerteerfaring. Hva har denne personen gjort mot deg?
-
-**Hvis skytteren var ukjent:**
-En diffus trussel — noe i omgivelsene dine som er fiendtlig, men ikke lett å identifisere.
-
-**Hvis du ble skutt fra bak:**
-Et svik — noe eller noen du stolte på, angrep deg der du var sårbar.
+Overlevde du skuddet i drømmen, er det gjerne et tegn på at du er mer motstandsdyktig enn du tror — noe rammet deg, men det knekte deg ikke. Var skaden alvorlig, kan det speile noe i livet som har skadet deg dypt og som fortjener oppmerksomhet og omsorg. Visste du hvem som skjøt, er det ofte den tydeligste ledetråden av alle: en konkret person knyttet til en smerteerfaring, og spørsmålet blir hva denne personen egentlig har gjort mot deg. Var skytteren ukjent, peker drømmen oftere mot en mer diffus trussel — noe i omgivelsene dine som kjennes fiendtlig uten at du klarer å sette fingeren på det. Og ble du skutt bakfra, handler det gjerne om svik: noen eller noe du stolte på, som rammet deg akkurat der du var mest sårbar.
 
 ## Å bli truffet — sårbarhet og angrep
 
@@ -80,9 +67,3 @@ Et svik — noe eller noen du stolte på, angrep deg der du var sårbar.
 I kjernen handler drømmen om sårbarhet og avmakt — det plutselige, det du ikke kunne forutse eller forsvare deg mot. Mange opplever slike drømmer som en slags øvelse: sinnet tester ut en trusselrespons i et trygt rom, uten at det betyr at noe farlig faktisk venter.
 
 Det fine er at det du ofte sitter igjen med etter en slik drøm, er en følelse av å ha overlevd — og det er ikke tilfeldig. Å overleve skuddet i drømmen peker ofte mot at du har mer motstandskraft enn du tror, selv om noe har truffet deg hardt.
-
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe som har rammet deg hardt og uventet?
-- Har du drømt om **å bli angrepet eller skadet** **flere ganger**?

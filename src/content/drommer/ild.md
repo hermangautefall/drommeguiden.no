@@ -22,7 +22,7 @@ Ild er ett av de fire klassiske elementene — og i drømmeverdenen er det kansk
 
 Å drømme om ild er å drømme om noe som er i full forandring. Det er sjelden et rolig symbol.
 
-## De vanligste tolkningene
+## Det som brenner og det som renser
 
 ### Transformasjon — det som brennes bort
 
@@ -46,7 +46,7 @@ Asken etter ilden er ikke ingenting. Den er fruktbar jord.
 
 Ilden er destruktiv når den er ukontrollert — og drømmens ild kan representere en vrede som ikke har funnet et konstruktivt uttrykk. En undertrykt aggresjon som nå brenne i det ubevisste. Noe som kan ødelegge det man holder kjært dersom det ikke møtes og bearbeides.
 
-## Hva påvirker tolkningen?
+## Ildens størrelse og om den var under kontroll
 
 **Hvis ilden var kontrollert og varm:**
 En livsgivende kraft — varme, kreativitet og livsenergi som er i din tjeneste.
@@ -72,7 +72,7 @@ Du er i stand til å stå i det intense uten å brenne opp. En indre styrke.
 **Hvis ilden var vakker og fascinerende:**
 En kraft i deg som tiltrekker seg selv om den er intens. Noe er levende og ladet.
 
-## Psykologiske og kulturelle perspektiver
+## Prometheus og ildens pris
 
 Prometheus stjal ilden fra gudene og ga den til menneskene — og ble straffet for det i evighet. Ilden er menneskenes gave og menneskenes forbannelse: den som setter oss over dyrene og den som kan ødelegge oss. I norrøn kosmologi er Muspelheim — ildriket — ett av de to urspringene til eksistensen, i den evige spenning mot Niflheims [is](/drommer/is/). Ild og is skapte verden.
 

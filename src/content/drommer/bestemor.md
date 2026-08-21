@@ -22,7 +22,7 @@ Bestemoren har en spesiell plass i drømmesymbolikken — hun er generasjonen ba
 
 Drømmer om bestemoren dukker gjerne opp i perioder der noe i livet ditt trenger et større perspektiv, der det å være forbundet med fortiden er viktig, eller der du leter etter en form for ubetinget omsorg som ikke krever noe tilbake.
 
-## De vanligste tolkningene
+## Visdommen, røttene og tryggheten
 
 ### Visdom og erfaring
 
@@ -44,7 +44,7 @@ I dybdepsykologien kan bestemoren stå for noe arketypisk — den "vise gamle kv
 
 Bestemødre dør gjerne før resten av familien — og blir derfor ofte de første "avdøde" figurer som dukker opp i drømmene. Hvis bestemoren er [avdød](/drommer/avdod-person/) men levende i drømmen, beskriver de fleste opplevelsen som spesielt ekte og trøstende. Disse drømmene kan komme i perioder med sorg, store livsbeslutninger eller når noe i deg ber om bekreftelse fra noe utenfor det dagligdagse.
 
-## Hva påvirker tolkningen?
+## Om hun levde eller var gått bort
 
 **Hvis bestemoren var glad og frisk:**
 Trygghet, visdom og varme er tilgjengelig for deg. Et godt tegn.

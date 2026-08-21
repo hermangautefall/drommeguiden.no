@@ -20,7 +20,7 @@ author: 'default'
 
 Negler er kroppen sin ytterste lag — de vokser, kappes, males, bites og pleies. De er grensen mellom fingertuppens indre og verden utenfor. I drømmenes symbolspråk bærer de denne grensefunksjonen — og legger til det med kontroll, grep og ytre uttrykk.
 
-## De vanligste tolkningene
+## Grenser, grep og selvpresentasjon
 
 ### Grenser og selvforsvar
 
@@ -44,7 +44,7 @@ Drømmer om nypente, vakre negler kan speile et ønske om å fremstå vel — el
 
 Negler vokser kontinuerlig — de er ett av kroppens tydeligste bilder på konstant, umerkelig vekst. Å klippe neglene er å kutte det som ikke lenger tjener deg, gjøre plass til nytt. Drømmens negle-kapping kan speile nettopp dette: avslutninger, ryddeprosesser, det å frigjøre seg fra noe som har vokst seg for langt.
 
-## Hva påvirker tolkningen?
+## Neglenes tilstand
 
 **Hvis neglene var lange og sterke:**
 Du føler deg beskyttet og har godt grep om situasjonen din.
@@ -64,7 +64,7 @@ Et ønske om å fremstå vel, eller en tilfredshet med eget uttrykk og selvbilde
 **Hvis neglene var mørke eller skitne:**
 Noe ved din selvpresentasjon eller dine grenser oppleves som skjult eller dårlig vedlikeholdt.
 
-## Psykologiske og kulturelle perspektiver
+## Neglen som ytre signal
 
 Negler har en overraskende rik folkloristisk tradisjon. I norsk folkemedisin og folketro ble avklipte negler og hår behandlet med forsiktighet — de var en del av personen og kunne brukes i magi. Å etterlate negler uforsiktig var å etterlate seg sårbar.
 

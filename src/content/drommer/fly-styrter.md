@@ -26,7 +26,7 @@ Drømmen om flyulykke er en av de mest intense og virkelighetsnære angstdrømme
 
 La oss starte med det viktigste: å drømme om flyulykke er ikke et varsel om at noe faktisk vil skje. Det er en av de vanligste angstdrømmene som finnes, og den handler nesten alltid om noe helt annet enn [flyging](/drommer/flyging/).
 
-## De vanligste tolkningene
+## Når noe stort svikter
 
 ### Tap av kontroll over noe viktig
 
@@ -50,7 +50,7 @@ Interessant nok rapporterer mange som er genuint redde for å fly at de sjelden 
 
 Flyet fraktes fra ett sted til et annet — og i drømmesymbolikken er reiser gjerne bilder på overganger i livet. Å drømme om at flyet styrter midt i en slik overgang kan speile en frykt for at overgangen vil mislykkes — at du ikke vil komme frem, at noe vil gå galt underveis.
 
-## Hva påvirker tolkningen?
+## Om du var om bord eller så på
 
 **Hvis du var pilot og styrtet:**
 Du er ansvarlig for noe som mislykkes — ikke bare passasjer, men den som har kontrollen. Et større ansvar og en tilsvarende større følelse av svikt.
@@ -70,7 +70,7 @@ Du er vitne til noe som kollapser — i livet til andre, eller noe du har avstan
 **Hvis flyet aldri nådde bakken:**
 Angsten er til stede, men katastrofen inntreffer ikke. Frykten er større enn den faktiske faren.
 
-## Psykologiske og kulturelle perspektiver
+## Flystyrten som bilde på ambisjon
 
 Flydrømmer er fascinerende fordi de kombinerer to av de sterkeste arketypiske drømmtemaene: flyging (frihet, ambisjon, det hevede perspektivet) og [fall](/drommer/falle/) (tap av kontroll, sammenbrud, retur til det jordlige). En flyulykke er på en måte den mest dramatiske kombinasjonen av disse to — ambisjonen som kollapser, friheten som brytes.
 

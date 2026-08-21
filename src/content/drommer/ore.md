@@ -20,7 +20,7 @@ author: 'default'
 
 Øret er i drømmesymbolikken lytteorganet — og dermed symbolet på oppmerksomhet, kommunikasjon og det å åpne seg for noe utenfor seg selv. Drømmer om ører handler om hørsel i videste forstand: hva lytter du til, hva stenger du ute, og hva prøver å nå deg? De henger tett sammen med drømmer om [øyne](/drommer/oyne/), som handler om det du ser og ikke ser.
 
-## De vanligste tolkningene
+## Å høre — og å bli hørt
 
 ### Noe prøver å nå deg — lyt bedre
 
@@ -34,7 +34,7 @@ Drømmer om ører kan handle like mye om det å selv bli hørt som om det å hø
 
 Ørene kan lukkes — vi kan velge hva vi hører på, hva vi tror på, hva vi slipper inn. Drømmens øre handler tidvis om dette valget: hva velger du å ta inn i bevisstheten, og hva velger du å stenge ute?
 
-## Hva påvirker tolkningen?
+## Hva du oppfattet eller ikke
 
 **Hvis ørene var store:**
 Stor lytte-kapasitet og åpenhet — du tar inn mye fra omverdenen.
@@ -51,7 +51,7 @@ Det du hørte er ladet med mening — hva sa de?
 **Hvis du ikke kunne høre:**
 En isolasjon eller en avskjæring fra noe viktig. Se også [munnen](/drommer/munn/) som handler om det du uttrykker.
 
-## Psykologiske og kulturelle perspektiver
+## Lytting som kulturell ferdighet
 
 I mange spirituelle tradisjoner er lytteevnen knyttet til visdom — den vise hører mer enn den taler. "Den som har ører, hør" er ett av historiens mest gjentatte visdomsuttrykk. Å drømme om ører er å drømme om selve grunnlaget for forståelse: at vi faktisk mottar det som sendes.
 

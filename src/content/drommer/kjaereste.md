@@ -24,7 +24,7 @@ relaterte_sovn:
 
 Tonen i drømmen er gjerne viktigere enn handlingen.
 
-## De vanligste tolkningene
+## Relasjonen speilet tilbake
 
 ### Relasjonen speiles som den egentlig er
 
@@ -38,7 +38,7 @@ Drømmer om kjæresten kan fungere som et ærlig speil av hvordan du egentlig op
 
 En av de vanligste og mest ubehagelige variantene er at kjæresten bedrager deg i drømmen. Dette er sjelden et varsel om at det faktisk skjer — det speiler mye oftere en egen usikkerhet, en gammel sårhet fra tidligere relasjoner — kanskje knyttet til [eksen](/drommer/eksen/) — eller en periode med distanse og uklarhet mellom dere.
 
-## Hva påvirker tolkningen?
+## Stemningen mellom dere
 
 **Hvis drømmen var varm og god:**
 Trygghet og kjærlighet er til stede. Drømmen bekrefter noe positivt i relasjonen.

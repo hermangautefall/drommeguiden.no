@@ -22,7 +22,7 @@ author: 'default'
 
 Fangenskap er et av de sterkeste menneskelige symbolene på ufrihet — og i drømmeverdenen brukes det for å uttrykke svært mange ulike typer begrensning.
 
-## De vanligste tolkningene
+## Fangevokteren er ofte deg selv
 
 ### Du føler deg fanget i noe du ikke ser utveien fra
 
@@ -48,25 +48,9 @@ Noen ganger er fengselet en relasjon — et partnerskap, en familiesituasjon, en
 
 Drømmen er ikke nødvendigvis en oppfordring til å flykte — den er en invitasjon til å erkjenne at noe klemmer, og kanskje begynne å snakke om det.
 
-## Hva påvirker tolkningen?
+## Rømte du, eller ble du?
 
-**Hvis du visste hvorfor du var i fengsel:**
-En konkret situasjon, handling eller valg som du holder deg selv ansvarlig for. Et klart område å jobbe med.
-
-**Hvis du ikke visste hvorfor du var der:**
-En diffus, uforklart følelse av å være begrenset — kanskje en betingelse du har akseptert så lenge at du ikke lenger ser den som unødvendig.
-
-**Hvis du prøvde å rømme:**
-Et aktivt ønske om frihet og endring. Noe i deg er klar til å bryte ut — spørsmålet er hva som holder deg tilbake.
-
-**Hvis du rømte:**
-Et positivt tegn — frigjøring er mulig, og du har ressursene til å gjennomføre den.
-
-**Hvis andre var i fengsel med deg:**
-Delte begrensninger — kanskje en situasjon der hele gruppen, familien eller teamet er fanget i noe som ikke fungerer.
-
-**Hvis fengselet var komfortabelt:**
-En av de mer tankevekkende variantene — noe du er fanget i gir deg også trygghet og forutsigbarhet. Du er ikke sikker på om du egentlig vil ut.
+Visste du hvorfor du satt fengslet, peker det mot en konkret situasjon, handling eller et valg du holder deg selv ansvarlig for — et klart område å jobbe videre med. Var årsaken uklar, handler det oftere om en diffus, uforklart følelse av å være begrenset, kanskje en betingelse du har akseptert så lenge at du ikke lenger ser den som unødvendig. Prøvde du å rømme, er det et aktivt ønske om frihet og endring — noe i deg er klar til å bryte ut, og spørsmålet er hva som egentlig holder deg tilbake. Lyktes rømningen, er det et positivt tegn: frigjøring er mulig, og du har ressursene som skal til for å gjennomføre den. Var andre fanget sammen med deg, kan det speile delte begrensninger — kanskje en situasjon der hele gruppen, familien eller teamet er fanget i noe som ikke fungerer. Og var fengselet overraskende komfortabelt, er det en av de mer tankevekkende variantene: noe du er fanget i gir deg også trygghet og forutsigbarhet, og du er ikke sikker på om du egentlig vil ut.
 
 ## Innestengt — ytre og indre murer
 
@@ -75,11 +59,3 @@ Den vanligste lesningen av fengselsdrømmer handler om å føle seg fanget eller
 For andre kan fengselet handle om skyld eller samvittighet — en følelse av å straffe seg selv, eller en uro for konsekvenser av noe som har skjedd. Sprinklene i drømmen kan også representere mentale og følelsesmessige begrensninger du selv har bygget opp over tid: overbevisninger om hva du ikke kan, ikke fortjener, eller ikke får lov til. Et nyttig spørsmål å ta med seg er gjerne: hvem holder egentlig nøkkelen?
 
 Mye av dette handler om hvordan vi, ofte uten å merke det, internaliserer regler og forventninger og blir våre egne voktere. Å drømme om fengsel kan derfor være en vennlig påminnelse om å undersøke hvilke av disse murene som faktisk er nødvendige — og hvilke du kanskje kan gå gjennom.
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om fengsel **flere ganger**?

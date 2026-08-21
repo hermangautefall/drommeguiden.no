@@ -23,7 +23,7 @@ Krigsdrømmer er blant de mest intense og overveldende vi kan ha — fylt med ka
 
 Krig er ett av menneskenes sterkeste bilder på konflikt i ekstrem form, og underbevistheten bruker det for å kommunisere noe den ikke finner mildere ord for. Mange opplever også at krigsdrømmer glir over i drømmer om å bli [forfulgt](/drommer/forfulgt/) eller å måtte flykte.
 
-## De vanligste tolkningene
+## Hvilken krig sinnet ditt egentlig utkjemper
 
 ### En intens indre konflikt
 
@@ -47,25 +47,9 @@ Noen krigsdrømmer har en annen kvalitet — der du er soldat som kjemper for no
 
 Krig kan også symbolisere en alvorlig konflikt i en konkret relasjon — der det ikke lenger er snakk om uenighet, men om en mer fundamental kamp om makt, respekt eller territorium. Hvem er fienden i drømmens krig? Det kan gi ledetråder.
 
-## Hva påvirker tolkningen?
+## Din rolle på slagmarken
 
-**Hvis du kjempet aktivt:**
-Du er ikke passiv i konflikten — du engasjerer deg, forsvarer eller angriper. Spørsmålet er hva du kjemper for og mot.
-
-**Hvis du flyktet fra krigen:**
-Unngåelse — en konflikt i livet ditt som du prøver å holde avstand til i stedet for å møte.
-
-**Hvis du så krigen på avstand:**
-Du er klar over konflikten men er ikke midt i den. En observatørposisjon som kan speile distanse eller hjelpeløshet.
-
-**Hvis du mistet noen i krigen:**
-Sorg og tap knyttet til noe eller noen — det som går tapt i konflikt er gjerne noe verdifullt. Se også drømmer om [avdøde personer](/drommer/avdod-person/) for mer om tapstematikk.
-
-**Hvis krigen endte:**
-En løsning er mulig. Fred og forsoning er innen rekkevidde — enten i et indre eller ytre landskap.
-
-**Hvis du ikke visste hvorfor det var krig:**
-En diffus konflikt uten klart definert årsak — kanskje en underliggende spenning du ikke har satt ord på.
+Kjempet du aktivt i drømmen, er du ikke passiv i konflikten — du engasjerer deg, forsvarer eller angriper, og spørsmålet blir hva du egentlig kjemper for og mot. Flyktet du fra krigen i stedet, handler det ofte om unngåelse: en konflikt i livet ditt som du prøver å holde avstand til i stedet for å møte. Så du krigen på avstand uten å være midt i den, er du klar over konflikten, men i en observatørposisjon som kan speile distanse eller hjelpeløshet. Mistet du noen i krigen, bærer drømmen gjerne på sorg og tap knyttet til noe eller noen — det som går tapt i konflikt er ofte noe verdifullt (se også drømmer om [avdøde personer](/drommer/avdod-person/) for mer om tapstematikk). Endte krigen, peker drømmen mot at en løsning er mulig — fred og forsoning er innen rekkevidde, enten i et indre eller ytre landskap. Og visste du ikke hvorfor det var krig, kan det speile en diffus konflikt uten klart definert årsak, kanskje en underliggende spenning du ikke har satt ord på ennå.
 
 ## Den indre og den ytre konflikten
 
@@ -74,11 +58,3 @@ Mange krigsdrømmer handler aller mest om det som skjer inne i deg, ikke ute i v
 Andre ganger speiler drømmen et miljø som rett og slett kjennes som en slagmark — en anspent arbeidsplass, en vond familiekonflikt, eller et forhold der det føles som man hele tiden må forsvare seg. Drømmen setter ord på en belastning du kanskje ikke har innsett hvor stor den er.
 
 Det er også verdt å nevne, varsomt, at krigsdrømmer kan øke i perioder der mye uro i verden fyller nyhetsbildet — sinnet bearbeider også det vi ser og leser om, selv når vi ikke er direkte berørt. Uansett hva drømmen springer ut av, peker den ofte mot temaer som å holde ut, velge sine kamper med omhu, og lengselen etter fred.
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om krig **flere ganger**?

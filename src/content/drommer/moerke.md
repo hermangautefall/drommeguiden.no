@@ -20,7 +20,7 @@ author: 'default'
 
 Mørket er ikke fravær — det er tilstedeværelse av noe ennå ukjent. I drømmenes symbolspråk er mørket ett av de viktigste symbolene for det ubevisste: det store, det fulle, det som ikke er synlig i det direkte lysets forstand, men som er der — levende og aktivt.
 
-## De vanligste tolkningene
+## Det ukjente og det ukontrollerte
 
 ### Det ubevisste i sin reneste form
 
@@ -42,7 +42,7 @@ Drømmens mørke kan speile at du er i en slik tilstand: noe er i ferd med å ta
 
 Mørket er også sorgbilde. I perioder med depresjon, sorg eller indre vinterlandskap dukker mørket opp som drømmens naturlige scenografi. Det er ikke diagnosebilde — det er psykens sanne beskrivelse av den indre tilstanden.
 
-## Hva påvirker tolkningen?
+## Om mørket var truende eller trygt
 
 **Hvis mørket var truende:** Frykt for det ukjente er aktivt. Noe i livet ditt er uoversiktlig og det skaper angst.
 
@@ -54,7 +54,7 @@ Mørket er også sorgbilde. I perioder med depresjon, sorg eller indre vinterlan
 
 **Hvis mørket skjulte noe:** Det er noe i det ubevisste som ønsker oppmerksomhet — noe som ennå ikke har kommet til lyset.
 
-## Psykologiske og kulturelle perspektiver
+## Mørket før begynnelsen
 
 Mørket som hellig er ett av religionshistoriens gjennomgående temaer. Den apofatiske teologien — læren om at Gud er hinsides all menneskelig forståelse og derfor best beskrives som mørke — er en av kristendommens eldste tradisjoner. Meister Eckhart: "Gud er en strøm av mørke." Johannes av korset: "Den mørke natt i sjelen."
 

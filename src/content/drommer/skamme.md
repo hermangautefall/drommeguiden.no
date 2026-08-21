@@ -21,7 +21,7 @@ author: 'default'
 
 Skam er en av de tyngste og mest universelle menneskelige emosjoner. Den er ikke det samme som skyld — skyld sier "jeg har gjort noe galt", men skam sier "jeg er noe galt". Å drømme om å skamme seg er å møte denne stemmen direkte — og det sier som oftest mer om selvbildet ditt enn om hva du faktisk har gjort.
 
-## De vanligste tolkningene
+## Den indre dommerstemmen
 
 ### Selvkritikk og den indre dommerstemmen
 
@@ -43,7 +43,7 @@ Impostorfølelsen — den vedvarende frykten for at andre snart vil oppdage at d
 
 Noen bærer på skam de fikk med seg tidlig — fra oppvekst, fra krenkelser, fra kultur og religion som satte skarpe grenser for hva som var akseptabelt å være. Drømmens skam kan reaktivere disse gamle lagene — og invitere til en ny vurdering av dem fra et voksent perspektiv.
 
-## Hva påvirker tolkningen?
+## Hvem som så deg
 
 **Hvis du visste hva du skammet deg over:** Det spesifikke innholdet er nøkkelen — hva er det du ikke aksepterer i deg selv?
 
@@ -55,7 +55,7 @@ Noen bærer på skam de fikk med seg tidlig — fra oppvekst, fra krenkelser, fr
 
 **Hvis skammen forsvant i drømmen:** En prosess mot aksept er i gang.
 
-## Psykologiske og kulturelle perspektiver
+## Skam og bedragerfølelse
 
 Skamforsker June Price Tangney beskriver to typer skam: adaptiv skam som regulerer sosial atferd, og maladaptiv skam som er kronisk, global og knyttet til selve identiteten. Drømmens skam tilhører gjerne den siste kategorien.
 

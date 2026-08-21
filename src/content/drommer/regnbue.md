@@ -53,11 +53,11 @@ Et dobbelt løfte eller en ekstra sterk forsikring. Særlig ladet.
 **Hvis regnbuen var over vann:**
 Håp i det emosjonelle livet — en periode med følelsesmessig klargjøring er på vei.
 
-## Psykologisk perspektiv
+## Integrasjon av motsetninger
 
 Regnbuen representerer i drømmepsykologi integrasjon av motsetninger — alle farger samlet i ett harmonisk bilde. Det er ett av de sterkeste symbolene på psykologisk helhet og forsoning mellom ulike deler av selvet.
 
-## Kulturell og symbolsk betydning
+## Buen som løfte og bro
 
 Bifrost — regnbuebroen i norrøn mytologi — er vakker men farlig: bare gudene og de verdige kan krysse den under den store [himmelen](/drommer/himmel/), og ved Ragnarok brytes den av jotunenes tyngde. I kristen tradisjon er regnbuen Guds pakt med Noah etter syndfloden — et løfte om at ødeleggelsen ikke skal gjenta seg. Uavhengig av tradisjon bærer regnbuen på det samme kjernebudskapet: det er OK. Det blir bedre.
 

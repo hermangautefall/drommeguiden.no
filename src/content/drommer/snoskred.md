@@ -23,7 +23,7 @@ Snøskredet er det norske [fjellets](/drommer/fjell/) mest dramatiske og fryktin
 
 I drømmeverdenen er snøskredet ett av de sterkeste bildene på noe som lenge har bygget seg opp og plutselig slipper.
 
-## De vanligste tolkningene
+## Presset som løsner
 
 ### Overveldende press som slipper løs
 
@@ -39,7 +39,7 @@ Skredet endrer landskapet permanent på sekunder. Drømmens snøskred kan repres
 
 Mot et snøskred er man liten. Det hjelper ikke å springe. Det er ett av naturens absolutte uttrykk for at mennesket ikke er i kontroll. Drømmens snøskred kan speile en følelse av absolutt overveldelse — at noe er for stort til å møtes.
 
-## Hva påvirker tolkningen?
+## Om du ble tatt eller kom unna
 
 **Hvis du overlevde skredet:**
 Du har ressurser til å komme deg gjennom det overveldende. Noe slutter — men du er der.
@@ -56,7 +56,7 @@ En flukt fra noe som truer deg — men skredet er raskere enn deg.
 **Hvis det var stille etter skredet:**
 Stillheten etter det som veltet — noe er over, og noe nytt begynner.
 
-## Psykologiske og kulturelle perspektiver
+## Skredet som plutselig omveltning
 
 For nordmenn er snøskredet ikke et abstrakt bilde — det er en reell og nær fare for alle som ferdes i fjellene. Den norske fjellvettregelen om å kjenne skredfare er ikke metaforisk; det er overlevelse. Drømmens snøskred bærer på denne konkrete frykten i norsk fjellkultur.
 

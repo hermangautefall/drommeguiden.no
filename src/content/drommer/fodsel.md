@@ -22,7 +22,7 @@ Fødsel er det sterkeste bildet på ny begynnelse vi har — det øyeblikket noe
 
 Disse drømmene er sjelden hverdagslige. De bærer gjerne på noe av det dypeste i drømmens symbolspråk.
 
-## De vanligste tolkningene
+## Noe nytt som ser dagens lys
 
 ### Noe nytt kommer til verden
 
@@ -44,7 +44,7 @@ Fødsel og kreativitet er knyttet sammen i alle kulturer — vi "føder ideer", 
 
 Å se et [barn](/drommer/barn/) bli født — eller å holde det nyfødte — bærer på noe av det tyngste vi kan bære: ansvaret for et liv, omsorgen for noe fullstendig sårbart. Drømmens fødsel kan handle om dette: du bærer på et ansvar som er reelt og viktig, for noe eller noen som er avhengig av deg.
 
-## Hva påvirker tolkningen?
+## Omstendighetene rundt fødselen
 
 **Hvis du selv fødte:**
 Noe dypt personlig kommer til verden — en ny del av deg selv, en kreativ produksjon som er genuint ditt.

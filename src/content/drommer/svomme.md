@@ -56,11 +56,11 @@ Du beveger deg gjennom noe du ikke fullt ut kan se eller forstå ennå.
 **Hvis du ikke kom frem:**
 Innsatsen er der, men målet er ikke innen rekkevidde ennå. Fortsett.
 
-## Psykologisk perspektiv
+## Å bevege seg aktivt i følelsene
 
 I jungiansk forstand er svømmingen en av de mest aktive og modige drømmene man kan ha i vannets verden — du er ikke på land (distanse), du drukner ikke (maktesløshet), du svømmer (aktiv navigasjon). Det er egostyrkens svar på det ubevisste: jeg er her, jeg beveger meg, jeg velger retning.
 
-## Kulturell og symbolsk betydning
+## Svømming som mestring
 
 I norrøn tradisjon er evnen til å svømme nær hellig — sjøfolk som ikke kunne svømme var hjelpeløse ved havari, og [havet](/drommer/hav/) var like mye liv som død. Å svømme er å ha respekt for vannet uten å la det beseire deg.
 

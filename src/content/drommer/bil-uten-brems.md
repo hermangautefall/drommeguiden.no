@@ -20,7 +20,7 @@ author: 'default'
 
 Du trykker på bremsene — og ingenting skjer. Bilen fortsetter, akselererer kanskje, og du ser katastrofen nærme seg uten å kunne gjøre noe. Det er ett av de mest intense kontrolltapscenarioene i drømmeverdenen — og ett av de mest søkte.
 
-## De vanligste tolkningene
+## Farten du ikke får stoppet
 
 ### Tap av kontroll over livets retning
 
@@ -44,7 +44,7 @@ Av og til handler bremse-løs-drøm ikke om hverdagstempo, men om en spesifikk s
 
 Mennesker med et sterkt kontrollbehov — de som trenger å planlegge, forutse og styre utfallet — er særlig utsatt for denne drømmen. Den er psykens konfrontasjon med det uunngåelige: ikke alt kan kontrolleres, ikke alt kan stoppes. Noen ganger må du bare sitte i bilen.
 
-## Hva påvirker tolkningen?
+## Hva som skjedde da bremsene sviktet
 
 **Hvis det var en katastrofe:** Angsten for det verste er svært aktiv. Hva frykter du konkret?
 
@@ -56,7 +56,7 @@ Mennesker med et sterkt kontrollbehov — de som trenger å planlegge, forutse o
 
 **Hvis bilen til slutt stoppet:** Noe uunngåelig tok sin naturlige slutt. Det gikk ikke slik du fryktet.
 
-## Psykologiske og kulturelle perspektiver
+## Kontrolltap som moderne angstbilde
 
 Bildrømmene er moderne, men de erstatter eldre symboler for livets ferd: hesten som ikke vil stoppes, skuta som mister styringen, vognen som kjører av veien. Felles for alle: en reise der styringsevnen svikter.
 

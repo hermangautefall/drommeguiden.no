@@ -25,7 +25,7 @@ Drømmer om helvete er intense, og de etterlater gjerne en svært ubehagelig fø
 
 Helvete er ett av menneskekulturens sterkeste bilder på lidelse uten ende — og det er nettopp dette drømmen bruker det for å uttrykke.
 
-## De vanligste tolkningene
+## Indre pine og selvpålagt straff
 
 ### En indre tilstand av smerte og fortvilelse
 
@@ -47,7 +47,7 @@ Helvete i drømmene kan også representere en destruktiv syklus du ikke greier �
 
 Noen ganger — ikke alltid — kan helvetesdrømmene ha en advarende funksjon: underbevistheten viser deg et bilde av konsekvensene av en vei du er på. Ikke som en religiøs dom, men som en psykologisk advarsel: fortsetter du slik, er dette der du ender.
 
-## Hva påvirker tolkningen?
+## Om du var fanget eller kom deg ut
 
 **Hvis du var i helvete og led:**
 En nåværende indre tilstand som er svært vanskelig. Ta den på alvor og søk støtte.

@@ -22,7 +22,7 @@ Nordlyset er en av de mest overveldende naturopplevelsene et menneske kan ha —
 
 Å drømme om nordlys er å drømme om noe sjelden, vakkert og dypt ladet.
 
-## De vanligste tolkningene
+## Det sjeldne som viser seg i mørket
 
 ### Det transcendente som viser seg i mørket
 
@@ -40,7 +40,7 @@ For nordmenn er nordlyset ikke bare et lysfenomen — det er identitet. Det er g
 
 Nordlyset er aldri statisk — det danser, det skifter, det er i konstant bevegelse. Drømmens nordlys kan representere en transformasjonsprosess du er i: noe er i bevegelse, noe skifter form og farge, og det er vakkert selv om det er uforutsigbart.
 
-## Hva påvirker tolkningen?
+## Fargene og hvor du sto
 
 **Hvis nordlyset var intenst og overveldende:**
 En ekstraordinær erfaring — noe som overvelder deg med sin skjønnhet og kraft.
@@ -63,7 +63,7 @@ Rødt nordlys er sjeldent og historisk sett kraftig ladet. En intens og uvanlig 
 **Hvis nordlyset forsvant:**
 Det magiske er flyktig — det er ikke alltid der, og det minner deg om å verdsette det mens det varer.
 
-## Psykologiske og kulturelle perspektiver
+## Nordlyset i nordlig folketro
 
 I norrøn tradisjon ble nordlyset sett på som et varsel fra gudenes verden — bifrostens refleks, eller valkyrienes skjold som glitret. Samisk tradisjon har dype og komplekse forestillinger om nordlyset som sjeler av avdøde, eller som noe farlig man ikke skulle rope til. Nordlyset er aldri bare et lysfenomen i nordlig tradisjon. Det er alltid et budskap.
 

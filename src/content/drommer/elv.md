@@ -22,7 +22,7 @@ Elven er i menneskelig kultur det fremste bildet på tid og liv i bevegelse — 
 
 Å drømme om en elv er å drømme om selve gangen i tilværelsen.
 
-## De vanligste tolkningene
+## Strømmen som bærer deg videre
 
 ### Livets flyt — tid og bevegelse
 
@@ -44,7 +44,7 @@ Hvilken vei flyter elven i drømmen — og er det dit du vil?
 
 Elver er historisk sett grenser mellom land og riker — og i drømmene kan de representere grensen mellom to tilstander, to faser, to verdener. Å krysse en elv er en overgang. De klassiske mytologiske elvene — Styx, Jordan — er alle grenser mellom liv og død, gammelt og nytt.
 
-## Hva påvirker tolkningen?
+## Vannets fart og retning
 
 **Hvis elven var rolig og klar:**
 Balanse, klarhet og en god flyt i livet. Du er med strømmen.

@@ -25,7 +25,7 @@ relaterte_sovn:
 
 For dem som er i rusfrihet eller som har hatt et problematisk forhold til alkohol, kan disse drømmene ha en særlig intensitet og bør møtes med varhet og selvmedfølelse.
 
-## De vanligste tolkningene
+## Å slippe taket — frivillig eller ikke
 
 ### Et ønske om å slappe av og slippe kontrollen
 
@@ -41,7 +41,7 @@ Drømmen er ikke nødvendigvis om alkohol — den er om det alkoholen represente
 
 Alkohol er sosialt ladet i norsk kultur — skålen rundt bordet, vinglasset som markerer at noe er spesielt. Å drømme om å drikke i godt selskap kan speile et behov for mer fellesskap, mer tilhørighet, mer av det som markerer at noe er verdt å feire.
 
-## Hva påvirker tolkningen?
+## Hvem drakk, og hvordan føltes det
 
 **Hvis du drakk med glede:**
 Et ønske om mer letthet, spontanitet og sosial glede i livet.
@@ -58,7 +58,7 @@ En svært vanlig drøm — ikke et tegn på svakhet, men på at hjernen bearbeid
 **Hvis andre drakk men ikke du:**
 Utenforskap eller en valgt avstand fra noe sosialt.
 
-## Psykologiske og kulturelle perspektiver
+## Mellom fest og skyld i norsk kultur
 
 Alkohol har en kompleks plass i norsk kultur — på én side en sterk drikkekulturtradisjon, på den andre en like sterk avholdskultur. Denne ambivalensen gjør alkoholdrømmene ekstra ladede for mange nordmenn: begjær og skyld kan eksistere side om side.
 

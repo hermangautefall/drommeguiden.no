@@ -73,13 +73,13 @@ Ensomhet, men også styrke — det som står alene viser tydelig hva det er.
 **Hvis det var et spesifikt treslag:**
 Eik: styrke og utholdenhet. Bjørk: ny begynnelse og renselse (særlig norsk). Furu: standhaftighet gjennom mørket. Pil: fleksibilitet og sorg. Eple: fruktbarhet og fristelse.
 
-## Psykologisk perspektiv
+## Treet som bilde på vekst
 
 I norrøn kosmologi er Yggdrasil — verdensasken — selve universets ryggrad. Den binder de ni verdener sammen: røttene rekker til Hel og Niflheim og Mímirs brønn, stammen er Midgard og menneskenes verden, og kronene rager opp til Åsgard og gudene. Tre ørner, en ekorn og en drage bor i den. Níðhöggr gnager på røttene nedenfra.
 
 Yggdrasil er ikke bare et tre — det er selve eksistensmønsteret, kartet over all virkelighet. Å drømme om et mektig tre i norsk kulturell kontekst berører denne arven: treet som bærer av alt.
 
-## Kulturell og symbolsk betydning
+## Yggdrasil og verdenstrærne
 
 Carl Jung så treet som ett av de sterkeste symbolene på psykens utviklingsprosess — individasjonen. Han analyserte hundrevis av drømmers tresymboler og fant at treet gjennom drømmene vokste, metamorfoserte og modnet i takt med drømmerens psykologiske utvikling. I hans berømte bok om mandalas og symboler analyserer han et tre som vokser gradvis gjennom et pasientforløp — fra knopp til fullvokst tre — som et direkte bilde på en persons psykologiske helbredelse.
 

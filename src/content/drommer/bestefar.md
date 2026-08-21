@@ -20,7 +20,7 @@ author: 'default'
 
 Der [bestemoren](/drommer/bestemor/) er den vise, nærende og varme feminine arketypen, er bestefaren den maskuline visdomsfiguren — han som har sett mye, levd lenge og bærer på en erfaring som ikke kan kjøpes. I drømmene representerer han noe urgammelt og solid: en arv, en autoritet, en linje bakover i tid.
 
-## De vanligste tolkningene
+## Erfaring, autoritet og arv
 
 ### Maskulin visdom og livserfaring
 
@@ -36,7 +36,7 @@ Bestefaren representerer i mange familier den overordnede autoriteten — hushov
 
 Bestefaren er to generasjoner tilbake — og å drømme om ham kan handle om noe i din mannlige arv (for alle kjønn) som trenger oppmerksomhet: en egenskap, en verdi, et mønster som går i slekten.
 
-## Hva påvirker tolkningen?
+## Hvordan han møtte deg
 
 **Hvis bestefaren var glad og sterk:**
 God tilgang til maskulin visdom og stødig fundament. Noe holder.

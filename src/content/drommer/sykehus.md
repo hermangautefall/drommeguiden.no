@@ -24,7 +24,7 @@ author: 'default'
 
 ---
 
-## De vanligste tolkningene
+## Behovet for å bli tatt hånd om
 
 ### Helbredelse og indre reparasjon
 
@@ -52,7 +52,7 @@ Denne tolkningen er spesielt relevant dersom drømmen har et preg av hastverk el
 
 ---
 
-## Hva påvirker tolkningen?
+## Om du var pasient eller besøkende
 
 Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike tolkninger:
 
@@ -70,7 +70,7 @@ Kan speile en følelse av at hjelpen du trenger ikke finnes, eller at du har mis
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Sykehuset som sted for overgang
 
 Carl Jung betraktet helbredelsessymboler i drømmer som uttrykk for psykens selvregulerende evne — en innebygd mekanisme som arbeider for å gjenopprette balanse. Sykehuset i drømmer kan i jungiansk forstand sees som et sted der psyken utfører sitt eget reparasjonsarbeid, ofte uten at vi er bevisst det.
 

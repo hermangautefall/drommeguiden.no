@@ -20,7 +20,7 @@ author: 'default'
 
 Fødselsmomentet — selve den dramatiske overgangen fra det skjulte til det synlige — er ett av drømmens mektigste symboler. Der graviditetssymbolet handler om noe som vokser og modnes, handler fødselssymbolet om øyeblikket det trer frem. Det er overgangen selv.
 
-## De vanligste tolkningene
+## Det som er klart til å komme frem
 
 ### Noe er klart til å manifestere seg
 
@@ -46,7 +46,7 @@ For kvinner som er gravide er fødseldrømmene del av en naturlig psykologisk fo
 
 Se artikkelen om [søvn i graviditet](/sovn/sovn-graviditet/) for mer om drømmemønstre under svangerskapet.
 
-## Hva påvirker tolkningen?
+## Hvordan fødselen forløp
 
 **Hvis fødselen gikk bra og barnet var friskt:**
 Noe nytt vil lykkes — det er trygt å la det tre frem.
@@ -63,7 +63,7 @@ Du er vitne til en transformasjon — i en annen person eller i en del av deg se
 **Hvis fødselen var enkel og nesten smertefri:**
 En overgang som går lettere enn du fryktet.
 
-## Psykologiske og kulturelle perspektiver
+## Fødselen som overgangsrite
 
 Fødsel er kanskje det mest universelle av alle arketypiske symboler. Alle kulturer har fødselsmyter — fra Zevs som føder Atene fra hodet til Odin som henger i Yggdrasil og "føder" runenes visdom. Fødsel som metafor for ny innsikt, ny identitet og ny verden er innebygget i menneskehetens forestillingsverden.
 

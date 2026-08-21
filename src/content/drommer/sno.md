@@ -22,7 +22,7 @@ Det er noe med snøen som treffer dypt i den norske psyken — lyden den demper,
 
 Men snø i drømmene er ikke alltid varm og trygg. Den kan også fryse, isolere og dekke over noe som burde vært synlig.
 
-## De vanligste tolkningene
+## Stillheten og det blanke arket
 
 ### Renselse, hvile og et blankt ark
 
@@ -46,7 +46,7 @@ Drømmen kan spørre: er det noe i livet ditt som trenger å tines opp? En samta
 
 Tykk snø kan stenge inne — veiene stenges, man kommer seg ikke frem, verden utenfor blir borte. Drømmer om å være innesnødd eller ikke komme seg ut i snøvær kan speile en følelse av isolasjon, av å være avskåret fra andre, av at omstendighetene begrenser din bevegelsesfrihet.
 
-## Hva påvirker tolkningen?
+## Om snøen var vakker eller kald
 
 **Hvis snøen var ren og lys:**
 Renselse, nytt begynnelse og ro. En av de mer positive natursymbolene i drømmeverdenen.

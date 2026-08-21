@@ -24,7 +24,7 @@ Du våkner. Hjertet banker. Og du tenker: "Betyr dette at jeg fortsatt er glad i
 
 Nesten alltid: nei. Drømmer om seksuelle møter med en eks-partner er blant de vanligste drømmene voksne rapporterer — og de oppstår like gjerne i et lykkelig nytt forhold som hos single. Det er fordi drømmen sjelden handler om personen. Den handler om noe personen representerer.
 
-## De vanligste tolkningene
+## Nostalgi og det uavsluttede
 
 ### Nostalgi og sorg over en periode i livet
 
@@ -50,7 +50,7 @@ Drømmens intimitet med dem er ikke nødvendigvis et ønske om personen — det 
 
 I et aktivt parforhold kan drømmer om eks oppstå i perioder der forholdet er kjedelig, stressende eller distansert. Det er ikke nødvendigvis et tegn på at du vil ha eks tilbake — det kan være et signal om at noe i nåværende forhold trenger oppmerksomhet. Intimitet, nærhet, lidenskap eller noe du savner.
 
-## Hva påvirker tolkningen?
+## Følelsen etterpå
 
 **Hvis forholdet endte for lenge siden og føltes avsluttet:**
 Eks-partneren fungerer som et symbol — ikke som seg selv. Spør hva de representerte.
@@ -67,7 +67,7 @@ Det er ikke utroskap — drømmer er ikke valgt. Men ubehaget kan peke på noe v
 **Hvis du drømte om eks gjentatte ganger:**
 Et emosjonelt tema som ikke er ferdig bearbeidet. Hva ble aldri sagt mellom dere?
 
-## Psykologiske og kulturelle perspektiver
+## Hvorfor gamle relasjoner dukker opp igjen
 
 Forsker Rosalind Cartwright dokumenterte at sørgende etter skilsmisse som drømte om ex-partneren hadde bedre psykologiske utfall ett år senere enn de som ikke drømte om dem. Drømmene om eks er ikke stagnasjon — de er bearbeidingen i arbeid.
 

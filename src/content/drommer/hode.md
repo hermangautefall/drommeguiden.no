@@ -22,7 +22,7 @@ Hodet er i nesten alle kulturer og tradisjoner setet for bevisstheten — stedet
 
 Disse drømmene kan ta mange former — et hode du ser, et eget hode som er annerledes enn vanlig, et hode som forsvinner eller endrer seg. Alle bærer på et budskap om tanken, identiteten og bevisstheten.
 
-## De vanligste tolkningene
+## Tankene, identiteten og overbelastningen
 
 ### Din bevissthet og identitet er i spill
 
@@ -46,7 +46,7 @@ Hvem vinner i drømmen — og hvem bør vinne i virkeligheten?
 
 Et hode som snurrer, som løsner, som er borte — disse mer surrealistiske variantene speiler gjerne en følelse av å miste kontrollen, av desorientering, av å ikke vite hvem du er eller hva du tenker lenger. En periode der grunnlaget for selvforståelsen er ustabilt.
 
-## Hva påvirker tolkningen?
+## Hva som skjedde med hodet
 
 **Hvis hodet var klart og klok:**
 Klar tenkning, god bevissthet og evne til å orientere seg — du er på toppen av ting.
@@ -66,7 +66,7 @@ Hva den personen representerer for deg — deres måte å tenke på, deres persp
 **Hvis det vokste noe fra hodet:**
 Nye tanker, nye ideer eller ny vekst i bevisstheten — noe er i ferd med å spire.
 
-## Psykologiske og kulturelle perspektiver
+## Hodet som sjelens sete
 
 I gresk tradisjon var hodet setet for sjelen — Aristoteles mente fornuften bodde i hodet, mens hjertet var kroppens sentrum. Descartes berømte "cogito ergo sum" — "jeg tenker, altså er jeg" — plasserer identiteten selv i tenkningen. Å drømme om hodet er å drømme om selve eksistensbevistet.
 

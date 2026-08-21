@@ -22,7 +22,7 @@ Alarmen går ikke, bussen kjører idet du når holdeplassen, [toget](/drommer/to
 
 Det er nesten aldri en konkret tidsfrist drømmene handler om.
 
-## De vanligste tolkningene
+## Å ikke rekke det
 
 ### Stress og for mye på en gang
 
@@ -36,7 +36,7 @@ Den vanligste tolkningen handler om en subjektiv opplevelse av at livet går for
 
 For-sent-drømmene dukker gjerne opp når noe faktisk nærmer seg sin naturlige frist — en beslutning du har utsatt, en samtale du har unngått, et prosjekt som har ligget for lenge. Underbevistheten kjenner fristen selv om det bevisste sinnet prøver å ignorere den.
 
-## Hva påvirker tolkningen?
+## Hva du kom for sent til
 
 **Hvis du løper men ikke kommer frem:**
 En følelse av å ikke ha kontroll over situasjonen, eller at beina svikter deg — beslektet med drømmer om [å falle](/drommer/falle/) — maktesløshet i møte med krav.
@@ -53,7 +53,7 @@ Underbevistheten vet at du mestrer press bedre enn du tror. Et oppmuntrende tegn
 **Hvis alle andre allerede var der:**
 En sosial dimensjon — frykt for å skille seg ut, for å ikke høre til, for å komme inn i noe midt i fremfor fra begynnelsen.
 
-## Psykologiske og kulturelle perspektiver
+## Tidsklemma som moderne drømmetema
 
 For-sent-drømmene er nært beslektet med [eksamensdrømmene](/drommer/eksamen/) — begge speiler Persona-angsten: masken som kan briste under press. De er vanligst blant perfeksjonister, høytpresterende og folk med sterk pliktfølelse.
 

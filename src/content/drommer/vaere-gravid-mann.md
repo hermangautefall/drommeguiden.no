@@ -20,7 +20,7 @@ author: 'default'
 
 Det er en av de drømmene menn sjeldnest snakker om — og en av de mest meningsfulle. En mann som bærer et barn i drømmen er ikke noe rart eller forstyrrende. Det er ett av drømmens mest universelle bilder for noe nytt som er i ferd med å vokse frem i deg.
 
-## De vanligste tolkningene
+## Noe som modnes innenfra
 
 ### Et kreativt prosjekt som modnes
 
@@ -46,7 +46,7 @@ Drømmen kan speile at du er i en dyp personlig endringsprosess som ennå ikke e
 
 Menn med gravide partnere drømmer hyppigere om å selv være gravide. Forsker Alan Siegel dokumenterte at kommende fedre hadde økt forekomst av graviditets- og fødselstemaer i drømmene — og at menn i tidlig svangerskapsperiode hadde et særlig høyt antall seksuelle drømmer. Det er psyken som bearbeider en stor livsendring.
 
-## Hva påvirker tolkningen?
+## Hvordan graviditeten føltes
 
 **Hvis graviditeten kjentes som noe godt og forventet:**
 En positiv skapelsesprosess er i gang. Noe ønsket vokser.
@@ -63,7 +63,7 @@ Noe er klart til å manifestere seg — en avgjørelse, en lansering, en avklari
 **Hvis graviditeten var uønsket:**
 Noe vokser i livet ditt som du ikke ønsket eller inviterte — en forpliktelse, et ansvar eller et problem som har kommet av seg selv.
 
-## Psykologiske og kulturelle perspektiver
+## Skaperlengsel uten kjønn
 
 Jung ville ha sett graviditets-drømmen hos menn som en aktivering av den feminine siden av psyken — ikke som feminitet i sosiologisk forstand, men som den skapende, innadvendte, nærendde energien han kalte "eros". Å drømme om å bære et barn er å ta kontakt med denne energien.
 

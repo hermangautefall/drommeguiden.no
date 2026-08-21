@@ -23,7 +23,7 @@ Ulykker skjer plutselig, uten forvarsel, og endrer alt på et øyeblikk. I drøm
 
 Ulykkedrømmer er noen av de vanligste angstdrømmene, og de kommer ofte i perioder der noe i livet ditt kjennes ustabilt, der noe står på spill, eller der du bærer på et ansvar du ikke helt vet hvor du skal sette ned. Drømmens jobb er ikke å spå, men å speile uroen så du kan se den klart.
 
-## De vanligste tolkningene
+## Sammenstøtet som ikke kan tas tilbake
 
 ### Frykt for det ukontrollerbare
 
@@ -45,33 +45,25 @@ Ulykken kan også være et bilde på et indre sammenstøt — to deler av deg se
 
 Av og til er ulykkedrømmen en slags grenseopplevelse i drømmeform: noe må stoppes, noe må forandres, noe må komme til en slutt. Drømmer der det handler om en bestemt person eller situasjon, og der ulykken er knyttet til akkurat den, kan være et signal fra det ubevisste om at noe ikke er bærekraftig lenger.
 
-## Hva påvirker tolkningen?
+## Rollen du hadde i ulykken
 
-**Hvis du var skyld i ulykken:**
-En følelse av ansvar og skyld — noe du gjør kan skade noe eller noen.
+Ansvaret for ulykken: en følelse av skyld — noe du gjør kan skade noe eller noen.
 
-**Hvis du var vitne:**
-Angst for noe som skjer rundt deg uten at du kan gripe inn.
+Vitnerollen: angst for noe som skjer rundt deg uten at du kan gripe inn.
 
-**Hvis du overlevde ulykken:**
-Din motstandskraft og evne til å komme gjennom det vanskelige.
+Det å overleve: din motstandskraft og evne til å komme gjennom det vanskelige.
 
-**Hvis noen du er glad i var involvert:**
-En bekymring for dem — en beskytterimpuls som er sterk.
+En du er glad i involvert: en bekymring for dem — en beskytterimpuls som er sterk.
 
-**Hvis du prøvde å forhindre ulykken:**
-Du ønsker å ta kontroll over noe som kjennes ute av kontroll.
+Forsøket på å forhindre ulykken: et ønske om å ta kontroll over noe som kjennes ute av kontroll.
 
-**Hvis det skjedde i sakte film:**
-Det ubevisste vil at du skal se det tydelig — en sak du er i ferd med å overse i våken tilstand.
+Sakte film-effekten: det ubevisste vil at du skal se det tydelig — en sak du er i ferd med å overse i våken tilstand.
 
-**Hvis du våknet rett før sammenstøtet:**
-Hjernen beskytter deg fra noe du ennå ikke er klar til å konfrontere fullt ut.
+Oppvåkningen rett før sammenstøtet: hjernen beskytter deg fra noe du ennå ikke er klar til å konfrontere fullt ut.
 
-**Hvis ulykken bare etterlot tom skade uten skadde:**
-Tap av noe ytre — eiendom, status, plan — uten direkte personlig skade. En materiell, ikke menneskelig, uro.
+Skade uten skadde: tap av noe ytre — eiendom, status, plan — uten direkte personlig skade. En materiell, ikke menneskelig, uro.
 
-## Psykologiske og kulturelle perspektiver
+## Skjebne, karma og kontrollens grenser
 
 Forholdet mellom mennesket og det ukontrollerbare er sentralt i nesten alle filosofiske og religiøse tradisjoner. Drømmens ulykke trekker på dette dype lageret av menneskelige forsøk på å forstå hvorfor det verste skjer, og hva vi kan stille opp imot det.
 

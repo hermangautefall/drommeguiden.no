@@ -23,7 +23,7 @@ author: 'default'
 
 Kroppen i drømmene er et av de sterkeste symbolene vi har for vår indre tilstand.
 
-## De vanligste tolkningene
+## Det som tærer på deg
 
 ### Utmattelse og behov for hvile
 
@@ -39,7 +39,7 @@ Disse drømmene er svært vanlige i perioder med overbelastning, høyt arbeidspr
 
 Sykdom gjør oss sårbare og avhengige. Å drømme om sykdom kan speile en periode der du føler deg mer eksponert, mindre beskyttet, og mer avhengig av andre enn du er komfortabel med. Et behov for omsorg som ikke er møtt — enten fra deg selv eller fra andre.
 
-## Hva påvirker tolkningen?
+## Hvem som var syk
 
 **Hvis sykdommen var alvorlig:**
 Noe i livet ditt oppleves som en alvorlig trussel eller belastning. Det fortjener å bli tatt på alvor.

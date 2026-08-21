@@ -22,7 +22,7 @@ Vikingskipet er ett av historiens mest imponerende teknologiske og estetiske bed
 
 For nordmenn er vikingskipet identitet. Det er oss, for tusen år siden, på vei ut i verden.
 
-## De vanligste tolkningene
+## Å seile ut i det ukjente
 
 ### Mot og det å seile ut i det ukjente
 
@@ -36,7 +36,7 @@ Vikingskipet bærer på tusen år med norsk identitet — rikdom, eventyr, makt 
 
 Vikingferden var ingen tur — den var en innsats av alt man hadde. Drømmens vikingskip kan representere en fase i livet der du legger alt du har i noe, der du seiler ut uten garanti for retur men med en klar retning og et klart mål.
 
-## Hva påvirker tolkningen?
+## Om sjøen var rolig eller opprørt
 
 **Hvis [skipet](/drommer/skip/) seilte mot horisonten:**
 En dristig ny begynnelse — du er på vei mot noe ukjent men viktig.
@@ -53,7 +53,7 @@ Reisen er krevende — men vikingene seilte gjennom storm også.
 **Hvis skipet var i begravelsesmodus:**
 En norrøn begravelse er den ultimate hyllest — noe avsluttes med verdighet og ære.
 
-## Psykologiske og kulturelle perspektiver
+## Skipet i norrøn arv
 
 Vikingskipets eleganse er ikke tilfeldig — det ble bygget av folk som visste at [havet](/drommer/hav/) ville drepe dem om skipet ikke var perfekt. Drømmens vikingskip bærer på denne kombinasjonen av skjønnhet og nødvendighet: noe er vakker fordi det er så ytterst funksjonelt.
 

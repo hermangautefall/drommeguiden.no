@@ -22,7 +22,7 @@ Bryst er ett av de mest ladet symbolene i menneskenes forestillingsverden — og
 
 Drømmens bryst springer ut av ett av de dypeste og eldste arketypiske bildene vi har: den nærende moren, kilden til liv og omsorg. Det er dette symbolet som aktiveres — lang forut for det erotiske.
 
-## De vanligste tolkningene
+## Å gi næring og å være sårbar
 
 ### Næring, omsorg og det du har å gi
 
@@ -46,7 +46,7 @@ Jung beskrev mors-arketypen som en av de mest primære i menneskepsyken — og d
 
 Seksualitet er selvfølgelig også en del av brystets symbolikk, men det er sjelden den primære drømmemeningen. Hvis den seksuelle konteksten var tydelig i drømmen, les den i sammenheng med andre seksuelle drømmesymboler — men spør også hva som ligger under det seksuelle bildet.
 
-## Hva påvirker tolkningen?
+## Sammenhengen brystet dukket opp i
 
 **Hvis drømmens bryst var ditt eget og det kjentes godt:**
 Selvaksept og trygghet i din egen kropp og din evne til å nære.
@@ -63,7 +63,7 @@ Lengsel etter næring og omsorg — et behov for å bli tatt vare på.
 **Hvis brystet var skadet eller syk:**
 Noe i den nærende, omsorgsfulle delen av deg er sårbar eller trenger oppmerksomhet.
 
-## Psykologiske og kulturelle perspektiver
+## Et av de eldste hellige bildene
 
 Bryst som hellig symbol går tilbake til de eldste menneskelige kulturer vi kjenner. Venusstatuettene fra paleolittisk tid — som Venus av Willendorf — fremhever bryst og hofter som fertilitetens og livets symboler. Ikke seksuelt, men kosmisk.
 

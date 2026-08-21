@@ -22,7 +22,7 @@ Trollet er norsk kulturs fremste og mest urfremstilling av det som er mørkt, pr
 
 Disse drømmene er sjelden trivielle. De bærer på noe av det dypeste i den kollektive erfaringen.
 
-## De vanligste tolkningene
+## Det ubearbeidede som vokser i mørket
 
 ### En primitiv og kraftfull del av deg selv
 
@@ -44,7 +44,7 @@ Drømmens troll kan representere en frykt, en utfordring eller et problem du har
 
 Trollet er gammelt — det er der fra begynnelsen, det husker tid før menneskene. Drømmens troll kan representere noe fra din fortid, fra slektens historia, fra noe urgammelt i deg selv som presser seg frem. Det er ikke nødvendigvis ondt. Det er bare veldig, veldig gammelt.
 
-## Hva påvirker tolkningen?
+## Om trollet så deg
 
 **Hvis trollet var truende og forfulgte deg:**
 En konfrontasjon kan ikke utsettes lenger. Noe har vokst seg for stort til å ignoreres.
@@ -67,7 +67,7 @@ En horde av undertrykte, primitive impulser eller ubearbeidede utfordringer.
 **Hvis du var et troll:**
 Den primitive siden av deg selv har tatt over — kanskje nødvendig i en periode, kanskje en advarsel.
 
-## Psykologiske og kulturelle perspektiver
+## Trollet i norsk folketro
 
 Trollet er i norsk og skandinavisk tradisjon det arketypiske andre — det som ikke er menneskelig, ikke er kristent, ikke er sivilisert. Det bor i fjell (Dovre, Jotunheimen), i skog, i og under broer. Det er territorialt, det er gammelt, og det følger sine egne lover.
 

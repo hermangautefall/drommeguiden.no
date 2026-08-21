@@ -22,7 +22,7 @@ author: 'default'
 
 Hvem den fremmede er, hva de gjør og hvordan de får deg til å føle er nøkkelen til tolkningen.
 
-## De vanligste tolkningene
+## Ansiktet du ikke kjenner
 
 ### En ukjent side av deg selv
 
@@ -40,7 +40,7 @@ Carl Jung kalte de sidene av oss vi ikke vedkjenner oss for "Skyggen" — og i d
 
 En fremmed kan også symbolisere noe ukjent og nytt som er på vei inn i livet ditt — en ny mulighet, en ny fase, eller en ny side av livet du er i ferd med å åpne. Særlig hvis den fremmede i drømmen var interessant, tiltalende eller ga deg noe.
 
-## Hva påvirker tolkningen?
+## Om den fremmede virket truende eller vennlig
 
 **Hvis den fremmede var truende:**
 En undertrykt side av deg selv, eller noe i livet du frykter men ikke har konfrontert.

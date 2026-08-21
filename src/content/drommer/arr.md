@@ -20,7 +20,7 @@ author: 'default'
 
 Et arr er ikke et [sår](/drommer/saar/) — det er et leget sår. Det er forskjellen mellom noe som fortsatt gjør vondt og noe som har grodd, men som etterlater et synlig spor. I drømmene er dette et viktig skille: arr handler om fortiden som lever videre i nåtiden — ikke som åpen smerte, men som merke og minne.
 
-## De vanligste tolkningene
+## Merket etter det du kom deg gjennom
 
 ### Det du har overlevd og bærer med deg
 
@@ -44,7 +44,7 @@ Dette kan handle om et avsluttet forhold som forandret deg, et tap du har integr
 
 Arr man skjemmes over eller prøver å skjule i drømmen speiler noe annet: deler av historien din du ikke er stolt av, aspekter av fortiden du helst ikke ville at andre skulle se. Hva er det du ønsker å skjule, og for hvem?
 
-## Hva påvirker tolkningen?
+## Hvor arret satt, og om det gjorde vondt
 
 **Hvis du var stolt av arret:**
 Du har integrert historien din med verdighet. Det du har gått gjennom er en del av styrken din.
@@ -64,7 +64,7 @@ En annen person nærmer seg noe sårbart i din fortid — med omsorg eller med n
 **Hvis det dukket opp arr du ikke visste du hadde:**
 Noe i fortiden din har satt merker du ikke har erkjent. Psyken peker på noe du kanskje ikke har sett.
 
-## Psykologiske og kulturelle perspektiver
+## Den sårede som kan hjelpe andre
 
 Arr har en rik symbolikk i mange kulturer — og de fleste lesningene er positive. Samuraiens arr var tegn på kamp og ære. Skandinaviske sagahelter var ikke vakre uten sår — de ble beskrevet med arrene sine som del av sin identitet. "Han var arret fra mange kamper" var ikke et klagemål, men en hyllest.
 

@@ -22,7 +22,7 @@ Søskenrelasjonen er noe av det mest komplekse vi bærer på — en blanding av 
 
 De handler ofte vel så mye om deg selv som om henne.
 
-## De vanligste tolkningene
+## Speilingen og det uoppgjorte
 
 ### Gjensidig speiling og egne sider
 
@@ -38,7 +38,7 @@ Søskenforhold bærer på mye — gammel rivalisering, ulik behandling fra [fore
 
 Søsteren er en av de få menneskene som kjenner deg fra [begynnelsen](/drommer/barn/) — som deler din tidligste historie. Å drømme om henne kan handle om et behov for tilknytning til røttene dine, til der du kom fra, til det som var felles.
 
-## Hva påvirker tolkningen?
+## Hvordan dere hadde det sammen
 
 **Hvis dere hadde det bra sammen:**
 Varme, tilhørighet og et ønske om mer nærhet i relasjonen — eller i livet generelt.

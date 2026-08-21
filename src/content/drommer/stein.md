@@ -22,7 +22,7 @@ Steinen er tidens trofaste — den endrer seg ikke på en menneskealder, den er 
 
 Drømmer om stein dukker gjerne opp i perioder der noe i livet ditt enten trenger et fundament, eller der noe er blitt for tungt og fastlåst til å bevege seg fritt.
 
-## De vanligste tolkningene
+## Tyngden og det bestandige
 
 ### Bestandighet og varighet
 
@@ -44,7 +44,7 @@ I nesten alle kulturer har bestemte steiner vært hellige — markører for noe 
 
 Mange edelstener begynner som ubehandlede steiner. Drømmens stein kan representere noe verdifullt skjult i det grove — et talent du ikke har sett, en gave du ikke har åpnet, eller en hard erfaring som inneholder noe verdt å hente ut.
 
-## Hva påvirker tolkningen?
+## Om steinen lot seg flytte
 
 **Hvis steinen var glatt og vakker:**
 En naturlig og harmonisk fasthet — noe solid og rent.
@@ -70,7 +70,7 @@ Et budskap fra fortiden eller fra noe utenfor deg — noe som vil huskes.
 **Hvis steinen knustes eller smuldret:**
 Det du trodde var varig er ikke det. En antagelse må revideres.
 
-## Psykologiske og kulturelle perspektiver
+## Steinen som varighetens bilde
 
 Steinen er et av drømmesymbolikkens dypeste lag — ingen annen ting har båret så mye hellighet over så mange kulturer i så lang tid.
 

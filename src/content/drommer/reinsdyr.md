@@ -20,7 +20,7 @@ author: 'default'
 
 Reinsdyret lever der nesten ingenting annet lever — på vidda, i kulden, i snøstormen. Det vandrer i flokk over enorme avstander, alltid i bevegelse, alltid i pakt med rytmen til naturen som ikke gir seg. Det er ett av Norges mest særegne og vakreste dyr, og det bærer på en kultur som er tusenvis av år gammel.
 
-## De vanligste tolkningene
+## Frihet, utholdenhet og arv
 
 ### Frihet og den nomadiske kraft
 
@@ -34,7 +34,7 @@ Reinsdyret overlever der mennesker ikke kan — det graver frem mat under [snøe
 
 Reinsdyret er uløselig knyttet til samisk kultur og historie — det er selve fundamentet for det samiske livet i Sapmi. Å drømme om reinsdyr er å drømme om noe av den eldste levende kulturen i Norden, om en visdom som er dypt forankret i naturens rytmer.
 
-## Hva påvirker tolkningen?
+## Flokken eller det ene dyret
 
 **Hvis reinsdyrflokken vandret fritt:**
 En naturlig og frigjørende bevegelse — noe er i sin rette rytme.
@@ -51,7 +51,7 @@ Noe vilt og fritt unndrar seg ditt grep — det kan ikke fanges.
 **Hvis du reiste med reinsdyrflokken:**
 Du er del av en bevegelse som er større enn deg selv — en flokk, en arv, en retning.
 
-## Psykologiske og kulturelle perspektiver
+## Reinen i samisk kultur
 
 I samisk sjamanisme er reinsdyret et av de viktigste kraftdyrene — noaiden (sjamanen) reiser på reinsdyrets rygg til andre verdener. Reinsdyret er broen mellom den menneskelige verden og de åndelige.
 

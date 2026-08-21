@@ -61,11 +61,11 @@ Manglende kontroll over noe — en situasjon der ting bare skjer uten at du styr
 **Hvis toalettet var rent og tilgjengelig:**
 Du har tilgang til det du trenger for å gi slipp. Løsningen er tilgjengelig.
 
-## Psykologisk perspektiv
+## Utløsning, privatliv og grenser
 
 Freud — naturligvis — hadde mye å si om toalettsymbolikk. Han knyttet det til det anale stadiet i psykoseksualitet og til spørsmål om kontroll og slipp: hvem bestemmer, og hva holder vi fast på versus gir vi slipp på? I et mer pragmatisk perspektiv representerer toalettdrømmene det mest grunnleggende menneskelige behovet for å prosessere og eliminere det som ikke lenger er nyttig.
 
-## Kulturell og symbolsk betydning
+## Det kroppslige vi ikke snakker om
 
 Interessant nok er toalettdrømmene universalt vanlige på tvers av kulturer — de er dokumentert i drømmestudier over hele verden som en av de hyppigste drømmekategoriene. Uavhengig av kultur er behovet for å gi slipp dypt menneskelig.
 

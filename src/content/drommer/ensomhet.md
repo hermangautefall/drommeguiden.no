@@ -24,7 +24,7 @@ relaterte_sovn:
 
 Drømmens ensomhet er en av de mest emosjonelt presise drømmene som finnes — den treffer akkurat der du er sårbar. Den etterlater gjerne en tung, klar følelse av noe mangler. Og den er ett av psykens tydeligste signaler.
 
-## De vanligste tolkningene
+## Savnet etter ekte kontakt
 
 ### Et uoppfylt behov for ekte forbundethet
 
@@ -50,7 +50,7 @@ Det er en form for ensomhet som er universell og uunngåelig: den eksistensielle
 
 Drømmens ensomhet kan tidvis berøre dette dypere laget — ikke som et problem som skal løses, men som en grunnbetingelse å møte med mot og åpenhet.
 
-## Hva påvirker tolkningen?
+## Hvor du var alene, og hvordan det kjentes
 
 **Hvis ensomheten var smertefull:** Et aktivt og presset behov for nærhet og forbundethet.
 
@@ -62,7 +62,7 @@ Drømmens ensomhet kan tidvis berøre dette dypere laget — ikke som et problem
 
 **Hvis ingen la merke til deg:** En opplevelse av usynlighet — å ikke bety noe for de rundt deg.
 
-## Psykologiske og kulturelle perspektiver
+## Ensomhet som helsefaktor
 
 Forsker John Cacioppo dokumenterte at ensomhet er en av de kraftigste helsetruslene vi kjenner — mer skadelig enn fedme og sammenlignbar med røyking. Det er fordi vi er flokkligner til det primære: avskjæringen fra flokken er livstruende på biologisk nivå.
 

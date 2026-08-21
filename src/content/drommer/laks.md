@@ -22,7 +22,7 @@ Laksen er ett av de mest fascinerende dyrene i norsk natur — og ett av de mest
 
 Det er ikke vanskelig å forstå hvorfor laksen er ladet med symbolikk.
 
-## De vanligste tolkningene
+## Å svømme mot strømmen
 
 ### Å svømme mot strømmen mot noe du vet er riktig
 
@@ -38,7 +38,7 @@ Laksen returnerer til røttene for å fullbyrde livet — til akkurat den elven 
 
 Laksens gytevandring er en énveisreise — den overlever ikke gytingen. Det er den ultimate ofringen for det neste ledd. Drømmens laks kan representere noe i livet ditt som krever en total innsats, en totalt hengivelse — kanskje et prosjekt, en overgang eller en fase som krever at du gir alt av deg.
 
-## Hva påvirker tolkningen?
+## Om laksen nådde frem
 
 **Hvis laksen svømte opp elven:**
 Et tydelig og målrettet kjør mot noe viktig — imponeerende mot.

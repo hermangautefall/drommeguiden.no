@@ -20,7 +20,7 @@ author: 'default'
 
 En drøm der du er genuint lykkelig — ikke glad for noe spesifikt, men gjennomgående og umotivert lykkelig — er ett av de mest verdifulle og minst studerte drømmescenarioene vi kjenner. Det er uvanlig nok til å legge merke til. Og det bærer et konkret budskap.
 
-## De vanligste tolkningene
+## Når drømmen gir deg noe du savner
 
 ### Psyken viser deg hva du egentlig trenger
 
@@ -44,7 +44,7 @@ Slike drømmer er vanlige etter perioder med personlig vekst, etter å ha tatt e
 
 Noen av de mest intense lykkedrømmene er ikke om prestasjoner eller relasjoner — de er om enkle sanselige tilstander: sol mot huden, et vakkert landskap, god mat, kroppen i bevegelse. Det er psykens påminnelse om at den dypeste lykken gjerne er enkel og fysisk — tilgjengelig i nærværet til det nære og konkrete.
 
-## Hva påvirker tolkningen?
+## Hva lykken i drømmen handlet om
 
 **Hvis lykken var knyttet til bestemte mennesker:** De menneskene er viktige. Er de til stede nok i livet ditt?
 
@@ -56,7 +56,7 @@ Noen av de mest intense lykkedrømmene er ikke om prestasjoner eller relasjoner 
 
 **Hvis du ikke forsto hvorfor du var lykkelig:** Den dypeste formen — en lykke som ikke krever begrunnelse. Det er selve tilstanden psyken søker.
 
-## Psykologiske og kulturelle perspektiver
+## Kompensasjon og integrasjon
 
 Positiv psykologi — pionert av Martin Seligman — skiller mellom nytelseslykke (hedonisk lykke fra behagelige opplevelser) og meningslykke (eudaimonisk lykke fra et liv i tråd med verdier og evner). Drømmens lykke er gjerne av det siste slaget: en tilstand av dypere harmoni enn hverdagens gleder.
 

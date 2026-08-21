@@ -20,7 +20,7 @@ author: 'default'
 
 Lynet er en av naturens mest dramatiske og øyeblikkelige krefter — et glimt som lyser opp alt, fulgt av et smell som rister verden. I drømmesymbolikken er det knyttet til nettopp denne plutseligheten: noe som skjer raskt, med stor kraft, og som forandrer noe permanent.
 
-## De vanligste tolkningene
+## Det plutselige — innsikt eller sjokk
 
 ### En plutselig innsikt
 
@@ -34,7 +34,7 @@ Lyn er elektrisk — og i drømmene representerer det en ladet, intens tilstand.
 
 Lynet slår ned uten forvarsel — og drømmene om det kan speile en frykt for, eller en bearbeiding av, noe som skjedde brått. En hendelse som endret alt på et øyeblikk. Se også [jordskjelv](/drommer/jordskjelv/) for lignende drømmer om plutselig omveltning.
 
-## Hva påvirker tolkningen?
+## Om lynet traff noe
 
 **Hvis lynet traff deg:**
 Noe treffer deg direkte — en innsikt, en hendelse, en forandring som berører deg personlig.

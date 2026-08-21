@@ -20,7 +20,7 @@ author: 'default'
 
 Du er i fare. Noen griper inn. Og du slipper å klare deg alene. Drømmens redningsscenario er for mange en av de mest emosjonelt intense og merkelig helende drømmene de har — og den bærer et konkret og viktig budskap.
 
-## De vanligste tolkningene
+## Hvem kom og hentet deg ut av faren
 
 ### Et behov for hjelp som ikke er erkjent
 
@@ -46,31 +46,12 @@ Drømmer om å bli reddet kan tidvis ha en dimensjon som peker utover det psykol
 
 Uansett tolkning: disse drømmene etterlater gjerne en dyp ro.
 
-## Hva påvirker tolkningen?
+## Hvem reddet deg — og lot du dem
 
-**Hvis du ble reddet fra å drukne:**
-Se [drukne](/drommer/drukne/) — det å bli overmannet av følelser, og redningen som muligheten til å puste igjen.
+Ble du reddet fra å [drukne](/drommer/drukne/), handler det ofte om å bli overmannet av følelser, og redningen om muligheten til å puste igjen. Reddet en fremmed deg, aktiveres en ukjent ressurs i deg selv — spørsmålet er hva som trengs, og hva du har som du ikke kjenner til fra før. Var redningspersonen kjent og kjær, er det gjerne kvalitetene deres du trenger mer av — hva representerer de for deg? Motsto du redningen, ønsker noe i deg ikke å bli hjulpet: stolthet, kontrollbehov, eller en overbevisning om at du ikke fortjener hjelp. Og kom ikke redningen i det hele tatt, kan drømmen speile en periode der du opplever å mangle tilgang til støtten du trenger — og hva du kan gjøre for å endre det.
 
-**Hvis du ble reddet av en fremmed:**
-En ukjent ressurs i deg selv aktiveres. Hva trengs, og hva har du som du ikke kjenner til?
-
-**Hvis redningspersonen var kjent og kjær:**
-Denne personens kvaliteter er det du trenger mer av. Hva representerer de for deg?
-
-**Hvis du motsto redningen:**
-Noe i deg ønsker ikke å bli hjulpet — stolthet, kontrollbehov eller en overbevisning om at du ikke fortjener hjelp.
-
-**Hvis redningen ikke kom:**
-En periode der du opplever å ikke ha tilgang til støtten du trenger. Hva kan du gjøre for å endre det?
-
-## Psykologiske og kulturelle perspektiver
+## Frelsesfortellingen sinnet ditt kjenner igjen
 
 Det å bli reddet er ett av de arketypiske narrativene som finnes — og det er ikke tilfeldig at alle kulturer har fortellinger om redning og frelse. Fra norrøne guder som griper inn til hjelpe menneskene, til kristendommens frelsestanke, til folkeeventyrenes magiske hjelpere — det å bli reddet av noe større enn deg selv taler til noe grunnleggende i menneskesinnet.
 
 Jung beskrev begrepet "numinøs erfaring" — møtet med noe som er hellig, overveldende og dypt meningsfullt. Drømmer om å bli reddet av en kraftfull figur bærer gjerne denne kvaliteten: de etterlater ikke bare lettelse, men en form for ærefrykt.
-
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe du bærer alene som du kanskje ikke trenger å bære alene?
-- Har du drømt om **å bli reddet** **flere ganger**?

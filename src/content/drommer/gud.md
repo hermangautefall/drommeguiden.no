@@ -23,7 +23,7 @@ relaterte_sovn:
 
 Drømmer om Gud — om å møte det guddommelige, å høre en stemme, å stå i nærvær av noe absolutt — er blant de mest intense og minnerike drømmene mennesker rapporterer. De sitter. De forandrer. Og de er verdt å ta dypt alvor.
 
-## De vanligste tolkningene
+## Møtet med det som er større
 
 ### Det numinøse — møtet med det hellige
 
@@ -47,7 +47,7 @@ Drømmen kan ikke besvare dette spørsmålet teologisk. Men den er et tegn på a
 
 For troende er drømmer om Gud en anerkjent og verdsatt del av den spirituelle praksisen. Mange religiøse tradisjoner — inkludert kristendom, islam og jødedom — anerkjenner drømmen som en mulig kommunikasjonskanal mellom det guddommelige og mennesket. Dette er et personlig og respektfullt territorium.
 
-## Hva påvirker tolkningen?
+## Hvordan møtet føltes
 
 **Hvis møtet var fredfullt og lyst:** En dyp integrasjon — du er i kontakt med noe godt og grunnleggende stabilt i tilværelsen.
 

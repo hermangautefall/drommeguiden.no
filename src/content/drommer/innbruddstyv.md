@@ -23,7 +23,7 @@ author: 'default'
 
 De er svært vanlige, og de handler sjelden om faktisk innbrudd. De handler om grenser — og hva som skjer når de brytes.
 
-## De vanligste tolkningene
+## Når noen bryter seg inn i deg selv
 
 ### En grense krenkes
 
@@ -47,36 +47,12 @@ Innbruddstyven som representerer Skyggen er sjelden farlig i virkeligheten — d
 
 Innbruddsdrømmer er vanlige hos dem som generelt har et sterkt kontrollbehov — der det ukontrollerbare og uforutsette er særlig truende. Drømmen er et bilde på akkurat dette: noe du ikke kan forhindre, noe som skjer uavhengig av dine [låser](/drommer/nokler/) og barrierer.
 
-## Hva påvirker tolkningen?
+## Din reaksjon når tyven var der
 
-**Hvis du konfronterte tyven:**
-Mot og beredskap — du er klar til å møte det som truer deg, ikke bare [flykte fra det](/drommer/forfulgt/).
+Konfronterte du tyven, viser det mot og beredskap — du er klar til å møte det som truer deg, ikke bare [flykte fra det](/drommer/forfulgt/). Gjemte du deg i stedet, handler det ofte om unngåelse og frykt: noe i livet ditt du helst ikke vil forholde deg til. Var tyven kjent, er det gjerne en konkret person eller situasjon som krenker grensene dine — spørsmålet er hvem eller hva det er. Var tyven ukjent, peker drømmen mot en mer arketypisk trussel, noe dypere og mer udefinerbart som trenger inn. Stjal tyven noe spesifikt, er det som ble borte ladet med mening — hva var det, og hva representerer det for deg? Og ringte du politiet eller fikk hjelp, viser det at du søker og finner støtte — du er ikke alene med det som truer deg.
 
-**Hvis du gjemte deg:**
-Unngåelse og frykt — noe i livet ditt vil du helst ikke forholde deg til.
-
-**Hvis tyven var kjent:**
-En konkret person eller situasjon som krenker dine grenser. Hvem eller hva er det?
-
-**Hvis tyven var ukjent:**
-En mer arketypisk trussel — noe dypere og mer udefinerbart som trenger inn.
-
-**Hvis tyven stjal noe spesifikt:**
-Det som ble stjålet er ladet med mening — hva var det, og hva representerer det for deg?
-
-**Hvis du ringte politiet eller fikk hjelp:**
-Du søker og finner støtte. Du er ikke alene med det som truer deg.
-
-## Psykologiske og kulturelle perspektiver
+## Hva forskningen sier om huset og grensene
 
 Huset som selvets symbol er ett av de mest konsistente og universalt dokumenterte i drømmeforskning. Uavhengig av kultur og bakgrunn bruker drømmere huset som bilde på seg selv — og da er den som bryter seg inn alltid en trussel mot selvet.
 
 Interessant nok viser forskning at innbruddsdrømmer er vanligst hos dem som faktisk opplever en reell krenkelse av grenser i våkenlivet — ikke innbrudd, men situasjoner der personlige grenser ikke respekteres. Drømmen er nøyaktig og presis i hva den speiler.
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om innbruddstyv **flere ganger**?

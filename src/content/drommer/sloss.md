@@ -23,7 +23,7 @@ Slagsmål og kamp i drømmene er mer vanlig enn mange tror — og de handler nes
 
 Det viktigste spørsmålet er ikke hvem du sloss mot — men hva de representerer.
 
-## De vanligste tolkningene
+## Hvem er det du egentlig sloss mot
 
 ### En indre konflikt
 
@@ -41,36 +41,12 @@ Aggresjon er en naturlig menneskelig følelse — men mange undertrykker den. Dr
 
 Å sloss i drøm kan også representere motstand mot noe — en situasjon, et system, en kraft som presser mot deg. Kampen er da ikke aggresjon, men integritet: du kjemper for noe du tror på.
 
-## Hva påvirker tolkningen?
+## Utfallet av kampen
 
-**Hvis du vant:**
-Du håndterer konflikten med suksess — du har ressursene som trengs.
+Vant du kampen, håndterer du konflikten med suksess — du har ressursene som trengs. Tapte du, er det noe som overvinner deg for øyeblikket, og spørsmålet blir hva som har overtaket. Klarte du ikke å slå i det hele tatt, er det en klassisk frustrasjonsdrøm: du vil handle, men kraften svikter, og følelsen av maktesløshet blir selve budskapet. Sloss du mot en ukjent, er motstanderen ofte en Skygge-figur — en del av deg selv du ikke kjenner igjen. Sloss du mot noen du kjenner, er det gjerne en reell spenning med den personen, eller de representerer noe du er i konflikt med på et dypere plan. Og sloss du for å beskytte noen andre, handler drømmen om omsorg og et protektivt instinkt — du kjemper for noe du holder kjært.
 
-**Hvis du tapte:**
-Noe overvinner deg for øyeblikket. Hva er det som har overtaket?
-
-**Hvis du ikke klarte å slå:**
-En klassisk frustrasjonsdrøm — du vil handle, men kraften svikter. Følelse av maktesløshet.
-
-**Hvis du sloss mot en ukjent:**
-En Skygge-figur — en del av deg selv du ikke kjenner igjen.
-
-**Hvis du sloss mot noen du kjenner:**
-En reell spenning med den personen — eller de representerer noe du er i konflikt med.
-
-**Hvis du sloss for å beskytte noen:**
-Omsorg og protektivt instinkt — du kjemper for noe du holder kjært.
-
-## Psykologiske og kulturelle perspektiver
+## Fra Valhalls kamplek til skyggen i ringen
 
 I norrøn tradisjon er kamp og strid ikke utelukkende negativt — einherjer i Valhall kjemper hver dag og samles om kvelden til fest. I beslektede drømmer kan du også oppleve å [drepe](/drommer/drepe/) noen. Kampen er trening, den er ære, den er hvem man er. Å drømme om kamp i norsk kulturell sammenheng kan berøre denne arven av det verdige stridets estetikk.
 
 Jung beskrev drømmens fiende som en av de viktigste gestalter i det ubevisste — fordi det vi kjemper mot gjerne er det vi trenger å integrere. Fienden er sjelden bare fiendtlig. Den er en del av deg som insisterer på å bli anerkjent.
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om å sloss **flere ganger**?

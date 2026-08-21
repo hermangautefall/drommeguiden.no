@@ -23,7 +23,7 @@ Jordskjelvet er et av naturens mest dramatiske og uforberedte fenomener — bakk
 
 Jordskjelvdrømmer er vanlige i perioder med store omveltninger og usikkerhet, og deler mye med drømmer om [stormer](/drommer/storm/) og [flom](/drommer/flom/).
 
-## De vanligste tolkningene
+## Når grunnen selv gir etter
 
 ### En plutselig omveltning rister grunnlaget
 
@@ -37,7 +37,7 @@ Jordskjelv endrer terrenget permanent — ingenting ser ut som før etterpå. Dr
 
 I geologisk forstand er jordskjelv energi som har bygget seg opp over lang tid og plutselig slippes ut. I drømmesymbolikken kan dette speile undertrykte følelser — sinne, sorg, angst — som til slutt ikke lar seg holde tilbake lenger.
 
-## Hva påvirker tolkningen?
+## Styrken på skjelvet og hva som falt
 
 **Hvis jordskjelvet var lite og håndterbart:**
 En forstyrrelse du kan takle — noe som rister, men ikke raserer.
@@ -54,7 +54,7 @@ Noe konstruert — planer, relasjoner, strukturer i livet — kollapser under pr
 **Hvis bakken åpnet seg:**
 Det mest dramatiske bildet — noe fundamentalt og ukjent åpner seg under deg. Stor eksistensiell usikkerhet.
 
-## Psykologiske og kulturelle perspektiver
+## Skjelvet som bilde på omveltning
 
 Jordskjelvet er i jungiansk forstand knyttet til det ubevisste i sin mest ukontrollerbare form — de kreftene som opererer under overflaten av bevisstheten og som med jevne mellomrom bryter frem med stor kraft. Drømmen er ikke et varsel — den er en beskrivelse av en indre tilstand. Temaet minner om drømmer om å [falle](/drommer/falle/), der noe stabilt plutselig gir etter.
 

@@ -22,7 +22,7 @@ Veien er et av drømmenes mest arkettypiske symboler på livsreisen — og det e
 
 Å drømme om en vei er å drømme om der du er på vei — og spørsmålet om du er på rett vei.
 
-## De vanligste tolkningene
+## Retningen og valget foran deg
 
 ### Din livsretning
 
@@ -36,7 +36,7 @@ Veikrysset er ett av drømmenes mest kraftfulle bilder — to eller flere retnin
 
 Veien er ikke bare destinasjonen — den er selve reisen. Drømmens vei kan handle om å verdsette prosessen, om at det er verdifullt å gå, ikke bare å ankomme. En lang og vakker vei kan representere en livsperiode du er i som fortjener å oppleves fullt ut, ikke bare hastes gjennom.
 
-## Hva påvirker tolkningen?
+## Veiens beskaffenhet
 
 **Hvis veien var lang og åpen:**
 Mange muligheter og god utsikt fremover — en klar retning.
@@ -62,7 +62,7 @@ Nye territorier — noe du ikke har navigert før.
 **Hvis du løp på veien:**
 Hastverk eller entusiasme — du vil nå noe fort. Kjørte du i [bil](/drommer/bil/) på veien, se også den tolkningen.
 
-## Psykologiske og kulturelle perspektiver
+## Veien som livsmetafor
 
 "Veien" som livssymbol er ett av de mest grunnleggende bildene i all menneskelig fortelling — fra Odyssevs' hjemreise til pilgrimensens vandring til den norrøne heltens ferd ut i verden. Det er ikke en tilfeldighet at mange av historiens viktigste åndelige tekster er veimetaforer: Tao betyr "vei", Buddha snakker om den åttedelte veien, og Kristus sier "Jeg er veien".
 

@@ -26,7 +26,7 @@ Du våkner sint eller såret. Kanskje er du så overbevist om at det var ekte at
 
 Drømmer om partnerens [utroskap](/drommer/utroskap/) er blant de mest hyppig rapporterte i parforhold. Og de sier nesten aldri noe om hva partneren faktisk gjør. De sier noe om deg.
 
-## De vanligste tolkningene
+## Utryggheten som melder seg
 
 ### Utrygghet og frykt for ikke å strekke til
 
@@ -50,7 +50,7 @@ Dette er ikke en anklage. Det er normalt å ha tanker og følelser for andre, se
 
 Har du eller partneren vært utro tidligere? Har du opplevd utroskap i tidligere forhold? Drømmene kan være spor av disse erfaringene — emosjonelle minner som aktiveres av triggere du kanskje ikke bevisst la merke til.
 
-## Hva påvirker tolkningen?
+## Hva som faktisk skjedde i drømmen
 
 **Hvis drømmen kjentes ekstremt virkelig:**
 Svært vanlig — hjernen er god til å produsere overbevisende emosjonelle scenarier. Det gjør den ikke sann.
@@ -67,7 +67,7 @@ Da kan drømmens innhold være mer direkte relevant — ikke som bevis, men som 
 **Hvis partneren var den som fortalte deg om utroskapsdøm:**
 En person som forteller om egne drømmer der de er utro, er sjelden på vei ut — de er sannsynligvis preget av det samme utryggheten som deg.
 
-## Psykologiske og kulturelle perspektiver
+## Projeksjon og tillit
 
 Forsker Kelly Bulkeley dokumenterte at utroskapmotiver er blant de hyppigst forekommende i parforholdsdreams globalt — og at korrelasjonen med faktisk utroskap er svak. Det er utryggheten, ikke mistanken, som driver dem.
 

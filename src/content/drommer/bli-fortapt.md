@@ -25,7 +25,7 @@ relaterte_sovn:
 
 Og det er nettopp der tolkningen begynner: hva er det du ikke finner veien til?
 
-## De vanligste tolkningene
+## Der kartet slutter å stemme
 
 ### Mangel på retning og livskompass
 
@@ -47,7 +47,7 @@ I jungiansk psykologi er å bli fortapt i drøm tidvis et tegn på at du har fje
 
 Noen ganger er fortapthetsdrømmen mer praktisk: for mange veier, for mange krav, for mange hensyn. En situasjon der alt er uoversiktlig og du ikke vet hva du skal prioritere. Ikke en eksistensiell fortapthet, men en mer hverdagslig overveldelse.
 
-## Hva påvirker tolkningen?
+## Landskapet du gikk deg vill i
 
 **Hvis du var fortapt i en by eller bygning:**
 Sosiale og strukturelle omgivelser som kjennes uoverskuelige — jobb, system, relasjoner som ikke gir mening.
@@ -67,7 +67,7 @@ Overraskende positiv — en begynnende evne til å hvile i usikkerheten fremfor 
 **Hvis du fant veien til slutt:**
 Løsning er innen rekkevidde. Orienteringsevnen din er bedre enn angsten vil ha det til.
 
-## Psykologiske og kulturelle perspektiver
+## Villfarelsen som eksistensielt bilde
 
 Å bli fortapt er ett av de eldste menneskelige symbolene på eksistensiell forvirring — fra Dantes "halvveis gjennom livsreisens vei befant jeg meg i en mørk skog" til moderne psykologiens kartmetaforer for identitet og retning.
 

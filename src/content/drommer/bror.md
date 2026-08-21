@@ -22,7 +22,7 @@ Broren er som [søsteren](/drommer/soester/) en av de mest formative relasjonene
 
 Drømmer om broren dukker gjerne opp i perioder med spørsmål om eget livsvalg, om identitet, om plass i familien, eller om en uavklart side av maskulinitet i deg eller rundt deg.
 
-## De vanligste tolkningene
+## Speilet, rivalen og alliansen
 
 ### En handlekraftig eller maskulin side av deg selv
 
@@ -46,7 +46,7 @@ I de eldste fortellingene er broren først og fremst alliert — den som står v
 
 Søskenrelasjoner bærer ofte på lange historier — gamle krenkelser, gamle takknemligheter, gamle misforståelser. Drømmens bror kan dukke opp som figur for noe uoppgjort. Hva som skjer mellom dere i drømmen er ofte selve budskapet: skjelving, klem, krangel, taushet.
 
-## Hva påvirker tolkningen?
+## Hvordan dere hadde det sammen i drømmen
 
 **Hvis dere samarbeidet:**
 Fellesskap, støtte og komplementære styrker. Et tegn på at du ikke trenger å gjøre alt alene.

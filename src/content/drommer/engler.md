@@ -24,7 +24,7 @@ Engeldrømmer tilhører en særegen kategori — de er blant de mest intense, ly
 
 Disse drømmene er ikke forbeholdt de troende. De er dypt menneskelige.
 
-## De vanligste tolkningene
+## Budskap, beskyttelse og veiledning
 
 ### Et budskap eller en veiledning
 
@@ -48,7 +48,7 @@ Hva sa denne høyere stemmen? Drømmens engel er kanskje din egen indre visdom k
 
 Engeldrømmer er spesielt vanlige hos dem som nylig har mistet noen — og de oppleves gjerne som et møte med den avdøde, eller som en forsikring om at den avdøde har det godt. Mange beskriver slike drømmer som mer virkelige enn vanlige drømmer, og som en av de mest helende opplevelsene i sorgtiden.
 
-## Hva påvirker tolkningen?
+## Hva engelen gjorde eller sa
 
 **Hvis engelen snakket til deg:**
 Et budskap du bærer på fra drømmen er viktig — selv om du ikke husker ordene, husker du følelsen. Hva var det?

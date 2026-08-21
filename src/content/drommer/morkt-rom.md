@@ -26,7 +26,7 @@ Drømmer om mørke rom er overraskende vanlige, og de etterlater ofte en følels
 
 ---
 
-## De vanligste tolkningene
+## Det uutforskede og det uvisse
 
 ### Det ubevisste og det uutforskede
 
@@ -54,7 +54,7 @@ Denne tolkningen forsterkes hvis du i drømmen føler deg trygg til tross for m�
 
 ---
 
-## Hva påvirker tolkningen?
+## Om du fant en vei ut
 
 Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike tolkninger:
 
@@ -72,7 +72,7 @@ Kombinasjonen av mørke og speiling er et sterkt drømmebilde. Det kan handle om
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Mørket som sted for indre arbeid
 
 Carl Jung betraktet mørket som en sentral del av drømmearbeidet. For Jung var møtet med mørket — det han kalte «nedstigningen» — en nødvendig del av den psykologiske utviklingen. Man må gå inn i sitt eget mørke for å komme ut på den andre siden med større selvinnsikt. Det mørke rommet i drømmer kan i dette perspektivet sees som en terskel: et sted der forandring begynner.
 

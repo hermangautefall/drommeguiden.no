@@ -22,7 +22,7 @@ Himmelen er ett av de sterkeste symbolene i menneskelig kultur — et rom hevet 
 
 Disse drømmene kan komme med overveldende skjønnhet — og de setter seg fast på en annen måte enn de fleste andre drømmer.
 
-## De vanligste tolkningene
+## Høyden, freden og det som er større
 
 ### En lengsel etter frihet og høyde
 
@@ -46,7 +46,7 @@ Drømmen trenger ikke å besvare spørsmålet om hva himmelen "egentlig" er. Den
 
 Himmelen er også symbolet på det perfekte — og i drømmene kan den representere en standard eller et ideal du har satt svært høyt for deg selv. Drømmens himmel kan da speile en ambisjon, en lengsel etter å nå noe, eller — tidvis — et urealistisk krav om perfeksjon som tretter deg.
 
-## Hva påvirker tolkningen?
+## Himmelens farge og vær
 
 **Hvis himmelen var lys og vakker:**
 En av de mest trøstende drømmene man kan ha. Fred, forsoning og en åpenhet mot noe større.

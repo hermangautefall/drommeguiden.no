@@ -40,7 +40,7 @@ Hva befinner seg i drømmens kjeller? Det er det viktige spørsmålet.
 
 Kjelleren er stedet for skrekkfilmens mest klassiske scener — og ikke uten grunn. Det er der vi instinktivt plasserer det skumle, det farlige, det vi ikke vil møte. Kjelleren kan representere en frykt du bærer på, en del av deg selv du anser som mørk eller farlig.
 
-### Hva påvirker tolkningen?
+### Hva du fant der nede
 
 **Hvis du gikk ned i kjelleren frivillig:**
 Mot og nysgjerrighet overfor egne dypere lag. En vilje til selvutforskning.
@@ -60,11 +60,11 @@ Uordnede, undertrykte elementer i psyken som trenger oppmerksomhet.
 **Hvis noen var i kjelleren:**
 En Skygge-figur — en del av deg selv du ikke vedkjenner deg, personifisert.
 
-## Psykologisk perspektiv
+## Kjelleren som psykens nederste etasje
 
 Jung beskrev kjelleren eksplisitt som representasjon av det personlige ubevisste — lageret av alt som er fortrengt, glemt eller aldri integrert i bevisstheten. Han mente at kjelleren i drømmene nesten alltid rommer noe som psyken ønsker at bevisstheten skal forholde seg til.
 
-## Kulturell og symbolsk betydning
+## Det vi lagrer og ikke vil se på
 
 Det finnes en viktig øvelse i jungiansk terapi: å gå ned i kjelleren, se hva som er der, og bære det opp i lyset. Ikke for å bli kvitt det — men for å eie det. Fordi det vi ikke eier, eier oss.
 

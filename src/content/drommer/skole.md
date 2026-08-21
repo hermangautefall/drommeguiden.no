@@ -23,7 +23,7 @@ Nesten alle har opplevd det: du drømmer at du er tilbake på skolen, kanskje i 
 
 ---
 
-## De vanligste tolkningene
+## Å bli vurdert på nytt
 
 ### Du føler deg testet eller vurdert
 
@@ -51,7 +51,7 @@ Drømmer om å stå foran klassen og føle seg utsatt, kan også knyttes til fry
 
 ---
 
-## Hva påvirker tolkningen?
+## Hvilken situasjon du havnet i
 
 Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike tolkninger:
 
@@ -69,7 +69,7 @@ Kan speile at du har vokst inn i en ny rolle og kjenner på ansvaret det medfør
 
 ---
 
-## Psykologiske og kulturelle perspektiver
+## Skolen som varig indre landskap
 
 Carl Jung ville sannsynligvis ha sett skolen i drømmer som en representasjon av den kollektive erfaringen med å bli formet av samfunnet — møtet mellom individet og det kollektive. Skolen er stedet der vi lærer reglene, og i drømmer kan den symbolisere de indre reglene vi fortsatt lever etter, bevisst eller ubevisst.
 

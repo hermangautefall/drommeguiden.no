@@ -22,7 +22,7 @@ Bunaden er ikke bare en festdrakt — ikke en vanlig [kjole](/drommer/kjole/) el
 
 I drømmeverdenen er bunaden ett av de mest særnorske symbolene på identitet og tilhørighet som finnes.
 
-## De vanligste tolkningene
+## Å kle seg i sin egen tilhørighet
 
 ### Identitet og tilhørighet
 
@@ -36,7 +36,7 @@ Bunaden tas frem til de viktige anledningene — 17. mai, [bryllup](/drommer/bry
 
 Bunaden arves gjerne — fra mor til datter, fra generasjon til generasjon. Drømmens bunad kan handle om din relasjon til tradisjonen og arven du bærer: hva tar du med deg, hva holder du fast ved?
 
-## Hva påvirker tolkningen?
+## Passet den, og hvor bar du den?
 
 **Hvis bunaden passet perfekt:**
 Du er i din rette plass og er komfortabel med din identitet og tilhørighet.
@@ -53,7 +53,7 @@ En stolthet og glede over identiteten og tilhørigheten du bærer.
 **Hvis du ikke hadde bunad mens andre hadde det:**
 En følelse av å stå utenfor en tradisjon eller et fellesskap.
 
-## Psykologiske og kulturelle perspektiver
+## Et nasjonalt symbol uten strid
 
 Bunaden er ett av de få nasjonale symbolene som ikke er omstridt i Norge — den samler og skaper tilhørighet på tvers av politikk og generasjon. 17. mai er den dagen bunaden bæres, og 17. mai er den dagen Norge er mest seg selv.
 

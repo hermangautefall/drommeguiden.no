@@ -20,7 +20,7 @@ author: 'default'
 
 Midt i ørkenen — der alt er tørt, varmt og ubarmhjertig — er det en plass med vann, skygge og liv. Det er oasen. I drømmenes symbolspråk er den ikke bare et geografisk sted — den er et av de kraftigste bildene vi har på at selv i de mest uttørrende periodene av livet finnes det et punkt av fornyelse og liv.
 
-## De vanligste tolkningene
+## Hvilen midt i det krevende
 
 ### Hvile og tilflukt i en krevende periode
 
@@ -42,7 +42,7 @@ Oasen i en lang ørkenreise er ikke gitt — man må gå for å finne den. Drøm
 
 Det er verdt å nevne: av og til er oasen i drømmene ikke det den ser ut til. En oase som smelter bort i det øyeblikket du nærmer deg speiler en skuffelse, et løfte som ikke holdes, eller et ønske om ro som ennå ikke er oppfylt.
 
-## Hva påvirker tolkningen?
+## Om du nådde frem til den
 
 **Hvis oasen var ekte og du nådde den:** Du er nær en periode av fornyelse. Hold ut.
 
@@ -54,7 +54,7 @@ Det er verdt å nevne: av og til er oasen i drømmene ikke det den ser ut til. E
 
 **Hvis du delte oasen med andre:** Du er ikke alene i det krevende. Fellesskapet er der.
 
-## Psykologiske og kulturelle perspektiver
+## Oasen som løfte om lindring
 
 Oasen er ett av de eldste religiøse og mytologiske bildene i de store ørkenkulturer — egyptisk, hebraisk, arabisk. Paradisets hage er alltid en plass med vann, skygge og frukt midt i noe som ellers er øde. Det er ikke tilfeldig: for kulturer som lever med ørkenen, er det å finne vann det helligste av alle handlinger.
 

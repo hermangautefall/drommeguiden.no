@@ -22,7 +22,7 @@ Klær er identitetens ytre hud — det vi viser frem til verden, den rollen vi i
 
 Drømmer om kjole dukker gjerne opp i perioder der spørsmål om identitet, fremtoning eller rollebytte er aktive — eller når noe i livet ditt nærmer seg en anledning som krever at du står frem på en bestemt måte.
 
-## De vanligste tolkningene
+## Antrekket og den du viser frem
 
 ### Identitet og det du viser frem
 
@@ -44,7 +44,7 @@ Det å ta på seg en kjole i drøm — særlig en ny eller spesiell en — marke
 
 Vi kler oss for blikket — vårt eget og andres. Drømmens kjole kan handle om et bevisst eller ubevisst ønske om en bestemt mottakelse: å bli sett som elegant, mektig, sårbar, ung, voksen, autentisk. Den valgte kjolen forteller hva du leter etter i blikket fra omgivelsene.
 
-## Hva påvirker tolkningen?
+## Kjolens farge, passform og anledning
 
 **Hvis kjolen passet perfekt:**
 Du er i din rette rolle og er komfortabel med hvordan du fremstår.

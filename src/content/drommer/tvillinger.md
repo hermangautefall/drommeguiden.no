@@ -20,7 +20,7 @@ author: 'default'
 
 Tvillinger er i seg selv ett av naturens mysterier — to separate vesener som oppstår fra ett. I drømmens bildespråk er de ett av de reneste symbolene for indre dobbelthet: det som er to og ett på samme tid.
 
-## De vanligste tolkningene
+## To sider av samme selv
 
 ### To sider av deg selv i konflikt eller sameksistens
 
@@ -44,7 +44,7 @@ Jung beskrev menneskets psyke som fundamentalt dobbelt: den sosiale persona (mas
 
 For dem som er i en kreativ eller skapende fase kan tvillinger symbolisere at det som er under utvikling er rikere og mer sammensatt enn planlagt — to ideer i stedet for én, to muligheter som vokser parallelt.
 
-## Hva påvirker tolkningen?
+## Om de var like eller ulike
 
 **Hvis tvillingene var identiske:**
 To sider som er vanskelig å skille — noe i deg er splittet men ikke ulikt. Hva er det doble?
@@ -61,7 +61,7 @@ En side av deg trenger omsorg. Den sterke og den svake siden av noe eksisterer s
 **Hvis du var glad for begge:**
 Et positivt tegn på romslighet — du kan romme kompleksiteten i deg selv.
 
-## Psykologiske og kulturelle perspektiver
+## Det doble i psykologien
 
 Tvillinger bærer en spesiell mytologisk ladning i nesten alle kulturer. Romulus og Remus — Romas grunnleggere, én drepte den andre. Castor og Pollux — én dødelig, én guddommelig, og likevel uatskillelige. Horus og Set i egyptisk mytologi — orden og kaos som tvillingkrefter.
 

@@ -26,7 +26,7 @@ Få drømmer skaper så mye uro som denne. Du våkner med hjertet bankende, med 
 
 La det første vi sier være tydelig: denne drømmen er ikke en spådom. Den sier ingenting om hva som vil skje i virkeligheten. Det er en av de aller vanligste drømmene foreldre og kommende foreldre har, og den springer ut av kjærlighet og ansvar — ikke av fare.
 
-## De vanligste tolkningene
+## Frykten for å svikte noe sårbart
 
 ### Dyp frykt for å mislykkes med noe sårbart
 
@@ -48,7 +48,7 @@ Drømmene er ikke et tegn på at du er en dårlig forelder eller at noe er galt.
 
 Barnet som symbol i drømmene representerer det nye, det uformede og det sårbare — noe som trenger omsorg for å overleve. Å miste det kan symbolisere frykten for at noe nytt du har investert i — en idé, et håp, et prosjekt, en relasjon — ikke vil klare seg.
 
-## Hva påvirker tolkningen?
+## Hvem barnet var, og hva som skjedde
 
 **Hvis du er forelder og drømmens barn lignet ditt virkelige barn:**
 Primært sorgbearbeiding og frykthåndtering — hjernen prosesserer foreldreskapets mest intense side.
@@ -65,7 +65,7 @@ En ubearbeidet frykt som fortsatt lever i deg. Hva i livet ditt trenger mer omso
 **Hvis drømmen opptrådte etter faktisk sorg eller tap:**
 For dem som har mistet et barn i virkeligheten: disse drømmene er en del av sorgbearbeidingen og fortjener romslighet og støtte. Se guiden om [sorg og søvn](/sovn/sorg-sovn/).
 
-## Psykologiske og kulturelle perspektiver
+## Den dypeste omsorgsfrykten
 
 Drømmeforsker Antonio Zadra ved Universitetet i Montreal dokumenterte at drømmer om å miste barn er blant de vanligste foreldrerelaterte drømmene — og at de nesten aldri følges av faktiske hendelser. De er bearbeidingsdrømmer, ikke varsler.
 

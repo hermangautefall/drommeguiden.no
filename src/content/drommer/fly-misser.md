@@ -20,7 +20,7 @@ author: 'default'
 
 Du løper gjennom flyplassen. Gaten er nettopp stengt. Flyet ruller ut. Du kom for sent. Det er en av de mest klassiske moderne angstdrømmene — og det er ikke tilfeldig at den har blitt så vanlig i vår tid.
 
-## De vanligste tolkningene
+## Å komme for sent til noe viktig
 
 ### Frykt for å gå glipp av en mulighet
 
@@ -42,7 +42,7 @@ Er du i en periode der livet går for fort — der det skjer for mye og du ikke 
 
 Flyplassen er et sted der kontroll er helt avgjørende — pass, gate, tid, kø. Alt må stemme. Å misse flyet til tross for at man prøvde er et bilde på det værst tenkelige kontrolltapet: du gjorde alt riktig, og det gikk likevel galt.
 
-## Hva påvirker tolkningen?
+## Hvorfor du ikke rakk det
 
 **Hvis det var ditt eget rot som forårsaket forsinkelsen:** En selvkritisk tanke om at dine egne prioriteringer eller vaner koster deg muligheter.
 
@@ -54,7 +54,7 @@ Flyplassen er et sted der kontroll er helt avgjørende — pass, gate, tid, kø.
 
 **Hvis ingen var der til å hjelpe deg:** Ensomhet i kaoset — en opplevelse av å stå alene i det overveldende.
 
-## Psykologiske og kulturelle perspektiver
+## Tidspress som moderne drømmetema
 
 Fly-misserdrømmen er ett av de klareste eksemplene på hvordan drømmenes symbolbibliotek oppdateres med tidens kulturelle kontekst. Denne drømmen eksisterte neppe for 100 år siden — fly er et moderne fenomen. I dag er den en av de mest universelt gjenkjennelige angstdrømmene i industrialiserte land.
 

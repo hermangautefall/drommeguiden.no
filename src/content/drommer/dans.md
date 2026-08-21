@@ -22,7 +22,7 @@ Dansen er en av menneskehetens eldste og mest universale uttrykksformer — og i
 
 Men dansen har også en partner — og hvem du danser med, og hvordan, forteller mye.
 
-## De vanligste tolkningene
+## Gleden i å bevege seg fritt
 
 ### Livsglede og frihet i bevegelse
 
@@ -42,7 +42,7 @@ Dansen er [musikkens](/drommer/musikk/) kropp — og drømmens dans kan handle o
 
 I mange kulturer er dansen et rituelt frigjøringsrom — der sosiale normer settes til side, der kroppen snakker uten ord, der det ordinære overstiges. Drømmens dans kan representere et ønske om nettopp dette: å slippe taket i det kontrollerte og gi seg hen til noe større.
 
-## Hva påvirker tolkningen?
+## Hvem du danset med, og om du kunne trinnene
 
 **Hvis du danset fritt og godt:**
 En av drømmens mest positive erfaringer — livsglede, flyt og frihet.
@@ -62,7 +62,7 @@ Selvstendighet, indre frihet og din relasjon til deg selv.
 **Hvis dansen var rituell eller høytidelig:**
 Noe dypt og betydningsfullt finner sted — en overgang, en markering.
 
-## Psykologiske og kulturelle perspektiver
+## Dansen som et av de eldste uttrykkene
 
 Jung var opptatt av dansen som ett av de eldste arketypiske uttrykkene — kroppens naturlige svar på rytme og livskraft. Han beskrev dansen i drømmene som et tegn på at libido (livsenergi i vid forstand) er fri og i bevegelse — det motsatte av stagnasjon og depresjon.
 

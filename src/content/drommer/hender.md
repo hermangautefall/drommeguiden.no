@@ -25,7 +25,7 @@ Hender er noe av det mest menneskelige vi har. De er verktøyene vi bruker til �
 
 ---
 
-## De vanligste tolkningene
+## Handlekraft, kontakt og identitet
 
 ### Handlekraft og evnen til å påvirke
 
@@ -53,7 +53,7 @@ Dersom hendene er skitne eller dekket av [blod](/drommer/blod/), kan dette peke 
 
 ---
 
-## Hva påvirker tolkningen?
+## Hendenes tilstand
 
 Konteksten i drømmen er avgjørende. Her er noen varianter som ofte gir ulike tolkninger:
 

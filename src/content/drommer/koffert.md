@@ -20,7 +20,7 @@ author: 'default'
 
 Kofferten er reisens beholder — den holder det du trenger, det du velger å ta med, og av og til det du sleper på uten å egentlig ville. I drømmeverdenen er den ett av de mest direkte symbolene på det du bærer gjennom livet: bagasjen din, i bokstavelig og overført forstand.
 
-## De vanligste tolkningene
+## Bagasjen du bærer med deg
 
 ### Livsbaggasjen og det du bærer
 
@@ -34,7 +34,7 @@ Kofferten forbereder en reise — og drømmens koffert kan speile at noe er i fe
 
 Drømmen kan handle om et valg: hva tar du med deg videre, og hva kan du pakke ut og legge igjen? Ikke all bagasje er nyttig å bære med seg til neste kapittel.
 
-## Hva påvirker tolkningen?
+## Hvor tung den var, og hva som lå i den
 
 **Hvis kofferten var tung:**
 Du bærer for mye. Noe kan legges igjen.

@@ -23,7 +23,7 @@ relaterte_sovn:
 
 Der [solen](/drommer/sol/) er bevisstheten og den aktive dagen, er månen det ubevisste og natten — det som lyser i mørket uten å blende, det som følger sine sykluser uavhengig av hva vi ønsker. Månen i drømmene er ett av de dypeste og mest poetiske symbolene vi kan oppleve.
 
-## De vanligste tolkningene
+## Det ubevisste og syklusene
 
 ### Det ubevisste taler
 
@@ -37,7 +37,7 @@ Månen endrer seg — fra ny til full og tilbake. I drømmene representerer den 
 
 Månen er i nesten alle kulturer knyttet til det feminine prinsippet — intuisjon, følelsesliv, reseptivitet og syklisk tid. Å drømme om månen kan speile at din intuisjon er særlig aktiv og klar akkurat nå.
 
-## Hva påvirker tolkningen?
+## Månefasen du så
 
 **Hvis månen var full og klar:**
 Det ubevisste er i sin mest aktive og synlige fase. Sterk intuisjon og følelsesmessig intensitet.
@@ -54,7 +54,7 @@ Sterk emosjonell intensitet — noe brenner i deg. Se også [stjerner](/drommer/
 **Hvis månen kom nær deg:**
 Det ubevisste er svært nært bevisstheten. Noe vil frem.
 
-## Psykologiske og kulturelle perspektiver
+## Månen i tro og tidsregning
 
 Jung betraktet månen som ett av de viktigste arketypiske symbolene for det ubevisste — særlig for det han kalte "anima" hos menn og den "mørke feminine siden" generelt. Månedrømmene er for ham en invitasjon til å gå inn i de dypere lagene av psyken.
 

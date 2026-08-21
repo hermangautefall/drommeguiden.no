@@ -22,7 +22,7 @@ Der [bilen](/drommer/bil/) er kraft og status, er sykkelen det selvdrevne, enkle
 
 Samtidig er sykkelen et symbol som krever noe av deg. Den balanserer kun i bevegelse, stopper du opp, faller den. Drømmens sykkel handler ofte om denne paradoksale balansen mellom innsats og letthet — det at noe i livet ditt fungerer fordi du holder det i gang, og slutter å fungere i det du gir slipp.
 
-## De vanligste tolkningene
+## Balansen du selv må holde
 
 ### Selvdrevet fremgang
 
@@ -44,7 +44,7 @@ Selve ordet sykkel — fra greske *kyklos*, "krets" — bærer ideen om gjentake
 
 Den moderne sykkelen er for mange et symbol på et bevisst, grønt og enklere valg — å velge bort komplikasjon og avhengighet. Drømmen kan speile et ønske om å forenkle livet, å redusere ned til det essensielle, å gå tilbake til en mer direkte måte å leve på.
 
-## Hva påvirker tolkningen?
+## Om det gikk oppover eller nedover
 
 **Hvis sykkelen gikk lett:**
 Flyt og fremgang — noe kjennes enkelt og naturlig akkurat nå.
@@ -70,7 +70,7 @@ Felles bevegelse — du og noen andre er på samme spor i en periode av livet.
 **Hvis du syklet i en stor flokk:**
 Tilhørighet og kollektiv bevegelse — du er del av noe større som driver fremover sammen.
 
-## Psykologiske og kulturelle perspektiver
+## Egen kraft som fremdrift
 
 Sykkelen er ett av få moderne symboler som krysser nesten alle kulturer som et bilde på den "lille frihetens" transportmiddel. I norsk kultur er den både barndomssymbol — den første store frihetsfølelsen som [barn](/drommer/barn/) — og et stadig viktigere voksent hverdagsvalg knyttet til miljø og helse.
 

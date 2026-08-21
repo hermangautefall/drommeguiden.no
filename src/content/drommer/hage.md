@@ -20,7 +20,7 @@ author: 'default'
 
 Hagen er naturen kultiviert — den ville verden brakt inn i en ramme av menneskelig hensikt og omsorg. I drømmeverdenen er den ett av de mest positive og rike symbolene: et sted der noe har vokst gjennom tålmodig stell, der skjønnhet er dyrket frem, der det indre livet har funnet form.
 
-## De vanligste tolkningene
+## Det du steller og lar gro
 
 ### Ditt dyrkte indre liv
 
@@ -34,7 +34,7 @@ Hagen vokser bare med stell — og drømmens hage handler om hva du nærer og hv
 
 Hagen er i mange kulturer det hellige fristed — Eden, Getsemane, haiku-hagen. Drømmens hage kan representere et indre rom for ro, skjønnhet og fordypning: et sted der du kan puste.
 
-## Hva påvirker tolkningen?
+## Hagens tilstand og årstid
 
 **Hvis hagen var frodig og vakker:**
 Rikt og velfungerende indre liv. Noe trives.

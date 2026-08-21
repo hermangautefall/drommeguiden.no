@@ -22,7 +22,7 @@ Sopp er et av naturens mest fascinerende og underdiskuterte fenomener — og et 
 
 I drømmene er soppen alt dette.
 
-## De vanligste tolkningene
+## Vekst i det skjulte
 
 ### Skjult vekst og usynlige nettverk
 
@@ -42,7 +42,7 @@ Sopp trenger ikke lys. De vokser i mørket, i fuktige kjellere, under nedfalt l�
 
 Sopp kan være mat, medisin eller gift — og de kan ligne hverandre. Det er en varsomhetsaspekt ved sopp-symbolet: ikke alt som vokser i det skjulte er godt. Noe som ser uskyldig ut, kan skade. Drømmens sopp kan av og til speile en advarsel om noe som ikke er det det ser ut til.
 
-## Hva påvirker tolkningen?
+## Om soppen var spiselig eller giftig
 
 **Hvis soppen var vakker og frodig:** Noe godt vokser under overflaten i livet ditt — et positivt usynlig nettverk.
 
@@ -54,7 +54,7 @@ Sopp kan være mat, medisin eller gift — og de kan ligne hverandre. Det er en 
 
 **Hvis det var et stort mykel under bakken:** Du er del av et større nettverk av forbindelser og sammenhenger enn du er bevisst på.
 
-## Psykologiske og kulturelle perspektiver
+## Nettverkene under bakken
 
 Sopp har en rik og mangesidig symbolhistorie. I mange urfolkstradisjoner — fra Siberia til Mesoamerika — har bestemte sopptyper vært brukt i rituelle sammenhenger for å oppnå visjonære tilstander. I norrøn tradisjon er fluesoppen (Amanita muscaria) forbundet med spesielle bevissthetsstilstander — og muligens med seidman-praksiser.
 

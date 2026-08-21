@@ -22,7 +22,7 @@ Hytten er den norske kultursjelens fremste fristeds-symbol. Den er stedet der de
 
 Å drømme om hytte er sjelden tilfeldig.
 
-## De vanligste tolkningene
+## Å koble fra og komme til ro
 
 ### Behov for å koble fra
 
@@ -40,7 +40,7 @@ Hytten er stedet der du ikke trenger å prestere, imponere eller tilpasse deg. D
 
 Hytten i norsk tradisjon er tett knyttet til natur — til [skog](/drommer/skog/), [fjell](/drommer/fjell/) og hav. Drømmens hytte kan handle om en lengsel etter natur, etter det enkle, etter en rødere tråd til det landet du er fra og det landet du er.
 
-## Hva påvirker tolkningen?
+## Hyttas stand og hvem som var der
 
 **Hvis hytten var varm og innbydende:**
 Et trygt og godt fristeds-rom er tilgjengelig for deg — enten faktisk eller mentalt.
@@ -60,7 +60,7 @@ Fellesskap i det enkle — noe deles og styrkes i naturens ramme.
 **Hvis hytten var langt fra veien:**
 Jo dypere inn, jo større behov for å fjerne seg fra det ordinære.
 
-## Psykologiske og kulturelle perspektiver
+## Hytta som norsk kulturfenomen
 
 Hytten er i norsk kulturhistorie noe annet enn i de fleste andre kulturer — den er ikke luksus, den er egalitær. Fra kongehuset til vanlige barnefamilier deler nordmenn idealet om hytten som fristeds-symbol. Hyttetradisjonen er en kollektiv norsk verdi, nedfelt i allemannsretten og i det at norske barn vokser opp med å vite at naturen tilhører alle.
 

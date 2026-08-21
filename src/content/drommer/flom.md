@@ -23,7 +23,7 @@ Flommen er vannets makt i sin mest ukontrollerbare form — noe som stiger gradv
 
 Disse drømmene er vanlige i krevende perioder — og de bærer ofte på et viktig budskap.
 
-## De vanligste tolkningene
+## Når noe stiger over kanten
 
 ### Overveldende følelser som flommer over
 
@@ -37,7 +37,7 @@ Flommen kan også representere en ytre situasjon der tingene er blitt for mange 
 
 Flommen ødelegger, men den renser også — og i drømmesymbolikken er store vannhendelser knyttet til transformasjon. Det gamle skylles vekk for å gi plass til noe nytt. Drømmen kan komme i perioder der noe gammelt og utslitt er i ferd med å forsvinne, selv om det kjennes dramatisk.
 
-## Hva påvirker tolkningen?
+## Hvor raskt vannet steg
 
 **Hvis vannet steg sakte:**
 Noe har bygget seg opp over tid og er nå i ferd med å nå sitt bristepunkt.
@@ -54,7 +54,7 @@ Total overveldelse — et signal om at du trenger støtte og hjelp utenfor deg s
 **Hvis vannet rant av:**
 Krisen er over. Det som overveldet deg er i ferd med å trekke seg tilbake. [Regn](/drommer/regn/) i drømmene bærer en mildere variant av samme symbolikk.
 
-## Psykologiske og kulturelle perspektiver
+## Flommyten fra Noah til Gilgamesj
 
 Flommen er ett av de mest arketypiske bildene i menneskelig mytologi — fra Noas ark til Gilgamesj-eposet til utallige urfolkstradisjoner. Den representerer overalt det samme: en overveldende kraft som renser og forvandler, som destruerer det gamle for å gjøre plass til det nye.
 

@@ -28,7 +28,7 @@ Det er en av de drømmene som setter seg hardest i kroppen. Du våkner med hjert
 
 Drømmer om at barn drukner er svært vanlige hos foreldre, og de sier ingenting om hva som vil skje. De sier noe om hva du frykter mest — og det å frykte å miste det du elsker høyest, er den naturlige konsekvensen av å elske betingelsesløst.
 
-## De vanligste tolkningene
+## Foreldrefrykten som våkner om natten
 
 ### Den dypeste foreldrefrykten aktiveres i søvnen
 
@@ -52,7 +52,7 @@ Det er ikke et varsel. Det er risikovurderingens naturlige nattarbeid.
 
 Drømmens druknende barn representerer da noe symbolsk: et prosjekt i sin tidligste fase, en idé som ikke er klar, en sårbar side av deg selv, eller — som ofte hos dem som vurderer å bli foreldre — en bearbeiding av selve spørsmålet om foreldreskap.
 
-## Hva påvirker tolkningen?
+## Hvem barnet var
 
 **Hvis du reddet barnet:**
 Du har ressursene som trengs. Frykten er der, men så er også evnen til å handle.
@@ -69,7 +69,7 @@ Symbolsk — en sårbar del av deg selv som er i fare.
 **Hvis drømmen gjentar seg:**
 En vedvarende angst som fortjener oppmerksomhet. Er det noe i livet ditt som gjør deg spesielt utrygg akkurat nå?
 
-## Psykologiske og kulturelle perspektiver
+## Det sårbare vi bærer ansvar for
 
 Forsker Antonio Zadra ved Universitetet i Montreal dokumenterte at drømmer om barns ulykker er blant de vanligste foreldrerelaterte marerittpremissene — og at de konsistent mangler prediktiv verdi for faktiske hendelser. De er angstdrømmer, ikke spådomsdrømmer.
 

@@ -24,7 +24,7 @@ Mat er mer enn næring — det er kjærlighet, kultur, trygghet og nytelse på �
 
 Matdrømmene handler sjelden om sultfornemmelsen alene.
 
-## De vanligste tolkningene
+## Sult, nytelse og det å dele
 
 ### Et grunnleggende behov som ikke er møtt
 
@@ -38,7 +38,7 @@ Mat er nytelse — og drømmer om deilig mat, om å spise fritt og med glede, ka
 
 Mat er sosialt — vi spiser sammen, vi lager mat til dem vi er glad i. Å drømme om å lage mat til andre eller spise i godt selskap kan speile et ønske om mer nærhet, mer deling, mer fellesskap.
 
-## Hva påvirker tolkningen?
+## Hva du spiste, og med hvem
 
 **Hvis maten var deilig og du spiste med glede:**
 Tillatelse til nytelse og et positivt forhold til egne behov. Et godt tegn.
@@ -55,7 +55,7 @@ Ensomhet eller selvstendighet — avhengig av om det kjentes godt eller trist.
 **Hvis du lagde mat til andre:**
 Omsorg og generøsitet — et ønske om å gi, eller kanskje en tendens til å gi mer enn du tar.
 
-## Psykologiske og kulturelle perspektiver
+## Måltidet som fellesskap
 
 I psykoanalytisk tradisjon er mat tett knyttet til de tidligste erfaringene av omsorg — brystet, maten, den som gir næring. Matdrømmene berører dermed noe svært grunnleggende i den menneskelige psyken: urbehovet for å bli sett og ivaretatt.
 

@@ -24,7 +24,7 @@ relaterte_sovn:
 
 Djevelen er ett av de mest ladte symbolene i vestlig kultur — bærer av alt det onde, det fristende, det perverse og det som er utenfor Guds orden. I drømmene er han noe annet: han er Skyggen, og han er en del av deg.
 
-## De vanligste tolkningene
+## Skyggen og det fortrengte
 
 ### Skyggen i sin klareste form
 
@@ -46,7 +46,7 @@ Djevelen som frister er et arketypisk motiv — Jesus i ørkenen, Faust ved veik
 
 For dem med religiøs bakgrunn der djevelen er en konkret teologisk realitet, kan drømmens djevel ha mer direkte religiøst innhold. Det er et personlig og respektfullt territorium. Uansett tolkning: drømmens intense emosjonelle ladning peker på noe reelt og viktig.
 
-## Hva påvirker tolkningen?
+## Hva djevelen ville deg
 
 **Hvis djevelen talte til deg:** Skyggen kommuniserer — hva sa den? Det er verdt å høre på, selv om det er ubehagelig.
 

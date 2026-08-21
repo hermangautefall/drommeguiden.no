@@ -22,7 +22,7 @@ Musikk i drømmene er et av de vakreste og mest meningsfulle symbolene — fordi
 
 Hva slags musikk du hørte eller spilte, og hvilken følelse den vekket, er nøkkelen til tolkningen.
 
-## De vanligste tolkningene
+## Uttrykket som søker plass
 
 ### Kreativitet og uttrykk som søker plass
 
@@ -38,7 +38,7 @@ Musikk har harmoni og disharmoni — og i drømmene speiler dette gjerne tilstan
 
 Noen ganger er musikken i drømmene ikke et symbol på noe annet — den er en direkte opplevelse. En melodi du aldri har hørt, men som er uendelig vakker. En sang som treffer deg i hjertet. Disse drømmene beskrives av mange som noen av de mest intense og minnerike de har hatt — og de trenger ikke tolkes bort. De kan bare oppleves og huses på. En [drømmejournal](/guider/drommejournalen/) kan hjelpe deg å bevare slike opplevelser.
 
-## Hva påvirker tolkningen?
+## Musikken du hørte
 
 **Hvis musikken var vakker og harmonisk:**
 Indre ro, kreativ flyt og noe som er i god balanse akkurat nå.
@@ -55,7 +55,7 @@ Sangens tekst og tone kan gi direkte ledetråder — hva handler den om?
 **Hvis du ikke klarte å spille eller synge:**
 Noe blokkerer det kreative uttrykket ditt — en hemning, en frykt, en situasjon som ikke gir rom. Temaet ligner det man kan oppleve i drømmer om [eksamen](/drommer/eksamen/) — en prestasjon som blokkeres.
 
-## Psykologiske og kulturelle perspektiver
+## Toner som språk uten ord
 
 Musikk er et av de fenomenene Jung var mest fascinert av — fordi den opererer direkte på det ubevisste uten å gå veien om rasjonell tanke. Han beskrev musikk som "et direkte uttrykk for sjelen" og mente at drømmenes musikk ofte kommuniserte noe som psyken ikke hadde ord for.
 

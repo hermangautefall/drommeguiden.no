@@ -20,7 +20,7 @@ author: 'default'
 
 Kyss er ett av de eldste og mest universelle menneskelige gestene for kontakt, godkjennelse og forening. I drømmene bærer kysset den samme symbolkraften — men det er sjelden bare om romantikk. Konteksten, følelsen og ikke minst hvem du kysser er det som åpner drømmens mening.
 
-## De vanligste tolkningene
+## Nærhet, samtykke og hvem det var
 
 ### Forening og godkjennelse
 
@@ -52,7 +52,7 @@ En drøm om et kyss kan dermed handle om en overgang du er i — et løfte du ho
 
 I jungiansk psykologi er et kyss mellom to drømmefigurer tidvis et bilde på foreningen av motsetninger i psyken — det rasjonelle og det intuitive, det maskuline og det feminine, det sosiale selvet og skyggen. Å drømme om å kysse en ukjent part av deg selv er psykens bilde på helhet.
 
-## Hva påvirker tolkningen?
+## Hvem du kysset, og hvordan det føltes
 
 **Hvis kysset var ømt og godt:**
 Et positivt tegn på nærhet, selvaksept eller et godt forhold til den du kysset.
@@ -69,7 +69,7 @@ Personen er et symbol. Hva representerer de for deg — hvilken egenskap eller k
 **Hvis det var et kyss på pannen eller kinnet:**
 Omsorg, respekt og velsignelse fremfor romantikk. Hva trenger du beskyttelse eller støtte til?
 
-## Psykologiske og kulturelle perspektiver
+## Kysset som pakt og segl
 
 Kyss som ritual har dype røtter i nesten alle kulturer. I norrøn tradisjon markerte et kyss inngåelse av ed og pakt. I romersk lov bekreftet et kyss muntlige avtaler. I mystiske tradisjoner symboliserer kysset overføring av livsånde og guddommelig gnist.
 
