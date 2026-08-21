@@ -67,7 +67,7 @@ En overgang som går lettere enn du fryktet.
 
 Fødsel er kanskje det mest universelle av alle arketypiske symboler. Alle kulturer har fødselsmyter — fra Zevs som føder Atene fra hodet til Odin som henger i Yggdrasil og "føder" runenes visdom. Fødsel som metafor for ny innsikt, ny identitet og ny verden er innebygget i menneskehetens forestillingsverden.
 
-Jung kalte individasjonsprosessen — den livslange bevegelsen mot psykisk helhet — en serie symboliske fødselsmomenter: deler av selvet som tar form og trer inn i bevisstheten. Drømmens fødsel er ett av de kraftigste bildene for slike momenter.
+Jung kalte individuasjonsprosessen — den livslange bevegelsen mot psykisk helhet — en serie symboliske fødselsmomenter: deler av selvet som tar form og trer inn i bevisstheten. Drømmens fødsel er ett av de kraftigste bildene for slike momenter.
 
 Jordmødre i mange kulturer — fra norske "jordemødre" til greske "maiai" — var ikke bare biologiske hjelpere, men symbolske veiledere gjennom overgangen. Drømmens fødsel kan tidvis inkludere en slik veileder — spør hvem som var til stede, og hva de representerte.
 

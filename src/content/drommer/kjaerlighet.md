@@ -44,7 +44,7 @@ Drømmer om å elske en person du ikke kjenner romantisk — en venn, en figur �
 
 ### Integrasjon og helhet
 
-I jungiansk psykologi er kjærligheten i drømmene ett av de kraftigste bildene for individasjon — bevegelsen mot psykisk helhet. Å elske i drømmen er å forene det som var splittet, å akseptere det som var avvist, å gjøre hel det som var brutt.
+I jungiansk psykologi er kjærligheten i drømmene ett av de kraftigste bildene for individuasjon — bevegelsen mot psykisk helhet. Å elske i drømmen er å forene det som var splittet, å akseptere det som var avvist, å gjøre hel det som var brutt.
 
 Slike drømmer kan oppstå i perioder med personlig vekst, etter terapi, eller etter å ha gjort noe vanskelig og riktig. De er psykens bekreftelse.
 

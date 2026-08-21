@@ -32,7 +32,7 @@ Drømmens fødsel sier: det som var inne er klar til å komme ut. Noe er ferdig 
 
 ### En ny side av deg selv
 
-I jungiansk psykologi er fødselen i drømmene ett av de sterkeste bildene på individasjon — det øyeblikket en ny side av selvet blir bevisst, en egenskap eller evne som har vokst i det ubevisste og nå er klar til å integreres. En ny identitet, en ny selvforståelse, noe du har vært men ikke visst om.
+I jungiansk psykologi er fødselen i drømmene ett av de sterkeste bildene på individuasjon — det øyeblikket en ny side av selvet blir bevisst, en egenskap eller evne som har vokst i det ubevisste og nå er klar til å integreres. En ny identitet, en ny selvforståelse, noe du har vært men ikke visst om.
 
 Hvem eller hva er det som blir født? Det er det sentrale spørsmålet.
 

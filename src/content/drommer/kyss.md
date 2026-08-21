@@ -73,7 +73,7 @@ Omsorg, respekt og velsignelse fremfor romantikk. Hva trenger du beskyttelse ell
 
 Kyss som ritual har dype røtter i nesten alle kulturer. I norrøn tradisjon markerte et kyss inngåelse av ed og pakt. I romersk lov bekreftet et kyss muntlige avtaler. I mystiske tradisjoner symboliserer kysset overføring av livsånde og guddommelig gnist.
 
-Freud tolket drømmens kyss — som det meste — seksuelt. Jung utvidet dette til noe mer grunnleggende: kyss er forening, og forening er psykens dypeste lengsel. Hele individasjonsprosessen — den livslange bevegelsen mot helhet — kan beskrives som en serie kyss mellom det kjente og det ukjente i deg selv.
+Freud tolket drømmens kyss — som det meste — seksuelt. Jung utvidet dette til noe mer grunnleggende: kyss er forening, og forening er psykens dypeste lengsel. Hele individuasjonsprosessen — den livslange bevegelsen mot helhet — kan beskrives som en serie kyss mellom det kjente og det ukjente i deg selv.
 
 ## Drømmeguiden anbefaler
 

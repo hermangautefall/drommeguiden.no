@@ -67,7 +67,7 @@ Et ubevisst sår — noe som gjør vondt men som du ennå ikke har identifisert 
 
 Sår-symbolikken er universell i menneskenes mytologiske tenkning. Den sårede helten er et gjennomgående arketypisk motiv: Achilles i hælen, Siegfried mellom skulderbladene, Amfortas med det ulegrelige sår i Parsifal. Alle er menn hvis styrke er absolutt — bortsett fra ett punkt. Det punktet er sårene.
 
-Jung brukte begrepet "det sårede selv" om den psykiske smerten som oppstår i individasjonsprosessen — møtet med skyggen, med undertrykte sider av selvet, med livets uunngåelige tap. Sår i drømmene er gjerne markører for disse møtepunktene.
+Jung brukte begrepet "det sårede selv" om den psykiske smerten som oppstår i individuasjonsprosessen — møtet med skyggen, med undertrykte sider av selvet, med livets uunngåelige tap. Sår i drømmene er gjerne markører for disse møtepunktene.
 
 Folkemedisinsk tradisjon i Norge — som i de fleste kulturer — skjelner mellom sår som lege seg og sår som "lever". Et sår som "lever" er et sår som har fått åndelig eller emosjonell ladning og ikke leger seg med bare fysisk behandling. Drømmens sår tilhører gjerne denne kategorien.
 
