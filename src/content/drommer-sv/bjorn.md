@@ -26,7 +26,7 @@ Björnen representerar rå styrka och orörd natur, men också något mjukt och 
 
 ---
 
-## De vanligaste tolkningarna
+## Kraft, dvala och beskyddande instinkt
 
 ### Inre styrka och mod
 
@@ -60,9 +60,9 @@ Om björnen i drömmen var vänlig och nära, kan det tolkas som att du har star
 
 ---
 
-## Vad påverkar tolkningen?
+## Anfall, dvala eller björnhonan med ungar
 
-Sammanhanget i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
+Här är några varianter som ofta ger olika tolkningar:
 
 **Om björnen anföll dig:**
 En anfallande björn kan symbolisera en överväldigande kraft i ditt liv — en person, en situation eller en känsla du upplever som hotfull. Det kan också handla om dina egna undertryckta känslor som hotar att bryta loss.
@@ -87,13 +87,3 @@ Björnen bär också på en stark beskyddande, näst intill maternell kraft. Tä
 Om björnen i drömmen känns hotfull kan den tolkas som ett överväldigande problem, en mäktig person i ditt liv, eller en ilska — din egen eller andras — som du förr eller senare måste möta. I flera urfolkstraditioner på norra halvklotet, bland både nordamerikanska och sibiriska folk, har björnen setts som en mäktig ande och helare, en varelse som förbinder människans värld med något större. Även på stjärnhimlen lever denna respekt vidare, i stjärnbilden som de gamla grekerna knöt till Kallisto — Stora björnen.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om björn **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

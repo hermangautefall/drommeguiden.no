@@ -26,7 +26,7 @@ Drömmar om barn är mycket vanliga och berikar nästan alltid drömvärlden med
 
 Barn i drömmar är sällan bara barn — de representerar gärna något i dig själv.
 
-## De vanligaste tolkningarna
+## Barnet som en del av dig själv
 
 ### Ditt inre barn
 
@@ -42,7 +42,7 @@ Barn symboliserar i drömmar också nya ting som håller på att växa — ett p
 
 För föräldrar är drömmar om egna barn mycket vanliga — och ofta färgade av oro. Att drömma att barnet är i fara, försvinner eller har det svårt är en av de mest ångestfyllda drömmarna föräldrar rapporterar, i linje med drömmar om att [förlora något](/sv/drommar/forlora-nagot/) värdefullt. Dessa drömmar speglar sällan en verklig fara — de speglar den djupa omsorgskraften och ansvaret som följer med att älska någon så sårbart och fullständigt.
 
-## Vad påverkar tolkningen?
+## Vem barnet var, och vad det gjorde
 
 **Om barnet var ditt eget:**
 Omsorg, skydd och föräldraångest är i spel — eller glädje och kärlek, beroende på drömmens ton.
@@ -59,16 +59,8 @@ En visdom från din egen inre barnsliga del — intuition och ärlighet som vuxn
 **Om du förlorade barnet eller det försvann:**
 En av de mer skrämmande drömmarna, men sällan ett varsel. Speglar gärna ångest för förlust av kontroll över något du har ansvar för.
 
-## Psykologiska och kulturella perspektiv
+## Barnarketypen och det som vill växa
 
 I jungiansk psykologi är barnet en av de viktigaste arketypiska symbolerna — det representerar potential, helhet och framtid. Jung skrev att barnet i drömmen symboliserar det själv vi är på väg att bli: något som ännu inte är realiserat, men som redan existerar som möjlighet.
 
 I nordisk folkloretradition ses barn i drömmar gärna som varsel om något nytt på väg. Om du är intresserad av att utforska [vad drömmar egentligen är](/sv/guider/vad-ar-drommar/) har vi en egen guide om detta — inte nödvändigtvis bokstavligen, utan som en symbol för att något i livet håller på att ta en ny form.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om barn **flera gånger**?

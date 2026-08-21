@@ -23,7 +23,7 @@ author: 'default'
 
 Att drömma om en älv är att drömma om själva gången i tillvaron.
 
-## De vanligaste tolkningarna
+## Strömmen som bär dig vidare
 
 ### Livets flöde — tid och rörelse
 
@@ -45,7 +45,7 @@ Vilken väg flyter älven i drömmen — och är det dit du vill?
 
 Älvar är historiskt gränser mellan länder och riken — och i drömmarna kan de representera gränsen mellan två tillstånd, två faser, två världar. Att korsa en älv är en övergång. De klassiska mytologiska älvarna — Styx, Jordan — är alla gränser mellan liv och död, gammalt och nytt.
 
-## Vad påverkar tolkningen?
+## Vattnets fart och riktning
 
 **Om älven var lugn och klar:**
 Balans, klarhet och ett bra flöde i livet. Du är med strömmen.
@@ -81,11 +81,3 @@ Herakleitos berömda uttalande — "du kan aldrig bada i samma älv två gånger
 Många älvdrömmar handlar i grunden om känslor som är i rörelse snarare än fastlåsta. Där ett stillastående vatten kan upplevas som djupt och slutet, är älven alltid på väg någonstans — den bearbetar, transporterar, förändrar. En klar och jämn älv kan spegla känslor som flödar fritt och hittar sin naturliga form, medan en älv full av virvlar eller motström kan peka mot något i dig som håller på att bearbetas, men ännu inte funnit ro.
 
 Älven är också, rent konkret, en resa med en början och ett mål — från källa till hav. Att följa älven i drömmen, eller att låta dig bäras av den, kan därför handla om var du befinner dig i din egen livsresa: är du nära ursprunget, mitt i loppet, eller på väg mot något som väntar längre fram? Och att korsa en älv, så som många myter och berättelser gör en stor sak av, markerar ofta att något avslutas på den ena sidan och något nytt börjar på den andra.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om älv **flera gånger**?

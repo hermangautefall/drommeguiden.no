@@ -27,7 +27,7 @@ Få drömmar väcker så stark skam och förvirring som denna. Du vaknar, minns 
 
 Dessa drömmar är det omedvetnas dramatiska språk för att uttrycka något som annars inte släpps fram. De förtjänar att bli förstådda, inte fruktade.
 
-## De vanligaste tolkningarna
+## Vad mordet i drömmen egentligen riktar sig mot
 
 ### Undertryckt ilska och frustration
 
@@ -53,7 +53,7 @@ Jung kallade detta mötet med Skuggan: de sidor av oss vi inte kännes vid, som 
 
 Drömmar om att döda — släkt med drömmar om att bli [förföljd](/sv/drommar/forfoljd/) — kan också komma i perioder där du känner dig maktlös — där något eller någon har kontroll över ditt liv på sätt du inte tycker om. Drömmen ger dig en arena där du återvinner kontroll, även om medlen är drastiska. Det är inte en önskan om faktiskt våld — det är ett uttryck för frustration över maktlöshet.
 
-## Vad påverkar tolkningen?
+## Offret, känslan och vad de berättar för dig
 
 **Vem du dödade:**
 Detta är den viktigaste ledtråden. Kände du personen? Vad representerar de i ditt liv? En [chef](/sv/drommar/chef/) kan symbolisera auktoritet, en expartner kan symbolisera ett avslutat kapitel, ett [okänt ansikte](/sv/drommar/frammande/) kan representera en okänd sida av dig själv.
@@ -77,11 +77,3 @@ Det är viktigt att säga rakt ut: att drömma om att döda speglar nästan aldr
 Den vanligaste tolkningen handlar om att "göra slut på" något i överförd bemärkelse: att avsluta en vana, lägga en roll åt sidan, göra slut på en relation, eller låta en gammal version av dig själv få dö för att något nytt ska få plats. Offret i drömmen representerar ofta just det du, djupast sett, vill bli av med — inte en verklig person.
 
 För andra kan drömmen vara ett tryggt utlopp för ilska eller frustration som inte får plats i vardagen, eller den kan handla om att återta kontroll och makt i en situation där du känner dig maktlös. Den skuldkänsla som ofta följer en sådan dröm är nästan alltid ett tecken på att du är en omtänksam person — inte ett bevis på något annat.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om att döda **flera gånger**?

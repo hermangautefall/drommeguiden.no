@@ -23,7 +23,7 @@ Där [getingen](/sv/drommar/geting/) sticks och tar, ger biet — honung, pollin
 
 Samtidigt är biet en symbol med flera lager. Det kan också sticka — men bara när det eller dess samhälle är hotat, och sticket kostar det livet. Drömmens bi bär därför på en särskild etisk vikt: det arbetar, det skapar, och det försvarar det det bygger.
 
-## De vanligaste tolkningarna
+## Flit, honung och gemenskapens logik
 
 ### Flit och tålmodigt arbete
 
@@ -45,7 +45,7 @@ I många traditioner räknas biet som en budbärare från andevärlden — det k
 
 Bina är i ekologisk kris i vår tid, och denna moderna laddning smyger sig ofta in i drömmarna. Drömmens bi kan handla om något värdefullt och skört i ditt liv eller i världen omkring dig som kräver omsorg och skydd. Det är ofta ett varsel om att något gott är på väg att försvinna om det inte får uppmärksamhet.
 
-## Vad påverkar tolkningen?
+## Surr, stick och svärm — det som ändrar bilden
 
 **Om biet surrade fridfullt:**
 Produktiv aktivitet och ett gott flöde i arbetet.

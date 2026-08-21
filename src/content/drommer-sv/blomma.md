@@ -21,7 +21,7 @@ author: 'default'
 
 Blommor är en av naturens mest laddade symboler för skönhet, växt och livets kortvarighet på en och samma gång. I drömvärlden bär de på en dubbel symbolik: de är vackra och livgivande, men de vissnar också. Vilken sorts blommor, i vilket skick de är och vad du gör med dem ger ledtrådar till tolkningen.
 
-## De vanligaste tolkningarna
+## Något som blomstrar i dig
 
 ### Växt och blomning
 
@@ -35,7 +35,7 @@ Blommor är kulturellt oupplösligt knutna till [kärlek](/sv/drommar/ring/) och
 
 En blomma vissnar — och det är en del av dess skönhet. Drömmar om blommor kan spegla en medvetenhet om livets förgänglighet: något är vackert just för att det inte varar för evigt. En påminnelse om att uppskatta det som är här nu.
 
-## Vad påverkar tolkningen?
+## Blommans tillstånd och färg
 
 **Om blommorna var vackra och levande:**
 Positiv växt, kärlek och livsglädje. En av de ljusaste drömsymbolerna.
@@ -52,16 +52,8 @@ Kärlek och erkännande ges till dig. Någon ser dig.
 **Om blommorna var ovanligt stora eller färgrika:**
 En överväldigande känsla av livsglädje, kreativitet eller kärlek.
 
-## Psykologiska och kulturella perspektiv
+## Självet i sin blomstertid
 
 Blomman är i jungiansk psykologi knuten till Självet i sin blomningstid — psyket i sitt mest öppna och mottagliga tillstånd. Den är inte den mogna [fruktens](/sv/drommar/gravid/) överflöd, utan blommans löfte om vad som är möjligt.
 
 I svensk tradition är blommor knutna till [sommarens](/sv/drommar/sol/) kortvarighet — i ett land med lång [vinter](/sv/drommar/sno/) är blomman extra laddad. Att drömma om blommor i svensk kontext är att drömma om det käraste och mest kortvariga i livet.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om blommor **flera gånger**?

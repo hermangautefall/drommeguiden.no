@@ -21,7 +21,7 @@ author: 'default'
 
 Blixten är en av naturens mest dramatiska och ögonblickliga krafter — en glimt som lyser upp allt, följt av en knall som skakar världen. I drömsymboliken är den knuten till just denna plötslighet: något som sker snabbt, med stor kraft, och som förändrar något permanent.
 
-## De vanligaste tolkningarna
+## När blixten slår till
 
 ### En plötslig insikt
 
@@ -35,7 +35,7 @@ Blixt är elektrisk — och i drömmarna representerar den ett laddat, intensivt
 
 Blixten slår ner utan förvarning — och drömmarna om den kan spegla en rädsla för, eller en bearbetning av, något som hände plötsligt. En händelse som ändrade allt på ett ögonblick. Se även [jordbävning](/sv/drommar/jordbavning/) för liknande drömmar om plötslig omvälvning.
 
-## Vad påverkar tolkningen?
+## Vad blixten träffade
 
 **Om blixten träffade dig:**
 Något träffar dig direkt — en insikt, en händelse, en förändring som berör dig personligen.
@@ -57,11 +57,3 @@ Insikten finns där, men konsekvenserna har inte kommit än. Något är i rörel
 Blixten kan tolkas som en glimt av insikt — ett plötsligt "aha"-ögonblick där något blir klart för dig på en bråkdel av en sekund, ett uppvaknande eller en sanning som slår till med full kraft. Sådana drömmar kan dyka upp i perioder då du är på väg att förstå något viktigt om dig själv eller ditt liv, även om medvetandet inte riktigt hunnit ikapp ännu.
 
 Blixten kan också tolkas som en bild av chock och plötslig förändring — något som kommer som en blixt från klar himmel, en händelse eller ett vändpunkt som förändrar allt på ett ögonblick. Över kulturgränser har blixten länge förknippats med gudomlig kraft och dom — tänk på Zeus och hans åskvigg, en symbol för gudarnas makt över himlen. Denna koppling till något stort och okontrollerbart kan också ge drömmen en underton av rädsla: rädslan för att träffas av krafter du inte rår över, och den sårbarhet som ligger i det.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om blixt **flera gånger**?

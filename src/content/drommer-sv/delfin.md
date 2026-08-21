@@ -21,7 +21,7 @@ author: 'default'
 
 Delfinen är ett av de sällsynta djur som nästan alltid är en positiv symbol — och ett av de mest älskade i människornas förhållande till naturens varelser. Intelligent, social, lekfull och elegant i sitt element. I drömmarna bär den dessa kvaliteter och mer därtill.
 
-## De vanligaste tolkningarna
+## Glädje, djup insikt och en gammal vänskap
 
 ### Glädje och lekfullhet
 
@@ -43,7 +43,7 @@ Delfinen lever i havet — det djupa, det omedvetna — men andas luft från yta
 
 I antiken sågs delfiner som människornas vänner i havet — det fanns otaliga berättelser om delfiner som räddade drunknande sjömän. I drömmarna kan delfinen spegla en genuin vänskap, en kontakt med något som är på din sida — antingen en människa eller en sida av dig själv.
 
-## Vad påverkar tolkningen?
+## Lekte den, ledde den, eller var den i nöd?
 
 **Om delfinen lekte med dig:** En inbjudan till mer glädje, frihet och lättsinnighet i livet.
 
@@ -62,9 +62,3 @@ Delfinen förknippas ofta med intelligens, lekfullhet och glädje — egenskaper
 I flera maritima kulturer sågs delfinen som en vägvisare och räddare för sjöfarare — en skyddande och välvillig följeslagare på havet. I grekisk myt räddade en delfin skalden Arion från att drunkna, och delfinen var helig för både Apollon och Poseidon. Ett sådant möte i drömmen kan tolkas som att något eller någon leder dig tryggt vidare genom okänt vatten.
 
 Som ett däggdjur som är hemma i [havet](/sv/drommar/hav/) — ofta tolkat som känslolivets symbol — kan delfinen också representera en harmoni mellan intellekt och känsla: förmågan att navigera det emotionella landskapet med elegans. Delfinens avancerade kommunikation kan dessutom spegla ett tema om samhörighet och gemenskap — en önskan om att bli sedd och förstådd.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — finns det nog glädje, lätthet och lek där?
-- Har du drömt om **delfiner eller havet** **flera gånger**?

@@ -24,7 +24,7 @@ Berget är en av de mest universella drömsymbolerna — det finns i myter, reli
 
 ---
 
-## De vanligaste tolkningarna
+## Steg för steg uppåt
 
 ### Stora mål och ambitioner
 
@@ -52,9 +52,9 @@ Förbindelsen till drömmar om [flykt](/sv/drommar/flyga/) är tydlig här: båd
 
 ---
 
-## Vad påverkar tolkningen?
+## Toppen — och utsikten när du vänder dig om
 
-Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
+Här är några varianter som ofta ger olika tolkningar:
 
 **Om du klättrar uppför berget:**
 Symboliserar gärna aktiv insats mot ett mål. Graden av ansträngning i drömmen speglar ofta hur krävande situationen i det vakna livet upplevs.
@@ -79,13 +79,3 @@ Berget är samtidigt en bild för det som inte rör sig. Där mycket annat i liv
 Till sist handlar bergsdrömmar ofta om förhållandet mellan ansträngning och belöning. Klättringen är det tunga, gradvisa arbetet — steg för steg, ofta utan att du ser hur långt du kommit. Utsikten från toppen är det du får tillbaka för det. En dröm om att klättra kan påminna dig om att mödan har en mening, medan en dröm där du redan står på toppen kan bjuda in dig att stanna upp och verkligen ta in det du har uppnått, innan du går vidare.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om berg **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

@@ -25,7 +25,7 @@ relaterte_sovn:
 
 Dessa drömmar är inte förbehållna de troende. De är djupt mänskliga.
 
-## De vanligaste tolkningarna
+## Budskap, beskydd och vägledning
 
 ### Ett budskap eller en vägledning
 
@@ -49,7 +49,7 @@ Vad sade denna högre röst? Drömmens ängel är kanske din egen inre visdom kl
 
 Ängeldrömmar är särskilt vanliga hos dem som nyligen förlorat någon — och de upplevs gärna som ett möte med den avlidne, eller som en försäkran om att den avlidne har det bra. Många beskriver sådana drömmar som mer verkliga än vanliga drömmar, och som en av de mest helande upplevelserna i sorgens tid.
 
-## Vad påverkar tolkningen?
+## Vad ängeln gjorde eller sa
 
 **Om ängeln talade till dig:**
 Ett budskap du bär med dig från drömmen är viktigt — även om du inte minns orden, minns du känslan. Vad var den?
@@ -76,11 +76,3 @@ Att drömma om änglar handlar ofta allra mest om beskydd, tröst, uppmuntran oc
 Ordet "ängel" kommer från grekiska angelos, som helt enkelt betyder "budbärare". I drömmar kan ängeln därför representera ett budskap eller en insikt som är på väg till dig — värt att lägga märke till vad ängeln sade, gjorde, eller vilken känsla den lämnade efter sig. Ängeln kan också förstås som ditt eget samvete eller din bättre natur — den del av dig som vet vad som är rätt, och som vill beskydda och vägleda dig genom det som är svårt.
 
 Änglar finns inom judendom, kristendom och islam som mellanled mellan det mänskliga och det gudomliga, och liknande gestalter återfinns i många andra traditioner. Det gör ängelbilden till något som känns igen av väldigt många — även de som inte är troende. Sådana drömmar är särskilt vanliga i samband med sorg, och upplevs då ofta som en stilla tröst om att något — eller någon — är i frid. Se även drömmar om [Gud](/sv/drommar/gud/) eller [himlen](/sv/drommar/himmel/).
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om änglar **flera gånger**?

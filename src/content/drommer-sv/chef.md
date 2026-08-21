@@ -25,9 +25,9 @@ Drömmar om sin chef är extremt vanliga — och de dyker gärna upp i perioder 
 
 Den chef du drömmer om är lika mycket en inre gestalt som en yttre person.
 
-## De vanligaste tolkningarna
+## Ditt förhållande till auktoritet
 
-### Din relation till auktoritet
+### Respekt, rädsla eller motstånd
 
 Chefen i drömmen representerar ofta auktoritetsprincipen i bredare mening — inte bara den konkreta personen, utan alla de krafter i ditt liv som bedömer dig, ställer krav och avgör vad som är bra nog. Att drömma om chefen kan betyda att du bearbetar din egen relation till dessa krafter: respekterar du dem, fruktar du dem, eller är du på väg att utmana dem?
 
@@ -39,7 +39,7 @@ Ibland är drömmen helt enkelt praktisk — hjärnan fortsätter att bearbeta a
 
 Chefen i drömmen kan vara ett ansikte på din egen inre kritiker — rösten som bedömer, dömer och aldrig tycker att du är bra nog. Särskilt om chefen i drömmen var missnöjd, kall eller besviken — fråga dig själv om det egentligen är din egen röst du hör. Läs också om [drömmar om skola](/sv/drommar/skola/) för ett liknande tema.
 
-## Vad påverkar tolkningen?
+## Hur chefen behandlade dig
 
 **Om chefen var nöjd eller gav uppskattning:**
 Ett tecken på att du är i god kontakt med din egen känsla av att bemästra just nu.
@@ -63,11 +63,3 @@ Chefen i drömmar kan stå för vem som helst som har — eller upplevs ha — m
 För många handlar detta lika mycket om kontroll och självständighet som om jobbet. Att drömma att chefen bestämmer över dig kan tolkas som en signal om att du önskar mer rådighet över din egen tid och dina egna val — eller att du, under en period, har gett ifrån dig mer kontroll än du egentligen är bekväm med.
 
 Chefen kan också spegla din egen ambition och förhållande till framgång. Vad betyder det för dig att bli sedd som tillräckligt bra? Många känner en smygande bedragarkänsla inför en chefsfigur i drömmen — en rädsla för att någon snart ska "avslöja" att man inte räcker till. Andra upplever att chefen i drömmen egentligen är en projektion av deras eget inre driv: den del av dig som organiserar, pressar och sätter standarder. Om den inre rösten ofta är hård kan drömmen vara en påminnelse om att visa dig själv lite av den vänlighet du gärna ger andra.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om chefen **flera gånger**?

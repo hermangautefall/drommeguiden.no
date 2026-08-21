@@ -30,7 +30,7 @@ Elden i drömmen är sällan tillfällig. Den representerar något som brinner i
 
 ---
 
-## De vanligaste tolkningarna
+## Eldens många ansikten
 
 ### Lidelse och starka känslor
 
@@ -58,9 +58,9 @@ Drömmar om att ett [hus](/sv/drommar/hus/) brinner ner är särskilt laddade, e
 
 ---
 
-## Vad påverkar tolkningen?
+## Vad elden gjorde i drömmen
 
-Sammanhanget i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
+Här är några varianter som ofta ger olika tolkningar:
 
 **Om du tände elden själv:**
 Att tända en eld kan symbolisera att du medvetet har satt i gång en process — kanske en konfrontation, ett nytt projekt, eller en förändring du har valt. Du är den aktiva parten.
@@ -83,15 +83,3 @@ Att släcka eld kan tolkas som att du tar kontroll över en svår situation. Det
 Eld kan också tolkas som en bild för intensiv känsla — lidelse, begär, ilska eller kreativ energi som "brinner" i dig. Ibland handlar det om motsatsen: en känsla av att vara "utbränd", av att ha blivit förtärd av något som krävde för mycket. I grekisk mytologi stals elden från gudarna av Prometheus och gavs till människorna — en bild för kunskap, framsteg och att våga ta sig över en gräns.
 
 En okontrollerad brand i drömmen kan tolkas som rädsla för att förlora något, eller en situation som har kommit "ur kontroll". Samtidigt har elden en helt annan sida i brasan eller härden — där den representerar värme, hem och samvaro. Hur elden upplevs i drömmen säger ofta mycket om vilken av dessa betydelser som är mest relevant för dig.
-
----
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om brand **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

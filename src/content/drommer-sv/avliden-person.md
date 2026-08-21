@@ -27,7 +27,7 @@ Drömmar om någon som har gått bort är bland de mest intensiva och minnesvär
 
 Du är inte ensam om att uppleva detta, och det finns inget att frukta.
 
-## De vanligaste tolkningarna
+## När sorgen fortsätter arbeta i drömmen
 
 ### Sorg och bearbetning som fortsätter
 
@@ -47,7 +47,7 @@ Många som har drömt om avlidna kära — vare sig det är [mamma](/sv/drommar/
 
 Oavsett vad man tror om vad som händer efter döden är denna typ av dröm något mycket många människor har, och något mycket många beskriver som en av de viktigaste och mest tröstande upplevelserna i sorgetiden.
 
-## Vad påverkar tolkningen?
+## Variationer du inte behöver oroa dig för
 
 **Om personen verkade glad och i frid:**
 En av de mest tröstande drömmar man kan ha. Många upplever detta som en bekräftelse på att allt är gott.
@@ -71,11 +71,3 @@ Inom modern sorgforskning talar man ibland om "continuing bonds" — tanken att 
 En egen kategori brukar kallas "besöksdrömmar" — ovanligt levande och fridfulla drömmar där den avlidne verkar frisk, lugn och fullt närvarande, och du vaknar med en känsla av att något verkligt har hänt. Detta fenomen är beskrivet över nästan alla kulturer och tidsepoker, och är en av de mest universella drömupplevelser människor har.
 
 Mer än något annat kan dessa drömmar förstås som psykets sätt att ge utrymme för det som inte blev sagt. Den avlidne fortsätter att finnas som en inre gestalt — en röst, en blick, en närvaro — som du bär vidare inom dig, och drömmen blir en plats där detta band kan visa sig igen.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om avliden person **flera gånger**?

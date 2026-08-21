@@ -21,7 +21,7 @@ author: 'default'
 
 Du är i fara. Någon griper in. Och du slipper att klara dig ensam. Drömmens räddningsscenario är för många en av de mest emotionellt intensiva och märkligt helande drömmarna de har — och den bär ett konkret och viktigt budskap.
 
-## De vanligaste tolkningarna
+## Vem som kom och hämtade dig ur faran
 
 ### Ett behov av hjälp som inte är erkänt
 
@@ -47,7 +47,7 @@ Drömmar om att bli räddad kan ibland ha en dimension som pekar utöver det psy
 
 Oavsett tolkning: dessa drömmar lämnar gärna kvar ett djupt lugn.
 
-## Vad påverkar tolkningen?
+## Vem som räddade dig — och om du lät dem
 
 **Om du räddades från att drunkna:**
 Se [drunkna](/sv/drommar/drunkna/) — att bli överväldigad av känslor, och räddningen som möjligheten att andas igen.
@@ -64,14 +64,8 @@ Något i dig vill inte bli hjälpt — stolthet, kontrollbehov eller en övertyg
 **Om räddningen inte kom:**
 En period där du upplever att inte ha tillgång till det stöd du behöver. Vad kan du göra för att ändra på det?
 
-## Psykologiska och kulturella perspektiv
+## Frälsningsberättelsen sinnet ditt känner igen
 
 Att bli räddad är ett av de arketypiska narrativen som finns — och det är ingen tillfällighet att alla kulturer har berättelser om räddning och frälsning. Från fornnordiska gudar som griper in för att hjälpa människorna, till kristendomens frälsningstanke, till folksagornas magiska hjälpare — att bli räddad av något större än dig själv talar till något grundläggande i människosinnet.
 
 Jung beskrev begreppet "numinös erfarenhet" — mötet med något som är heligt, överväldigande och djupt meningsfullt. Drömmar om att bli räddad av en kraftfull gestalt bär gärna denna kvalitet: de lämnar inte bara lättnad utan en form av vördnad.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något du bär ensam som du kanske inte behöver bära ensam?
-- Har du drömt om **att bli räddad** **flera gånger**?

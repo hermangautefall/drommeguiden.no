@@ -26,7 +26,7 @@ Att drömma om alkohol är mycket vanligt — och tolkningen beror mycket på di
 
 För dem som lever nyktert eller som har haft ett problematiskt förhållande till alkohol, kan dessa drömmar ha en särskild intensitet och bör mötas med varsamhet och självmedkänsla.
 
-## De vanligaste tolkningarna
+## Att släppa taget — frivilligt eller inte
 
 ### En önskan att slappna av och släppa kontrollen
 
@@ -42,7 +42,7 @@ Att drömma om att dricka för att glömma eller dämpa något kan spegla en ön
 
 Alkohol är socialt laddat i den nordiska kulturen — skålen runt bordet, vinglaset som markerar att något är speciellt. Att drömma om att dricka i gott sällskap kan spegla ett behov av mer gemenskap, mer tillhörighet, mer av det som markerar att något är värt att fira.
 
-## Vad påverkar tolkningen?
+## Vem drack, och hur det kändes
 
 **Om du drack med glädje:**
 En önskan om mer lätthet, spontanitet och social glädje i livet.
@@ -59,16 +59,8 @@ En mycket vanlig dröm — inte ett tecken på svaghet, utan på att hjärnan be
 **Om andra drack men inte du:**
 Utanförskap eller ett valt avstånd från något socialt.
 
-## Psykologiska och kulturella perspektiv
+## Mellan fest och skuld i nordisk kultur
 
 Alkohol har en komplex plats i den nordiska kulturen — å ena sidan en stark dryckestradition, å andra sidan en lika stark nykterhetskultur. Denna ambivalens gör alkoholdrömmarna extra laddade för många: begär och skuld kan existera sida vid sida.
 
 Psykologiskt sett är alkohol i drömmarna knuten till Dionysos — den grekiske guden för extatisk frigörelse, det irrationella och det som bryter med det ordnade. Drömmen bjuder in dig att undersöka: vad behöver du släppa lite på? Läs mer om [vad drömmar egentligen är](/sv/guider/vad-ar-drommar/) för att förstå det omedvetnas språk bättre.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om alkohol **flera gånger**?

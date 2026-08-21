@@ -6,7 +6,7 @@
 
 const HEADING_PATTERNS = [
   /^dr(ø|ö)mmeguiden anbefaler/i,
-  /^dr(ø|ö)mguiden rekommenderar/i,
+  /^dr(ø|ö|o)m+e?guiden rekommenderar/i,
   /^the dream guide recommends/i,
 ];
 

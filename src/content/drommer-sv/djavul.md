@@ -25,7 +25,7 @@ relaterte_sovn:
 
 Djävulen är en av de mest laddade symbolerna i västerländsk kultur — bäraren av allt ont, frestande, perverst och det som är utanför Guds ordning. I drömmarna är han något annat: han är Skuggan, och han är en del av dig.
 
-## De vanligaste tolkningarna
+## Skuggan och det förträngda
 
 ### Skuggan i sin klaraste form
 
@@ -47,7 +47,7 @@ Djävulen som frestare är ett arketypiskt motiv — Jesus i öknen, Faust vid v
 
 För dem med religiös bakgrund där djävulen är en konkret teologisk realitet, kan drömmens djävul ha mer direkt religiöst innehåll. Det är ett personligt och respektfullt territorium. Oavsett tolkning: drömmens intensiva emotionella laddning pekar på något verkligt och viktigt.
 
-## Vad påverkar tolkningen?
+## Vad djävulen ville dig
 
 **Om djävulen talade till dig:** Skuggan kommunicerar — vad sade den? Det är värt att lyssna på, även om det är obehagligt.
 
@@ -66,9 +66,3 @@ Djävulen i en dröm kan tolkas som de förträngda eller fruktade delar av dig 
 Djävulen kan också representera frestelse — en inre kamp mellan lust och samvete, något du känner att du "inte borde" önska dig. Drömmen kan spegla ett verkligt dilemma i ditt liv, där något drar dig i en riktning du vet inte är din. Andra gånger är djävulen den gestalt vi projicerar rädsla, skuld eller ondska på utåt — en yttre "djävul" kan vara en person eller en kraft vi lägger skulden på, medan drömmen bjuder in till att ta tillbaka ansvaret för det som egentligen är vårt eget.
 
 Bilden av djävulen har förändrats mycket genom historien — från "Satan" som på hebreiska betyder "åklagaren", via medeltidens skrämmande skildringar, till Goethes Mefistofeles som beskriver sig själv som "den kraft som alltid vill det onda, men alltid skapar det goda". Det är värt att påminna sig: drömmens djävul är sällan bokstavlig eller övernaturlig. Oftast är han en bild av något som redan finns inom oss, och som kan mötas med nyfikenhet snarare än rädsla. Se även drömmar om [helvetet](/sv/drommar/helvete/).
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något du förtränger eller inte vill se?
-- Har du drömt om **djävulen eller mörka gestalter** **flera gånger**?

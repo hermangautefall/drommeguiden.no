@@ -25,7 +25,7 @@ relaterte_sovn:
 
 Drömmens kula är osynlig, den kommer utan förvarning, och den träffar. Det är en av drömmarnas starkaste bilder av en plötslig och oväntad attack — och i drömmarnas symbolspråk handlar det sällan om faktiskt våld.
 
-## De vanligaste tolkningarna
+## Kulan som träffar utan förvarning
 
 ### En oväntad attack mot något viktigt
 
@@ -57,7 +57,7 @@ Benen: en attack mot det som bär dig och ger dig riktning.
 
 För dem som har varit utsatta för faktiskt våld, hot eller traumatiska händelser: drömmens skott kan vara en direkt bearbetning av dessa erfarenheter. Se guiden om [PTSD och drömmar](/sv/sovn/ptsd-drommar/) för mer om detta.
 
-## Vad påverkar tolkningen?
+## Vem som sköt — och var du blev träffad
 
 **Om du överlevde skottet:**
 Du är mer motståndskraftig än du tror. Något träffade — men det knäckte dig inte.
@@ -81,9 +81,3 @@ Att drömma om att bli skjuten kan kännas skrämmande medan det pågår, men de
 I grunden handlar drömmen om sårbarhet och maktlöshet — det plötsliga, det du inte kunde förutse eller skydda dig mot. Många upplever sådana drömmar som en sorts övning: sinnet testar en hotrespons i ett tryggt rum, utan att det betyder att något farligt faktiskt väntar.
 
 Det fina är att det du ofta bär med dig efter en sådan dröm är en känsla av att ha överlevt — och det är ingen slump. Att överleva skottet i drömmen pekar ofta mot att du har mer motståndskraft än du tror, även när något har träffat dig hårt.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något som har träffat dig hårt och oväntat?
-- Har du drömt om **att bli attackerad eller skadad** **flera gånger**?

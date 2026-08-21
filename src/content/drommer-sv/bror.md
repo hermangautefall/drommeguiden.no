@@ -23,7 +23,7 @@ Brodern är som [systern](/sv/drommar/syster/) en av de mest formativa relatione
 
 Drömmar om brodern dyker ofta upp i perioder med frågor om eget livsval, om identitet, om plats i familjen, eller om en oklar sida av maskulinitet i dig eller omkring dig.
 
-## De vanligaste tolkningarna
+## Spegeln, rivalen och alliansen
 
 ### En handlingskraftig eller maskulin sida av dig själv
 
@@ -47,7 +47,7 @@ I de äldsta berättelserna är brodern först och främst allierad — den som 
 
 Syskonrelationer bär ofta på långa historier — gamla kränkningar, gamla tacksamheter, gamla missförstånd. Drömmens bror kan dyka upp som figur för något ouppklart. Vad som händer mellan er i drömmen är ofta själva budskapet: skälvande, kram, gräl, tystnad.
 
-## Vad påverkar tolkningen?
+## Hur ni hade det tillsammans i drömmen
 
 **Om ni samarbetade:**
 Gemenskap, stöd och kompletterande styrkor. Ett tecken på att du inte behöver göra allt ensam.

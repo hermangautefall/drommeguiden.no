@@ -24,7 +24,7 @@ relaterte_sovn:
 
 Amning är en av de mest grundläggande handlingar som finns: att ge av sin kropp, av sig själv, för att nära ett annat liv. I drömmens symbolspråk är det en av de mest kraftfulla bilderna för omsorg, offer och samhörighet — och för frågan om gränser och resurser.
 
-## De vanligaste tolkningarna
+## Att ge näring — och bli tömd
 
 ### Att ge av sig själv — omsorg och näring
 
@@ -48,7 +48,7 @@ Det kan handla om en relation du längtar efter att fördjupa, ett kall du vill 
 
 För mammor som faktiskt ammar är drömmar om amning naturligt bearbetande — kroppen och psyket integrerar en ny och krävande roll. Sådana drömmar kan spegla glädje, överlåtelse, utmattning, ambivalens eller allt detta på en gång.
 
-## Vad påverkar tolkningen?
+## Vem du ammade, och hur det kändes
 
 **Om amningen kändes bra och rätt:**
 Du ger med glädje och övertygelse. Det du när, näres av det du ger.
@@ -65,18 +65,12 @@ Rädsla för otillräcklighet: är det jag ger tillräckligt? Har jag nog att ge
 **Om amningen var smärtsam:**
 Omsorg kostar dig något. Priset är verkligt och märks i kroppen.
 
-## Psykologiska och kulturella perspektiv
+## Amningen som urbild
 
 Amning som symbol för gudomlig omsorg och näring är universell: Isis som ammar Horus är ett av de äldsta bildmotiven i människans konst. Maria lactans — den ammande Maria — är ett centralt motiv i europeisk konst från medeltiden. Bilden av en ammande [mamma](/sv/drommar/mamma/) är ett av arketypernas mest ursprungliga.
 
 Jung skulle ha sett amningen som ett uttryck för den stora modersarketypens näringsfunktion — den djupaste, mest arkaiska bilden av omsorg och livsuppehälle. Det är inte begränsat till kvinnor: mannen som drömmer om amning är i kontakt med den närande, omsorgsfulla sidan av sitt psyke.
 
 I nordisk tradition är Frigg — gudinnornas drottning och hemmets beskyddare — nära förbunden med näring och omsorg. Att nära fram något är i den nordiska förståelsen inte passivt, utan en aktiv, kraftfull handling.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — vem när du, och vem när dig?
-- Har du drömt om **att ge av dig själv** på detta sätt **flera gånger**?
 
 > 💡 **Läs också:** [Sömn under graviditet](/sv/somn/somn-graviditet/) — för en djupare förståelse av hur dina drömmar hänger ihop med din sömnkvalitet.

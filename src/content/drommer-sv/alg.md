@@ -23,7 +23,7 @@ author: 'default'
 
 I drömvärlden är älgen en av de mest genuint nordiska symbolerna vi har.
 
-## De vanligaste tolkningarna
+## Den tysta kraften i skogen
 
 ### Majestätisk kraft och tyst värdighet
 
@@ -37,7 +37,7 @@ Den vanligaste tolkningen handlar om en tyst, solid kraft — något som är sto
 
 Älgen dyker upp plötsligt — i vägkanten, i skogen, mitt i vardagen — och kräver att du stannar och tar in det du ser. Drömmens älg kan representera något oväntat och imponerande som visar sig: en insikt, en möjlighet, en upptäckt.
 
-## Vad påverkar tolkningen?
+## Hur nära älgen kom
 
 **Om älgen var lugn och majestätisk:**
 En tyst och solid kraft är närvarande i ditt liv. Något är tryggt och starkt.
@@ -54,16 +54,8 @@ En kraft i rörelse — något kraftfullt är i förändring eller flykt.
 **Om du såg älgen på avstånd:**
 Du observerar en stor kraft eller möjlighet utan att närma dig den.
 
-## Psykologiska och kulturella perspektiv
+## Nästan ett nationaldjur
 
 Älgen är i nordisk kultur nästan ett nationaldjur — den finns på vykort, i reklam, i skämt och i skogsupplevelserna som präglar nordisk barndom. Älgen är nära nog att mötas på tur, och exotisk nog för att mötet alltid sitter kvar. Drömmens älg bär all denna kulturella förtrogenhet kombinerad med djurets inneboende storlek och värdighet.
 
 I schamanistiska traditioner i Nordeuropa är älgen (och [renen](/sv/drommar/ren/)) ett kraftdjur — en guide och beskyddare. Fornnordiska schamaners relationer till älgen är dokumenterade i gravritualer och hällristningar.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om älg **flera gånger**?

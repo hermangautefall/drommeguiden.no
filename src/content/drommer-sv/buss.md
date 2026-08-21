@@ -23,7 +23,7 @@ Där [bilen](/sv/drommar/bil/) är det individuella valet — du styr, du bestä
 
 Drömmar om buss dyker ofta upp i perioder med frågor om autonomi, tillhörighet, eller om hur mycket av ditt liv som faktiskt är ditt eget val.
 
-## De vanligaste tolkningarna
+## Att resa efter andras tidtabell
 
 ### Kollektiv riktning och andras plan
 
@@ -45,7 +45,7 @@ Du sitter på bussen — det är någon annan som kör, det är någon annans pl
 
 Bussen går efter tidtabell. Den upprepar sig. Drömmens buss kan också vara en bild av att hitta tillbaka till en större rytm — en daglig cykel, en pendlartillvaro, en "vanlig" vardag efter en period av kaos. För många är bussen en trygg, känd puls.
 
-## Vad påverkar tolkningen?
+## Kom du dig ombord?
 
 **Om du missade bussen:**
 En rädsla för att gå miste om något. Vad är det du är rädd för att inte hinna?
@@ -71,7 +71,7 @@ Se [olycka](/sv/drommar/olycka/) — den kollektiva riktningen möter en plötsl
 **Om du inte hittade till rätt hållplats:**
 Förvirring om vart du ska i livet, eller vilken väg som är din.
 
-## Psykologiska och kulturella perspektiv
+## En ung symbol från industrialiseringen
 
 Bussen är en relativt ung symbol — den dyker först upp i drömmar i industrialiseringens kölvatten — men har under ett och ett halvt århundrade blivit en av de tätaste bilderna av mänskligt samhälle som utvecklats i modern tid.
 

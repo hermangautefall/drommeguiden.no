@@ -21,7 +21,7 @@ author: 'default'
 
 Benen bär oss genom livet — de ger oss förmågan att stå, att röra oss, att ta steget framåt. I drömsymboliken är de kopplade till just detta: grunden du står på, förmågan att bära dig själv och friheten att välja riktning.
 
-## De vanligaste tolkningarna
+## Att stå stadigt — eller inte
 
 ### Din förmåga att stå stadigt
 
@@ -35,7 +35,7 @@ Benen ger dig möjligheten att gå — och i drömmarna handlar de om rörelsefr
 
 Benen är grunden — och drömmarna om dem kan handla om vad du bygger ditt liv på. Dina värderingar, relationer, rutiner och det som håller dig uppe. Är grunden solid?
 
-## Vad påverkar tolkningen?
+## Om benen bar dig eller svek
 
 **Om benen var starka:**
 Stabilitet, handlingskraft och förmåga att gå framåt. Du står stadigt.
@@ -52,16 +52,8 @@ En konkret händelse eller situation har försvagat din förmåga att fungera fr
 **Om du sprang fort:**
 Frihet, energi och rörelseglädje. Du är i flöde. Se även [ryggen](/sv/drommar/rygg/) som symbol för det som bär dig.
 
-## Psykologiska och kulturella perspektiv
+## Grunden vi står på
 
 Ben som symbol för grund är universell — från att "stå med båda fötterna på jorden" till uttrycket "ta benen på nacken". Att stå, gå och springa är bland de mest grundläggande mänskliga handlingarna, och i drömmarna är de tätt knutna till psykologisk frihet och styrka.
 
 Jung skulle se starka ben som en symbol för en välutvecklad förmåga att navigera världen — ett Ego som är tryggt förankrat och kan röra sig med självförtroende. Drömmar om [händer](/sv/drommar/hander/) handlar däremot om handling och förmågan att gripa världen.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om ben **flera gånger**?

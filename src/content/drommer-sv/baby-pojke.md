@@ -45,7 +45,7 @@ Män som drömmer om en flickbebis är inte i kontakt med "det feminina" som nå
 
 Båda är lika värdefulla och lika meningsfulla.
 
-## De vanligaste tolkningarna av baby generellt
+## Det nya som kräver sitt av dig
 
 ### Ett nytt projekt, en ny fas, en ny sida av dig själv
 
@@ -59,7 +59,7 @@ En baby kräver total omsorg. Drömmens baby speglar gärna något i ditt liv so
 
 För dem som är gravida, försöker bli gravida, eller är nyblivna föräldrar: babydrömmarna är en direkt bearbetning av den största livsförändringen de flesta genomgår. Könet kan då spegla önskningar, förväntningar eller oro kopplade till det konkreta barnet.
 
-## Vad påverkar tolkningen?
+## Pojkbebisens ålder och tillstånd
 
 **Om babyn var frisk och lycklig:**
 Det nya som är på väg har god potential. Något utvecklas väl.
@@ -76,16 +76,10 @@ Det nya i dig är mer utvecklat än du tror — det har redan något att säga d
 **Om du förlorade babyn:**
 Se [förlora baby](/sv/drommar/forlora-baby/) — det är en egen och viktig symbol.
 
-## Psykologiska och kulturella perspektiv
+## Kön i drömmens bildspråk
 
 Barn som symboler är universella och alltid positiva i sin grundstruktur — även i kulturer där barnadödligheten var hög representerade drömmens friska barn hopp och förnyelse.
 
 Den jungianska könssymboliken i drömmarna är ett av de mest konsekventa fynden i drömforskning: manliga och kvinnliga figurer i drömmarna representerar distinkta psykologiska funktioner — inte biologiska könsroller, utan djupa psykiska mönster.
 
 I fornnordisk tradition sågs det att drömma om ett barn — pojke eller flicka — som ett gott varsel. Lyckonornan Skuld förknippades med det ofödda och framtida: barnet i drömmen är det som ännu inte har tagit form, men som redan är på väg.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är något nytt på väg, och vilken typ av energi bär det?
-- Har du drömt om **babyer** **flera gånger**?

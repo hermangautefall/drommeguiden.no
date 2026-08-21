@@ -23,7 +23,7 @@ Boken är människans främsta förvaringsplats för kunskap och berättelse —
 
 Drömmens bok kan komma i olika former — en barnbok, en helig bok, en lärobok, en bok du inte sett förut — och varje version har sin egen tyngd. Det är sällan bokens form som är avgörande, utan vad du gör med den: läser, stänger, letar efter en bestämd sida, eller bär den utan att öppna.
 
-## De vanligaste tolkningarna
+## Kunskapen, historien och hemligheten
 
 ### Kunskap och lärdom
 
@@ -45,7 +45,7 @@ Gamla böcker bär på spår av dem som läst dem förut. Drömmens gamla bok �
 
 Böcker är portar. Du öppnar pärmarna och träder in i en annan värld. Drömmens bok kan vara en inbjudan: något vill att du ska komma närmare, läsa in dig i ett tema, ta den tid som krävs för att förstå något nytt. En stängd bok som lyser eller dyker upp gång på gång är ofta en sådan inbjudan.
 
-## Vad påverkar tolkningen?
+## Vad som stod i boken
 
 **Om du läste boken med lätthet:**
 God tillgång till kunskap och förståelse just nu.
@@ -71,7 +71,7 @@ Du tar emot kunskap eller berättelse från någon annan — och källan är oft
 **Om boken hade ditt eget namn eller foton:**
 Drömmen handlar uttryckligen om din livshistoria och hur du framställer den.
 
-## Psykologiska och kulturella perspektiv
+## Boken som bild i skriftkulturerna
 
 Boken är en av få symboler som finns i nästan alla skriftbärande kulturer som bild för det heliga och det varaktiga. I svensk och allmänt kristen tradition är Bibeln "Boken" — den bestämda plats där sanningen är nedskriven. Drömmens bok bär ofta ekon av denna kulturella vikt: det är där något står skrivet.
 

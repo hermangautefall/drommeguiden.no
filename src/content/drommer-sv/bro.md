@@ -37,7 +37,7 @@ Bron kan också handla om att skapa förbindelser — mellan människor, mellan 
 
 Att korsa en bro kräver tillit — till konstruktionen, till det som väntar på andra sidan. Brodrömmarna handlar ibland om just detta: förmågan att ta ett steg in i det okända, att lita på att underlaget håller, att gå mot något man inte fullt kan se.
 
-### Vad påverkar tolkningen?
+### Broens skick och vad som hände
 
 **Om bron var solid och trygg:**
 Du är redo för övergången. Fundamentet håller, och den andra sidan är inom räckhåll.
@@ -70,7 +70,7 @@ Genom olika kulturer har broar setts som förbindelser mellan världar — i zor
 
 ## Vad bör du göra efter en dröm om bro?
 
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
+Fråga dig själv:
 
 ### Vilken känsla satt du med när du vaknade?
 

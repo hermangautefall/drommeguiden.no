@@ -23,7 +23,7 @@ Där [bilen](/sv/drommar/bil/) är kraft och status, är cykeln det självdrivna
 
 Samtidigt är cykeln en symbol som kräver något av dig. Den balanserar bara i rörelse, stannar du upp så faller den. Drömmens cykel handlar ofta om denna paradoxala balans mellan ansträngning och lätthet — att något i ditt liv fungerar för att du håller det igång, och slutar fungera så fort du släpper.
 
-## De vanligaste tolkningarna
+## Balansen du själv måste hålla
 
 ### Självdriven framgång
 
@@ -45,7 +45,7 @@ Själva ordet cykel — från grekiska *kyklos*, "krets" — bär idén om uppre
 
 Den moderna cykeln är för många en symbol för ett medvetet, grönt och enklare val — att välja bort komplikation och beroende. Drömmen kan spegla en önskan om att förenkla livet, att reducera ner till det väsentliga, att gå tillbaka till ett mer direkt sätt att leva på.
 
-## Vad påverkar tolkningen?
+## Om det gick uppför eller nedför
 
 **Om cykeln gick lätt:**
 Flyt och framgång — något känns enkelt och naturligt just nu.
@@ -71,7 +71,7 @@ Gemensam rörelse — du och någon annan är på samma spår i en period av liv
 **Om du cyklade i en stor flock:**
 Tillhörighet och kollektiv rörelse — du är del av något större som driver framåt tillsammans.
 
-## Psykologiska och kulturella perspektiv
+## Egen kraft som drivkraft
 
 Cykeln är en av få moderna symboler som korsar nästan alla kulturer som en bild av den "lilla frihetens" transportmedel. I svensk kultur är den både barndomssymbol — den första stora frihetskänslan som [barn](/sv/drommar/barn/) — och ett alltmer viktigt vuxet vardagsval kopplat till miljö och hälsa.
 

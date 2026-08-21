@@ -23,7 +23,7 @@ Dansen är en av mänsklighetens äldsta och mest universella uttrycksformer —
 
 Men dansen har också en partner — och vem du dansar med, och hur, berättar mycket.
 
-## De vanligaste tolkningarna
+## Glädjen i att röra sig fritt
 
 ### Livsglädje och frihet i rörelse
 
@@ -43,7 +43,7 @@ Dansen är [musikens](/sv/drommar/musik/) kropp — och drömmens dans kan handl
 
 I många kulturer är dansen ett rituellt frigörelserum — där sociala normer sätts åt sidan, där kroppen talar utan ord, där det ordinära överskrids. Drömmens dans kan representera en önskan om just detta: att släppa taget om det kontrollerade och ge sig hän åt något större.
 
-## Vad påverkar tolkningen?
+## Vem du dansade med, och om du kunde stegen
 
 **Om du dansade fritt och väl:**
 En av drömmens mest positiva erfarenheter — livsglädje, flöde och frihet.
@@ -63,16 +63,8 @@ Självständighet, inre frihet och din relation till dig själv.
 **Om dansen var rituell eller högtidlig:**
 Något djupt och betydelsefullt äger rum — en övergång, en markering.
 
-## Psykologiska och kulturella perspektiv
+## Dansen som ett av de äldsta uttrycken
 
 Jung var intresserad av dansen som ett av de äldsta arketypiska uttrycken — kroppens naturliga svar på rytm och livskraft. Han beskrev dansen i drömmarna som ett tecken på att libido (livsenergi i vid bemärkelse) är fri och i rörelse — motsatsen till stagnation och depression.
 
 I fornnordisk och svensk tradition har dansen varit närvarande från de äldsta ritualerna — polska, långdans, ringdans — och den är knuten till gemenskap, högtid och överskott. Att drömma om dans i svensk kulturell kontext berör något av denna kollektiva glädje i kropp i fri rörelse.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om att dansa **flera gånger**?
