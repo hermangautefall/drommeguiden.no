@@ -18,9 +18,9 @@ author: 'default'
 
 ## Hva betyr det å drømme om hval?
 
-Hvalen er jordens største dyr — og den lever i [havets](/drommer/hav/) dypeste verden. I drømmeverdenen er den ett av de mest slående symbolene: noe enormt, gammelt og intelligent beveger seg i de dypeste lagene av det ubevisste. Å drømme om hval er sjelden et lite øyeblikk. Det er en av de store drømmene.
+En enorm skygge glir forbi et sted under deg, stille og uten hastverk — og selv om du knapt ser den, forstår du med en gang at det er en hval. Hvalen er jordens største dyr, og den lever i [havets](/drommer/hav/) dypeste verden, langt fra der mennesker ferdes. Å drømme om hval er sjelden et lite øyeblikk. Det er en av de store drømmene.
 
-## De vanligste tolkningene
+## Det dype, det urgamle og det som ikke haster
 
 ### Noe enormt rører seg i det dype
 
@@ -38,22 +38,9 @@ Hvalen er kjent for sin sang — lange, komplekse kommunikasjonsstrukturer vi kn
 
 Hvaler lever i hundre år. De beveger seg langsomt og med enorm kraft. Drømmens hval kan representere en langsiktig prosess — noe som tar tid, noe som ikke haster, noe som er i bevegelse men på sin egen tidshorisont.
 
-## Hva påvirker tolkningen?
+## Fra fredelig svømmetur til å bli svelget
 
-**Hvis hvalen var fredelig og nær:**
-Et fredfullt møte med noe enormt i deg selv. Ingen trussel — bare størrelse.
-
-**Hvis hvalen sprutet vann:**
-Et uttrykk, en kommunikasjon, noe som bryter overflaten fra det dype.
-
-**Hvis hvalen var under deg i vannet:**
-Noe enormt bærer deg — en kraft du hviler på uten nødvendigvis å være bevisst på den.
-
-**Hvis hvalen svelget deg (Jonas-motivet):**
-En klassisk transformasjonssymbolikk — å gå inn i det store for å komme ut forandret.
-
-**Hvis hvalen var skadet eller strandet:**
-Noe enormt og verdifullt er i fare. En kraft som trenger hjelp eller oppmerksomhet.
+Hvordan hvalen opptrer i drømmen er avgjørende for tolkningen. Var hvalen fredelig og nær, kan det tolkes som et fredfullt møte med noe enormt i deg selv — ingen trussel, bare størrelse. Sprutet hvalen vann, kan det leses som et uttrykk eller en kommunikasjon, noe som bryter overflaten fra det dype. Svømte hvalen under deg i vannet, bar den deg kanskje gjennom drømmen — en kraft du hviler på uten nødvendigvis å være bevisst på den. Svelget hvalen deg, i tråd med det klassiske Jonas-motivet, er det gjerne et bilde på transformasjon: å gå inn i det store for å komme ut forandret. Var hvalen derimot skadet eller strandet, kan drømmen peke mot at noe enormt og verdifullt er i fare — en kraft som trenger hjelp eller oppmerksomhet før det er for sent.
 
 ## Dypet, det veldige og gjenfødelsen
 
@@ -62,11 +49,3 @@ Hvalen kan i drømmer tolkes som et bilde på det dype ubevisste — kraftfulle 
 De største skapningene i havet vekker ofte en følelse av ærefrykt — noe sublimt og overveldende, en påminnelse om krefter som er langt større enn én selv. I bibelens fortelling om Jonas blir mannen "slukt" av hvalen — et bilde som ofte tolkes som en periode med mørke, tilbaketrekning eller krise, som likevel bærer i seg muligheten for forvandling. En indre reise før man igjen trer frem, forandret.
 
 Hvalens sang — dyp kommunikasjon som bærer over enorme avstander — kan også tolkes som et symbol på noe som forsøker å nå deg fra et sted lengre unna enn det vanlige. I noen tradisjoner ses hvalen som bærer av eldgammel visdom, en hukommelse som strekker seg langt tilbake i tid.
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om hval **flere ganger**?

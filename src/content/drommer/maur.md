@@ -20,10 +20,10 @@ author: 'default'
 
 Mauren er liten, men drømmene om maur er sjelden ubetydelige. De bærer med seg noe vesentlig — enten en påminnelse om verdi av jevnt, stille arbeid, eller en advarsel om at noe smått har hopet seg opp til noe som ikke lenger kan ignoreres.
 
-Konteksten er avgjørende: én maur er noe annet enn tusenvis av maur.
+Konteksten er avgjørende: én maur som krysser gulvet er noe helt annet enn tusenvis som myldrer over hverandre i en tett, levende masse.
 
 
-## De vanligste tolkningene
+## Flid, mengde og det som hoper seg opp
 
 ### Hardt arbeid og langsiktig innsats
 
@@ -38,19 +38,19 @@ Maurkolonien er et av naturens mest effektive eksempler på strukturert, målret
 Mauren overlever ikke alene — den er alltid del av noe større, ikke ulikt [edderkoppen](/drommer/edderkopp/) som spinner sitt nett i fellesskapet. Drømmen kan peke mot verdien av samarbeid og fellesskap, eller mot et behov for å bidra mer til noe du er del av.
 
 
-## Hva påvirker tolkningen?
+## Mauren i ulike situasjoner
 
-**Hvis maur kryper på [kroppen](/kategori/kropp/) din:**
+**Mauren som kryper på [kroppen](/kategori/kropp/) din**
 Noe irriterer eller plager deg på et dypt plan. En ubehagelig situasjon som ikke slipper taket.
 
-**Hvis maur bygger noe:**
-Produktivitet og fremgang. Ting er i bevegelse, selv om det skjer sakte.
+**Mauren som bygger noe**
+Produktivitet og fremgang. Ting er i bevegelse, selv om det skjer sakte og lite synlig for de rundt deg.
 
-**Hvis maur invaderer [hjemmet](/drommer/hus/) ditt:**
-Noe uønsket trenger seg inn i din personlige sfære. Grenser utfordres.
+**Mauren som invaderer [hjemmet](/drommer/hus/) ditt**
+Noe uønsket trenger seg inn i din personlige sfære, kanskje uten at du helt vet hvordan. Grenser utfordres, raskere enn du klarer å reagere på.
 
-**Hvis du ser maur utenfra, rolig:**
-Du observerer noe industriøst og organisert. En påminnelse om styrken i system og struktur.
+**Den rolige iakttakelsen av en hel maurtue utenfra**
+Du observerer noe industriøst og organisert, kanskje fra litt avstand. En påminnelse om styrken i system og struktur, uten at du selv er en del av det som pågår.
 
 
 ## Flid, samarbeid og de små stegene
@@ -60,12 +60,3 @@ Mauren er på mange måter selve sinnbildet på flid og samarbeid. I Salomos ord
 Samtidig peker maurtuen på et spenningsforhold mellom individet og kollektivet. Hver maur er nesten ingenting alene, men sammen bygger de noe som overgår dem alle. Drømmen kan derfor handle om din rolle i et lag eller en gruppe — er du en del av noe meningsfullt, eller kjenner du deg redusert til "bare en brikke" i et større maskineri?
 
 Når mauren dukker opp i mengder — kryper, myldrer, invaderer — kan det også speile en mer hverdagslig følelse: mange små, gnagende ting som har hopet seg opp og nå krever oppmerksomhet samtidig. [Bien](/drommer/bie/) deler noe av maurens flid, men der bien ofte er knyttet til søtere belønninger, handler mauren mer om selve prosessen — arbeidet, samarbeidet og det lange løpet.
-
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om maur **flere ganger**? Les om [gjentakende drømmer](/guider/gjentakende-drommer/).

@@ -18,12 +18,12 @@ author: 'default'
 
 ## Hva betyr det å drømme om drage?
 
-Drager er blant de mest dramatiske og ladet symbolene som kan dukke opp i drømmeverdenen. De finnes i mytologier fra hele verden — fra norrøne sagn til kinesiske tradisjoner — og bærer med seg en enorm symbolsk tyngde. Vil du lære mer om hvorfor vi drømmer? Les vår guide om [hva drømmer egentlig er](/guider/hva-er-drommer/). Å drømme om en drage er sjelden en hverdagslig drøm. Den fanger oppmerksomheten og setter seg fast.
+Fra Fåfne som vokter gullet i norrøne sagn til den kinesiske lykkedraken som leder an i nyttårsopptoget — drager har dukket opp i mytologier over hele verden og bærer med seg en enorm symbolsk tyngde. Vil du lære mer om hvorfor vi drømmer? Les vår guide om [hva drømmer egentlig er](/guider/hva-er-drommer/). Å drømme om en drage er sjelden en hverdagslig drøm. Den fanger oppmerksomheten og setter seg fast.
 
 Tolkningene varierer mye avhengig av hva som skjedde i drømmen og hvilken følelse dragen vekket i deg.
 
 
-## De vanligste tolkningene
+## Klør, ild og en kraft du ennå ikke har brukt
 
 ### Ukontrollerte krefter og sterke følelser
 
@@ -42,35 +42,15 @@ Ikke alle dragedrømmer er truende. En drage du ikke er redd for, eller som til 
 Drager symboliserer tidvis noe eller noen utenfor deg selv — en autoritær figur, en krevende relasjon, eller en situasjon som føles mye større enn deg. Drømmen kan uttrykke at du føler deg liten overfor noe som har stor makt i livet ditt akkurat nå.
 
 
-## Hva påvirker tolkningen?
+## Angrep, alliert eller spydde den ild?
 
-**Hvis dragen angriper deg:**
-Kan peke mot at du føler deg presset eller truet av noe i våkenlivet — en konflikt, et ansvar eller en frykt som nærmer seg.
+Angriper dragen deg i drømmen, kan det peke mot at du føler deg presset eller truet av noe i våkenlivet — en konflikt, et ansvar eller en frykt som nærmer seg. Er dragen i stedet på din side, tolkes det gjerne mer positivt: du er i kontakt med din egen styrke, eller du har en beskytter i livet ditt. Spyr dragen ild, kan flammene symbolisere destruktiv energi, men også renselse — på samme måte som [brann](/drommer/brann/) i drømmer, der noe gammelt brennes vekk for å gi plass til noe nytt.
 
-**Hvis dragen er på din side:**
-Tolkes gjerne positivt — du er i kontakt med din egen styrke, eller du har en beskytter i livet ditt.
-
-**Hvis dragen spyr ild:**
-Ilden kan symbolisere destruktiv energi, men også renselse — på samme måte som [brann](/drommer/brann/) i drømmer. Noe gammelt brennes vekk for å gi plass til noe nytt.
-
-**Hvis dragen er vakker og majestetisk:**
-Drømmen handler trolig om beundring — enten for noe i deg selv, eller for noe du ønsker å oppnå.
-
-**Hvis du dreper dragen:**
-Kan bety at du overvinner en stor frykt eller utfordring. En seier som koster noe.
+Er dragen vakker og majestetisk, handler drømmen trolig om beundring — enten for noe i deg selv, eller for noe du ønsker å oppnå. Og dreper du dragen, kan det bety at du overvinner en stor frykt eller utfordring: en seier, men gjerne en som koster noe.
 
 
-## Psykologiske og kulturelle perspektiver
+## Skyggen, Fåfne og skatten som voktes
 
 Carl Jung så drager som arketypiske symboler på "Skyggen" — de sidene av oss selv vi ikke vil vedkjenne oss, men som har enorm energi. Også [slangen](/drommer/slange/) deler denne arketypiske rollen i drømmesymbolikken. Å konfrontere dragen i drømmen er i jungiansk forstand en invitasjon til å møte det vi frykter i oss selv.
 
 I norrøn tradisjon er drager (ormer) vokterne av skatten — Fåfne i Sigurd-sagaen er det fremste eksemplet. Å drepe draken er å vinne tilgang til skjult rikdom, men det krever mot og list. Drømmen kan speile dette: noe verdifullt er innen rekkevidde, men det krever at du tør å konfrontere det som vokter det.
-
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om drage **flere ganger**?

@@ -18,11 +18,11 @@ author: 'default'
 
 ## Hva betyr det å drømme om krokodille?
 
-Krokodillen er ett av naturens mest fryktinngytende eksempler på tålmodig, skjult fare — den flyter stille under overflaten i [havet](/drommer/hav/), nesten usynlig, og slår til med eksplosiv kraft. I drømmeverdenen bærer den med seg denne kvaliteten av lurende trussel og iskaldt instinkt.
+Bare øynene og nesetippen stikker over vannflaten mens resten av kroppen ligger skjult, ventende, urørlig i minuttvis — helt til stillheten plutselig brytes med eksplosiv kraft. Slik venter krokodillen i [havet](/drommer/hav/) og elvene den lever i, og i drømmeverdenen bærer den med seg nøyaktig denne kvaliteten av lurende trussel og iskaldt instinkt.
 
 Men krokodillen er også ett av jordens eldste og mest overlevelsesdyktige dyr — en overlever som har klart seg gjennom fem masseutryddelser. Den er kort sagt levende fortid, en arketypisk skapning fra en tid før menneskene fantes. Drømmer om krokodille bærer alltid på denne dobbeltheten: trusselen og overlevelseskraften.
 
-## De vanligste tolkningene
+## Fare i det stille, kraft i det urgamle
 
 ### Skjult fare og bedrag
 
@@ -44,31 +44,9 @@ Krokodillen er evolusjonært en av de eldste arter på jorden. I drømmer kan de
 
 Krokodillen lever mellom vann og land, mellom det dype og det åpne. Drømmens krokodille kan handle om noe som krysser grenser i livet ditt — det indre som dukker opp i det ytre, det undertrykte som blir synlig, det gamle som plutselig krever oppmerksomhet i en ny kontekst.
 
-## Hva påvirker tolkningen?
+## Angrep, avstand og hvem som har kontrollen
 
-**Hvis krokodillen angriper:**
-En fare du har oversett treffer deg. Noe ubehagelig du har unngått konfronterer deg plutselig.
-
-**Hvis krokodillen er i vannet og du er på land:**
-Du er klar over risikoen, men trygg foreløpig. Hold avstand.
-
-**Hvis du er i vannet med krokodillen:**
-Du er midt i en farlig situasjon og kjenner på sårbarhet, lignende det å drømme om å [drukne](/drommer/drukne/). Beveg deg forsiktig.
-
-**Hvis krokodillen ikke bryr seg om deg:**
-En trussel som ikke er rettet mot deg akkurat nå — men vær oppmerksom.
-
-**Hvis du tok kontroll over krokodillen:**
-Du temmer noe vilt og potent i deg selv — en stor handling.
-
-**Hvis krokodillen var ung eller liten:**
-Et instinkt eller en frykt i sin tidlige form — lettere å håndtere nå enn senere.
-
-**Hvis krokodillen kunne snakke med deg:**
-Symbolet ber om dialog — det er ikke ren trussel; det er noe å lytte til.
-
-**Hvis du var krokodillen:**
-Du identifiserer deg med kvaliteten av tålmodig overlevelse — kanskje med rette, kanskje som forsvar.
+Hvordan krokodillen opptrer, endrer tolkningen mye. Angriper den, treffer en fare du har oversett deg plutselig — noe ubehagelig du har unngått, konfronterer deg til slutt. Er krokodillen i vannet mens du selv står på land, er du klar over risikoen, men trygg foreløpig — hold avstanden. Er du derimot i vannet sammen med krokodillen, er du midt i en farlig situasjon og kjenner på sårbarhet, ikke ulikt det å drømme om å [drukne](/drommer/drukne/) — beveg deg forsiktig. Bryr krokodillen seg ikke om deg, er det en trussel som ikke er rettet mot deg akkurat nå, men som er verdt å holde et øye med. Tar du kontroll over krokodillen, temmer du noe vilt og potent i deg selv — en stor handling. Var krokodillen ung eller liten, er det et instinkt eller en frykt i sin tidlige form, lettere å håndtere nå enn senere. Kunne krokodillen snakke med deg, ber symbolet om dialog — det er ikke ren trussel, det er noe å lytte til. Og var det du selv som var krokodillen, identifiserer du deg med kvaliteten av tålmodig overlevelse — kanskje med rette, kanskje som forsvar.
 
 ## Faren som ligger stille
 

@@ -3,6 +3,7 @@ tittel: "Drömma om att dö — vad betyder det?"
 slug: do
 nb_slug: do
 kategori: handelser
+sensitivt: true
 kortbeskrivelse: "Har du drömt att du dör? Det är en av de vanligaste drömmarna vi har och betyder nästan aldrig det du fruktar — här är vad det egentligen kan betyda."
 relaterte:
   - avliden-person

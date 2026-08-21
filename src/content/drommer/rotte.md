@@ -18,7 +18,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om rotte?
 
-Rotten er ett av de sterkest negativt ladede dyrene i vestlig symbolikk — den bærer på konnotasjoner av forrådnelse, [sykdom](/drommer/sykdom/), svikt og det som skjuler seg i mørket. Det er sjelden noen drømmer om rotter med glede. Disse drømmene setter seg fast, og de bærer nesten alltid på et budskap som fortjener oppmerksomhet.
+Få dyr fremkaller like umiddelbar avsky som rotten når den dukker opp i en drøm — det lille, grå dyret som beveger seg langs kanten av synsfeltet og forsvinner før du rekker å reagere skikkelig. Den bærer på konnotasjoner av forrådnelse, [sykdom](/drommer/sykdom/), svikt og det som skjuler seg i mørket. Det er sjelden noen drømmer om rotter med glede. Disse drømmene setter seg fast, og de bærer nesten alltid på et budskap som fortjener oppmerksomhet.
 
 ## Vanlige drømmer om rotte og deres betydning
 
@@ -38,26 +38,26 @@ Rotter er historisk knyttet til pest og smitte — og i drømmene kan de represe
 
 Jung ville sett rotten som en manifestasjon av Skyggen i sin mest ubehagelige form — de aspektene av selvet vi forakter mest, de impulsene vi helst ikke vedkjenner oss. Drømmens rotte kan representere noe i deg selv som du opplever som skittent eller uverdig, og som trenger konfrontasjon fremfor fortsatt undertrykking.
 
-### Hva påvirker tolkningen?
+### Fra én rotte til en invasjon
 
-**Hvis det var mange rotter:**
-Et problem som har vokst til en infestasjon — noe lite og håndterbart har blitt for stort å ignorere.
+**Rotten i mengde:**
+Et problem som har vokst til en infestasjon — noe som en gang var lite og håndterbart, har blitt for stort til å ignorere.
 
-**Hvis rotten var i huset ditt:**
+**Rotten i eget hus:**
 Noe ødeleggende er inne i din indre verden — i ditt eget "selv". Se symbolsiden for [hus](/drommer/hus/).
 
-**Hvis du drepte rotten:**
-Du konfronterer og setter stopp for noe destruktivt. Aktiv løsning av et problem.
+**Rotten du beseiret:**
+Du konfronterer og setter stopp for noe destruktivt — en aktiv løsning på et problem.
 
-**Hvis rotten var stor og truende:**
+**Den store, truende rotten:**
 En trussel som er for stor til å ignorere — noe som krever direkte handling.
 
-**Hvis rotten stakk av:**
-Det du er redd for unndrar seg konfrontasjon, men forsvinner ikke — det gjemmer seg bare.
+**Rotten som slapp unna:**
+Det du er redd for, unndrar seg konfrontasjon, men forsvinner ikke — det gjemmer seg bare et annet sted.
 
 ## Psykologisk perspektiv
 
-Jung ville sett rotten som en manifestasjon av Skyggen i sin mest ubehagelige form — de aspektene av selvet vi forakter mest, de impulsene vi helst ikke vedkjenner oss. Drømmens rotte kan representere noe i deg selv som du opplever som skittent eller uverdig, og som trenger konfrontasjon fremfor fortsatt undertrykking.
+I jungiansk psykologi er Skyggen betegnelsen på de sidene av oss selv vi ikke vil kjennes ved — impulser, egenskaper og følelser vi skyver ned fordi de føles for skamfulle eller uverdige til å vises frem. Rotten passer uvanlig godt som bilde på nettopp dette, fordi den lever akkurat der Skyggen gjør: i veggene, under gulvet, i mørket ingen andre ser inn i. Å møte den i en drøm kan derfor være underbevisstheten som ber om at noe uferdig blir konfrontert, ikke skjøvet lenger ned.
 
 ## Kulturell og symbolsk betydning
 
@@ -65,7 +65,7 @@ Rotten er i vestlig tradisjon gjennomgående negativt ladet — fra svartedauden
 
 ## Hva bør du gjøre etter en drøm om rotte?
 
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
+Rottedrømmer sitter ofte igjen lenge etter at du har våknet — ubehaget er sjelden tilfeldig. Spør deg selv:
 
 ### Hvilken følelse satt du igjen med da du våknet?
 

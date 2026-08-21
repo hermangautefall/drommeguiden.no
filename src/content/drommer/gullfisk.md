@@ -20,7 +20,7 @@ author: 'default'
 
 Gullfisken er i eventyr og folkloretradisjon knyttet til ønskeoppfyllelse — den tre ønskene som gis og tas tilbake er ett av kulturens mest kjente motiver. I drømmeverdenen bærer den på dette: noe du ønsker, noe du håper på, og kanskje en advarsel om at det å ønske for mye kan slå tilbake.
 
-## De vanligste tolkningene
+## Ønsket, glansen og bollens grenser
 
 ### Et ønske som ønsker å bli hørt
 
@@ -36,22 +36,11 @@ Gullfisken er i mange kulturer — særlig kinesisk — et symbol på lykke, vel
 
 En gullfisk i et lite glass er vakker — men begrenset. Drømmens gullfisk kan speile noe i livet ditt som er vakkert men innestengt: en kreativitet som ikke har nok rom, et potensial som ikke slipper til, et liv som er for trangt. Se også [blomst](/drommer/blomst/) for lignende drømmer om skjønnhet og vekst.
 
-## Hva påvirker tolkningen?
+## Fritt svevende, i et lite glass, eller borte?
 
-**Hvis gullfisken svømte fritt:**
-Et ønske eller en kapasitet som har fritt utfoldelsesrom. Positiv og åpen.
+Svømte gullfisken fritt, er det gjerne et bilde på et ønske eller en kapasitet som har fritt utfoldelsesrom — en positiv og åpen drøm. Var den derimot i et lite glass eller bur, kan drømmen speile noe som er begrenset og trenger mer plass for å blomstre fullt ut. Var gullfisken syk eller død, kan et ønske eller en drøm være i ferd med å forsvinne — noe som trenger mer omsorg for å overleve.
 
-**Hvis gullfisken var i et lite glass eller bur:**
-Noe er begrenset og trenger mer plass for å blomstre fullt ut.
-
-**Hvis gullfisken var syk eller død:**
-Et ønske eller en drøm er i fare for å forsvinne — noe trenger mer omsorg.
-
-**Hvis du fikk gullfisken:**
-Et ønske eller en mulighet gis til deg. Ta imot det med åpne hender.
-
-**Hvis du ga gullfisken:**
-Du gir noen andre en mulighet eller et ønske — generøsitet.
+Fikk du gullfisken i drømmen, blir et ønske eller en mulighet gitt til deg, og det er verdt å ta imot den med åpne hender. Ga du derimot bort gullfisken, handler drømmen mer om generøsitet — du gir noen andre en mulighet eller et ønske.
 
 ## Den lille verdenen — flaks, frihet og ønsker
 
@@ -60,11 +49,3 @@ Gullfisken lever i en liten, avgrenset verden — bollen er hele dens univers. D
 I kinesisk kultur er gullfisken derimot et av de mest positive symbolene som finnes — ordet for fisk har en klang som forbindes med overskudd og hell, og gullfisken tolkes ofte som et håpefullt tegn på velstand som er på vei.
 
 Som et kjæledyr som er fullstendig avhengig av sin eier, kan gullfisken også tolkes som et bilde på omsorg og ansvar — noe skjørt som er lagt i din varetekt. Og i eventyret om fiskeren og gullfisken ligger en annen kjent visdom: ønsker, lengsler og grådighet er nært forbundet, og spørsmålet om hva som faktisk gir tilfredshet, er verdt å stille seg selv.
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om gullfisk **flere ganger**?

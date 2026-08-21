@@ -16,58 +16,28 @@ bilde: /bilder/symboler/tiger.jpg
 author: 'default'
 ---
 
-## Hva betyr det å drømme om tiger?
+## Det ville som ikke lar seg temme
 
 Der [løven](/drommer/love/) er kongen, er tigeren det ville — utemmet, uforutsigbar og ladet med rå energi. Tigeren i drømmer bringer med seg en intensitet som er vanskelig å ignorere. Den er sjelden en rolig drøm. Noe er i bevegelse, noe krever oppmerksomhet.
 
 Tigeren skiller seg fra løven ved at den er mer solitær og mer uforutsigbar — lignende [bjørnen](/drommer/bjorn/) i sin ensomme kraft — den jakter alene, og den slår til uten forvarsel.
 
+## Kraften som leter etter et utløp
 
-## De vanligste tolkningene
+Tigeren representerer ofte de mer primitive sidene av oss selv — seksuell energi, aggresjon, lidenskap, vitalitet. Å drømme om tiger kan bety at disse kreftene er sterke i deg akkurat nå og leter etter et naturlig utløp. Drømmen kan komme i perioder der du føler deg levende, intens og full av energi — eller motsatt, i perioder der du har undertrykket noe for lenge.
 
-### Rå instinkter og undertrykt energi
+En truende tiger peker gjerne mot noe i livet som er farlig eller uforutsigbart — en situasjon, en person, eller et valg som bærer reell risiko. Underbevisstheten bruker tigeren for å si: vær på vakt, dette er ikke ufarlig. Men en tiger som ikke truer deg, som bare er imponerende og sterk, kan like gjerne speile din egen kraft. Drømmen inviterer deg da til å eie styrken din fremfor å skjule den.
 
-Tigeren representerer ofte de mer primitive sidene av oss selv — seksuell energi, aggresjon, lidenskap, vitalitet. Å drømme om tiger kan bety at disse kreftene er sterke i deg akkurat nå og leter etter et naturlig utløp.
+## Avstanden mellom deg og dyret
 
-Drømmen kan komme i perioder der du føler deg levende, intens og full av energi — eller motsatt, i perioder der du har undertrykket noe for lenge.
+Det som ofte sier mest i en tigerdrøm, er hvor nær den kom og hva den gjorde. Blir du forfulgt av den, kan det tolkes som at noe du unngår er i ferd med å innhente deg — en konfrontasjon som lenge er utsatt, og som nærmer seg enten du vil eller ikke. Står tigeren derimot bak sperrer eller i et bur, handler drømmen oftere om kraft som holdes tilbake, av deg selv eller av omstendighetene, og som gjerne vil ut.
 
-### Fare og uforutsigbarhet
+Møter dere hverandres blikk uten at noe skjer, er det en av de finere variantene: en respektfull anerkjennelse av noe sterkt i deg selv, uten at det trenger å bli farlig. Og drømmer du om en tigerunge, peker det gjerne mot en ung kraft under utvikling — et potensial som ennå ikke har fått vokse ferdig.
 
-En truende tiger peker gjerne mot noe i livet som er farlig eller uforutsigbart — en situasjon, en person, eller et valg som bærer reell risiko. Underbevistheten bruker tigeren for å si: vær på vakt, dette er ikke ufarlig.
+## Mot, beskyttelse og det å stå alene
 
-### Personlig kraft og selvhevdelse
+Tigeren kan tolkes som et bilde på en rå, ukontrollert kraft i deg — lidenskap, sinne eller et instinkt som ikke lar seg temme helt. Ofte er dette noe du selv kjenner på, men kanskje ikke har lyst til å vise frem. Drømmen kan da leses som en invitasjon til å bli bedre kjent med din egen intensitet, i stedet for å skyve den bort. Å møte tigeren, eller til og med temme den i drømmen, tolkes gjerne som et tegn på at du er på vei til å ta kraften i bruk på en måte som tjener deg.
 
-En tiger som ikke truer deg, men som er imponerende og sterk, kan speile din egen kraft og selvhevdelse. Drømmen inviterer deg til å eie din egen styrke fremfor å skjule den.
+I kinesisk tradisjon er tigeren et av de tolv dyrene i den astrologiske syklusen og forbindes med mot, styrke og beskyttelse mot det onde. I hinduistisk mytologi rir gudinnen Durga på en tiger eller løve — et bilde på en voldsom, men beskyttende kvinnelig kraft. Tigeren er også et dyr som lever mye for seg selv, og drømmen kan derfor handle om uavhengighet: styrken som ligger i å stå på egne ben.
 
-
-## Hva påvirker tolkningen?
-
-**Hvis tigeren forfølger deg:**
-Noe du unngår innhenter deg. En konfrontasjon som lenge er utsatt nærmer seg.
-
-**Hvis tigeren er i bur:**
-Kraft som er holdt tilbake — enten av deg selv eller av omstendighetene. Noe ønsker å bryte ut.
-
-**Hvis du og tigeren ser på hverandre uten angrep:**
-En kraftfull, respektfull anerkjennelse av noe sterkt i deg selv. En fin drøm.
-
-**Hvis tigeren er en unge:**
-En ung, voksende kraft. Potensial som ennå ikke er fullt utviklet.
-
-
-## Rå kraft og det utemmede
-
-Tigeren kan tolkes som et bilde på en rå, ukontrollert kraft i deg — lidenskap, sinne eller et instinkt som ikke lar seg temme helt. Ofte er dette en kraft du selv kjenner på, men kanskje ikke har lyst til å vise frem: drømmen kan da tolkes som en invitasjon til å bli bedre kjent med din egen intensitet, i stedet for å skyve den bort.
-
-En tiger som lusker eller virker truende kan tolkes som en fare eller en sterk følelse du har unngått å forholde deg til. Å møte tigeren, eller til og med temme den i drømmen, kan tolkes som et tegn på at du er på vei til å ta denne kraften i bruk på en måte som tjener deg, i stedet for å la den styre deg.
-
-I kinesisk tradisjon er tigeren et av de tolv dyrene i den astrologiske syklusen og forbindes med mot, styrke og beskyttelse mot det onde. I hinduistisk mytologi rir gudinnen Durga på en tiger eller løve — et bilde på en voldsom, men beskyttende kvinnelig kraft. Tigeren er også et dyr som lever mye for seg selv, og drømmen kan derfor også handle om uavhengighet og selvstendighet — styrken som ligger i å stå på egne ben.
-
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om tiger **flere ganger**? Les om [gjentakende drømmer](/guider/gjentakende-drommer/).
+Har du drømt om tigeren flere ganger, kan det være verdt å lese om [gjentakende drømmer](/guider/gjentakende-drommer/).

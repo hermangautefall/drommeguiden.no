@@ -18,11 +18,11 @@ author: 'default'
 
 ## Hva betyr det å drømme om mus?
 
-Musen er liten — men i drømmeverdenen er den sjelden ubetydelig. Den representerer det som opererer i det skjulte, det som er lite nok til å smette gjennom sprekker, og det som samler seg i mørket uten at vi merker det før plutselig er det mange.
+En rask raslelyd i veggen, en liten skygge som forsvinner under et skap før du rekker å se den ordentlig — musen unnslipper nesten alltid blikket akkurat idet du legger merke til den. I drømmeverdenen er den likevel sjelden ubetydelig. Den representerer det som opererer i det skjulte, det som er lite nok til å smette gjennom sprekker, og det som samler seg i mørket uten at vi merker det før det plutselig er mange.
 
 Musdrømmene er vanlige, og de bærer gjerne på et spesifikt budskap om noe i livet du har oversett.
 
-## De vanligste tolkningene
+## Det som samler seg, og det som slipper gjennom
 
 ### Små irritasjoner som har hopet seg opp
 
@@ -36,22 +36,9 @@ Musen er ikke stupid — den er rask, smidig og finner veier gjennom det aller t
 
 En mus er liten i en stor verden — og i drømmene kan den representere en subjektiv opplevelse av å være liten, sårbar og utsatt. En periode der noe i livet kjennes for stort og overveldende til å møte direkte.
 
-## Hva påvirker tolkningen?
+## Fra gnagende detalj til den fangede frykten
 
-**Hvis det var mange mus:**
-Mange små problemer eller irritasjoner som samlet sett er overveldende.
-
-**Hvis musen var søt og vennlig:**
-Den smarte, nøysomme siden av deg selv — klok med lite ressurser.
-
-**Hvis musen gnaget på noe:**
-Noe ødelegges langsomt av noe lite men vedvarende.
-
-**Hvis du var redd for musen:**
-En frykt som er uforholdsmessig stor i forhold til den faktiske trusselen. Se også [edderkopp](/drommer/edderkopp/) for andre fobiske drømmesymboler.
-
-**Hvis du fanget musen:**
-Du tar tak i noe lite men plagsomt og løser det.
+Hvordan musen opptrer i drømmen, endrer tolkningen. Var det mange mus, kan det tolkes som mange små problemer eller irritasjoner som samlet sett er overveldende. Var musen søt og vennlig, kan den heller representere den smarte, nøysomme siden av deg selv — klok med lite ressurser. Gnagde musen på noe, ødelegges kanskje noe langsomt av noe lite, men vedvarende. Var du redd for musen, kan frykten være uforholdsmessig stor i forhold til den faktiske trusselen — se også [edderkopp](/drommer/edderkopp/) for andre fobiske drømmesymboler. Og fanget du musen, tar du tak i noe lite men plagsomt, og løser det i stedet for å la det fortsette å gnage i bakgrunnen.
 
 ## De små bekymringene — og den stille styrken
 
@@ -60,11 +47,3 @@ Et nærliggende perspektiv handler om de små, gnagende bekymringene. Musen kan 
 Et annet perspektiv ligger i beskjedenheten. Musen lever i marginene, ofte ubemerket, og kan derfor speile en oppmerksomhet på detaljer som lett overses — eller en følelse av selv å være oversett, stille og lite synlig i en situasjon der andre tar mer plass.
 
 Samtidig er musen et oppfinnsomt og motstandsdyktig dyr som finner veier til å overleve nesten hvor som helst. I fabeltradisjonen er det ofte den lille musen som redder den mektige løven — et bilde på at det som er smått kan utgjøre en avgjørende forskjell. Også i hinduistisk tradisjon rir guden Ganesha på en mus, som et symbol på det som overvinner hindringer ved å komme inn på de minste og mest utilgjengelige stedene. Drømmens mus kan altså, til tross for sin størrelse, peke på en stille, men virkningsfull styrke. Se også [rotte](/drommer/rotte/) for et nærliggende, men noe mer ladet symbol.
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om mus **flere ganger**?

@@ -2,6 +2,7 @@
 tittel: "Dreaming of dying — what does it mean?"
 slug: dying
 kategori: events
+sensitivt: true
 kortbeskrivelse: "Dreamed that you were dying? It's one of the most common dreams we have, and it almost never means what you fear — here's what it can really mean."
 relaterte:
   - deceased-person

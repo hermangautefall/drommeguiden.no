@@ -18,9 +18,9 @@ author: 'default'
 
 ## Hva betyr det å drømme om ku?
 
-Kua er ett av de eldste og mest universalt dyrkede dyrene i menneskekulturen — fra den hellige kua i India til den norrøne urdyrkua Auðumbla som ga melk til å nære gudene. I drømmeverdenen representerer den næring, overflod, tålmodighet og den langsomme styrken til noe som gir uten å kreve.
+En ku tygger drøv i timevis, uten hastverk og uten synlig mål — bare den langsomme, repeterende bevegelsen av kjever som maler noe om igjen og igjen. Fra den hellige kua i India til den norrøne urdyrkua Auðumbla som ga melk til å nære gudene, har mennesket i årtusener dyrket kua som et bilde på næring og overflod. I drømmeverdenen representerer den nettopp dette: næring, overflod, tålmodighet og den langsomme styrken til noe som gir uten å kreve.
 
-## De vanligste tolkningene
+## Næring, overflod og roen som ikke haster
 
 ### Næring og det som gir substans
 
@@ -34,33 +34,12 @@ Kua er i mange kulturer knyttet til fruktbarhet og overflod — det som gir mer 
 
 Kua er tålmodig og jordbunden — den løper ikke, den haster ikke. Den er der, rolig og stødig. Drømmens ku kan speile et behov for, eller en evne til, nettopp dette: å bremse ned, å være til stede, å la ting ta den tid de trenger.
 
-## Hva påvirker tolkningen?
+## Fra sunn og melkefull til tom for krefter
 
-**Hvis kua var frisk og melkefull:**
-Overflod, næring og generøsitet er til stede i livet ditt.
+Kuas tilstand i drømmen sier mye om tolkningen. Var kua frisk og melkefull, er overflod, næring og generøsitet til stede i livet ditt. Var den derimot mager eller syk, gjør noe som skulle gi næring det ikke lenger — en ressurs er tømt. Var kua aggressiv, har den rolige, nærende kraften blitt presset for langt; noe tålmodig har nådd sin grense — se også [hest](/drommer/hest/) for et annet kraftfullt husdyrsymbol. Var det mange kuer i drømmen, peker det mot rikdom, overflod og mange ressurser. Og melket du kua selv, tar du aktivt til deg det som er tilgjengelig — du høster fra det som gir, i stedet for bare å vente på at det skal komme til deg av seg selv.
 
-**Hvis kua var mager eller syk:**
-Noe som skulle gi næring gjør det ikke. En ressurs er tømt.
-
-**Hvis kua var aggressiv:**
-Den rolige, nærende kraften har blitt presset for langt — noe tålmodig har nådd sin grense. Se også [hest](/drommer/hest/) for et annet kraftfullt husdyrsymbol.
-
-**Hvis det var mange kuer:**
-Rikdom, overflod og mange ressurser.
-
-**Hvis du melket kua:**
-Du tar aktiv til deg det som er tilgjengelig — du høster fra det som gir.
-
-## Psykologiske og kulturelle perspektiver
+## Urkua og det som nærer
 
 Den norrøne urdyrskua Auðumbla er ett av de mest særegne bildene i norrøn kosmologi — hun sto i kaosens is og slikkfremgudene av isen mens hun ga melk til å nære jotnen Yme. Kua er der fra begynnelsen, hun gir næring til det som blir til. I norrøn tradisjon er kua ikke et banalt husdyr — hun er skapelsens første mor.
 
 Jung ville sett kua som en manifestasjon av "Den store moren" i sin mest nærende og jordnære form — rolig, fruktbar og ustoppelig i sin generøsitet. Se også [sau](/drommer/sau/) for et annet mildt husdyrsymbol.
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om ku **flere ganger**?

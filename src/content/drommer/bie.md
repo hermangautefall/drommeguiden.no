@@ -22,7 +22,7 @@ Der [vepsen](/drommer/veps/) stikker og tar, gir bien — honning, pollinering, 
 
 Samtidig er bien et symbol med flere lag. Den kan også stikke — men bare når den eller dens samfunn er truet, og stikket koster den livet. Drømmens bie bærer derfor på en spesiell etisk vekt: den arbeider, den skaper, og den forsvarer det den bygger.
 
-## De vanligste tolkningene
+## Flid, honning og fellesskapets logikk
 
 ### Flid og tålmodig arbeid
 
@@ -44,31 +44,11 @@ I mange tradisjoner regnes bien som en budbringer fra åndeverdenen — den krys
 
 Biene er i økologisk krise i vår tid, og denne moderne ladningen sniker seg ofte inn i drømmene. Drømmens bie kan handle om noe verdifullt og skjørt i livet ditt eller verden rundt deg som krever omsorg og beskyttelse. Det er ofte et varsel om at noe godt er på vei til å forsvinne om det ikke får oppmerksomhet.
 
-## Hva påvirker tolkningen?
+## Surr, stikk og sverm — det som endrer bildet
 
-**Hvis bien surret fredelig:**
-Produktiv aktivitet og en god flyt i arbeidet.
+Detaljene i drømmen justerer gjerne tolkningen. Surret bien fredelig rundt deg, er det gjerne et bilde på produktiv aktivitet og en god flyt i arbeidet du står i. Ble du stukket, kan det minne deg om at selv noe godt og produktivt kan svi dersom du kommer for nær eller forstyrrer det som er i ferd med å bygges. En hel bikube i drømmen peker ofte mot et velfungerende fellesskap eller system som produserer noe verdifullt sammen, mens en enslig bie heller kan handle om en selvstendig innsats du gjør på egen hånd.
 
-**Hvis du ble stukket:**
-Selv noe godt og produktivt kan stikke dersom du kommer for nær eller forstyrrer det.
-
-**Hvis det var en bikube:**
-Et velfungerende fellesskap eller system som produserer noe verdifullt.
-
-**Hvis bien var alene:**
-En selvstendig produktiv innsats — du arbeider på egenhånd.
-
-**Hvis biene svermet:**
-En kraft av kollektiv energi — mange beveger seg i samme retning.
-
-**Hvis du så honning:**
-Belønningen for arbeidet — noe søtt og verdifullt.
-
-**Hvis biene var døde:**
-Noe verdifullt har sluttet å produsere — et tap, et nederlag, en utbrenthet.
-
-**Hvis du var redd for biene:**
-En generell frykt for fellesskap eller for å bli "stukket" av kollektivet.
+Svermet biene, kan det speile en kraft av kollektiv energi — mange som beveger seg i samme retning. Så du honning, er det gjerne selve belønningen for arbeidet som vises frem: noe søtt og verdifullt du har fortjent. Var biene døde, kan drømmen derimot handle om noe verdifullt som har sluttet å produsere — et tap, et nederlag eller en utbrenthet. Og var du redd for biene, kan det peke mot en mer generell frykt for fellesskapet, eller for å bli «stukket» av kollektivet rundt deg.
 
 ## Flid, fellesskap og det søte
 

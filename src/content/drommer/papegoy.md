@@ -18,12 +18,12 @@ author: 'default'
 
 ## Hva betyr det å drømme om papegøye?
 
-Papegøyen er et av de mest særegne dyrene i drømmesymbolikken — et dyr som snakker, men ikke alltid forstår. Den etterligner, gjentar og speiler — ikke ulikt symbolikken i drømmer om [speil](/drommer/speil/). Å drømme om papegøye bringer opp viktige spørsmål om autentisitet: snakker du med din egen stemme, eller gjentar du noe du har lært?
+Snakker du med din egen stemme i drømmen, eller gjentar du bare noe du har hørt et annet sted? Papegøyen er et dyr som snakker, men ikke alltid forstår hva den sier — den etterligner, gjentar og speiler, ikke ulikt symbolikken i drømmer om [speil](/drommer/speil/). Å drømme om papegøye bringer opp nettopp dette spørsmålet om autentisitet.
 
 Drømmens tone avgjør mye av svaret.
 
 
-## De vanligste tolkningene
+## Mellom ekko og egen stemme
 
 ### Imitasjon og mangel på originalitet
 
@@ -38,32 +38,13 @@ Papegøyen snakker — og det å snakke er sentralt i drømmens budskap. Det kan
 Papegøyen er fargerik og livlig — og i drømmer der papegøyen er vakker og fryd-skapende, kan budskapet handle om glede, kreativitet og det å uttrykke seg fritt.
 
 
-## Hva påvirker tolkningen?
+## Støy, stillhet og hvem som snakket
 
-**Hvis papegøyen gjentar noe du sa:**
-En advarsel om at ord du har sagt lever videre — vær bevisst på hva du kommuniserer.
-
-**Hvis papegøyen er støyende og irriterende:**
-Noe i omgivelsene dine er overfladisk og støyende. Kanskje er det tid for stillhet.
-
-**Hvis papegøyen er vakker og stille:**
-Kreativt uttrykk og skjønnhet. En oppmuntring til å vise mer av deg selv.
-
-**Hvis du er papegøyen:**
-Du kan ha tatt over andres meninger eller adferd uten å merke det.
+Gjentok papegøyen noe du selv hadde sagt, er det gjerne en advarsel om at ordene dine lever videre lenger enn du tror — vær bevisst på hva du kommuniserer. Var papegøyen støyende og irriterende, kan det bety at noe i omgivelsene dine oppleves overfladisk og støyende, og at det kanskje er tid for mer stillhet. Var papegøyen derimot vakker og stille, handler drømmen om kreativt uttrykk og skjønnhet — en oppmuntring til å vise mer av deg selv. Var det du selv som var papegøyen i drømmen, kan det bety at du har tatt over andres meninger eller atferd uten helt å ha merket det selv.
 
 
-## Psykologiske og kulturelle perspektiver
+## Stemmen som gjentar andres ord
 
 I mange kulturer er papegøyen et symbol på intelligens og kommunikasjon — men også på det overfladiske og det innlærte. Psykologisk sett kan papegøyen representere de delene av oss som har internalisert andres stemmer — noe som også berøres i drømmer om [skole](/drommer/skole/) — foreldre, samfunn, autoriteter — uten å ha gått gjennom dem kritisk.
 
-Drømmen kan invitere deg til å spørre: hva er egentlig min egen stemme?
-
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om papegøye **flere ganger**? Skriv det ned i en [drømmejournal](/guider/drommejournalen/).
+Drømmen kan invitere deg til å spørre: hva er egentlig min egen stemme? Dukker papegøyen opp igjen i flere drømmer, kan det være lurt å skrive det ned i en [drømmejournal](/guider/drommejournalen/) — over tid kan mønstrene si mer enn én enkelt drøm gjør alene.

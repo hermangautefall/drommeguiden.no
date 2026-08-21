@@ -18,11 +18,11 @@ author: 'default'
 
 ## Hva betyr det å drømme om sau?
 
-Sauen er ett av de eldste husdyrene vi har — et dyr som har fulgt mennesket i tusenvis av år, som gir ull og mat, og som er sårbart nok til å trenge gjeting. I drømmesymbolikken er sauen ladet med en dobbel betydning: uskyld og godhet på den ene siden, passivitet og blind flokkmentalitet på den andre.
+«Å følge som en sau» er blant de eldste uttrykkene vi har for å ikke tenke selv — og nettopp denne doble arven bærer sauen med seg inn i drømmen. Den har fulgt mennesket i tusenvis av år, gir ull og mat, og er sårbar nok til å trenge gjeting. I drømmesymbolikken er sauen derfor ladet med en dobbel betydning: uskyld og godhet på den ene siden, passivitet og blind flokkmentalitet på den andre.
 
 Konteksten avgjør hvilken side drømmen vektlegger.
 
-## De vanligste tolkningene
+## Flokken, eller din egen vei
 
 ### Tilhørighet og flokkmentalitet
 
@@ -36,33 +36,14 @@ Sauen er et mildt og sårbart dyr — det angriper ikke, det forsvarer seg ikke.
 
 I norsk kontekst er sauen knyttet til fjell og seterliv — til en langsom, naturlig rytme der du følger beite og sesong. Drømmens sau kan ha en mer rolig og positiv valens: en påminnelse om det enkle, det nøysomme, det som ikke jager. Se også [ku](/drommer/ku/) for lignende symbolikk om det jordnære og nærende.
 
-## Hva påvirker tolkningen?
+## Rollen du hadde i flokken
 
-**Hvis sauene vandret fredelig:**
-Ro, naturlig rytme og et godt kollektivt flow. Tilhørighet uten krav.
+Vandret sauene fredelig i drømmen, er det gjerne et tegn på ro, naturlig rytme og et godt kollektivt flow — tilhørighet uten krav. Gjette du sauene selv, er du i en lederrolle: du har ansvar for å veilede og beskytte noe sårbart. Var sauen alene og fortapt, peker det mot noe sårbart som er uten fellesskap og beskyttelse. Ble sauen angrepet, er noe uskyldig og sårbart truet — enten av ytre krefter eller av noe i deg selv. Drømmer om [ulv](/drommer/ulv/) representerer ofte nettopp denne truende kraften mot det sårbare. Var det derimot du selv som var sauen, kan drømmen spørre deg ærlig: følger du andres retning fremfor din egen?
 
-**Hvis du gjette sauene:**
-Du er i en lederrolle — du har ansvar for å veilede og beskytte noe sårbart.
-
-**Hvis sauen var alene og fortapt:**
-Noe sårbart er uten fellesskap og beskyttelse.
-
-**Hvis sauen ble angrepet:**
-Noe uskyldig og sårbart er truet — av ytre krefter eller av noe i deg selv. Drømmer om [ulv](/drommer/ulv/) representerer ofte den truende kraften mot det sårbare.
-
-**Hvis du var sauen:**
-Spør deg selv ærlig: følger du andres retning fremfor din egen?
-
-## Psykologiske og kulturelle perspektiver
+## Hyrden, flokken og den som går seg bort
 
 "Den gode hyrde" er ett av de sterkeste kristne bildene på omsorg og ledelse — og det er nettopp sauen som trenger gjeting og beskyttelse, som gir dette bildet sin mening. I norsk kulturhistorie er saueholdet dypt forankret: seterdriften, ulla til vadmelen, lammet til høytiden. Sauen er ikke eksotisk — den er gammelmodig og kjent, noe av det mest norske som finnes.
 
 Jung ville sett sauen som en representasjon av det kollektive Persona — den delen av oss som tilpasser seg normen og flokken, som ikke skiller seg ut. Nødvendig, men ikke tilstrekkelig for et fullt liv. Se [kategori dyr](/kategori/dyr/) for flere dyresymboler.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om sau **flere ganger**?
+Kommer sauen tilbake i flere drømmer, kan det være verdt å kjenne etter om det er trygghet eller underkastelse du egentlig søker når du lar deg lede av flokken.

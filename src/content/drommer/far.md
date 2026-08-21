@@ -34,7 +34,7 @@ Ikke alle drømmer om far handler om en far som er til stede. For dem som vokste
 
 Ga han deg råd i drømmen? Legg gjerne merke til hva han sa — det er ofte noe din egen underbevissthet ønsker å fortelle deg selv, formidlet gjennom et kjent ansikt. Og for dem som har mistet faren sin, er [drømmer om avdøde](/drommer/avdod-person/) svært vanlige og oppleves oftest som dypt trøstende — mange beskriver at de i drømmen vet at han er borte, men likevel får snakke med ham, og at dette gir en lettelse som varer lenge etter oppvåkning.
 
-## Hva påvirker tolkningen?
+## Slik han var i drømmen
 
 **Hvis han var stolt eller anerkjennende:** et tegn på god kontakt med egen selvfølelse og mestringskraft.
 

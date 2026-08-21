@@ -18,11 +18,11 @@ author: 'default'
 
 ## Hva betyr det å drømme om hjort?
 
-Hjorten er ett av de vakreste dyrene i den nordiske drømmesymbolikken — og ett av de mest ladet med motsetninger. Den er sårbar og sky, men bærer sine gevir med stolthet. Den er rask og lett, men røttene til mange av verdens eldste myter og legender. Å drømme om hjort er som regel en myk og vakker drøm, en av de få der det å være varsom selv kjennes verdig.
+Hjorten stivner midt i bevegelsen idet den oppdager deg — et helt sekund med øret vridd mot lyden, før den enten blir stående eller forsvinner i ett langt sprang inn mellom trærne. Den er sårbar og sky, men bærer sine gevir med stolthet. Den er rask og lett, men bærer også røttene til mange av verdens eldste myter og legender. Å drømme om hjort er som regel en myk og vakker drøm, en av de få der det å være varsom selv kjennes verdig.
 
 Drømmer om hjort dukker gjerne opp i perioder der noe ømt søker oppmerksomhet, der du står midt i en åndelig eller eksistensiell prosess, eller der spørsmål om eleganse under press er aktive.
 
-## De vanligste tolkningene
+## Sårbarhet, stolthet og det hellige i hjorten
 
 ### Sårbarhet og ømhet
 
@@ -44,33 +44,11 @@ Hannhjorten — bukken — bærer sine gevir høyt. I drømmer kan han represent
 
 Hjorten er et villdyr — den lever utenfor mennesket, etter sine egne rytmer. Drømmens hjort kan handle om en lengsel etter noe mer opprinnelig, mer naturlig, mer ekte. Disse drømmene kommer ofte i perioder med stress, sivilisasjonstrøtthet eller fremmedgjøring.
 
-## Hva påvirker tolkningen?
+## Blikket, geviret og hvem som jakter på hvem
 
-**Hvis hjorten ser på deg:**
-En invitasjon til kontakt med noe dypt og autentisk. Vær åpen.
+Hvordan hjorten opptrer i drømmen, endrer betydningen. Ser hjorten på deg, er det gjerne en invitasjon til kontakt med noe dypt og autentisk — vær åpen for det. Flykter den derimot, kan det bety at noe fint og sårbart trekker seg unna; kanskje nærmer du deg noe for hardt eller for raskt. En skadet hjort peker mot at en sårbar del av deg selv er såret og trenger omsorg, mens en hjort med store, staselige gevir gjerne symboliserer stolthet, kraft og vekst — en maskulin energi med naturlig autoritet. Er hjorten hvit, regnes det i mange tradisjoner som et særskilt åndelig tegn, nesten som et bud fra det hellige. Leder hjorten deg et sted i drømmen, opptrer den som et guidedyr, og det er verdt å legge merke til hvor den fører deg. Var det du selv som var hjorten, identifiserer du deg trolig med kvaliteten av varsom verdighet akkurat nå. Og jaktet du på hjorten, søker du kanskje noe sårbart og hellig — noe som krever at du nærmer deg forsiktig, uten å skremme det bort.
 
-**Hvis hjorten flykter:**
-Noe fint og sårbart trekker seg unna. Kanskje nærmer du deg noe for hardt eller raskt.
-
-**Hvis hjorten er skadet:**
-En sårbar del av deg er såret. Ta vare på deg selv.
-
-**Hvis hjorten har store gevir:**
-Stolthet, kraft og vekst. En mann eller en maskulin energi med naturlig autoritet.
-
-**Hvis hjorten er hvit:**
-Et særskilt åndelig tegn — i mange tradisjoner et bud fra det hellige.
-
-**Hvis hjorten leder deg et sted:**
-Et guidedyr — følg med på hvor den fører deg.
-
-**Hvis du var hjorten:**
-Du identifiserer deg med kvaliteten av varsom verdighet akkurat nå.
-
-**Hvis du jaktet på hjorten:**
-Du søker noe sårbart og hellig — vær forsiktig med hvordan du nærmer deg det.
-
-## Psykologiske og kulturelle perspektiver
+## Et av de eldste åndelige dyrebildene
 
 Hjorten er ett av menneskekulturens eldste og mest gjenkomne åndelige symboler — fra hulemalerier i Lascaux og Altamira til samtidens populærkultur.
 

@@ -22,7 +22,7 @@ Krabben beveger seg sidelengs — den kommer sjelden rett mot det den vil, men n
 
 Drømmer om krabbe dukker gjerne opp i perioder der du selv navigerer indirekte, der noe i deg trenger beskyttelse, eller der du står mellom to tilstander uten å være helt i den ene eller andre.
 
-## De vanligste tolkningene
+## Skallet, klørne og livet i grenselandet
 
 ### Sidelengs bevegelse — unngåelse
 
@@ -44,31 +44,9 @@ Krabben er amfibisk — den lever i fjæra, mellom hav og land. Drømmens krabbe
 
 Krabben legger og bærer egg — og i mange tradisjoner er den knyttet til kvinnelig fruktbarhet og morsrolle. Drømmens krabbe kan handle om beskyttelsen rundt det skjøre nye — en relasjon i en sårbar fase, et prosjekt under utvikling, eller en del av deg selv som ennå ikke er ferdig.
 
-## Hva påvirker tolkningen?
+## Fra klype til forvandling — krabbens ulike opptredener
 
-**Hvis krabben klemte deg:**
-Noe holder deg fast — noe du ikke klarer å løsrive deg fra.
-
-**Hvis du spiste krabben:**
-Du tar til deg noe du har holdt på avstand — en forsoning med noe vanskelig.
-
-**Hvis krabben var i [havet](/drommer/hav/):**
-En naturlig del av det ubevisste — noe som hører hjemme i dypet.
-
-**Hvis krabben var på land:**
-Noe som er ute av sitt rette element — en situasjon som kjennes feil.
-
-**Hvis krabben skiftet skall:**
-En transformasjon — det gamle skallet faller av og noe nytt og sårbart trer frem.
-
-**Hvis krabben var stor og mektig:**
-En kraftfull energi som lever indirekte — noe sterkt under overflaten.
-
-**Hvis det var mange krabber:**
-Et helt mønster av sidelengs bevegelse — kanskje en hel arena der ingen møter hverandre direkte.
-
-**Hvis du holdt krabben i hånden:**
-Du tar imot noe som vanligvis klemmer — en beherskelse av noe som ellers skremmer.
+Hvordan krabben opptrer i drømmen endrer tolkningen. Klemte krabben deg, holder noe deg fast — noe du ikke klarer å løsrive deg fra. Spiste du krabben, tar du til deg noe du har holdt på avstand, en forsoning med noe vanskelig. Var krabben i [havet](/drommer/hav/), er det en naturlig del av det ubevisste, noe som hører hjemme i dypet, mens en krabbe på land gjerne peker mot noe som er ute av sitt rette element — en situasjon som kjennes feil. Skiftet krabben skall for øynene dine, er det et bilde på transformasjon: det gamle skallet faller av, og noe nytt og sårbart trer frem. Var krabben stor og mektig, representerer den trolig en kraftfull energi som lever indirekte — noe sterkt under overflaten. Var det mange krabber, kan drømmen speile et helt mønster av sidelengs bevegelse, kanskje en hel arena der ingen møter hverandre direkte. Og holdt du krabben i hånden uten å bli klemt, tar du imot noe som vanligvis klemmer — en beherskelse av noe som ellers skremmer.
 
 ## Skall, klør og sidelengs bevegelse
 

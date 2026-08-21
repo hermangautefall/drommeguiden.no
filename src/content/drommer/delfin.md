@@ -18,9 +18,9 @@ author: 'default'
 
 ## Hva betyr det å drømme om en delfin?
 
-Delfinen er ett av de sjeldne dyrene som nesten alltid er et positivt symbol — og ett av de mest elskede i menneskenes forhold til naturens vesener. Intelligent, sosial, leken og elegant i sitt element. I drømmene bærer den disse kvalitetene og mer til.
+Hvorfor kjennes en drøm med delfin nesten alltid god, selv når resten av natten var urolig? Delfinen er blant de sjeldne dyrene som nesten alltid opptrer som et positivt symbol — intelligent, sosial, leken og elegant i sitt element. I drømmene bærer den disse kvalitetene og mer til.
 
-## De vanligste tolkningene
+## Glede, dyp innsikt og et gammelt vennskap
 
 ### Glede og lekfullhet
 
@@ -42,17 +42,11 @@ Delfinen lever i havet — det dype, det ubevisste — men puster luft fra overf
 
 I antikken ble delfiner sett som menneskenes venner i havet — det var utallige historier om delfiner som reddet druknende sjøfarere. I drømmene kan delfinen speile et genuint vennskap, en kontakt med noe som er på din side — enten et menneske eller en side av deg selv.
 
-## Hva påvirker tolkningen?
+## Lekte den, ledet den, eller var den i nød?
 
-**Hvis delfinen lekte med deg:** En invitasjon til mer glede, frihet og lettsindighet i livet.
+Lekte delfinen med deg i drømmen, kan det leses som en invitasjon til mer glede, frihet og lettsindighet i livet ditt akkurat nå. Ledet den deg gjennom vannet, er det ofte et tegn på at en guide er til stede — en tillit til at noe i deg, eller rundt deg, vet veien videre. Var delfinen derimot i nød, kan det speile at noe lekent og vitalt i livet ditt er i fare: hva er det som hemmer gleden din for tiden?
 
-**Hvis delfinen ledet deg:** En guide er til stede — tillit til at noe i deg eller rundt deg vet veien.
-
-**Hvis delfinen var i nød:** Noe lekent og vitalt i livet ditt er i fare — hva hemmer gleden din?
-
-**Hvis du svømte med delfinen:** En djup forbundethet med noe intelligent og sosialt — du er ikke alene.
-
-**Hvis det var mange delfiner:** Fellesskap og sosial glede er aktivt — eller er noe du søker mer av.
+Svømte du sammen med delfinen, peker drømmen ofte mot en dyp forbundethet med noe intelligent og sosialt — en påminnelse om at du ikke er alene. Og var det mange delfiner samlet, kan det handle om at fellesskap og sosial glede allerede er aktivt til stede i livet ditt, eller om at det er nettopp det du søker mer av.
 
 ## Lek, intelligens og veiledning
 
@@ -61,9 +55,3 @@ Delfinen forbindes ofte med intelligens, lekenhet og glede — egenskaper som i 
 I flere maritime kulturer ble delfinen sett som en veiviser og redningsmann for sjøfolk — en beskyttende og velvillig følgesvenn på havet. I gresk myte reddet en delfin poeten Arion fra drukningsdøden, og delfinen var hellig for både Apollon og Poseidon. Et slikt møte i drømme kan tolkes som at noe eller noen leder deg trygt videre gjennom ukjent territorium.
 
 Som et pattedyr som er hjemme i [havet](/drommer/hav/) — ofte tolket som følelseslivets symbol — kan delfinen også representere en harmoni mellom intellekt og følelse: evnen til å navigere det emosjonelle landskapet med ynde. Delfinens avanserte kommunikasjon kan dessuten speile et tema om forbindelse og fellesskap — et ønske om å bli hørt og forstått.
-
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det nok glede, letthet og lek der?
-- Har du drømt om **delfiner eller havet** **flere ganger**?

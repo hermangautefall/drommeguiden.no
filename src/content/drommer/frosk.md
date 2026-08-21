@@ -18,11 +18,11 @@ author: 'default'
 
 ## Hva betyr det å drømme om frosk?
 
-Frosken er ett av naturens mest fascinerende forvandlingsdyr — fra egg til rumpetroll til fullvoksen frosk. Den lever både i [vann](/drommer/hav/) og på land, mellom det ubevisste og det bevisste, mellom følelse og handling. I drømmeverdenen bærer frosken med seg denne evnen til overgang og tilpasning.
+Egg blir til rumpetroll, rumpetroll mister halen og finner ben — frosken er kanskje det dyret som gjennomgår den mest synlige forvandlingen i hele naturen. Den lever både i [vann](/drommer/hav/) og på land, mellom det ubevisste og det bevisste, mellom følelse og handling. I drømmeverdenen bærer frosken med seg denne evnen til overgang og tilpasning.
 
 Å drømme om frosk er sjelden en dramatisk drøm — men den er gjerne meningsfull. Frosken dukker opp i perioder der noe i deg er i ferd med å gjennomgå en endring du ikke fullt ut har lagt merke til.
 
-## De vanligste tolkningene
+## Metamorfose, regn og det som hopper frem
 
 ### Forvandling og livsfaser
 
@@ -44,31 +44,11 @@ I mange tradisjoner er frosken regnets og vannets budbringer — noe som kommer 
 
 Frosker hopper — uten varsel, eksplosivt. Drømmens frosk kan handle om en følelse, et minne eller en innsikt som plutselig hopper opp fra det ubevisste og krever oppmerksomhet. Det er sjelden noe truende; det er noe som har vært under overflaten lenge og nå er klart til å vise seg.
 
-## Hva påvirker tolkningen?
+## Grønn og frisk, eller stille og tørr?
 
-**Hvis frosken er grønn og frisk:**
-Vekst, vitalitet og fornyelse. En positiv drøm.
+Var frosken grønn og frisk, peker drømmen mot vekst, vitalitet og fornyelse — en positiv drøm i sin helhet. Var det mange frosker samlet, kan det handle om noe som overvelder deg, eller om en overflod av muligheter og forvandlinger som skjer på én gang. Hoppet frosken vekk fra deg, kan det bety at noe du søker er vanskelig å gripe akkurat nå, og at det er tålmodighet som trengs. Holdt du frosken i hendene, er du gjerne i kontakt med noe sårbart og levende i deg selv — noe som ber om å bli tatt vare på.
 
-**Hvis det er mange frosker:**
-Noe overvelder deg — eller en overflod av muligheter og forvandlinger på én gang.
-
-**Hvis frosken hopper vekk fra deg:**
-Noe du søker er vanskelig å gripe. Tålmodighet trengs.
-
-**Hvis du holder frosken:**
-Du er i kontakt med noe sårbart og levende i deg selv. Ta vare på det.
-
-**Hvis frosken kvekker høyt:**
-En tydelig beskjed fra det ubevisste — noe vil høres.
-
-**Hvis frosken forvandlet seg under drømmen:**
-En transformasjonsprosess som er ekstra aktiv akkurat nå.
-
-**Hvis frosken var død eller tørket ut:**
-Noe har mistet sin livskraft — kanskje en evne til å bevege seg fritt mellom tilstander.
-
-**Hvis frosken kysset deg eller ble noe annet:**
-Eventyrsymbolikk — noe som ser uanseelig ut bærer noe edelt.
+Kvekket frosken høyt, kan det leses som en tydelig beskjed fra det ubevisste: noe vil høres. Forvandlet frosken seg mens du drømte, er det ofte et tegn på at en transformasjonsprosess er ekstra aktiv akkurat nå. Var frosken derimot død eller tørket ut, kan det bety at noe har mistet sin livskraft — kanskje evnen til å bevege seg fritt mellom tilstander. Og kysset frosken deg, eller ble den til noe annet, trekker drømmen på gammel eventyrsymbolikk: noe som ser uanseelig ut, kan bære på noe edelt.
 
 ## Forvandling, vann og skjult potensial
 

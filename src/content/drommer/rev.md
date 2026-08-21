@@ -18,12 +18,12 @@ author: 'default'
 
 ## Hva betyr det å drømme om rev?
 
-Reven er et av de mest fascinerende dyrene i drømmesymbolikken — ladet med intelligens, sjarm og en viss tvetydighet. I eventyr og folklore er reven listig og uforutsigbar, like gjerne hjelper som hindrer. Å drømme om rev kan derfor bety svært ulike ting avhengig av hva som skjedde i drømmen.
+I eventyr og folklore er reven sjelden det den ser ut som — like gjerne hjelper som hindrer, listig og uforutsigbar på samme tid. Denne tvetydigheten følger den inn i drømmeverdenen også: reven er ladet med intelligens, sjarm og en viss dobbelthet, og å drømme om den kan derfor bety svært ulike ting avhengig av hva som skjedde i drømmen.
 
-Det er ikke tilfeldig at mange kulturer har gitt reven en plass i sine mytologier som den smarte overlever.
+Det er ikke tilfeldig at mange kulturer har gitt reven en fast plass i sine mytologier som nettopp den smarte overleveren — det dyret som klarer seg uansett hvor mye terrenget endrer seg rundt det.
 
 
-## De vanligste tolkningene
+## Når listigheten er en styrke — og når den lurer deg
 
 ### List og intelligens som ressurs
 
@@ -40,19 +40,9 @@ Reven er i mange tradisjoner også symbolet på den som lurte — en som fremst�
 Reven overlever i nesten alle miljøer — fra dype [skoger](/drommer/skog/) til bykjerner. I drømmer kan den symbolisere din egen evne til å tilpasse deg endringer og komme deg gjennom vanskelige perioder. Drømmen kan si: du er mer robust og ressurssterk enn du tror.
 
 
-## Hva påvirker tolkningen?
+## Sjarmerende, jagende eller strålende rød
 
-**Hvis reven er vennlig:**
-Tolkes gjerne som at din egen kløkt og intuisjon er en ressurs akkurat nå. Stol på instinktene dine.
-
-**Hvis reven følger deg eller jager deg (se også [ulv](/drommer/ulv/) for lignende jaktmotiv):**
-Kan bety at noe du prøver å unngå innhenter deg — eller at en smart person i livet ditt har øye på deg.
-
-**Hvis reven stjeler noe:**
-Klassisk varsel om at noe tas fra deg — oppmerksomhet, energi, ressurser — av noen som bruker sjarm eller list.
-
-**Hvis reven er rød og strålende:**
-Sterk, positiv energi. Livsglede og vitalitet som ønsker å komme til uttrykk.
+Var reven vennlig i drømmen, tolkes det gjerne som at din egen kløkt og intuisjon er en ressurs akkurat nå — stol på instinktene dine. Fulgte eller jaget reven deg (se også [ulv](/drommer/ulv/) for et lignende jaktmotiv), kan det bety at noe du prøver å unngå er i ferd med å innhente deg, eller at en smart person i livet ditt har øye på deg. Stjal reven noe fra deg, er det et klassisk varsel om at noe tas fra deg — oppmerksomhet, energi, ressurser — av noen som bruker sjarm eller list. Var reven derimot rød og strålende, bærer drømmen sterk, positiv energi: livsglede og vitalitet som ønsker å komme til uttrykk.
 
 
 ## List, klokskap og forvandling
@@ -61,13 +51,4 @@ Reven kan tolkes som et bilde på klokskap og tilpasningsevne — egenskaper som
 
 På tvers av kulturer dukker reven opp som en formskifter og lurendreier. I japansk folketro er kitsune en magisk reveånd som kan opptre som både voktere og bedragere, alltid med et snev av mystikk. I europeisk middelalderlitteratur var Mikkel Rev (Reynard) den evige listige antihelten som lurte alle andre dyr, og i Æsops fabler er reven den som finner en bortforklaring når noe ikke lar seg oppnå — som i fortellingen om reven og de utilgjengelige rognebærene.
 
-Drømmen kan også handle om en person i livet ditt som er uvanlig kløktig eller listig, eller om en side av deg selv som trives best i utkanten — uavhengig, tilpasningsdyktig og alltid med et triks i bakhånd. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).
-
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om rev **flere ganger**? Les vår guide om [gjentakende drømmer](/guider/gjentakende-drommer/).
+Drømmen kan også handle om en person i livet ditt som er uvanlig kløktig eller listig, eller om en side av deg selv som trives best i utkanten — uavhengig, tilpasningsdyktig og alltid med et triks i bakhånd. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/), eller les vår guide om [gjentakende drømmer](/guider/gjentakende-drommer/) hvis reven har oppsøkt deg flere netter på rad.

@@ -18,12 +18,12 @@ author: 'default'
 
 ## Hva betyr det å drømme om hai?
 
-Haien er kanskje det mest fryktinngytende dyret i den kollektive menneskelige fantasien — en perfekt jeger som glir usynlig under overflaten i [havet](/drommer/hav/) inntil det er for sent. I drømmer bærer haien med seg denne kvaliteten av skjult fare og kald effektivitet. Å drømme om hai er sjelden en rolig opplevelse.
+Hva er det egentlig du er redd for når en finne bryter overflaten i drømmen, lenge før du ser resten av dyret? Haien glir usynlig gjennom [havet](/drommer/hav/) som en nesten perfekt jeger, og i drømmer bærer den med seg denne kvaliteten av skjult fare og kald effektivitet. Å drømme om hai er sjelden en rolig opplevelse.
 
 Men haien er også et symbol på overlevelsesevne — haien har eksistert nesten uforandret i 450 millioner år.
 
 
-## De vanligste tolkningene
+## Det som lurer rett under overflaten
 
 ### Skjulte trusler og ting under overflaten
 
@@ -38,18 +38,18 @@ Haien symboliserer tidvis en spesifikk person — på lignende vis som [slangen]
 Å svømme trygt ved siden av en hai, eller å ikke være redd for den, tolkes annerledes: du er komfortabel med dype, mørke følelser og navigerer dem med selvtillit — i motsetning til den som drømmer om å [drukne](/drommer/drukne/). Du er ikke lett å skremme.
 
 
-## Hva påvirker tolkningen?
+## Angrep, sirkling eller ro i vannet?
 
-**Hvis haien angriper deg:**
+**Angrepet som treffer deg:**
 Noe du frykter treffer deg. En konfrontasjon du ikke er forberedt på.
 
-**Hvis haien sirkler rundt deg:**
+**Sirklingen som strammer seg til:**
 Noe ubehagelig nærmer seg gradvis. En trussel som bygger seg opp.
 
-**Hvis du ser haien på avstand:**
+**Silhuetten i det fjerne:**
 Du er klar over en risiko, men har fortsatt tid og mulighet til å handle.
 
-**Hvis haien er fredelig:**
+**Den fredelige haien:**
 Dine egne mørke instinkter er under kontroll. Du er i balanse med de dypere sidene av deg selv.
 
 
@@ -60,12 +60,3 @@ En hai i drømmen kan vekke en helt urgammel form for frykt — følelsen av at 
 Andre ganger handler drømmen mer om en person eller en situasjon i hverdagen. Å kalle noen en "hai" er ikke tilfeldig — det kan tolkes som at drømmen advarer om en hensynsløs eller rovgrisk person, eller en situasjon som føles som den vil "spise deg opp" hvis du ikke er forsiktig, for eksempel et tøft arbeidsmiljø eller en relasjon i ubalanse. Haien kan også speile ditt eget fortrengte sinne — en kraft i deg som plutselig stiger til overflaten.
 
 Det er verdt å nevne at haien ikke alltid har vært et fryktsymbol. I polynesisk og hawaiisk tradisjon ble haier ('aumākua) ofte sett som beskyttende åndelige forfedre som voktet familien fra havet. Kanskje kan drømmen, sett i et slikt lys, også tolkes som at noe sterkt og kraftfullt vokter over deg — selv om det først ser skremmende ut.
-
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om hai **flere ganger**? Da kan vår guide om [gjentakende drømmer](/guider/gjentakende-drommer/) være nyttig.

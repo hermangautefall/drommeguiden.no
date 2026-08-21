@@ -18,12 +18,12 @@ author: 'default'
 
 ## Hva betyr det å drømme om pingvin?
 
-Pingvinen er et av de mest særegne dyrene på jorden — en fugl som ikke kan fly, men som er en mester i [havet](/drommer/hav/). Den trives i noen av jordens kaldeste omgivelser og overlever takket være fellesskap og nærhet. I drømmeverdenen bærer pingvinen med seg disse kvalitetene: tilpasningsevne, lojalitet og en viss galgenhumor overfor det absurde.
+Tenk deg en fugl som har gitt slipp på flyvingen for i stedet å bli en mester under vann — det er dette paradokset pingvinen bærer med seg når den dukker opp i drømmer om [havet](/drommer/hav/). Den trives i noen av jordens kaldeste omgivelser og overlever takket være fellesskap og nærhet. I drømmeverdenen bærer pingvinen med seg disse kvalitetene: tilpasningsevne, lojalitet og en viss galgenhumor overfor det absurde.
 
 Å drømme om pingvin er sjelden en skremmende drøm — men den er gjerne meningsfull.
 
 
-## De vanligste tolkningene
+## Kulde, kolonier og det å skille seg ut
 
 ### Tilpasningsevne i kalde omgivelser
 
@@ -38,30 +38,11 @@ Pingviner lever i store kolonier og er kjent for sin parvise lojalitet. Å drøm
 En pingvin er en fugl som ikke kan [fly](/drommer/flyging/) — noe som gjør den unik, men også annerledes. Drømmen kan speile en følelse av å være litt på siden av normen, å ikke passe helt inn, eller å ha evner som ikke verdsettes i det miljøet du befinner deg i.
 
 
-## Hva påvirker tolkningen?
+## Alene, i flokk, eller i sitt rette element
 
-**Hvis pingvinen er alene:**
-Ensomhet eller utenforskap. Et ønske om tilhørighet.
-
-**Hvis det er mange pingviner:**
-Fellesskap, trygghet og samhold. Du er del av noe stabilt.
-
-**Hvis pingvinen er morsom eller klønete:**
-En påminnelse om å ikke ta livet for alvorlig. Lett og leken energi.
-
-**Hvis pingvinen svømmer elegant:**
-Du er i ditt rette element — kanskje ikke der andre forventer, men perfekt der du er.
+Var pingvinen alene i drømmen, kan det peke mot ensomhet eller utenforskap — et ønske om tilhørighet. Var det derimot mange pingviner sammen, handler drømmen gjerne om fellesskap, trygghet og samhold; du er del av noe stabilt. Var pingvinen morsom eller klønete, er det ofte en påminnelse om å ikke ta livet for alvorlig — en lett og leken energi. Svømte pingvinen elegant gjennom vannet, er du trolig i ditt rette element — kanskje ikke der andre forventer det, men akkurat der du hører hjemme.
 
 
-## Psykologiske og kulturelle perspektiver
+## Et symbol uten gammel mytologi
 
-Pingvinen har ingen gammel mytologisk tradisjon — den ble ikke kjent for europeere før på 1400-tallet. Men i moderne populærkultur har den blitt et symbol på det sjarmerende-keitete, det lojale og det overraskende sterke. Psykologisk sett kan pingvinen representere de sidene av oss som ikke passer inn i standardmalen, men som likevel finner sin vei.
-
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om pingvin **flere ganger**? Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).
+Pingvinen har ingen gammel mytologisk tradisjon — den ble ikke kjent for europeere før på 1400-tallet. Men i moderne populærkultur har den blitt et symbol på det sjarmerende-keitete, det lojale og det overraskende sterke. Psykologisk sett kan pingvinen representere de sidene av oss som ikke passer inn i standardmalen, men som likevel finner sin vei. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/) hvis du vil se hvordan andre dyr speiler lignende temaer.

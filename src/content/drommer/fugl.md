@@ -18,11 +18,11 @@ author: 'default'
 
 ## Hva betyr det å drømme om fugl?
 
-Fugler er ett av de mest universalt ladet symbolene i menneskelig drømmeverden — og de er blant de vanligste dyrene vi drømmer om. Gjennom alle kulturer og tidsepoker har fugler representert sjelen, friheten, budbringerne mellom verdener, og evnen til å heve seg over det jordlige.
+Hvorfor er det nesten alltid noe lett over en drøm der en fugl dukker opp — selv når resten av natten var tung? Gjennom alle kulturer og tidsepoker har fugler representert sjelen, friheten, budbringerne mellom verdener, og evnen til å heve seg over det jordlige. De er også blant de aller vanligste dyrene vi drømmer om.
 
 En fugl i drøm er sjelden tilfeldig. Den bærer på noe.
 
-## De vanligste tolkningene
+## Frihet, budskap og sjelen i bevegelse
 
 ### Frihet og lengsel etter å heve seg
 
@@ -42,27 +42,27 @@ I mange tradisjoner er fugler selve sjelens bilde — det lette, det flyktige, d
 
 En fugl som flyr fri — ut av et bur, opp fra jord, mot horisonten — er ett av drømmenes sterkeste bilder på frigjøring og ny start. Noe holdes ikke lenger tilbake.
 
-## Hva påvirker tolkningen?
+## Arten, fargen og hva fuglen gjorde
 
 **Fuglens art:**
 Ulike fugler bærer ulik symbolikk. Ørn: kraft og perspektiv. Ravn/kråke: visdom og det skjulte. Due: fred og forsoning. Svane: skjønnhet og transformasjon. Spurv: det hverdagslige og beskjedne. Se egne symbolsider for spesifikke fugler, som [ørn](/drommer/orn/) og [papegøye](/drommer/papegoy/).
 
-**Hvis fuglen sang:**
+**Sangen i luften:**
 Et budskap eller en glede — noe kommuniserer til deg gjennom skjønnhet og klang.
 
-**Hvis fuglen var i bur:**
+**Fuglen bak stengene:**
 En frihet som er begrenset — noe i deg eller i livet ditt er holdt tilbake.
 
-**Hvis fuglen var skadet:**
+**Den skadde vingen:**
 En sårbar side av deg selv — noe lett og fritt er blitt såret.
 
-**Hvis fuglen fløy mot deg:**
+**Flukten rett mot deg:**
 Et budskap søker deg — vær åpen og oppmerksom.
 
-**Hvis det var mange fugler:**
+**Et helt kor av fugler:**
 Et kor av impulser, muligheter eller budskaper — noe er ladet og aktivt.
 
-**Hvis fuglen var svart:**
+**Den svarte fjærdrakten:**
 Se [kråke](/drommer/krage/)-siden — svarte fugler bærer sin egen, rikere symbolikk.
 
 ## Sjel, frihet og budskap
@@ -72,11 +72,3 @@ På tvers av kulturer har fuglen lenge vært et bilde på sjelen, ånden og det 
 I mange tradisjoner har fugler også vært budbringere — varsler om nytt, tegn på at noe er på vei. Drømmen kan derfor handle om tanker, ideer eller håp som er i bevegelse, som "letter" og finner en ny form. En fugl som flyr bort kan på samme måte tolkes som noe du må gi slipp på, eller en mulighet som glipper.
 
 Det er ofte verdt å legge merke til hvilken fugl det er, siden ulike fugler bærer ulike assosiasjoner: en due kan kjennes som fred og forsoning, en ugle kan tolkes som visdom — men også som et varsel — mens en ravn ofte bærer noe mer mystisk og tankefullt med seg. Se også [flyging](/drommer/flyging/) som et beslektet drømmesymbol.
-
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om fugl **flere ganger**?
