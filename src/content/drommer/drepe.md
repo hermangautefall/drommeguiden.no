@@ -64,3 +64,9 @@ Det er viktig å si tydelig: å drømme om å drepe gjenspeiler nesten aldri et 
 Den vanligste lesningen handler om å "ta livet av" noe i overført betydning: å avslutte en vane, legge en rolle på hylla, gjøre slutt på en relasjon, eller la en gammel versjon av deg selv få dø for at noe nytt skal få plass. Offeret i drømmen representerer ofte nettopp det du, dypest sett, ønsker å bli kvitt — ikke en faktisk person.
 
 For andre kan drømmen være et trygt utløp for sinne eller frustrasjon som ikke får plass i våken tilstand, eller den kan handle om å gjenvinne kontroll og makt i en situasjon der du føler deg avmektig. Skyldfølelsen som ofte følger drømmen er nesten alltid et tegn på at du er et omtenksomt menneske — ikke et bevis på noe annet.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen: det vi ikke vil kjennes ved i oss selv, og som drømmen kan gi voldsomme former.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir undertrykt sinne det sterkeste bildet den har.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slike drømmer nesten aldri handler om faktisk vold.

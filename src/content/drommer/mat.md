@@ -69,3 +69,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om mat **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — måltid og sult som drømmemotiv, lest ut fra hva som ble spist og med hvem.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — hvor ofte mat og måltider faktisk forekommer i drømmer.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor sult i drømmen sjelden handler om mat.

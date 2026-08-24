@@ -65,3 +65,9 @@ Hesten kan tolkes som et bilde på en kraftfull livsenergi i deg — pågangsmot
 På tvers av kulturer har hesten lenge vært knyttet til frihet og adel — et dyr som bærer mennesket lenger og raskere enn det kan komme på egen hånd. Drømmen kan derfor handle om en lengsel etter å bevege seg friere i livet, enten det er en reise, en ny mulighet eller bare et ønske om mer albuerom.
 
 Hest-symbolet rommer også ideen om partnerskap. Forholdet mellom rytter og hest bygger på tillit i begge retninger, og drømmen kan derfor speile en relasjon i livet ditt — eller forholdet til deg selv, mellom den delen som vil styre og den delen som vil galoppere fritt. I mytologien finner vi også den bevingede Pegasus, et bilde på inspirasjon og fantasiens frie flukt, og hester som bærer mellom verdener går igjen i fortellinger fra mange kulturer.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — hesten som bilde på instinktiv kraft: noe som bærer deg, men som du ikke fullt ut styrer.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på dyr i drømmer og hvilke situasjoner de opptrer i.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor hestens temperament speiler drømmerens eget.

@@ -73,3 +73,9 @@ I norrøn tradisjon var ære (dýrð) den høyeste verdien — ikke rikdom eller
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe du arbeider mot som trenger bekreftelse?
 - Har du drømt om **å vinne eller lykkes** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — ønskeoppfyllelsen: drømmen som gir deg anerkjennelsen du savner.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — drømmens kompenserende funksjon, som veier opp for det du ikke får i våken tilstand.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at seieren i drømmen sier mer om behovet enn om utfallet.

@@ -89,3 +89,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Har du drømt om skole **flere ganger**?
 
 Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — eksamensdrømmen som klassisk motiv, og hvorfor den melder seg lenge etter at skolen er ferdig.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — hvor utbredt skolemotivet er på tvers av aldersgrupper.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at følelsen av å bli vurdert er det som gjentar seg, ikke skolen selv.

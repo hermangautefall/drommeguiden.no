@@ -73,3 +73,9 @@ Slike drømmer dukker ofte opp i kriser, og bringer da gjerne trøst, ærefrykt 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — søker du noe som er større enn det hverdaglige?
 - Har du drømt om **det guddommelige** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — møtet med det numinøse og Selvet som arketyp, og hvorfor slike drømmer oppleves som større enn drømmeren.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — hvordan gudedrømmer ble lest i antikken, lenge før psykologien fantes.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at drømmens religiøse bilder følger drømmerens egen bakgrunn.

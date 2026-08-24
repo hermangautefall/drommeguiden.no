@@ -72,3 +72,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om sykdom **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — sykdom og kropp som drømmemotiv i antikken, og hvordan det ble lest som varsel.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at bekymring for helse følger med inn i drømmen uten å varsle noe.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — angstdrømmer og hvordan uro finner en kroppslig form.

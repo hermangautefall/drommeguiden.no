@@ -75,3 +75,9 @@ Bjørnen kan tolkes som et bilde på rå styrke som veksler med dyp ro. Tenk på
 Bjørnen bærer også på en sterk beskyttende, nesten maternal kraft. Tenk på «mammabjørnen» som forsvarer ungene sine uten å tenke seg om — drømmen kan speile hvor langt du selv er villig til å gå for å verne om noe eller noen du er glad i, eller et behov for å selv bli tatt vare på med samme intensitet.
 
 Hvis bjørnen i drømmen oppleves som truende, kan den tolkes som et overveldende problem, en mektig person i livet ditt, eller et sinne — ditt eget eller andres — som du på et tidspunkt må møte. I flere urfolkstradisjoner på den nordlige halvkule, blant både nordamerikanske og sibirske folk, har bjørnen blitt sett på som en mektig ånd og healer, et vesen som forbinder menneskeverdenen med noe større. Også på stjernehimmelen lever denne æren videre, i stjernebildet som de gamle grekerne knyttet til Kallisto — Den store bjørnen.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — dyret som bilde på instinktkraft, og bjørnen som både beskytter og trussel.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor ofte ville dyr opptrer i drømmer, og i hvilke situasjoner.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at kraften i drømmen ofte handler om din egen.

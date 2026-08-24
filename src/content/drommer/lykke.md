@@ -68,3 +68,9 @@ Aristoteles kalte dette eudaimonia — det gode livet, ikke det lykkelige livet 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det rom for mer glede?
 - Har du drømt om **ren glede eller lykke** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — ønskeoppfyllelsen: drømmen som gir deg det du savner.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — drømmens kompenserende funksjon, som veier opp for det våkenlivet mangler.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor sterk glede i drømmen sjelden er tilfeldig.

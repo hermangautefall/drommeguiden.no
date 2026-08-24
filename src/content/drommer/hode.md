@@ -82,3 +82,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om hodet **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdeler i drømmer og hvordan hodet ble knyttet til status og forstand.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — hodet som bilde på identitet og det bevisste jeget.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor overbelastning gjerne finner en kroppslig form i drømmen.

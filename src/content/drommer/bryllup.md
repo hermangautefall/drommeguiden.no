@@ -99,3 +99,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Har du drømt om bryllup **flere ganger**?
 
 Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — foreningen av motsetninger som indre bilde, ikke bare som seremoni.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — ekteskap og sosial status som drømmemotiv i antikken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor bryllupsdrømmer melder seg i perioder med store valg.

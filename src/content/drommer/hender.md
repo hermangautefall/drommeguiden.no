@@ -91,3 +91,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Har du drømt om hender **flere ganger**?
 
 Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdeler i drømmer, og hendene som bilde på arbeid og evne.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — hendene som uttrykk for handlekraft og det å gripe fatt i noe.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor hendenes tilstand ofte følger din egen opplevelse av kontroll.

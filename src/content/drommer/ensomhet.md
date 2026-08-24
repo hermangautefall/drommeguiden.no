@@ -79,3 +79,7 @@ I norrøn kultur var utestenging fra fellesskapet — å bli gjort til fredløs,
 
 > 💡 **Les også:** [Depresjon og søvn](/sovn/depresjon-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor savn i våken tilstand følger med inn i drømmene.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir de tyngste følelsene de sterkeste bildene.

@@ -70,3 +70,8 @@ Det er interessant at norrøn kultur hadde et meget konkret og sosialt definert 
 
 > 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — forlegenhetsdrømmene, som han regnet blant de mest utbredte av alle.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan skam og eksponering får sine egne, gjenkjennelige drømmebilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor skammen i drømmen ofte er eldre enn situasjonen den viser.

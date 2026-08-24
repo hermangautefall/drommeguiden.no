@@ -65,3 +65,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om jord **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — jorden som moderbilde og som det grunnleggende vi står på.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — jord og grøde som drømmemotiv i et samfunn der avlingen avgjorde alt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at det jordnære i drømmen ofte handler om behov for fotfeste.

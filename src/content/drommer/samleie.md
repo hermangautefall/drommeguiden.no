@@ -80,3 +80,8 @@ I de fleste kulturer har seksuelle drømmer vært tolket som tegn på fruktbarhe
 
 > 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — seksualitetens plass i drømmetydningen, og hvorfor Freuds lesning både er utgangspunktet og det mest omstridte.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — foreningen av motsetninger: det seksuelle som bilde på indre integrasjon.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor stor andel av drømmer som faktisk har seksuelt innhold.

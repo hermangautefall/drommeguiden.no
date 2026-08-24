@@ -72,3 +72,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om å miste noe **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — angstdrømmer og det som forsvinner, som uttrykk for noe uavklart.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — tap som drømmemotiv, et av de eldste vi kjenner.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at følelsen av å miste oversikten speiler noe du bærer i våken tilstand.

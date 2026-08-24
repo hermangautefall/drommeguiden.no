@@ -92,3 +92,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Har du drømt om et mørkt rom **flere ganger**?
 
 Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det ubevisste som et rom man ikke ser inn i, og skyggen som holder til der.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir frykt de sterkeste bildene den har.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at det uvisse i drømmen speiler noe uavklart i våken tilstand.

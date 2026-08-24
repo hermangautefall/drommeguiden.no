@@ -73,3 +73,9 @@ Det er interessant at norrøn kultur hadde et mer nyansert syn på tap enn mange
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe du er redd for å mislykkes med?
 - Har du drømt om **å tape eller mislykkes** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — angstdrømmen om å komme til kort, og forlegenheten som følger den.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — nederlag og status som drømmemotiv i antikken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at frykten for å ikke strekke til følger med inn i natten.
