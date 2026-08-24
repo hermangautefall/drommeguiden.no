@@ -21,7 +21,7 @@ author: 'default'
 
 Fönstret är inte en [dörr](/sv/drommar/dorr/) — du kan inte gå igenom det. Men det ger dig något dörren inte ger: utsikt. Möjligheten att se utan att delta, att iaktta utan att exponera dig. I drömvärlden är fönstret knutet till perspektiv, till att se klart, och till gränsen mellan din inre värld och världen utanför.
 
-## De vanligaste tolkningarna
+## Utsikten och avståndet
 
 ### Ditt perspektiv och din förmåga att se
 
@@ -35,7 +35,7 @@ Fönstret ger dig utsikt till något du inte är inne i — och drömmens fönst
 
 [Huset](/sv/drommar/hus/) är jaget — och fönstret är där insidan kan se utåt och utsidan kan se in. Drömmens fönster handlar om denna gräns: vad släpper du in, vad håller du ute, och hur ser du på världen från där du är?
 
-## Vad påverkar tolkningen?
+## Om fönstret var öppet eller stängt
 
 **Om fönstret var klart:**
 Klar insikt och gott perspektiv. Du ser situationen som den är.
@@ -55,7 +55,7 @@ Du öppnar upp för något — ny luft, ny information, ny kontakt med världen.
 **Om du satt vid fönstret och iakttog:**
 En observerande och reflekterande fas — du ser på livet från sidan.
 
-## Psykologiska och kulturella perspektiv
+## Fönstret mellan inne och ute
 
 Fönstret är i arkitektur- och rumspsykologi ett av de mest psykologiskt laddade elementen i ett hem — det är [ljuset](/sv/drommar/ljus/) som kommer in, det är utsikten, det är kontakten med världen. Hem utan fönster är fängelser; hem med stora fönster är frihet. I drömmarna bär fönstret på denna symboliska tyngd.
 

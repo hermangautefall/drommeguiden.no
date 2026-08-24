@@ -109,3 +109,7 @@
 /sv/cookies         /sv/cookies/         301
 /sv/kontakt         /sv/kontakt/         301
 /sv/om-oss          /sv/om-oss/          301
+
+# Fjernede naer-duplikater (SV) — slaatt sammen med den kanoniske siden
+/sv/drommar/far-djur/             /sv/drommar/far/                  301
+/sv/drommar/forlora-baby/         /sv/drommar/forlora-barn/         301

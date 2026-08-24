@@ -24,7 +24,7 @@ Huset är en av de rikaste och mest mångtydiga symbolerna i drömvärlden. De f
 
 ---
 
-## De vanligaste tolkningarna
+## Källaren, vinden och rummen däremellan
 
 ### Huset som bild av jaget
 
@@ -52,7 +52,7 @@ Omvänt kan drömmar om att renovera ett hus, måla väggar eller städa rum var
 
 ---
 
-## Vad påverkar tolkningen?
+## När huset förfaller — och när det rustas upp
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

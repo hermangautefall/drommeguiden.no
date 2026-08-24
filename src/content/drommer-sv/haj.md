@@ -24,7 +24,7 @@ Hajen är kanske det mest fruktinjagande djuret i den kollektiva mänskliga fant
 Men hajen är också en symbol för överlevnadsförmåga — hajen har existerat nästan oförändrad i 450 miljoner år.
 
 
-## De vanligaste tolkningarna
+## Det som lurar strax under ytan
 
 ### Dolda hot och ting under ytan
 
@@ -39,7 +39,7 @@ Hajen symboliserar ibland en specifik person — på liknande sätt som [ormen](
 Att simma tryggt bredvid en haj, eller att inte vara rädd för den, tolkas annorlunda: du är bekväm med djupa, mörka känslor och navigerar dem med självförtroende — i motsats till den som drömmer om att [drunkna](/sv/drommar/drunkna/). Du är inte lätt att skrämma.
 
 
-## Vad påverkar tolkningen?
+## Anfall, cirklande eller lugn i vattnet?
 
 **Om hajen attackerar dig:**
 Något du fruktar träffar dig. En konfrontation du inte är förberedd på.

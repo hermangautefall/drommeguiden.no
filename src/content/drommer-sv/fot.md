@@ -21,7 +21,7 @@ author: 'default'
 
 Fötter är det som bär dig genom livet. De är kontaktpunkten mellan dig och marken — mellan det inre och det jordiska, mellan den du är och platsen du är. I drömmarna speglar de detta: grunden du står på, riktningen du rör dig i, och förmågan att bära dig själv framåt.
 
-## De vanligaste tolkningarna
+## Förankring, riktning och självständighet
 
 ### Grund och förankring
 
@@ -45,7 +45,7 @@ Drömmens svaga eller skadade fot kan då spegla en period där du är mer beroe
 
 I religiösa och kulturella traditioner är det att tvätta andras fötter en av de kraftigaste symbolerna för ödmjukhet och tjänande — från Jesus som tvättar lärjungarnas fötter till den muslimska rituella tvätten. Att drömma om att tvätta eller bli tvättad på fötterna kan spegla detta: en djup tjänstvillighet, eller en längtan att bli omhändertagen på det mest grundläggande.
 
-## Vad påverkar tolkningen?
+## Fötternas skick
 
 **Om fötterna var starka och säkra:**
 Du är väl förankrad. Din grund håller.

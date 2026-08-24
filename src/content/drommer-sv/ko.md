@@ -21,7 +21,7 @@ author: 'default'
 
 Kon är ett av de äldsta och mest universellt vördade djuren i människans kultur — från den heliga kon i Indien till den nordiska urdjurskon Auðumbla som gav mjölk för att nära gudarna. I drömvärlden representerar den näring, överflöd, tålamod och den långsamma styrkan hos något som ger utan att kräva.
 
-## De vanligaste tolkningarna
+## Näring, överflöd och lugnet som inte har bråttom
 
 ### Näring och det som ger substans
 
@@ -35,7 +35,7 @@ Kon är i många kulturer kopplad till fruktsamhet och överflöd — det som ge
 
 Kon är tålmodig och jordnära — den springer inte, den hastar inte. Den finns där, lugn och stadig. Drömmens ko kan spegla ett behov av, eller en förmåga till, just detta: att sakta ner, att vara närvarande, att låta saker ta den tid de behöver.
 
-## Vad påverkar tolkningen?
+## Från frisk och mjölkrik till tom på krafter
 
 **Om kon var frisk och full av mjölk:**
 Överflöd, näring och generositet finns närvarande i ditt liv.
@@ -52,7 +52,7 @@ Rikedom, överflöd och många resurser.
 **Om du mjölkade kon:**
 Du tar aktivt till dig det som finns tillgängligt — du skördar från det som ger.
 
-## Psykologiska och kulturella perspektiv
+## Urkon och det som när
 
 Den nordiska urdjurskon Auðumbla är en av de mest säregna bilderna i nordisk kosmologi — hon stod i kaosens is och slickade fram gudarna ur isen medan hon gav mjölk för att nära jätten Ymer. Kon finns där från begynnelsen, hon ger näring till det som blir till. I nordisk tradition är kon inte ett banalt husdjur — hon är skapelsens första moder.
 

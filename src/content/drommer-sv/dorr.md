@@ -45,7 +45,7 @@ I drömsymboliken är [huset](/sv/drommar/hus/) självet — och dörren är då
 
 Carl Jung var intresserad av dörren som symbol för psykets gränser — särskilt gränsen mellan det medvetna och det omedvetna. En dörr som öppnar sig av sig själv, en dörr det knackar på från insidan — dessa varianter kan representera något från det omedvetna som vill komma fram i medvetandet. Något du inte visste fanns där, men som är redo att visa sig.
 
-### Vad påverkar tolkningen?
+### Öppen, stängd eller låst — och vem som stod vid den
 
 **Om dörren var öppen:**
 En möjlighet är tillgänglig. Något bjuder in dig. Frågan är om du vågar gå igenom.

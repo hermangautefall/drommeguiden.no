@@ -23,7 +23,7 @@ Grannen är den närmaste främlingen — tillräckligt nära för att se ditt d
 
 Drömmar om grannen dyker ofta upp i perioder med frågor om gränser, gemenskap eller tillhörighet — eller då något nära dig kräver en uppmärksamhet du ännu inte gett det.
 
-## De vanligaste tolkningarna
+## Den nära gemenskapen och gränserna
 
 ### Den nära gemenskapen
 
@@ -45,7 +45,7 @@ Grannen lever ett liv som är lite likt och lite olikt ditt eget — så nära a
 
 Grannen vet vad du gör, och du vet vad grannen gör. Det är det oskrivna sociala kontraktet. Drömmens granne kan därför representera det normativa — "vad tror folk om mig", "vad är passande", "hur ser detta ut för andra". Dessa drömmar blir särskilt starka i perioder då du gör val som bryter mot det förväntade.
 
-## Vad påverkar tolkningen?
+## Hur grannen betedde sig
 
 **Om grannen var vänlig och hjälpsam:**
 En trygg och god närmiljö — gemenskap i vardagen.

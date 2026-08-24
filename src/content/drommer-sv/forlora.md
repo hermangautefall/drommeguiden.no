@@ -21,7 +21,7 @@ author: 'default'
 
 Drömmens förlust — att komma sist, misslyckas i tävlingen, bli besegrad eller inte räcka till — är ett av de vanligaste ångestscenarierna i drömvärlden. Det är obehagligt, men det är också rikt på information om vad som är aktivt i dig.
 
-## De vanligaste tolkningarna
+## Rädslan för att inte räcka till
 
 ### Rädsla att misslyckas med något viktigt
 
@@ -45,7 +45,7 @@ Drömmens förlust kan då spegla en livssituation där du jämför dig med fel 
 
 Har du nyligen förlorat något — en tävling, en möjlighet, ett förhållande, ett jobb? Drömmens förlust kan då vara direkt bearbetning av en verklig upplevelse. Hjärnan återupplever och integrerar det som hände.
 
-## Vad påverkar tolkningen?
+## Vad du förlorade, och för vem
 
 **Om du förlorade mot någon du känner:**
 Jämförelse och tävling med en specifik person — vad har de som du vill ha, och är den jämförelsen rättvis?
@@ -62,7 +62,7 @@ Du är på väg att förhålla dig mer moget till egna gränser och livets oför
 **Om förlusten var katastrofal:**
 Perfektionism och överdrivet konsekvenstänkande — en förlust är inte slutet, även om det känns så.
 
-## Psykologiska och kulturella perspektiv
+## Nederlaget som lärdom
 
 Prestationsmotiv — önskan att göra det bra och rädslan för att misslyckas — är ett av de mest studerade psykologiska fenomenen sedan David McClelland klassificerade det på 1950-talet. Drömmens förlust är en direkt manifestation av det McClelland kallade "fear of failure" — en av de två sidorna av prestationsbehovet.
 

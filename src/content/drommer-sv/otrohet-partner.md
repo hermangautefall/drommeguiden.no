@@ -27,7 +27,7 @@ Du vaknar arg eller sårad. Kanske är du så övertygad om att det var på rikt
 
 Drömmar om partnerns [otrohet](/sv/drommar/otrohet/) hör till de mest frekvent rapporterade i parrelationer. Och de säger nästan aldrig något om vad partnern faktiskt gör. De säger något om dig.
 
-## De vanligaste tolkningarna
+## Otryggheten som gör sig påmind
 
 ### Otrygghet och rädsla för att inte räcka till
 
@@ -51,7 +51,7 @@ Detta är inte en anklagelse. Det är normalt att ha tankar och känslor för an
 
 Har du eller partnern varit otrogna tidigare? Har du upplevt otrohet i tidigare förhållanden? Drömmarna kan vara spår av dessa erfarenheter — emotionella minnen som aktiveras av triggers du kanske inte medvetet lade märke till.
 
-## Vad påverkar tolkningen?
+## Vad som faktiskt hände i drömmen
 
 **Om drömmen kändes extremt verklig:**
 Mycket vanligt — hjärnan är bra på att producera övertygande emotionella scenarier. Det gör dem inte sanna.
@@ -68,7 +68,7 @@ Då kan drömmens innehåll vara mer direkt relevant — inte som bevis, utan so
 **Om partnern var den som berättade om otrohetsdröm:**
 En person som berättar om egna drömmar där de är otrogna är sällan på väg ut — de är troligen präglade av samma otrygghet som du.
 
-## Psykologiska och kulturella perspektiv
+## Projektion och tillit
 
 Forskaren Kelly Bulkeley dokumenterade att otrohetsmotiv hör till de vanligast förekommande i parrelationers drömmar globalt — och att korrelationen med faktisk otrohet är svag. Det är otryggheten, inte misstanken, som driver dem.
 

@@ -23,7 +23,7 @@ Eken är inte vilket [träd](/sv/drommar/trad/) som helst. Den är Europas helig
 
 I drömmarna bär den allt detta.
 
-## De vanligaste tolkningarna
+## Rotfäste, tålamod och skydd
 
 ### Rotfäste och inre styrka
 
@@ -43,7 +43,7 @@ Ekens breda krona ger skugga och lä. I många kulturer har eken varit samlingsp
 
 I fornnordisk tradition är eken Tors träd — associerat med blixt, kraft och fruktbarhet. Det är inte en tillfällighet: blixten slår oftare ner i ek än i andra träd, och de gamla såg detta som ett tecken på gudomlig kontakt. Att drömma om en ek i storm — med blixt — är en av de kraftfullaste bilderna på att något stort och transformerande är på gång.
 
-## Vad påverkar tolkningen?
+## Ekens skick och ålder
 
 **Om eken var stor och frisk:** Du är väl förankrad. Den du är vilar på en solid grund.
 
@@ -55,7 +55,7 @@ I fornnordisk tradition är eken Tors träd — associerat med blixt, kraft och 
 
 **Om du satt i dess skugga:** Du söker skydd och ro. Något ger dig lä.
 
-## Psykologiska och kulturella perspektiv
+## Trädet som världsbild
 
 Druidorden — de keltiska prästerna — tog sitt namn från eken (dru = ek på fornirländska). Tingsplatsen i Skandinavien lades gärna under en ek. Oraklet i Dodona i antikens Grekland var en helig ek där Zeus vilja tolkades genom bladens prassel.
 

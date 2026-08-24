@@ -23,7 +23,7 @@ Nyckeln är en av de äldsta och mest universella symbolerna i mänsklig kultur 
 
 Dessa drömmar är sällan slumpmässiga — de pekar mot något konkret i ditt liv som handlar om tillgång, möjlighet eller kontroll.
 
-## De vanligaste tolkningarna
+## Att finna den, att tappa den, att låsa in något
 
 ### En lösning är inom räckhåll
 
@@ -37,7 +37,7 @@ Att leta efter nyckeln, eller att ha fel nyckel — dessa drömmar speglar en si
 
 Nycklar handlar om kontroll — över [hemmet](/sv/drommar/hus/) ditt, över ditt eget liv, över vem som släpps in och vem som hålls ute. Att [förlora](/sv/drommar/forlora-nagot/) nycklarna kan spegla en rädsla för att förlora denna kontroll. Att ha många nycklar kan spegla många ansvarsområden.
 
-## Vad påverkar tolkningen?
+## Nyckelns storlek, mängd och vad den öppnade
 
 **Om du hittade nyckeln:**
 En lösning, en möjlighet eller en väg framåt är tillgänglig. Ett positivt tecken.

@@ -23,7 +23,7 @@ Farmor och mormor har en särskild plats i drömsymboliken — de är generation
 
 Drömmar om farmodern dyker ofta upp i perioder då något i ditt liv behöver ett större perspektiv, då det att vara förbunden med dåtiden är viktigt, eller då du letar efter en form av ovillkorlig omsorg som inte kräver något tillbaka.
 
-## De vanligaste tolkningarna
+## Visdomen, rötterna och tryggheten
 
 ### Visdom och erfarenhet
 
@@ -45,7 +45,7 @@ I djuppsykologin kan farmodern stå för något arketypiskt — den "visa gamla 
 
 Farmödrar dör ofta före resten av familjen — och blir därför ofta de första "avlidna" figurer som dyker upp i drömmarna. Om farmodern är [avliden](/sv/drommar/avliden-person/) men levande i drömmen, beskriver de flesta upplevelsen som särskilt verklig och tröstande. Dessa drömmar kan komma i perioder med sorg, stora livsbeslut eller då något i dig ber om bekräftelse från något bortom det vardagliga.
 
-## Vad påverkar tolkningen?
+## Om hon levde eller var borta
 
 **Om farmor var glad och frisk:**
 Trygghet, visdom och värme är tillgängligt för dig. Ett gott tecken.

@@ -27,7 +27,7 @@ Drömmen om en flygkrasch är en av de mest intensiva och verklighetsnära ånge
 
 Låt oss börja med det viktigaste: att drömma om en flygkrasch är inte ett varsel om att något faktiskt kommer att hända. Det är en av de vanligaste ångestdrömmarna som finns, och den handlar nästan alltid om något helt annat än [att flyga](/sv/drommar/flyga/).
 
-## De vanligaste tolkningarna
+## När något stort sviktar
 
 ### Kontrollförlust över något viktigt
 
@@ -51,7 +51,7 @@ Intressant nog rapporterar många som är genuint rädda för att flyga att de s
 
 Flyget tar dig från en plats till en annan — och i drömsymboliken är resor ofta bilder för övergångar i livet. Att drömma om en flygkrasch mitt i en sådan övergång kan spegla en rädsla för att övergången ska misslyckas — att du inte kommer fram, att något går snett på vägen.
 
-## Vad påverkar tolkningen?
+## Om du var ombord eller såg på
 
 **Om du var pilot och kraschade:**
 Du är ansvarig för något som misslyckas — inte bara passagerare, utan den som har kontrollen. Ett större ansvar och en motsvarande större känsla av svek.
@@ -71,7 +71,7 @@ Du är vittne till något som kollapsar — i andras liv, eller något du har av
 **Om flyget aldrig nådde marken:**
 Ångesten finns där, men katastrofen inträffar inte. Rädslan är större än den faktiska faran.
 
-## Psykologiska och kulturella perspektiv
+## Flygkraschen som bild för ambition
 
 Flygdrömmar är fascinerande eftersom de kombinerar två av de starkaste arketypiska drömteman: flygning (frihet, ambition, det upphöjda perspektivet) och [fall](/sv/drommar/falla/) (kontrollförlust, sammanbrott, återkomst till det jordiska). En flygkrasch är på sätt och vis den mest dramatiska kombinationen av dessa två — ambitionen som kollapsar, friheten som bryts.
 

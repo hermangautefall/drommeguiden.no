@@ -25,7 +25,7 @@ relaterte_sovn:
 
 Drömmens ensamhet är en av de mest emotionellt precisa drömmarna som finns — den träffar precis där du är sårbar. Den efterlämnar gärna en tung, klar känsla av att något saknas. Och den är en av psykets tydligaste signaler.
 
-## De vanligaste tolkningarna
+## Saknaden efter äkta kontakt
 
 ### Ett ouppfyllt behov av äkta samhörighet
 
@@ -51,7 +51,7 @@ Det finns en form av ensamhet som är universell och oundviklig: den existentiel
 
 Drömmens ensamhet kan ibland beröra detta djupare lager — inte som ett problem som ska lösas, utan som ett grundvillkor att möta med mod och öppenhet.
 
-## Vad påverkar tolkningen?
+## Var du var ensam, och hur det kändes
 
 **Om ensamheten var smärtsam:** Ett aktivt och pressat behov av närhet och samhörighet.
 
@@ -63,7 +63,7 @@ Drömmens ensamhet kan ibland beröra detta djupare lager — inte som ett probl
 
 **Om ingen lade märke till dig:** En upplevelse av osynlighet — att inte betyda något för de runt dig.
 
-## Psykologiska och kulturella perspektiv
+## Ensamhet som hälsofaktor
 
 Forskaren John Cacioppo dokumenterade att ensamhet är en av de kraftigaste hälsohoten vi känner — mer skadlig än fetma och jämförbar med rökning. Det är för att vi är flockvarelser ner till det primära: avskärningen från flocken är livshotande på biologisk nivå.
 

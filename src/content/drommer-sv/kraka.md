@@ -24,7 +24,7 @@ Kråkan är en av naturens mest intelligenta fåglar, och den har fascinerat mä
 
 ---
 
-## De vanligaste tolkningarna
+## Budbärare mellan det kända och det som kommer
 
 ### Transformation och övergång
 
@@ -52,7 +52,7 @@ Drömmar där kråkan befinner sig i ett [mörkt rum](/sv/drommar/morkt-rum/) el
 
 ---
 
-## Vad påverkar tolkningen?
+## En kråka, en hel flock, eller ett ord som sägs
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 
@@ -70,7 +70,7 @@ Kan betyda att en möjlighet håller på att passera, eller att en insikt du nä
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Fågeln som bär tankar
 
 I jungiansk psykologi representerar fåglar generellt tankar, idéer och andliga aspekter av personligheten. Kråkan, med sin mörka fjäderdräkt och intelligens, knyts ofta till skuggan och de djupare lagren av psyket. För Jung var mötet med skuggsymboler en nödvändig del av den psykologiska utvecklingen, och kråkan i drömmar kan markera början av ett sådant möte. Den bjuder in dig att se på det du helst skulle vilja undvika, men som bär på viktig insikt.
 

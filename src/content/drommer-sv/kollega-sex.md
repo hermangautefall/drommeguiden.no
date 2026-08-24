@@ -23,7 +23,7 @@ Det är en av de drömmar folk är mest generade över att berätta om — och e
 
 Ta ett djupt andetag. Det betyder inte att du är attraherad av dem. Det betyder inte att du vill ha ett förhållande. Det betyder nästan alltid något helt annat.
 
-## De vanligaste tolkningarna
+## Beundran och maktdynamik
 
 ### Beundran för något kollegan representerar
 
@@ -47,7 +47,7 @@ Sexualitet i drömmen kan symbolisera en önskan om mer inflytande, erkännande 
 
 I perioder med press, konflikter eller otrygghet på jobbet kommer hjärnan att bearbeta detta genom drömmarna. Sexuella drömmar om kollegor kan uppstå just i sådana perioder — inte som ett uttryck för begär, utan som psykets försök att lösa spänning och skapa förbundenhet i en kontext där relationer är spända.
 
-## Vad påverkar tolkningen?
+## Vad kollegan representerar
 
 **Om det var en överordnad eller chef:**
 Maktdynamik och önskan om erkännande är sannolikt tema. Vad vill du ha från dem i arbetslivet?
@@ -64,7 +64,7 @@ Något oavklarat i relationen eller något obearbetat i ditt förhållande till 
 **Om drömmen skapade obehag på jobbet dagen efter:**
 Normalt och förväntat — men kom ihåg att drömmar inte är valda. Du är inte ansvarig för vad hjärnan gör i sömnen.
 
-## Psykologiska och kulturella perspektiv
+## Arbetsplatsen som socialt landskap
 
 Forskaren Deirdre Barrett vid Harvard Medical School har studerat arbetsrelaterade drömmar och dokumenterat att sexuell aktivitet med kollegor är bland de vanligaste drömscenarierna — särskilt i stressade arbetsperioder. Slutsatsen är konsekvent: det handlar om relationer och maktdynamik, inte sexualitet.
 

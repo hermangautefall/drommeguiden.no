@@ -21,7 +21,7 @@ author: 'default'
 
 Naglar är kroppens yttersta lager — de växer, klipps, målas, bits och vårdas. De är gränsen mellan fingertoppens inre och världen utanför. I drömmarnas symbolspråk bär de denna gränsfunktion — och lägger till kontroll, grepp och yttre uttryck.
 
-## De vanligaste tolkningarna
+## Gränser, grepp och självpresentation
 
 ### Gränser och självförsvar
 
@@ -45,7 +45,7 @@ Drömmar om nynjutna, vackra naglar kan spegla en önskan att framstå väl — 
 
 Naglar växer kontinuerligt — de är en av kroppens tydligaste bilder på konstant, omärklig tillväxt. Att klippa naglarna är att skära av det som inte längre tjänar dig, göra plats för nytt. Drömmens nagelklippning kan spegla just detta: avslut, röjprocesser, att befria sig från något som har vuxit sig för långt.
 
-## Vad påverkar tolkningen?
+## Naglarnas skick
 
 **Om naglarna var långa och starka:**
 Du känner dig skyddad och har gott grepp om din situation.
@@ -65,7 +65,7 @@ En önskan att framstå väl, eller en belåtenhet med det egna uttrycket och sj
 **Om naglarna var mörka eller smutsiga:**
 Något vid din självpresentation eller dina gränser upplevs som dolt eller dåligt underhållet.
 
-## Psykologiska och kulturella perspektiv
+## Nageln som yttre signal
 
 Naglar har en överraskande rik folkloristisk tradition. I nordisk folkmedicin och folktro behandlades avklippta naglar och hår med försiktighet — de var en del av personen och kunde användas i magi. Att lämna naglar vårdslöst var att lämna sig sårbar.
 

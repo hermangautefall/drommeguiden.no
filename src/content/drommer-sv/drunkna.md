@@ -28,7 +28,7 @@ Drömmar om att drunkna hör till de mest intensiva drömupplevelser man kan ha.
 
 ---
 
-## De vanligaste tolkningarna
+## Vattnet är sällan bara vatten
 
 ### Du är överväldigad av känslor
 
@@ -54,7 +54,7 @@ Denna tolkning förstärks om du i drömmen försöker desperat att simma, men i
 
 ---
 
-## Vad påverkar tolkningen?
+## När det blir för mycket på en gång
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

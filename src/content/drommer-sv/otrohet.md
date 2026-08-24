@@ -27,7 +27,7 @@ Att vakna från en dröm där din partner är otrogen — eller där du själv h
 
 Men dessa drömmar är mycket sällan varsel om något som faktiskt försiggår. De handlar nästan alltid om något annat — och minst lika viktigt.
 
-## De vanligaste tolkningarna
+## Osäkerheten som inte sagts högt
 
 ### En osäkerhet i relationen som inte adresserats
 
@@ -49,7 +49,7 @@ Otrohetsdrömmar kan också symbolisera konkurrens om tid och uppmärksamhet —
 
 Ibland kan drömmens otrohet spegla egna känslor du inte kännats vid — en mild dragning till någon du känner, en nyfikenhet du inte tillåtit dig att tänka på. Drömmen är inte en uppmaning till handling, utan ett tecken på att något i det omedvetna är närvarande och önskar erkännande snarare än undertryckning.
 
-## Vad påverkar tolkningen?
+## Vem som var otrogen mot vem
 
 **Om det var partnern som var otrogen:**
 Speglar oftast din egen osäkerhet och övergivenhetsrädsla — inte en faktisk misstanke. Drömmens skyldiga partner är ofta en bild av dig själv och din sårbarhet.
@@ -66,7 +66,7 @@ En önskan om försoning och att gå vidare — antingen i relationen eller med 
 **Om drömmen upprepas:**
 En ihållande osäkerhet som behöver uppmärksamhet — kanske ett samtal med partnern hade hjälpt mer än analysen av drömmen. Läs mer om [återkommande drömmar](/sv/guider/atervandande-drommar/) och vad de försöker berätta för dig.
 
-## Psykologiska och kulturella perspektiv
+## Sveket som inre bild
 
 Forskning på otrohetsdrömmar visar att de är mycket vanliga och inte korrelerar med faktisk otrohet i förhållandet. De är vanligast i perioder av stress, avstånd, stora livsförändringar eller låg självkänsla. Drömmar om [sex](/sv/drommar/sex/) kan ge ett kompletterande perspektiv på intimitet i drömmarna. De är lika vanliga hos dem i mycket goda förhållanden som hos dem i mer oroliga.
 

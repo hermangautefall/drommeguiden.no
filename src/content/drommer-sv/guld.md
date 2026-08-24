@@ -21,7 +21,7 @@ author: 'default'
 
 Guld är inte bara en ädel metall — det är en av människokulturens starkaste symboler för det ultimata, det varaktiga och det äkta. Det rostar inte, det bleknar inte, det behåller sin glans genom allt. I drömvärlden är guld sällan bokstavligt. Det är en bild av det mest värdefulla — och frågan är alltid vad det är för dig.
 
-## De vanligaste tolkningarna
+## Äkta värde och det du strävar mot
 
 ### Äkta värde och det som verkligen betyder något
 
@@ -39,7 +39,7 @@ I jungiansk psykologi är guld en symbol för Självet — den autentiska kärna
 
 Drömmar där guld visar sig vara falskt — eller där girigheten efter guld förstör något — är varnande. "Allt som glittrar är inte guld" är inte bara ett ordspråk. Drömmens falska guld är en varning mot att förfölja något som ser värdefullt ut men inte är det.
 
-## Vad påverkar tolkningen?
+## Vad du gjorde med guldet
 
 **Om du fann guld:**
 En upptäckt av något genuint värdefullt — i livet, i dig själv, i en relation.

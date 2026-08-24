@@ -24,7 +24,7 @@ Olyckor sker plötsligt, utan förvarning, och förändrar allt i ett ögonblick
 
 Olycksdrömmar är några av de vanligaste ångestdrömmarna, och de kommer ofta i perioder då något i ditt liv känns instabilt, då något står på spel, eller då du bär på ett ansvar du inte riktigt vet var du ska placera. Drömmens jobb är inte att spå, utan att spegla oron så att du kan se den klart.
 
-## De vanligaste tolkningarna
+## Sammanstötningen som inte kan tas tillbaka
 
 ### Rädsla för det okontrollerbara
 
@@ -46,7 +46,7 @@ Olyckan kan också vara en bild av en inre kollision — två delar av dig själ
 
 Ibland är olycksdrömmen ett slags gränsupplevelse i drömform: något måste stoppas, något måste förändras, något måste komma till ett slut. Drömmar där det handlar om en bestämd person eller situation, och där olyckan är knuten till just den, kan vara en signal från det omedvetna om att något inte längre är hållbart.
 
-## Vad påverkar tolkningen?
+## Rollen du hade i olyckan
 
 **Om du var skyldig till olyckan:**
 En känsla av ansvar och skuld — något du gör kan skada något eller någon.
@@ -72,7 +72,7 @@ Hjärnan skyddar dig från något du ännu inte är redo att konfrontera fullt u
 **Om olyckan bara lämnade tom skada utan skadade:**
 Förlust av något yttre — egendom, status, plan — utan direkt personlig skada. En materiell, inte mänsklig, oro.
 
-## Psykologiska och kulturella perspektiv
+## Öde, karma och kontrollens gränser
 
 Förhållandet mellan människan och det okontrollerbara är centralt i nästan alla filosofiska och religiösa traditioner. Drömmens olycka drar på detta djupa lager av mänskliga försök att förstå varför det värsta sker, och vad vi kan ställa upp mot det.
 

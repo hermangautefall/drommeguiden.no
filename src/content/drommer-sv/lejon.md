@@ -24,7 +24,7 @@ Lejonet kallas djurens konung — och i drömsymboliken är det exakt det: en sy
 Om lejonet i drömmen var vänligt eller fientligt, lugnt eller rasande — det förändrar tolkningen betydligt.
 
 
-## De vanligaste tolkningarna
+## Mellan mod, makt och det som brinner
 
 ### Inre styrka och ledarskap
 
@@ -41,7 +41,7 @@ Lejonet kan också representera en person i ditt liv med stor auktoritet — en 
 Ett rasande lejon tolkas ofta — i likhet med [tigern](/sv/drommar/tiger/) — som en bild av ilska eller stark känsla som inte fått utlopp. Något brinner inom dig — och drömmen ber dig märka det.
 
 
-## Vad påverkar tolkningen?
+## Lejonet i olika skepnader
 
 **Om lejonet är lugnt och majestätiskt:**
 Du är i kontakt med din egen auktoritet och inre ro. En stark, positiv dröm.
@@ -56,7 +56,7 @@ Du är på väg att bemästra något stort i dig själv. Imponerande symbol på 
 Din egen kraft eller självtillit är försvagad av något. Något eller någon har tärt på dig.
 
 
-## Psykologiska och kulturella perspektiv
+## Kungadjuret genom kulturerna
 
 I många kulturer är lejonet en kungasymbol — i Egypten, Rom och medeltidens Europa. Den representerar det bästa av mänskligt ledarskap: mod kombinerat med värdighet. Jung såg lejonet som en symbol för Egot i sin starkaste form — men varnade för att låta det inre lejonet bli tyranniskt. Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).
 

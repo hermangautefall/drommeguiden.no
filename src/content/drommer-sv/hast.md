@@ -24,7 +24,7 @@ Har du drömt om en häst och vaknat med en känsla av kraftfull rörelse, frihe
 
 ---
 
-## De vanligaste tolkningarna
+## Mellan fri galopp och kraften som driver dig
 
 ### Frihet och längtan efter utlopp
 
@@ -52,7 +52,7 @@ Det är också värt att lägga märke till om du själv sitter på hästen elle
 
 ---
 
-## Vad påverkar tolkningen?
+## Olika hästar, olika budskap — från galopp till fall
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

@@ -26,7 +26,7 @@ Drömmar om helvetet är intensiva, och de lämnar gärna en mycket obehaglig k�
 
 Helvetet är en av människokulturens starkaste bilder av lidande utan slut — och det är just detta drömmen använder det för att uttrycka.
 
-## De vanligaste tolkningarna
+## Inre plåga och självpåtaget straff
 
 ### Ett inre tillstånd av smärta och förtvivlan
 
@@ -48,7 +48,7 @@ Helvetet i drömmarna kan också representera en destruktiv cykel du inte lyckas
 
 Ibland — inte alltid — kan helvetesdrömmarna ha en varnande funktion: undermedvetenheten visar dig en bild av konsekvenserna av en väg du är på. Inte som en religiös dom, utan som en psykologisk varning: fortsätter du så, är detta där du hamnar.
 
-## Vad påverkar tolkningen?
+## Om du var fångad eller tog dig ut
 
 **Om du var i helvetet och led:**
 Ett nuvarande inre tillstånd som är mycket svårt. Ta det på allvar och sök stöd.

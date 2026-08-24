@@ -27,7 +27,7 @@ Drömmar om mörka rum är överraskande vanliga, och de efterlämnar ofta en k�
 
 ---
 
-## De vanligaste tolkningarna
+## Det outforskade och det ovissa
 
 ### Det omedvetna och det outforskade
 
@@ -55,7 +55,7 @@ Denna tolkning förstärks om du i drömmen känner dig trygg trots mörkret, el
 
 ---
 
-## Vad påverkar tolkningen?
+## Om du fann en väg ut
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 
@@ -73,7 +73,7 @@ Kombinationen av mörker och spegling är en stark drömbild. Det kan handla om 
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Mörkret som plats för inre arbete
 
 Carl Jung betraktade mörkret som en central del av drömarbetet. För Jung var mötet med mörkret — det han kallade "nedstigningen" — en nödvändig del av den psykologiska utvecklingen. Man måste gå in i sitt eget mörker för att komma ut på andra sidan med större självinsikt. Det mörka rummet i drömmar kan i detta perspektiv ses som en tröskel: en plats där förändring börjar.
 

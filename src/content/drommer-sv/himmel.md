@@ -23,7 +23,7 @@ Himlen är en av de starkaste symbolerna i mänsklig kultur — ett rum höjt ö
 
 Dessa drömmar kan komma med överväldigande skönhet — och de sätter sig fast på ett annat sätt än de flesta andra drömmar.
 
-## De vanligaste tolkningarna
+## Höjden, friden och det som är större
 
 ### En längtan efter frihet och höjd
 
@@ -47,7 +47,7 @@ Drömmen behöver inte besvara frågan om vad himlen "egentligen" är. Den kan b
 
 Himlen är också symbolen för det perfekta — och i drömmarna kan den representera en standard eller ett ideal du har satt mycket högt för dig själv. Drömmens himmel kan då spegla en ambition, en längtan att nå något, eller — ibland — ett orealistiskt krav på perfektion som tröttar dig.
 
-## Vad påverkar tolkningen?
+## Himlens färg och väder
 
 **Om himlen var ljus och vacker:**
 En av de mest tröstande drömmar man kan ha. Fred, försoning och en öppenhet mot något större.

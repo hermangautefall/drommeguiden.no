@@ -24,7 +24,7 @@ Krigsdrömmar hör till de mest intensiva och överväldigande vi kan ha — fyl
 
 Krig är en av människans starkaste bilder av konflikt i sin mest extrema form, och det omedvetna använder den för att kommunicera något det inte hittar mildare ord för. Många upplever också att krigsdrömmar glider över i drömmar om att bli [förföljd](/sv/drommar/forfoljd/) eller att behöva fly.
 
-## De vanligaste tolkningarna
+## Vilket krig ditt sinne egentligen utkämpar
 
 ### En intensiv inre konflikt
 
@@ -48,7 +48,7 @@ Att drömma om att kämpa tappert kan vara det omedvetnas sätt att säga: det d
 
 Krig kan också symbolisera en allvarlig konflikt i en konkret relation — där det inte längre handlar om oenighet, utan om en mer fundamental kamp om makt, respekt eller territorium. Vem är fienden i drömmens krig? Det kan ge ledtrådar.
 
-## Vad påverkar tolkningen?
+## Din roll på slagfältet
 
 **Om du kämpade aktivt:**
 Du är inte passiv i konflikten — du engagerar dig, försvarar eller angriper. Frågan är vad du kämpar för och mot.

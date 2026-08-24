@@ -74,7 +74,7 @@ Osäkerhet om ansvar och förmåga — är du redo för vad det nya kräver av d
 Det nya i dig är mer utvecklat än du tror — det har redan något att säga dig.
 
 **Om du förlorade babyn:**
-Se [förlora baby](/sv/drommar/forlora-baby/) — det är en egen och viktig symbol.
+Se [förlora ett barn](/sv/drommar/forlora-barn/) — det är en egen och viktig symbol.
 
 ## Kön i drömmens bildspråk
 

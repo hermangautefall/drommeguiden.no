@@ -23,7 +23,7 @@ Musen är liten — men i drömvärlden är den sällan obetydlig. Den represent
 
 Musdrömmarna är vanliga, och de bär ofta på ett specifikt budskap om något i livet du har förbisett.
 
-## De vanligaste tolkningarna
+## Det som samlas, och det som slipper igenom
 
 ### Små irritationer som har samlats
 
@@ -37,7 +37,7 @@ Musen är inte dum — den är snabb, smidig och hittar vägar genom det allra t
 
 En mus är liten i en stor värld — och i drömmarna kan den representera en subjektiv upplevelse av att vara liten, sårbar och utsatt. En period där något i livet känns för stort och överväldigande för att möta direkt.
 
-## Vad påverkar tolkningen?
+## Från gnagande detalj till den fångade rädslan
 
 **Om det var många möss:**
 Många små problem eller irritationer som sammantaget är överväldigande.

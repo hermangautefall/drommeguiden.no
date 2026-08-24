@@ -24,7 +24,7 @@ Myran är liten, men drömmar om myror är sällan obetydliga. De bär med sig n
 Sammanhanget är avgörande: en myra är något helt annat än tusentals myror.
 
 
-## De vanligaste tolkningarna
+## Flit, mängd och det som hopar sig
 
 ### Hårt arbete och långsiktig insats
 
@@ -39,7 +39,7 @@ Att drömma om många myror — särskilt om de är överallt, kryper på dig el
 Myran överlever inte ensam — den är alltid del av något större, inte helt olikt [spindeln](/sv/drommar/spindel/) som spinner sitt nät i gemenskapen. Drömmen kan peka på värdet av samarbete och gemenskap, eller på ett behov av att bidra mer till något du är en del av.
 
 
-## Vad påverkar tolkningen?
+## Myran i olika situationer
 
 **Om myror kryper på [kroppen](/sv/kategori/kropp/):**
 Något irriterar eller plågar dig på ett djupt plan. En obehaglig situation som inte släpper taget.

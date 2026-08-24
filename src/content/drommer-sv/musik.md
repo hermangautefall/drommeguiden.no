@@ -23,7 +23,7 @@ Musik i drömmarna är en av de vackraste och mest meningsfulla symbolerna — f
 
 Vilken sorts musik du hörde eller spelade, och vilken känsla den väckte, är nyckeln till tolkningen.
 
-## De vanligaste tolkningarna
+## Uttrycket som söker plats
 
 ### Kreativitet och uttryck som söker plats
 
@@ -39,7 +39,7 @@ Musik har harmoni och disharmoni — och i drömmarna speglar detta ofta tillst�
 
 Ibland är musiken i drömmarna inte en symbol för något annat — den är en direkt upplevelse. En melodi du aldrig har hört, men som är oändligt vacker. En sång som träffar dig i hjärtat. Dessa drömmar beskrivs av många som några av de mest intensiva och minnesvärda de har haft — och de behöver inte tolkas bort. De kan bara upplevas och hysas. En [drömjournal](/sv/guider/dromjournal/) kan hjälpa dig bevara sådana upplevelser.
 
-## Vad påverkar tolkningen?
+## Musiken du hörde
 
 **Om musiken var vacker och harmonisk:**
 Inre ro, kreativt flöde och något som är i god balans just nu.
@@ -56,7 +56,7 @@ Sångens text och ton kan ge direkta ledtrådar — vad handlar den om?
 **Om du inte kunde spela eller sjunga:**
 Något blockerar ditt kreativa uttryck — en hämning, en rädsla, en situation som inte ger plats. Temat liknar det man kan uppleva i drömmar om [tenta](/sv/drommar/tenta/) — en prestation som blockeras.
 
-## Psykologiska och kulturella perspektiv
+## Toner som språk utan ord
 
 Musik är ett av de fenomen Jung var mest fascinerad av — för att det opererar direkt på det omedvetna utan att gå vägen över rationellt tänkande. Han beskrev musik som "ett direkt uttryck för själen" och menade att drömmarnas musik ofta kommunicerade något som psyket inte hade ord för.
 

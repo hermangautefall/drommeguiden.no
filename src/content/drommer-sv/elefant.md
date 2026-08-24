@@ -24,7 +24,7 @@ Elefanten är ett av de mest särpräglade djuren i drömsymboliken — stor, lu
 Drömmens ton — om elefanten var lugn, stressande, hjälpsam eller hotfull — ger mycket av svaret.
 
 
-## De vanligaste tolkningarna
+## Minnet, tyngden och det lugna tempot
 
 ### Visdom, minne och det förflutna
 
@@ -39,7 +39,7 @@ Elefantens vikt är inte bara fysisk i drömsymboliken — den kan representera 
 Elefanten rör sig sakta, men säkert. I drömmar kan den symbolisera att det är rätt att ta det steg för steg — att det du arbetar mot inte sker över en natt, utan att framgången är verklig och stabil.
 
 
-## Vad påverkar tolkningen?
+## Lugn jätte eller trampande hot?
 
 **Om elefanten är lugn och vänlig:**
 Trygghet, stabilitet och visdom är tillgängligt för dig. En positiv dröm.

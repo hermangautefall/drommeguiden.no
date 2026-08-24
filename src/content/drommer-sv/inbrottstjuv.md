@@ -24,7 +24,7 @@ Att drömma om att någon bryter sig in — att du hör ljud i [huset](/sv/dromm
 
 De är mycket vanliga, och de handlar sällan om faktiskt inbrott. De handlar om gränser — och vad som händer när de bryts.
 
-## De vanligaste tolkningarna
+## När någon bryter sig in i dig själv
 
 ### En gräns kränks
 
@@ -48,7 +48,7 @@ Inbrottstjuven som representerar Skuggan är sällan farlig i verkligheten — d
 
 Inbrottsdrömmar är vanliga hos dem som generellt har ett starkt kontrollbehov — där det okontrollerbara och oförutsedda är särskilt hotfullt. Drömmen är en bild av just detta: något du inte kan förhindra, något som händer oberoende av dina [lås](/sv/drommar/nycklar/) och barriärer.
 
-## Vad påverkar tolkningen?
+## Din reaktion när tjuven var där
 
 **Om du konfronterade tjuven:**
 Mod och beredskap — du är redo att möta det som hotar dig, inte bara [fly från det](/sv/drommar/forfoljd/).
@@ -68,7 +68,7 @@ Det som stals är laddat med mening — vad var det, och vad representerar det f
 **Om du ringde polisen eller fick hjälp:**
 Du söker och finner stöd. Du är inte ensam med det som hotar dig.
 
-## Psykologiska och kulturella perspektiv
+## Vad forskningen säger om huset och gränserna
 
 Huset som jagets symbol är en av de mest konsekventa och universellt dokumenterade i drömforskning. Oavsett kultur och bakgrund använder drömmare huset som bild av sig själva — och då är den som bryter sig in alltid ett hot mot jaget.
 

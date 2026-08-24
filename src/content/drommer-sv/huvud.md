@@ -23,7 +23,7 @@ Huvudet är i nästan alla kulturer och traditioner sätet för medvetandet — 
 
 Dessa drömmar kan ta många former — ett huvud du ser, ett eget huvud som är annorlunda än vanligt, ett huvud som försvinner eller förändras. Alla bär på ett budskap om tanken, identiteten och medvetandet.
 
-## De vanligaste tolkningarna
+## Tankarna, identiteten och överbelastningen
 
 ### Ditt medvetande och din identitet är i spel
 
@@ -47,7 +47,7 @@ Vem vinner i drömmen — och vem bör vinna i verkligheten?
 
 Ett huvud som snurrar, som lossnar, som är borta — dessa mer surrealistiska varianter speglar gärna en känsla av att tappa kontrollen, av desorientering, av att inte veta vem du är eller vad du tänker längre. En period där grunden för självförståelsen är instabil.
 
-## Vad påverkar tolkningen?
+## Vad som hände med huvudet
 
 **Om huvudet var klart och klokt:**
 Klart tänkande, god medvetenhet och förmåga att orientera sig — du är på toppen av allt.
@@ -67,7 +67,7 @@ Vad den personen representerar för dig — deras sätt att tänka, deras perspe
 **Om något växte från huvudet:**
 Nya tankar, nya idéer eller ny växt i medvetandet — något är på väg att spira.
 
-## Psykologiska och kulturella perspektiv
+## Huvudet som själens säte
 
 I grekisk tradition var huvudet sätet för själen — Aristoteles menade att förnuftet bodde i huvudet, medan hjärtat var kroppens centrum. Descartes berömda "cogito ergo sum" — "jag tänker, alltså är jag" — placerar själva identiteten i tänkandet. Att drömma om huvudet är att drömma om själva existensmedvetandet.
 

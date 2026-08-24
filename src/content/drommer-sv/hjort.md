@@ -23,7 +23,7 @@ Hjorten är ett av de vackraste djuren i den nordiska drömsymboliken — och et
 
 Drömmar om hjort dyker ofta upp i perioder då något ömt söker uppmärksamhet, då du står mitt i en andlig eller existentiell process, eller då frågor om elegans under press är aktiva.
 
-## De vanligaste tolkningarna
+## Sårbarhet, stolthet och det heliga i hjorten
 
 ### Sårbarhet och ömhet
 
@@ -45,7 +45,7 @@ Hanhjorten — kronhjorten — bär sina horn högt. I drömmar kan han represen
 
 Hjorten är ett vilddjur — den lever utanför människan, efter sina egna rytmer. Drömmens hjort kan handla om en längtan efter något mer ursprungligt, mer naturligt, mer äkta. Dessa drömmar kommer ofta i perioder med stress, civilisationströtthet eller alienation.
 
-## Vad påverkar tolkningen?
+## Blicken, hornkronan och vem som jagar vem
 
 **Om hjorten ser på dig:**
 En inbjudan till kontakt med något djupt och autentiskt. Var öppen.
@@ -71,7 +71,7 @@ Du identifierar dig med kvaliteten av varsam värdighet just nu.
 **Om du jagade hjorten:**
 Du söker något sårbart och heligt — var försiktig med hur du närmar dig det.
 
-## Psykologiska och kulturella perspektiv
+## En av de äldsta andliga djurbilderna
 
 Hjorten är en av människokulturens äldsta och mest återkommande andliga symboler — från grottmålningar i Lascaux och Altamira till samtidens populärkultur.
 

@@ -23,7 +23,7 @@ author: 'default'
 
 Kontexten är avgörande för tolkningen.
 
-## De vanligaste tolkningarna
+## Att se klart kontra att se bort
 
 ### Sökandet efter insikt och sanning
 
@@ -37,7 +37,7 @@ Drömmar om ögon kan handla om den sociala blicken — om din upplevelse av att
 
 Ibland handlar ögondrömmarna om motsatsen till insikt: om något du aktivt undviker att se på. Slutna ögon, ögon som försvinner, eller en önskan att stänga dem kan spegla att det finns något i ditt liv du inte är redo att möta med öppen blick ännu.
 
-## Vad påverkar tolkningen?
+## Många ögon, en känsla av att bli bedömd
 
 **Om ögonen var vackra och klara:**
 Insikt, klarhet och andlig medvetenhet. En positiv dröm om att se tydligt.

@@ -27,7 +27,7 @@ Få drömupplevelser är så intensiva och minnesvärda som känslan av att flyg
 
 ---
 
-## De vanligaste tolkningarna
+## Frihet från det som håller dig nere
 
 ### Frihet och befrielse
 
@@ -53,7 +53,7 @@ Det kan också handla om ambitioner. Drömmen om att flyga högt kan spegla dina
 
 ---
 
-## Vad påverkar tolkningen?
+## Utsikten du inte har på marken
 
 Sammanhanget i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

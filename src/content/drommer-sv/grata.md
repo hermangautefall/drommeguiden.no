@@ -43,7 +43,7 @@ Inte all gråt är sorg. Att gråta av lättnad, av glädje, av rörelse — des
 
 Att gråta för någon annan i drömmen — till exempel för [mamma](/sv/drommar/mamma/) eller [pappa](/sv/drommar/pappa/), eller för någon som har det svårt — är ett tecken på djup empatisk kapacitet. Drömmens gråt är då inte din egen sorg, utan din förmåga att känna andras.
 
-### Vad påverkar tolkningen?
+### Ensam eller inför andra — och vilka tårar det var
 
 **Om du grät ensam:**
 En privat och djup sorg eller lättnad — något du bär själv.

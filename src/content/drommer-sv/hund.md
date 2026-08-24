@@ -26,7 +26,7 @@ Hundar i drömmar kan representera många saker — från de mest positiva aspek
 
 ---
 
-## De vanligaste tolkningarna
+## Vakthundsinstinkten
 
 ### Lojalitet, vänskap och tillit
 
@@ -54,7 +54,7 @@ Denna tolkning är särskilt relevant om du står inför ett val där huvudet oc
 
 ---
 
-## Vad påverkar tolkningen?
+## Den lojala följeslagaren
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

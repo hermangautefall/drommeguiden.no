@@ -23,7 +23,7 @@ Mostern (eller fastern) är den nära som ändå inte är förälder — hon har
 
 Drömmar om mostern dyker ofta upp i perioder då du söker en form av kvinnligt stöd eller modellering du inte hittar i kärnfamiljen, eller då ett bestämt minne av henne är på väg tillbaka i medvetandet.
 
-## De vanligaste tolkningarna
+## Omsorg utan förväntningar
 
 ### Omsorg utan krav
 
@@ -45,7 +45,7 @@ I djuppsykologin är mostern ofta en mer "internaliserad" feminin figur än mode
 
 Mostrar hör ofta till barndomens särskilda lov, julen, familjekalas. Drömmens moster kan helt enkelt vara barndomen som söker dig igen — en längtan efter en enklare tid, en bestämd upplevelse som vill bearbetas, eller en obesvarad fråga från den tiden.
 
-## Vad påverkar tolkningen?
+## Vilken roll mostern hade
 
 **Om mostern var varm och nära:**
 Tillgång till ovillkorlig omsorg och stöd från utsidan av kärnan.
@@ -68,7 +68,7 @@ Mosterns livsform kan spegla en livsstil du själv överväger eller längtar ef
 **Om hon tog hand om ett barn i drömmen:**
 Den omsorg du själv behöver — eller den omsorg du håller på att erbjuda dig själv.
 
-## Psykologiska och kulturella perspektiv
+## Den kvinnliga förebilden vid sidan av modern
 
 Mosterns betydelse varierar dramatiskt mellan kulturer, och detta gör drömmens moster till en mångtydig figur. I svensk och allmänt nordeuropeisk kontext är mostern ofta en perifer figur — viktig, men inte daglig. Drömmen om en svensk moster handlar ofta om nostalgi eller om en specifik personlig relation.
 

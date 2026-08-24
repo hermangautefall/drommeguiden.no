@@ -23,7 +23,7 @@ relaterte_sovn:
 
 Förlovning är inte bara en romantisk ritual — det är en offentlig och privat bekräftelse av ett djupgående beslut: jag väljer detta. Jag går in i detta helt och hållet. I drömmarnas symbolspråk bär förlovningen denna hela vikt.
 
-## De vanligaste tolkningarna
+## Löftet före löftet
 
 ### En förpliktelse du är redo för
 
@@ -47,7 +47,7 @@ Ibland är drömmens förlovning inte en bekräftelse, utan en utmaning: tänk o
 
 Sådana drömmar uppstår gärna i perioder med stora beslut — där psyket testar förpliktelsen för att se vad som är sant.
 
-## Vad påverkar tolkningen?
+## Känslan när frågan kom
 
 **Om förlovningen kändes rätt och bra:**
 Ett beslut du är redo för. Något i dig önskar att förplikta sig helt.

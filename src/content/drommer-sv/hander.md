@@ -26,7 +26,7 @@ Händer är något av det mest mänskliga vi har. De är verktygen vi använder 
 
 ---
 
-## De vanligaste tolkningarna
+## Handlingskraft, kontakt och identitet
 
 ### Handlingskraft och förmågan att påverka
 
@@ -54,7 +54,7 @@ Om händerna är smutsiga eller täckta av [blod](/sv/drommar/blod/), kan detta 
 
 ---
 
-## Vad påverkar tolkningen?
+## Händernas skick
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

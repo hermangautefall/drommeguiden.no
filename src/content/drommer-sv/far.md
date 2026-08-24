@@ -23,7 +23,7 @@ Fåret är ett av de äldsta husdjur vi har — ett djur som har följt människ
 
 Sammanhanget avgör vilken sida drömmen betonar.
 
-## De vanligaste tolkningarna
+## Flocken, eller din egen väg
 
 ### Tillhörighet och flockmentalitet
 
@@ -37,7 +37,7 @@ Fåret är ett milt och sårbart djur — det angriper inte, det försvarar sig 
 
 I nordisk kontext är fåret knutet till fjäll och fäbodliv — till en långsam, naturlig rytm där du följer bete och säsong. Drömmens får kan ha en mer stillsam och positiv valör: en påminnelse om det enkla, det anspråkslösa, det som inte jagar. Se även [ko](/sv/drommar/ko/) för liknande symbolik kring det jordnära och närande.
 
-## Vad påverkar tolkningen?
+## Rollen du hade i flocken
 
 **Om fåren vandrade fridfullt:**
 Ro, naturlig rytm och ett gott kollektivt flöde. Tillhörighet utan krav.
@@ -54,7 +54,7 @@ Något oskyldigt och sårbart är hotat — av yttre krafter eller av något ino
 **Om du var fåret:**
 Fråga dig själv ärligt: följer du andras riktning snarare än din egen?
 
-## Psykologiska och kulturella perspektiv
+## Herden, flocken och den som går vilse
 
 "Den gode herden" är en av de starkaste kristna bilderna av omsorg och ledarskap — och det är just fåret, som behöver vallning och skydd, som ger bilden dess mening. I nordisk kulturhistoria är fårhållningen djupt förankrad: fäboddriften, ullen till vadmalen, lammet till helgen. Fåret är inte exotiskt — det är urgammalt och välbekant, bland det mest nordiska som finns.
 

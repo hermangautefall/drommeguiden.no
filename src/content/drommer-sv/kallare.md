@@ -41,7 +41,7 @@ Vad finns i drömmens källare? Det är den viktiga frågan.
 
 Källaren är platsen för skräckfilmens mest klassiska scener — och inte utan anledning. Det är där vi instinktivt placerar det läskiga, det farliga, det vi inte vill möta. Källaren kan representera en rädsla du bär på, en del av dig själv du anser som mörk eller farlig.
 
-### Vad påverkar tolkningen?
+### Hur du kom dit ner, och vad du fann
 
 **Om du gick ner i källaren frivilligt:**
 Mod och nyfikenhet gentemot egna djupare lager. En vilja till självutforskning.
@@ -61,11 +61,11 @@ Oordnade, undertryckta element i psyket som behöver uppmärksamhet.
 **Om någon var i källaren:**
 En Skugg-figur — en del av dig själv du inte vidkänns, personifierad.
 
-## Psykologiskt perspektiv
+## Källaren som psykets nedersta våning
 
 Jung beskrev källaren explicit som representation av det personliga omedvetna — förrådet av allt som är förträngt, glömt eller aldrig integrerat i medvetandet. Han menade att källaren i drömmarna nästan alltid rymmer något som psyket önskar att medvetandet ska förhålla sig till.
 
-## Kulturell och symbolisk betydelse
+## Det vi lagrar och inte vill titta på
 
 Det finns en viktig övning i jungiansk terapi: att gå ner i källaren, se vad som är där, och bära det upp i ljuset. Inte för att bli av med det — utan för att äga det. För det vi inte äger, äger oss.
 

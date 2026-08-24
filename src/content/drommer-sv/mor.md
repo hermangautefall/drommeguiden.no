@@ -23,7 +23,7 @@ Att drömma om sin mor är en av de mest universella drömupplevelser som finns 
 
 Tolkningen beror starkt på två saker: vad som hände i drömmen, och hur din relation till henne är i verkligheten. Många drömmer också om [sin far](/sv/drommar/far/) i liknande perioder.
 
-## De vanligaste tolkningarna
+## Modern som gestalt och som person
 
 ### Behov av trygghet och omsorg
 
@@ -43,7 +43,7 @@ Drömmar om mor kan också komma när något mellan er inte är färdigbearbetat
 
 Detta gäller särskilt för dem som har förlorat sin mor — [drömmar om avlidna](/sv/drommar/avliden-person/) föräldrar är mycket vanliga och upplevs ofta som tröstande snarare än skrämmande.
 
-## Vad påverkar tolkningen?
+## Vem hon var, och hur mötet kändes
 
 **Om hon var glad och nära:**
 Ett gott tecken — trygghet, värme och stöd finns närvarande i ditt liv, eller du längtar efter mer av det.

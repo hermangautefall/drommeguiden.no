@@ -26,7 +26,7 @@ Orgasm i drömmen — oavsett om den åtföljs av ett sexuellt scenario eller up
 
 Men vad betyder det symboliskt? Här är drömpsykologin mer intressant än biologin.
 
-## De vanligaste tolkningarna
+## Spänningen som släpper taget
 
 ### Frigörelse av uppsparad spänning
 
@@ -52,7 +52,7 @@ Det är värt att nämna den biologiska dimensionen: under REM-sömn är kroppen
 
 Kontexten och drömmens innehåll i övrigt är det bästa verktyget för att avgöra om det är symboliskt meningsfullt eller primärt fysiologiskt.
 
-## Vad påverkar tolkningen?
+## Känslan som följde
 
 **Om orgasmen följde ett sexuellt drömscenario:**
 Läs drömscenariot som symbolen — orgasmen är kulminationen av det tema som uttrycks.
@@ -66,7 +66,7 @@ Ett positivt tecken — något är i rörelse, något löses upp.
 **Om orgasmen skapade skuld eller obehag:**
 Värt att reflektera över: vad förknippar du med sexualitet och njutning? Är det något du tillåter dig själv?
 
-## Psykologiska och kulturella perspektiv
+## Utlösning i kropp och psyke
 
 Freud tolkade alla drömmar med sexuell urladdning som uttryck för undertryckta sexuella önskningar. Jung vidgade perspektivet: orgasmen som symbol är en av psykets starkaste bilder för helhet, frigörelse och överskridande av det kluvna självet. I mystiska traditioner — från tantrisk yogas kundalini till medeltidens mystikers "gudomliga union" — har sexuella extaser tolkats som bilder på själen som smälter samman med något större.
 

@@ -21,7 +21,7 @@ author: 'default'
 
 Du springer genom flygplatsen. Gaten har just stängt. Planet rullar ut. Du kom för sent. Det är en av de mest klassiska moderna ångestdrömmarna — och det är ingen tillfällighet att den har blivit så vanlig i vår tid.
 
-## De vanligaste tolkningarna
+## Att komma för sent till något viktigt
 
 ### Rädsla för att gå miste om en möjlighet
 
@@ -43,7 +43,7 @@ Där den klassiska examensdrömmen speglar ångest för att inte prestera tillr�
 
 Flygplatsen är en plats där kontroll är helt avgörande — pass, gate, tid, kö. Allt måste stämma. Att missa flyget trots att man försökte är en bild av den värsta tänkbara kontrollförlusten: du gjorde allt rätt, och det gick ändå snett.
 
-## Vad påverkar tolkningen?
+## Varför du inte hann
 
 **Om det var ditt eget rörig som orsakade förseningen:** En självkritisk tanke om att dina egna prioriteringar eller vanor kostar dig möjligheter.
 
@@ -55,7 +55,7 @@ Flygplatsen är en plats där kontroll är helt avgörande — pass, gate, tid, 
 
 **Om ingen var där för att hjälpa dig:** Ensamhet i kaoset — en upplevelse av att stå ensam i det överväldigande.
 
-## Psykologiska och kulturella perspektiv
+## Tidspress som modernt drömtema
 
 Drömmen om att missa flyget är ett av de tydligaste exemplen på hur drömmarnas symbolbibliotek uppdateras med tidens kulturella kontext. Denna dröm existerade knappast för 100 år sedan — flyg är ett modernt fenomen. Idag är den en av de mest universellt igenkännbara ångestdrömmarna i industrialiserade länder.
 

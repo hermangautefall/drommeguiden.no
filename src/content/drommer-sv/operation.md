@@ -24,7 +24,7 @@ Operationen är en av människans mest intensiva upplevelser — du lägger din 
 
 Drömmar om operation dyker ofta upp i perioder då något i ditt liv är under reparation, då något måste skäras bort, eller då du står mitt i en process som kräver att du släpper kontrollen.
 
-## De vanligaste tolkningarna
+## Att bli lagad — och att lämna ifrån sig kontrollen
 
 ### Något repareras eller tas bort
 
@@ -46,7 +46,7 @@ Operationen är en av drömspråkets starkaste bilder för psykologiskt arbete �
 
 Operationen är inte en gradvis process — den är konkret, planerad och avslutande. Drömmens operation kan handla om en medvetenhet om att något i ditt liv inte kan lösas genom att vänta — det kräver ett bestämt, samlat ingrepp.
 
-## Vad påverkar tolkningen?
+## Vad som opererades
 
 **Om operationen gick bra:**
 En process avslutas framgångsrikt — något är fixat, något har tagits bort som inte hörde hemma.

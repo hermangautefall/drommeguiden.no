@@ -21,7 +21,7 @@ author: 'default'
 
 Mörkret är inte frånvaro — det är närvaron av något ännu okänt. I drömmarnas symbolspråk är mörkret en av de viktigaste symbolerna för det omedvetna: det stora, det fulla, det som inte är synligt i det direkta ljusets bemärkelse, men som finns där — levande och aktivt.
 
-## De vanligaste tolkningarna
+## Det okända och det okontrollerade
 
 ### Det omedvetna i sin renaste form
 
@@ -43,7 +43,7 @@ Drömmens mörker kan spegla att du är i ett sådant tillstånd: något är på
 
 Mörkret är också en sorgbild. I perioder med depression, sorg eller inre vinterlandskap dyker mörkret upp som drömmens naturliga scenografi. Det är ingen diagnosbild — det är psykets sanna beskrivning av det inre tillståndet.
 
-## Vad påverkar tolkningen?
+## Om mörkret var hotfullt eller tryggt
 
 **Om mörkret var hotande:** Rädslan för det okända är aktiv. Något i ditt liv är oöverskådligt och det skapar ångest.
 
@@ -55,7 +55,7 @@ Mörkret är också en sorgbild. I perioder med depression, sorg eller inre vint
 
 **Om mörkret dolde något:** Det finns något i det omedvetna som önskar uppmärksamhet — något som ännu inte kommit till ljuset.
 
-## Psykologiska och kulturella perspektiv
+## Mörkret före begynnelsen
 
 Mörkret som heligt är ett av religionshistoriens genomgående teman. Den apofatiska teologin — läran om att Gud är bortom all mänsklig förståelse och därför bäst beskrivs som mörker — är en av kristendomens äldsta traditioner. Mäster Eckhart: "Gud är en ström av mörker." Johannes av korset: "Den mörka natten i själen."
 

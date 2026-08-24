@@ -23,7 +23,7 @@ Lavinen är det nordiska [bergets](/sv/drommar/berg/) mest dramatiska och frukta
 
 I drömvärlden är lavinen en av de starkaste bilderna av något som länge byggts upp och plötsligt släpper.
 
-## De vanligaste tolkningarna
+## Trycket som lossnar
 
 ### Överväldigande press som släpper loss
 
@@ -39,7 +39,7 @@ Skredet förändrar landskapet permanent på sekunder. Drömmens lavin kan repre
 
 Mot en lavin är man liten. Det hjälper inte att springa. Det är ett av naturens absoluta uttryck för att människan inte är i kontroll. Drömmens lavin kan spegla en känsla av absolut överväldigande — att något är för stort att möta.
 
-## Vad påverkar tolkningen?
+## Om du togs med eller kom undan
 
 **Om du överlevde lavinen:**
 Du har resurser att ta dig genom det överväldigande. Något slutar — men du finns där.
@@ -56,7 +56,7 @@ En flykt från något som hotar dig — men lavinen är snabbare än dig.
 **Om det var tyst efter lavinen:**
 Tystnaden efter det som vältrade — något är över, och något nytt börjar.
 
-## Psykologiska och kulturella perspektiv
+## Lavinen som plötslig omvälvning
 
 För nordbor är lavinen inte en abstrakt bild — den är en verklig och nära fara för alla som rör sig i fjällen. Den nordiska fjällvettregeln om att känna lavinrisk är inte metaforisk; det är överlevnad. Drömmens lavin bär på denna konkreta rädsla i nordisk fjällkultur.
 

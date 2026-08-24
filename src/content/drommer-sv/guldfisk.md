@@ -21,7 +21,7 @@ author: 'default'
 
 Guldfisken är i saga och folkloretradition knuten till önskeuppfyllelse — de tre önskningarna som ges och tas tillbaka är ett av kulturens mest kända motiv. I drömvärlden bär den på detta: något du önskar, något du hoppas på, och kanske en varning om att önska för mycket kan slå tillbaka.
 
-## De vanligaste tolkningarna
+## Önskan, glansen och skålens gränser
 
 ### En önskan som vill bli hörd
 
@@ -37,7 +37,7 @@ Guldfisken är i många kulturer — särskilt kinesisk — en symbol för lycka
 
 En guldfisk i ett litet glas är vacker — men begränsad. Drömmens guldfisk kan spegla något i ditt liv som är vackert men instängt: en kreativitet som inte har nog rum, en potential som inte släpps fram, ett liv som är för trångt. Se även [blomma](/sv/drommar/blomma/) för liknande drömmar om skönhet och växt.
 
-## Vad påverkar tolkningen?
+## Fritt simmande, i ett litet glas, eller borta?
 
 **Om guldfisken simmade fritt:**
 En önskan eller kapacitet som har fritt utfoldelserum. Positiv och öppen.

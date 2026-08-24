@@ -21,7 +21,7 @@ author: 'default'
 
 Jord är det elementära fundamentet — det allt växer från och det allt återvänder till. I drömvärlden är den en av de mest grundläggande symbolerna för det som bär och när: det du är rotad i, det som ger dig näring och det material som ditt liv är byggt av.
 
-## De vanligaste tolkningarna
+## Rötter, grogrund och det jordnära
 
 ### Fundament och rötter
 
@@ -35,7 +35,7 @@ Jord är där fröerna planteras — och drömmens jord handlar om potential. N�
 
 Att "ha båda fötterna på jorden" är inte slumpmässigt — jord representerar det konkreta, det materiella, det vardagliga. Drömmens jord kan påminna dig om att förankra dig i det verkliga och nära framför att flyga för högt.
 
-## Vad påverkar tolkningen?
+## Jordens skick
 
 **Om jorden var mörk och rik:**
 Fruktbart fundament — något är i växt och har goda betingelser.
@@ -52,7 +52,7 @@ En stark bild av närhet till jord och natur — eller av slut och början.
 **Om du åt jord:**
 En extrem anknytning till det jordbundna — eller ett behov av näring på en grundläggande nivå.
 
-## Psykologiska och kulturella perspektiv
+## Jorden som ursprung i myterna
 
 I fornnordisk kosmologi är Jörd — Jordgudinnan — Tors mor och själva jordens personifikation. Jord är gudarnas moder i fornnordisk tradition: det fundamentala, det närande, det av vilket allt är skapat. För bönder och kustfolk genom nordisk historia är jord identitet — den som äger jord, äger framtid. Drömmens jord kan också knytas till [trädgården](/sv/drommar/tradgard/) och [skogen](/sv/drommar/skog/) som växer ur den.
 

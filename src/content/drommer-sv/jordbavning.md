@@ -24,7 +24,7 @@ Jordbävningen är ett av naturens mest dramatiska och oförberedda fenomen — 
 
 Jordbävningsdrömmar är vanliga i perioder med stora omvälvningar och osäkerhet, och delar mycket med drömmar om [stormar](/sv/drommar/storm/) och [översvämning](/sv/drommar/oversvamning/).
 
-## De vanligaste tolkningarna
+## När marken själv ger vika
 
 ### En plötslig omvälvning skakar grunden
 
@@ -38,7 +38,7 @@ Jordbävningar förändrar terrängen permanent — ingenting ser ut som förut 
 
 I geologisk mening är jordbävningar energi som har byggts upp över lång tid och plötsligt släpps ut. I drömsymboliken kan detta spegla undertryckta känslor — ilska, sorg, ångest — som till slut inte låter sig hållas tillbaka längre.
 
-## Vad påverkar tolkningen?
+## Skalvets styrka och vad som föll
 
 **Om jordbävningen var liten och hanterbar:**
 En störning du kan hantera — något som skakar, men inte raserar.
@@ -55,7 +55,7 @@ Något konstruerat — planer, relationer, strukturer i livet — kollapsar unde
 **Om marken öppnade sig:**
 Den mest dramatiska bilden — något fundamentalt och okänt öppnar sig under dig. Stor existentiell osäkerhet.
 
-## Psykologiska och kulturella perspektiv
+## Skalvet som bild för omvälvning
 
 Jordbävningen är i jungiansk mening knuten till det omedvetna i sin mest okontrollerbara form — de krafter som opererar under medvetandets yta och som med jämna mellanrum bryter fram med stor kraft. Drömmen är inte ett varsel — den är en beskrivning av ett inre tillstånd. Temat påminner om drömmar om att [falla](/sv/drommar/falla/), där något stabilt plötsligt ger efter.
 

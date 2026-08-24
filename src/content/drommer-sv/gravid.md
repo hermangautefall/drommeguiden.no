@@ -26,7 +26,7 @@ Att drömma om graviditet är en av de allra vanligaste drömmarna — och en av
 
 Oavsett kön, ålder och livssituation kan du drömma om graviditet.
 
-## De vanligaste tolkningarna
+## Något annat växer i det tysta
 
 ### Något nytt växer fram
 
@@ -44,7 +44,7 @@ Dessa drömmar är vanliga i perioder av stagnation eller i övergångar mellan 
 
 I jungiansk psykologi är graviditet en av de starkaste symbolerna för skaparkraft — förmågan att bringa något nytt in i världen. Drömmarna kan spegla att du är i en kreativt fruktbar period, eller att en outnyttjad kreativ kraft önskar mer utrymme i ditt liv.
 
-## Vad påverkar tolkningen?
+## Känslan i drömmen säger mer än själva bilden
 
 **Om graviditeten kändes glädjande:**
 Ett positivt tecken — något du skapar eller väntar på ger dig äkta glädje och förväntan.

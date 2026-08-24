@@ -23,7 +23,7 @@ Norrskenet är en av de mest överväldigande naturupplevelser en människa kan 
 
 Att drömma om norrsken är att drömma om något sällsynt, vackert och djupt laddat.
 
-## De vanligaste tolkningarna
+## Det sällsynta som visar sig i mörkret
 
 ### Det transcendenta som visar sig i mörkret
 
@@ -41,7 +41,7 @@ För nordbor är norrskenet inte bara ett ljusfenomen — det är identitet. Det
 
 Norrskenet är aldrig statiskt — det dansar, det skiftar, det är i konstant rörelse. Drömmens norrsken kan representera en transformationsprocess du befinner dig i: något är i rörelse, något skiftar form och färg, och det är vackert även om det är oförutsägbart.
 
-## Vad påverkar tolkningen?
+## Färgerna och var du stod
 
 **Om norrskenet var intensivt och överväldigande:**
 En extraordinär erfarenhet — något som överväldigar dig med sin skönhet och kraft.
@@ -64,7 +64,7 @@ Rött norrsken är sällsynt och historiskt sett starkt laddat. En intensiv och 
 **Om norrskenet försvann:**
 Det magiska är flyktigt — det finns inte alltid där, och det påminner dig om att värdesätta det medan det varar.
 
-## Psykologiska och kulturella perspektiv
+## Norrskenet i nordisk folktro
 
 I fornnordisk tradition sågs norrskenet som ett varsel från gudarnas värld — Bifrosts reflex, eller valkyriornas sköldar som glittrade. Samisk tradition har djupa och komplexa föreställningar om norrskenet som själar av avlidna, eller som något farligt man inte skulle ropa till. Norrskenet är aldrig bara ett ljusfenomen i nordlig tradition. Det är alltid ett budskap.
 

@@ -21,7 +21,7 @@ author: 'default'
 
 Fjorden är det mest särpräglade av alla naturbilder i Norden — den långa, djupa, tysta armen av [havet](/sv/drommar/hav/) som skär sig in mellan [bergen](/sv/drommar/berg/). Den är inte havet i all sin öppenhet och fara; den är havet som har hittat en skyddad väg inåt. I drömvärlden är fjorden en av de mest ro- och djupladdade symbolerna du kan möta.
 
-## De vanligaste tolkningarna
+## Djupet mellan bergssidorna
 
 ### Djup och stillhet
 
@@ -39,7 +39,7 @@ Fjorden är en bild som inga andra folk äger på samma sätt. Att drömma om fj
 
 Fjordvattnet är stilla och klart — och det speglar. Drömmens fjord kan handla om reflektion och självbetraktelse: att se sig själv tydligt, att ha det tyst nog till att bilden inte rister.
 
-## Vad påverkar tolkningen?
+## Var på fjorden du befann dig
 
 **Om fjorden var stilla och spegelblank:**
 Djup ro och klarhet. Ett ögonblick av äkta stillhet och självreflektion.
@@ -59,7 +59,7 @@ Den klassiska nordiska drömscenen — något urgammalt, vackert och överdimens
 **Om fjorden var orolig:**
 Till och med det skyddade farvattnet är i rörelse — något stör det som brukade vara stilla.
 
-## Psykologiska och kulturella perspektiv
+## Fjorden i den nordiska självbilden
 
 Fjorden är för nordisk självförståelse det Nilen är för Egypten eller Themsen för England — ett geografiskt element som har blivit identitet. Hardangerfjorden, Sognefjorden, Geirangerfjorden: namnen är laddade med tillhörighet och stolthet. Att drömma om fjord är att drömma om nordenhetens kärna.
 

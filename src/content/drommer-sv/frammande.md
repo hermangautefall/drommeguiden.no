@@ -23,7 +23,7 @@ Att drömma om någon du inte känner är faktiskt mycket vanligt — och dessa 
 
 Vem främlingen är, vad de gör och hur de får dig att känna är nyckeln till tolkningen.
 
-## De vanligaste tolkningarna
+## Ansiktet du inte känner
 
 ### En okänd sida av dig själv
 
@@ -41,7 +41,7 @@ Att möta denna figur i drömmen är inte farligt — det är faktiskt ett tecke
 
 En främling kan också symbolisera något okänt och nytt som är på väg in i ditt liv — en ny möjlighet, en ny fas, eller en ny sida av livet du är på väg att öppna. Särskilt om främlingen i drömmen var intressant, tilltalande eller gav dig något.
 
-## Vad påverkar tolkningen?
+## Om främlingen verkade hotfull eller vänlig
 
 **Om främlingen var hotfull:**
 En undertryckt sida av dig själv, eller något i livet du fruktar men inte har konfronterat.

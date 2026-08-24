@@ -21,7 +21,7 @@ author: 'default'
 
 Internet är det närmaste vår tid har kommit en bild av det kollektiva omedvetna — ett oändligt nätverk där all mänsklig kunskap, alla röster och alla förbindelser existerar samtidigt. I drömmarna speglar det detta: tillgången till något enormt, och utmaningen i att navigera i det.
 
-## De vanligaste tolkningarna
+## Informationsflödet och sökandet efter svar
 
 ### Det kollektiva omedvetna i modern form
 
@@ -41,7 +41,7 @@ Att söka på internet i drömmarna — och hitta, inte hitta, eller få fel sva
 
 Drömmar om att tappa internetuppkopplingen, om trögt nät, om att inte hitta fram — speglar en upplevelse av att vara avskuren från det kollektiva, av att inte nå fram, av att stå utanför ett nätverk du borde vara del av.
 
-## Vad påverkar tolkningen?
+## Vad du letade efter på nätet
 
 **Om du sökte och fann det du letade efter:** Du har tillgång till de resurser och svar du behöver.
 
@@ -53,7 +53,7 @@ Drömmar om att tappa internetuppkopplingen, om trögt nät, om att inte hitta f
 
 **Om någon hackade dig eller övervakade dig:** En känsla av att din privata sfär är kränkt.
 
-## Psykologiska och kulturella perspektiv
+## Ett kollektivt rum i modern form
 
 Internet som drömsymbol är relativt nytt och lite studerat — men växer snabbt i drömrapporter. Det är intressant att det redan har fått en fast plats i drömmarnas bildspråk på bara några decennier: det säger något om hur djupt det digitala nätverket är integrerat i vårt kollektiva medvetande.
 

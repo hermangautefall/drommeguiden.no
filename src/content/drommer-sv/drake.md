@@ -24,7 +24,7 @@ Drakar är bland de mest dramatiska och laddade symboler som kan dyka upp i drö
 Tolkningarna varierar mycket beroende på vad som hände i drömmen och vilken känsla draken väckte i dig.
 
 
-## De vanligaste tolkningarna
+## Klor, eld och en kraft du ännu inte använt
 
 ### Okontrollerade krafter och starka känslor
 
@@ -43,7 +43,7 @@ Att rida på en drake, eller att kommunicera fredligt med den, kan betyda att du
 Drakar symboliserar ibland något eller någon utanför dig själv — en auktoritär figur, en krävande relation, eller en situation som känns mycket större än dig. Drömmen kan uttrycka att du känner dig liten inför något som har stor makt i ditt liv just nu.
 
 
-## Vad påverkar tolkningen?
+## Anfall, allierad eller sprutade den eld?
 
 **Om draken anfaller dig:**
 Kan peka mot att du känner dig pressad eller hotad av något i vaket liv — en konflikt, ett ansvar eller en rädsla som närmar sig.
@@ -61,7 +61,7 @@ Drömmen handlar troligen om beundran — antingen för något i dig själv, ell
 Kan betyda att du övervinner en stor rädsla eller utmaning. En seger som kostar något.
 
 
-## Psykologiska och kulturella perspektiv
+## Skuggan, Fafner och skatten som vaktades
 
 Carl Jung såg drakar som arketypiska symboler för "Skuggan" — de sidor av oss själva vi inte vill kännas vid, men som har enorm energi. Också [ormen](/sv/drommar/orm/) delar denna arketypiska roll i drömsymboliken. Att konfrontera draken i drömmen är i jungiansk mening en inbjudan att möta det vi fruktar i oss själva.
 

@@ -30,7 +30,7 @@ sällan ett enda svar, men vissa mönster framträder tydligt.
 
 ---
 
-## De vanligaste tolkningarna
+## När ormen ömsar skinn
 
 ### Förvandling och ny början
 
@@ -63,7 +63,7 @@ eller outnyttjad potential som är på väg att vakna.
 
 ---
 
-## Vad påverkar tolkningen?
+## Vad ormens beteende berättar för dig
 
 Sammanhanget i drömmen är avgörande. Här är några varianter som ofta
 ger olika tolkningar:

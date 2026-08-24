@@ -25,7 +25,7 @@ Hjärtat är kanske det mest laddade organet i mänsklig symbolik — sätet fö
 
 Dessa drömmar kan handla om din kropp — om en oro för hälsan du bär på — men de handlar lika gärna om något djupare: din förmåga att älska, din emotionella styrka, och vad du verkligen bryr dig om.
 
-## De vanligaste tolkningarna
+## Kärlek, sårbarhet och det du ger vidare
 
 ### Din emotionella kärna och förmåga till kärlek
 
@@ -45,7 +45,7 @@ Hjärtat är det som håller oss vid liv — det slår utan paus, utan vila, uta
 
 Ibland är hjärtdrömmen mer direkt — en oro för hjärthälsan du bär på medvetet eller omedvetet. Se även [sjukdom](/sv/drommar/sjukdom/) för andra hälsodrömmar. Om du har riskfaktorer, upplevt symtom eller har familjehistoria med hjärtsjukdom, kan drömmen spegla en oro som förtjänar uppmärksamhet — och eventuellt ett samtal med läkaren.
 
-## Vad påverkar tolkningen?
+## Mod: att handla med hjärtat
 
 **Om hjärtat var starkt och rytmiskt:**
 God livsenergi, emotionell styrka och ett sunt förhållande till egna känslor.

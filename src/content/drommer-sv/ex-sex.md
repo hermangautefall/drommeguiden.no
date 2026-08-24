@@ -25,7 +25,7 @@ Du vaknar. Hjärtat bultar. Och du tänker: "Betyder detta att jag fortfarande �
 
 Nästan alltid: nej. Drömmar om sexuella möten med en expartner är bland de vanligaste drömmarna vuxna rapporterar — och de uppstår lika gärna i ett lyckligt nytt förhållande som hos singlar. Det är för att drömmen sällan handlar om personen. Den handlar om något personen representerar.
 
-## De vanligaste tolkningarna
+## Nostalgi och det oavslutade
 
 ### Nostalgi och sorg över en period i livet
 
@@ -51,7 +51,7 @@ Drömmens intimitet med dem är inte nödvändigtvis en önskan om personen — 
 
 I ett aktivt parförhållande kan drömmar om ex uppstå i perioder där förhållandet är tråkigt, stressande eller distanserat. Det är inte nödvändigtvis ett tecken på att du vill ha exet tillbaka — det kan vara en signal om att något i nuvarande förhållandet behöver uppmärksamhet. Intimitet, närhet, lidelse eller något du saknar.
 
-## Vad påverkar tolkningen?
+## Känslan efteråt
 
 **Om förhållandet slutade för länge sedan och kändes avslutat:**
 Expartnern fungerar som en symbol — inte som sig själv. Fråga vad de representerade.
@@ -68,7 +68,7 @@ Det är inte otrohet — drömmar väljs inte. Men obehaget kan peka på något 
 **Om du drömde om ex upprepade gånger:**
 Ett emotionellt tema som inte är färdigbearbetat. Vad sades aldrig mellan er?
 
-## Psykologiska och kulturella perspektiv
+## Varför gamla relationer dyker upp igen
 
 Forskaren Rosalind Cartwright dokumenterade att sörjande efter skilsmässa som drömde om expartnern hade bättre psykologiska utfall ett år senare än de som inte drömde om dem. Drömmarna om exet är inte stagnation — de är bearbetningen i arbete.
 

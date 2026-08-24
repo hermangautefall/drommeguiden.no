@@ -23,7 +23,7 @@ Eld är ett av de fyra klassiska elementen — och i drömvärlden är det kansk
 
 Att drömma om eld är att drömma om något som är i full förändring. Det är sällan en lugn symbol.
 
-## De vanligaste tolkningarna
+## Det som bränner och det som renar
 
 ### Transformation — det som bränns bort
 
@@ -47,7 +47,7 @@ Askan efter elden är inte ingenting. Den är fruktbar jord.
 
 Elden är destruktiv när den är okontrollerad — och drömmens eld kan representera en vrede som inte har funnit ett konstruktivt uttryck. En undertryckt aggression som nu brinner i det omedvetna. Något som kan förstöra det man håller kärt om det inte möts och bearbetas.
 
-## Vad påverkar tolkningen?
+## Eldens storlek och om den var under kontroll
 
 **Om elden var kontrollerad och varm:**
 En livgivande kraft — värme, kreativitet och livsenergi som är i din tjänst.
@@ -73,7 +73,7 @@ Du är i stånd att stå i det intensiva utan att brinna upp. En inre styrka.
 **Om elden var vacker och fascinerande:**
 En kraft i dig som drar till sig även om den är intensiv. Något är levande och laddat.
 
-## Psykologiska och kulturella perspektiv
+## Prometheus och eldens pris
 
 Prometheus stal elden från gudarna och gav den till människorna — och straffades för det i evighet. Elden är människornas gåva och människornas förbannelse: den som sätter oss över djuren och den som kan förstöra oss. I fornnordisk kosmologi är Muspelheim — eldens rike — en av de två urkällorna till existensen, i den eviga spänningen mot Niflheims [is](/sv/drommar/is/). Eld och is skapade världen.
 

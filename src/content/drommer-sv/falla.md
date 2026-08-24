@@ -30,7 +30,7 @@ Att drömma om att falla är en av de mest universella drömupplevelserna. Näst
 
 ---
 
-## De vanligaste tolkningarna
+## När fallet är något mer än en ryckning
 
 ### Förlust av kontroll
 
@@ -58,7 +58,7 @@ Denna tolkning är särskilt relevant om fallet i drömmen inte var skrämmande,
 
 ---
 
-## Vad påverkar tolkningen?
+## Kontrollen som glider
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

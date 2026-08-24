@@ -27,7 +27,7 @@ Du står plötsligt mitt i en samling människor — på jobbet, i klassrummet, 
 
 ---
 
-## De vanligaste tolkningarna
+## Skammen ingen annan ser
 
 ### Sårbarhet och exponering
 
@@ -55,7 +55,7 @@ Se även drömmar om [spegel](/sv/drommar/spegel/), som kan fördjupa temat om s
 
 ---
 
-## Vad påverkar tolkningen?
+## Vad blicken egentligen fruktar
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

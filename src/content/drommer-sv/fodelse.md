@@ -23,7 +23,7 @@ Födelsen är den starkaste bilden vi har för en ny början — det ögonblick 
 
 Dessa drömmar är sällan vardagliga. De bär ofta på något av det djupaste i drömmens symbolspråk.
 
-## De vanligaste tolkningarna
+## Något nytt som ser dagens ljus
 
 ### Något nytt kommer till världen
 
@@ -45,7 +45,7 @@ Födelse och kreativitet hör ihop i alla kulturer — vi "föder idéer", vi "b
 
 Att se ett [barn](/sv/drommar/barn/) födas — eller att hålla det nyfödda — bär på något av det tyngsta vi kan bära: ansvaret för ett liv, omsorgen om något helt sårbart. Drömmens födelse kan handla om detta: du bär på ett ansvar som är reellt och viktigt, för något eller någon som är beroende av dig.
 
-## Vad påverkar tolkningen?
+## Omständigheterna kring födelsen
 
 **Om du själv födde:**
 Något djupt personligt kommer till världen — en ny del av dig själv, en kreativ produktion som är genuint din.

@@ -23,7 +23,7 @@ Laxen är ett av de mest fascinerande djuren i nordisk natur — och ett av de m
 
 Det är inte svårt att förstå varför laxen är laddad med symbolik.
 
-## De vanligaste tolkningarna
+## Att simma mot strömmen
 
 ### Att simma mot strömmen mot något du vet är rätt
 
@@ -39,7 +39,7 @@ Laxen återvänder till rötterna för att fullborda livet — till precis den �
 
 Laxens lekvandring är en enkelriktad resa — den överlever inte leken. Det är den yttersta uppoffringen för nästa led. Drömmens lax kan representera något i ditt liv som kräver en total insats, en total hängivenhet — kanske ett projekt, en övergång eller en fas som kräver att du ger allt av dig.
 
-## Vad påverkar tolkningen?
+## Om laxen nådde fram
 
 **Om laxen simmade upp älven:**
 En tydlig och målmedveten kamp mot något viktigt — imponerande mod.

@@ -23,7 +23,7 @@ Fåglar är en av de mest universellt laddade symbolerna i människans drömvär
 
 En fågel i drömmen är sällan tillfällig. Den bär på något.
 
-## De vanligaste tolkningarna
+## Frihet, budskap och själen i rörelse
 
 ### Frihet och längtan efter att höja sig
 
@@ -43,7 +43,7 @@ I många traditioner är fåglar själva själens bild — det lätta, det flykt
 
 En fågel som flyger fri — ut ur en bur, upp från jorden, mot horisonten — är en av drömmarnas starkaste bilder på frigörelse och ny start. Något hålls inte längre tillbaka.
 
-## Vad påverkar tolkningen?
+## Arten, färgen och vad fågeln gjorde
 
 **Fågelns art:**
 Olika fåglar bär olika symbolik. Örn: kraft och perspektiv. Korp/kråka: visdom och det dolda. Duva: fred och försoning. Svan: skönhet och transformation. Sparv: det vardagliga och blygsamma. Se egna symbolsidor för specifika fåglar, som [örn](/sv/drommar/orn/) och [papegoja](/sv/drommar/papegoja/).

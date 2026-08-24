@@ -26,7 +26,7 @@ När en katt dyker upp i din dröm bär den med sig ett brett spektrum av möjli
 
 ---
 
-## De vanligaste tolkningarna
+## Den oläsliga naturen: vad katten speglar
 
 ### Oberoende och självständighet
 
@@ -56,7 +56,7 @@ En katt som ligger och spinner kan symbolisera belåtenhet och välbefinnande �
 
 ---
 
-## Vad påverkar tolkningen?
+## Sinnlighet och feminin energi
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

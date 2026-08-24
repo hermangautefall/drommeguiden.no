@@ -24,7 +24,7 @@ Fjärilen är kanske den mest universella symbolen för förvandling som finns �
 Att drömma om fjäril är sällan en tung dröm. Men den är alltid meningsfull.
 
 
-## De vanligaste tolkningarna
+## Från puppa till vingar
 
 ### Förvandling och ny början
 
@@ -39,7 +39,7 @@ På grekiska betyder ordet "psyche" både själ och fjäril. Drömmen kan ha en 
 En fjäril som [flyger](/sv/drommar/flyga/) fritt kan spegla en önskan om — eller en rörelse mot — mer lätthet i livet. Kanske har du varit tung till sinnes, och drömmen påminner dig om att detta tillstånd inte är permanent.
 
 
-## Vad påverkar tolkningen?
+## Landningen, färgen och skörheten
 
 **Om fjärilen landar på dig:**
 Ett vackert tecken — något gott söker dig. Tillit och öppenhet.

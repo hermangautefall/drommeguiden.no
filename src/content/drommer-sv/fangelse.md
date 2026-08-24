@@ -23,7 +23,7 @@ Att drömma om fängelse är en av de drömmar som sätter sig fast — den inte
 
 Fångenskap är en av de starkaste mänskliga symbolerna för ofrihet — och i drömvärlden används det för att uttrycka mycket olika typer av begränsning.
 
-## De vanligaste tolkningarna
+## Fångvaktaren är ofta du själv
 
 ### Du känner dig fångad i något du inte ser utvägen ur
 
@@ -49,7 +49,7 @@ Ibland är fängelset en relation — ett partnerskap, en familjesituation, en v
 
 Drömmen är inte nödvändigtvis en uppmaning att fly — den är en inbjudan att erkänna att något klämmer, och kanske börja prata om det.
 
-## Vad påverkar tolkningen?
+## Rymde du, eller stannade du?
 
 **Om du visste varför du var i fängelse:**
 En konkret situation, handling eller val som du håller dig själv ansvarig för. Ett tydligt område att arbeta med.

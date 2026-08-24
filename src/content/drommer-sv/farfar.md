@@ -21,7 +21,7 @@ author: 'default'
 
 Där [farmor](/sv/drommar/farmor/) är den visa, närande och varma feminina arketypen, är farfar den maskulina visdomsfiguren — han som har sett mycket, levt länge och bär på en erfarenhet som inte kan köpas. I drömmarna representerar han något urgammalt och solid: ett arv, en auktoritet, en linje bakåt i tiden.
 
-## De vanligaste tolkningarna
+## Erfarenhet, auktoritet och arv
 
 ### Maskulin visdom och livserfarenhet
 
@@ -37,7 +37,7 @@ Farfar representerar i många familjer den övergripande auktoriteten — husets
 
 Farfar är två generationer tillbaka — och att drömma om honom kan handla om något i ditt manliga arv (för alla kön) som behöver uppmärksamhet: en egenskap, ett värde, ett mönster som går i släkten.
 
-## Vad påverkar tolkningen?
+## Hur han mötte dig
 
 **Om farfar var glad och stark:**
 God tillgång till maskulin visdom och stadig grund. Något håller.

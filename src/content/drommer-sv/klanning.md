@@ -23,7 +23,7 @@ Kläder är identitetens yttre hud — det vi visar upp för världen, den roll 
 
 Drömmar om klänning dyker ofta upp i perioder då frågor om identitet, framtoning eller rollbyte är aktiva — eller då något i ditt liv närmar sig ett tillfälle som kräver att du träder fram på ett bestämt sätt.
 
-## De vanligaste tolkningarna
+## Klädseln och den du visar upp
 
 ### Identitet och det du visar upp
 
@@ -45,7 +45,7 @@ Att ta på sig en klänning i drömmen — särskilt en ny eller speciell sådan
 
 Vi klär oss för blicken — vår egen och andras. Drömmens klänning kan handla om en medveten eller omedveten önskan om en bestämd mottagning: att bli sedd som elegant, mäktig, sårbar, ung, vuxen, autentisk. Den valda klänningen berättar vad du söker i blicken från omgivningen.
 
-## Vad påverkar tolkningen?
+## Klänningens färg, passform och tillfälle
 
 **Om klänningen passade perfekt:**
 Du är i din rätta roll och bekväm med hur du framträder.

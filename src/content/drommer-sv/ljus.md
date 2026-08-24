@@ -21,7 +21,7 @@ author: 'default'
 
 Ljus är medvetandets och hoppets universella symbol — i nästan alla kulturer och religioner representerar ljus det goda, det klara, det gudomliga. I drömvärlden är ljus sällan negativt. Det är det som gör något synligt, det som leder genom mörkret, det som signalerar närvaron av något viktigt.
 
-## De vanligaste tolkningarna
+## Insikt, hopp och riktning
 
 ### Medvetenhet och insikt
 
@@ -35,7 +35,7 @@ Ett ljus i fjärran, en lykta i mörkret, en ficklampa som pekar ut vägen — d
 
 I religiösa och andliga traditioner är ljus den gudomliga symbolen — Gud skapade ljuset, Buddha är "den upplyste", Kristus är "världens ljus". I många drömmar är ljuset knutet till [solen](/sv/drommar/sol/) och till [kyrkan](/sv/drommar/kyrka/) som heligt rum. Drömmens intensiva vita eller gyllene ljus är en av de starkaste närhetsupplevelserna med något transcendent som många rapporterar.
 
-## Vad påverkar tolkningen?
+## Ljusets styrka och varifrån det kom
 
 **Om ljuset var starkt och klart:**
 Full medvetenhet och klar insikt. Något är tydligt och synligt.
@@ -55,7 +55,7 @@ Något som gav dig orientering är borta — mörkret tar över en stund.
 **Om ljuset var överväldigande:**
 En andlig erfarenhet som överskrider det ordinära — något närmar sig det transcendenta.
 
-## Psykologiska och kulturella perspektiv
+## Ljuset som andlig bild
 
 För nordbor — med vår starka ljusbrist på vintern och vår intensiva ljusglädje på sommaren — är ljuset extra laddat. Det nordiska förhållandet till ljus är inte metaforiskt; det är existentiellt. Att drömma om ljus i en mörk novembermånad är att drömma om något djupt saknat.
 

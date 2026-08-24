@@ -23,7 +23,7 @@ Krokodilen är ett av naturens mest skräckinjagande exempel på tålmodig, dold
 
 Men krokodilen är också ett av jordens äldsta och mest överlevnadsdugliga djur — en överlevare som klarat sig genom fem massutdöenden. Den är kort sagt levande dåtid, en arketypisk varelse från en tid innan människor fanns. Drömmar om krokodil bär alltid på denna dubbelhet: hotet och överlevnadskraften.
 
-## De vanligaste tolkningarna
+## Fara i det tysta, kraft i det uråldriga
 
 ### Dold fara och bedrägeri
 
@@ -45,7 +45,7 @@ Krokodilen är evolutionärt en av de äldsta arterna på jorden. I drömmar kan
 
 Krokodilen lever mellan vatten och land, mellan det djupa och det öppna. Drömmens krokodil kan handla om något som korsar gränser i ditt liv — det inre som dyker upp i det yttre, det undertryckta som blir synligt, det gamla som plötsligt kräver uppmärksamhet i en ny kontext.
 
-## Vad påverkar tolkningen?
+## Anfall, avstånd och vem som har kontrollen
 
 **Om krokodilen attackerar:**
 En fara du förbisett träffar dig. Något obehagligt du undvikit konfronterar dig plötsligt.

@@ -23,7 +23,7 @@ Kyrkan är en av de mest symbolmättade platserna i nordisk kultur — en byggna
 
 Dessa drömmar handlar nästan aldrig bara om byggnaden. De handlar om vad kyrkan bär på.
 
-## De vanligaste tolkningarna
+## Trösklar: dop, bröllop, begravning
 
 ### Andlig sökan och frågor om mening
 
@@ -47,7 +47,7 @@ Drömmen kan bjuda in dig att undersöka vad du faktiskt tror, vad du saknar av 
 
 Kyrkor är platser för stillhet i en bullrig värld — och några kyrkdrömmar handlar helt enkelt om detta. Ett behov av ro, av ett rum där kraven inte släpps in, av en andningspaus från det som pressar. Drömmen kan säga: du behöver mer stillhet, mer rum för det som inte kan mätas.
 
-## Vad påverkar tolkningen?
+## En fristad från allt som kräver något av dig
 
 **Om kyrkan var full av folk och det var högtid:**
 Gemenskap, tillhörighet och de stora ritualerna — livets övergångar som delas med andra.

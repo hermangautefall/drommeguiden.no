@@ -23,7 +23,7 @@ Drömmar om kärlek — där du älskar, är älskad, eller känner kärlekens n
 
 Men vad betyder de? Här är psykologins svar — och det är rikare än du kanske tror.
 
-## De vanligaste tolkningarna
+## Längtan efter att bli sedd
 
 ### Längtan efter förbundenhet och att bli sedd
 
@@ -49,7 +49,7 @@ I jungiansk psykologi är kärleken i drömmarna en av de kraftfullaste bilderna
 
 Sådana drömmar kan uppstå i perioder med personlig tillväxt, efter terapi, eller efter att ha gjort något svårt och rätt. De är psykets bekräftelse.
 
-## Vad påverkar tolkningen?
+## Vem kärleken var riktad mot
 
 **Om kärleken i drömmen var besvarad och varm:**
 Ett tecken på psykisk integration och kontakt med det goda i ditt liv.

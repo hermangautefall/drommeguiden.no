@@ -25,7 +25,7 @@ Av alla sexuella drömmar är detta kanske den mest psykologiskt intressanta: en
 
 Svaret från drömpsykologin är överraskande: de är du.
 
-## De vanligaste tolkningarna
+## Det okända i dig själv
 
 ### En oupptäckt sida av dig själv
 
@@ -49,7 +49,7 @@ Drömmen är inte nödvändigtvis en uppmaning att söka något utanför ditt li
 
 I vardagen är du definierad av relationer: du är partner, förälder, kollega, barn. Drömmens främling vet ingenting om dessa roller. Det sexuella mötet med dem kan representera en önskan att möta och bli mött som bara dig själv — utan alla lagren av förväntningar och identitet.
 
-## Vad påverkar tolkningen?
+## Känslan, inte handlingen
 
 **Om främlingen hade en specifik egenskap som var tydlig:**
 Den egenskapen är nyckeln. Vad representerade de — styrka, frihet, värme, mystik?
@@ -63,7 +63,7 @@ Mycket positivt — ett tecken på att du närmar dig sidor av dig själv med ö
 **Om drömmen upprepar sig med samma typ av främling:**
 En tydlig arketypisk signal — något i dig vill bli känt. Drömjournalen är en bra plats att börja utforska det.
 
-## Psykologiska och kulturella perspektiv
+## Anima, animus och det outforskade
 
 Främlingen som arketypisk figur har existerat i drömforskning sedan Freud — men Freuds tolkning (undertryckt sexuellt begär efter främlingar) anses idag som otillräcklig. Jungs förståelse av främlingen som en inre figur är långt mer fruktbar och i linje med modern drömforskning.
 

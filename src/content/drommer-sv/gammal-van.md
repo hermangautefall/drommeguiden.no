@@ -23,7 +23,7 @@ Plötsligt är de där igen — någon du inte aktivt tänkt på på åratal, so
 
 Det är sällan tillfälligt vem som dyker upp.
 
-## De vanligaste tolkningarna
+## Saknaden efter en tid eller en egenskap
 
 ### En saknad efter en kvalitet eller en period
 
@@ -39,7 +39,7 @@ Ibland dyker den gamla vännen upp för att något mellan er aldrig fick ett ord
 
 Drömmar om gamla vänner kommer ofta när något i det nuvarande livet aktiverar minnen från den period de tillhörde. En liknande situation, ett liknande val, samma känsla som då. Hjärnan kopplar samman det nya och det gamla.
 
-## Vad påverkar tolkningen?
+## Hur mötet förlöpte
 
 **Om drömmen var varm och god:**
 Saknad och varma minnen. Ett behov av mer av det den perioden gav.

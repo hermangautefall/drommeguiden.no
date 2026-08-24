@@ -21,7 +21,7 @@ author: 'default'
 
 En dröm där du är genuint lycklig — inte glad över något specifikt, utan genomgående och omotiverat lycklig — är ett av de mest värdefulla och minst studerade drömscenarierna vi känner till. Det är ovanligt nog att lägga märke till. Och det bär ett konkret budskap.
 
-## De vanligaste tolkningarna
+## När drömmen ger dig något du saknar
 
 ### Psyket visar dig vad du verkligen behöver
 
@@ -45,7 +45,7 @@ Sådana drömmar är vanliga efter perioder med personlig tillväxt, efter att h
 
 Några av de mest intensiva lyckodrömmarna är inte om prestationer eller relationer — de är om enkla sinnliga tillstånd: sol mot huden, ett vackert landskap, god mat, kroppen i rörelse. Det är psykets påminnelse om att den djupaste lyckan ofta är enkel och fysisk — tillgänglig i närvaron till det nära och konkreta.
 
-## Vad påverkar tolkningen?
+## Vad lyckan i drömmen handlade om
 
 **Om lyckan var knuten till bestämda människor:** De människorna är viktiga. Är de tillräckligt närvarande i ditt liv?
 
@@ -57,7 +57,7 @@ Några av de mest intensiva lyckodrömmarna är inte om prestationer eller relat
 
 **Om du inte förstod varför du var lycklig:** Den djupaste formen — en lycka som inte kräver motivering. Det är själva tillståndet psyket söker.
 
-## Psykologiska och kulturella perspektiv
+## Kompensation och integration
 
 Positiv psykologi — pionjärad av Martin Seligman — skiljer mellan njutningslycka (hedonisk lycka från behagliga upplevelser) och meningslycka (eudaimonisk lycka från ett liv i linje med värderingar och förmågor). Drömmens lycka är ofta av det senare slaget: ett tillstånd av djupare harmoni än vardagens glädjeämnen.
 

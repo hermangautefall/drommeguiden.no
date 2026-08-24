@@ -27,7 +27,7 @@ Förföljelsedrömmen är en av de allra mest universella drömupplevelser männ
 
 Denna dröm är så vanlig att den räknas som ett av de klassiska arketypiska drömscenarierna. Och trots att den kan kännas skrämmande bär den nästan alltid på ett budskap som är värt att höra.
 
-## De vanligaste tolkningarna
+## Hjärnans övningskamp
 
 ### Du undviker något som börjar hinna upp dig
 
@@ -51,7 +51,7 @@ Ett skrämmande monster som förföljer dig kan representera en undertryckt ilsk
 
 Ibland är förföljelsedrömmen mer generell — hjärnans sätt att ge form åt en diffus ångest. En oro som inte har ett tydligt objekt i vardagen kan ta form som en förföljare i drömmen, eftersom psyket föredrar konkreta bilder framför abstrakt oro.
 
-## Vad påverkar tolkningen?
+## Det du undviker hinner ifatt dig
 
 **Vem eller vad som förföljer dig:**
 Detta är den viktigaste ledtråden. Ett okänt monster kan symbolisera något du inte har definierat eller erkänt. En bekant person kan representera det de symboliserar i ditt liv — auktoritet, konflikt, krav. Ett djur har sin egen symbolik.

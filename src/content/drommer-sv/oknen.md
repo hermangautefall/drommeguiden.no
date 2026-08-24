@@ -23,7 +23,7 @@ author: 'default'
 
 Ökendrömmar är sällan neutrala. De träffar något djupt — och delar något med drömmar om [snö](/sv/drommar/sno/), där tystnaden och tomheten också står i centrum.
 
-## De vanligaste tolkningarna
+## Tomheten och prövningen
 
 ### Tomhet och andlig torka
 
@@ -41,7 +41,7 @@ I många religiösa och spirituella traditioner är öknen platsen man går igen
 
 Öknen är också en plats där allt överflödigt är borta — bara det essentiella återstår. Drömmen kan komma i perioder då du söker klarhet, då du vill göra dig av med brus och distraktion för att ta reda på vad som verkligen betyder något.
 
-## Vad påverkar tolkningen?
+## Om du hade vatten och riktning
 
 **Om öknen var vacker och stilla:**
 En positiv variant — klarhet, ro och ett möte med det väsentliga. En meditativ dröm.
@@ -58,7 +58,7 @@ En känsla av att det aldrig tar slut — en ihållande utmattning eller tomhet.
 **Om du vandrade ensam:**
 Den ensamma resan genom något krävande — kanske ett nödvändigt enrum med dig själv. Utforska fler [natursymboler i drömmarna](/sv/kategori/natur/).
 
-## Psykologiska och kulturella perspektiv
+## Ökenvandringen som motiv
 
 Öknen är i jungiansk psykologi knuten till Skuggland — den plats där jaget inte längre kan upprätthålla sina vanliga försvar och fasader. Där måste man möta sig själv utan distraktioner. Det är inte en behaglig plats, men det kan vara en nödvändig en.
 

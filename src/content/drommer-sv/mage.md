@@ -21,7 +21,7 @@ author: 'default'
 
 Magen är kroppens bearbetningscentrum — inte bara för mat, utan i drömsymboliken för erfarenheter och emotioner. "Magkänsla" är inte bara ett uttryck — vi vet faktiskt något i magen innan huvudet har formulerat det. Drömmarna om magen handlar om denna intuitiva, kroppsburna visdomsform. Det är en helt annan typ av kroppsdröm än drömmar om [hjärtat](/sv/drommar/hjarta/), som handlar om kärlek och mod.
 
-## De vanligaste tolkningarna
+## Magkänslan och det du smälter
 
 ### Intuition och magkänsla
 
@@ -35,7 +35,7 @@ Magen smälter — och i drömmarna kan detta betyda att du bearbetar något sv�
 
 Ångest och oro sätter sig gärna i magen — vi känner fjärilar, krymper, illamående. Att drömma om magen kan spegla ett emotionellt tillstånd som är så starkt att det tar plats i kroppen. Vad är det du oroar dig för, är rädd för, eller känner i grunden?
 
-## Vad påverkar tolkningen?
+## Vad du kände i magen
 
 **Om magen var smärtsam:**
 Något du sväljer är svårt att smälta. Något känns fel.

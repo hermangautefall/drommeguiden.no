@@ -21,7 +21,7 @@ author: 'default'
 
 Födelseögonblicket — själva den dramatiska övergången från det fördolda till det synliga — är en av drömmens mäktigaste symboler. Där graviditetssymbolen handlar om något som växer och mognar, handlar födelsesymbolen om ögonblicket då det träder fram. Det är övergången själv.
 
-## De vanligaste tolkningarna
+## Det som är redo att komma fram
 
 ### Något är redo att manifesteras
 
@@ -47,7 +47,7 @@ För kvinnor som är gravida är födelsedrömmarna en del av en naturlig psykol
 
 Se artikeln om [sömn under graviditet](/sv/somn/somn-graviditet/) för mer om drömmönster under väntan.
 
-## Vad påverkar tolkningen?
+## Hur förlossningen förlöpte
 
 **Om födseln gick bra och barnet var friskt:**
 Något nytt kommer att lyckas — det är tryggt att låta det träda fram.
@@ -64,7 +64,7 @@ Du bevittnar en förvandling — hos en annan person eller i en del av dig själ
 **Om födseln var enkel och nästan smärtfri:**
 En övergång som går lättare än du fruktade.
 
-## Psykologiska och kulturella perspektiv
+## Födelsen som övergångsrit
 
 Födseln är kanske den mest universella av alla arketypiska symboler. Alla kulturer har födelsemyter — från Zeus som föder Athena ur huvudet till Oden som hänger i Yggdrasil och "föder" runornas visdom. Födseln som metafor för ny insikt, ny identitet och ny värld är inbyggd i mänsklighetens föreställningsvärld.
 

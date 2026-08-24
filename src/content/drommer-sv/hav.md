@@ -31,7 +31,7 @@ tillfälligheter. Havet talar till något djupt i oss.
 
 ---
 
-## De vanligaste tolkningarna
+## Ytan: det som syns
 
 ### Havet som spegel för känslolivet
 
@@ -86,7 +86,7 @@ som väntar, medan horisonten symboliserar hopp och möjligheter.
 
 ---
 
-## Vad påverkar tolkningen?
+## Djupet: det som rör sig under
 
 Sammanhanget i drömmen är avgörande. Här är några varianter som ofta
 ger olika tolkningar:
@@ -111,7 +111,7 @@ alternativ.
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Vad du gjorde i eller vid vattnet
 
 Carl Jung betraktade havet som en av de starkaste symbolerna för det
 kollektiva omedvetna — det enorma reservoaret av mänsklig erfarenhet

@@ -21,7 +21,7 @@ author: 'default'
 
 Huden är kroppens största organ — och dess primära funktion är att skilja innanför från utanför. Det är gränsens organ. I drömmarnas symbolspråk bär huden denna gränsfunktion fullt ut: den handlar om vad du släpper in, vad du håller ute, och vad som är synligt av dig för världen.
 
-## De vanligaste tolkningarna
+## Gränsen mot världen
 
 ### Gränsen mellan dig och världen
 
@@ -43,7 +43,7 @@ Huden är sinnesorganet för beröring. Att drömma om hud kan spegla ett behov 
 
 Drömmens hudproblem — utslag, [sår](/sv/drommar/sar/), akne, fläckar — handlar sällan om faktisk hudhälsa. De speglar gärna något som "kretsar under ytan" och inte har fått uttryck: emotioner som inte bearbetats, stress som sitter i kroppen, eller något som behöver komma ut men inte vet vägen.
 
-## Vad påverkar tolkningen?
+## Hudens skick
 
 **Om huden var frisk och god:**
 Du är i god kontakt med dina omgivningar. Gränserna är passande.
@@ -60,7 +60,7 @@ Kontakt, närhet och det relationella — vem är du i beröring med, och vad k�
 **Om huden var av en annan färg än normalt:**
 Symbolisk transformation — du är på väg att bli något annat, eller upplever dig själv som annorlunda än vanligt.
 
-## Psykologiska och kulturella perspektiv
+## Huden som identitetsmarkör
 
 Huden som identitetsmarkör är en av de mest kulturellt laddade symbolerna som finns — hudfärg, tatueringar, [ärr](/sv/drommar/arr/) och kroppsmodifiering har i alla kulturer fungerat som identitetsdeklarationer och tillhörighetssignaler.
 

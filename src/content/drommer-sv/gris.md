@@ -23,7 +23,7 @@ Grisen är ett av de mest kulturellt tvetydiga djur vi kan drömma om — i viss
 
 Intressant nog är grisen ett av de mest intelligenta och nyfikna husdjur vi har — en egenskap som sällan erkänns i den folkliga symboliken.
 
-## De vanligaste tolkningarna
+## Överflöd, klokhet och kulturens skamstämpel
 
 ### Överflöd och njutning
 
@@ -37,7 +37,7 @@ Grisen är extremt intelligent — men den behandlas som om den inte är det. Dr
 
 I västerländsk kultur bär grisen på en kulturell skamkoppling — "grisig", smutsig, otyglad. Att drömma om gris kan spegla något du håller dolt, något du inte vill kännas vid, en impuls eller ett behov du upplever som för grovt eller ohyfsat.
 
-## Vad påverkar tolkningen?
+## Frodig, i leran, eller en aggressiv aptit?
 
 **Om grisen var frisk och frodig:**
 Överflöd och vitalitet. Något blomstrar i det naturliga och jordnära.
@@ -54,7 +54,7 @@ En undertryckt aptit eller ett undertryckt behov som kräver uttryck.
 **Om du åt gris:**
 Du tar till dig näring från något du kanske haft ett ambivalent förhållande till.
 
-## Psykologiska och kulturella perspektiv
+## Gullinbursti och det Jung skulle kalla skam
 
 I nordisk tradition är grisen faktiskt ett ädelt djur — Frej, fruktbarhetsguden, red på vildsvinet Gullinbursti som sprang snabbare än någon häst. Valhalls invånare åt köttet av vildsvinet Särimner på kvällen och fann det igen friskt och helt nästa morgon. Grisen är i nordisk mening livets överflöd och regenerationsförmåga personifierad.
 

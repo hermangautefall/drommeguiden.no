@@ -21,7 +21,7 @@ author: 'default'
 
 Mitt i öknen — där allt är torrt, hett och obarmhärtigt — finns en plats med vatten, skugga och liv. Det är oasen. I drömmarnas symbolspråk är den inte bara en geografisk plats — den är en av de kraftfullaste bilderna vi har på att även i de mest uttorkande perioderna av livet finns en punkt av förnyelse och liv.
 
-## De vanligaste tolkningarna
+## Vilan mitt i det krävande
 
 ### Vila och tillflykt i en krävande period
 
@@ -43,7 +43,7 @@ Oasen i en lång ökenresa är inte given — man måste gå för att hitta den.
 
 Det är värt att nämna: ibland är oasen i drömmarna inte det den ser ut att vara. En oas som smälter bort i samma ögonblick som du närmar dig speglar en besvikelse, ett löfte som inte hålls, eller en längtan efter ro som ännu inte är uppfylld.
 
-## Vad påverkar tolkningen?
+## Om du nådde fram till den
 
 **Om oasen var äkta och du nådde den:** Du är nära en period av förnyelse. Håll ut.
 
@@ -55,7 +55,7 @@ Det är värt att nämna: ibland är oasen i drömmarna inte det den ser ut att 
 
 **Om du delade oasen med andra:** Du är inte ensam i det krävande. Gemenskapen finns där.
 
-## Psykologiska och kulturella perspektiv
+## Oasen som löfte om lindring
 
 Oasen är en av de äldsta religiösa och mytologiska bilderna i de stora ökenkulturerna — egyptisk, hebreisk, arabisk. Paradisets trädgård är alltid en plats med vatten, skugga och frukt mitt i något som annars är öde. Det är inte en tillfällighet: för kulturer som lever med öknen är det att hitta vatten den heligaste av alla handlingar.
 

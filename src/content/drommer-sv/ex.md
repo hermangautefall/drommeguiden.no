@@ -27,7 +27,7 @@ Få drömmar skapar lika mycket förvirring som de där exet dyker upp. Du vakna
 
 ---
 
-## De vanligaste tolkningarna
+## Känslor som fortfarande rör sig
 
 ### Du bearbetar känslor från förhållandet
 
@@ -55,7 +55,7 @@ Många upplever att exdrömmarna gradvis ändrar karaktär över tid. De går fr
 
 ---
 
-## Vad påverkar tolkningen?
+## En version av dig själv
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

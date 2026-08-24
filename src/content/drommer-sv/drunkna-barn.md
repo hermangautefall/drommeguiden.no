@@ -29,7 +29,7 @@ Det är en av de drömmar som sätter sig hårdast i kroppen. Du vaknar med hjä
 
 Drömmar om att barn drunknar är mycket vanliga hos föräldrar, och de säger ingenting om vad som kommer att hända. De säger något om vad du fruktar mest — och att frukta att förlora det du älskar högst är den naturliga konsekvensen av att älska villkorslöst.
 
-## De vanligaste tolkningarna
+## Det viktigaste först
 
 ### Den djupaste föräldrarädslan aktiveras under sömnen
 
@@ -53,7 +53,7 @@ Det är inte ett varsel. Det är riskbedömningens naturliga nattarbete.
 
 Drömmens drunknande barn representerar då något symboliskt: ett projekt i sin tidigaste fas, en idé som inte är klar, en sårbar sida av dig själv, eller — som ofta hos dem som överväger att bli föräldrar — en bearbetning av själva frågan om föräldraskap.
 
-## Vad påverkar tolkningen?
+## Föräldrarädslan som vaknar på natten
 
 **Om du räddade barnet:**
 Du har de resurser som behövs. Rädslan är där, men så är också förmågan att handla.
@@ -70,7 +70,7 @@ Symboliskt — en sårbar del av dig själv som är i fara.
 **Om drömmen upprepar sig:**
 En ihållande ångest som förtjänar uppmärksamhet. Är det något i ditt liv som gör dig särskilt otrygg just nu?
 
-## Psykologiska och kulturella perspektiv
+## Vem barnet var
 
 Forskaren Antonio Zadra vid Universitetet i Montreal dokumenterade att drömmar om barns olyckor är bland de vanligaste föräldrarelaterade mardrömspremisserna — och att de konsekvent saknar prediktivt värde för faktiska händelser. De är ångestdrömmar, inte spådomsdrömmar.
 

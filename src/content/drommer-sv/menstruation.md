@@ -21,7 +21,7 @@ author: 'default'
 
 Menstruation är en av de mest underskattade symbolerna i drömvärlden — dels för att det inte talas särskilt mycket om det, dels för att drömmar om mensen är förvånansvärt vanliga. De kan dyka upp hos alla kön och i alla åldrar, och de bär ett rikt och positivt symboliskt innehåll som sträcker sig långt bortom det biologiska.
 
-## De vanligaste tolkningarna
+## Cykel, förnyelse och kraft
 
 ### Cykel, rytm och naturlig förnyelse
 
@@ -51,7 +51,7 @@ Kvinnor efter klimakteriet som drömmer om menstruation kan uppleva det som en b
 
 Unga kvinnor kan få mensdrömmar i samband med oro, identitetsutforskning eller stora livsförändringar.
 
-## Vad påverkar tolkningen?
+## Känslan som följde blodet
 
 **Om drömmens menstruation var naturlig och oproblematisk:**
 Du är i god kontakt med din egen cykliska natur. Något renas och förnyas.
@@ -68,7 +68,7 @@ Något är på sin mest intensiva och vitala nivå — eller något kräver mer 
 **Om du var lättad:**
 En klarhet — något du var orolig för visar sig inte ha hänt. Spänning som löses upp.
 
-## Psykologiska och kulturella perspektiv
+## Cykeln i kultur och tabu
 
 Menstruationens symbolik är en av de äldsta i mänskliga kulturer. Månen — den månatliga cykeln — är etymologiskt kopplad till menstruation i de flesta indoeuropeiska språk (svenska: månad, menstruation). De två cyklerna — månens och livmoderns — sågs i arkaiskt tänkande som en och samma.
 

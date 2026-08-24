@@ -23,7 +23,7 @@ Grodan är ett av naturens mest fascinerande förvandlingsdjur — från ägg ti
 
 Att drömma om groda är sällan en dramatisk dröm — men den är ofta meningsfull. Grodan dyker upp i perioder då något i dig är på väg att genomgå en förändring du inte helt lagt märke till.
 
-## De vanligaste tolkningarna
+## Metamorfos, regn och det som hoppar fram
 
 ### Förvandling och livsfaser
 
@@ -45,7 +45,7 @@ I många traditioner är grodan regnets och vattnets budbärare — något som k
 
 Grodor hoppar — utan varsel, explosivt. Drömmens groda kan handla om en känsla, ett minne eller en insikt som plötsligt hoppar upp ur det omedvetna och kräver uppmärksamhet. Det är sällan något hotfullt; det är något som varit under ytan länge och nu är redo att visa sig.
 
-## Vad påverkar tolkningen?
+## Grön och frisk, eller stilla och torr?
 
 **Om grodan är grön och frisk:**
 Tillväxt, vitalitet och förnyelse. En positiv dröm.

@@ -23,7 +23,7 @@ Där [händerna](/sv/drommar/hander/) är drömsymbolikens breda bild av handlin
 
 Drömmar om fingrar dyker ofta upp i perioder då något i ditt liv kräver precision, då din förmåga att skapa är aktiv, eller då frågor om beröring och kontakt med andra är laddade.
 
-## De vanligaste tolkningarna
+## Det dina händer kan skapa
 
 ### Skaparglädje och hantverk
 
@@ -45,7 +45,7 @@ Fingeravtryck är unika — ingen annans är som dina. Drömmar om fingrar kan d
 
 Vi räknar på fingrarna — fingrarna var mänsklighetens första kalkylator. Drömmar där du räknar något på fingrarna, eller där fingrarna har fel antal, kan handla om en pågående bokföring i ditt liv: vad har du, vad har du gjort, vad saknas, vad är nog?
 
-## Vad påverkar tolkningen?
+## Vilket finger, och vad som hände med det
 
 **Om fingrarna var starka och skickliga:**
 Skaparkraft, precision och behärskning. Du är duktig på det du gör.
@@ -71,7 +71,7 @@ En förvrängning av identitet eller självbild — något är "fel" i hur du se
 **Om du använde fingrarna till musik eller tecken:**
 Ett uttrycksbehov som ber om att bli sett och hört.
 
-## Psykologiska och kulturella perspektiv
+## Fingrarnas symbolik över kulturgränser
 
 Fingrarna har burit enorm symbolik över kulturer — knappast någon del av människokroppen har tillskrivits så detaljerad mening i religion, konst, ritualer och vardagskommunikation.
 

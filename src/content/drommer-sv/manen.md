@@ -24,7 +24,7 @@ relaterte_sovn:
 
 Där [solen](/sv/drommar/sol/) är medvetandet och den aktiva dagen, är månen det omedvetna och natten — det som lyser i mörkret utan att blända, det som följer sina cykler oberoende av vad vi önskar. Månen i drömmarna är en av de djupaste och mest poetiska symboler vi kan uppleva.
 
-## De vanligaste tolkningarna
+## Det omedvetna och cyklerna
 
 ### Det omedvetna talar
 
@@ -38,7 +38,7 @@ Månen förändras — från ny till full och tillbaka. I drömmarna representer
 
 Månen är i nästan alla kulturer knuten till den feminina principen — intuition, känsloliv, receptivitet och cyklisk tid. Att drömma om månen kan spegla att din intuition är särskilt aktiv och klar just nu.
 
-## Vad påverkar tolkningen?
+## Månfasen du såg
 
 **Om månen var full och klar:**
 Det omedvetna är i sin mest aktiva och synliga fas. Stark intuition och känslomässig intensitet.
@@ -55,7 +55,7 @@ Stark emotionell intensitet — något brinner i dig. Se även [stjärnor](/sv/d
 **Om månen kom nära dig:**
 Det omedvetna är mycket nära medvetandet. Något vill fram.
 
-## Psykologiska och kulturella perspektiv
+## Månen i tro och tideräkning
 
 Jung betraktade månen som en av de viktigaste arketypiska symbolerna för det omedvetna — särskilt för det han kallade "anima" hos män och den "mörka feminina sidan" generellt. Måndrömmarna är för honom en inbjudan att gå in i de djupare lagren av psyket.
 

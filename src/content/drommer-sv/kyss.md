@@ -21,7 +21,7 @@ author: 'default'
 
 Kyssen är en av de äldsta och mest universella mänskliga gesterna för kontakt, bekräftelse och förening. I drömmar bär kyssen samma symbolkraft — men det handlar sällan bara om romantik. Sammanhanget, känslan och inte minst vem du kysser är det som öppnar drömmens mening.
 
-## De vanligaste tolkningarna
+## Närhet, samtycke och vem det var
 
 ### Förening och bekräftelse
 
@@ -53,7 +53,7 @@ En dröm om en kyss kan därmed handla om en övergång du befinner dig i — et
 
 I jungiansk psykologi är en kyss mellan två drömfigurer ibland en bild av föreningen av motsatser i psyket — det rationella och det intuitiva, det maskulina och det feminina, det sociala jaget och skuggan. Att drömma om att kyssa en okänd del av dig själv är psykets bild av helhet.
 
-## Vad påverkar tolkningen?
+## Vem du kysste, och hur det kändes
 
 **Om kyssen var öm och fin:**
 Ett positivt tecken på närhet, självacceptans eller ett gott förhållande till den du kysste.
@@ -70,7 +70,7 @@ Personen är en symbol. Vad representerar de för dig — vilken egenskap eller 
 **Om det var en kyss på pannan eller kinden:**
 Omsorg, respekt och välsignelse snarare än romantik. Vad behöver du skydd eller stöd till?
 
-## Psykologiska och kulturella perspektiv
+## Kyssen som pakt och sigill
 
 Kyssen som ritual har djupa rötter i nästan alla kulturer. I nordisk tradition markerade en kyss ingående av ed och pakt. I romersk lag bekräftade en kyss muntliga avtal. I mystiska traditioner symboliserar kyssen överföring av livsande och gudomlig gnista.
 

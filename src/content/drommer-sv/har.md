@@ -23,7 +23,7 @@ Drömmar om hår — särskilt om att det faller av, klipps utan ditt samtycke, 
 
 Håret är inte slumpmässigt valt som symbol — det är något av det mest synliga hos oss, något som identifierar oss och som vi använder aktivt för att signalera vilka vi är.
 
-## De vanligaste tolkningarna
+## Att klippa är något annat än att tappa
 
 ### Förlust av kontroll och identitet
 
@@ -37,7 +37,7 @@ Att klippa håret i drömmen tolkas annorlunda — det kan betyda att du är red
 
 Håret är något vi visar upp — och drömmar där håret är fult, rufsigt, faller av eller förändras kan handla om en rädsla för att ses negativt av andra. En sårbarhet knuten till image, yttre framtoning eller social acceptans.
 
-## Vad påverkar tolkningen?
+## Vad håret säger till andra
 
 **Om håret föll av:**
 Förlust av kraft, identitet eller kontroll. En av de mest intensiva kroppsdrömmarna, men sällan ett konkret varsel.

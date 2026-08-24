@@ -23,7 +23,7 @@ Folkdräkten är inte bara en festdräkt — inte en vanlig [klänning](/sv/drom
 
 I drömvärlden är folkdräkten en av de starkaste symboler för identitet och tillhörighet som finns.
 
-## De vanligaste tolkningarna
+## Att klä sig i sin egen tillhörighet
 
 ### Identitet och tillhörighet
 
@@ -37,7 +37,7 @@ Folkdräkten tas fram vid viktiga tillfällen — midsommar, [bröllop](/sv/drom
 
 Folkdräkten ärvs gärna — från mor till dotter, från generation till generation. Drömmens folkdräkt kan handla om din relation till traditionen och arvet du bär: vad tar du med dig, vad håller du fast vid?
 
-## Vad påverkar tolkningen?
+## Passade den, och var bar du den?
 
 **Om folkdräkten passade perfekt:**
 Du är på din rätta plats och är bekväm med din identitet och tillhörighet.
@@ -54,7 +54,7 @@ En stolthet och glädje över identiteten och tillhörigheten du bär.
 **Om du inte hade folkdräkt medan andra hade det:**
 En känsla av att stå utanför en tradition eller gemenskap.
 
-## Psykologiska och kulturella perspektiv
+## Ett nationellt plagg med lokal förankring
 
 Folkdräkten är en av de få nationella symboler som samlar människor över politik och generationer. I Sverige bärs den vid midsommar, bröllop och högtider — tillfällen då man bekänner sig till något gemensamt.
 

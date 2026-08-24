@@ -25,7 +25,7 @@ Mat är mer än näring — det är kärlek, kultur, trygghet och njutning på e
 
 Matdrömmar handlar sällan om hungerkänslan ensam.
 
-## De vanligaste tolkningarna
+## Hunger, njutning och att dela
 
 ### Ett grundläggande behov som inte är tillgodosett
 
@@ -39,7 +39,7 @@ Mat är njutning — och drömmar om härlig mat, om att äta fritt och med glä
 
 Mat är socialt — vi äter tillsammans, vi lagar mat åt dem vi tycker om. Att drömma om att laga mat åt andra eller äta i gott sällskap kan spegla en önskan om mer närhet, mer delande, mer gemenskap.
 
-## Vad påverkar tolkningen?
+## Vad du åt, och med vem
 
 **Om maten var härlig och du åt med glädje:**
 Tillåtelse till njutning och en positiv relation till egna behov. Ett gott tecken.
@@ -56,7 +56,7 @@ Ensamhet eller självständighet — beroende på om det kändes bra eller sorgl
 **Om du lagade mat åt andra:**
 Omsorg och generositet — en önskan om att ge, eller kanske en tendens att ge mer än du tar.
 
-## Psykologiska och kulturella perspektiv
+## Måltiden som gemenskap
 
 I psykoanalytisk tradition är maten tätt knuten till de tidigaste erfarenheterna av omsorg — bröstet, maten, den som ger näring. Matdrömmar berör därmed något mycket grundläggande i den mänskliga psyket: urbehovet att bli sedd och omhändertagen.
 

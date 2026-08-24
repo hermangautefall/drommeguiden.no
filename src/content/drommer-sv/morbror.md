@@ -23,7 +23,7 @@ Morbrodern är den manliga figuren i familjens yttre ring — han har omsorg och
 
 Drömmar om morbror eller farbror dyker ofta upp i perioder då du söker en form av maskulint stöd eller modellering du inte hittar någon annanstans, eller då en bestämd erfarenhet från honom är på väg tillbaka i medvetandet.
 
-## De vanligaste tolkningarna
+## Vägledning utan krav
 
 ### Maskulin vägledning utan krav
 
@@ -45,7 +45,7 @@ I djuppsykologin är morbrodern ofta mer "internaliserad" än fadern — en figu
 
 Morbröder hör ofta till barndomen — de få stora sommardagarna, julen, gemensamma semestrarna. Drömmens morbror kan helt enkelt vara barndomen som knackar på — en längtan efter en enklare tid, en bestämd upplevelse som lever vidare i dig, eller en obesvarad fråga från den tiden.
 
-## Vad påverkar tolkningen?
+## Vilken roll morbrodern hade
 
 **Om morbrodern var vänlig och vägledande:**
 Tillgång till maskulin erfarenhet och stöd utan press.
@@ -68,7 +68,7 @@ Symbolen för gåvan är nyckeln — det är något han "lämnar över" till dig
 **Om han var i sin arbetssituation:**
 Morbroderns yrke kan symbolisera ett arbetsliv eller en livsform du själv överväger.
 
-## Psykologiska och kulturella perspektiv
+## Den manliga förebilden vid sidan av fadern
 
 Morbroderns och farbroderns roll varierar dramatiskt mellan kulturer, och det gör drömmens morbror till en mångtydig figur. I svensk och allmänt nordeuropeisk kontext är morbrodern eller farbrodern en perifer omsorgsfigur — viktig, men inte daglig. Drömmen om en svensk morbror handlar ofta om något nostalgiskt eller om en specifik relation.
 
