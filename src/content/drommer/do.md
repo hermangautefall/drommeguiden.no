@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Underbevistheten bearbeider frykt — ikke et varsel"
 bilde: /bilder/symboler/do.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En kvalitet du saknar, personifierad i den du älskar i drömmen"
 bilde: /bilder/symboler/kjaerlighet.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

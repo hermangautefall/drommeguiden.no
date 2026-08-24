@@ -12,6 +12,7 @@ tolkninger_kort:
   - "The collective unconscious and the great, ancient forces of the psyche"
   - "Communication and intelligence on a deeper level than the everyday"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hval.jpg
 nb_slug: hval
 sv_slug: val

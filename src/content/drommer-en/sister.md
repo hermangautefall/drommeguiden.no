@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Something unresolved between you is asking for attention"
   - "Sisterhood, rivalry and belonging are explored"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/soester.jpg
 nb_slug: soester
 sv_slug: syster

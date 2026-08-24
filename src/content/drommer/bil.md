@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Følelsen av kontroll — eller mangel på den — er i fokus"
   - "En overgang eller reise i livet ditt er i gang"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/bil.jpg
 author: 'default'
 ---

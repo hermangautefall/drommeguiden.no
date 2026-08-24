@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Søvnen er delt i faser som hjernen sykler gjennom hele natten. Her er hva som skjer i hver fase — og hvorfor REM-søvnen er der drømmene bor og lever."
 leseminutter: 8
 dato: 2026-03-22
+oppdatert: 2026-06-13
 bilde: /bilder/sovn/sovnfaser.jpg
 sv_slug: somnfaser
 relaterte_sovn:

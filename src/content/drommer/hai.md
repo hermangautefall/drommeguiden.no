@@ -12,6 +12,7 @@ tolkninger_kort:
   - "En person i livet ditt er kald, beregnende eller rovgrådig"
   - "Din egen kraft og evne til å navigere dype følelser"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/hai.jpg
 author: 'default'
 ---

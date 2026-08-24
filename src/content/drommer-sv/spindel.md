@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Drömmen tolkas ofta som ett uttryck för rädsla, antingen konkret eller symbolisk."
   - "Spindeln kan representera en manipulativ person som spinner sitt nät."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/edderkopp.jpg
 author: 'default'
 relaterte_sovn:

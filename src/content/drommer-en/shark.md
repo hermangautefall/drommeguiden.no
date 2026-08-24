@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Someone in your life is cold, calculating or predatory"
   - "Your own strength and ability to navigate deep emotions"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hai.jpg
 nb_slug: hai
 sv_slug: haj

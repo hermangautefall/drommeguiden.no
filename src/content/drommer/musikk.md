@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sjelen kommuniserer noe som ikke lar seg si i ord"
 bilde: /bilder/symboler/musikk.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

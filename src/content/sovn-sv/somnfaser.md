@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Sömnen är indelad i faser som hjärnan cyklar genom hela natten. Här är vad som händer i varje fas — och varför REM-sömnen är där drömmarna bor och lever."
 leseminutter: 8
 dato: 2026-04-20
+oppdatert: 2026-06-01
 bilde: /bilder/sovn/sovnfaser.jpg
 nb_slug: sovnfaser
 relaterte_drommer:

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Noe ubearbeidet fra fortiden prøver å komme til overflaten"
   - "Du er i ferd med å miste kontrollen over noe viktig i livet ditt"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/drukne.jpg
 author: 'default'
 relaterte_sovn:

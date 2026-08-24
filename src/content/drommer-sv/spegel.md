@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En konfrontation med sanningen eller dolda sidor av dig själv"
   - "Övergångar och förändringar i identitet speglas"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/speil.jpg
 author: 'default'
 ---

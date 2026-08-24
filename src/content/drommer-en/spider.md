@@ -11,6 +11,7 @@ tolkninger_kort:
   - "The dream is often interpreted as an expression of fear, whether literal or symbolic."
   - "The spider can represent a manipulative person spinning their own web."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/edderkopp.jpg
 nb_slug: edderkopp
 author: 'default'

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Expartnern representerar en egenskap eller period i livet du saknar"
 bilde: /bilder/symboler/eksen-sex.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - varfor-drommer-vi

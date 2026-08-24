@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En inre eller yttre kris kräver ny anpassning"
 bilde: /bilder/symboler/jordskjelv.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

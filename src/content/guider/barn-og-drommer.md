@@ -5,7 +5,7 @@ kortbeskrivelse: "Når begynner barn å drømme — og hva drømmer de om? Forsk
 leseminutter: 8
 bilde: /bilder/guider/barn-og-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 ---
 
 Barnet ditt sitter opp i sengen midt på natten, redd for noe det ikke kan sette ord på. Eller det forteller om en drøm der dere to var på et eventyr, levende og detaljert. Barn drømmer — og de drømmer intenst. Men barns drømmeliv er annerledes enn voksnes på måter som er viktige å forstå.

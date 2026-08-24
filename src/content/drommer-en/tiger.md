@@ -12,6 +12,7 @@ tolkninger_kort:
   - "You find yourself in a situation that demands sharpened awareness"
   - "A dangerous or unpredictable force is at play in your life"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/tiger.jpg
 nb_slug: tiger
 sv_slug: tiger

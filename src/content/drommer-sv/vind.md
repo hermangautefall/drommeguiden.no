@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något från det förflutna är redo att plockas fram igen"
 bilde: /bilder/symboler/loft.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

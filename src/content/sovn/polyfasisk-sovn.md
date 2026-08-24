@@ -7,7 +7,7 @@ kortbeskrivelse: "Polyfasisk søvn lover mer produktiv tid ved å dele søvnen i
 leseminutter: 7
 bilde: /bilder/sovn/polyfasisk-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnfaser
   - sovnbehov

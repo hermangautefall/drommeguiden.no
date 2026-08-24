@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ditt förhållande till det transcendenta och det som är större än du"
 bilde: /bilder/symboler/himmel.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

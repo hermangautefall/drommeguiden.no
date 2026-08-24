@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Grenser mellom arbeid og privatliv — psyken klarer ikke å koble fra"
 bilde: /bilder/symboler/jobbe-drom.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

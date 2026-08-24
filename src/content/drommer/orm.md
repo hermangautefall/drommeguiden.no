@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe som ødelegger langsomt — en giftig situasjon eller tanke"
 bilde: /bilder/symboler/orm.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

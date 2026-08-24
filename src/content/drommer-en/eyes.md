@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Insight and spiritual awareness are available to you"
   - "You feel watched or judged by others"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/oyne.jpg
 nb_slug: oyne
 sv_slug: ogon

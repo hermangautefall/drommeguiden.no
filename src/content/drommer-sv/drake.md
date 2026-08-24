@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du besitter mer styrka och potential än du är medveten om"
   - "En överväldigande situation eller person i ditt liv"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/drage.jpg
 author: 'default'
 ---

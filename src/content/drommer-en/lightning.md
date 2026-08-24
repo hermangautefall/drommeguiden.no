@@ -11,6 +11,7 @@ tolkninger_kort:
   - "Electric energy and intensity — something is charged and tense"
   - "A crisis or conflict that hits without warning"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/lynet.jpg
 nb_slug: lynet
 sv_slug: blixten

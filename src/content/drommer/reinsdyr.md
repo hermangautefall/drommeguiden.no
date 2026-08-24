@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Samisk arv og forbindelsen til urfolks visdom og natur"
 bilde: /bilder/symboler/reinsdyr.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

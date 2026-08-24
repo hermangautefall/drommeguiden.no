@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något oväntat och imponerande dyker upp — var uppmärksam"
 bilde: /bilder/symboler/elg.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

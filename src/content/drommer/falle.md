@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Drømmen kan gjenspeile frykt for å mislykkes eller tape noe viktig."
   - "Falledrømmer kan bety at du trenger å slippe taket og stole på prosessen."
 dato: 2026-03-18
+oppdatert: 2026-08-20
 bilde: /bilder/symboler/falle.jpg
 author: 'default'
 relaterte_sovn:

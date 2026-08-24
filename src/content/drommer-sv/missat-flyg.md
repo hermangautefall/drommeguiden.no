@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Ångest för att inte hänga med i livets tempo och förväntningar"
 bilde: /bilder/symboler/fly-misser.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: fly-misser
 author: 'default'
 ---

@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Du møter eller er selv en sterk autoritetsfigur"
   - "Et sinne eller en kraft inni deg krever oppmerksomhet"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/love.jpg
 author: 'default'
 ---

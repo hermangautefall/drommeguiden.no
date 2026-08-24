@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Rädslan för att avslöjas som otillräcklig — bedragarkänslans drömbild"
 bilde: /bilder/symboler/skamme.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

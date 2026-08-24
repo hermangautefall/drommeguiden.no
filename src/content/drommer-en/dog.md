@@ -12,6 +12,7 @@ tolkninger_kort:
   - "An aggressive dog may signal a threat or conflict in a close relationship."
   - "Dogs can represent your instincts and the intuitive part of yourself."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hund.jpg
 nb_slug: hund
 sv_slug: hund

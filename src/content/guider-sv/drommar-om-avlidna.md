@@ -6,7 +6,7 @@ kortbeskrivelse: "Att drömma om någon du har förlorat är en av de mest inten
 leseminutter: 9
 bilde: /bilder/guider/drommer-om-avdode.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 ---
 
 De flesta som har förlorat någon nära vet hur det är. Du ser dem i drömmarna — som om de aldrig varit borta, som om allt är normalt. Och sedan vaknar du, och förlusten träffar dig på nytt. Eller så vaknar du med ett ovanligt lugn, en känsla av att något sades som behövde sägas, att ett möte ägde rum som var verkligt på ett sätt som inte riktigt låter sig förklaras.

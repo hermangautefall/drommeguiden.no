@@ -7,7 +7,7 @@ kortbeskrivelse: "Overgangsalderen forandrer søvnen dramatisk for mange kvinner
 leseminutter: 8
 bilde: /bilder/sovn/menopause-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnproblemer
   - sovnhygiene

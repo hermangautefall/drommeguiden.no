@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En del av din identitet som er formet av noe som strekker seg bakover"
 bilde: /bilder/symboler/bestefar.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

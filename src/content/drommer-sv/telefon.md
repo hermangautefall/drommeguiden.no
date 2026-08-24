@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något du vill säga men inte sagt söker ett uttryck"
 bilde: /bilder/symboler/telefon.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

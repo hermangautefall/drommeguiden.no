@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Ett varsel om något i livet som kräver mer försiktighet"
 bilde: /bilder/symboler/ulykke.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

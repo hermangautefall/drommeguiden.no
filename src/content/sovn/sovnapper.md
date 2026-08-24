@@ -7,7 +7,7 @@ kortbeskrivelse: "Søvnapper som Sleep Cycle, Oura Ring og Apple Watch lover inn
 leseminutter: 8
 bilde: /bilder/sovn/sovnapper.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnfaser
   - sovnbehov

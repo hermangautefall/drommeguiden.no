@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Kreativ energi och livsglädje söker uttryck"
 bilde: /bilder/symboler/sex.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: sex
 author: 'default'
 relaterte_sovn:

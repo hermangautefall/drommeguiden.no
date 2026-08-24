@@ -13,6 +13,7 @@ tolkninger_kort:
   - "An unresolved matter between you is seeking closure"
   - "The dream feels like a genuine visit — and it brings comfort"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/avdod-person.jpg
 nb_slug: avdod-person
 sv_slug: avliden-person

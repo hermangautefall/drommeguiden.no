@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et ønske om kontakt med en kvalitet eller egenskap den andre personen representerer"
 bilde: /bilder/symboler/samleie.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

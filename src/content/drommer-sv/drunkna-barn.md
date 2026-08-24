@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En förälders djupaste ångest — hjärnan processar det värsta för att skydda"
 bilde: /bilder/symboler/drukne-barn.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - ptsd-drommar

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Jämförelse och den sociala rangordning du kanske inte vill erkänna att du gör"
 bilde: /bilder/symboler/sosiale-medier.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

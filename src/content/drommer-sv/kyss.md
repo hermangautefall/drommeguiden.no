@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En övergång eller ett löfte — kyssar har historiskt markerat förpliktelse och ingångna band"
 bilde: /bilder/symboler/kyss.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: kyss
 author: 'default'
 ---

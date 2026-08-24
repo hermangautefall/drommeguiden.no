@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Sårbarhet som är synlig — något du inte längre kan dölja för dig själv"
 bilde: /bilder/symboler/saar.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Fire in dreams is often read as a sign of transformation and renewal."
   - "An uncontrolled fire may point toward destructive forces or a fear of loss."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/brann.jpg
 nb_slug: brann
 sv_slug: brand

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En oväntad resurs är på väg — något gott är på väg in i livet"
 bilde: /bilder/symboler/vinne-penger.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

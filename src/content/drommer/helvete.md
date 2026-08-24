@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En destruktiv syklus du ikke ser veien ut av"
 bilde: /bilder/symboler/helvete.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - ptsd-drommer

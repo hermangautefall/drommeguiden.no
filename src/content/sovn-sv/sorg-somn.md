@@ -8,7 +8,7 @@ kortbeskrivelse: "Sorg förändrar sömnen djupt — och sömnen är där mycket
 leseminutter: 8
 bilde: /bilder/sovn/sorg-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnproblem
   - depression-somn

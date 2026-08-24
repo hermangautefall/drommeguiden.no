@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En uoppgjort situasjon mellom dere trenger oppmerksomhet"
 bilde: /bilder/symboler/mor.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

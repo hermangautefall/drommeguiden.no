@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A cycle in your life is coming full circle"
   - "Belonging, connection and being part of something"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/ring.jpg
 nb_slug: ring
 sv_slug: ring

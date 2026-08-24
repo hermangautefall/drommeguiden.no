@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A connection between two things that are otherwise separate"
   - "The courage to cross into something you're unsure about"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/bro.jpg
 nb_slug: bro
 sv_slug: bro

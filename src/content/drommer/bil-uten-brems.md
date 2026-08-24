@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Angst for konsekvenser av noe som er satt i bevegelse og ikke kan stoppes"
 bilde: /bilder/symboler/bil-uten-brems.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

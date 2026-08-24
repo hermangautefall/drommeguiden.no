@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Tillhörighet, anknytning och det att höra till någon"
 bilde: /bilder/symboler/ring.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

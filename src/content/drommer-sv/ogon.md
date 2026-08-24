@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Du känner dig övervakad eller bedömd av andra"
 bilde: /bilder/symboler/oyne.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

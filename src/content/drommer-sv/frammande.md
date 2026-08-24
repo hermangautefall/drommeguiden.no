@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din skuggsida eller en undertryckt aspekt visar sig"
 bilde: /bilder/symboler/fremmed.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Lightness, freedom, and joy are looking for a way to express themselves"
   - "Your soul is moving toward something new and beautiful"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/sommerfugl.jpg
 nb_slug: sommerfugl
 sv_slug: fjaril

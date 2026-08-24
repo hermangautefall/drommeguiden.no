@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Unconscious feelings or unresolved questions are surfacing"
   - "Growth, renewal, and reconnecting with your natural self"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/skog.jpg
 nb_slug: skog
 sv_slug: skog

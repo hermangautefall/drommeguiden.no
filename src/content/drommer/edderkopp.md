@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Drømmen tolkes ofte som et uttrykk for frykt, enten konkret eller symbolsk."
   - "Edderkoppen kan representere en manipulativ person som spinner sitt nett."
 dato: 2026-03-18
+oppdatert: 2026-08-20
 bilde: /bilder/symboler/edderkopp.jpg
 author: 'default'
 relaterte_sovn:

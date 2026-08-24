@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Skjult visdom eller intuisjon forsøker å nå deg"
   - "Noe i livet ditt trenger din oppmerksomhet"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/krage.jpg
 author: 'default'
 ---

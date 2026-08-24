@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Psyken bearbeider noe som kanskje bør avsluttes — et forhold, en fase eller en rolle"
 bilde: /bilder/symboler/skille-lag.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

@@ -6,7 +6,7 @@ kortbeskrivelse: "Stress förändrar dina drömmar på konkreta och dokumenterad
 leseminutter: 8
 bilde: /bilder/guider/stress-og-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-08-24
 ---
 
 Du har en krävande period på jobbet, och plötsligt är drömmarna fulla av tentor du inte är förberedd på, tåg du inte hinner och chefer som är missnöjda. Eller du sover dåligt, drömmarna är oroliga och fragmenterade, och du vaknar utmattad. Sambandet är inte slumpmässigt — stress påverkar drömmarna på konkreta och väldokumenterade sätt.

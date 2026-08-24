@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Tilknytning og berøring — det å nå og bli nådd"
 bilde: /bilder/symboler/fingre.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

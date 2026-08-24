@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A strong inner drive or life force is trying to express itself"
   - "The balance between control and your wilder side is in focus"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hest.jpg
 nb_slug: hest
 sv_slug: hast

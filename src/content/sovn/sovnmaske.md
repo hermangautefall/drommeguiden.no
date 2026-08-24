@@ -7,7 +7,7 @@ kortbeskrivelse: "Mørket er en av søvnens viktigste forutsetninger. Her er hva
 leseminutter: 6
 bilde: /bilder/sovn/sovnmaske.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - soverom-sovn
   - sovnhygiene

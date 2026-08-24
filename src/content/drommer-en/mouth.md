@@ -12,6 +12,7 @@ tolkninger_kort:
   - "The boundary between your inner world and what you share with others"
 bilde: /bilder/symboler/munn.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: munn
 sv_slug: mun
 author: 'default'

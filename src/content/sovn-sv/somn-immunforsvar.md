@@ -8,7 +8,7 @@ kortbeskrivelse: "Immunförsvaret är som mest aktivt medan du sover. Här är v
 leseminutter: 7
 bilde: /bilder/sovn/sovn-immunforsvar.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - vad-ar-somn
   - somnbehov

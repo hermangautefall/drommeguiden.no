@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Du bærer på noe tungt — en byrde, et minne eller et ansvar"
   - "Styrke brukt med omsorg og klokskap"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/elefant.jpg
 author: 'default'
 ---

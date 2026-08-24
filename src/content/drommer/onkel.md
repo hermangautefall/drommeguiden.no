@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En del av familiens nettverk som bærer på noe spesielt for deg"
 bilde: /bilder/symboler/onkel.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

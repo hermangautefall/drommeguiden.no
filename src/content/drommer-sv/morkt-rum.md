@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Rädsla eller osäkerhet i en livssituation speglas"
   - "En inbjudan till introspektion och inre arbete"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/morkt-rom.jpg
 author: 'default'
 relaterte_sovn:

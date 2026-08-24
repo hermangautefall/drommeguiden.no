@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Fristelse og det som trekker deg bort fra det du vet er riktig for deg"
 bilde: /bilder/symboler/djevel.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - ptsd-drommer

@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Comfort and reassurance during a difficult time"
   - "Your higher awareness or intuition is speaking to you"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/engler.jpg
 nb_slug: engler
 sv_slug: anglar

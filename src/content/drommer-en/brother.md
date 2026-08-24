@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Rivalry, comparison, and finding your place in the family"
   - "Something unresolved in the sibling relationship seeks attention"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/bror.jpg
 nb_slug: bror
 sv_slug: bror

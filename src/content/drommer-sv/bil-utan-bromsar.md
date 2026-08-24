@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ångest för konsekvenserna av något som satts i rörelse och inte kan stoppas"
 bilde: /bilder/symboler/bil-uten-brems.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

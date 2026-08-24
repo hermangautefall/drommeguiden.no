@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Något eller någon väntar tålmodigt på en svaghet"
   - "Din förmåga att anpassa dig och överleva svåra omständigheter"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/krokodille.jpg
 author: 'default'
 ---

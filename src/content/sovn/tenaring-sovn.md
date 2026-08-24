@@ -7,7 +7,7 @@ kortbeskrivelse: "Tenåringer sover ikke sent av latskap — biologi tvinger dem
 leseminutter: 8
 bilde: /bilder/sovn/tenaring-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnbehov
   - sovnhygiene

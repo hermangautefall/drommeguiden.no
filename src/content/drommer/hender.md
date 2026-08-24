@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Relasjoner og forbindelser med andre mennesker speiles"
   - "Din identitet og selvfølelse uttrykkes gjennom hendenes tilstand"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/hender.jpg
 author: 'default'
 relaterte_sovn:

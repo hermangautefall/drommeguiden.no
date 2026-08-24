@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En indre trang til kontroll eller perspektiv melder seg"
   - "Personlig vekst og nye muligheter åpner seg"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/flyging.jpg
 author: 'default'
 relaterte_sovn:

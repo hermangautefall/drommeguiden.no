@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Styrke og soliditet — et fundament du kan stole på"
 bilde: /bilder/symboler/stein.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

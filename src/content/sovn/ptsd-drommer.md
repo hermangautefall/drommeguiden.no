@@ -7,7 +7,7 @@ kortbeskrivelse: "PTSD er den søvn- og drømmeforstyrrelsen vi vet mest om — 
 leseminutter: 8
 bilde: /bilder/sovn/ptsd-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnproblemer
   - depresjon-sovn

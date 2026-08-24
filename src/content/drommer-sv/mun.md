@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Gränsen mellan din inre värld och det du delar med andra"
 bilde: /bilder/symboler/munn.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

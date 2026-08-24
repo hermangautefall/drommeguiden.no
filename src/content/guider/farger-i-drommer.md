@@ -5,7 +5,7 @@ kortbeskrivelse: "Farger i drømmer er sjelden tilfeldige. Rød, blå, hvit, sva
 leseminutter: 9
 bilde: /bilder/guider/farger-i-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 ---
 
 De fleste drømmer i farger — men legger ikke alltid merke til det. Det er først når en farge er spesielt intens, uvanlig eller gjentakende at den tvinger seg frem i bevisstheten: en knallrød dør, et himmelblt hav, en hvit skikkelse i mørket. Når fargen setter seg fast i minnet, er det sjelden tilfeldig.

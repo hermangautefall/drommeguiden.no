@@ -8,7 +8,7 @@ kortbeskrivelse: "Träning är ett av de bästa sömnmedlen som finns — men ti
 leseminutter: 7
 bilde: /bilder/sovn/traning-somn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnhygien
   - somnbehov

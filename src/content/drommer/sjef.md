@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din indre kritiker har tatt sjefens ansikt"
 bilde: /bilder/symboler/sjef.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - angst-sovn

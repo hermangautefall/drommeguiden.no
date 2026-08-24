@@ -11,6 +11,7 @@ tolkninger_kort:
   - "You are part of something larger than yourself"
   - "A dream, a goal or a longing lighting up the darkness"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/stjerner.jpg
 nb_slug: stjerner
 sv_slug: stjarnor

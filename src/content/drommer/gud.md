@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En søken etter mening, retning og et fundament som er større enn deg selv"
 bilde: /bilder/symboler/gud.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - beroemte-drommer

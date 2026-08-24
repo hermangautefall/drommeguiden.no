@@ -8,7 +8,7 @@ kortbeskrivelse: "PTSD är den sömn- och drömstörning vi vet mest om — och 
 leseminutter: 8
 bilde: /bilder/sovn/ptsd-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnproblem
   - depression-somn

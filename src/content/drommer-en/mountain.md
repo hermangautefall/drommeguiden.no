@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Obstacles and setbacks you have to push through"
   - "Spiritual growth, perspective, and achievement"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/fjell.jpg
 nb_slug: fjell
 sv_slug: berg

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ångest, sårbarhet och att känna sig liten i en stor situation"
 bilde: /bilder/symboler/mus.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

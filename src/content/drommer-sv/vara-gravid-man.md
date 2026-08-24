@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En transformationsprocess som är väl igång — men som ännu inte är redo att födas"
 bilde: /bilder/symboler/vaere-gravid-mann.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -6,7 +6,7 @@ kortbeskrivelse: "Färger i drömmar är sällan slumpmässiga. Röd, blå, vit,
 leseminutter: 9
 bilde: /bilder/guider/farger-i-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 ---
 
 De flesta drömmer i färg — men lägger inte alltid märke till det. Det är först när en färg är särskilt intensiv, ovanlig eller återkommande som den tränger sig fram i medvetandet: en knallröd dörr, ett himmelsblått hav, en vit gestalt i mörkret. När färgen fäster sig i minnet är det sällan en tillfällighet.

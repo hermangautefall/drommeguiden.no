@@ -14,6 +14,7 @@ tolkninger_kort:
   - "For foreldre: bearbeidelse av den reelle, permanente frykten som følger med foreldreskap"
 bilde: /bilder/symboler/miste-baby.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - sorg-sovn

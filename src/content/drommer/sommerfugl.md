@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Letthet, frihet og glede ønsker å komme til uttrykk"
   - "Sjelen din er i bevegelse mot noe nytt og vakkert"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/sommerfugl.jpg
 author: 'default'
 ---

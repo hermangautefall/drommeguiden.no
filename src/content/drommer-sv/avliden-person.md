@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Drömmen känns som ett äkta besök — och den tröstar"
 bilde: /bilder/symboler/avdod-person.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - sorg-somn

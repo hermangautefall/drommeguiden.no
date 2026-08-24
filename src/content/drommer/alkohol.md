@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sosial tilhørighet og et ønske om å høre til"
 bilde: /bilder/symboler/alkohol.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - alkohol-sovn

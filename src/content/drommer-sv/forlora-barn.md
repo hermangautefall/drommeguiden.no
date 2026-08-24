@@ -15,6 +15,7 @@ tolkninger_kort:
   - "För föräldrar: bearbetning av den verkliga, permanenta rädsla som följer med föräldraskap"
 bilde: /bilder/symboler/miste-baby.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - sorg-somn

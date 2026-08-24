@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Something is closed off to you — or you're the one keeping something closed"
   - "The boundary between the familiar and the unknown, the safe and the new"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/dor.jpg
 nb_slug: dor
 sv_slug: dorr

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En ny begynnelse, vekst og fremgang er på vei"
 bilde: /bilder/symboler/sol.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-20
 author: 'default'
 relaterte_sovn:
   - dognrytme

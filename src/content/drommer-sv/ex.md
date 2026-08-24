@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Exet representerar en egenskap eller ett behov i dig själv"
   - "Du är på väg att avsluta ett kapitel och gå vidare"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/eksen.jpg
 author: 'default'
 relaterte_sovn:

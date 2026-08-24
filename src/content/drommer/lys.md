@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Det guddommelige, det åndelige og det som er større enn deg selv"
 bilde: /bilder/symboler/lys.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

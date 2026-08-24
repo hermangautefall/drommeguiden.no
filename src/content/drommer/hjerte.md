@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En bekymring for noe nært og vitalt i livet ditt"
 bilde: /bilder/symboler/hjerte.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - hvorfor-drommer-vi

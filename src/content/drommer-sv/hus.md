@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Du upptäcker nya sidor hos dig själv eller outforskade möjligheter"
   - "Något i ditt inre liv behöver underhåll eller uppmärksamhet"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hus.jpg
 author: 'default'
 ---

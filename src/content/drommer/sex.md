@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Kreativ energi og livsglede søker uttrykk"
 bilde: /bilder/symboler/sex.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - hvorfor-drommer-vi

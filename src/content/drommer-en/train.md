@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A fear of missing out on something, or of being too late"
   - "Your life's journey and the direction you've chosen are being explored"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/tog.jpg
 nb_slug: tog
 sv_slug: tag

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du oppdager nye sider ved deg selv eller uutforskede muligheter"
   - "Noe i ditt indre liv trenger vedlikehold eller oppmerksomhet"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/hus.jpg
 author: 'default'
 ---

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Samhörighet och överlåtelse — den djupaste formen av att ge sig hän"
 bilde: /bilder/symboler/ammende.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 nb_slug: ammende
 author: 'default'
 relaterte_sovn:

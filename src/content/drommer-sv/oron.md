@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Vad du väljer att ta in och vad du stänger ute"
 bilde: /bilder/symboler/ore.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

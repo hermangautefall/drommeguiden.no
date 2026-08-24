@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et ubearbeidet press fra en krevende periode i livet ditt"
 bilde: /bilder/symboler/eksamen.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-20
 author: 'default'
 relaterte_sovn:
   - angst-sovn

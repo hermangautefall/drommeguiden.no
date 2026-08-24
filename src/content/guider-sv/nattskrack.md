@@ -6,7 +6,7 @@ kortbeskrivelse: "Nattskräck skiljer sig från mardrömmar och kan verka skräm
 leseminutter: 8
 bilde: /bilder/guider/nattskrekk.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 ---
 
 Du hör ett skrik från sovrummet. Barnet sitter upprätt i sängen med öppna ögon, stirrar rakt framför sig, skriker och skakar — men är inte vaket. Ingenting du säger når fram. Och nästa morgon minns barnet ingenting.

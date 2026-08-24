@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Noe smått og irriterende har hopet seg opp og krever oppmerksomhet"
   - "Samarbeid og fellesskap er viktig akkurat nå"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/maur.jpg
 author: 'default'
 ---

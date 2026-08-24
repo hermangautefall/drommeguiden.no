@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Cats are often seen as a symbol of intuition and the mysterious side of the mind."
   - "A cat can represent someone in your life who is hard to read."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/katt.jpg
 nb_slug: katt
 author: 'default'

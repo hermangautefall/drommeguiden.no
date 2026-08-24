@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Hva du vinner sier mer enn seieren selv — det er ønsket bak drømmen"
 bilde: /bilder/symboler/vinne.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A message is on its way — from your intuition, or from something larger"
   - "The soul in motion — something in you is reaching for the higher"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/fugl.jpg
 nb_slug: fugl
 sv_slug: fagel

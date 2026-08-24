@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A sense of losing identity, security, or belonging"
   - "Something you're holding onto is at risk of slipping away"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/miste-noe.jpg
 nb_slug: miste-noe
 sv_slug: forlora-nagot

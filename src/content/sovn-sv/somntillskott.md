@@ -8,7 +8,7 @@ kortbeskrivelse: "Magnesium, L-tean, valeriana, ashwagandha — hyllan med sömn
 leseminutter: 9
 bilde: /bilder/sovn/somntillskott.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - melatonin
   - somnhygien

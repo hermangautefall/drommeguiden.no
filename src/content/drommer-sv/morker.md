@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Början mörker — skapelse startar i mörkret, före ljuset"
 bilde: /bilder/symboler/moerke.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

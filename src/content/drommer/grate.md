@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Lettelse — noe vanskelig slipper taket"
 bilde: /bilder/symboler/grate.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

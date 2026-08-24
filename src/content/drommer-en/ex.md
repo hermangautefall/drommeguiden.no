@@ -12,6 +12,7 @@ tolkninger_kort:
   - "The ex represents a quality or a need within yourself"
   - "You're in the process of closing a chapter and moving on"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/eksen.jpg
 nb_slug: eksen
 author: 'default'

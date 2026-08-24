@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din personliga utveckling och den potential som ännu inte är utvecklad"
 bilde: /bilder/symboler/tre.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

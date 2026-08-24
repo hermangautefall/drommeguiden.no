@@ -12,6 +12,7 @@ tolkninger_kort:
   - "You're seeking access to something that feels closed off"
   - "Control and security in your own life are in focus"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/nokler.jpg
 nb_slug: nokler
 sv_slug: nycklar

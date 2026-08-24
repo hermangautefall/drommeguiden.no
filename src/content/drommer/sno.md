@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Renhet, nytt begynnelse og et blankt ark foran deg"
 bilde: /bilder/symboler/sno.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

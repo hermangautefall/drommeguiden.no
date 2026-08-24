@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Kapasiteten for lykke er i deg — tilgjengelig, om du finner veien til den"
 bilde: /bilder/symboler/lykke.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

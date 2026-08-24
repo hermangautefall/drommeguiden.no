@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Sötma och belöning — något gott är på väg att bli till"
 bilde: /bilder/symboler/bie.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

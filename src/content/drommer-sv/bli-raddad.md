@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Att släppa kontrollen och acceptera att man inte klarar allt ensam"
 bilde: /bilder/symboler/bli-reddet.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En situasjon utvikler seg annerledes enn du planla"
 bilde: /bilder/symboler/fly-styrter.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - ptsd-drommer

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En situation utvecklas annorlunda än du planerat"
 bilde: /bilder/symboler/fly-styrter.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: fly-styrter
 author: 'default'
 relaterte_sovn:

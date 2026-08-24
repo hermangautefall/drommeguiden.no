@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et uoppgjort tema mellom dere søker bearbeiding"
 bilde: /bilder/symboler/far.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

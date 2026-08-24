@@ -6,7 +6,7 @@ kategori: lidelser
 kortbeskrivelse: "Omtrent én av tre nordmenn sliter med søvnen. Her er hva søvnproblemer egentlig er, hva som forårsaker dem, og hva forskning sier virker for å behandle dem."
 leseminutter: 10
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 bilde: /bilder/sovn/sovnproblemer.jpg
 relaterte_sovn:
   - sovnhygiene

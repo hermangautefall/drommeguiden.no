@@ -7,7 +7,7 @@ kortbeskrivelse: "Noen av historiens viktigste oppdagelser og beslutninger er bl
 leseminutter: 8
 bilde: /bilder/sovn/beroemte-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - hvorfor-drommer-vi
   - drommer-og-hjernen

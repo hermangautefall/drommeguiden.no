@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En destruktiv cykel du inte ser utvägen ur"
 bilde: /bilder/symboler/helvete.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - ptsd-drommar

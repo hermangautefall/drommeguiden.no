@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A grief, loss, or longing you haven't fully processed"
   - "Relief — something difficult is finally letting go"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/grate.jpg
 nb_slug: grate
 sv_slug: grata

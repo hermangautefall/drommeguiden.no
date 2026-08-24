@@ -13,6 +13,7 @@ tolkninger_kort:
   - "A major change is about to break loose"
   - "Suppressed feelings are pushing to the surface"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/storm.jpg
 nb_slug: storm
 sv_slug: storm

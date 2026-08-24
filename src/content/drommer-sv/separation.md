@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Psyket bearbetar något som kanske bör avslutas — en relation, en fas eller en roll"
 bilde: /bilder/symboler/skille-lag.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

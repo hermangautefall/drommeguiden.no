@@ -12,6 +12,7 @@ tolkninger_kort:
   - "An inner need for control or perspective may be surfacing"
   - "Personal growth and new possibilities may be opening up"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/flyging.jpg
 nb_slug: flyging
 sv_slug: flyga

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En passiv eller underkastende side av deg selv"
 bilde: /bilder/symboler/sau.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

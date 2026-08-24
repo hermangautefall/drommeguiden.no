@@ -7,7 +7,7 @@ kortbeskrivelse: "Depresjon og søvnproblemer er dypt sammenvevd — og begge fo
 leseminutter: 8
 bilde: /bilder/sovn/depresjon-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnproblemer
   - angst-sovn

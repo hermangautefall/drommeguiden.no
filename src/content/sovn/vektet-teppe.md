@@ -7,7 +7,7 @@ kortbeskrivelse: "Vektet teppe har blitt populært som søvnhjelpemiddel — men
 leseminutter: 8
 bilde: /bilder/sovn/vektet-teppe.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - soverom-sovn
   - angst-sovn

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Eksen representerer en egenskap eller et behov i deg selv"
   - "Du er i ferd med å avslutte et kapittel og gå videre"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/eksen.jpg
 author: 'default'
 relaterte_sovn:

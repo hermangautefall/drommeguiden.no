@@ -12,6 +12,7 @@ tolkninger_kort:
   - "The core substance of the Self — what's genuine and authentic in you"
 bilde: /bilder/symboler/gull.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: gull
 sv_slug: guld
 author: 'default'

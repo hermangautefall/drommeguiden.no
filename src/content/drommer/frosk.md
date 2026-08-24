@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Renselse og en ny begynnelse er på vei"
   - "Du lever mellom to verdener og trenger å finne balansen"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/frosk.jpg
 author: 'default'
 ---

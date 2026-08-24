@@ -12,6 +12,7 @@ tolkninger_kort:
   - "The dream can reflect a fear of failing or losing something important."
   - "Falling dreams can mean you need to let go and trust the process."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/falle.jpg
 nb_slug: falle
 author: 'default'

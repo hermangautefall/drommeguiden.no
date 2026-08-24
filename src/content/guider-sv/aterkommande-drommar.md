@@ -5,7 +5,7 @@ nb_slug: gjentakende-drommer
 kortbeskrivelse: "Varför drömmer du samma sak om och om igen? Läs om forskningen bakom återkommande drömmar, de vanligaste typerna och hur du kan tolka och hantera dem."
 leseminutter: 6
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 bilde: /bilder/guider/gjentakende.jpg
 ---
 

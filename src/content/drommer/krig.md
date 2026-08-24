@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En kamp du fører i livet ditt — for noe du tror på"
 bilde: /bilder/symboler/krig.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

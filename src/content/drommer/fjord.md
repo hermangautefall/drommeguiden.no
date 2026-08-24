@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din tilknytning til norsk natur og det som er genuint ditt"
 bilde: /bilder/symboler/fjord.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

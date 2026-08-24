@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et varsel om noe som kan stikke hvis du ikke er forsiktig"
 bilde: /bilder/symboler/veps.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Blodet representerer livskraft, energi og vitalitet"
   - "Dype bånd til familie eller nære relasjoner er i fokus"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/blod.jpg
 author: 'default'
 relaterte_sovn:

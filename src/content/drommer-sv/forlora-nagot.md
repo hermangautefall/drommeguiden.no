@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något du håller fast vid riskerar att försvinna"
 bilde: /bilder/symboler/miste-noe.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - sorg-somn

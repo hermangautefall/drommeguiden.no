@@ -12,6 +12,7 @@ tolkninger_kort:
   - "An important life transition — birth, marriage or death — is being processed"
   - "Your relationship to faith, belonging and the transcendent is being explored"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/kirke.jpg
 nb_slug: kirke
 sv_slug: kyrka

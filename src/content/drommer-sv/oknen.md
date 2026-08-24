@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En prövning du måste gå igenom för att hitta något viktigt på andra sidan"
 bilde: /bilder/symboler/orken.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

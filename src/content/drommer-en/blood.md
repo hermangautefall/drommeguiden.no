@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Blood represents life force, energy, and vitality"
   - "Deep bonds to family or close relationships are in focus"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/blod.jpg
 nb_slug: blod
 author: 'default'

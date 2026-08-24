@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Something you haven't been able to manage is overflowing its banks"
   - "A powerful cleansing and transformation is underway"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/flom.jpg
 nb_slug: flom
 sv_slug: oversvamning

@@ -8,7 +8,7 @@ kortbeskrivelse: "Några av historiens viktigaste upptäckter och beslut har bli
 leseminutter: 8
 bilde: /bilder/sovn/beroemte-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - varfor-drommer-vi
   - drommar-och-hjarnan

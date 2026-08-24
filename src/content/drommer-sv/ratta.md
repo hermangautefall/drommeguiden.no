@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En rädsla för sjukdom, smitta eller något negativt som sprider sig"
 bilde: /bilder/symboler/rotte.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

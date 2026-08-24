@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Styrka genom sårbarhet — det som nästan bröt dig, formade dig"
 bilde: /bilder/symboler/arr.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 nb_slug: arr
 author: 'default'
 ---

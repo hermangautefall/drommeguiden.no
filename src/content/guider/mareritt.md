@@ -4,7 +4,7 @@ slug: mareritt
 kortbeskrivelse: "Hvorfor har vi mareritt, og hva kan vi gjøre med dem? Les om årsaker som stress og traumer, Image Rehearsal Therapy, og når du bør søke hjelp."
 leseminutter: 7
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 bilde: /bilder/guider/mareritt.jpg
 ---
 

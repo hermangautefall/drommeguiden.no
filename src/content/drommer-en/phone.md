@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A fear of losing connection or becoming unreachable"
   - "Something you want to say but haven't yet is seeking expression"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/telefon.jpg
 nb_slug: telefon
 sv_slug: telefon

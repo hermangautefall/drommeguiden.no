@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Reisen i seg selv — prosessen, ikke bare målet"
 bilde: /bilder/symboler/vei.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

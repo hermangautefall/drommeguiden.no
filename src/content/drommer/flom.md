@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En kraftfull renselse og forvandling er i gang"
 bilde: /bilder/symboler/flom.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

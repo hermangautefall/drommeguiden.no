@@ -11,6 +11,7 @@ tolkninger_kort:
   - "Something new and unknown is on its way into your life"
   - "Your shadow side or a suppressed aspect reveals itself"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/fremmed.jpg
 nb_slug: fremmed
 sv_slug: frammande

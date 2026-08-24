@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Bro mellan det medvetna och det omedvetna — delfinen simmar i båda världarna"
 bilde: /bilder/symboler/delfin.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

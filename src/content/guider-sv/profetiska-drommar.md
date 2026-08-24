@@ -6,7 +6,7 @@ kortbeskrivelse: "Många upplever drömmar som verkar förutsäga framtiden. Fin
 leseminutter: 8
 bilde: /bilder/guider/profetiske-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 ---
 
 Nästan alla har en sådan historia — antingen från sig själv eller från någon de litar på. En dröm som visade något som faktiskt hände. En dröm där någon varslade om sin egen bortgång, och sedan gick bort. En dröm om en olycka, ett telefonsamtal, ett möte — och sedan, dagar eller veckor senare, just det. Oförklarligt. Olustigt. Minnesvärt.

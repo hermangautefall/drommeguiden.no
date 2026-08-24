@@ -8,7 +8,7 @@ kortbeskrivelse: "Vitt brus, rosa brus, brunt brus och naturljud — alla påst�
 leseminutter: 7
 bilde: /bilder/sovn/hvit-stoy-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - sovrum-somn
   - somnhygien

@@ -11,6 +11,7 @@ tolkninger_kort:
   - "A sense of control — or the lack of it — takes center stage"
   - "You're in the middle of a transition or journey in your life"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/bil.jpg
 nb_slug: bil
 sv_slug: bil

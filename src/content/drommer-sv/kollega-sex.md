@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Maktdynamik och hierarki bearbetas genom drömmens bildspråk"
 bilde: /bilder/symboler/kollega-sex.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

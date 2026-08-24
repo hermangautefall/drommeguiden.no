@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din inre kritiker har tagit chefens ansikte"
 bilde: /bilder/symboler/sjef.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: sjef
 author: 'default'
 relaterte_sovn:

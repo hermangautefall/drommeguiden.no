@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Frihet, flöde och rörelse genom något flytande och oförutsägbart"
 bilde: /bilder/symboler/svomme.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

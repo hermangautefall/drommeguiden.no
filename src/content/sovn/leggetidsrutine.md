@@ -7,7 +7,7 @@ kortbeskrivelse: "En god leggetidsrutine er et av de mest effektive søvntiltake
 leseminutter: 7
 bilde: /bilder/sovn/leggetidsrutine.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnhygiene
   - angst-sovn

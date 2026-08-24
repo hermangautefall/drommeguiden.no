@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Att klamra sig fast — något du inte vill släppa"
 bilde: /bilder/symboler/krabbe.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

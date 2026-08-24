@@ -11,6 +11,7 @@ tolkninger_kort:
   - "Self-love and acceptance — the psyche shows you what you need more of"
   - "A quality you lack or miss, personified in the one you love in the dream"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/kjaerlighet.jpg
 nb_slug: kjaerlighet
 sv_slug: karlek

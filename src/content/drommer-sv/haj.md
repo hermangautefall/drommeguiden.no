@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En person i ditt liv är kall, beräknande eller rovgirig"
   - "Din egen kraft och förmåga att navigera djupa känslor"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hai.jpg
 author: 'default'
 ---

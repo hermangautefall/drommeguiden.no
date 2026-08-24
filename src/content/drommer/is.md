@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Klarhet, hardhet og det som er bevart men utilgjengelig"
 bilde: /bilder/symboler/is.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

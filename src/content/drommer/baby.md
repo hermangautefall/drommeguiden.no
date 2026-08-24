@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Drømmen tolkes ofte som et uttrykk for sårbarhet og behov for omsorg."
   - "Babyer i drømmer kan peke mot personlig vekst og nye sider ved deg selv."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/baby.jpg
 author: 'default'
 relaterte_sovn:

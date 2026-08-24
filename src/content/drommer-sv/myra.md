@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Något smått och irriterande har hopat sig och kräver uppmärksamhet"
   - "Samarbete och gemenskap är viktigt just nu"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/maur.jpg
 author: 'default'
 ---

@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Något i ditt liv konkurrerar om din eller partnerns uppmärksamhet"
 bilde: /bilder/symboler/utroskap.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - angest-somn

@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Noen i livet ditt er ikke helt ærlige"
   - "Din evne til å tilpasse deg og overleve prøves"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/rev.jpg
 author: 'default'
 ---

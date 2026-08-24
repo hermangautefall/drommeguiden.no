@@ -8,7 +8,7 @@ kortbeskrivelse: "Sömnapné är en av de vanligaste och mest underskattade söm
 leseminutter: 9
 bilde: /bilder/sovn/somnapne.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnproblem
   - somnbehov

@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Lojalitet og samhold med de nærmeste er viktig"
   - "Du føler deg kanskje litt utenfor eller annerledes enn de rundt deg"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/pingvin.jpg
 author: 'default'
 ---

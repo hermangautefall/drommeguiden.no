@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe i ditt nærmiljø som krever oppmerksomhet"
 bilde: /bilder/symboler/nabo.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

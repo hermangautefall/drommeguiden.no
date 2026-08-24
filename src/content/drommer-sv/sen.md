@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Något du borde ha gjort tidigare närmar sig sin deadline"
 bilde: /bilder/symboler/sen.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: sen
 author: 'default'
 ---

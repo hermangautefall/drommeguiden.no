@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Fruktsamhet och naturligt överflöd i ditt liv"
 bilde: /bilder/symboler/ku.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: ku
 author: 'default'
 ---

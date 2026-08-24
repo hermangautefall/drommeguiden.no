@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Næring og omsorg — hva du gir deg selv og andre"
 bilde: /bilder/symboler/mat.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - sovnbehov

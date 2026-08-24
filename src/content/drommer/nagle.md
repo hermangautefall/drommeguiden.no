@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Ytre uttrykk og selvpresentasjon — neglene er synlige for verden"
 bilde: /bilder/symboler/nagle.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

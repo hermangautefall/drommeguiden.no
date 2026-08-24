@@ -11,6 +11,7 @@ tolkninger_kort:
   - "The dream is often read as an expression of anxiety about losing control."
   - "Tooth dreams can also point to a fear of aging or major life transitions."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/tann.jpg
 nb_slug: tann
 sv_slug: tand

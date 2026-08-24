@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Peace, reconciliation and what waits on the other side of something hard"
   - "Your relationship to the transcendent and to something greater than yourself"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/himmel.jpg
 nb_slug: himmel
 sv_slug: himmel

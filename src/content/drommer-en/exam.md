@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Unprocessed pressure from a demanding period in your life"
 bilde: /bilder/symboler/eksamen.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: eksamen
 sv_slug: tenta
 author: 'default'

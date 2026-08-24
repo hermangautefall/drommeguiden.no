@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En stor förändring är på väg att bryta loss"
   - "Undertryckta känslor pressar sig till ytan"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/storm.jpg
 author: 'default'
 ---

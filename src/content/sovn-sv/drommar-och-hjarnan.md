@@ -8,7 +8,7 @@ kortbeskrivelse: "Vad händer i hjärnan medan du drömmer? Hjärnavbildning avs
 leseminutter: 8
 bilde: /bilder/sovn/drommer-og-hjernen.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-08-24
 relaterte_sovn:
   - somnfaser
   - varfor-drommer-vi

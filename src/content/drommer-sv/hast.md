@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En stark inre drivkraft eller livsenergi försöker komma till uttryck"
   - "Förhållandet mellan kontroll och det vilda i dig själv är i fokus"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hest.jpg
 author: 'default'
 ---

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ett sökande efter mening, riktning och en grund som är större än du själv"
 bilde: /bilder/symboler/gud.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - beromda-drommar

@@ -8,7 +8,7 @@ kortbeskrivelse: "Melatonin är inte ett sömnmedel — det är ett signalhormon
 leseminutter: 8
 bilde: /bilder/sovn/melatonin.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnfaser
   - somnbehov

@@ -7,7 +7,7 @@ kortbeskrivelse: "Søvnen endrer seg naturlig med alderen — men dårlig søvn 
 leseminutter: 8
 bilde: /bilder/sovn/sovn-eldre.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnproblemer
   - melatonin

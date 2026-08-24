@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Søvn er ikke passiv hvile — det er en av kroppens mest aktive prosesser. Her er hva forskning vet om hva søvn egentlig er og hvorfor vi ikke kan leve uten det."
 leseminutter: 9
 dato: 2026-03-22
+oppdatert: 2026-06-13
 bilde: /bilder/sovn/hva-er-sovn.jpg
 relaterte_sovn:
   - sovnfaser

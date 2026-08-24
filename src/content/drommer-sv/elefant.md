@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du bär på något tungt — en börda, ett minne eller ett ansvar"
   - "Styrka använd med omsorg och klokhet"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/elefant.jpg
 author: 'default'
 ---

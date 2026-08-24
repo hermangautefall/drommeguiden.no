@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Du besitter mer styrke og potensial enn du er klar over"
   - "En overveldende situasjon eller person i livet ditt"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/drage.jpg
 author: 'default'
 ---

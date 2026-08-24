@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En frykt for sårbarhet og det å bli åpnet opp"
 bilde: /bilder/symboler/operasjon.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

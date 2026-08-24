@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En rask og brutal forandring som er utenfor din kontroll"
 bilde: /bilder/symboler/snoskred.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

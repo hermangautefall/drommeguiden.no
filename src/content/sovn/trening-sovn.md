@@ -7,7 +7,7 @@ kortbeskrivelse: "Trening er ett av de beste søvnmidlene som finnes — men tim
 leseminutter: 7
 bilde: /bilder/sovn/trening-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnhygiene
   - sovnbehov

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En passiv eller undergiven sida av dig själv"
 bilde: /bilder/symboler/sau.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: sau
 author: 'default'
 ---

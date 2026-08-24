@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Någon i ditt liv är inte helt ärlig"
   - "Din förmåga att anpassa dig och överleva prövas"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/rev.jpg
 author: 'default'
 ---

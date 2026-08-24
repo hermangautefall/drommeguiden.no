@@ -13,6 +13,7 @@ tolkninger_kort:
   - "A worry about something close and vital in your life"
 bilde: /bilder/symboler/hjerte.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: hjerte
 sv_slug: hjarta
 author: 'default'

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Din høyere bevissthet eller intuisjon taler til deg"
 bilde: /bilder/symboler/engler.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - beroemte-drommer

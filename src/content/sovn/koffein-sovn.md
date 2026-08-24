@@ -7,7 +7,7 @@ kortbeskrivelse: "Koffein er verdens mest brukte psykoaktive stoff — og en av 
 leseminutter: 7
 bilde: /bilder/sovn/koffein-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnhygiene
   - sovnfaser

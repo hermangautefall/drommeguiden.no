@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Ubevisste følelser eller uløste spørsmål gjør seg gjeldende"
   - "Vekst, fornyelse og kontakt med det naturlige i deg"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/skog.jpg
 author: 'default'
 ---

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Du føler deg sårbar og har behov for omsorg eller støtte"
   - "Noe i livet ditt trenger akutt oppmerksomhet"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/sykehus.jpg
 author: 'default'
 ---

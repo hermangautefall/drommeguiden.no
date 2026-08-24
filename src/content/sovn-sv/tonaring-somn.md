@@ -8,7 +8,7 @@ kortbeskrivelse: "Tonåringar sover inte sent av lathet — biologin tvingar dem
 leseminutter: 8
 bilde: /bilder/sovn/tonaring-somn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnbehov
   - somnhygien

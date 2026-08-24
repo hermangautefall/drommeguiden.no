@@ -11,6 +11,7 @@ tolkninger_kort:
   - "Your emotions in continuous motion and change"
   - "Your life's direction — wherever the current takes you"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/elv.jpg
 nb_slug: elv
 sv_slug: alv

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "The dream is often read as a sign that you need rest and retreat"
   - "A bear can represent protection — your own, or someone watching over you"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/bjorn.jpg
 nb_slug: bjorn
 sv_slug: bjorn

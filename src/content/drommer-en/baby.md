@@ -13,6 +13,7 @@ tolkninger_kort:
   - "The dream is often read as an expression of vulnerability and a need for care"
   - "Babies in dreams can point to personal growth and new sides of yourself"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/baby.jpg
 nb_slug: baby
 sv_slug: baby

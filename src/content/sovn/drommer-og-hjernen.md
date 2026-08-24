@@ -7,7 +7,7 @@ kortbeskrivelse: "Hva skjer i hjernen mens du drømmer? Hjerneavbildning avslør
 leseminutter: 8
 bilde: /bilder/sovn/drommer-og-hjernen.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnfaser
   - hvorfor-drommer-vi

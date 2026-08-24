@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A sharp, quick intelligence working fast and unnoticed"
   - "Anxiety, vulnerability and feeling small in a big situation"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/mus.jpg
 nb_slug: mus
 sv_slug: mus

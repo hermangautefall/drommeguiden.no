@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Something unresolved from the past is resurfacing"
   - "You're experiencing uncertainty about belonging or social standing"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/skole.jpg
 nb_slug: skole
 sv_slug: skola

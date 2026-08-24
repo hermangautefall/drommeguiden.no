@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Transformasjon gjennom vann og renselse"
 bilde: /bilder/symboler/bad.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et ønske om dypere tilknytning — til en person, et prosjekt eller deg selv"
 bilde: /bilder/symboler/forlovelse.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - hvorfor-drommer-vi

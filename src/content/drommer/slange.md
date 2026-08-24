@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du bærer på en skjult frykt eller trussel"
   - "Sterk intuitiv eller kreativ energi aktiveres"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/slange.jpg
 sv_slug: orm
 author: 'default'

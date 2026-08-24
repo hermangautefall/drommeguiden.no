@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Du bär på en dold rädsla eller ett hot"
   - "Stark intuitiv eller kreativ energi aktiveras"
 dato: 2026-04-20
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/slange.jpg
 nb_slug: slange
 author: 'default'

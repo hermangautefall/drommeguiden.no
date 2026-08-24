@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Something unresolved from the past is trying to surface"
   - "You're in the process of losing control over something important in your life"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/drukne.jpg
 nb_slug: drukne
 author: 'default'

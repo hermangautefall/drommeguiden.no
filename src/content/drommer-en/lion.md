@@ -12,6 +12,7 @@ tolkninger_kort:
   - "You're meeting, or you yourself are, a strong authority figure"
   - "An anger or a force within you is demanding attention"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/love.jpg
 nb_slug: love
 sv_slug: lejon

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En drøm, et mål eller en lengsel lyser opp mørket"
 bilde: /bilder/symboler/stjerner.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - dognrytme

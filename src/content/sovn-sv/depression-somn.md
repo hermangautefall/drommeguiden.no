@@ -8,7 +8,7 @@ kortbeskrivelse: "Depression och sömnproblem är djupt sammanflätade — och b
 leseminutter: 8
 bilde: /bilder/sovn/depresjon-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnproblem
   - angest-somn

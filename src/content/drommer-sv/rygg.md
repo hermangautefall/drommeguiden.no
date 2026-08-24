@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något bakom dig — i det förflutna — kräver uppmärksamhet"
 bilde: /bilder/symboler/rygg.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -8,7 +8,7 @@ kortbeskrivelse: "Sovrumsmiljön påverkar sömnkvaliteten mer än de flesta tro
 leseminutter: 8
 bilde: /bilder/sovn/soverom-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnhygien
   - somnproblem

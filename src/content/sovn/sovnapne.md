@@ -7,7 +7,7 @@ kortbeskrivelse: "Søvnapné er en av de vanligste og mest undervurderte søvnli
 leseminutter: 9
 bilde: /bilder/sovn/sovnapne.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnproblemer
   - sovnbehov

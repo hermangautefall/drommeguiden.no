@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Stress and pressure from something you have not yet faced"
 bilde: /bilder/symboler/forfulgt.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: forfulgt
 sv_slug: forfoljd
 author: 'default'

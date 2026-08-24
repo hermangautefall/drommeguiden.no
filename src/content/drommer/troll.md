@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En trussel som vokser i mørket og trenger konfrontasjon"
 bilde: /bilder/symboler/troll.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

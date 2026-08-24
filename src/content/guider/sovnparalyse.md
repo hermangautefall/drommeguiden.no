@@ -5,7 +5,7 @@ bilde: /bilder/guider/sovnparalyse.jpg
 kortbeskrivelse: "Søvnparalyse er en av de mest skremmende søvnopplevelsene vi kan ha — men det er helt ufarlig. Her er hva som faktisk skjer og hva du kan gjøre."
 leseminutter: 9
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 ---
 
 Du vakner — eller tror du vakner. Rommet er der, lyset er riktig, alt er kjent. Men du kan ikke bevege deg. Ikke en finger, ikke et øyelokk. Kroppen din adlyder deg ikke. Og så, nesten alltid, er det noe der — en tyngde på brystet, en skygge i hjørnet, en tilstedeværelse du vet er i rommet selv om du ikke ser den tydelig.

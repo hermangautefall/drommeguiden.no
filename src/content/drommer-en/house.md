@@ -12,6 +12,7 @@ tolkninger_kort:
   - "You're discovering new sides of yourself or untapped possibilities"
   - "Something in your inner life needs maintenance or attention"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hus.jpg
 nb_slug: hus
 sv_slug: hus

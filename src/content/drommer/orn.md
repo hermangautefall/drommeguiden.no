@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Frihet og uavhengighet er viktig for deg akkurat nå"
   - "Ambisjoner og mål som lenge har ligget i dvale vekkes til live"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/orn.jpg
 author: 'default'
 ---

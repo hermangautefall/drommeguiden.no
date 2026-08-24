@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Det nordiska i din identitet — något uråldrigt och vackert lyser upp"
 bilde: /bilder/symboler/nordlys.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

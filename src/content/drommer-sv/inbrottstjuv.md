@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En sida av dig själv du inte vill kännas vid bankar på"
 bilde: /bilder/symboler/innbruddstyv.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

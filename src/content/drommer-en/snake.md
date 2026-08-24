@@ -12,6 +12,7 @@ tolkninger_kort:
   - "You may be carrying a hidden fear or threat"
   - "Strong intuitive or creative energy is stirring"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/slange.jpg
 nb_slug: slange
 sv_slug: orm

@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Stress och tryck från något du inte har tagit itu med"
 bilde: /bilder/symboler/forfulgt.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - angest-somn

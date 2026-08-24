@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et fellesskap eller en felles reise mot noe ukjent"
 bilde: /bilder/symboler/skip.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

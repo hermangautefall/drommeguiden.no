@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Frykt eller usikkerhet i en livssituasjon speiles"
   - "En invitasjon til introspeksjon og indre arbeid"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/morkt-rom.jpg
 author: 'default'
 relaterte_sovn:

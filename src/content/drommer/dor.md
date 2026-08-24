@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Grensen mellom det kjente og det ukjente, det trygge og det nye"
 bilde: /bilder/symboler/dor.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

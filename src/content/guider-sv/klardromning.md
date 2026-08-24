@@ -5,7 +5,7 @@ nb_slug: lucid-dromming
 kortbeskrivelse: "Vad är klardrömning, och kan du lära dig det? Utforska tekniker som MILD och WILD, verklighetstester, och vad forskningen säger om fördelar och nackdelar."
 leseminutter: 7
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 bilde: /bilder/guider/lucid-dromming.jpg
 ---
 

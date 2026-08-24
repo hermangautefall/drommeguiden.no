@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Social tillhörighet och en önskan att höra till"
 bilde: /bilder/symboler/alkohol.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 nb_slug: alkohol
 author: 'default'
 relaterte_sovn:

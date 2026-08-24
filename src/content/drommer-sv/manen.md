@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Intuition och känsloliv är starkare än vanligt just nu"
 bilde: /bilder/symboler/mane.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - dygnsrytm

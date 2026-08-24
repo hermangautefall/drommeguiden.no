@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Gränser mellan arbete och privatliv — psyket klarar inte att koppla bort"
 bilde: /bilder/symboler/jobbe-drom.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

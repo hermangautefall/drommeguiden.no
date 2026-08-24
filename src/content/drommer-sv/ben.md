@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Frihet att röra dig och gå i den riktning du vill"
 bilde: /bilder/symboler/bein.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

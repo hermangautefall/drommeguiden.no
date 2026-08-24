@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Rosen som öppnar sig är en djup bild av sårbarhet och mod att visa sig"
 bilde: /bilder/symboler/rose.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din själ är i rörelse mot något nytt och vackert"
 bilde: /bilder/symboler/sommerfugl.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

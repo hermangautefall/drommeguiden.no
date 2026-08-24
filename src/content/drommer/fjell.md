@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Hindringer og motgang du må forsere"
   - "Åndelig vekst, oversikt og oppnåelse"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/fjell.jpg
 author: 'default'
 ---

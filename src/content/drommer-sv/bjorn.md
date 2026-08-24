@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Drömmen tolkas ofta som ett tecken på behov av vila och tillbakadragande."
   - "En björn kan representera skydd — ditt eget eller någon som vakar över dig."
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/bjorn.jpg
 author: 'default'
 ---

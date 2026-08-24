@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sorg, melankoli eller undertrykte følelser kommer til overflaten"
   - "Fornyelse, vekst og nye begynnelser venter"
 dato: 2026-03-18
+oppdatert: 2026-08-20
 bilde: /bilder/symboler/regn.jpg
 author: 'default'
 ---

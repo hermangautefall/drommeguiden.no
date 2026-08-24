@@ -5,7 +5,7 @@ bilde: /bilder/guider/falsk-oppvakning.jpg
 kortbeskrivelse: "Falsk oppvåkning er en av de mest forvirrende drømmeopplevelsene vi kan ha. Her er hva som skjer, hvorfor det skjer, og hva du kan gjøre med det."
 leseminutter: 8
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 ---
 
 Du åpner øynene. Rommet er kjent, lyset er riktig, og du hører de vanlige lydene fra gaten utenfor. Du strekker deg etter telefonen for å sjekke klokken — og i det øyeblikket vakner du virkelig. Det du trodde var morgenen, var bare enda et lag av drøm.

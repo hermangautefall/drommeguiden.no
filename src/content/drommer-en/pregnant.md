@@ -12,6 +12,7 @@ tolkninger_kort:
   - "An idea, project, or change is in its very early stages"
   - "A deep desire for change or new meaning is seeking expression"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/gravid.jpg
 nb_slug: gravid
 author: 'default'

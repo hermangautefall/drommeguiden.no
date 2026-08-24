@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En rädsla för att bli dömd eller avslöjad plågar dig"
   - "Du längtar efter att visa dig som den du verkligen är"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/naken.jpg
 author: 'default'
 relaterte_sovn:

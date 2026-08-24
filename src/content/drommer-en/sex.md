@@ -11,6 +11,7 @@ tolkninger_kort:
   - "A quality in the person you dreamed about is drawing you in"
   - "Creative energy and zest for life are seeking expression"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/sex.jpg
 nb_slug: sex
 sv_slug: sex

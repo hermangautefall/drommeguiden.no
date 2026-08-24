@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Du befinner deg i en situasjon som krever skjerpet oppmerksomhet"
   - "En farlig eller uforutsigbar kraft er i spill i livet ditt"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/tiger.jpg
 author: 'default'
 ---

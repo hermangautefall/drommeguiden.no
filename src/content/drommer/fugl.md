@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sjelen i bevegelse — noe i deg søker mot det høyere"
 bilde: /bilder/symboler/fugl.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

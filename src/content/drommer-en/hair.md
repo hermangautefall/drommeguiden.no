@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A shift in how you see yourself is underway"
   - "Vulnerability and exposure to how others see you"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/har.jpg
 nb_slug: har
 sv_slug: har

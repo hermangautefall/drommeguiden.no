@@ -13,6 +13,7 @@ tolkninger_kort:
   - "You feel trapped in something that feels like punishment"
   - "A destructive cycle you can't see a way out of"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/helvete.jpg
 nb_slug: helvete
 sv_slug: helvete

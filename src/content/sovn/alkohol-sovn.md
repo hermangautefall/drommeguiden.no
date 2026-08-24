@@ -7,7 +7,7 @@ kortbeskrivelse: "Mange bruker alkohol for å sovne — men forskning er klar: a
 leseminutter: 7
 bilde: /bilder/sovn/alkohol-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnfaser
   - sovnhygiene

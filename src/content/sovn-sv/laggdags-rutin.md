@@ -8,7 +8,7 @@ kortbeskrivelse: "En bra läggdagsrutin är en av de mest effektiva sömnåtgär
 leseminutter: 7
 bilde: /bilder/sovn/leggetidsrutine.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnhygien
   - angest-somn

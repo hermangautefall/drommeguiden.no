@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ett varsel om något som kan sticka om du inte är försiktig"
 bilde: /bilder/symboler/veps.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

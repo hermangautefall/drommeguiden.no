@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Collective anxiety and unease from the world around you is being processed"
   - "A battle you're fighting in your life — for something you believe in"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/krig.jpg
 nb_slug: krig
 sv_slug: krig

@@ -7,7 +7,7 @@ kortbeskrivelse: "Den biologiske klokken styrer søvn, energi, humør og fordøy
 leseminutter: 8
 bilde: /bilder/sovn/dognrytme.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - melatonin
   - sovnfaser

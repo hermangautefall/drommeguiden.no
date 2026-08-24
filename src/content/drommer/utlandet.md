@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du utforsker ukjente sider av deg selv"
 bilde: /bilder/symboler/utlandet.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

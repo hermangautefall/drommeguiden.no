@@ -4,7 +4,7 @@ slug: hva-er-drommer
 kortbeskrivelse: "Hva skjer egentlig når vi drømmer? Utforsk søvnfaser, REM-søvn, Freud og Jung — og hva moderne nevrovitenskap sier om drømmenes viktige funksjon."
 leseminutter: 8
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 bilde: /bilder/guider/hva-er-drommer.jpg
 ---
 

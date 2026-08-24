@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En kraftfull rening och förvandling är igång"
 bilde: /bilder/symboler/flom.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

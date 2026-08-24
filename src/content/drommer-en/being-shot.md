@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Pain and vulnerability — something has broken through your defences"
 bilde: /bilder/symboler/bli-skutt.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: bli-skutt
 sv_slug: bli-skjuten
 author: 'default'

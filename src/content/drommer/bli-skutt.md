@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Smerte og sårbarhet — noe har nådd gjennom forsvarene dine"
 bilde: /bilder/symboler/bli-skutt.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - ptsd-drommer

@@ -7,7 +7,7 @@ kortbeskrivelse: "Astralprosjeksjon og out-of-body experiences oppleves som ekst
 leseminutter: 8
 bilde: /bilder/sovn/astralprosjeksjon.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnfaser
   - polyfasisk-sovn

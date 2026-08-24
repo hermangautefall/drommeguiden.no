@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe du skjuler eller skammer deg over viser seg"
 bilde: /bilder/symboler/gris.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En sårbarhet du bär på söker att bli erkänd"
 bilde: /bilder/symboler/sykdom.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -8,7 +8,7 @@ kortbeskrivelse: "Klimakteriet förändrar sömnen dramatiskt för många kvinno
 leseminutter: 8
 bilde: /bilder/sovn/menopause-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnproblem
   - somnhygien

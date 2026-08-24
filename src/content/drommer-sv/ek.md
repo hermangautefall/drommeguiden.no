@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Skydd och tillflyktsort — eken som sköld mot det som stormar runt dig"
 bilde: /bilder/symboler/oke.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

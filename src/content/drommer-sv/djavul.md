@@ -15,6 +15,7 @@ tolkninger_kort:
   - "Frestelse och det som drar dig bort från det du vet är rätt för dig"
 bilde: /bilder/symboler/djevel.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - ptsd-drommar

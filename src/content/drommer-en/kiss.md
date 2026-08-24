@@ -11,6 +11,7 @@ tolkninger_kort:
   - "Approval of something you want confirmed — by others or by yourself"
   - "A transition or agreement — kisses have historically marked commitment and covenant"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/kyss.jpg
 nb_slug: kyss
 sv_slug: kyss

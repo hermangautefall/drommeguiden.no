@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Bearbeiding av tidligere krenkelser eller traumer som ikke er fullt integrert"
 bilde: /bilder/symboler/overfalt.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

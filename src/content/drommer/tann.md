@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Drømmen tolkes ofte som et uttrykk for angst knyttet til tap av kontroll."
   - "Tanndrømmer kan også peke mot frykt for aldring eller livsfaseoverganger."
 dato: 2026-03-18
+oppdatert: 2026-08-20
 bilde: /bilder/symboler/tann.jpg
 sv_slug: tand
 author: 'default'

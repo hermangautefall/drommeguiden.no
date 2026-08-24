@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En kvalitet du mangler eller savner, personifisert i den du elsker i drømmen"
 bilde: /bilder/symboler/kjaerlighet.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

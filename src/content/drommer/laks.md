@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En transformerende reise som koster alt — men som er nødvendig"
 bilde: /bilder/symboler/laks.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

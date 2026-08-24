@@ -5,7 +5,7 @@ kortbeskrivelse: "Mange opplever drømmer som ser ut til å forutsi fremtiden. F
 leseminutter: 8
 bilde: /bilder/guider/profetiske-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 ---
 
 Nesten alle har en slik historie — enten fra seg selv eller fra noen de stoler på. En drøm som viste noe som faktisk skjedde. En drøm der noen varslet om sin egen bortgang, og så gikk bort. En drøm om en ulykke, en telefon, et møte — og så, dager eller uker senere, nettopp det. Uforklarlig. Uhyggelig. Minneverdig.

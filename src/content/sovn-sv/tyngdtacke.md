@@ -8,7 +8,7 @@ kortbeskrivelse: "Tyngdtäcke har blivit populärt som sömnhjälpmedel — men 
 leseminutter: 8
 bilde: /bilder/sovn/tyngdtacke.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - sovrum-somn
   - angest-somn

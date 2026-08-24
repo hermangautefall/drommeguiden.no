@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Tilhørighet, tilknytning og det å høre til noen"
 bilde: /bilder/symboler/ring.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Hinder och motgång du måste forcera"
   - "Andlig växt, överblick och måluppfyllelse"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/fjell.jpg
 author: 'default'
 ---

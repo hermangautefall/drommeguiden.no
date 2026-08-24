@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe uavsluttet fra fortiden melder seg"
   - "Du opplever usikkerhet rundt tilhørighet eller sosial posisjon"
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/skole.jpg
 author: 'default'
 ---

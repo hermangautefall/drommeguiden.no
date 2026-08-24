@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Mangfold, skjønnhet og det spekteret livet tilbyr"
 bilde: /bilder/symboler/regnbue.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

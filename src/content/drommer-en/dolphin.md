@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A bridge between the conscious and the unconscious — the dolphin swims in both worlds"
 bilde: /bilder/symboler/delfin.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: delfin
 sv_slug: delfin
 author: 'default'

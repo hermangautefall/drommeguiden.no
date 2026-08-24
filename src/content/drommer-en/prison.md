@@ -11,6 +11,7 @@ tolkninger_kort:
   - "Self-imposed limits are holding you back from what you want"
   - "Guilt, shame, or an unresolved act is weighing on you"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/fengsel.jpg
 nb_slug: fengsel
 sv_slug: fangelse

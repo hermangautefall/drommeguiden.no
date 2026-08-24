@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Something you're preoccupied with needs a decision or clarity"
   - "The relationship between head and heart — reason versus feeling"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hode.jpg
 nb_slug: hode
 sv_slug: huvud

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Sårbarhet og kortvarighet — noe skjønt men flyktig"
 bilde: /bilder/symboler/blomst.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

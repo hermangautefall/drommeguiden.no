@@ -227,7 +227,7 @@ const crumbs = [
           author: {
             '@type': resolvedAuthor.type,
             name: resolvedAuthor.name,
-            url: `${baseSite}${resolvedAuthor.url}`,
+            url: `${baseSite}${pathFor(lang, 'omOss')}`,
             ...(resolvedAuthor.sameAs.length > 0 && { sameAs: resolvedAuthor.sameAs }),
           },
           publisher: {

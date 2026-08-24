@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Stress og press fra noe du ikke har tatt tak i"
 bilde: /bilder/symboler/forfulgt.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-20
 author: 'default'
 relaterte_sovn:
   - angst-sovn

@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A fear of being judged or found out may be weighing on you"
   - "You may long to show yourself as who you really are"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/naken.jpg
 nb_slug: naken
 sv_slug: naken

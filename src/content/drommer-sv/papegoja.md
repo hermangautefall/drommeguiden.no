@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Kommunikation och det du säger är viktigt just nu"
   - "Någon i ditt liv är inte originell — de kopierar andra"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/papegoy.jpg
 author: 'default'
 ---

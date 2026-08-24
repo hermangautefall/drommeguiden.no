@@ -7,7 +7,7 @@ kortbeskrivelse: "Soveromsmiljøet påvirker søvnkvaliteten mer enn de fleste t
 leseminutter: 8
 bilde: /bilder/sovn/soverom-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnhygiene
   - sovnproblemer

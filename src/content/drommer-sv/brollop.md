@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Drömmen tolkas ofta som en förening av det medvetna och det omedvetna i dig."
   - "Bröllopsdrömmar kan peka mot rädsla för förändring eller förlust av frihet."
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/bryllup.jpg
 author: 'default'
 relaterte_sovn:

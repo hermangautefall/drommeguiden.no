@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Emotional unease is settling in the body and wants out"
 bilde: /bilder/symboler/mage.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: mage
 sv_slug: mage
 author: 'default'

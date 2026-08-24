@@ -4,7 +4,7 @@ slug: gjentakende-drommer
 kortbeskrivelse: "Hvorfor drømmer du det samme om igjen? Les om forskningen bak gjentakende drømmer, de vanligste typene, og hvordan du kan tolke og håndtere dem."
 leseminutter: 6
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 bilde: /bilder/guider/gjentakende.jpg
 ---
 

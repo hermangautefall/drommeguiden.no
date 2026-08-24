@@ -7,7 +7,7 @@ kortbeskrivelse: "Åtte timer er gjennomsnittet — men søvnbehovet varierer be
 leseminutter: 7
 bilde: /bilder/sovn/sovnbehov.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnfaser
   - hva-er-sovn

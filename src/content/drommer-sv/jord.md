@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Det jordbundna, det materiella och det närande i livet"
 bilde: /bilder/symboler/jord.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

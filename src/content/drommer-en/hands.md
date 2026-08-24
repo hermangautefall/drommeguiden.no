@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Relationships and connections with other people are mirrored"
   - "Your identity and sense of self are expressed through the state of your hands"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hender.jpg
 nb_slug: hender
 sv_slug: hander

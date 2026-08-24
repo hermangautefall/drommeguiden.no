@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Ild i drømmer tolkes ofte som et tegn på transformasjon og fornyelse."
   - "Ukontrollert brann kan peke mot destruktive krefter eller frykt for tap."
 dato: 2026-03-18
+oppdatert: 2026-08-20
 bilde: /bilder/symboler/brann.jpg
 author: 'default'
 relaterte_sovn:

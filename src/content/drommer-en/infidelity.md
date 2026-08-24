@@ -13,6 +13,7 @@ tolkninger_kort:
   - "A fear of being abandoned or not being enough as a partner"
   - "Something in your life is competing for your attention or your partner's"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/utroskap.jpg
 nb_slug: utroskap
 sv_slug: otrohet

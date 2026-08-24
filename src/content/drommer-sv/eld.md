@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Rening och förnyelse genom det som förtärs"
 bilde: /bilder/symboler/ild.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

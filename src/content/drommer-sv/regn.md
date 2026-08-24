@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Sorg, melankoli eller undertryckta känslor kommer till ytan"
   - "Förnyelse, tillväxt och nya början väntar"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/regn.jpg
 author: 'default'
 ---

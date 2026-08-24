@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Relationer och förbindelser med andra människor speglas"
   - "Din identitet och självkänsla uttrycks genom händernas tillstånd"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hender.jpg
 author: 'default'
 relaterte_sovn:

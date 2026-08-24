@@ -7,7 +7,7 @@ kategori: hygiene
 kortbeskrivelse: "Sömnhygien är samlingen av vanor och miljöfaktorer som påverkar din sömnkvalitet. Här är de 12 mest dokumenterade åtgärderna — rangordnade efter effekt."
 leseminutter: 10
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 bilde: /bilder/sovn/somnhygien.jpg
 relaterte_sovn:
   - somnproblem

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En stor forandring er i ferd med å bryte løs"
   - "Undertrykte følelser presser seg til overflaten"
 dato: 2026-03-18
+oppdatert: 2026-08-20
 bilde: /bilder/symboler/storm.jpg
 author: 'default'
 ---

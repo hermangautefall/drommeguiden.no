@@ -7,7 +7,7 @@ kategori: lidelser
 kortbeskrivelse: "Ungefär en av tre svenskar kämpar med sömnen. Här är vad sömnproblem egentligen är, vad som orsakar dem, och vad forskning säger fungerar för att behandla dem."
 leseminutter: 10
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 bilde: /bilder/sovn/somnproblem.jpg
 relaterte_sovn:
   - somnhygien

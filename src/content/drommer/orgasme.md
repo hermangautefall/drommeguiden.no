@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Behovet for mer glede, nytelse og sanselig tilstedeværelse i hverdagen"
 bilde: /bilder/symboler/orgasme.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - sovnfaser

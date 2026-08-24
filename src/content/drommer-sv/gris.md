@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något du döljer eller skäms över visar sig"
 bilde: /bilder/symboler/gris.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

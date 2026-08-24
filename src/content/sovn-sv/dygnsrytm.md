@@ -8,7 +8,7 @@ kortbeskrivelse: "Den biologiska klockan styr sömn, energi, humör och matsmäl
 leseminutter: 8
 bilde: /bilder/sovn/dognrytme.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - melatonin
   - somnfaser

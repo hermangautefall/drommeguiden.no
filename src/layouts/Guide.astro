@@ -4,6 +4,8 @@ import BildeKreditt from '../components/BildeKreditt.astro';
 import Kommentarer from '../components/Kommentarer.astro';
 import { defaultLang, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
+import { languages } from '../i18n/config';
+import { authors } from '../data/authors';
 
 interface AlternateLink {
   lang: Lang;
@@ -16,12 +18,17 @@ interface Props {
   slug: string;
   leseminutter?: number;
   dato: Date;
+  oppdatert?: Date;
   bilde?: string;
   lang?: Lang;
   alternates?: AlternateLink[];
 }
 
-const { tittel, kortbeskrivelse, slug, leseminutter, dato, bilde, lang = defaultLang, alternates = [] } = Astro.props;
+const { tittel, kortbeskrivelse, slug, leseminutter, dato, oppdatert, bilde, lang = defaultLang, alternates = [] } = Astro.props;
+
+const baseSite = 'https://drommeguiden.no';
+const guideUrl = `${baseSite}${pathFor(lang, 'guider')}${slug}/`;
+const forfatter = authors.default;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 
 const labelsByLang: Record<Lang, { hjem: string; guider: string; breadcrumb: string; lesetid: string; innhold: string }> = {
@@ -86,12 +93,19 @@ const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
       headline: tittel,
       description: kortbeskrivelse,
       datePublished: dato.toISOString(),
-      url: `https://drommeguiden.no/guider/${slug}`,
-      ...(bilde && { image: `https://drommeguiden.no${bilde}` }),
+      dateModified: (oppdatert ?? dato).toISOString(),
+      inLanguage: languages[lang].htmlLang,
+      url: guideUrl,
+      ...(bilde && { image: `${baseSite}${bilde}` }),
+      author: {
+        '@type': forfatter.type,
+        name: forfatter.name,
+        url: `${baseSite}${pathFor(lang, 'omOss')}`,
+      },
       publisher: {
         '@type': 'Organization',
-        name: 'Drømmeguiden',
-        url: 'https://drommeguiden.no',
+        name: languages[lang].brand,
+        url: baseSite,
       },
     })}
   />

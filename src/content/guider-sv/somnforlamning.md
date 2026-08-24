@@ -6,7 +6,7 @@ bilde: /bilder/guider/sovnparalyse.jpg
 kortbeskrivelse: "Sömnförlamning är en av de mest skrämmande sömnupplevelser vi kan ha — men den är helt ofarlig. Här är vad som faktiskt händer och vad du kan göra."
 leseminutter: 9
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 ---
 
 Du vaknar — eller tror att du vaknar. Rummet är där, ljuset är som det ska, allt är bekant. Men du kan inte röra dig. Inte ett finger, inte ett ögonlock. Din kropp lyder dig inte. Och sedan, nästan alltid, är det något där — en tyngd på bröstet, en skugga i hörnet, en närvaro som du vet är i rummet även om du inte ser den tydligt.

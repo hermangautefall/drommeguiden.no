@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Something you want to say or do starts to take shape in the dream"
   - "A fear of loss or being let down comes to the surface"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/kjaereste.jpg
 nb_slug: kjaereste
 sv_slug: partner

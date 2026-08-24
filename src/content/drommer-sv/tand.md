@@ -11,6 +11,7 @@ tolkninger_kort:
   - "Drömmen tolkas ofta som ett uttryck för ångest kopplad till förlust av kontroll."
   - "Tanddrömmar kan också peka mot rädsla för åldrande eller livsfasövergångar."
 dato: 2026-04-20
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/tann.jpg
 nb_slug: tann
 author: 'default'

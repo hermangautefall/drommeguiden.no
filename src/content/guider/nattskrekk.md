@@ -5,7 +5,7 @@ kortbeskrivelse: "Nattskrekk er annerledes enn mareritt og kan virke skremmende 
 leseminutter: 8
 bilde: /bilder/guider/nattskrekk.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 ---
 
 Du hører et skrik fra soverommet. Barnet sitter oppreist i sengen med åpne øyne, ser rett frem, roper og skjelver — men er ikke våkent. Ingenting du sier når frem. Og neste morgen husker barnet ingenting.

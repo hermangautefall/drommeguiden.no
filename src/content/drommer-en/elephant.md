@@ -11,6 +11,7 @@ tolkninger_kort:
   - "You're carrying something heavy — a burden, a memory or a responsibility"
   - "Strength used with care and wisdom"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/elefant.jpg
 nb_slug: elefant
 sv_slug: elefant

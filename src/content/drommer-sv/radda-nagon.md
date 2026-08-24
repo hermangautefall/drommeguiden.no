@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En omedveten önskan att ingripa i en situation där du i verkligheten känner dig hjälplös"
 bilde: /bilder/symboler/redde-noen.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

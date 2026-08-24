@@ -12,6 +12,7 @@ tolkninger_kort:
   - "En åndelig søken eller intuitiv veiledning er tilgjengelig"
   - "Eleganse og stolthet i en krevende situasjon"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hjort.jpg
 author: 'default'
 ---

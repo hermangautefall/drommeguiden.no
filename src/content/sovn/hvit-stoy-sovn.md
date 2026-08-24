@@ -7,7 +7,7 @@ kortbeskrivelse: "Hvit støy, rosa støy, brunt støy og naturlyder — alle hev
 leseminutter: 7
 bilde: /bilder/sovn/hvit-stoy-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - soverom-sovn
   - sovnhygiene

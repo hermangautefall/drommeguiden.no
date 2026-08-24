@@ -7,7 +7,7 @@ kortbeskrivelse: "Sorg forandrer søvnen dypt — og søvnen er der mye av sorge
 leseminutter: 8
 bilde: /bilder/sovn/sorg-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-08-24
 relaterte_sovn:
   - sovnproblemer
   - depresjon-sovn

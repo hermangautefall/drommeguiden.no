@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Angst for å ikke holde tritt med livets tempo og forventninger"
 bilde: /bilder/symboler/fly-misser.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

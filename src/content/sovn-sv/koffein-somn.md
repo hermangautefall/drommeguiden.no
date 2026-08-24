@@ -8,7 +8,7 @@ kortbeskrivelse: "Koffein är världens mest använda psykoaktiva ämne — och 
 leseminutter: 7
 bilde: /bilder/sovn/koffein-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnhygien
   - somnfaser

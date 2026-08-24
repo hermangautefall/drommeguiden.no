@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En inre drift efter kontroll eller perspektiv gör sig påmind"
   - "Personlig utveckling och nya möjligheter öppnar sig"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/flyging.jpg
 nb_slug: flyging
 author: 'default'

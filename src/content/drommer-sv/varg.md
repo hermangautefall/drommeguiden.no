@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Lojalitet, gemenskap och beskydd är i fokus"
   - "Ett yttre hot eller en inre rädsla gör sig gällande"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/ulv.jpg
 author: 'default'
 relaterte_sovn:

@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A part of yourself is ready to emerge — a new identity or ability"
   - "A creative process or project is nearing completion"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/fodsel.jpg
 nb_slug: fodsel
 sv_slug: fodelse

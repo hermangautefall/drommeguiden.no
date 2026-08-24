@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din nuvarande situation påminner dig om något från den tiden"
 bilde: /bilder/symboler/gammel-venn.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

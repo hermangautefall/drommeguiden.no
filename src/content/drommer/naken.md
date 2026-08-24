@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En frykt for å bli dømt eller avslørt plager deg"
   - "Du lengter etter å vise deg som den du virkelig er"
 dato: 2026-03-18
+oppdatert: 2026-08-20
 bilde: /bilder/symboler/naken.jpg
 author: 'default'
 relaterte_sovn:

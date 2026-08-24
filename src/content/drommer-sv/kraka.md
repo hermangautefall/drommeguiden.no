@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Dold visdom eller intuition försöker nå dig"
   - "Något i ditt liv behöver din uppmärksamhet"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/krage.jpg
 author: 'default'
 ---

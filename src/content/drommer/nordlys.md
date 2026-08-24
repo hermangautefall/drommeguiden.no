@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Det nordiske i din identitet — noe urgammelt og vakkert lyser opp"
 bilde: /bilder/symboler/nordlys.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

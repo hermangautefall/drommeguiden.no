@@ -8,7 +8,7 @@ kortbeskrivelse: "Mörker är en av sömnens viktigaste förutsättningar. Här 
 leseminutter: 6
 bilde: /bilder/sovn/somnmask.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - sovrum-somn
   - somnhygien

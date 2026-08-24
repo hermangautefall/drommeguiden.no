@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Your inner voice or conscience is speaking to you"
   - "An unresolved situation between you needs attention"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/mor.jpg
 nb_slug: mor
 sv_slug: mor

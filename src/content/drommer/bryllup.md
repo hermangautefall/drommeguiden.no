@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Drømmen tolkes ofte som en forening av det bevisste og det ubevisste i deg."
   - "Bryllupsdrømmer kan peke mot frykt for forandring eller tap av frihet."
 dato: 2026-03-18
+oppdatert: 2026-08-21
 bilde: /bilder/symboler/bryllup.jpg
 author: 'default'
 relaterte_sovn:

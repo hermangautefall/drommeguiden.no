@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Sadness, melancholy, or suppressed feelings are rising to the surface"
   - "Renewal, growth, and new beginnings are waiting"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/regn.jpg
 nb_slug: regn
 sv_slug: regn

@@ -8,7 +8,7 @@ kortbeskrivelse: "I fornnordisk kultur var drömmar inte symboliska — de var v
 leseminutter: 9
 bilde: /bilder/sovn/norrene-drommesagaer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - beromda-drommar
   - varfor-drommer-vi

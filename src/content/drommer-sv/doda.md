@@ -15,6 +15,7 @@ tolkninger_kort:
   - "En inre konflikt mellan olika sidor av dig själv spelas upp"
 bilde: /bilder/symboler/drepe.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - ptsd-drommar

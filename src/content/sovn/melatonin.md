@@ -7,7 +7,7 @@ kortbeskrivelse: "Melatonin er ikke et sovemiddel — det er et signalhormon. He
 leseminutter: 8
 bilde: /bilder/sovn/melatonin.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnfaser
   - sovnbehov

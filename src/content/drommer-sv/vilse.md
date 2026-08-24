@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En del av dig har kommit bort från den du egentligen är"
 bilde: /bilder/symboler/bli-fortapt.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - angest-somn

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En kreativ prosess eller et prosjekt nærmer seg sin fullbyrdelse"
 bilde: /bilder/symboler/fodsel.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

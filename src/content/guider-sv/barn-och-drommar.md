@@ -6,7 +6,7 @@ kortbeskrivelse: "Barn drömmer annorlunda än vuxna och har unika behov kopplad
 leseminutter: 8
 bilde: /bilder/guider/barn-og-drommer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 ---
 
 Barnet ditt sitter upp i sängen mitt i natten, rädd för något det inte kan sätta ord på. Eller så berättar det om en dröm där ni två var på ett äventyr, levande och detaljerat. Barn drömmer — och de drömmer intensivt. Men barns drömliv är annorlunda än vuxnas på sätt som är viktiga att förstå.

@@ -11,6 +11,7 @@ tolkninger_kort:
   - "A sense of scarcity or abundance you're experiencing in life right now"
   - "Power, control, and resources — who has them and who doesn't"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/penger.jpg
 nb_slug: penger
 sv_slug: pengar

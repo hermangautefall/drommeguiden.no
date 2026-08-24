@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En emotionell oro sitter i kroppen och vill ut"
 bilde: /bilder/symboler/mage.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

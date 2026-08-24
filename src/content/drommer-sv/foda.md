@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En ny fas, identitet eller version av dig själv föds fram"
 bilde: /bilder/symboler/foede.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: foede
 author: 'default'
 ---

@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Your inner critic or supporter has something to say"
   - "An unresolved matter between you is seeking processing"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/far.jpg
 nb_slug: far
 sv_slug: pappa

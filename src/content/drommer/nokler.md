@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Kontroll og trygghet i ditt eget liv er i fokus"
 bilde: /bilder/symboler/nokler.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

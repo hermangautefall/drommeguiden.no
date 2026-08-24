@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Själva resan — processen, inte bara målet"
 bilde: /bilder/symboler/vei.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Katter tolkas ofta som en bild av intuition och den mystiska delen av sinnet."
   - "En katt kan representera någon i ditt liv som är svår att läsa."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/katt.jpg
 author: 'default'
 ---

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Undertrykt aggresjon eller frustrasjon som vil ut"
 bilde: /bilder/symboler/sloss.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

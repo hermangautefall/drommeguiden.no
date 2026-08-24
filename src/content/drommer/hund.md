@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En aggressiv hund kan varsle om trussel eller konflikt i nære relasjoner."
   - "Hunder kan representere dine instinkter og den intuitive delen av deg."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hund.jpg
 author: 'default'
 ---

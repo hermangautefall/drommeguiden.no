@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et rolig hav tolkes ofte som indre fred og emosjonell balanse."
   - "Et stormfullt hav kan peke mot uro, overveldende følelser eller konflikt."
 dato: 2026-03-18
+oppdatert: 2026-08-20
 bilde: /bilder/symboler/hav.jpg
 sv_slug: hav
 author: 'default'

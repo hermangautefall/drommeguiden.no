@@ -8,7 +8,7 @@ kortbeskrivelse: "Många använder alkohol för att somna — men forskningen ä
 leseminutter: 7
 bilde: /bilder/sovn/alkohol-sovn.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnfaser
   - somnhygien

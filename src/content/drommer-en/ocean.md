@@ -11,6 +11,7 @@ tolkninger_kort:
   - "A calm ocean is often read as inner peace and emotional balance."
   - "A stormy ocean can point to unease, overwhelming emotions, or conflict."
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/hav.jpg
 nb_slug: hav
 sv_slug: hav

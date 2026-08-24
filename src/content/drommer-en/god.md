@@ -11,6 +11,7 @@ tolkninger_kort:
   - "A numinous experience — something sacred, overwhelming and deeply meaningful"
   - "A search for meaning, direction, and a foundation greater than yourself"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/gud.jpg
 nb_slug: gud
 sv_slug: gud

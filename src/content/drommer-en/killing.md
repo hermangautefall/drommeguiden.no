@@ -13,6 +13,7 @@ tolkninger_kort:
   - "You want to put an end to something — not a person, but what they represent"
   - "An inner conflict between different sides of yourself is playing out"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/drepe.jpg
 nb_slug: drepe
 sv_slug: doda

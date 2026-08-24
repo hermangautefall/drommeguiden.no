@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En frykt for sykdom, smitte eller noe negativt som sprer seg"
 bilde: /bilder/symboler/rotte.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

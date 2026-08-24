@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En längtan efter det nya, okända och outforskade i ditt liv"
 bilde: /bilder/symboler/fremmed-sex.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - varfor-drommer-vi

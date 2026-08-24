@@ -11,6 +11,7 @@ tolkninger_kort:
   - "Your work situation is holding something unresolved"
   - "Your inner critic has taken your boss's face"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/sjef.jpg
 nb_slug: sjef
 sv_slug: chef

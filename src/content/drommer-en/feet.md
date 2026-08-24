@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Independence — standing on your own two feet and carrying yourself through life"
 bilde: /bilder/symboler/fot.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: fot
 sv_slug: fot
 author: 'default'

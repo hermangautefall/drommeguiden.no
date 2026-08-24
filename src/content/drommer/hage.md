@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et fristed og et rom for ro, skjønnhet og fordypning"
 bilde: /bilder/symboler/hage.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

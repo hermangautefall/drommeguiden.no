@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En resa som kräver allt av dig — men som är värdefull"
 bilde: /bilder/symboler/vikingskip.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -6,7 +6,7 @@ kategori: hygiene
 kortbeskrivelse: "Søvnhygiene er samlingen av vaner og miljøfaktorer som påvirker søvnkvaliteten din. Her er de 12 mest dokumenterte tiltakene — rangert etter effekt."
 leseminutter: 10
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 bilde: /bilder/sovn/sovnhygiene.jpg
 relaterte_sovn:
   - sovnproblemer

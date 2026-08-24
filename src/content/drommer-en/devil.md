@@ -13,6 +13,7 @@ tolkninger_kort:
   - "The repressed, split-off material in the psyche that calls for integration, not denial"
   - "Temptation, and what pulls you away from what you know is right for you"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/djevel.jpg
 nb_slug: djevel
 sv_slug: djavul

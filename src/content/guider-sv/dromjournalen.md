@@ -5,7 +5,7 @@ nb_slug: drommejournalen
 kortbeskrivelse: "Lär dig hur en drömjournal kan hjälpa dig att minnas dina drömmar, upptäcka mönster och förstå dig själv bättre. Praktiska tips och tekniker ingår."
 leseminutter: 6
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 bilde: /bilder/guider/drommejournalen.jpg
 ---
 

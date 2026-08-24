@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Forbundethet og overgivelse — den dypeste formen for å gi seg hen"
 bilde: /bilder/symboler/ammende.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - sovn-graviditet

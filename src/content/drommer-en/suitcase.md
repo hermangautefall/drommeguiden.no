@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Something you want to bring with you or leave behind"
 bilde: /bilder/symboler/koffert.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 nb_slug: koffert
 sv_slug: resvaska
 author: 'default'

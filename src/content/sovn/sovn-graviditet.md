@@ -7,7 +7,7 @@ kortbeskrivelse: "Graviditet forandrer søvnen dramatisk — og drømmene med de
 leseminutter: 9
 bilde: /bilder/sovn/sovn-graviditet.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - sovnproblemer
   - sovnhygiene

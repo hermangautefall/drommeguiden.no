@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe du vil ta med deg eller legge igjen"
 bilde: /bilder/symboler/koffert.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

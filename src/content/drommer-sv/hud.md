@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Identitet och tillhörighet — hudfärgen och kroppens yta som identitetsmarkör"
 bilde: /bilder/symboler/hud.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

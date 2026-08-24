@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Omsorg, ansvar och oro för något du har skapat"
 bilde: /bilder/symboler/barn.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 relaterte_sovn:
   - tonaring-somn

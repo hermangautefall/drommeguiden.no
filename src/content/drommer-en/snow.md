@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Something has frozen over — feelings, a situation, or a relationship"
   - "Purity, a fresh start, and a blank page ahead of you"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/sno.jpg
 nb_slug: sno
 sv_slug: sno

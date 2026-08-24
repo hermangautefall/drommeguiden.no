@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Loyalty, belonging and protection are in focus"
   - "An outer threat or an inner fear is asserting itself"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/ulv.jpg
 nb_slug: ulv
 sv_slug: varg

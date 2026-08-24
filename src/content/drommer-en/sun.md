@@ -11,6 +11,7 @@ tolkninger_kort:
   - "Awareness and clarity — something is becoming clear and visible"
   - "A new beginning, growth and progress are on the way"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/sol.jpg
 nb_slug: sol
 sv_slug: sol

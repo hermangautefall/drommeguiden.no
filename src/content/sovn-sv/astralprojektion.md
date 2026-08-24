@@ -8,7 +8,7 @@ kortbeskrivelse: "Astralprojektion och out-of-body experiences upplevs som extra
 leseminutter: 8
 bilde: /bilder/sovn/astralprosjeksjon.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-01
 relaterte_sovn:
   - somnfaser
   - polyfasisk-somn

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "The dream is often read as a union of the conscious and the unconscious within you"
   - "Wedding dreams can point to a fear of change or a loss of freedom"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/bryllup.jpg
 nb_slug: bryllup
 sv_slug: brollop

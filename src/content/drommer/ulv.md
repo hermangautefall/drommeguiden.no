@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Lojalitet, fellesskap og beskyttelse er i fokus"
   - "En ytre trussel eller indre frykt gjør seg gjeldende"
 dato: 2026-03-18
+oppdatert: 2026-08-20
 bilde: /bilder/symboler/ulv.jpg
 author: 'default'
 relaterte_sovn:

@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Something in your life is wearing you down, little by little"
   - "A vulnerability you're carrying wants to be acknowledged"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/sykdom.jpg
 nb_slug: sykdom
 sv_slug: sjukdom

@@ -5,7 +5,7 @@ nb_slug: hva-er-drommer
 kortbeskrivelse: "Vad händer egentligen när vi drömmer? Utforska sömnfaser, REM-sömn, Freud och Jung — och vad modern neurovetenskap säger om drömmarnas viktiga funktion."
 leseminutter: 8
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-04-25
 bilde: /bilder/guider/hva-er-drommer.jpg
 ---
 

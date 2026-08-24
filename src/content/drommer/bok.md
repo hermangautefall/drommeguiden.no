@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En hemmelighet eller sannhet som er skjult mellom permene"
 bilde: /bilder/symboler/bok.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

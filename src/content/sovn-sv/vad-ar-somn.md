@@ -7,6 +7,7 @@ kategori: vitenskap
 kortbeskrivelse: "Sömn är inte passiv vila — det är en av kroppens mest aktiva processer. Här är vad forskningen vet om vad sömn egentligen är och varför vi inte kan leva utan den."
 leseminutter: 9
 dato: 2026-03-22
+oppdatert: 2026-08-24
 bilde: /bilder/sovn/hva-er-sovn.jpg
 relaterte_sovn:
   - somnfaser

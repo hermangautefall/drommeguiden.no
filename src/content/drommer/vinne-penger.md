@@ -13,6 +13,7 @@ tolkninger_kort:
   - "En uventet ressurs er på vei — noe godt er i ferd med å komme inn i livet"
 bilde: /bilder/symboler/vinne-penger.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 

@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Styrka och soliditet — en grund du kan lita på"
 bilde: /bilder/symboler/stein.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

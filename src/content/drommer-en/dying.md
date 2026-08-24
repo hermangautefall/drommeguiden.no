@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Something old in you is ready to be let go of"
   - "Your subconscious is processing fear — not sending a warning"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/do.jpg
 nb_slug: do
 sv_slug: do

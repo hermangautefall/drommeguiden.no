@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Du möter eller är själv en stark auktoritetsfigur"
   - "En ilska eller en kraft inom dig kräver uppmärksamhet"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/love.jpg
 author: 'default'
 ---

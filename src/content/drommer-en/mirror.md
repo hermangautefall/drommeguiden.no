@@ -12,6 +12,7 @@ tolkninger_kort:
   - "A confrontation with the truth or with hidden sides of yourself"
   - "Transitions and shifts in identity are mirrored back at you"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/speil.jpg
 nb_slug: speil
 sv_slug: spegel

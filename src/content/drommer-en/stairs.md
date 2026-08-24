@@ -12,6 +12,7 @@ tolkninger_kort:
   - "Setback, hesitation, or movement toward the unconscious"
   - "A transition between different levels of awareness or life situation"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/trapp.jpg
 nb_slug: trapp
 sv_slug: trappa

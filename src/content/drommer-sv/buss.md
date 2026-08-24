@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Att missa bussen — en rädsla att gå miste om något viktigt"
 bilde: /bilder/symboler/buss.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

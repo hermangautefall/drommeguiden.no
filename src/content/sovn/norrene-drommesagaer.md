@@ -7,7 +7,7 @@ kortbeskrivelse: "I norrøn kultur var drømmer ikke symbolske — de var varsle
 leseminutter: 9
 bilde: /bilder/sovn/norrene-drommesagaer.jpg
 dato: 2026-03-18
-oppdatert: 2026-03-18
+oppdatert: 2026-06-13
 relaterte_sovn:
   - beroemte-drommer
   - hvorfor-drommer-vi

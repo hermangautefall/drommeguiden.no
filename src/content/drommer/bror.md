@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Noe uoppgjort i søskenrelasjonen søker oppmerksomhet"
 bilde: /bilder/symboler/bror.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 ---
 

@@ -7,6 +7,7 @@ kategori: vitenskap
 kortbeskrivelse: "Varför drömmer vi? Forskning ger oss allt bättre svar — från emotionell reglering till kreativ problemlösning. Här är vad vi vet, och vad vi ännu inte vet."
 leseminutter: 9
 dato: 2026-03-22
+oppdatert: 2026-06-01
 bilde: /bilder/sovn/hvorfor-drommer-vi.jpg
 relaterte_sovn:
   - somnfaser

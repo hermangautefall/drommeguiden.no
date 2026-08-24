@@ -14,6 +14,7 @@ tolkninger_kort:
   - "En oro för något nära och vitalt i ditt liv"
 bilde: /bilder/symboler/hjerte.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - varfor-drommer-vi

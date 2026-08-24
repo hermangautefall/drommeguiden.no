@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Something is being torn up by the roots — chaos and disruption"
   - "An intensely spinning energy — feelings or situations caught in a spiral"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/tornado.jpg
 nb_slug: tornado
 sv_slug: tornado

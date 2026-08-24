@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Din egen rädsla för att förlora eller bli sviken visar sig"
 bilde: /bilder/symboler/kjaereste.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-24
 author: 'default'
 relaterte_sovn:
   - varfor-drommer-vi

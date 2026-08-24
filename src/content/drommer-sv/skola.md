@@ -14,6 +14,7 @@ tolkninger_kort:
   - "Något oavslutat från det förflutna anmäler sig"
   - "Du upplever osäkerhet kring tillhörighet eller social position"
 dato: 2026-03-18
+oppdatert: 2026-08-24
 bilde: /bilder/symboler/skole.jpg
 author: 'default'
 ---

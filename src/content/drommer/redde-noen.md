@@ -13,6 +13,7 @@ tolkninger_kort:
   - "Et ubevisst ønske om å gripe inn i en situasjon du i virkeligheten føler deg hjelpeløs i"
 bilde: /bilder/symboler/redde-noen.jpg
 dato: 2026-03-18
+oppdatert: 2026-08-21
 author: 'default'
 ---
 
