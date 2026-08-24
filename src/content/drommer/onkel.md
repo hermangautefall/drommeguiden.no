@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om onkelen din? 5 tolkninger og hva det betyr (2026)"
+tittel: "Drømmer om onkelen din — hva betyr det?"
 slug: onkel
 kategori: mennesker
-kortbeskrivelse: "Drømt om onkelen din? Onkler i drømmer representerer maskulin veiledning uten autoritetens tyngde — 5 tolkninger forklarer hva drømmen kan bety (2026)."
+kortbeskrivelse: "Drømt om onkelen din? Onkler representerer maskulin veiledning uten autoritetens tyngde — her er hva rollen han hadde i drømmen kan fortelle deg."
 relaterte:
   - far
   - tante

@@ -1,10 +1,10 @@
 ---
-tittel: "Drömt om olycka? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om olycka — vad betyder det?"
 slug: olycka
 nb_slug: ulykke
 kategori: handelser
 sensitivt: true
-kortbeskrivelse: "Drömt om en olycka? Olyckor handlar om ångest, skuld och det okontrollerbara — 5 tolkningar förklarar vad drömmen kan betyda för dig (2026)."
+kortbeskrivelse: "Drömt om en olycka? Olyckor handlar om ångest, skuld och det okontrollerbara — här är vad det betyder vilken roll du själv hade i det som hände."
 relaterte:
   - bil
   - flygkrasch

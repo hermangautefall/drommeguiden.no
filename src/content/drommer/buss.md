@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om buss? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om buss — hva betyr det?"
 slug: buss
 kategori: steder
-kortbeskrivelse: "Drømt om buss? Bussen handler om kollektiv retning, andres plan og det å gå glipp av noe — 5 tolkninger forklarer hva drømmen kan bety (2026)."
+kortbeskrivelse: "Drømt om buss? Bussen handler om kollektiv retning, andres planer og det å gå glipp av noe — her er hva drømmen kan si om hvem som styrer farten din."
 relaterte:
   - tog
   - bil

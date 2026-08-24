@@ -1,9 +1,9 @@
 ---
-tittel: "Drømt om operasjon? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om operasjon — hva betyr det?"
 slug: operasjon
 kategori: hendelser
 sensitivt: true
-kortbeskrivelse: "Drømt om operasjon? Operasjoner handler om reparasjon, kontroll og sårbarhet — 5 tolkninger forklarer hva drømmen kan bety for deg (2026)."
+kortbeskrivelse: "Drømt om operasjon? Operasjoner handler om reparasjon, kontroll og sårbarhet — her er hva det betyr hva som ble operert, og om du var pasienten."
 relaterte:
   - sykdom
   - sykehus

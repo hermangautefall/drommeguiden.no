@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om krabba? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om krabba — vad betyder det?"
 slug: krabba
 nb_slug: krabbe
 kategori: djur
-kortbeskrivelse: "Drömt om krabba? Krabbor symboliserar sidledes rörelse, hårt skal över sårbar kärna och att klamra sig fast — 5 tolkningar förklarar vad drömmen betyder (2026)."
+kortbeskrivelse: "Drömt om krabba? Krabban symboliserar sidledes rörelse, hårt skal över sårbar kärna och att klamra sig fast — här är vad drömmen kan betyda för dig."
 relaterte:
   - hav
   - spindel

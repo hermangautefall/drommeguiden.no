@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om naboen din? 5 tolkninger og hva det betyr (2026)"
+tittel: "Drømmer om naboen din — hva betyr det?"
 slug: nabo
 kategori: mennesker
-kortbeskrivelse: "Drømt om naboen din? Naboer handler om nært fellesskap, grenser og det normative — 5 tolkninger forklarer hva drømmen kan bety for deg (2026)."
+kortbeskrivelse: "Drømt om naboen din? Naboer handler om nært fellesskap, grenser og det normative — her er hva det betyr hvordan naboen oppførte seg i drømmen."
 relaterte:
   - hus
   - fremmed

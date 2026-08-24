@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om bi? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om bi — vad betyder det?"
 slug: bi
 nb_slug: bie
 kategori: djur
-kortbeskrivelse: "Drömt om bi? Bin symboliserar flit, gemenskap och söt belöning — 5 tolkningar förklarar vad drömmen kan betyda för dig (2026)."
+kortbeskrivelse: "Drömt om bi? Bin symboliserar flit, gemenskap och söt belöning — här är vad det betyder om det stack dig, gjorde honung, eller bara surrade förbi."
 relaterte:
   - geting
   - blomma

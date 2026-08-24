@@ -1,5 +1,5 @@
 ---
-tittel: "Drömma om bil – vad betyder det? 4 tolkningar (2026)"
+tittel: "Drömma om bil — vad betyder det?"
 slug: bil
 nb_slug: bil
 kategori: handelser

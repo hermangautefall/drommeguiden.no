@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om sten? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om sten — vad betyder det?"
 slug: sten
 nb_slug: stein
 kategori: foremal
-kortbeskrivelse: "Drömt om sten? Stenar symboliserar beständighet, tyngd och det heliga som överlever oss — 5 tolkningar förklarar vad drömmen betyder (2026)."
+kortbeskrivelse: "Drömt om sten? Stenar symboliserar beständighet, tyngd och det som överlever oss — här är vad det betyder om stenen lät sig flyttas, eller inte."
 relaterte:
   - jord
   - berg

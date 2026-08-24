@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om din farmor? 5 tolkningar och vad det betyder (2026)"
+tittel: "Drömma om din farmor — vad betyder det?"
 slug: farmor
 nb_slug: bestemor
 kategori: manniskor
-kortbeskrivelse: "Drömt om din farmor eller mormor? Mormorsdrömmar handlar om visdom, rötter och ovillkorlig omsorg — 5 tolkningar förklarar vad drömmen kan betyda (2026)."
+kortbeskrivelse: "Drömt om din farmor eller mormor? Sådana drömmar handlar om visdom, rötter och omsorg — här är vad det betyder om hon levde eller var borta."
 relaterte:
   - mor
   - avliden-person

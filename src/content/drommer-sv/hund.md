@@ -1,5 +1,5 @@
 ---
-tittel: "Drömma om hund — 5 vanliga tolkningar och betydelser (2026)"
+tittel: "Drömma om hund — vad betyder det?"
 slug: hund
 nb_slug: hund
 kategori: djur

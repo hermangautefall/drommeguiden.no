@@ -1,5 +1,5 @@
 ---
-tittel: "Drömma om katt — 5 vanliga tolkningar och vad det betyder (2026)"
+tittel: "Drömma om katt — vad betyder det?"
 slug: katt
 nb_slug: katt
 kategori: djur

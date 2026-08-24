@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om bie? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om bie — hva betyr det?"
 slug: bie
 kategori: dyr
-kortbeskrivelse: "Drømt om bie? Bier symboliserer flid, fellesskap og søt belønning — 5 tolkninger forklarer hva drømmen kan bety for deg (2026)."
+kortbeskrivelse: "Drømt om bie? Bier symboliserer flid, fellesskap og søt belønning — her er hva det betyr om den stakk deg, laget honning, eller bare surret forbi."
 relaterte:
   - veps
   - blomst

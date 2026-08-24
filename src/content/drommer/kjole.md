@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om kjole? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om kjole — hva betyr det?"
 slug: kjole
 kategori: gjenstander
-kortbeskrivelse: "Drømt om kjole? Klær handler om identitet, rollen du spiller og hvordan du ønsker å bli sett — 5 tolkninger forklarer hva drømmen kan bety (2026)."
+kortbeskrivelse: "Drømt om kjole? Klær handler om identitet, rollen du spiller og hvordan du ønsker å bli sett — her er hva fargen, passformen og anledningen kan bety."
 relaterte:
   - naken
   - bryllup

@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om krabbe? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om krabbe — hva betyr det?"
 slug: krabbe
 kategori: dyr
-kortbeskrivelse: "Drømt om krabbe? Krabber symboliserer sidelengs bevegelse, hardt skall over sårbar kjerne og det å klamre — 5 tolkninger forklarer hva drømmen betyr (2026)."
+kortbeskrivelse: "Drømt om krabbe? Krabben symboliserer sidelengs bevegelse, hardt skall over sårbar kjerne og det å klamre — her er hva drømmen kan bety for deg."
 relaterte:
   - hav
   - edderkopp

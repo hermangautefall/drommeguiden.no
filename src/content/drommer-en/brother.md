@@ -2,7 +2,7 @@
 tittel: "Dreaming of your brother — what does it mean?"
 slug: brother
 kategori: people
-kortbeskrivelse: "Dreamed about your brother? Brother dreams often reflect close relationships, rivalry, and masculine qualities within you — 5 interpretations explained."
+kortbeskrivelse: "Dreamed about your brother? Brother dreams often reflect close relationships, rivalry and the ally you had — here is what the dream may be telling you."
 relaterte:
   - sister
   - father

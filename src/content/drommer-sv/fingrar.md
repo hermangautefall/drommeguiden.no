@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om fingrar? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om fingrar — vad betyder det?"
 slug: fingrar
 nb_slug: fingre
 kategori: kropp
-kortbeskrivelse: "Drömt om fingrar? Fingrar handlar om detaljer, kreativitet, beröring och att skapa — 5 tolkningar förklarar vad drömmen kan betyda (2026)."
+kortbeskrivelse: "Drömt om fingrar? Fingrar handlar om detaljer, kreativitet, beröring och att skapa — här är vad det betyder vilket finger det gällde, och vad som hände."
 relaterte:
   - hander
   - ring

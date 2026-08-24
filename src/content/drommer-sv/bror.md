@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om din bror? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om din bror — vad betyder det?"
 slug: bror
 nb_slug: bror
 kategori: manniskor
-kortbeskrivelse: "Drömt om din bror? Brorsdrömmar speglar nära relationer, konkurrens och inre maskulina sidor — 5 tolkningar förklarar vad drömmen kan betyda (2026)."
+kortbeskrivelse: "Drömt om din bror? Brorsdrömmar speglar nära relationer, rivalitet och allians — här är vad det betyder hur ni hade det tillsammans i drömmen."
 relaterte:
   - syster
   - far

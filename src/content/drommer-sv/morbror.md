@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om din morbror? 5 tolkningar och vad det betyder (2026)"
+tittel: "Drömma om din morbror — vad betyder det?"
 slug: morbror
 nb_slug: onkel
 kategori: manniskor
-kortbeskrivelse: "Drömt om din morbror? Morbröder och farbröder representerar maskulin vägledning utan auktoritetens tyngd — 5 tolkningar förklarar vad drömmen kan betyda (2026)."
+kortbeskrivelse: "Drömt om din morbror? Morbröder representerar maskulin vägledning utan auktoritetens tyngd — här är vad rollen han hade i drömmen kan berätta."
 relaterte:
   - far
   - moster

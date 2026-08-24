@@ -1,9 +1,9 @@
 ---
-tittel: "Drømt om ulykke? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om ulykke — hva betyr det?"
 slug: ulykke
 kategori: hendelser
 sensitivt: true
-kortbeskrivelse: "Drømt om en ulykke? Ulykker handler om angst, skyld og det ukontrollerbare — 5 tolkninger forklarer hva drømmen kan bety for deg (2026)."
+kortbeskrivelse: "Drømt om en ulykke? Ulykker handler om angst, skyld og det ukontrollerbare — her er hva det betyr hvilken rolle du selv hadde i det som skjedde."
 relaterte:
   - bil
   - fly-styrter

@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om sommerfugl? 5 tolkninger og hva det betyr (2026)"
+tittel: "Drømmer om sommerfugl — hva betyr det?"
 slug: sommerfugl
 kategori: dyr
-kortbeskrivelse: "Drømt om sommerfugl? Den varsler ofte forvandling og en ny start — men fargen og bevegelsen avgjør betydningen. 5 tolkninger forklart (2026)."
+kortbeskrivelse: "Drømt om sommerfugl? Den varsler ofte forvandling og en ny start — men fargen og bevegelsen avgjør betydningen. Her er de vanligste tolkningene."
 relaterte:
   - flyging
   - skog

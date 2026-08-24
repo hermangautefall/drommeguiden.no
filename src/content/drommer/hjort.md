@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om hjort? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om hjort — hva betyr det?"
 slug: hjort
 kategori: dyr
-kortbeskrivelse: "Drømt om hjort? Hjorten symboliserer sårbarhet, åndelig søken, eleganse og stolthet — 5 tolkninger forklarer hva drømmen kan bety (2026)."
+kortbeskrivelse: "Drømt om hjort? Hjorten symboliserer sårbarhet, stolthet og en gammel åndelig lengsel — her er hva blikket, geviret og jakten i drømmen kan bety."
 relaterte:
   - skog
   - ulv

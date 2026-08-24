@@ -1,9 +1,9 @@
 ---
-tittel: "Drømmer om at partneren er utro – hva betyr det? (2026)"
+tittel: "Drømmer om at partneren er utro — hva betyr det?"
 slug: utroskap-partner
 kategori: mennesker
 sensitivt: true
-kortbeskrivelse: "Drømt om at partneren er utro? Det handler nesten aldri om faktisk utroskap. Les hva drømmen egentlig betyr – og hvorfor den er en av de mest forstyrrende i parforhold."
+kortbeskrivelse: "Drømt om at partneren er utro? Det handler nesten aldri om faktisk utroskap. Her er hva utryggheten i drømmen egentlig kan handle om, og hva som utløser den."
 relaterte:
   - utroskap
   - eksen

@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om cykel? 5 tolkningar och vad det betyder (2026)"
+tittel: "Drömma om cykel — vad betyder det?"
 slug: cykel
 nb_slug: sykkel
 kategori: foremal
-kortbeskrivelse: "Drömt om cykel? Cykeln handlar om självdriven framgång och balans — men motlutet, riktningen och cykeln i sig avgör betydelsen. Läs 5 tolkningar (2026)."
+kortbeskrivelse: "Drömt om cykel? Cykeln handlar om självdriven framgång och balans — här är vad det betyder om det gick uppför eller nedför, och om du höll dig uppe."
 relaterte:
   - bil
   - vag

@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om bestemoren din? 5 tolkninger og hva det betyr (2026)"
+tittel: "Drømmer om bestemoren din — hva betyr det?"
 slug: bestemor
 kategori: mennesker
-kortbeskrivelse: "Drømt om bestemoren din? Bestemorsdrømmer handler om visdom, røtter og ubetinget omsorg — 5 tolkninger forklarer hva drømmen kan bety (2026)."
+kortbeskrivelse: "Drømt om bestemoren din? Bestemorsdrømmer handler om visdom, røtter og ubetinget omsorg — her er hva det betyr om hun levde eller var gått bort."
 relaterte:
   - mor
   - avdod-person

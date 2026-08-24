@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om fingre? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om fingre — hva betyr det?"
 slug: fingre
 kategori: kropp
-kortbeskrivelse: "Drømt om fingre? Fingre handler om detaljer, kreativitet, berøring og det å skape — 5 tolkninger forklarer hva drømmen kan bety (2026)."
+kortbeskrivelse: "Drømt om fingre? Fingre handler om detaljer, kreativitet, berøring og det å skape — her er hva det betyr hvilken finger det gjaldt, og hva som skjedde."
 relaterte:
   - hender
   - ring

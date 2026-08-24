@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om tanten din? 5 tolkninger og hva det betyr (2026)"
+tittel: "Drømmer om tanten din — hva betyr det?"
 slug: tante
 kategori: mennesker
-kortbeskrivelse: "Drømt om tanten din? Tanter representerer omsorg utenfor kjernen og en alternativ feminin modell — 5 tolkninger forklarer hva drømmen kan bety (2026)."
+kortbeskrivelse: "Drømt om tanten din? Tanter representerer omsorg uten forventninger og en alternativ feminin modell — her er hva rollen hennes i drømmen kan bety."
 relaterte:
   - mor
   - onkel

@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om groda? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om groda — vad betyder det?"
 slug: groda
 nb_slug: frosk
 kategori: djur
-kortbeskrivelse: "Drömt om groda? Grodan symboliserar förvandling, rening och förmågan att leva i två världar — 5 tolkningar förklarar vad drömmen betyder (2026)."
+kortbeskrivelse: "Drömt om groda? Grodan symboliserar förvandling, regn och förmågan att leva i två världar — här är vad det betyder om den var frisk, eller stilla."
 relaterte:
   - fjaril
   - hav

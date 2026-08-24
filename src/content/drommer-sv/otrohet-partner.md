@@ -1,5 +1,5 @@
 ---
-tittel: "Drömma om att partnern är otrogen — vad betyder det? (2026)"
+tittel: "Drömma om att partnern är otrogen — vad betyder det?"
 slug: otrohet-partner
 nb_slug: utroskap-partner
 kategori: manniskor

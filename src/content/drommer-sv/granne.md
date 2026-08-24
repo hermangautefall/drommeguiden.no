@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om din granne? 5 tolkningar och vad det betyder (2026)"
+tittel: "Drömma om din granne — vad betyder det?"
 slug: granne
 nb_slug: nabo
 kategori: manniskor
-kortbeskrivelse: "Drömt om din granne? Grannar handlar om nära gemenskap, gränser och det normativa — 5 tolkningar förklarar vad drömmen kan betyda för dig (2026)."
+kortbeskrivelse: "Drömt om din granne? Grannar handlar om nära gemenskap, gränser och det normativa — här är vad det betyder hur grannen betedde sig i drömmen."
 relaterte:
   - hus
   - frammande

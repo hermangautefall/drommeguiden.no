@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om stein? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om stein — hva betyr det?"
 slug: stein
 kategori: gjenstander
-kortbeskrivelse: "Drømt om stein? Steiner symboliserer bestandighet, tyngde og det hellige som overlever oss — 5 tolkninger forklarer hva drømmen betyr (2026)."
+kortbeskrivelse: "Drømt om stein? Steiner symboliserer bestandighet, tyngde og det som overlever oss — her er hva det betyr om steinen lot seg flytte, eller ikke."
 relaterte:
   - jord
   - fjell

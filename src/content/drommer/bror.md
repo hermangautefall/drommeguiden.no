@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om broren din? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om broren din — hva betyr det?"
 slug: bror
 kategori: mennesker
-kortbeskrivelse: "Drømt om broren din? Brorsdrømmer speiler nære relasjoner, konkurranse og indre maskuline sider — 5 tolkninger forklarer hva drømmen kan bety (2026)."
+kortbeskrivelse: "Drømt om broren din? Brorsdrømmer speiler nære relasjoner, rivalisering og allianse — her er hva det betyr hvordan dere hadde det sammen i drømmen."
 relaterte:
   - soester
   - far

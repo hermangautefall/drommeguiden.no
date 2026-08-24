@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om din moster? 5 tolkningar och vad det betyder (2026)"
+tittel: "Drömma om din moster — vad betyder det?"
 slug: moster
 nb_slug: tante
 kategori: manniskor
-kortbeskrivelse: "Drömt om din moster eller faster? Mostrar representerar omsorg utanför kärnan och en alternativ feminin modell — 5 tolkningar förklarar vad drömmen kan betyda (2026)."
+kortbeskrivelse: "Drömt om din moster? Mostrar representerar omsorg utan förväntningar och en alternativ kvinnlig förebild — här är vad drömmen kan betyda för dig."
 relaterte:
   - mor
   - morbror

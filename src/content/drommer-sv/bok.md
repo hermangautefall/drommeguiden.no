@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om bok? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om bok — vad betyder det?"
 slug: bok
 nb_slug: bok
 kategori: foremal
-kortbeskrivelse: "Drömt om en bok? Böcker symboliserar kunskap, livshistoria och dolda sanningar — 5 ärliga tolkningar förklarar vad drömmen kan betyda (2026)."
+kortbeskrivelse: "Drömt om en bok? Böcker symboliserar kunskap, livshistoria och dolda sanningar — här är vad det betyder om du läste, letade, eller inte fick upp den."
 relaterte:
   - skola
   - ljus

@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om klänning? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om klänning — vad betyder det?"
 slug: klanning
 nb_slug: kjole
 kategori: foremal
-kortbeskrivelse: "Drömt om klänning? Kläder handlar om identitet, rollen du spelar och hur du vill bli sedd — 5 tolkningar förklarar vad drömmen kan betyda (2026)."
+kortbeskrivelse: "Drömt om klänning? Kläder handlar om identitet, rollen du spelar och hur du vill bli sedd — här är vad färgen, passformen och tillfället kan betyda."
 relaterte:
   - naken
   - brollop

@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt att du är gravid? 5 vanliga tolkningar (2026)"
+tittel: "Drömma att du är gravid — vad betyder det?"
 slug: gravid
 nb_slug: gravid
 kategori: handelser
-kortbeskrivelse: "Drömt att du är gravid? Det är en av de vanligaste drömmarna — men handlar sällan om bokstavlig graviditet. 5 tolkningar förklarar varför (2026)."
+kortbeskrivelse: "Drömt att du är gravid? Det är en av de vanligaste drömmarna — men handlar sällan om bokstavlig graviditet. Här är vad som växer i det tysta i stället."
 relaterte:
   - baby
   - barn

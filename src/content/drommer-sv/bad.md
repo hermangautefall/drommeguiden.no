@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om bad? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om bad — vad betyder det?"
 slug: bad
 nb_slug: bad
 kategori: platser
-kortbeskrivelse: "Drömt om bad eller badrum? Badet handlar om rening, avskildhet och övergång — 5 tolkningar förklarar vad drömmen kan betyda för dig (2026)."
+kortbeskrivelse: "Drömt om bad eller badrum? Badet handlar om rening, avskildhet och övergång — här är vad drömmen kan säga om ditt behov av en plats för dig själv."
 relaterte:
   - toalett
   - hus

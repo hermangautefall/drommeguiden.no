@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om krokodille? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om krokodille — hva betyr det?"
 slug: krokodille
 kategori: dyr
-kortbeskrivelse: "Drømt om krokodille? Krokodillen symboliserer skjult fare, tålmodighet og urgammel overlevelseskraft — 5 tolkninger forklarer hva drømmen betyr (2026)."
+kortbeskrivelse: "Drømt om krokodille? Krokodillen symboliserer skjult fare, tålmodighet og urgammel overlevelseskraft — her er hva drømmen kan bety for deg akkurat nå."
 relaterte:
   - slange
   - hai

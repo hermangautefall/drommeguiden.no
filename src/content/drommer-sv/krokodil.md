@@ -1,9 +1,9 @@
 ---
-tittel: "Drömt om krokodil? 5 tolkningar och vad det egentligen betyder (2026)"
+tittel: "Drömma om krokodil — vad betyder det?"
 slug: krokodil
 nb_slug: krokodille
 kategori: djur
-kortbeskrivelse: "Drömt om krokodil? Krokodilen symboliserar dold fara, tålamod och urgammal överlevnadskraft — 5 tolkningar förklarar vad drömmen betyder (2026)."
+kortbeskrivelse: "Drömt om krokodil? Krokodilen symboliserar dold fara, tålamod och urgammal överlevnadskraft — här är vad drömmen kan betyda för dig just nu."
 relaterte:
   - orm
   - haj

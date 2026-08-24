@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om frosk? 5 tolkninger og hva det egentlig betyr (2026)"
+tittel: "Drømmer om frosk — hva betyr det?"
 slug: frosk
 kategori: dyr
-kortbeskrivelse: "Drømt om frosk? Frosken symboliserer forvandling, renselse og evnen til å leve i to verdener — 5 tolkninger forklarer hva drømmen betyr (2026)."
+kortbeskrivelse: "Drømt om frosk? Frosken symboliserer forvandling, regn og evnen til å leve i to verdener — her er hva det betyr om den var grønn og frisk, eller stille."
 relaterte:
   - sommerfugl
   - hav

@@ -1,5 +1,5 @@
 ---
-tittel: "Drömma om att drunkna — vad betyder det? 4 tolkningar (2026)"
+tittel: "Drömma om att drunkna — vad betyder det?"
 slug: drunkna
 nb_slug: drukne
 kategori: handelser

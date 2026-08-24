@@ -1,8 +1,8 @@
 ---
-tittel: "Drømt om sykkel? 5 tolkninger og hva det betyr (2026)"
+tittel: "Drømmer om sykkel — hva betyr det?"
 slug: sykkel
 kategori: gjenstander
-kortbeskrivelse: "Drømt om sykkel? Sykkelen handler om selvdrevet fremgang og balanse — men motbakken, retningen og syklusen din avgjør betydningen. Les 5 tolkninger (2026)."
+kortbeskrivelse: "Drømt om sykkel? Sykkelen handler om selvdrevet fremgang og balanse — her er hva det betyr om det gikk oppover eller nedover, og om du holdt deg oppe."
 relaterte:
   - bil
   - vei
