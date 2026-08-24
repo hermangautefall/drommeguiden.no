@@ -3,7 +3,6 @@ import Base from './Base.astro';
 import TLDRBoks from '../components/TLDRBoks.astro';
 import RelaterteBoks from '../components/RelaterteBoks.astro';
 import BildeKreditt from '../components/BildeKreditt.astro';
-import Kommentarer from '../components/Kommentarer.astro';
 import ContentTOC from '../components/ContentTOC.astro';
 import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import ShareButtons from '../components/ShareButtons.astro';
@@ -202,7 +201,6 @@ const crumbs = [
 
         <RelaterteBoks relaterte={relaterte || []} lang={lang} />
         <RelatertSovn artikler={relaterteSovnArtikler} lang={lang} />
-        <Kommentarer />
       </div>
 
       <AdSlot format="sidebar" lang={lang} />

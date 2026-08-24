@@ -1,0 +1,12 @@
+{
+  "name": "Drømmeguiden",
+  "short_name": "Drømmeguiden",
+  "icons": [
+    { "src": "/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "theme_color": "#1c1916",
+  "background_color": "#f5f1ea",
+  "display": "standalone",
+  "start_url": "/"
+}

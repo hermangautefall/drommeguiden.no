@@ -1,7 +1,6 @@
 ---
 import Base from './Base.astro';
 import BildeKreditt from '../components/BildeKreditt.astro';
-import Kommentarer from '../components/Kommentarer.astro';
 import { defaultLang, type Lang } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
 import { languages } from '../i18n/config';
@@ -79,7 +78,6 @@ const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
 
       <div class="guide-content prose" id="guide-content">
         <slot />
-        <Kommentarer />
       </div>
     </div>
   </article>
