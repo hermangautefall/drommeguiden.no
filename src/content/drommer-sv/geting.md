@@ -21,7 +21,7 @@ author: 'default'
 
 Getingen är inte som biet — den producerar inte honung, den gagnar inte direkt. Den är ett djur som bara sticker, och som kan sticka flera gånger. I drömvärlden är den en av de tydligare symbolerna för aggression, irritation och något som kan skada dig om du inte är uppmärksam.
 
-## De vanligaste tolkningarna
+## Surret som inte ger sig
 
 ### Irritation och något som hänger i
 
@@ -35,7 +35,7 @@ Getingen angriper — och i drömmarna kan den representera en aggression i rör
 
 Getingen är ett varningstecken — något ser ofarligt ut men kan skada. Till skillnad från [ormen](/sv/drommar/orm/), som är dold och oförutsägbar, är getingen synlig men ihållande. Drömmens geting kan representera en situation eller person som verkar obetydlig, men som kan sticka om du inte hanterar den varsamt.
 
-## Vad påverkar tolkningen?
+## Vad getingen gjorde, och hur många det var
 
 **Om getingen stack dig:**
 Något har gett dig ett oväntat och smärtsamt stick — en kritik, en handling, något som träffade hårt.
@@ -60,10 +60,3 @@ Ett annat perspektiv handlar om hot och försvar. Att bli jagad eller stungen ka
 
 Till sist kan getingen helt enkelt stå för mindre bekymmer som inte släpper — en ihållande, surrande oro i bakhuvudet. Fråga dig gärna vilken energi getingen i drömmen egentligen bär: är det aggression som vill ut, eller en varning om något som bör hanteras varsamt?
 
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om geting **flera gånger**?

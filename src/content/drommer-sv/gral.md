@@ -23,7 +23,7 @@ relaterte_sovn:
 
 Drömmens gräl kan lämna dig med en obehaglig känsla av konflikt — särskilt om det är med någon du tycker om. Men grälet i drömmarna är sällan en spådom eller en faktisk bild av ett förhållande. Det är mycket oftare en inre dialog du har med dig själv.
 
-## De vanligaste tolkningarna
+## Vem talar egentligen i grälet
 
 ### En inre konflikt externaliserad
 
@@ -47,7 +47,7 @@ Det är inget farligt. Det är faktiskt sunt. Ilska som får ett uttryck — äv
 
 Att gräla är att markera gränser. Drömmens gräl kan spegla ett behov av att sätta gränser i verkligheten — gentemot en bestämd person, en situation eller en förväntan du inte längre vill leva upp till. Psyket övar gränssättningen i drömmens trygga rum.
 
-## Vad påverkar tolkningen?
+## Hur grälet slutade
 
 **Om du grälar med någon som står dig nära:**
 Antingen ett oavklarat tema i den relationen, eller så representerar denna person en sida av dig själv.
@@ -67,7 +67,7 @@ Något i dig är rädd för att skada andra med din ärlighet eller din ilska.
 **Om du vann grälet:**
 En önskan om att bli hörd och erkänd — eller en känsla av att något i dig behöver "vinna".
 
-## Psykologiska och kulturella perspektiv
+## Från Jungs komplex till sagans holmgång
 
 Konflikt är ett av psykologins mest studerade mellanmänskliga fenomen — och ett av de minst studerade i drömkontext. Det är överraskande, för konfliktsymbolik är mycket vanlig i drömmarna.
 
@@ -75,8 +75,3 @@ Jung beskrev det han kallade "komplex" — emotionellt laddade tanke- och känsl
 
 I fornnordiska sagor är ärestrid — holmgång och verbal duell — ett av de mest ritualiserade konfliktmönstren. Det intressanta är att sagornas konflikter alltid handlar om något grundläggande: ära, sanning, tillhörighet. Drömmens gräl bär gärna samma allvar, även om det handlar om det triviala.
 
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — finns det något oavklarat eller oavslutat i en relation?
-- Har du drömt om **gräl** med denna person **flera gånger**?

@@ -23,7 +23,7 @@ Krabban rör sig sidledes — den kommer sällan rakt mot det den vill, utan nav
 
 Drömmar om krabba dyker ofta upp i perioder då du själv navigerar indirekt, då något i dig behöver skydd, eller då du står mellan två tillstånd utan att vara helt i den ena eller andra.
 
-## De vanligaste tolkningarna
+## Skalet, klorna och livet i gränslandet
 
 ### Sidledes rörelse — undvikande
 
@@ -45,7 +45,7 @@ Krabban är amfibisk — den lever i strandkanten, mellan hav och land. Drømmen
 
 Krabban lägger och bär ägg — och i många traditioner är den kopplad till kvinnlig fruktbarhet och moderskap. Drömmens krabba kan handla om skyddet runt det sköra nya — en relation i en sårbar fas, ett projekt under utveckling, eller en del av dig själv som ännu inte är färdig.
 
-## Vad påverkar tolkningen?
+## Från klo till förvandling — krabbans olika skepnader
 
 **Om krabban klämde dig:**
 Något håller dig fast — något du inte kan slita dig loss från.

@@ -21,7 +21,7 @@ author: 'default'
 
 Örat är i drömsymboliken lyssnarorganet — och därmed symbolen för uppmärksamhet, kommunikation och det att öppna sig för något utanför sig själv. Drömmar om öron handlar om hörsel i vidaste bemärkelse: vad lyssnar du på, vad stänger du ute, och vad försöker nå dig? De hänger tätt samman med drömmar om [ögon](/sv/drommar/ogon/), som handlar om det du ser och inte ser.
 
-## De vanligaste tolkningarna
+## Att höra — och att bli hörd
 
 ### Något försöker nå dig — lyssna bättre
 
@@ -35,7 +35,7 @@ Drömmar om öron kan handla lika mycket om att själv bli hörd som om att hör
 
 Öronen kan stängas — vi kan välja vad vi hör på, vad vi tror på, vad vi släpper in. Drömmens öra handlar ibland om detta val: vad väljer du att ta in i medvetandet, och vad väljer du att stänga ute?
 
-## Vad påverkar tolkningen?
+## Vad du uppfattade — eller inte
 
 **Om öronen var stora:**
 Stor lyssningskapacitet och öppenhet — du tar in mycket från omvärlden.
@@ -52,16 +52,8 @@ Det du hörde är laddat med mening — vad sa de?
 **Om du inte kunde höra:**
 En isolation eller en avskärning från något viktigt. Se även [munnen](/sv/drommar/mun/) som handlar om det du uttrycker.
 
-## Psykologiska och kulturella perspektiv
+## Lyssnande som kulturell färdighet
 
 I många spirituella traditioner är lyssningsförmågan knuten till visdom — den vise hör mer än den talar. "Den som har öron, hör" är ett av historiens mest upprepade visdomsuttryck. Att drömma om öron är att drömma om själva grundlaget för förståelse: att vi faktiskt tar emot det som sänds.
 
 Jung skulle ha sett en blockerad örondröm som ett tecken på att jaget inte vill höra något från det omedvetna — ett motstånd mot insikt som behöver övervinnas. Drömmar om [främlingar](/sv/drommar/frammande/) kan också handla om att lyssna till något okänt i sig själv.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om öron **flera gånger**?

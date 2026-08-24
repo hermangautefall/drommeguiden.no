@@ -23,7 +23,7 @@ author: 'default'
 
 Tolkningen beror mycket på vad örnen gjorde i drömmen, och vilken känsla den väckte i dig.
 
-## De vanligaste tolkningarna
+## Där luften är tunnare
 
 ### Perspektiv och överblick
 
@@ -39,7 +39,7 @@ Drömmen kan uppmana dig att ta ett steg tillbaka och se den stora bilden.
 
 I många traditioner är örnen symbolen för kungar och ledare — den som styr från toppen. Att drömma om örn kan betyda att ambitioner du burit på länge är på väg att förverkligas, eller att du är redo att ta ett större ansvar.
 
-## Vad påverkar tolkningen?
+## Flykt, dykning och fångenskap
 
 **Om örnen flyger högt och fritt:**
 Ett starkt positivt tecken — frihet, överblick och bemästringskänsla är inom räckhåll.
@@ -53,16 +53,8 @@ Kan peka mot att någon med stor auktoritet eller makt pressar dig, eller att di
 **Om örnen är skadad eller fångad:**
 Kan spegla att du känner att din frihet eller dina möjligheter är begränsade. Något håller dig tillbaka. Se även drömmar om [mörkt rum](/sv/drommar/morkt-rum/) för liknande symbolik.
 
-## Psykologiska och kulturella perspektiv
+## Blicken från trädtoppen
 
 I fornnordisk mytologi satt örnen högst uppe i världsasken Yggdrasil, högt över [bergen](/sv/drommar/berg/) — högst av alla varelser, med visdom och överblick över världen. Den var Odens fågel. Att drömma om örn i denna tradition var ett tecken på gudomlig uppmärksamhet eller hög skepnad.
 
-Jung såg fåglar i allmänhet som symboler för frigjorda tankar och själen i fri rörelse. Örnen särskilt representerar den översta nivån av medvetande — förmågan att se sig själv och sitt liv med klarhet och distans.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om örn **flera gånger**? Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).
+Jung såg fåglar i allmänhet som symboler för frigjorda tankar och själen i fri rörelse. Örnen särskilt representerar den översta nivån av medvetande — förmågan att se sig själv och sitt liv med klarhet och distans. Drömmer du upprepade gånger om örn, kan det vara värt att lägga märke till vilken sorts höjd eller distans du söker i ditt liv just nu. Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).
