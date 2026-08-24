@@ -2,6 +2,7 @@
 import { languages, defaultLang, type Lang } from '../i18n/config';
 import { useTranslations } from '../i18n/ui';
 import { pathFor, homePath } from '../i18n/utils';
+import { seksjonerMedInnhold } from '../lib/sections';
 
 interface AlternateLink {
   lang: Lang;
@@ -23,6 +24,9 @@ const navGuider = pathFor(lang, 'guider');
 const navSovn = pathFor(lang, 'sovn');
 const navOmOss = pathFor(lang, 'omOss');
 const navKontakt = pathFor(lang, 'kontakt');
+
+// Ikke lenk til seksjoner som er tomme på dette språket
+const seksjoner = seksjonerMedInnhold(lang);
 
 // Language switcher: where each alternate language points
 const langLinks = (Object.keys(languages) as Lang[]).map(l => {
@@ -52,8 +56,8 @@ const langLinks = (Object.keys(languages) as Lang[]).map(l => {
     <div class="header-links">
       <a href={navSymboler} class="nav-link">{t('nav.symboler')}</a>
       <a href={navKategori} class="nav-link">{t('nav.kategorier')}</a>
-      <a href={navGuider} class="nav-link">{t('nav.guider')}</a>
-      <a href={navSovn} class="nav-link">{t('nav.sovn')}</a>
+      {seksjoner.guider && <a href={navGuider} class="nav-link">{t('nav.guider')}</a>}
+      {seksjoner.sovn && <a href={navSovn} class="nav-link">{t('nav.sovn')}</a>}
     </div>
 
     <!-- Desktop right side: language switcher + CTA -->
@@ -121,8 +125,8 @@ const langLinks = (Object.keys(languages) as Lang[]).map(l => {
   <div class="mobile-menu-links">
     <a href={navSymboler} class="mobile-nav-link">{t('nav.symboler')}</a>
     <a href={navKategori} class="mobile-nav-link">{t('nav.kategorier')}</a>
-    <a href={navGuider} class="mobile-nav-link">{t('nav.guider')}</a>
-    <a href={navSovn} class="mobile-nav-link">{t('nav.sovn')}</a>
+    {seksjoner.guider && <a href={navGuider} class="mobile-nav-link">{t('nav.guider')}</a>}
+    {seksjoner.sovn && <a href={navSovn} class="mobile-nav-link">{t('nav.sovn')}</a>}
     <div class="mobile-divider"></div>
     <a href={navOmOss} class="mobile-nav-link mobile-nav-link-small">{t('nav.omOss')}</a>
     <a href={navKontakt} class="mobile-nav-link mobile-nav-link-small">{t('nav.kontakt')}</a>

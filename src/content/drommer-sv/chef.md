@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drömt om din chef? Sådana drömmar handlar sällan ba
 relaterte:
   - pappa
   - skola
-  - examen
+  - tenta
 tolkninger_kort:
   - "Din relation till auktoritet och förväntningar utforskas"
   - "Din arbetssituation bär på något obearbetat"
@@ -33,7 +33,7 @@ Chefen i drömmen representerar ofta auktoritetsprincipen i bredare mening — i
 
 ### Arbetspress och obearbetade situationer
 
-Ibland är drömmen helt enkelt praktisk — hjärnan fortsätter att bearbeta arbetsrelaterade utmaningar medan du sover. Ett krävande samtal som inte har ägt rum, ett beslut du bävar för, en konflikt som pyr. Många upplever detta tillsammans med [examensdrömmar](/sv/drommar/examen/) i stressperioder. Drömmen är inte nödvändigtvis symbolisk — den kan helt enkelt vara hjärnans sätt att förbereda sig på det som kommer.
+Ibland är drömmen helt enkelt praktisk — hjärnan fortsätter att bearbeta arbetsrelaterade utmaningar medan du sover. Ett krävande samtal som inte har ägt rum, ett beslut du bävar för, en konflikt som pyr. Många upplever detta tillsammans med [examensdrömmar](/sv/drommar/tenta/) i stressperioder. Drömmen är inte nödvändigtvis symbolisk — den kan helt enkelt vara hjärnans sätt att förbereda sig på det som kommer.
 
 ### Den inre kritikern
 

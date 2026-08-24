@@ -23,7 +23,7 @@ Djur i drömmar kan spegla allt från undertryckta känslor och rädsla till kre
 
 I svensk och nordisk tradition har djur alltid haft en särskild plats. [Vargen](/sv/drommar/varg/), [björnen](/sv/drommar/bjorn/), [hästen](/sv/drommar/hast/) och korpen är alla djupt förankrade i vårt kulturella medvetande, och detta arv kan fortfarande påverka hur vi upplever djur i våra drömmar. Även gårdsdjur som [kon](/sv/drommar/ko/), [fåret](/sv/drommar/far/) och [grisen](/sv/drommar/gris/) har djupa rötter i nordisk kultur och dyker ofta upp i drömmar med betydelser kopplade till arbete, fruktbarhet och det jordnära.
 
-Drömmar om [fåglar](/sv/drommar/fagel/) förknippas gärna med frihet och perspektiv, medan [maskar](/sv/drommar/mask/) i drömmar kan spegla förnyelse eller dolda faror — de är nära besläktade med ormsymboliken, men har sin egen distinkta betydelse.
+Drömmar om [fåglar](/sv/drommar/fagel/) förknippas gärna med frihet och perspektiv, medan maskar i drömmar kan spegla förnyelse eller dolda faror — de är nära besläktade med ormsymboliken, men har sin egen distinkta betydelse.
 
 [Delfinen](/sv/drommar/delfin/) är en av drömvärldens mest positiva djursymboler — den representerar intelligens, glädje och förmågan att röra sig fritt mellan det medvetna och det omedvetna.
 

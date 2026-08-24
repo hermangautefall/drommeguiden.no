@@ -8,7 +8,7 @@ kortbeskrivelse: "Drömt om att partnern är otrogen? Det handlar nästan aldrig
 relaterte:
   - otrohet
   - exet
-  - pojkvan-flickvan
+  - partner
 tolkninger_kort:
   - "Otrygghet och rädsla för att inte räcka till i förhållandet — inte misstanke om otrohet"
   - "Något i förhållandet känns distanserat — en längtan efter närmare kontakt"

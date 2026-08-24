@@ -27,7 +27,7 @@ Tematisk överlappning med stresskällan. Drömmarna är sällan bokstavliga —
 
 Vissa drömmar är så konsekvent kopplade till stress att de nästan är universella:
 
-Tentamen du inte är förberedd på. En av de vanligaste stressdrömmarna tvärs över kulturer och åldersgrupper. Du är tillbaka i skolan, tentan börjar om fem minuter, du har inte läst. Detta drömmer folk om långt efter att de är klara med utbildningen — för att drömmens tenta inte handlar om skola, utan om känslan av att bli bedömd och befunnen otillräcklig. Se symbolsidan för [examen](/sv/drommar/examen/).
+Tentamen du inte är förberedd på. En av de vanligaste stressdrömmarna tvärs över kulturer och åldersgrupper. Du är tillbaka i skolan, tentan börjar om fem minuter, du har inte läst. Detta drömmer folk om långt efter att de är klara med utbildningen — för att drömmens tenta inte handlar om skola, utan om känslan av att bli bedömd och befunnen otillräcklig. Se symbolsidan för [examen](/sv/drommar/tenta/).
 
 Att tappa [tänderna](/sv/drommar/tand/). En av de vanligaste stressdrömmarna — tänderna lossnar, smular sönder eller ramlar ut. Drömmen kopplas ofta till självbild, kontroll och rädsla för förlust, och är särskilt vanlig i perioder med högt tryck.
 

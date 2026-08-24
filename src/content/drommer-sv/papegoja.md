@@ -63,4 +63,4 @@ Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känsl
 
 - Vilken **känsla** satt du med när du vaknade?
 - Vad händer i **ditt liv** just nu?
-- Har du drömt om papegoja **flera gånger**? Skriv ned det i en [drömjournal](/sv/guider/dromjournal/).
+- Har du drömt om papegoja **flera gånger**? Skriv ned det i en [drömjournal](/sv/guider/dromjournalen/).

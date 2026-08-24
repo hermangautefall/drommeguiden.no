@@ -4,7 +4,7 @@ slug: sex
 kategori: handelser
 kortbeskrivelse: "Har du drömt om sex? Sexuella drömmar är mycket vanliga och betyder sällan det de ser ut som — här är vad de egentligen handlar om och betyder för dig."
 relaterte:
-  - pojkvan
+  - partner
   - exet
   - naken
 tolkninger_kort:
@@ -51,7 +51,7 @@ Sexuella drömmar om någon du har ett svårt förhållande till — ett ex, en 
 ## Egenskapen, inte personen
 
 **Om partnern var pojkvännen eller sambon:**
-Närhet, begär och samhörighet i förhållandet — antingen bekräftat eller en önskan om mer av det. Läs mer om drömmar om [pojkvännen](/sv/drommar/pojkvan/) för mer om vad partnern symboliserar.
+Närhet, begär och samhörighet i förhållandet — antingen bekräftat eller en önskan om mer av det. Läs mer om drömmar om [pojkvännen](/sv/drommar/partner/) för mer om vad partnern symboliserar.
 
 **Om partnern var en kollega eller vän:**
 Representerar troligen en egenskap — inte personen själv. Vad beundrar du hos dem?

@@ -60,7 +60,7 @@ Drömmarna är sömnens mest fascinerande dimension. De sker främst under REM-s
 
 Carl Jung och Sigmund Freud menade båda att drömmarna kommunicerar något väsentligt från det omedvetna. Modern sömnforskning bekräftar inte all mytologi, men det den bekräftar är att drömmarna har en reell funktion: utan tillräcklig REM-sömn är emotionell bearbetning kraftigt reducerad, och risken för ångest och depression ökar.
 
-Vill du förstå drömmarnas symbolspråk djupare? Läs vår guide om [vad drömmarna betyder och hur du tolkar dem](/sv/guider/hva-er-drommar/).
+Vill du förstå drömmarnas symbolspråk djupare? Läs vår guide om [vad drömmarna betyder och hur du tolkar dem](/sv/guider/vad-ar-drommar/).
 
 ## Konsekvenserna av för lite sömn
 

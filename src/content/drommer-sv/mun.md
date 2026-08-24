@@ -6,7 +6,7 @@ kategori: kropp
 kortbeskrivelse: "Har du drömt om munnen? Mundrömmar handlar om kommunikation och ord som inte släpper ut — här är tolkningarna av vad det egentligen betyder för dig."
 relaterte:
   - tand
-  - ora
+  - oron
   - huvud
 tolkninger_kort:
   - "Något du vill säga har inte funnit vägen ut ännu"

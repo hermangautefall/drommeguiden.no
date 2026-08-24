@@ -7,7 +7,6 @@ kortbeskrivelse: "Har du drömt om mörker? Mörkret i drömmarna är sällan ba
 relaterte:
   - morkt-rum
   - kallare
-  - morkt-rum
 tolkninger_kort:
   - "Det omedvetna och det okända — mörkret är inte tomt, utan fullt av det du ännu inte ser"
   - "Rädsla för det okontrollerade och oöverskådliga — det som inte kan planeras"

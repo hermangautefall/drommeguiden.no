@@ -6,7 +6,7 @@ kategori: handelser
 sensitivt: true
 kortbeskrivelse: "Har du drömt om otrohet? Sådana drömmar skapar ofta ångest och misstanke — men de betyder sällan det du tror. Här är vad de egentligen handlar om."
 relaterte:
-  - pojkvan-flickvan
+  - partner
   - exet
   - sex
 tolkninger_kort:
@@ -33,7 +33,7 @@ Men dessa drömmar är mycket sällan varsel om något som faktiskt försiggår.
 
 Den vanligaste tolkningen av otrohetsdrömmar handlar om sårbarhet i förhållandet — inte nödvändigtvis konkret misstanke, men en underliggande osäkerhet du kanske inte satt ord på. Något som förändrats, ett avstånd som uppstått, en period där ni inte haft ordentlig tid för varandra.
 
-Drömmen är inte ett varsel om vad som händer — den är en bild av hur du känner dig just nu i relationen. Drömmar om [pojkvän/flickvän](/sv/drommar/pojkvan-flickvan/) handlar ofta om samma behov av närhet och trygghet.
+Drömmen är inte ett varsel om vad som händer — den är en bild av hur du känner dig just nu i relationen. Drömmar om [pojkvän/flickvän](/sv/drommar/partner/) handlar ofta om samma behov av närhet och trygghet.
 
 ### Rädsla för att inte räcka till eller bli lämnad
 

@@ -4,9 +4,9 @@ slug: kyss
 kategori: manniskor
 kortbeskrivelse: "Har du drömt om att kyssa någon? Kyssar i drömmar handlar om förening, bekräftelse och kontakt — och vem du kysser säger mer än själva kyssen gör."
 relaterte:
-  - kjaereste
-  - samleie
-  - eksen
+  - partner
+  - samlag
+  - ex
 tolkninger_kort:
   - "En önskan om närhet, förening och att bli accepterad av den du kysser"
   - "Bekräftelse av något du vill få bekräftat — från andra eller från dig själv"
@@ -37,7 +37,7 @@ En pojkvän, flickvän eller partner: en önskan om närhet i förhållandet —
 
 En vän: en önskan om närmare, mer öppen kontakt med den här personen.
 
-En främling: psyket vill närma sig en okänd sida av sig självt (se [sex med främling](/sv/drommar/fremmed-sex/)).
+En främling: psyket vill närma sig en okänd sida av sig självt (se [sex med främling](/sv/drommar/frammande-sex/)).
 
 En överordnad eller auktoritetsfigur: sökandet efter godkännande och erkännande från dem.
 

@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om att dansa? Dansen i drömmar handlar om frihe
 relaterte:
   - musik
   - flyga
-  - pojkvan
+  - partner
 tolkninger_kort:
   - "Livsglädje, frihet och en kropp och själ i harmonisk rörelse"
   - "Ett förhållande eller samspel med någon — vem dansar du med?"
@@ -33,7 +33,7 @@ Det är en av drömmarnas ljusaste symboler.
 
 ### Relationen till den du dansar med
 
-Dansen är relationell — och vem du dansar med är laddat med mening. Att dansa med en [pojkvän/flickvän](/sv/drommar/pojkvan/) handlar om harmoni och anknytning i förhållandet. Att dansa med någon okänd handlar om en ny relation eller en ny sida av dig själv. Att dansa ensam handlar om självständighet och din relation till dig själv.
+Dansen är relationell — och vem du dansar med är laddat med mening. Att dansa med en [pojkvän/flickvän](/sv/drommar/partner/) handlar om harmoni och anknytning i förhållandet. Att dansa med någon okänd handlar om en ny relation eller en ny sida av dig själv. Att dansa ensam handlar om självständighet och din relation till dig själv.
 
 ### Rytm och flöde — att vara i takt
 

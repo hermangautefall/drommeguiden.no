@@ -1,7 +1,7 @@
 ---
 tittel: "Drömma om orm — vad betyder det?"
 slug: orm
-kategori: dyr
+kategori: djur
 kortbeskrivelse: "Har du drömt om en orm? Ormen är en av de mest kraftfulla symbolerna i drömvärlden. Utforska de vanligaste tolkningarna och vad drömmen kan berätta för dig."
 relaterte:
   - spindel

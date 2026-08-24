@@ -6,7 +6,7 @@ kortbeskrivelse: "Drömt om att missa flyget? Det är en av de vanligaste modern
 relaterte:
   - flygkrasch
   - sen
-  - examen
+  - tenta
 tolkninger_kort:
   - "Rädsla för att gå miste om en möjlighet eller komma för sent till något viktigt"
   - "Överväldigad av krav och tidspress i livet — för mycket att göra, för lite tid"

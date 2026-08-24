@@ -1,6 +1,7 @@
 ---
 import { defaultLang, type Lang } from '../i18n/config';
 import { pathFor } from '../i18n/utils';
+import { symbolerSomFinnes } from '../lib/finnes-symbol';
 
 interface Props {
   relaterte: string[];
@@ -12,14 +13,18 @@ const labelByLang: Record<Lang, string> = { nb: 'Utforsk videre', sv: 'Utforska 
 const label = labelByLang[lang] ?? labelByLang.nb;
 const titleByLang: Record<Lang, string> = { nb: 'Relaterte drømmesymboler', sv: 'Relaterade drömsymboler', en: 'Related dream symbols' };
 const title = titleByLang[lang] ?? titleByLang.nb;
+
+// Dropp slugger uten artikkel — de ble tidligere rendret som doede lenker
+const finnes = symbolerSomFinnes(lang);
+const gyldige = relaterte.filter((s) => finnes.has(s));
 ---
 
-{relaterte.length > 0 && (
+{gyldige.length > 0 && (
   <div class="relaterte-section">
     <span class="relaterte-label">{label}</span>
     <h2 class="relaterte-title">{title}</h2>
     <div class="relaterte-grid">
-      {relaterte.map((slug) => (
+      {gyldige.map((slug) => (
         <a href={pathFor(lang, 'drommer', slug)} class="relaterte-chip">
           {slug.replace(/-/g, ' ')}
         </a>

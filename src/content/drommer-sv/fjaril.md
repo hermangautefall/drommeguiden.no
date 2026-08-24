@@ -51,7 +51,7 @@ Ju mer livfulla färger, desto starkare energi och vitalitet i budskapet.
 Kan symbolisera sorg eller övergång — men i många kulturer är den svarta fjärilen ett tecken på att något viktigt närmar sig, inte något ont.
 
 **Om fjärilen dör eller är skadad:**
-En förvandling som är svår eller en process som möter motstånd. Var tålmodig med dig själv. Se även [drömjournalen](/sv/guider/dromjournal/) för att följa förvandlingen över tid.
+En förvandling som är svår eller en process som möter motstånd. Var tålmodig med dig själv. Se även [drömjournalen](/sv/guider/dromjournalen/) för att följa förvandlingen över tid.
 
 
 ## Förvandling, själ och lätthet

@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om att vinna? Seger i drömmen handlar om bemäs
 relaterte:
   - forlora
   - vinna-pengar
-  - examen
+  - tenta
 tolkninger_kort:
   - "Ett behov av bemästrande och bekräftelse — att lyckas med något som betyder något för dig"
   - "Självförtroende och kompetens som psyket erkänner och firar"

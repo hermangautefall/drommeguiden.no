@@ -150,6 +150,7 @@ function buildAllEntries(srcDir = 'src') {
     { no: '/om-oss/',     sv: '/sv/om-oss/',     en: '/en/about/',    noSrc: 'src/pages/om-oss.astro',          svSrc: 'src/pages/sv/om-oss.astro',          enSrc: 'src/pages/en/about.astro' },
     { no: '/kontakt/',    sv: '/sv/kontakt/',    en: '/en/contact/',  noSrc: 'src/pages/kontakt.astro',         svSrc: 'src/pages/sv/kontakt.astro',         enSrc: 'src/pages/en/contact.astro' },
     { no: '/personvern/', sv: '/sv/integritet/', en: '/en/privacy/',  noSrc: 'src/pages/personvern.astro',      svSrc: 'src/pages/sv/integritet.astro',      enSrc: 'src/pages/en/privacy.astro' },
+    { no: '/vilkar/',     sv: '/sv/villkor/',    en: '/en/terms/',    noSrc: 'src/pages/vilkar.astro',           svSrc: 'src/pages/sv/villkor.astro',         enSrc: 'src/pages/en/terms.astro' },
     { no: '/cookies/',    sv: '/sv/cookies/',    en: '/en/cookies/',  noSrc: 'src/pages/cookies.astro',         svSrc: 'src/pages/sv/cookies.astro',         enSrc: 'src/pages/en/cookies.astro' },
   ];
 

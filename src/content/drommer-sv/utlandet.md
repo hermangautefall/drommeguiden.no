@@ -31,7 +31,7 @@ Den vanligaste tolkningen handlar om en önskan om — eller en rörelse mot —
 
 ### Frihet och självständighet
 
-Utlandet är för många förknippat med frihet — att resa, kanske med [tåg](/sv/drommar/tag/) eller [flyg](/sv/drommar/fly-styrter/), är att släppa taget om det dagliga, om rollerna, om förväntningarna. Att drömma om att vara utomlands kan spegla en djup önskan om mer frihet i livet — inte nödvändigtvis bokstavligt geografisk frihet, utan en frihet från det som håller dig fast.
+Utlandet är för många förknippat med frihet — att resa, kanske med [tåg](/sv/drommar/tag/) eller [flyg](/sv/drommar/flygkrasch/), är att släppa taget om det dagliga, om rollerna, om förväntningarna. Att drömma om att vara utomlands kan spegla en djup önskan om mer frihet i livet — inte nödvändigtvis bokstavligt geografisk frihet, utan en frihet från det som håller dig fast.
 
 ### Okända sidor av dig själv
 

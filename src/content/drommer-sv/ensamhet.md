@@ -7,7 +7,7 @@ sensitivt: true
 kortbeskrivelse: "Har du drömt om att vara ensam? Ensamhet i drömmarna är en av de djupaste signalerna om ett ouppfyllt behov av kontakt — med andra, eller med sidor av dig själv."
 relaterte:
   - karlek
-  - skamma
+  - skammas
   - forlora
 tolkninger_kort:
   - "Ett djupt behov av samhörighet och äkta kontakt som inte är uppfyllt"

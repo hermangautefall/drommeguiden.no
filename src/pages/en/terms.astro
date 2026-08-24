@@ -1,0 +1,177 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="en"
+  tittel="Terms and disclaimer"
+  beskrivelse="Terms of use for The Dream Guide. What the content is meant to be, what it is not, and what responsibility we take for the information on this site."
+>
+  <div class="static-page">
+    <span class="static-label">Legal</span>
+    <h1 class="static-title">Terms and disclaimer</h1>
+
+    <div class="prose">
+      <p class="lead">
+        The Dream Guide is an editorial site about dreams, symbols and sleep.
+        The content is meant as information and reflection — not as medical,
+        psychological or health advice. This page explains what you can and
+        cannot expect from us.
+      </p>
+
+      <p><em>Last updated: 24 August 2026</em></p>
+
+      <h2>Who is behind this site</h2>
+      <p>
+        The Dream Guide is the English edition of drommeguiden.no, owned and
+        operated by Herman Gautefall Olsson in Norway. The content is edited by
+        The Dream Guide's editorial team. You can read more about how we work on
+        <a href="/en/about/">About us</a>, and reach us through the
+        <a href="/en/contact/">contact page</a>.
+      </p>
+
+      <h2>This is not health advice</h2>
+      <p>
+        We are not psychologists, psychiatrists, therapists or doctors, and we
+        do not present ourselves as such. Nothing on The Dream Guide is a
+        diagnosis, a treatment or a recommendation for treatment, and the
+        content is not a substitute for contact with a qualified health
+        professional.
+      </p>
+      <p>
+        This applies in particular to the sleep section. Although the articles
+        draw on published research and public health sources, they are general
+        accounts — not advice tailored to your situation. If you have persistent
+        sleep problems, nightmares that distress you, or mental health
+        difficulties, please contact your doctor, a sleep clinic or another
+        qualified health service.
+      </p>
+      <p>
+        In an acute crisis, contact your local emergency number — <strong>112</strong>
+        across the EU and EEA, <strong>911</strong> in the United States,
+        <strong>999</strong> in the United Kingdom. Free crisis lines are
+        available in most countries, including <strong>988</strong> in the
+        United States and <strong>116 123</strong> in the United Kingdom and
+        much of Europe.
+      </p>
+
+      <h2>About dream interpretation</h2>
+      <p>
+        Dream interpretation is not an exact science, and we do not pretend that
+        it is. Our symbol pages describe how a motif has been understood across
+        different traditions and fields — from classical dream literature to
+        modern dream research. We deliberately write "may mean" and "is often
+        read as", never "means".
+      </p>
+      <p>
+        We do not claim that dreams predict the future, reveal truths about
+        other people, or give answers that hold regardless of who you are. The
+        interpretation is always your own. Do not make important decisions about
+        health, money or relationships on the basis of a dream interpretation.
+      </p>
+
+      <h2>Accuracy and updates</h2>
+      <p>
+        We work to keep the content accurate and current, but cannot guarantee
+        that everything is complete, error-free or in line with the latest
+        research at all times. Knowledge changes, particularly in sleep science.
+        If you find an error, an outdated claim or something imprecise, we would
+        genuinely appreciate hearing from you through the
+        <a href="/en/contact/">contact page</a> — we will correct it.
+      </p>
+
+      <h2>Limitation of liability</h2>
+      <p>
+        You use The Dream Guide at your own risk. We are not liable for loss or
+        damage arising from acting on information found on the site, so far as
+        the law permits. The site is provided "as is", without guarantees of
+        availability or uninterrupted operation.
+      </p>
+
+      <h2>Links to other sites</h2>
+      <p>
+        We link to external sources when we believe they add value — research
+        articles and public health sources, for example. We have no control over
+        the content of those sites and take no responsibility for it. A link is
+        not an endorsement of everything the publisher offers.
+      </p>
+
+      <h2>Advertising</h2>
+      <p>
+        This site is funded by advertising, including Google AdSense. Ads are
+        labelled as ads and are selected by the ad network, not by us
+        editorially. An ad appearing on a page does not mean we recommend the
+        product or service. Editorial content and advertising are kept separate
+        — we do not write articles in order to sell anything.
+      </p>
+      <p>
+        How cookies are used in connection with advertising is described in the
+        <a href="/en/privacy/">privacy policy</a> and on the
+        <a href="/en/cookies/">cookie page</a>.
+      </p>
+
+      <h2>Copyright</h2>
+      <p>
+        The texts on The Dream Guide are our own editorial work and are
+        protected by copyright. You are welcome to quote briefly from us with a
+        clear attribution and a link, but not to copy whole articles or publish
+        our content as your own.
+      </p>
+      <p>
+        Photographs are sourced from Pexels and used in accordance with their
+        licence. The photographer is credited on the pages where the image
+        appears.
+      </p>
+
+      <h2>Changes to these terms</h2>
+      <p>
+        We may update these terms as the site changes. The date at the top shows
+        when they were last revised. Continued use of the site after a change
+        counts as acceptance of the updated terms.
+      </p>
+
+      <h2>Governing law</h2>
+      <p>
+        The site is operated from Norway, and these terms are governed by
+        Norwegian law. If you are a consumer, this does not affect any rights
+        you have under the mandatory consumer law of your country of residence.
+        Any dispute will first be pursued amicably.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 8px 0 40px;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 8px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 40px;
+    line-height: 1.1;
+    color: var(--color-text-heading);
+    font-weight: 500;
+    margin-bottom: 28px;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 52px; }
+  }
+  .prose .lead {
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+    margin-bottom: 24px;
+  }
+</style>

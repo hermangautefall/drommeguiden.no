@@ -47,7 +47,7 @@ Under REM-sömn skickar hjärnstammen aktiva signaler som förlamar de flesta vi
 
 Utan REM-atoni skulle du fysiskt slåss, springa och prata i sömnen på ett sätt som vore farligt. Det finns en sömnstörning som kallas REM-sömnsbeteendestörning (RBD) där denna förlamning sviker — och de drabbade agerar faktiskt ut drömmarna, med potentiellt skadliga följder.
 
-Paradoxen är att REM-atonin ibland dröjer kvar några sekunder in i vakenheten — det är mekanismen bakom [sömnparalys](/sv/guider/somnparalys/).
+Paradoxen är att REM-atonin ibland dröjer kvar några sekunder in i vakenheten — det är mekanismen bakom [sömnparalys](/sv/guider/somnforlamning/).
 
 ## Neurokemin under dröm
 
@@ -83,7 +83,7 @@ Den högaktiverade amygdala förklarar drömmarnas emotionella kraft — och und
 
 Hippocampus-aktiviteten under REM understryker att drömmarna är tätt kopplade till minnesarbete — och att de symboler som dyker upp gärna är knutna till aktuella livserfarenheter.
 
-Läs mer om vad forskning och psykologi säger om drömmarnas mening i guiden [Vad är drömmar?](/sv/guider/hva-er-drommar/)
+Läs mer om vad forskning och psykologi säger om drömmarnas mening i guiden [Vad är drömmar?](/sv/guider/vad-ar-drommar/)
 
 ## Sammanfattning
 
@@ -95,4 +95,4 @@ Drömmarnas neurologiska bas är väl kartlagd och djupt fascinerande:
 - Noradrenalin är nära noll under REM — en trygg kemisk miljö för emotionell bearbetning
 - Lucida drömmare aktiverar prefrontala cortex under REM — ett neurologiskt unikt fenomen
 
-Läs vidare: [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Lucida drömmar](/sv/guider/lucid-drom/) — [Sömnparalys](/sv/guider/somnparalys/)
+Läs vidare: [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Lucida drömmar](/sv/guider/klardromning/) — [Sömnparalys](/sv/guider/somnforlamning/)

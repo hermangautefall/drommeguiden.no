@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om tenta? Tentadrömmar är vanliga långt efter
 relaterte:
   - skola
   - forfoljd
-  - forsenad
+  - sen
 tolkninger_kort:
   - "En situation i livet där du känner dig bedömd och testad"
   - "Rädsla att inte räcka till eller att bli avslöjad som otillräcklig"
@@ -40,7 +40,7 @@ En mycket vanlig variant är att du i drömmen vet att du inte har förberett di
 
 ### Tryck och stress som har hopat sig
 
-Tentadrömmar är mycket vanliga i stressperioder. Hjärnan hämtar fram den starkaste bilden på tryck och tidsfrister den känner till — besläktat med drömmar om [att komma för sent](/sv/drommar/forsenad/) — och använder det för att ge form åt en diffus belastning. Drömmen är då inte ett symboliskt meddelande om något specifikt — den är en temperaturmätare som säger: det är för mycket på en gång just nu.
+Tentadrömmar är mycket vanliga i stressperioder. Hjärnan hämtar fram den starkaste bilden på tryck och tidsfrister den känner till — besläktat med drömmar om [att komma för sent](/sv/drommar/sen/) — och använder det för att ge form åt en diffus belastning. Drömmen är då inte ett symboliskt meddelande om något specifikt — den är en temperaturmätare som säger: det är för mycket på en gång just nu.
 
 ## Om du var förberedd, och vad som prövades
 

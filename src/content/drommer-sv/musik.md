@@ -37,7 +37,7 @@ Musik har harmoni och disharmoni — och i drömmarna speglar detta ofta tillst�
 
 ### Själen kommunicerar direkt
 
-Ibland är musiken i drömmarna inte en symbol för något annat — den är en direkt upplevelse. En melodi du aldrig har hört, men som är oändligt vacker. En sång som träffar dig i hjärtat. Dessa drömmar beskrivs av många som några av de mest intensiva och minnesvärda de har haft — och de behöver inte tolkas bort. De kan bara upplevas och hysas. En [drömjournal](/sv/guider/dromjournal/) kan hjälpa dig bevara sådana upplevelser.
+Ibland är musiken i drömmarna inte en symbol för något annat — den är en direkt upplevelse. En melodi du aldrig har hört, men som är oändligt vacker. En sång som träffar dig i hjärtat. Dessa drömmar beskrivs av många som några av de mest intensiva och minnesvärda de har haft — och de behöver inte tolkas bort. De kan bara upplevas och hysas. En [drömjournal](/sv/guider/dromjournalen/) kan hjälpa dig bevara sådana upplevelser.
 
 ## Musiken du hörde
 
