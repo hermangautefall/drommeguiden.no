@@ -24,7 +24,7 @@ Almost everyone has had this dream: you're back at school, maybe in a classroom 
 
 ---
 
-## The most common interpretations
+## Being assessed all over again
 
 ### You feel tested or judged
 
@@ -52,7 +52,7 @@ Dreams of standing in front of the class feeling exposed can also be tied to a f
 
 ---
 
-## What shapes the interpretation?
+## Which situation you ended up in
 
 Context matters. Here are some variants that often point to different interpretations:
 
@@ -70,7 +70,7 @@ Can reflect that you've grown into a new role and feel the weight of the respons
 
 ---
 
-## Psychological and cultural perspectives
+## School as a lasting inner landscape
 
 Carl Jung would likely have seen school in dreams as a representation of the collective experience of being shaped by society — the meeting point between the individual and the collective. School is where we learn the rules, and in dreams it can symbolise the inner rules we still live by, whether we realise it or not.
 

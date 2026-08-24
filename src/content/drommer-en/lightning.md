@@ -23,7 +23,7 @@ Lightning is one of nature's most dramatic and instantaneous forces — a flash 
 
 ---
 
-## The most common interpretations
+## The sudden — insight or shock
 
 ### A sudden insight
 
@@ -39,7 +39,7 @@ Lightning strikes without warning — and dreams about it can mirror a fear of, 
 
 ---
 
-## What shapes the interpretation?
+## Whether the lightning struck something
 
 **If the lightning struck you:**
 Something hits you directly — an insight, an event, a change that touches you personally.

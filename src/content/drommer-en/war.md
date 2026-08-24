@@ -25,7 +25,7 @@ War dreams are among the most intense and overwhelming we can have — filled wi
 
 War is one of humanity's strongest images of conflict taken to its extreme, and the subconscious reaches for it to communicate something it can't find gentler words for. Many people also find that war dreams shade into dreams of [being chased](/en/dreams/being-chased/) or of having to flee.
 
-## The most common interpretations
+## Which war your mind is really fighting
 
 ### An intense inner conflict
 
@@ -49,7 +49,7 @@ Dreaming of fighting bravely can be the subconscious's way of saying: what you'r
 
 War can also symbolise a serious conflict in a specific relationship — one that has moved past disagreement into something more fundamental about power, respect, or territory. Who is the enemy in the dream's war? That can offer a clue.
 
-## What shapes the interpretation?
+## Your role on the battlefield
 
 **If you were actively fighting:**
 You aren't passive in the conflict — you engage, defend, or attack. The question is what you're fighting for and against.

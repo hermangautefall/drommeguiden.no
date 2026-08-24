@@ -24,7 +24,7 @@ Few dream experiences are as intense and memorable as the sensation of flight. W
 
 ---
 
-## The most common interpretations
+## Freedom from what holds you down
 
 ### Freedom and release
 
@@ -50,7 +50,7 @@ It can also be about ambition. Dreaming of flying high may mirror your hopes and
 
 ---
 
-## What shapes the interpretation?
+## The view you do not have on the ground
 
 The context of the dream matters a great deal. Here are some variants that often point in different directions:
 

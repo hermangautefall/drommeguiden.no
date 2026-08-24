@@ -25,7 +25,7 @@ To dream of a river is to dream of the very course of existence.
 
 ---
 
-## The most common interpretations
+## The current that carries you onward
 
 ### Life's flow — time and movement
 
@@ -49,7 +49,7 @@ Historically, rivers have marked boundaries between lands and kingdoms — and i
 
 ---
 
-## What shapes the interpretation?
+## The speed and direction of the water
 
 **If the river was calm and clear:**
 Balance, clarity, and a good flow in life. You're moving with the current.

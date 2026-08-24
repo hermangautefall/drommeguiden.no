@@ -25,7 +25,7 @@ Storms in dreams are hard to ignore. Whether it's a violent thunderstorm, an app
 
 ---
 
-## The most common interpretations
+## When the storm breaks
 
 ### Inner unrest and emotional turbulence
 
@@ -51,7 +51,7 @@ This interpretation is especially relevant if you tend to keep things bottled up
 
 ---
 
-## What shapes the interpretation?
+## The eye of the storm
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

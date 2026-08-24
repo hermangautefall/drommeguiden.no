@@ -26,7 +26,7 @@ It's never just a door. It's a choice, an opportunity, a boundary — and the qu
 
 ---
 
-## The most common interpretations
+## Open, closed or locked — and who stood there
 
 ### A transition and a choice ahead of you
 
@@ -50,7 +50,7 @@ Carl Jung was interested in the door as a symbol of the psyche's boundaries — 
 
 ---
 
-## What shapes the interpretation?
+## The threshold — choices and possibilities
 
 **If the door was open:**
 An opportunity is available. Something is inviting you in. The question is whether you dare to walk through.

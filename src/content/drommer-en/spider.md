@@ -24,7 +24,7 @@ The spider is a master builder — it spins intricate webs with a patience and p
 
 ---
 
-## The most common interpretations
+## The web: being stuck
 
 ### Creativity and creative power
 
@@ -58,7 +58,7 @@ Similar themes show up in dreams about [snakes](/en/dreams/snake/), where the sn
 
 ---
 
-## What shapes the interpretation?
+## When the web is empty
 
 The context of the dream matters a great deal. Here are some variations that often lead to different interpretations:
 

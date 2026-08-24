@@ -23,7 +23,7 @@ Dreams about love — where you love, are loved, or feel love's presence as a po
 
 But what do they mean? Here's what psychology has to say — and it's richer than you might think.
 
-## The most common interpretations
+## The longing to be seen
 
 ### A longing for connection and to be seen
 
@@ -49,7 +49,7 @@ In Jungian psychology, love in dreams is one of the most powerful images for ind
 
 Dreams like this can arise during periods of personal growth, after therapy, or after doing something difficult and right. They are the psyche's way of confirming it.
 
-## What shapes the interpretation?
+## Who the love was directed at
 
 **If the love in the dream was returned and warm:**
 A sign of psychological integration and contact with the good in your life.

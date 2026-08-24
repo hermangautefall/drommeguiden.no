@@ -24,7 +24,7 @@ The ring is one of the most archetypal symbols in human culture — the shape of
 
 ---
 
-## The most common interpretations
+## More than a promise to one person
 
 ### Commitment and promises
 
@@ -42,7 +42,7 @@ In many cultures, the ring is a mark of belonging — you're part of something, 
 
 ---
 
-## What shapes the interpretation?
+## When the ring is lost or breaks
 
 **If you received a ring:**
 Someone is committing to you, or you're receiving a gift of lasting value.

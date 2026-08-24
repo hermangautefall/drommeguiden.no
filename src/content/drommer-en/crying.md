@@ -44,7 +44,7 @@ Not all crying is grief. Crying from relief, from joy, from being moved — thes
 
 Crying for someone else in a dream — for your [mother](/en/dreams/mother/) or [father](/en/dreams/father/), say, or for someone who's suffering — is a sign of deep empathic capacity. In this case, the crying in the dream isn't your own grief, but your ability to feel someone else's.
 
-## What shapes the interpretation?
+## When tears are a release valve
 
 **If you were crying alone:**
 A private, deep grief or relief — something you carry on your own.

@@ -23,7 +23,7 @@ Dreams about your boss are extremely common — and they tend to surface during 
 
 The boss you dream about is just as much an inner figure as an external person.
 
-## The most common interpretations
+## Your relationship with authority
 
 ### Your relationship to authority
 
@@ -37,7 +37,7 @@ Sometimes the dream is simply practical — your brain continues processing work
 
 The boss in the dream can be a face for your own inner critic — the voice that judges, evaluates and never quite thinks you're good enough. Especially if the boss in the dream was dissatisfied, cold or disappointed, it's worth asking whether it's really your own voice you're hearing. A similar dynamic often shows up in dreams about school.
 
-## What shapes the interpretation?
+## How your boss treated you
 
 **If your boss was pleased or approving:**
 A sign that you're in good contact with your own sense of mastery right now.

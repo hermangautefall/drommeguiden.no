@@ -21,7 +21,7 @@ author: 'default'
 
 The stomach is the body's processing centre — not just for food, but in dream symbolism for experiences and emotions. "Gut feeling" isn't just a figure of speech — we often sense something in the stomach before the mind has put it into words. Dreams about the stomach speak to this intuitive, body-based form of wisdom. It's a different kind of body dream from dreams about the [heart](/en/dreams/heart/), which tend to concern love and courage.
 
-## The most common interpretations
+## Gut feeling and what you digest
 
 ### Intuition and gut feeling
 
@@ -35,7 +35,7 @@ The stomach digests — and in dreams this can mean you're processing something 
 
 Anxiety and unease tend to settle in the stomach — we feel butterflies, cramping, nausea. Dreaming about your stomach can mirror an emotional state so strong it has taken up residence in the body. What is it you're dreading, afraid of, or feeling deep down?
 
-## What shapes the interpretation?
+## What you felt in your stomach
 
 **If your stomach was in pain:**
 Something you've swallowed is hard to digest. Something feels wrong.

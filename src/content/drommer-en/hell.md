@@ -25,7 +25,7 @@ Dreams about hell are intense, and they tend to leave a deeply uncomfortable fee
 
 Hell is one of the strongest images human culture has for endless suffering — and that's exactly what the dream uses it to express.
 
-## The most common interpretations
+## Inner torment and self-imposed punishment
 
 ### An inner state of pain and despair
 
@@ -47,7 +47,7 @@ Hell in dreams can also represent a destructive cycle you can't seem to break �
 
 Sometimes — not always — hell dreams can serve as a kind of warning: the subconscious shows you an image of the consequences of a path you're on. Not as religious judgment, but as psychological warning: keep going like this, and this is where you end up.
 
-## What shapes the interpretation?
+## Whether you were trapped or found your way out
 
 **If you were in hell and suffering:**
 A current inner state that is very difficult. Take it seriously and seek support.

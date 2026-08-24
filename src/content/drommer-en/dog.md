@@ -26,7 +26,7 @@ Dogs in dreams can represent many things — from the most positive aspects of h
 
 ---
 
-## The most common interpretations
+## The guard dog instinct
 
 ### Loyalty, friendship and trust
 
@@ -54,7 +54,7 @@ This reading is especially relevant if you are facing a choice where head and he
 
 ---
 
-## What shapes the interpretation?
+## The loyal companion
 
 The context of the dream matters a great deal. Here are some variants that often point in different directions:
 

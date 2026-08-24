@@ -23,7 +23,7 @@ Few dreams stir up as much confusion as the ones where an ex shows up. You wake 
 
 ---
 
-## The most common interpretations
+## Feelings that are still moving
 
 ### You're processing feelings from the relationship
 
@@ -51,7 +51,7 @@ Many people notice that ex dreams gradually change character over time. They mov
 
 ---
 
-## What shapes the interpretation?
+## A version of yourself
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

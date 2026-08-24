@@ -25,7 +25,7 @@ The sheer prevalence of tooth dreams suggests they touch something fundamentally
 
 ---
 
-## The most common interpretations
+## The superstition that survived
 
 ### Self-image and appearance
 
@@ -53,7 +53,7 @@ Tooth dreams tied to major life changes share something of the symbolism found i
 
 ---
 
-## What shapes the interpretation?
+## From omen to symbol
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

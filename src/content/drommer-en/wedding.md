@@ -27,7 +27,7 @@ Whether you dreamed of your own wedding, someone else's, or a wedding that went 
 
 ---
 
-## The most common interpretations
+## The promise and the turning point
 
 ### Commitment and a turning point
 
@@ -61,7 +61,7 @@ It's worth stressing that these dreams don't mean you should avoid commitment. T
 
 ---
 
-## What shapes the interpretation?
+## The mood at the ceremony
 
 The context of the dream matters a great deal. Here are some variations that often lead to different readings:
 

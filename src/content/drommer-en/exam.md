@@ -24,7 +24,7 @@ The exam dream is one of the most recognizable dreams there is — and it doesn'
 
 It isn't really school the dream is about. It's something else.
 
-## The most common interpretations
+## What the exam really stands for
 
 ### You feel tested and judged
 
@@ -40,7 +40,7 @@ A very common variation has you realizing, within the dream, that you haven't pr
 
 Exam dreams are especially common during stressful periods. The mind reaches for the strongest image of pressure and deadlines it knows — closely related to dreams about running late — and uses it to give shape to a diffuse kind of strain. In that case, the dream isn't a symbolic message about anything specific — it's more like a thermometer, telling you there's simply too much going on at once right now.
 
-## What shapes the interpretation?
+## Whether you were prepared, and what was being tested
 
 **If you hadn't prepared:**
 The classic version — often mirrors a fear of not measuring up, of not mastering something, of not being good enough.

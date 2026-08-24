@@ -21,7 +21,7 @@ author: 'default'
 
 The dolphin is one of the rare animals that's almost always a positive symbol — and one of the most beloved in humanity's relationship with the creatures of nature. Intelligent, social, playful and graceful in its element. In dreams it carries these qualities, and more besides.
 
-## The most common interpretations
+## Joy, deep insight and an old friendship
 
 ### Joy and playfulness
 
@@ -43,7 +43,7 @@ The dolphin lives in the ocean — the deep, the unconscious — but breathes ai
 
 In antiquity, dolphins were seen as humanity's friends in the sea — there are countless stories of dolphins rescuing drowning sailors. In dreams the dolphin can mirror a genuine friendship, a connection with something that's on your side — whether another person or a side of yourself.
 
-## What shapes the interpretation?
+## Was it playing, leading, or in distress?
 
 **If the dolphin played with you:** An invitation to more joy, freedom and lightness in life.
 

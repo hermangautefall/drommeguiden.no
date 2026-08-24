@@ -24,7 +24,7 @@ The butterfly may be the most universal symbol of transformation there is — an
 
 Dreaming about a butterfly is rarely a heavy dream. But it's always meaningful.
 
-## The most common interpretations
+## From chrysalis to wings
 
 ### Transformation and new beginnings
 
@@ -38,7 +38,7 @@ In Greek mythology, the word "psyche" means both soul and butterfly. The dream c
 
 A butterfly [flying](/en/dreams/flying/) freely can mirror a wish for — or a movement toward — more lightness in life. Maybe you've been feeling weighed down, and the dream is reminding you that this state isn't permanent.
 
-## What shapes the interpretation?
+## The landing, the colour and the fragility
 
 **If the butterfly landed on you:**
 A beautiful sign — something good is seeking you out. Trust and openness.

@@ -26,7 +26,7 @@ Dreams like this can arrive with overwhelming beauty — and they tend to stay w
 
 ---
 
-## The most common interpretations
+## Height, peace and what is greater
 
 ### A longing for freedom and height
 
@@ -52,7 +52,7 @@ The sky and heaven also symbolise perfection — and in dreams they can represen
 
 ---
 
-## What shapes the interpretation?
+## The colour of the sky and the weather
 
 **If the sky or heaven was bright and beautiful:**
 One of the most comforting dreams a person can have. Peace, reconciliation, and an openness toward something greater.

@@ -26,7 +26,7 @@ These dreams are almost never just about the building. They're about what the ch
 
 ---
 
-## The most common interpretations
+## Thresholds: baptism, marriage, burial
 
 ### Spiritual searching and questions of meaning
 
@@ -52,7 +52,7 @@ Churches are places of quiet in a noisy world — and some church dreams are sim
 
 ---
 
-## What shapes the interpretation?
+## A refuge from everything that asks something of you
 
 **If the church was full of people, during a celebration:**
 Community, belonging and the big rituals — life's transitions shared with others.

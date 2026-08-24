@@ -22,7 +22,7 @@ author: 'default'
 
 Feet are what carry you through life. They're the point of contact between you and the ground — between the inner self and the earthly, between who you are and where you are. In dreams they reflect exactly this: the foundation you stand on, the direction you're moving in, and your ability to carry yourself forward.
 
-## The most common interpretations
+## Grounding, direction and independence
 
 ### Foundation and grounding
 
@@ -46,7 +46,7 @@ A weak or injured foot in a dream can then reflect a period where you're more de
 
 In religious and cultural traditions, washing someone else's feet is one of the most powerful symbols of humility and service — from Jesus washing his disciples' feet to ritual washing in Islamic tradition. Dreaming about washing feet, or having your feet washed, can reflect this: a deep willingness to serve, or a longing to be cared for at the most basic level.
 
-## What shapes the interpretation?
+## The condition of your feet
 
 **If your feet were strong and steady:**
 You're well grounded. Your foundation is holding.

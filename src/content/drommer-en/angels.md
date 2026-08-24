@@ -26,7 +26,7 @@ These dreams aren't reserved for believers. They're deeply human.
 
 ---
 
-## The most common interpretations
+## Messages, protection and guidance
 
 ### A message or guidance
 
@@ -52,7 +52,7 @@ Angel dreams are especially common for those who have recently lost someone — 
 
 ---
 
-## What shapes the interpretation?
+## What the angel did or said
 
 **If the angel spoke to you:**
 A message from the dream stays with you and matters — even if you don't remember the words, you remember the feeling. What was it?

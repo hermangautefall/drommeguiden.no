@@ -24,7 +24,7 @@ Have you dreamed about a horse and woken up with a feeling of powerful movement,
 
 ---
 
-## The most common interpretations
+## Between free gallop and the force that drives you
 
 ### Freedom and a longing to break free
 
@@ -52,7 +52,7 @@ It's also worth noticing whether you yourself are on the horse or watching it fr
 
 ---
 
-## What shapes the interpretation?
+## Different horses, different messages — from gallop to fall
 
 The context of the dream matters a great deal. Here are some variations that often point to different interpretations:
 

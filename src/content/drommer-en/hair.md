@@ -24,7 +24,7 @@ Dreams about hair — especially about it falling out, being cut without your co
 
 Hair isn't a random choice of symbol. It's one of the most visible things about us, something that identifies us and that we actively use to signal who we are.
 
-## The most common interpretations
+## Cutting it is not the same as losing it
 
 ### Loss of control and identity
 
@@ -38,7 +38,7 @@ Cutting your hair in a dream tends to be read differently — it can mean you're
 
 Hair is something we put on display, and dreams where the hair is unruly, messy, falling out, or changing can be about a fear of being seen negatively by others — a vulnerability tied to image, appearance, or social acceptance.
 
-## What shapes the interpretation?
+## What your hair says to others
 
 **If your hair fell out:**
 Loss of strength, identity, or control. One of the most intense body dreams, but rarely a concrete warning.

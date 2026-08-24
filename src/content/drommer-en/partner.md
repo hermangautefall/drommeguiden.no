@@ -24,7 +24,7 @@ Dreaming about your partner is extremely common — and these dreams can vary en
 
 The feeling in the dream usually matters more than the plot.
 
-## The most common interpretations
+## The relationship reflected back
 
 ### The relationship, mirrored as it really is
 
@@ -38,7 +38,7 @@ Dreaming about your partner in romantic or intense situations can simply reflect
 
 One of the most common — and most uncomfortable — variations is a dream where your partner cheats on you. This is rarely a warning that it's actually happening. Far more often, it mirrors your own insecurity, an old wound from a previous relationship — perhaps tied to an ex — or a stretch of distance and unspoken tension between you.
 
-## What shapes the interpretation?
+## The mood between you
 
 **If the dream was warm and good:**
 Security and love are present. The dream is confirming something positive in the relationship.

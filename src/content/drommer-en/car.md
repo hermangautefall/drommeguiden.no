@@ -23,7 +23,7 @@ Dreams about cars are surprisingly common, and they can take many forms — from
 
 ---
 
-## The most common interpretations
+## Who is behind the wheel?
 
 ### Direction and life path
 
@@ -51,7 +51,7 @@ Some people dream about driving a car that isn't theirs, which can be about tryi
 
 ---
 
-## What shapes the interpretation?
+## Speed, brakes and what refuses to stop
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

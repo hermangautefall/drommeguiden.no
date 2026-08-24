@@ -23,7 +23,7 @@ Sexual dreams are among the most common dreams we have — and among the ones mo
 
 Let's start with the most important point: sexual dreams aren't wish fulfilment in a literal sense. They're almost never really about who you want to have sex with. They're about something far more layered — and far more interesting.
 
-## The most common interpretations
+## Closeness is often the message itself
 
 ### A need for closeness and connection
 
@@ -45,7 +45,7 @@ In Jungian psychology, sexual energy in dreams is closely tied to what Jung call
 
 Sexual dreams about someone you have a difficult relationship with — an ex, a conflicted relationship, someone you feel ambivalent about — can be about a deeper wish for reconciliation or integration. Approaching someone in a dream is, in a sense, approaching what they represent. Dreams about an [ex](/en/dreams/ex/) often carry exactly this reconciling quality.
 
-## What shapes the interpretation?
+## The quality, not the person
 
 **If the partner was your boyfriend or girlfriend:**
 Closeness, desire, and connection in the relationship — either affirmed, or a wish for more of it. This can reflect what your partner more broadly represents in your dream life.

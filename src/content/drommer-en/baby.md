@@ -27,7 +27,7 @@ Many people find that baby dreams stir up strong feelings — joy, unease, tende
 
 ---
 
-## The most common interpretations
+## Something new taking shape
 
 ### New beginnings and possibilities
 
@@ -57,7 +57,7 @@ This reading is especially relevant if you've recently thrown yourself into some
 
 ---
 
-## What shapes the interpretation?
+## The fragile part of you
 
 The context of the dream matters a great deal. Here are some variations that often lead to different readings:
 

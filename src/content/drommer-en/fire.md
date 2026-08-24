@@ -27,7 +27,7 @@ The fire in a dream is rarely arbitrary. It tends to represent something burning
 
 ---
 
-## The most common interpretations
+## The fire that warms
 
 ### Passion and strong emotion
 
@@ -55,7 +55,7 @@ Dreams of a house burning down are especially charged, because a house in dreams
 
 ---
 
-## What shapes the interpretation?
+## The fire that destroys
 
 The context of the dream matters a great deal. Here are some variants that often point in different directions:
 

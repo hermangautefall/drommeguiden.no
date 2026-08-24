@@ -24,7 +24,7 @@ You are suddenly standing in the middle of a crowd — at work, in a classroom, 
 
 ---
 
-## The most common interpretations
+## The shame no one else sees
 
 ### Vulnerability and exposure
 
@@ -52,7 +52,7 @@ Dreams of mirrors can deepen the same theme of self-image and meeting yourself a
 
 ---
 
-## What shapes the interpretation?
+## What the gaze really fears
 
 The context of the dream matters a great deal. Here are some variants that often point in different directions:
 

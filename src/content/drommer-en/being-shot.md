@@ -22,7 +22,7 @@ author: 'default'
 
 The bullet in the dream is invisible, it comes without warning, and it hits. It's one of the dream world's most powerful images of a sudden, unexpected attack — and in the symbolic language of dreams, it's rarely about actual violence.
 
-## The most common interpretations
+## The shot that comes without warning
 
 ### An unexpected attack on something important
 
@@ -54,7 +54,7 @@ The legs: an attack on what carries you and gives you direction.
 
 For those who have experienced actual violence, threats, or traumatic events: the dream's gunshot can be a direct part of processing those experiences. If this feels relevant to you, it may be worth exploring how trauma and dreams connect more generally, ideally with support from someone trained to help.
 
-## What shapes the interpretation?
+## Who pulled the trigger — and where you were hit
 
 **If you survived being shot:**
 You're more resilient than you think. Something hit you — but it didn't break you.

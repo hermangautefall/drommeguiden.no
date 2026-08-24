@@ -25,7 +25,7 @@ The mountain is one of the most universal dream symbols — it appears in myths,
 
 ---
 
-## The most common interpretations
+## The summit — and the view when you turn around
 
 ### Big goals and ambitions
 
@@ -53,7 +53,7 @@ The connection to dreams about [flying](/en/dreams/flying/) is clear here: both 
 
 ---
 
-## What shapes the interpretation?
+## Mountains held sacred long before dream interpretation existed
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

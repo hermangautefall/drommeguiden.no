@@ -25,7 +25,7 @@ Few dreams stir up as much shame and confusion as this one. You wake up, remembe
 
 These dreams are the subconscious's most dramatic language for expressing something that otherwise finds no outlet. They deserve to be understood, not feared.
 
-## The most common interpretations
+## What the killing in the dream is really aimed at
 
 ### Suppressed anger and frustration
 
@@ -51,7 +51,7 @@ Jung called this meeting with the Shadow: the sides of ourselves we don't acknow
 
 Dreams about killing — related to dreams of [being chased](/en/dreams/being-chased/) — can also arise during periods when you feel powerless, when something or someone has control over your life in ways you don't like. The dream gives you an arena where you regain control, even if the means are drastic. It isn't a wish for actual violence — it's an expression of frustration at feeling powerless.
 
-## What shapes the interpretation?
+## The victim, the feeling and what they tell you
 
 **Who you killed:**
 This is the most important clue. Did you know the person? What do they represent in your life? A [boss](/en/dreams/boss/) can symbolise authority, an ex can symbolise a closed chapter, a [stranger's](/en/dreams/stranger/) face can represent an unfamiliar side of yourself.

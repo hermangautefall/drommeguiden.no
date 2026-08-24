@@ -25,7 +25,7 @@ Dreaming that you're sick — that something is wrong with your body, that you'v
 
 The body, in dreams, is one of the strongest symbols we have for our inner state.
 
-## The most common interpretations
+## What is wearing you down
 
 ### Exhaustion and the need for rest
 
@@ -41,7 +41,7 @@ Gradually falling ill in a dream can mirror something in your life that's slowly
 
 Illness makes us vulnerable and dependent. Dreaming about being sick can mirror a period where you feel more exposed, less protected, and more dependent on others than you're comfortable with — a need for care that isn't being met, whether from yourself or from someone else.
 
-## What shapes the interpretation?
+## Who was ill
 
 **If the illness was serious:**
 Something in your life feels like a serious threat or burden. It deserves to be taken seriously.

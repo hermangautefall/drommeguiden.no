@@ -24,7 +24,7 @@ Dreaming about your father is among the most meaningful dreams we can have — c
 
 It's rarely just him the dream is about.
 
-## The most common interpretations
+## Authority, rules and inner standards
 
 ### Authority, rules and expectations
 
@@ -40,7 +40,7 @@ If your father was a supportive figure growing up, dreams about him can mirror a
 
 For those who have lost their father, dreams about the [deceased](/en/dreams/deceased-person/) are very common and are often experienced as deeply comforting. Many describe knowing, within the dream, that he is gone — yet still getting to talk with him — and that this brings a relief that lingers long after waking.
 
-## What shapes the interpretation?
+## The absence that also speaks
 
 **If he was proud or approving:**
 A sign that you're in good contact with your own self-worth and sense of competence.

@@ -23,7 +23,7 @@ Dreaming of prison is one of those dreams that lingers — the intense feeling o
 
 Captivity is one of the strongest human symbols of unfreedom — and in the dream world it gets used to express many different kinds of limitation.
 
-## The most common interpretations
+## The jailer is often you
 
 ### You feel trapped in something you can't see a way out of
 
@@ -49,7 +49,7 @@ Sometimes the prison is a relationship — a partnership, a family situation, a 
 
 The dream isn't necessarily a call to flee — it's an invitation to acknowledge that something is squeezing you, and maybe start talking about it.
 
-## What shapes the interpretation?
+## Did you escape, or did you stay?
 
 **If you knew why you were in prison:**
 A concrete situation, action, or choice that you hold yourself responsible for. A clear area to work with.

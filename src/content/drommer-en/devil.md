@@ -27,7 +27,7 @@ If a dream like this leaves you shaken, it can help to know this upfront: dreami
 
 ---
 
-## The most common interpretations
+## The shadow and the repressed
 
 ### The Shadow at its clearest
 
@@ -49,7 +49,7 @@ The devil as tempter is an archetypal motif, echoed in stories from the desert t
 
 For those with a religious background where the devil is a concrete theological reality, the devil in a dream can carry more direct religious content. That's personal, respectful territory. Whatever the interpretation, the dream's intense emotional charge points to something real and worth taking seriously — not to a literal visitation.
 
-## What shapes the interpretation?
+## What the devil wanted from you
 
 **If the devil spoke to you:**
 The Shadow is communicating — what did it say? It's worth listening, even if it's uncomfortable.

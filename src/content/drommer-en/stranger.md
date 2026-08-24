@@ -23,7 +23,7 @@ Dreaming about someone you don't know is actually very common — and these figu
 
 Who the stranger is, what they do, and how they make you feel are the keys to interpreting the dream.
 
-## The most common interpretations
+## The face you do not recognise
 
 ### An unfamiliar side of yourself
 
@@ -41,7 +41,7 @@ Meeting this figure in the dream isn't dangerous — in fact, it's a sign that y
 
 A stranger can also symbolise something unknown and new on its way into your life — a new opportunity, a new phase, or a new chapter you're about to open. Especially if the stranger in the dream was interesting, appealing, or gave you something.
 
-## What shapes the interpretation?
+## Whether the stranger seemed threatening or friendly
 
 **If the stranger was threatening:**
 A suppressed side of yourself, or something in your life you fear but haven't confronted.

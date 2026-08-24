@@ -24,7 +24,7 @@ The forest is one of the most timeless symbols in human consciousness — from f
 
 ---
 
-## The most common interpretations
+## Losing your way
 
 ### The unconscious and inner exploration
 
@@ -52,7 +52,7 @@ This interpretation is reinforced if the forest in the dream feels peaceful and 
 
 ---
 
-## What shapes the interpretation?
+## The path that opens up
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

@@ -26,7 +26,7 @@ Train dreams put you on a journey — and the question the dream often asks is: 
 
 ---
 
-## The most common interpretations
+## Being on the right track — or not
 
 ### Life direction and whether you're on the right track
 
@@ -42,7 +42,7 @@ Because a train runs on fixed rails and you're riding as a passenger, dreams abo
 
 ---
 
-## What shapes the interpretation?
+## Whether you caught the train
 
 **If you caught the train:**
 You're in step with your life and your goals. Things are going as planned.

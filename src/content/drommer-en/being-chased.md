@@ -25,7 +25,7 @@ The chase dream is one of the most universal dream experiences people share — 
 
 This dream is so common that it is considered one of the classic archetypal dream scenarios. And although it can feel frightening, it almost always carries a message worth listening to.
 
-## The most common interpretations
+## The brain's rehearsal fight
 
 ### You may be avoiding something that is catching up with you
 
@@ -49,7 +49,7 @@ A frightening figure at your heels may represent suppressed anger, an unspoken a
 
 Sometimes the chase dream is more general — the mind's way of giving form to a diffuse anxiety. Unease with no clear object in daily life can take shape as a pursuer in a dream, because the psyche tends to prefer concrete images over abstract worry.
 
-## What shapes the interpretation?
+## What you avoid catches up with you
 
 **Who or what is chasing you:**
 This is the most useful clue. An unknown monster may symbolise something you have not yet defined or acknowledged. A person you know may stand for what they represent in your life — authority, conflict, demands. An animal brings its own symbolism.

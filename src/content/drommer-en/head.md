@@ -24,7 +24,7 @@ In nearly every culture and tradition, the head is the seat of consciousness —
 
 These dreams can take many forms — a head you see, your own head looking different than usual, a head that disappears or transforms. All of them carry a message about thought, identity, and consciousness.
 
-## The most common interpretations
+## Thoughts, identity and overload
 
 ### Your consciousness and identity are in play
 
@@ -48,7 +48,7 @@ Who wins in the dream — and who should win in real life?
 
 A head that spins, that comes loose, that's simply gone — these more surreal variations tend to mirror a feeling of losing control, of disorientation, of not knowing who you are or what you think anymore. A period when the ground beneath your sense of self feels unstable.
 
-## What shapes the interpretation?
+## What happened to the head
 
 **If the head was clear and wise:**
 Clear thinking, strong awareness, and the ability to find your bearings — you're on top of things.

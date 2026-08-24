@@ -25,7 +25,7 @@ Many people who dream of the ocean say the dream felt more vivid than usual — 
 
 ---
 
-## The most common interpretations
+## The surface: what is visible
 
 ### The ocean as a mirror for your emotional life
 
@@ -53,7 +53,7 @@ If you dreamed of sailing on the ocean, it's often read as a sign that you're he
 
 ---
 
-## What shapes the interpretation?
+## The depths: what moves below
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 
@@ -71,7 +71,7 @@ This can symbolize reflection — you're observing your life and your options fr
 
 ---
 
-## Psychological and cultural perspectives
+## What you did in or beside the water
 
 Carl Jung viewed the ocean as one of the strongest symbols of the collective unconscious — the vast reservoir of human experience we all share. In Jungian dream interpretation, the ocean represents forces larger than the individual, and dreaming of the ocean can therefore be about coming into contact with something universal and timeless.
 

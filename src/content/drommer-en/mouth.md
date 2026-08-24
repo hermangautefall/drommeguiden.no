@@ -21,7 +21,7 @@ author: 'default'
 
 The mouth is the body's gateway of communication — where words are shaped, where we eat and take things in, where we kiss and express closeness. In dream symbolism it's tied to everything about expressing yourself: what gets let out, and what stays held in.
 
-## The most common interpretations
+## The unsaid and what you let in
 
 ### Something you haven't said
 
@@ -35,7 +35,7 @@ The mouth is also the voice — and dreaming about it can be about your ability 
 
 The mouth is a boundary between inside and outside — what you take in, and what you let out. Dreams about the mouth can be about what you swallow without wanting to, what you refuse to take in, or what you choose to hold back.
 
-## What shapes the interpretation?
+## What happened to the mouth
 
 **If you couldn't speak:**
 Something is preventing you from expressing yourself — a fear, an inhibition, a situation where you can't get a word in.

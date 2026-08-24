@@ -25,7 +25,7 @@ Waking up from a dream where your partner has been unfaithful — or where you y
 
 But these dreams very rarely warn of something actually happening. They are almost always about something else entirely — and that something is worth understanding.
 
-## The most common interpretations
+## The uncertainty never said out loud
 
 ### An unaddressed insecurity in the relationship
 
@@ -47,7 +47,7 @@ Infidelity dreams can also symbolise competition for time and attention — not 
 
 Sometimes an infidelity dream mirrors feelings of your own that you haven't fully acknowledged — a mild attraction to someone you know, a curiosity you haven't let yourself sit with. The dream isn't a call to act on anything; it's a sign that something beneath the surface is present and wants to be recognised rather than pushed down.
 
-## What shapes the interpretation?
+## Who was unfaithful to whom
 
 **If it was your partner who was unfaithful:**
 Usually mirrors your own insecurity and fear of abandonment — not an actual suspicion. The unfaithful partner in the dream is often a picture of you and your own vulnerability.

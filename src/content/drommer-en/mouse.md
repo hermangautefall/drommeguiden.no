@@ -24,7 +24,7 @@ The mouse is small — but in the world of dreams it's rarely insignificant. It 
 
 Mouse dreams are common, and they tend to carry a specific message about something in life you've overlooked.
 
-## The most common interpretations
+## What accumulates, and what slips through
 
 ### Small irritations that have piled up
 
@@ -38,7 +38,7 @@ The mouse isn't stupid — it's quick, agile, and finds its way through the narr
 
 A mouse is small in a big world — and in dreams it can represent a subjective experience of being small, vulnerable, and exposed. A period when something in life feels too big and overwhelming to face head-on.
 
-## What shapes the interpretation?
+## From the gnawing detail to the trapped fear
 
 **If there were many mice:**
 Many small problems or irritations that, taken together, feel overwhelming.

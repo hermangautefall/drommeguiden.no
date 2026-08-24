@@ -25,7 +25,7 @@ Dreaming about someone who has died is among the most intense and memorable drea
 
 You are not alone in this, and there is nothing to fear.
 
-## The most common interpretations
+## Why grief keeps working through the night
 
 ### Grief and processing that continues
 
@@ -45,7 +45,7 @@ Many people who dream of a deceased loved one — whether it's their [mother](/e
 
 Whatever you believe happens after death, this kind of dream is something a great many people have, and something a great many describe as one of the most important and comforting experiences of their grief.
 
-## What shapes the interpretation?
+## The unfinished business that finds its place
 
 **If the person seemed happy and at peace:**
 One of the most comforting dreams a person can have. Many take this as a confirmation that everything is well.

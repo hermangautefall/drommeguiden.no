@@ -24,7 +24,7 @@ Mirrors have fascinated people for thousands of years — from the myth of Narci
 
 ---
 
-## The most common interpretations
+## A stranger's face reflects back
 
 ### Self-image and self-perception
 
@@ -52,7 +52,7 @@ Dreams where the mirror is cracked or shattered add another layer to this theme 
 
 ---
 
-## What shapes the interpretation?
+## Cracks and fog in the image
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

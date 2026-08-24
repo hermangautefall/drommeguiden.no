@@ -23,7 +23,7 @@ author: 'default'
 
 Tornadoes are storms in their most concentrated and destructive form — a spinning force that tears up everything in its path and leaves behind a narrow strip of total devastation. In the dream world, this is one of the strongest images for chaos and loss of control.
 
-## The most common interpretations
+## The force that tears things up by the roots
 
 ### An overwhelming force out of control
 
@@ -37,7 +37,7 @@ Tornadoes are selective — they devastate one thing completely and leave someth
 
 Tornadoes spin — and in dreams, this rotation can mirror a spiral of thoughts and feelings that won't settle. Anxiety, rumination, an inner state of constant spinning without progress. Dreams of [storms](/en/dreams/storm/) deal with similar chaos, but in a broader form.
 
-## What shapes the interpretation?
+## Whether you found shelter
 
 **If you watched the tornado from a distance:**
 You see the chaos but aren't caught up in it. Awareness of a looming force.

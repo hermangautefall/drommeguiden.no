@@ -25,7 +25,7 @@ Hands are among the most human things we have. They're the tools we use to shape
 
 ---
 
-## The most common interpretations
+## Agency, contact and identity
 
 ### Agency and the ability to act
 
@@ -53,7 +53,7 @@ If the hands are dirty or covered in [blood](/en/dreams/blood/), this can point 
 
 ---
 
-## What shapes the interpretation?
+## The condition of your hands
 
 The context of the dream is decisive. Here are some variations that often lead to different readings:
 

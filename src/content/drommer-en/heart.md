@@ -24,7 +24,7 @@ The heart may be the most charged organ in all of human symbolism — the seat o
 
 These dreams can be about your body — a worry about your health that you carry with you — but just as often they are about something deeper: your capacity to love, your emotional strength, and what you genuinely care about.
 
-## The most common interpretations
+## Love, vulnerability and what you pass on
 
 ### Your emotional core and capacity for love
 
@@ -44,7 +44,7 @@ The heart is what keeps us alive — it beats without pause, without rest, witho
 
 Sometimes the heart dream is more direct — a concern about heart health that you carry consciously or otherwise. See also [illness](/en/dreams/illness/) for other health-related dreams. If you have risk factors, have noticed symptoms, or have a family history of heart disease, the dream may mirror a worry that deserves attention — and possibly a conversation with your doctor.
 
-## What shapes the interpretation?
+## Courage: acting from the heart
 
 **If the heart was strong and rhythmic:**
 Good life energy, emotional strength and a healthy relationship with your own feelings.

@@ -23,7 +23,7 @@ Blood in dreams almost always stirs up strong emotions. It's one of the most pri
 
 ---
 
-## The most common interpretations
+## Drained, boiling, or marked by guilt
 
 ### Emotional wounds and pain
 
@@ -51,7 +51,7 @@ This interpretation is reinforced if the dream involves specific family members,
 
 ---
 
-## What shapes the interpretation?
+## Blood ties: the family we don't choose
 
 The context of the dream matters a great deal. Here are some variations that often lead to different interpretations:
 

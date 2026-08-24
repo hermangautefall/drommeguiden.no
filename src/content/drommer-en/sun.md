@@ -21,7 +21,7 @@ author: 'default'
 
 The sun is one of the strongest and most positive symbols in the dream world — in almost every culture it represents life, awareness, growth and nourishment. Dreaming about the sun is rarely negative. It's one of those dreams that often leaves you with a warm, calm and optimistic feeling.
 
-## The most common interpretations
+## Vitality, clarity and a new beginning
 
 ### Life energy and vitality
 
@@ -35,7 +35,7 @@ The sun lights up what was dark — and in dreams it's tied to insight and aware
 
 The sun rises every morning — and the sun in a dream is often an image of a fresh start. A phase that's coming to an end opens the door to something new. Progress and growth are on the way.
 
-## What shapes the interpretation?
+## Rising, setting, or a burning midday sun
 
 **If the sun was bright and warm:**
 Very positive — joy, energy and everything that thrives in the light.

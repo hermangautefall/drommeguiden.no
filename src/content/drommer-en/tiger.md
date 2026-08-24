@@ -25,7 +25,7 @@ Where the [lion](/en/dreams/lion/) is king, the tiger is the wild one — untame
 The tiger differs from the lion in that it's more solitary and more unpredictable — much like the [bear](/en/dreams/bear/) in its lone strength — it hunts alone, and it strikes without warning.
 
 
-## The most common interpretations
+## The force looking for an outlet
 
 ### Raw instinct and suppressed energy
 
@@ -42,7 +42,7 @@ A threatening tiger often points to something in your life that's dangerous or u
 A tiger that doesn't threaten you, but is instead impressive and strong, can mirror your own power and self-assertion. The dream invites you to own your strength rather than hide it.
 
 
-## What shapes the interpretation?
+## The distance between you and the animal
 
 **If the tiger was chasing you:**
 Something you've been avoiding is catching up with you. A confrontation long postponed is drawing near.

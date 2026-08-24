@@ -24,7 +24,7 @@ Have you dreamed of a snake and wondered what it might mean? You're far from alo
 
 ---
 
-## The most common interpretations
+## When the snake sheds its skin
 
 ### Transformation and new beginnings
 
@@ -44,7 +44,7 @@ In many cultures, the snake is a symbol of deep knowledge — think of medicine'
 
 ---
 
-## What shapes the interpretation?
+## What the snake's behaviour tells you
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

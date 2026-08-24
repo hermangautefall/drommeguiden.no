@@ -24,7 +24,7 @@ Like your [sister](/en/dreams/sister/), your brother is one of the most formativ
 
 Dreams about your brother tend to surface during periods of questioning your own choices, your identity, your place in the family, or an unresolved side of masculinity in you or around you.
 
-## The most common interpretations
+## The mirror, the rival and the ally
 
 ### A capable or masculine side of yourself
 
@@ -48,7 +48,7 @@ In the oldest stories, the brother is first and foremost an ally — the one who
 
 Sibling relationships often carry long histories — old hurts, old gratitude, old misunderstandings. The brother in your dream can appear as a stand-in for something unresolved. What happens between you in the dream is often the message itself: a tremor, an embrace, an argument, a silence.
 
-## What shapes the interpretation?
+## How the two of you were together in the dream
 
 **If you were working together:**
 Togetherness, support and complementary strengths — a sign that you don't have to do everything alone.

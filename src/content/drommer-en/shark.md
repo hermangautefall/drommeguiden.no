@@ -24,7 +24,7 @@ The shark may be the most frightening animal in the collective human imagination
 
 But the shark is also a symbol of sheer survival ability — sharks have existed almost unchanged for 450 million years.
 
-## The most common interpretations
+## What lurks just below the surface
 
 ### Hidden threats and things beneath the surface
 
@@ -38,7 +38,7 @@ At times the shark symbolises a specific person — much like the [snake](/en/dr
 
 Swimming safely alongside a shark, or not being afraid of it, is read differently: you're comfortable with deep, dark emotions and navigate them with confidence — unlike someone dreaming about [drowning](/en/dreams/drowning/). You're not easily frightened.
 
-## What shapes the interpretation?
+## Attack, circling, or calm in the water?
 
 **If the shark attacked you:**
 Something you fear catches up with you — a confrontation you weren't prepared for.

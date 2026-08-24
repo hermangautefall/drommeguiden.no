@@ -22,7 +22,7 @@ author: 'default'
 
 The suitcase is the vessel of the journey — it holds what you need, what you choose to bring, and sometimes what you're dragging along without really wanting to. In the dream world it's one of the most direct symbols of what you carry through life: your baggage, both literal and figurative.
 
-## The most common interpretations
+## The baggage you carry with you
 
 ### Life's baggage and what you carry
 
@@ -36,7 +36,7 @@ The suitcase prepares for a journey — and the suitcase in your dream can mirro
 
 The dream can be about a choice: what do you carry forward, and what can you unpack and leave behind? Not all baggage is useful to carry into the next chapter.
 
-## What shapes the interpretation?
+## How heavy it was, and what was inside
 
 **If the suitcase was heavy:**
 You're carrying too much. Something can be left behind.

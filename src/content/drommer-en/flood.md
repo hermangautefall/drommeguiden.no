@@ -24,7 +24,7 @@ A flood is water's power in its most uncontrollable form — something that rise
 
 These dreams are common during demanding periods — and they often carry an important message.
 
-## The most common interpretations
+## When something rises over the edge
 
 ### Overwhelming feelings spilling over
 
@@ -38,7 +38,7 @@ A flood can also represent an external situation where things have become too ma
 
 A flood destroys, but it also cleanses — and in dream symbolism, large water events are tied to transformation. The old is washed away to make room for something new. The dream can arrive during periods when something old and worn-out is on its way out, even if it feels dramatic while it's happening.
 
-## What shapes the interpretation?
+## How fast the water rose
 
 **If the water rose slowly:**
 Something has been building up over time and is now nearing its breaking point.

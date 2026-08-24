@@ -21,7 +21,7 @@ author: 'default'
 
 Stars are humanity's oldest navigation points — they have guided sailors, shaped stories, and represented everything from gods to departed souls. In dreams they carry the same symbolism as [heaven](/en/dreams/heaven/): something higher, something greater than ourselves. They bring all of that richness into the dream world — symbols of hope, markers of direction, reminders that something exists far beyond the horizon of everyday life.
 
-## The most common interpretations
+## Something to navigate by
 
 ### Hope and something to steer by
 
@@ -35,7 +35,7 @@ Stars remind us of the sheer scale of the universe — and in dreams they can re
 
 The phrase "reach for the stars" isn't an accident — stars symbolise high ambitions, the dreams that are hard to reach but that give life direction. Dreaming about stars can mirror an ambition or a goal lighting up the darkness.
 
-## What shapes the interpretation?
+## Whether the sky was clear
 
 **If the stars were many and clear:**
 Hope, possibility and a breadth of potential — many paths open to you.

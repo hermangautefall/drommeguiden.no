@@ -25,7 +25,7 @@ Even though the dream can feel frightening, it's rarely a bad sign. On the contr
 
 ---
 
-## The most common interpretations
+## When the fall is more than a twitch
 
 ### Loss of control
 
@@ -53,7 +53,7 @@ This reading is especially relevant if the fall in the dream wasn't frightening,
 
 ---
 
-## What shapes the interpretation?
+## The control that slips
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

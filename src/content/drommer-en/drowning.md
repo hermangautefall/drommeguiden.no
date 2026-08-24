@@ -23,7 +23,7 @@ Dreams about drowning rank among the most intense dream experiences a person can
 
 ---
 
-## The most common interpretations
+## Water is rarely just water
 
 ### You're overwhelmed by emotions
 
@@ -49,7 +49,7 @@ This interpretation is reinforced if, in the dream, you're desperately trying to
 
 ---
 
-## What shapes the interpretation?
+## When it is all too much at once
 
 The context of the dream matters a great deal. Here are some variations that often lead to different interpretations:
 

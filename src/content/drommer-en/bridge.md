@@ -38,7 +38,7 @@ A bridge can also be about forming connections — between people, between parts
 
 Crossing a bridge requires trust — in the structure, in what's waiting on the other side. Bridge dreams are sometimes about exactly this: the ability to take a step into the unknown, to trust that the ground beneath you will hold, to move toward something you can't fully see.
 
-### What shapes the interpretation?
+### Crossing, turning back, or a bridge that gave way
 
 **If the bridge was solid and safe:**
 You're ready for the transition. The foundation holds, and the other side is within reach.

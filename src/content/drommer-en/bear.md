@@ -27,7 +27,7 @@ The bear represents raw strength and untamed nature, but also something soft and
 
 ---
 
-## The most common interpretations
+## Power, hibernation and protective instinct
 
 ### Inner strength and courage
 
@@ -61,7 +61,7 @@ If the bear in the dream was friendly and close, it can be read as a sign that y
 
 ---
 
-## What shapes the interpretation?
+## An attack, a long sleep, or a mother with cubs
 
 Context matters a great deal here. A few variations that often lead to different readings:
 

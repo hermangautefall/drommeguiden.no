@@ -24,7 +24,7 @@ The wolf is an animal that stirs up strong feelings — admiration, fear, fascin
 
 ---
 
-## The most common interpretations
+## The pack: loyalty and belonging
 
 ### Instinct and your wild side
 
@@ -52,7 +52,7 @@ Dreams where the wolf attacks can share something with dreams about [falling](/e
 
 ---
 
-## What shapes the interpretation?
+## The lone wolf
 
 Context is everything when it comes to interpreting the dream. Here are some variations that often point to different readings:
 

@@ -26,7 +26,7 @@ It's rarely the device itself the dream is about. It's what it represents.
 
 ---
 
-## The most common interpretations
+## When the line does not connect
 
 ### Communication and connection
 
@@ -42,7 +42,7 @@ Trying to call someone and failing, hearing a phone ring without being able to r
 
 ---
 
-## What shapes the interpretation?
+## The fear of being left out
 
 **If you lost the phone:**
 A fear of losing connection, identity or a sense of control. Vulnerability in facing the world without your most essential tool.

@@ -24,7 +24,7 @@ Dreaming about your mother is one of the most universal dream experiences there 
 
 The interpretation depends heavily on two things: what happened in the dream, and what your relationship with her is like in real life. Many people also dream about their [father](/en/dreams/father/) during similar periods.
 
-## The most common interpretations
+## The mother as figure and as person
 
 ### A need for safety and care
 
@@ -44,7 +44,7 @@ Dreams about your mother can also appear when something between the two of you h
 
 This is especially true for those who have lost their mother — dreams about a [deceased](/en/dreams/deceased-person/) parent are very common and are often experienced as comforting rather than frightening.
 
-## What shapes the interpretation?
+## Who she was, and how the meeting felt
 
 **If she was happy and close:**
 A good sign — safety, warmth and support are present in your life, or you're longing for more of it.

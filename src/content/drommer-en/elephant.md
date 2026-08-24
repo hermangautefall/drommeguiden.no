@@ -23,7 +23,7 @@ The elephant is one of the most distinctive animals in dream symbolism — large
 
 The tone of the dream — whether the elephant was calm, stressful, helpful or threatening — gives much of the answer.
 
-## The most common interpretations
+## Memory, weight and the unhurried pace
 
 ### Wisdom, memory and the past
 
@@ -37,7 +37,7 @@ The elephant's weight isn't only physical in dream symbolism — it can represen
 
 The elephant moves slowly, but surely. In dreams it can symbolise that it's right to take things step by step — that what you're working toward won't happen overnight, but that the progress is real and steady.
 
-## What shapes the interpretation?
+## Calm giant or trampling threat?
 
 **If the elephant was calm and friendly:**
 Safety, stability and wisdom are available to you. A positive dream.

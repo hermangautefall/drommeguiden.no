@@ -24,7 +24,7 @@ The house is one of the richest and most many-layered symbols in the dream world
 
 ---
 
-## The most common interpretations
+## The basement, the attic and the rooms between
 
 ### The house as an image of the self
 
@@ -52,7 +52,7 @@ On the other hand, dreams about renovating a house, painting walls, or clearing 
 
 ---
 
-## What shapes the interpretation?
+## When the house decays — and when it is restored
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

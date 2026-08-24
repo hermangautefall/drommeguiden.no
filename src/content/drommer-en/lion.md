@@ -25,7 +25,7 @@ The lion is called the queen of the animal kingdom — and in dream symbolism, t
 Whether the lion in the dream was friendly or hostile, calm or enraged, changes the interpretation considerably.
 
 
-## The most common interpretations
+## Between courage, power and what burns
 
 ### Inner strength and leadership
 
@@ -42,7 +42,7 @@ The lion can also represent a person in your life who holds significant authorit
 An enraged lion is often read — much like the [tiger](/en/dreams/tiger/) — as an image of anger or strong feeling that hasn't found an outlet. Something is burning inside you, and the dream is asking you to notice it.
 
 
-## What shapes the interpretation?
+## The lion in its different guises
 
 **If the lion was calm and majestic:**
 You're in touch with your own authority and inner steadiness. A strong, positive dream.

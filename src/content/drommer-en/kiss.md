@@ -21,7 +21,7 @@ author: 'default'
 
 A kiss is one of the oldest and most universal human gestures of contact, approval and connection. In dreams the kiss carries that same symbolic charge — but it is rarely just about romance. The context, the feeling, and above all who you're kissing, are what unlock the dream's meaning.
 
-## The most common interpretations
+## Closeness, consent and who it was
 
 ### Connection and approval
 
@@ -53,7 +53,7 @@ A dream about a kiss can therefore be about a transition you're in — a promise
 
 In Jungian psychology, a kiss between two dream figures is sometimes read as an image of the union of opposites within the psyche — the rational and the intuitive, the masculine and the feminine, the social self and the shadow. To dream of kissing an unknown part of yourself is the psyche's image of wholeness.
 
-## What shapes the interpretation?
+## Who you kissed, and how it felt
 
 **If the kiss was tender and good:**
 A positive sign of closeness, self-acceptance, or a good relationship with the person you kissed.

@@ -24,7 +24,7 @@ The key is one of the oldest and most universal symbols in human culture — it 
 
 Dreams like this are rarely random — they tend to point to something concrete in your life that has to do with access, opportunity, or control.
 
-## The most common interpretations
+## Finding one, losing one, locking something away
 
 ### A solution within reach
 
@@ -38,7 +38,7 @@ Searching for a key, or having the wrong key — dreams like these reflect a sit
 
 Keys are about control — over [your home](/en/dreams/house/), over your own life, over who gets let in and who's kept out. [Losing](/en/dreams/losing-something/) your keys can reflect a fear of losing that control. Having a lot of keys can reflect having a lot of responsibilities.
 
-## What shapes the interpretation?
+## The size, the number and what the key opened
 
 **If you found the key:**
 A solution, an opportunity, or a way forward is available to you. A positive sign.

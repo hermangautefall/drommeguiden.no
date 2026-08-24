@@ -24,7 +24,7 @@ Rain is something most of us have a close relationship with, a familiar companio
 
 ---
 
-## The most common interpretations
+## Tears, cleansing and what is allowed to fall
 
 ### Emotional release and cleansing
 
@@ -52,7 +52,7 @@ Dreams about rain falling in a forest can strengthen this theme of growth. The f
 
 ---
 
-## What shapes the interpretation?
+## Growth after drought
 
 The context of the dream matters a great deal. Here are a few variations that often lead to different readings:
 

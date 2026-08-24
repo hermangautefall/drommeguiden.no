@@ -24,7 +24,7 @@ The sibling relationship is one of the most complex we carry — a blend of [lov
 
 They're often just as much about you as they are about her.
 
-## The most common interpretations
+## The mirroring and the unresolved
 
 ### Mutual mirroring and sides of yourself
 
@@ -40,7 +40,7 @@ Sibling relationships carry a lot — old rivalry, being treated differently by 
 
 Your sister is one of the few people who has known you since the beginning — who shares your earliest history. Dreaming about her can reflect a need to reconnect with your roots, with where you came from, with what you once shared.
 
-## What shapes the interpretation?
+## How the two of you were together
 
 **If things were good between you:**
 Warmth, belonging, and a wish for more closeness in the relationship — or in life more generally.

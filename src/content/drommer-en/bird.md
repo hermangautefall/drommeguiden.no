@@ -24,7 +24,7 @@ Birds are among the most universally charged symbols in the human dream world �
 
 A bird in a dream is rarely random. It's carrying something.
 
-## The most common interpretations
+## Freedom, messages and the soul in motion
 
 ### Freedom and a longing to rise above
 
@@ -44,7 +44,7 @@ In many traditions, birds are the very image of the soul — light, fleeting, un
 
 A bird flying free — out of a cage, up from the ground, toward the horizon — is one of the dream world's strongest images of liberation and a fresh start. Something is no longer being held back.
 
-## What shapes the interpretation?
+## The species, the colour and what the bird did
 
 **The species of bird:**
 Different birds carry different symbolism. Eagle: power and perspective. Raven or crow: wisdom and the hidden. Dove: peace and reconciliation. Swan: beauty and transformation. Sparrow: the everyday and the humble. Look out for dedicated pages on specific birds, such as the eagle and the parrot.

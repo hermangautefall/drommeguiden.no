@@ -26,7 +26,7 @@ But snow in dreams isn't always warm and comforting. It can also freeze, isolate
 
 ---
 
-## The most common interpretations
+## The silence and the blank page
 
 ### Cleansing, rest, and a blank page
 
@@ -52,7 +52,7 @@ Thick snow can shut you in — roads close, you can't get anywhere, the outside 
 
 ---
 
-## What shapes the interpretation?
+## Whether the snow was beautiful or cold
 
 **If the snow was clean and bright:**
 Cleansing, a fresh start, and calm. One of the more positive nature symbols in the dream world.

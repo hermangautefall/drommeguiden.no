@@ -22,7 +22,7 @@ author: 'default'
 
 The whale is the largest animal on Earth — and it lives in the deepest reaches of the [ocean](/en/dreams/ocean/). In the world of dreams, it's one of the most striking symbols: something immense, ancient, and intelligent moving through the deepest layers of the unconscious. Dreaming of a whale is rarely a small moment. It's one of the big dreams.
 
-## The most common interpretations
+## The deep, the ancient and what is in no hurry
 
 ### Something immense stirring in the deep
 
@@ -40,7 +40,7 @@ The whale is known for its song — long, complex communication structures we ba
 
 Whales live for a hundred years. They move slowly and with enormous power. The whale in a dream can represent a long-term process — something that takes time, something unhurried, something that's moving but on its own timescale.
 
-## What shapes the interpretation?
+## From a peaceful swim to being swallowed
 
 **If the whale was peaceful and close by:**
 A peaceful encounter with something immense within yourself. No threat — just scale.

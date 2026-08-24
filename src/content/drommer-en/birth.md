@@ -26,7 +26,7 @@ These dreams are rarely ordinary. They tend to carry some of the deepest materia
 
 ---
 
-## The most common interpretations
+## Something new coming into the light
 
 ### Something new is coming into the world
 
@@ -50,7 +50,7 @@ Watching a child be born — or holding the newborn — carries some of the heav
 
 ---
 
-## What shapes the interpretation?
+## The circumstances around the birth
 
 **If you were the one giving birth:**
 Something deeply personal is coming into the world — a new part of yourself, a creative output that is genuinely yours.

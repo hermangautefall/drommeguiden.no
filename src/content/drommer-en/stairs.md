@@ -48,7 +48,7 @@ This in-between position can feel uncomfortable or exciting, depending on how th
 
 Freud believed that the rhythmic, repetitive movement of climbing stairs in a dream carried a sexual dimension. He documented that many of his patients' stair dreams were tied to sexual impulses and tension. Even without fully accepting the Freudian framework, it's an observation that points to something real: the physicality and rhythm of climbing stairs can activate physiological responses.
 
-### What shapes the interpretation?
+### Going up, going down, or stairs that never end
 
 **If you climbed with ease:**
 Progress, optimism, and a clear path ahead. Something is moving in a positive direction.

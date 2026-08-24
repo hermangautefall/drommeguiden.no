@@ -23,7 +23,7 @@ Dreams about God — meeting the divine, hearing a voice, standing in the presen
 
 ---
 
-## The most common interpretations
+## Meeting what is greater
 
 ### The numinous — an encounter with the sacred
 
@@ -49,7 +49,7 @@ For people of faith, dreams about God are a recognised and valued part of spirit
 
 ---
 
-## What shapes the interpretation?
+## How the encounter felt
 
 **If the encounter was peaceful and bright:**
 A deep sense of integration — you're in touch with something good and fundamentally stable in your life.

@@ -24,7 +24,7 @@ Searching desperately for your [keys](/en/dreams/keys/), realizing your wallet i
 
 It's about what the object represents.
 
-## The most common interpretations
+## The loss of overview and control
 
 ### Loss of control and oversight
 
@@ -38,7 +38,7 @@ What you lose in the dream offers clues. Keys symbolise access and control — l
 
 Dreams like this can also arrive as a kind of warning from the subconscious: something you have and value is at risk. Not necessarily something material — it could be a relationship, an opportunity, or a part of yourself.
 
-## What shapes the interpretation?
+## What you lost
 
 **If you lost your keys:**
 Fear of losing access, control, or the ability to get into somewhere — literally or symbolically.
