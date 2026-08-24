@@ -83,3 +83,8 @@ De fleste som opplever falsk oppvåkning regelmessig, begynner etter hvert å se
 
 > 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser/)
 
+## Kilder og videre lesning
+
+- Matthew Walker, *Why We Sleep* (2017) — REM-søvn og den uskarpe grensen mellom søvn og våken tilstand.
+- REM-atoni — muskellammelsen som holder kroppen i ro under REM-søvn, og som forklarer hvorfor en falsk oppvåkning kan kjennes så fysisk overbevisende.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan drømmen låner materiale fra det aller nærmeste, som soverommet du nettopp «våknet» i.

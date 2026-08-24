@@ -109,3 +109,8 @@ Som med de fleste ferdigheter, krever lucid drømming tålmodighet og regelmessi
 
 > 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser/) · [Polyfasisk søvn](/sovn/polyfasisk-sovn/)
 
+## Kilder og videre lesning
+
+- Matthew Walker, *Why We Sleep* (2017) — REM-søvnen lucide drømmer oppstår i, og hvorfor de er vanligst mot morgenen.
+- Carl Gustav Jung, *Erindringer, drømmer, tanker* (1961) — Jungs beskrivelser av bevisst å gå inn i og arbeide med drømmebilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — et nøkternt blikk på hva drømmeforskningen kan og ikke kan si om kontroll over drømmer.

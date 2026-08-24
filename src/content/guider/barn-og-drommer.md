@@ -1,7 +1,7 @@
 ---
-tittel: "Når begynner barn å drømme? Alt foreldre må vite (2026)"
+tittel: "Barn og drømmer — hva drømmer barn om, og hvordan hjelper du dem?"
 slug: barn-og-drommer
-kortbeskrivelse: "Når begynner barn å drømme — og hva drømmer de om? Forskningsbasert guide for foreldre, med 5 konkrete råd for å hjelpe ved mareritt (2026)."
+kortbeskrivelse: "Barn drømmer annerledes enn voksne og har egne behov knyttet til drømmene. Her er hva forskningen vet om barns drømmeliv, og hvordan du støtter dem."
 leseminutter: 8
 bilde: /bilder/guider/barn-og-drommer.jpg
 dato: 2026-03-18
@@ -101,3 +101,9 @@ Barns drømmeverden er rik, intenst aktiv og viktig å ta på alvor:
 - Tenåringers søvnbehov og drømmemønstre er biologisk annerledes
 
 Relatert: [drommejournalen](/guider/drommejournalen/) — [mareritt](/guider/mareritt/) — [nattskrekk](/guider/nattskrekk/)
+
+## Kilder og videre lesning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hva folk faktisk drømmer om, og grunnlaget for å sammenligne barns drømmeinnhold med voksnes.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvorfor mareritt er hyppigst i barneårene, og hvordan psyken bruker dem til å bearbeide sterke følelser.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at barnets drømmer speiler den verdenen barnet faktisk lever i.

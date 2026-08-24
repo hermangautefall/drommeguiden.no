@@ -100,3 +100,9 @@ Drømmene dine er en ressurs som allerede finnes i deg. Alt du trenger er en pen
 - [Gjentakende drømmer — hva prøver hjernen å si?](/guider/gjentakende-drommer/)
 - [Hva er drømmer? Det vitenskapen faktisk sier](/guider/hva-er-drommer/)
 - [Lucid drømming — slik tar du kontroll](/guider/lucid-dromming/)
+
+## Kilder og videre lesning
+
+- Matthew Walker, *Why We Sleep* (2017) — REM-søvnens rolle, og hvorfor drømmene forsvinner så raskt etter oppvåkning.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — systematisk nedtegning av drømmer som metode, og hva mønstre over tid faktisk kan vise.
+- Carl Gustav Jung, *Erindringer, drømmer, tanker* (1961) — Jungs egen praksis med å skrive ned og arbeide videre med drømmene sine over år.

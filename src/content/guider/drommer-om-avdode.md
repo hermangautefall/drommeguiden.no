@@ -86,3 +86,8 @@ Relatert: [avdod-person](/drommer/avdod-person/) — [drommejournalen](/guider/d
 
 > 💡 **Les også fra søvnseksjonen:** [Sorg og søvn](/sovn/sorg-sovn/)
 
+## Kilder og videre lesning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — drømmen som emosjonell bearbeiding, og hvorfor sorg gir så sterke drømmebilder.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på at drømmer om den man har mistet, hører til bearbeidingen snarere enn å stanse den.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at den som fyller tankene om dagen, også fyller drømmene.

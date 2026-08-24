@@ -92,3 +92,10 @@ Uansett hva forskningen lander på, inviterer drømmene oss til å bli bedre kje
 - [Drømmejournalen — slik husker du drømmene dine](/guider/drommejournalen/)
 - [Lucid drømming — slik tar du kontroll](/guider/lucid-dromming/)
 - [Mareritt — hvorfor vi har dem og hva vi kan gjøre](/guider/mareritt/)
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — ønskeoppfyllelsesteorien, og utgangspunktet for all moderne drømmetydning, også den som er uenig med ham.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — arketyper, det kollektive ubevisste og bruddet med Freud.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen og den empiriske innvendingen mot skjult symbolikk.
+- Matthew Walker, *Why We Sleep* (2017) — REM-søvnens nevrobiologi og drømmenes rolle i følelsesregulering.

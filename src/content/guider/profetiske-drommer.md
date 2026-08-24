@@ -78,3 +78,10 @@ Profetiske drømmer er et reelt fenomen i den forstand at svært mange opplever 
 Det som er sikkert er at disse drømmene fortjener å tas på alvor — ikke som varsler å frykte, men som signaler å undersøke. Begynn med å skrive dem ned, og se hva mønstrene avslører over tid.
 
 Relatert: [lucid-dromming](/guider/lucid-dromming/) — [drommejournalen](/guider/drommejournalen/) — [gjentakende-drommer](/guider/gjentakende-drommer/)
+
+## Kilder og videre lesning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor drømmer som ser ut som varsler, oftest speiler noe du allerede visste.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — drømmens kompenserende funksjon, som forklarer opplevelsen av å bli «fortalt» noe.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — den eldste bevarte systematiske drømmeboken, og selve opphavet til den profetiske lesemåten.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — hvor vanlige de fleste drømmemotiver er, og hva det betyr for sannsynligheten for treff.

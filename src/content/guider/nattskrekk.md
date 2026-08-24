@@ -134,3 +134,8 @@ Relatert: [mareritt](/guider/mareritt/) — [sovnparalyse](/guider/sovnparalyse/
 
 > 💡 **Les også fra søvnseksjonen:** [Søvnproblemer](/sovn/sovnproblemer/)
 
+## Kilder og videre lesning
+
+- Matthew Walker, *Why We Sleep* (2017) — søvnfasene, og hvorfor nattskrekk hører hjemme i dyp NREM-søvn og ikke i drømmesøvnen.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — skillet mellom mareritt og de tilstandene som bare ser ut som mareritt utenfra.
+- Norsk Helseinformatikk — [Søvnforstyrrelser hos voksne](https://nhi.no/symptomer/psyke-og-sinn/sovnforstyrrelser-hos-voksne-veiviser)

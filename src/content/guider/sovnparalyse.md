@@ -112,3 +112,9 @@ Kanskje det mest befriende med søvnparalyse er å oppdage at millioner av menne
 
 > 💡 **Les også fra søvnseksjonen:** [Søvnfaser](/sovn/sovnfaser/) · [Astralprosjeksjon og søvn](/sovn/astralprosjeksjon/)
 
+## Kilder og videre lesning
+
+- REM-atoni — muskellammelsen som normalt holder kroppen i ro under REM-søvn, og som ved søvnparalyse varer noen sekunder for lenge.
+- Matthew Walker, *Why We Sleep* (2017) — REM-søvnens fysiologi og overgangene inn og ut av den.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvorfor tilstanden gir så sterke og skremmende sanseinntrykk.
+- Norsk Helseinformatikk — [Søvnforstyrrelser hos voksne](https://nhi.no/symptomer/psyke-og-sinn/sovnforstyrrelser-hos-voksne-veiviser)

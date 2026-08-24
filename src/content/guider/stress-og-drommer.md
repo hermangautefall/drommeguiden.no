@@ -91,3 +91,9 @@ Relatert: [mareritt](/guider/mareritt/) — [drommejournalen](/guider/drommejour
 
 > 💡 **Les også fra søvnseksjonen:** [Angst og søvn](/sovn/angst-sovn/) · [Søvnhygiene](/sovn/sovnhygiene/)
 
+## Kilder og videre lesning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at det som tynger deg om dagen, følger med inn i drømmene.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir de sterkeste følelsene de sterkeste bildene.
+- Matthew Walker, *Why We Sleep* (2017) — REM-søvn, følelsesregulering og hva stress gjør med søvnkvaliteten.
+- Folkehelseinstituttet — [Søvnvansker i Folkehelserapporten](https://www.fhi.no/he/fr/folkehelserapporten/psykisk-helse/sovnvansker-folkehelserapporten/)

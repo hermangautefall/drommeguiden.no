@@ -105,3 +105,9 @@ Mareritt kan føles overveldende i øyeblikket, men de trenger ikke å styre net
 
 > 💡 **Les også fra søvnseksjonen:** [Søvnproblemer](/sovn/sovnproblemer/) · [PTSD og drømmer](/sovn/ptsd-drommer/)
 
+## Kilder og videre lesning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hovedverket om mareritt som emosjonell bearbeiding.
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: mareritt som hjernens øving på fare.
+- Matthew Walker, *Why We Sleep* (2017) — REM-søvn og følelsesregulering, og hva som skjer når den forstyrres.
+- Helsenorge — [Råd for bedre søvn](https://www.helsenorge.no/sovnproblemer/rad-for-bedre-sovn/)

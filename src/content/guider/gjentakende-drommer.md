@@ -97,3 +97,8 @@ Gjentakende drømmer er ikke straff eller feil. De er invitasjoner til å se næ
 
 > 💡 **Les også fra søvnseksjonen:** [PTSD og drømmer](/sovn/ptsd-drommer/)
 
+## Kilder og videre lesning
+
+- Tore Nielsen (Université de Montréal) — hans forskning tyder på at gjentakende drømmer kan forstås som forsøk på å integrere følelser som ikke er ferdig bearbeidet i våken tilstand.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — mareritt og gjentakelse som uttrykk for en følelse som fortsatt søker en form.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor drømmen slutter å gjenta seg når det underliggende endrer seg.
