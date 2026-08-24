@@ -24,7 +24,7 @@ Slagsmål och kamp i drömmarna är vanligare än många tror — och de handlar
 
 Den viktigaste frågan är inte vem du slåss mot — utan vad de representerar.
 
-## De vanligaste tolkningarna
+## Vem det egentligen är du slåss mot
 
 ### En inre konflikt
 
@@ -42,7 +42,7 @@ Aggression är en naturlig mänsklig känsla — men många undertrycker den. Dr
 
 Att slåss i drömmen kan också representera motstånd mot något — en situation, ett system, en kraft som pressar mot dig. Kampen är då inte aggression, utan integritet: du kämpar för något du tror på.
 
-## Vad påverkar tolkningen?
+## Utgången av kampen
 
 **Om du vann:**
 Du hanterar konflikten med framgång — du har resurserna som behövs.
@@ -62,7 +62,7 @@ En verklig spänning med den personen — eller så representerar de något du �
 **Om du slogs för att skydda någon:**
 Omsorg och skyddsinstinkt — du kämpar för något du håller kärt.
 
-## Psykologiska och kulturella perspektiv
+## Från Valhalls kamplek till skuggan i ringen
 
 I fornnordisk tradition är kamp och strid inte uteslutande negativt — einherjerna i Valhall kämpar varje dag och samlas på kvällen till fest. I besläktade drömmar kan du också uppleva att [döda](/sv/drommar/doda/) någon. Kampen är träning, den är ära, den är vem man är. Att drömma om kamp i nordisk kulturell kontext kan beröra detta arv av den värdiga stridens estetik.
 

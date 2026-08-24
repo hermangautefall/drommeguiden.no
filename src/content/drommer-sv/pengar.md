@@ -26,7 +26,7 @@ Pengar är en av de mest laddade symbolerna i det moderna livet — de represent
 
 Det överraskande är att pengadrömmarna nästan aldrig handlar om faktiska pengar. De handlar om vad pengarna representerar — och det är oftast något mycket mer personligt.
 
-## De vanligaste tolkningarna
+## Vem som har dem, och vem som är skyldig
 
 ### Din upplevelse av eget värde
 
@@ -48,7 +48,7 @@ Pengar ger makt — och i drömmarna speglar de maktförhållanden. Vem har peng
 
 I praktiken ger pengar frihet — möjligheten att välja. Att drömma om pengar, särskilt att hitta dem eller vinna dem, kan spegla en önskan om mer frihet och fler val i livet. En period där du upplever att dina möjligheter är begränsade kan ge just dessa drömmar.
 
-## Vad påverkar tolkningen?
+## Ett arv från gamla föreställningar
 
 **Om du hittade pengar:**
 Ett positivt tecken — något oväntat och värdefullt kommer din väg, eller du upptäcker resurser du inte visste att du hade.

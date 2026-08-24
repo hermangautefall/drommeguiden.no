@@ -21,7 +21,7 @@ author: 'default'
 
 Underlivet är kroppens mest skyddade och symboliskt laddade region — platsen för livets ursprung, för begär, för skapande och för den djupaste biologiska identiteten. I drömmarna bär det denna fullständiga symbolkraft.
 
-## De vanligaste tolkningarna
+## Skaparkraft, instinkt och gränser
 
 ### Skapande kraft och kreativ energi
 
@@ -45,7 +45,7 @@ Obehagliga drömmar om underliv kan spegla upplevelser av gränskränkning eller
 
 I många traditioner är underlivet centrum för den grundläggande livskraften — det fornnordiska begreppet "líf" (liv) är etymologiskt knutet till kropp och biologisk vitalitet. Att drömma om underliv är att komma i kontakt med det mest grundläggande i att vara levande.
 
-## Vad påverkar tolkningen?
+## Känslan i drömmen
 
 **Om drömmen var behaglig och naturlig:**
 Du är i god kontakt med din egen skapande kraft och sexualitet. Något i dig är i kreativ rörelse.
@@ -62,7 +62,7 @@ Se [gravid](/sv/drommar/gravid/) och [föda](/sv/drommar/foedsel/) för de mest 
 **Om det var sjukdom eller rädsla:**
 Något grundläggande i ditt liv upplevs som hotat — att kontakta läkare är alltid rätt vid fysisk oro.
 
-## Psykologiska och kulturella perspektiv
+## Det skapande som kroppslig bild
 
 Underlivet som symboliskt centrum är ett av människokulturens äldsta teman. Sheela na gig — de medeltida figurerna av kvinnor som håller fram underlivet — tolkas av många arkeologer som apotropeiska figurer: underlivet som livets och beskyddets källa, inte som något skambelagt.
 

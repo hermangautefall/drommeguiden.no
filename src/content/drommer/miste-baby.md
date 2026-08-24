@@ -67,7 +67,7 @@ For dem som har mistet et barn i virkeligheten: disse drømmene er en del av sor
 
 ## Den dypeste omsorgsfrykten
 
-Drømmeforsker Antonio Zadra ved Universitetet i Montreal dokumenterte at drømmer om å miste barn er blant de vanligste foreldrerelaterte drømmene — og at de nesten aldri følges av faktiske hendelser. De er bearbeidingsdrømmer, ikke varsler.
+Drømmer om å miste et barn er blant de vanligste drømmene foreldre rapporterer, og de er svært sjelden knyttet til noe som faktisk skjer. De hører hjemme i den kategorien Ernest Hartmann kaller emosjonell bearbeiding: psyken gir den sterkeste følelsen du bærer, det sterkeste bildet den har. Det er bearbeidingsdrømmer, ikke varsler.
 
 I mange kulturer er det tradisjon for å ikke fortelle slike drømmer høyt — av frykt for at de "kaller" det de speiler. Det er en forståelig folkepsykologisk beskyttelse. Men drømmeforskning gir ikke støtte til slike tolkninger.
 

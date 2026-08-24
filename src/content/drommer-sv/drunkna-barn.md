@@ -29,7 +29,7 @@ Det är en av de drömmar som sätter sig hårdast i kroppen. Du vaknar med hjä
 
 Drömmar om att barn drunknar är mycket vanliga hos föräldrar, och de säger ingenting om vad som kommer att hända. De säger något om vad du fruktar mest — och att frukta att förlora det du älskar högst är den naturliga konsekvensen av att älska villkorslöst.
 
-## Det viktigaste först
+## Föräldrarädslan som vaknar på natten
 
 ### Den djupaste föräldrarädslan aktiveras under sömnen
 
@@ -53,7 +53,7 @@ Det är inte ett varsel. Det är riskbedömningens naturliga nattarbete.
 
 Drömmens drunknande barn representerar då något symboliskt: ett projekt i sin tidigaste fas, en idé som inte är klar, en sårbar sida av dig själv, eller — som ofta hos dem som överväger att bli föräldrar — en bearbetning av själva frågan om föräldraskap.
 
-## Föräldrarädslan som vaknar på natten
+## Vem barnet var
 
 **Om du räddade barnet:**
 Du har de resurser som behövs. Rädslan är där, men så är också förmågan att handla.
@@ -70,9 +70,9 @@ Symboliskt — en sårbar del av dig själv som är i fara.
 **Om drömmen upprepar sig:**
 En ihållande ångest som förtjänar uppmärksamhet. Är det något i ditt liv som gör dig särskilt otrygg just nu?
 
-## Vem barnet var
+## Det sårbara vi bär ansvar för
 
-Forskaren Antonio Zadra vid Universitetet i Montreal dokumenterade att drömmar om barns olyckor är bland de vanligaste föräldrarelaterade mardrömspremisserna — och att de konsekvent saknar prediktivt värde för faktiska händelser. De är ångestdrömmar, inte spådomsdrömmar.
+Mardrömmar där något händer barnet är bland de vanligaste drömmar föräldrar berättar om. Drömforskningen har inte funnit stöd för att sådana drömmar förutsäger någonting — de följer tvärtom det mönster Ernest Hartmann beskriver för mardrömmar i allmänhet: psyket bearbetar starka känslor genom att ge dem den kraftigaste bild det har. Det är ångestdrömmar, inte förebud.
 
 Det fornnordiska begreppet "hamingja" — den beskyddande lyckoande som följde en släkt — är i detta sammanhang intressant: en del av föräldraansvaret var att skydda barnets hamingja. Drömmens rädsla för att förlora barnet är kanske en modern version av denna urgamla beskyddarimpuls.
 

@@ -65,7 +65,7 @@ Drömmens ensamhet kan ibland beröra detta djupare lager — inte som ett probl
 
 ## Ensamhet som hälsofaktor
 
-Forskaren John Cacioppo dokumenterade att ensamhet är en av de kraftigaste hälsohoten vi känner — mer skadlig än fetma och jämförbar med rökning. Det är för att vi är flockvarelser ner till det primära: avskärningen från flocken är livshotande på biologisk nivå.
+Ensamhet är inte bara en obehaglig känsla. Forskning på social isolering har kopplat den till verklig hälsorisk, i nivå med andra stora livsstilsfaktorer. Biologiskt är det begripligt: människan är en flockvarelse, och genom hela vår historia har det varit farligt att skiljas från flocken. Kroppen reagerar på ensamhet ungefär som den reagerar på ett hot — och då är det inte konstigt att känslan också hittar in i drömmarna.
 
 Drömmens ensamhet aktiverar detta urgamla system. Det är inte svaghet att drömma om ensamhet — det är biologi som påminner dig om vad du behöver.
 

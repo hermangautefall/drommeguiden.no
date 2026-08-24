@@ -40,7 +40,7 @@ Søvnen ser ut til å spille en aktiv rolle i begge retningene av denne pendling
 
 Under søvn — særlig under REM-søvnen — bearbeides emosjonelle minner i et fysiologisk miljø med reduserte stresshormoner. Det er den samme mekanismen som gjør REM-søvnen til "terapi om natten" for angst. For sorg betyr det at hjernen gradvis prosesserer tapet, gir det en plass i minnestrukturen og reduserer den akutte emosjonelle ladningen.
 
-Rosalind Cartwright dokumenterte dette mekanismene hos skilsmissepatienter: de som drømte om eks-partneren i de første månedene — inkludert direkte, intense drømmer — hadde bedre psykologiske utfall et år senere. Å drømme om den tapte er ikke en stagnasjon i sorgen. Det er sorgen som arbeider.
+Rosalind Cartwright dokumenterte disse mekanismene hos skilsmissepasienter: de som drømte om eks-partneren i de første månedene — inkludert direkte, intense drømmer — hadde bedre psykologiske utfall et år senere. Å drømme om den tapte er ikke en stagnasjon i sorgen. Det er sorgen som arbeider.
 
 ## Drømmene i sorgtiden
 

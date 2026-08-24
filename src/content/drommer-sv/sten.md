@@ -23,7 +23,7 @@ Stenen är tidens trofasta — den ändras inte under en människoålder, den fi
 
 Drömmar om sten dyker ofta upp i perioder då något i ditt liv antingen behöver en grund, eller då något blivit för tungt och fastlåst för att röra sig fritt.
 
-## De vanligaste tolkningarna
+## Tyngden och det beständiga
 
 ### Beständighet och varaktighet
 
@@ -45,7 +45,7 @@ I nästan alla kulturer har bestämda stenar varit heliga — markörer för nå
 
 Många ädelstenar börjar som obearbetade stenar. Drömmens sten kan representera något värdefullt dolt i det grova — en talang du inte sett, en gåva du inte öppnat, eller en hård erfarenhet som innehåller något värt att hämta ut.
 
-## Vad påverkar tolkningen?
+## Om stenen lät sig flyttas
 
 **Om stenen var slät och vacker:**
 En naturlig och harmonisk fasthet — något solidt och rent.
@@ -71,7 +71,7 @@ Ett budskap från det förflutna eller från något utanför dig — något som 
 **Om stenen krossades eller smulades:**
 Det du trodde var varaktigt är inte det. En antagande måste revideras.
 
-## Psykologiska och kulturella perspektiv
+## Stenen som varaktighetens bild
 
 Stenen är ett av drömsymbolikens djupaste lager — ingen annan ting har burit så mycket helighet över så många kulturer i så lång tid.
 

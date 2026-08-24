@@ -22,7 +22,7 @@ Det är något med snön som träffar djupt i den nordiska psyken — ljudet den
 
 Men snö i drömmarna är inte alltid varm och trygg. Den kan också frysa, isolera och täcka över något som borde varit synligt.
 
-## De vanligaste tolkningarna
+## Tystnaden och det blanka arket
 
 ### Rening, vila och ett blankt papper
 
@@ -46,7 +46,7 @@ Drömmen kan fråga: är det något i ditt liv som behöver tinas upp? Ett samta
 
 Tjock snö kan stänga inne — vägarna stängs, man kommer sig inte fram, världen utanför försvinner. Drömmar om att vara insnöad eller inte komma sig ut i snöväder kan spegla en känsla av isolering, av att vara avskuren från andra, av att omständigheterna begränsar din rörelsefrihet.
 
-## Vad påverkar tolkningen?
+## Om snön var vacker eller kall
 
 **Om snön var ren och ljus:**
 Rening, ny början och lugn. En av de mer positiva natursymbolerna i drömvärlden.

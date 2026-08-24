@@ -64,7 +64,7 @@ Drømmens ensomhet kan tidvis berøre dette dypere laget — ikke som et problem
 
 ## Ensomhet som helsefaktor
 
-Forsker John Cacioppo dokumenterte at ensomhet er en av de kraftigste helsetruslene vi kjenner — mer skadelig enn fedme og sammenlignbar med røyking. Det er fordi vi er flokkligner til det primære: avskjæringen fra flokken er livstruende på biologisk nivå.
+Ensomhet er ikke bare en vond følelse. Forskning på sosial isolasjon har koblet den til reell helserisiko, på linje med andre store livsstilsfaktorer. Biologisk gir det mening: mennesket er en flokkart, og gjennom hele vår historie har det å bli skilt fra flokken vært farlig. Kroppen reagerer på ensomhet omtrent som den reagerer på en trussel — og da er det ikke rart at følelsen også finner veien inn i drømmene.
 
 Drømmens ensomhet aktiverer dette urgamle systemet. Det er ikke svakhet å drømme om ensomhet — det er biologi som minner deg på hva du trenger.
 

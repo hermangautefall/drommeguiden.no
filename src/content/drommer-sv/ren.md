@@ -21,7 +21,7 @@ author: 'default'
 
 Renen lever där nästan ingenting annat lever — på vidderna, i kylan, i snöstormen. Den vandrar i flock över enorma avstånd, alltid i rörelse, alltid i pakt med en natur som inte ger sig. Det är ett av Nordens mest särpräglade och vackraste djur, och det bär på en kultur som är tusentals år gammal.
 
-## De vanligaste tolkningarna
+## Frihet, uthållighet och arv
 
 ### Frihet och den nomadiska kraften
 
@@ -35,7 +35,7 @@ Renen överlever där människor inte kan — den gräver fram mat under [snön]
 
 Renen är oupplösligt knuten till samisk kultur och historia — den är själva grunden för det samiska livet i Sápmi. Att drömma om ren är att drömma om något av den äldsta levande kulturen i Norden, om en visdom som är djupt förankrad i naturens rytmer.
 
-## Vad påverkar tolkningen?
+## Flocken eller det enda djuret
 
 **Om renflocken vandrade fritt:**
 En naturlig och befriande rörelse — något är i sin rätta rytm.
@@ -52,7 +52,7 @@ Något vilt och fritt undandrar sig ditt grepp — det kan inte fångas.
 **Om du reste med renflocken:**
 Du är en del av en rörelse som är större än dig själv — en flock, ett arv, en riktning.
 
-## Psykologiska och kulturella perspektiv
+## Renen i samisk kultur
 
 I samisk schamanism är renen ett av de viktigaste kraftdjuren — noajden (schamanen) reser på renens rygg till andra världar. Renen är bron mellan den mänskliga världen och de andliga.
 

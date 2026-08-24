@@ -21,7 +21,7 @@ author: 'default'
 
 Trädgården är naturen kultiverad — den vilda världen inbringad i en ram av mänsklig avsikt och omsorg. I drömvärlden är den en av de mest positiva och rika symbolerna: en plats där något har vuxit genom tålmodigt skötsel, där skönhet är odlad fram, där det inre livet har funnit form.
 
-## De vanligaste tolkningarna
+## Det du sköter och låter gro
 
 ### Ditt odlade inre liv
 
@@ -35,7 +35,7 @@ Trädgården växer bara med skötsel — och drömmens trädgård handlar om va
 
 Trädgården är i många kulturer den heliga fristaden — Eden, Getsemane, haiku-trädgården. Drömmens trädgård kan representera ett inre rum för ro, skönhet och fördjupning: en plats där du kan andas.
 
-## Vad påverkar tolkningen?
+## Trädgårdens skick och årstid
 
 **Om trädgården var frodig och vacker:**
 Rikt och välfungerande inre liv. Något frodas.

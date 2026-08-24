@@ -27,7 +27,7 @@ Vargen är ett djur som väcker starka känslor — beundran, rädsla, fascinati
 
 ---
 
-## De vanligaste tolkningarna
+## Flocken: lojalitet och tillhörighet
 
 ### Instinkt och den vilda naturen i dig
 
@@ -55,7 +55,7 @@ Drömmar där vargen attackerar kan ha gemensamma drag med drömmar om att [fall
 
 ---
 
-## Vad påverkar tolkningen?
+## Enstöringen
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

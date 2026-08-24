@@ -23,7 +23,7 @@ Telefonen är idag ett av de mest personliga föremålen vi äger — den är ko
 
 Det är sällan själva apparaten drömmarna handlar om. Det är vad den representerar.
 
-## De vanligaste tolkningarna
+## När linjen inte går fram
 
 ### Kommunikation och anknytning
 
@@ -37,7 +37,7 @@ Att förlora telefonen är ett av de vanligaste drömscenarierna, och speglar en
 
 Att försöka ringa någon men inte få det att fungera, att höra en telefon ringa utan att nå den — dessa varianter kan spegla något du önskar kommunicera men inte gjort. Ett samtal som inte ägt rum, ett budskap som inte sänts.
 
-## Vad påverkar tolkningen?
+## Rädslan för att hamna utanför
 
 **Om du förlorade telefonen:**
 En rädsla att förlora anknytning, identitet eller överblick. Sårbarhet i mötet med världen utan ditt viktigaste verktyg.

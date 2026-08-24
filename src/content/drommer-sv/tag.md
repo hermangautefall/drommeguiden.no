@@ -23,7 +23,7 @@ Tåget är en av de mest klassiska ressymbolerna i drömvärlden — och till sk
 
 Tågdrömmarna placerar dig på en [resa](/sv/drommar/utlandet/) — och frågan drömmen ställer är ofta: är du på rätt tåg?
 
-## De vanligaste tolkningarna
+## Att vara på rätt spår — eller inte
 
 ### Livsriktning och om du är på rätt spår
 
@@ -37,7 +37,7 @@ En av de allra vanligaste varianterna — du springer men hinner inte, du ser de
 
 Eftersom tåget går på räls och du är passagerare, kan drömmar om tåg spegla en känsla av att inte ha kontroll över livets riktning — att saker händer dig snarare än att du väljer dem aktivt. Du är med på något, men du styr inte.
 
-## Vad påverkar tolkningen?
+## Om du hann med tåget
 
 **Om du hann tåget:**
 Du är i takt med livet och dina mål. Saker går som planerat.

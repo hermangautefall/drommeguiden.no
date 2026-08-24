@@ -21,7 +21,7 @@ author: 'default'
 
 Det är en av de drömmar män minst ofta talar om — och en av de mest meningsfulla. En man som bär ett barn i drömmen är inget konstigt eller störande. Det är en av drömmens mest universella bilder för något nytt som håller på att växa fram i dig.
 
-## De vanligaste tolkningarna
+## Något som mognar inifrån
 
 ### Ett kreativt projekt som mognar
 
@@ -45,9 +45,9 @@ Drömmen kan spegla att du är i en djup personlig förändringsprocess som änn
 
 ### För partner till gravida kvinnor
 
-Män med gravida partner drömmer oftare om att själva vara gravida. Forskaren Alan Siegel dokumenterade att blivande fäder hade ökad förekomst av graviditets- och födelseteman i drömmarna — och att män i tidig graviditetsperiod hade ett särskilt högt antal sexuella drömmar. Det är psyket som bearbetar en stor livsförändring.
+Män med gravida partner berättar ofta om drömmar där de själva är gravida, eller där förlossning och små barn dyker upp i bilder de inte känner igen sedan tidigare. Det stämmer väl med det Domhoff kallar kontinuitetshypotesen: drömmarna speglar i hög grad det som upptar oss i vaket tillstånd. En stor livsförändring behöver inte ha inträffat än för att prägla nätterna — det räcker att den är på väg.
 
-## Vad påverkar tolkningen?
+## Hur graviditeten kändes
 
 **Om graviditeten kändes som något gott och förväntat:**
 En positiv skapandeprocess är igång. Något önskat växer.
@@ -64,7 +64,7 @@ Något är redo att manifesteras — ett beslut, en lansering, en avklaring.
 **Om graviditeten var oönskad:**
 Något växer i ditt liv som du inte önskade eller bjöd in — ett åtagande, ett ansvar eller ett problem som kommit av sig själv.
 
-## Psykologiska och kulturella perspektiv
+## Skaparlängtan bortom kön
 
 Jung skulle ha sett graviditetsdrömmen hos män som en aktivering av den feminina sidan av psyket — inte som femininitet i sociologisk mening, utan som den skapande, inåtvända, närande energin han kallade "eros". Att drömma om att bära ett barn är att ta kontakt med denna energi.
 

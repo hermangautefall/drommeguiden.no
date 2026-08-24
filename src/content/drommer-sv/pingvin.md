@@ -23,7 +23,7 @@ Pingvinen är ett av de mest säregna djuren på jorden — en fågel som inte k
 
 Att drömma om pingvin är sällan en skrämmande dröm — men den är gärna meningsfull.
 
-## De vanligaste tolkningarna
+## Kyla, kolonier och att sticka ut
 
 ### Anpassningsförmåga i kalla omgivningar
 
@@ -37,7 +37,7 @@ Pingviner lever i stora kolonier och är kända för sin parvisa lojalitet. Att 
 
 En pingvin är en fågel som inte kan [flyga](/sv/drommar/flyga/) — vilket gör den unik, men också annorlunda. Drömmen kan spegla en känsla av att vara lite vid sidan av normen, att inte passa helt in, eller att ha förmågor som inte värdesätts i den miljö du befinner dig i.
 
-## Vad påverkar tolkningen?
+## Ensam, i flock, eller i sitt rätta element
 
 **Om pingvinen är ensam:**
 Ensamhet eller utanförskap. En önskan om tillhörighet.
@@ -51,7 +51,7 @@ En påminnelse om att inte ta livet för allvarligt. Lätt och lekfull energi.
 **Om pingvinen simmar elegant:**
 Du är i ditt rätta element — kanske inte där andra förväntar sig, men perfekt där du är.
 
-## Psykologiska och kulturella perspektiv
+## En symbol utan gammal mytologi
 
 Pingvinen har ingen gammal mytologisk tradition — den blev inte känd för européer förrän på 1400-talet. Men i modern populärkultur har den blivit en symbol för det charmigt klumpiga, det lojala och det överraskande starka. Psykologiskt sett kan pingvinen representera de sidor av oss som inte passar in i standardmallen, men som ändå hittar sin väg.
 

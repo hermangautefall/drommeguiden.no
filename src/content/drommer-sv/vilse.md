@@ -26,7 +26,7 @@ Att vandra runt utan att hitta vägen, att inte känna igen omgivningen, att vet
 
 Och det är just där tolkningen börjar: vad är det du inte hittar vägen till?
 
-## De vanligaste tolkningarna
+## Där kartan slutar stämma
 
 ### Brist på riktning och livskompass
 
@@ -48,7 +48,7 @@ I jungiansk psykologi är att gå vilse i drömmen ibland ett tecken på att du 
 
 Ibland är vilse-drömmen mer praktisk: för många vägar, för många krav, för många hänsyn. En situation där allt är oöverskådligt och du inte vet vad du ska prioritera. Inte en existentiell förlorad känsla, utan en mer vardaglig överväldigande.
 
-## Vad påverkar tolkningen?
+## Var du gick vilse, och om du fann vägen
 
 **Om du var vilse i en stad eller byggnad:**
 Sociala och strukturella omgivningar som känns oöverskådliga — jobb, system, relationer som inte ger mening.
@@ -68,7 +68,7 @@ En varaktig och olöst förvirring. Något behöver klaras ut innan du kan gå v
 **Om du hittade vägen till slut:**
 Lösning är inom räckhåll. Din orienteringsförmåga är bättre än ångesten vill göra gällande.
 
-## Psykologiska och kulturella perspektiv
+## Dantes mörka skog och Jungs individuation
 
 Att gå vilse är en av de äldsta mänskliga symbolerna för existentiell förvirring — från Dantes "mitt i livets vandring befann jag mig i en mörk skog" till den moderna psykologins kartmetaforer för identitet och riktning.
 

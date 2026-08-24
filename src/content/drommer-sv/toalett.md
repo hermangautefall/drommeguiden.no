@@ -45,7 +45,7 @@ Toaletten är kulturellt sett det mest privata rummet vi har — och drömmarna 
 
 En toalett som inte fungerar, som är smutsig, eller som är omöjlig att använda, är en vanlig bild av en situation där något inte fungerar som det ska — där pressen byggs upp utan utlopp. En situation där du inte kan leverera det som förväntas.
 
-### Vad påverkar tolkningen?
+### Låst dörr, smutsigt eller inget avskilt alls
 
 **Om du inte hittade en toalett:**
 Något du behöver släppa har inte funnit en arena — du bär på något som inte fått uttryck.
@@ -62,11 +62,11 @@ Bristande kontroll över något — en situation där saker bara händer utan at
 **Om toaletten var ren och tillgänglig:**
 Du har tillgång till det du behöver för att släppa. Lösningen är tillgänglig.
 
-## Psykologiskt perspektiv
+## Utlösning, privatliv och gränser
 
 Freud — naturligtvis — hade mycket att säga om toalettsymbolik. Han knöt det till det anala stadiet i psykosexualitet och till frågor om kontroll och släppande: vem bestämmer, och vad håller vi fast vid kontra vad släpper vi taget om? I ett mer pragmatiskt perspektiv representerar toalettdrömmarna det mest grundläggande mänskliga behovet att bearbeta och eliminera det som inte längre är användbart.
 
-## Kulturell och symbolisk betydelse
+## Det kroppsliga vi inte talar om
 
 Intressant nog är toalettdrömmarna universellt vanliga över olika kulturer — de är dokumenterade i drömstudier världen över som en av de mest frekventa drömkategorierna. Oavsett kultur är behovet att släppa taget djupt mänskligt.
 

@@ -39,7 +39,7 @@ I Jungs husmodell är de övre våningarna knutna till medvetande, intellekt och
 
 Vinden är där skatterna är — mormors gamla möbler, barndomsbilder, saker som har sentimentalt värde men inte praktisk plats. Drömmens vind kan representera något värdefullt du har glömt att ta hand om: en förmåga, en relation, en del av dig själv.
 
-### Vad påverkar tolkningen?
+### Dammet, lådorna och det du hittade där uppe
 
 **Om vinden var full av saker:**
 Ett rikt arkiv — många delar av det förflutna är lagrade och väntar.
@@ -59,11 +59,11 @@ Klar tillgång till förflutet och högre tanke. Inget är dolt.
 **Om vinden var mörk och dammig:**
 Något har länge inte tänkts på, och det börjar försvinna.
 
-## Psykologiskt perspektiv
+## Vinden i husets inre arkitektur
 
 Jung beskrev huset i drömmarna som en av de viktigaste arketypiska symbolerna, och placerade explicit de olika våningarna i en psykologisk hierarki: källaren som det omedvetna, första våningen som vardagsmedvetandet, och de övre våningarna — inklusive vinden — som det medvetna intellektet och den andliga dimensionen.
 
-## Kulturell och symbolisk betydelse
+## Minnena vi sparar
 
 I nordisk huskultur är vinden historiskt sett ett speciellt rum: på de gamla torparplatserna och gårdshusen var vinden gärna där flickorna sov, och den hade en viss mystik och privatliv. Att drömma om en nordisk vind berör detta kulturella arv av det halvprivata, det mellan-rumsliga.
 

@@ -21,7 +21,7 @@ author: 'default'
 
 Sociala medier är den mest sofistikerade personamaskin som vår moderna tid har skapat — en plats där du konstruerar dig själv för en publik, väljer vad som visas, och får bekräftelse i form av likes och kommentarer. I drömmarna speglar det allt detta: vem du är, vem du vill framstå som, och behovet av att bli sedd.
 
-## De vanligaste tolkningarna
+## Masken, bekräftelsen och jämförelsen
 
 ### Persona och masken du bär
 
@@ -43,7 +43,7 @@ Sociala medier är ett perfekt jämförelseverktyg — och vi använder det. Dr�
 
 Ibland handlar drömmens sociala medier inte om det som visas, utan om det som inte visas — livets råmaterial, det ofullkomliga, det äkta. Drömmen ställer kanske frågan: vad håller du utanför bilden?
 
-## Vad påverkar tolkningen?
+## Vad du gjorde på skärmen
 
 **Om du fick många likes:** En önskan om bekräftelse som drömmens psyke infriar — vad behöver du bli sedd för?
 
@@ -55,7 +55,7 @@ Ibland handlar drömmens sociala medier inte om det som visas, utan om det som i
 
 **Om du raderade profilen:** En önskan om att slippa rollen och presentationspressen — att vara utan en publik.
 
-## Psykologiska och kulturella perspektiv
+## Persona i digital form
 
 Sociala medier som drömsymbol är ännu nyare än [internet](/sv/drommar/internett/) generellt — och växer snabbt. Det är förenligt med det vi vet om hur drömmarna speglar vardagslivets starkaste symboler: där telefonen och TV:n dominerade förra generationens drömmar, dominerar Instagram och TikTok nu.
 

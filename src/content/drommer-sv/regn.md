@@ -24,7 +24,7 @@ Regn är något de flesta av oss har ett nära förhållande till — särskilt 
 
 ---
 
-## De vanligaste tolkningarna
+## Tårar, rening och det som får falla
 
 ### Känslomässig utlösning och rening
 
@@ -52,7 +52,7 @@ Drömmar om regn i en [skog](/sv/drommar/skog/) kan förstärka denna tillväxtt
 
 ---
 
-## Vad påverkar tolkningen?
+## Växt efter torka
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

@@ -60,7 +60,7 @@ Et tema psyken ønsker å arbeide med. Hva handler de om emosjonelt, utover det 
 
 ## Hva forskningen sier om seksuelle drømmer
 
-Forsker William Domhoff ved University of California dokumenterte at seksuelle drømmer om eget kjønn er svært vanlige uavhengig av seksuell orientering — og konsistent tolket som symboler for selvintegrasjon og nærhet, ikke seksuelle ønsker.
+Seksuelle drømmer om eget kjønn er vanlige, uavhengig av hvem man er tiltrukket av i våken tilstand. Innholdsanalyser av store drømmesamlinger — tradisjonen etter Hall og Van de Castle — viser at det seksuelle innholdet i drømmer er langt mer sammensatt enn folks våkne selvbilde skulle tilsi. Drømmen sier med andre ord lite sikkert om orientering, og mer om at den låner kroppens språk for å snakke om nærhet, tilhørighet og sider ved deg selv.
 
 Det er interessant at mange ikke-vestlige kulturer og urfolkstradisjonar — inkludert norrøn sjamanisme — har hatt rom for "to-ånder" og kjønnsmessig fleksibilitet i visjonære tilstander. Det visjonære eller drømmende selvet er gjerne mer flytende enn det sosialt konstruerte.
 

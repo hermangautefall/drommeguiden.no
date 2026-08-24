@@ -70,7 +70,7 @@ En person som berättar om egna drömmar där de är otrogna är sällan på vä
 
 ## Projektion och tillit
 
-Forskaren Kelly Bulkeley dokumenterade att otrohetsmotiv hör till de vanligast förekommande i parrelationers drömmar globalt — och att korrelationen med faktisk otrohet är svag. Det är otryggheten, inte misstanken, som driver dem.
+Otrohet är ett av de motiv som återkommer i drömmar om parrelationer, tvärs över kulturer — och sambandet med faktisk otrohet är svagt. Det är otryggheten, inte misstanken, som driver dem: drömmen tar tag i den känsla som redan finns där och ger den den mest närgångna form den kan hitta.
 
 Jung beskrev svartsjukan som ett av de mest komplexa psykologiska tillstånden: den innehåller begär, rädsla, självbild och projektion på en gång. Drömmens otrohetsscenario är ett av svartsjukans bildspråk — även i frånvaro av faktiskt hot.
 

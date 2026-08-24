@@ -24,7 +24,7 @@ Spegeln har fascinerat människor i årtusenden — från myter om Narcissus til
 
 ---
 
-## De vanligaste tolkningarna
+## Ett främmande ansikte speglar tillbaka
 
 ### Självbild och självuppfattning
 
@@ -52,7 +52,7 @@ Drömmar där spegeln är krossad eller sprucken förstärker tematiken kring id
 
 ---
 
-## Vad påverkar tolkningen?
+## Sprickor och dimma i bilden
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

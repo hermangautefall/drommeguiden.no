@@ -25,7 +25,7 @@ Att drömma om ett sjukhus kan väcka många olika känslor — från oro och å
 
 ---
 
-## De vanligaste tolkningarna
+## Behovet av att bli omhändertagen
 
 ### Läkning och inre reparation
 
@@ -53,7 +53,7 @@ Denna tolkning är särskilt relevant om drömmen har en prägel av brådska ell
 
 ---
 
-## Vad påverkar tolkningen?
+## Om du var patient eller besökare
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 
@@ -71,7 +71,7 @@ Kan spegla en känsla av att hjälpen du behöver inte finns, eller att du har f
 
 ---
 
-## Psykologiska och kulturella perspektiv
+## Sjukhuset som plats för övergång
 
 Carl Jung betraktade läkningssymboler i drömmar som uttryck för psykets självreglerande förmåga — en inbyggd mekanism som arbetar för att återupprätta balans. Sjukhuset i drömmar kan i jungiansk mening ses som en plats där psyket utför sitt eget reparationsarbete, ofta utan att vi är medvetna om det.
 

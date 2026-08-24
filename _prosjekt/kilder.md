@@ -25,6 +25,11 @@ der de er genuint relevante for symbolet. Bedre med 2 riktige kilder enn
 - Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) —
   mareritt, følelsesmessig bearbeiding.
 - Matthew Walker, *Why We Sleep* (2017) — REM-søvn, følelsesregulering.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — drømmer om
+  eks-partner under skilsmisse og sammenhengen med bedring. Bruk hedget
+  formulering («hennes forskning tyder på»), aldri som flat faktapåstand.
+- Tore Nielsen (Université de Montréal) — gjentakende drømmer og mareritt
+  som emosjonell integrasjon. Samme hedging-krav.
 
 ## Fysiologi (kun der det er dekning)
 - Hypnagogisk rykning («hypnic jerk») ved innsovning — falledrømmer.
@@ -37,3 +42,9 @@ der de er genuint relevante for symbolet. Bedre med 2 riktige kilder enn
    det er en offentlig helsekilde vi allerede lenker til andre steder.
 4. Kildeseksjonen skal hete «## Kilder og videre lesning».
 5. 2–4 kilder per artikkel. Ikke fyll opp.
+
+### Navngitte forskere
+Aldri knytt en navngitt, levende forsker til et konkret funn eller tall som
+ikke står i listen over. Feilattribuering er verre enn ingen kilde: den ser
+etterprøvbar ut og faller fra hverandre ved første kontroll. Er du usikker,
+skriv påstanden uten navn — eller la den stå igjen.

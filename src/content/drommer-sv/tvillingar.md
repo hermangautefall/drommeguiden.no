@@ -21,7 +21,7 @@ author: 'default'
 
 Tvillingar är i sig en av naturens mysterier — två separata varelser som uppstår från ett. I drömmens bildspråk är de en av de renaste symbolerna för inre dubbelhet: det som är två och ett samtidigt.
 
-## De vanligaste tolkningarna
+## Två sidor av samma jag
 
 ### Två sidor av dig själv i konflikt eller samexistens
 
@@ -45,7 +45,7 @@ Att drömma om tvillingar som är olika kan spegla en medvetenhet: båda sidor �
 
 För dem som är i en kreativ eller skapande fas kan tvillingar symbolisera att det som är under utveckling är rikare och mer sammansatt än planerat — två idéer i stället för en, två möjligheter som växer parallellt.
 
-## Vad påverkar tolkningen?
+## Om de var lika eller olika
 
 **Om tvillingarna var identiska:**
 Två sidor som är svåra att skilja — något i dig är splittrat men inte olikt. Vad är det dubbla?
@@ -62,7 +62,7 @@ En sida av dig behöver omsorg. Den starka och den svaga sidan av något exister
 **Om du var glad för båda:**
 Ett positivt tecken på utrymme — du kan rymma komplexiteten i dig själv.
 
-## Psykologiska och kulturella perspektiv
+## Det dubbla i psykologin
 
 Tvillingar bär en särskild mytologisk laddning i nästan alla kulturer. Romulus och Remus — Roms grundare, en dödade den andra. Castor och Pollux — en dödlig, en gudomlig, och ändå oskiljaktiga. Horus och Set i egyptisk mytologi — ordning och kaos som tvillingkrafter.
 

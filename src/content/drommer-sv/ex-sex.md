@@ -70,7 +70,7 @@ Ett emotionellt tema som inte är färdigbearbetat. Vad sades aldrig mellan er?
 
 ## Varför gamla relationer dyker upp igen
 
-Forskaren Rosalind Cartwright dokumenterade att sörjande efter skilsmässa som drömde om expartnern hade bättre psykologiska utfall ett år senare än de som inte drömde om dem. Drömmarna om exet är inte stagnation — de är bearbetningen i arbete.
+Drömforskningen har länge intresserat sig för vad som händer i drömmarna hos människor som går igenom en separation. Ett återkommande intryck är att exet dyker upp långt efter att förhållandet är slut — inte som ett tecken på att något har stannat av, utan som en del av bearbetningen. Så som Ernest Hartmann beskriver det ger psyket de starkaste känslorna de starkaste bilderna, och ett uppbrott hör till det starkaste en människa kan bära.
 
 Jung skulle ha sett expartnern som en animafigur (för män) eller animusfigur (för kvinnor) — en inre representation av det andra könets egenskaper, projicerad ut på en extern person. Att drömma sexuellt om dem är då att närma sig dessa egenskaper i sig själv.
 

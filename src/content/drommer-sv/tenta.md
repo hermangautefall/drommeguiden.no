@@ -26,7 +26,7 @@ Tentadrömmen är en av de mest igenkännbara drömmarna som finns — och den k
 
 Det är inte skolan drömmarna handlar om. Det är något annat.
 
-## De vanligaste tolkningarna
+## Vad tentan egentligen står för
 
 ### Du känner dig testad och bedömd
 
@@ -42,7 +42,7 @@ En mycket vanlig variant är att du i drömmen vet att du inte har förberett di
 
 Tentadrömmar är mycket vanliga i stressperioder. Hjärnan hämtar fram den starkaste bilden på tryck och tidsfrister den känner till — besläktat med drömmar om [att komma för sent](/sv/drommar/forsenad/) — och använder det för att ge form åt en diffus belastning. Drömmen är då inte ett symboliskt meddelande om något specifikt — den är en temperaturmätare som säger: det är för mycket på en gång just nu.
 
-## Vad påverkar tolkningen?
+## Om du var förberedd, och vad som prövades
 
 **Om du inte hade förberett dig:**
 Den klassiska varianten — speglar en rädsla för att inte räcka till, inte behärska, inte vara bra nog.

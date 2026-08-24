@@ -22,7 +22,7 @@ author: 'default'
 
 Tornados är storm i sin mest koncentrerade och destruktiva form — en roterande kraft som river upp allt på sin väg och lämnar en smal remsa av total förstörelse. I drömvärlden är det en av de starkaste bilderna av kaos och förlust av kontroll.
 
-## De vanligaste tolkningarna
+## Kraften som rycker upp med roten
 
 ### En överväldigande kraft ur kontroll
 
@@ -36,7 +36,7 @@ Tornados är selektiva — de förstör något fullständigt och låter något a
 
 Tornados roterar — och i drömmarna kan denna rotation spegla en spiral av tankar och känslor som inte finner ro. Ångest, grubbel, ett inre tillstånd av ständig rotation utan framsteg. Drömmar om [storm](/sv/drommar/storm/) handlar om liknande kaos, men i bredare form.
 
-## Vad påverkar tolkningen?
+## Om du kom i skydd
 
 **Om du betraktade tornadon från avstånd:**
 Du ser kaoset men är inte mitt i det. Medvetenhet om en hotande kraft.

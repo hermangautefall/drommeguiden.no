@@ -22,7 +22,7 @@ author: 'default'
 
 Att drömma om överfall — där någon angriper dig fysiskt, hotar dig eller kränker din integritet — är ett av de mest emotionellt intensiva drömscenarierna vi känner till. Det lämnar en med en tydlig och svår känsla. Och det bär gärna på ett viktigt budskap.
 
-## De vanligaste tolkningarna
+## Vad överfallet i drömmen egentligen angriper
 
 ### Något kränker dina gränser i verkligheten
 
@@ -46,7 +46,7 @@ För dem med PTSD är överfallsdrömmar särskilt vanliga och kan kräva profes
 
 Ibland är överfallet inte en yttre kraft, utan en inre: det är självkritiken som angriper, skammen som överväldigar, den inre rösten som säger att du inte duger. Drömmens angripare är då en del av dig själv — och frågan är inte vad du försvarar dig mot, utan vad du angriper dig själv med.
 
-## Vad påverkar tolkningen?
+## Angreppet, försvaret och vem som stod vid din sida
 
 **Om du försvarade dig:**
 Du har resurser och mod att stå emot det som hotar dig.

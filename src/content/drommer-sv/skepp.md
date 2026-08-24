@@ -21,7 +21,7 @@ author: 'default'
 
 Skeppet är havets mästerverk — människornas svar på havets oändlighet. Det bär, det navigerar, det ger trygghet mitt i det mest ostabila av alla element. I drömvärlden är skeppet en av de mäktigaste symbolerna för livets resa genom det emotionella och omedvetna havet.
 
-## De vanligaste tolkningarna
+## Resan över det djupa
 
 ### Livsresan genom det djupa
 
@@ -35,7 +35,7 @@ Skeppet är konstruerat för att bära — last, passagerare, det som behövs f�
 
 Skepp är sällan ensamma — de har besättning och passagerare. Drömmens skepp kan handla om en gemenskap du är en del av, en grupp som navigerar något svårt tillsammans.
 
-## Vad påverkar tolkningen?
+## Sjöns tillstånd och vem som styrde
 
 **Om skeppet seglade stadigt:**
 Du navigerar de stora sakerna i livet med styrka och riktning.
@@ -55,7 +55,7 @@ En särpräglat nordisk drömfigur — mod, äventyr och resan mot det okända. 
 **Om du stod och såg skeppet dra iväg:**
 Något drar bort från dig — en möjlighet, en fas, en relation du inte är med på.
 
-## Psykologiska och kulturella perspektiv
+## Skeppet som livsfarkost
 
 För nordbor är skeppet inte en främmande symbol — det är identitetens kärna. Vikingatidens skepp var teknologins underverk och rörelsefrihetens instrument. Skeppet som korsar en [bro](/sv/drommar/bro/) är en särskilt kraftfull bild. Det fornnordiska begreppet "långskepp" är inte bara ett fartyg — det är ett löfte om horisont.
 

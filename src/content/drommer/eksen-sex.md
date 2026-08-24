@@ -69,7 +69,7 @@ Et emosjonelt tema som ikke er ferdig bearbeidet. Hva ble aldri sagt mellom dere
 
 ## Hvorfor gamle relasjoner dukker opp igjen
 
-Forsker Rosalind Cartwright dokumenterte at sørgende etter skilsmisse som drømte om ex-partneren hadde bedre psykologiske utfall ett år senere enn de som ikke drømte om dem. Drømmene om eks er ikke stagnasjon — de er bearbeidingen i arbeid.
+Drømmeforskningen har lenge interessert seg for hva som skjer i drømmene til folk som går gjennom et samlivsbrudd. Et gjennomgående inntrykk er at eksen dukker opp lenge etter at forholdet er over — ikke som et tegn på at noe har stoppet opp, men som en del av bearbeidingen. Slik Ernest Hartmann beskriver det, gir psyken de sterkeste følelsene de sterkeste bildene, og et brudd hører til blant de sterkeste følelsene et menneske kan bære.
 
 Jung ville ha sett eks-partneren som en animafigur (for menn) eller animusfigur (for kvinner) — en indre representasjon av det andre kjønnets egenskaper, projisert ut på en ekstern person. Å drømme seksuelt om dem er da å nærme seg disse egenskapene i seg selv.
 

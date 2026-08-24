@@ -44,7 +44,7 @@ Drømmen kan speile at du er i en dyp personlig endringsprosess som ennå ikke e
 
 ### For partnere til gravide kvinner
 
-Menn med gravide partnere drømmer hyppigere om å selv være gravide. Forsker Alan Siegel dokumenterte at kommende fedre hadde økt forekomst av graviditets- og fødselstemaer i drømmene — og at menn i tidlig svangerskapsperiode hadde et særlig høyt antall seksuelle drømmer. Det er psyken som bearbeider en stor livsendring.
+Menn med gravide partnere forteller ofte om drømmer der de selv er gravide, eller der fødsel og småbarn dukker opp i bilder de ikke kjenner igjen fra før. Det passer godt med det Domhoff kaller kontinuitetshypotesen: drømmene speiler i stor grad det som opptar oss i våken tilstand. En stor livsendring trenger ikke å ha skjedd ennå for å prege nettene — det holder at den er på vei.
 
 ## Hvordan graviditeten føltes
 

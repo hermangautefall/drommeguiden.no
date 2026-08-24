@@ -23,7 +23,7 @@ Att drömma om att vara i ett [främmande](/sv/drommar/frammande/) land — med 
 
 Men drömmens utland är sällan bara en geografisk plats — det är ett psykologiskt rum.
 
-## De vanligaste tolkningarna
+## Att kliva ur det invanda
 
 ### Nya perspektiv och uppbrott från det invanda
 
@@ -37,7 +37,7 @@ Utlandet är för många förknippat med frihet — att resa, kanske med [tåg](
 
 Främmande länder representerar det okända — och i drömmarna kan de symbolisera okända sidor av din egen personlighet som du håller på att utforska. Att resa i drömmen är att resa inåt.
 
-## Vad påverkar tolkningen?
+## Vart du reste, och om du kom hem
 
 **Om landet var exotiskt och främmande:**
 Ju mer annorlunda, desto starkare önskan om något radikalt nytt och utöver det vanliga.
@@ -54,7 +54,7 @@ Något tryggt och bekant saknas — kanske är förändringen för stor eller f�
 **Om landet var igenkännligt men ändå främmande:**
 Drömmens klassiska logik — något bekant presenteras som okänt för att peka på något nytt i det.
 
-## Psykologiska och kulturella perspektiv
+## Resan som självutforskning
 
 I jungiansk förståelse representerar det främmande landet gärna Skuggans territorium eller det omedvetna — en plats där de vanliga reglerna inte gäller och där det undertryckta kan visa sig. Att resa dit i drömmen är att öppna sig för nya inre erfarenheter.
 

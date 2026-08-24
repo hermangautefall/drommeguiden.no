@@ -24,7 +24,7 @@ Att drömma om att du är sjuk — att något är fel med [kroppen](/sv/kategori
 
 Kroppen i drömmarna är en av de starkaste symbolerna vi har för vårt inre tillstånd.
 
-## De vanligaste tolkningarna
+## Det som tär på dig
 
 ### Utmattning och behov av vila
 
@@ -40,7 +40,7 @@ Att bli sjuk gradvis i drömmen kan spegla något i livet som långsamt försvag
 
 Sjukdom gör oss sårbara och beroende. Att drömma om sjukdom kan spegla en period då du känner dig mer exponerad, mindre skyddad, och mer beroende av andra än du är bekväm med. Ett behov av omsorg som inte är mött — antingen från dig själv eller från andra.
 
-## Vad påverkar tolkningen?
+## Vem som var sjuk
 
 **Om sjukdomen var allvarlig:**
 Något i ditt liv upplevs som ett allvarligt hot eller belastning. Det förtjänar att tas på allvar.

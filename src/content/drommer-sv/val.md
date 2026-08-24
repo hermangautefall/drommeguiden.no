@@ -21,7 +21,7 @@ author: 'default'
 
 Valen är jordens största djur — och den lever i [havets](/sv/drommar/hav/) djupaste värld. I drömvärlden är den en av de mest slående symbolerna: något enormt, gammalt och intelligent rör sig i de djupaste lagren av det omedvetna. Att drömma om val är sällan ett litet ögonblick. Det är en av de stora drömmarna.
 
-## De vanligaste tolkningarna
+## Det djupa, det uråldriga och det som inte har bråttom
 
 ### Något enormt rör sig i djupet
 
@@ -39,7 +39,7 @@ Valen är känd för sin sång — långa, komplexa kommunikationsstrukturer vi 
 
 Valar lever i hundra år. De rör sig långsamt och med enorm kraft. Drömmens val kan representera en långsiktig process — något som tar tid, något som inte är bråttom, något som är i rörelse men på sin egen tidshorisont.
 
-## Vad påverkar tolkningen?
+## Från fridfull simtur till att bli uppslukad
 
 **Om valen var fridfull och nära:**
 Ett fridfullt möte med något enormt i dig själv. Inget hot — bara storlek.

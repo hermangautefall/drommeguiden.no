@@ -21,7 +21,7 @@ author: 'default'
 
 Rosen är en av människokulturens mest laddade [blommor](/sv/drommar/blomma/) — symbol för [kärlek](/sv/drommar/karlek/), skönhet, hemligheter och det heliga genom tusentals år. I drömmarna bär den denna dubbelhet: något av det vackraste som finns, men med törnen som sårar om du inte hanterar den varsamt.
 
-## De vanligaste tolkningarna
+## Skönhet med taggar
 
 ### Kärlek och det vackra som kostar något
 
@@ -41,7 +41,7 @@ Ibland är tolkningen enklare och mer direkt: en längtan efter det romantiska, 
 
 "Sub rosa" — under rosen — är ett gammalt uttryck för det konfidentiella, det hemliga. En vit ros över ett mötesbord betydde att det som sades där förblev hemligt. Rosen är därmed också en symbol för det inre, privata livet — det du håller för dig själv.
 
-## Vad påverkar tolkningen?
+## Rosens färg och skick
 
 **Om rosen var röd:** Kärlek, passion och djup emotionell anknytning.
 
@@ -55,7 +55,7 @@ Ibland är tolkningen enklare och mer direkt: en längtan efter det romantiska, 
 
 **Om du gav någon en ros:** En önskan att ge av dig själv — av det vackraste du har.
 
-## Psykologiska och kulturella perspektiv
+## Rosen som kärlekssymbol
 
 Rosen är den västerländska kulturkretsens främsta kärlekssymbol — Afrodite, Venus, Maria, alla bär rosen. I keltisk tradition är rosen förbunden med de fem elementen genom sina fem kronblad. I islamisk mystik är rosen bild på Guds kärlek till skapelsen.
 

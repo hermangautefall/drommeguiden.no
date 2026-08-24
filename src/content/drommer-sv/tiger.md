@@ -24,7 +24,7 @@ Där [lejonet](/sv/drommar/lejon/) är kungen, är tigern det vilda — otämjt,
 Tigern skiljer sig från lejonet genom att den är mer solitär och mer oförutsägbar — liknande [björnen](/sv/drommar/bjorn/) i sin ensamma kraft — den jagar ensam, och den slår till utan förvarning.
 
 
-## De vanligaste tolkningarna
+## Kraften som söker ett utlopp
 
 ### Råa instinkter och undertryckt energi
 
@@ -41,7 +41,7 @@ En hotfull tiger pekar gärna mot något i livet som är farligt eller oföruts�
 En tiger som inte hotar dig, men som är imponerande och stark, kan spegla din egen kraft och självhävdelse. Drömmen bjuder in dig att äga din egen styrka istället för att dölja den.
 
 
-## Vad påverkar tolkningen?
+## Avståndet mellan dig och djuret
 
 **Om tigern förföljer dig:**
 Något du undviker hinner ifatt dig. En konfrontation som länge skjutits upp närmar sig.

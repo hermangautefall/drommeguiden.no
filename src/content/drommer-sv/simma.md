@@ -36,7 +36,7 @@ Simmandet är det fysiska uttrycket för att "hålla sig över vattnet" — och 
 
 Simmandet kan också vara rent positivt — en upplevelse av frihet, lätthet och flöde. Att röra sig genom vatten med glädje och lätthet speglar en period då du är i ditt rätta element, då något känns naturligt och bra.
 
-### Vad påverkar tolkningen?
+### Medström, motström eller på djupt vatten
 
 **Om du simmade lätt och fritt:**
 Du är i flöde. Något känns naturligt och rörelsefriheten finns där.
@@ -56,11 +56,11 @@ Du rör dig genom något du inte fullt ut kan se eller förstå än.
 **Om du inte kom fram:**
 Ansträngningen finns där, men målet är inte inom räckhåll än. Fortsätt.
 
-## Psykologiskt perspektiv
+## Att röra sig aktivt i känslorna
 
 I jungiansk mening är simmandet en av de mest aktiva och modiga drömmar man kan ha i vattnets värld — du är inte på land (distans), du drunknar inte (maktlöshet), du simmar (aktiv navigering). Det är jagstyrkans svar på det omedvetna: jag är här, jag rör mig, jag väljer riktning.
 
-## Kulturell och symbolisk betydelse
+## Simning som bemästrande
 
 I fornnordisk tradition är förmågan att simma nästan helig — sjöfolk som inte kunde simma var hjälplösa vid haveri, och [havet](/sv/drommar/hav/) var lika mycket liv som död. Att simma är att ha respekt för vattnet utan att låta det besegra dig.
 

@@ -23,7 +23,7 @@ Sexuella drömmar är bland de vanligaste drömmar människor har — och bland 
 
 Drömmens sexuellt laddade scenarier handlar primärt om närhet, förening, sårbarhet och kontakt — med en annan människa, men i grunden med sidor av dig själv. Vem du är intim med i drömmen är en symbol, inte en önskelista.
 
-## De vanligaste tolkningarna
+## Förening och längtan efter närhet
 
 ### Längtan efter närhet och att bli sedd
 
@@ -47,7 +47,7 @@ Drömmens intimitet med en ledare kan handla om en önskan om auktoritet eller s
 
 Drömmarna bearbetar det vi upplever i det verkliga livet. Sexuella drömmar kan ibland handla direkt om faktiska erfarenheter, åtrå eller känslor knutna till sexualitet — särskilt i perioder då detta är aktivt i medvetandet. De kan uttrycka glädje över ett välfungerande samliv, frustration över sexuella utmaningar, eller nyupptäckt självacceptans knuten till eget begär.
 
-## Vad påverkar tolkningen?
+## Vem det var, och hur det kändes
 
 **Om personen du är intim med är en främling:**
 Psyket utforskar okända sidor av sig själv. Främlingen är en del av dig du ännu inte känner.
@@ -64,7 +64,7 @@ Något i ditt liv kränker dina gränser. Något tar från dig det du inte vill 
 **Om drömmen lämnade en god och lugn känsla:**
 Ett tecken på psykisk integration och självacceptans — du är i kontakt med dina egna behov.
 
-## Psykologiska och kulturella perspektiv
+## Föreningen som inre bild
 
 Freuds ökända tolkning av nästan allt genom sexuella symboler har gjort många misstänksamma mot sexuella drömmar. Men Freuds insikt var delvis korrekt: sexualiteten är en grundläggande mänsklig kraft, och drömmens bilder kan uttrycka den.
 

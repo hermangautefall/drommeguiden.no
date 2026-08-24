@@ -37,7 +37,7 @@ Regnbågen är i fornnordisk tradition Bifrost — bron mellan Midgård och Asg�
 
 Regnbågen innehåller alla färger — och kan representera mångfald, komplexitet och rikedomen i livets spektrum. Drömmens regnbåge kan handla om att se helheten, om att rymma kontraster, om att livet inte är svartvitt utan rikt och flerfärgat.
 
-### Vad påverkar tolkningen?
+### Var bågen stod, och om du nådde den
 
 **Om regnbågen var klar och full:**
 Ett starkt och positivt tecken — hopp och övergång är tydligt och nära.
@@ -54,11 +54,11 @@ Ett dubbelt löfte eller en extra stark försäkran. Särskilt laddat.
 **Om regnbågen var över vatten:**
 Hopp i det känslomässiga livet — en period av känslomässig klargörelse är på väg.
 
-## Psykologiskt perspektiv
+## Integration av motsatser
 
 Regnbågen representerar inom drömpsykologin integrering av motsatser — alla färger samlade i en harmonisk bild. Det är en av de starkaste symbolerna för psykologisk helhet och försoning mellan olika delar av Självet.
 
-## Kulturell och symbolisk betydelse
+## Bågen som löfte och bro
 
 Bifrost — regnbågsbron i fornnordisk mytologi — är vacker men farlig: bara gudarna och de värdiga kan korsa den under den stora [himlen](/sv/drommar/himmel/), och vid Ragnarök bryts den av jättarnas tyngd. I kristen tradition är regnbågen Guds förbund med Noa efter syndafloden — ett löfte om att förödelsen inte ska upprepas. Oavsett tradition bär regnbågen på samma kärnbudskap: det är OK. Det blir bättre.
 

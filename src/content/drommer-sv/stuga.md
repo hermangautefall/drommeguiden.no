@@ -23,7 +23,7 @@ Stugan är den nordiska kultursjälens främsta fristadssymbol. Den är platsen 
 
 Att drömma om stuga är sällan tillfälligt.
 
-## De vanligaste tolkningarna
+## Att koppla bort och komma till ro
 
 ### Behov att koppla bort
 
@@ -41,7 +41,7 @@ Stugan är platsen där du inte behöver prestera, imponera eller anpassa dig. D
 
 Stugan i nordisk tradition är tätt knuten till natur — till [skog](/sv/drommar/skog/), [berg](/sv/drommar/berg/) och hav. Drömmens stuga kan handla om en längtan efter natur, efter det enkla, efter en rödare tråd till det landet du är från och det landet du är.
 
-## Vad påverkar tolkningen?
+## Stugans skick och vilka som var där
 
 **Om stugan var varm och välkomnande:**
 Ett tryggt och gott fristadsrum är tillgängligt för dig — antingen faktiskt eller mentalt.
@@ -61,7 +61,7 @@ Gemenskap i det enkla — något delas och stärks i naturens ram.
 **Om stugan var långt från vägen:**
 Ju djupare in, desto större behov av att ta avstånd från det vanliga.
 
-## Psykologiska och kulturella perspektiv
+## Stugan som svenskt kulturfenomen
 
 Stugan är i nordisk kulturhistoria något annat än i de flesta andra kulturer — den är inte lyx, den är egalitär. Från kungahuset till vanliga barnfamiljer delar nordbor idealet om stugan som fristadssymbol. Stugtraditionen är ett kollektivt nordiskt värde, nedlagt i allemansrätten och i det att nordiska barn växer upp med att veta att naturen tillhör alla.
 

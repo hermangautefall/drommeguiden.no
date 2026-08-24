@@ -39,7 +39,7 @@ Råttor är historiskt knutna till pest och smitta — och i drömmarna kan de r
 
 Jung skulle ha sett råttan som en manifestation av Skuggan i sin mest obehagliga form — de aspekter av Självet vi föraktar mest, de impulser vi helst inte vill kännas vid. Drömmens råtta kan representera något i dig själv som du upplever som smutsigt eller ovärdigt, och som behöver konfrontation istället för fortsatt undertryckande.
 
-### Vad påverkar tolkningen?
+### Ensam råtta, hel svärm, eller något som gnager
 
 **Om det var många råttor:**
 Ett problem som vuxit till en infestation — något litet och hanterbart har blivit för stort att ignorera.
@@ -56,11 +56,11 @@ Ett hot som är för stort för att ignoreras — något som kräver direkt hand
 **Om råttan flydde:**
 Det du är rädd för undandrar sig konfrontation, men försvinner inte — det gömmer sig bara.
 
-## Psykologiskt perspektiv
+## Skuggan och det vi helst förbiser
 
 Jung skulle ha sett råttan som en manifestation av Skuggan i sin mest obehagliga form — de aspekter av Självet vi föraktar mest, de impulser vi helst inte vill kännas vid. Drömmens råtta kan representera något i dig själv som du upplever som smutsigt eller ovärdigt, och som behöver konfrontation istället för fortsatt undertryckande.
 
-## Kulturell och symbolisk betydelse
+## Råttan mellan pest och överlevnad
 
 Råttan är i västerländsk tradition genomgående negativt laddad — från digerdöden till skräckfilmens kloakråtta. Men i kinesisk tradition är råttan faktiskt det första djuret i stjärnteckenscykeln och representerar intelligens, resursrikedom och anpassningsförmåga. I en nordisk kontext är råttan primärt en negativ symbol — skadedjur, förruttnelse, något man inte vill ha i huset.
 

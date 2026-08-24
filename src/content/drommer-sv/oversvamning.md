@@ -24,7 +24,7 @@ author: 'default'
 
 Dessa drömmar är vanliga i krävande perioder — och de bär ofta på ett viktigt budskap.
 
-## De vanligaste tolkningarna
+## När något stiger över kanten
 
 ### Överväldigande känslor som svämmar över
 
@@ -38,7 +38,7 @@ Vatten är i drömsymboliken knutet till känslolivet — och översvämning är
 
 Översvämningen förstör, men den renar också — och i drömsymboliken är stora vattenhändelser knutna till transformation. Det gamla spolas bort för att ge plats åt något nytt. Drömmen kan komma i perioder där något gammalt och utslitet är på väg att försvinna, även om det känns dramatiskt.
 
-## Vad påverkar tolkningen?
+## Hur snabbt vattnet steg
 
 **Om vattnet steg sakta:**
 Något har byggts upp över tid och är nu på väg att nå sin brytpunkt.
@@ -55,7 +55,7 @@ Total överväldigande — en signal om att du behöver stöd och hjälp utanfö
 **Om vattnet rann av:**
 Krisen är över. Det som överväldigade dig är på väg att dra sig tillbaka. [Regn](/sv/drommar/regn/) i drömmarna bär en mildare variant av samma symbolik.
 
-## Psykologiska och kulturella perspektiv
+## Flodmyten från Noa till Gilgamesh
 
 Översvämningen är en av de mest arketypiska bilder i mänsklig mytologi — från Noas ark till Gilgamesh-eposet till otaliga urfolkstraditioner. Den representerar överallt samma sak: en överväldigande kraft som renar och förvandlar, som förstör det gamla för att göra plats för det nya.
 

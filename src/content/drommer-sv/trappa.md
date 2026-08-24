@@ -47,7 +47,7 @@ Denna mittposition kan kännas obehaglig eller spännande, beroende på hur drö
 
 Freud menade att drömmens trappgång — den rytmiska, upprepade rörelsen uppåt — hade en sexuell dimension. Han dokumenterade att många av hans patienters trappdrömmar var knutna till sexuella impulser och spänning. Även om man inte nödvändigtvis accepterar hela det freudianska ramverket, är det en observation som pekar på något verkligt: trappgångens kropp och rytm kan aktivera fysiologiska responser.
 
-### Vad påverkar tolkningen?
+### Uppåt, nedåt, eller en trappa som inte tar slut
 
 **Om du gick uppåt med lätthet:**
 Framgång, optimism och en klar väg framåt. Något är i positiv rörelse.

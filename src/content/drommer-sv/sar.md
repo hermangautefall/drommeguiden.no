@@ -22,7 +22,7 @@ author: 'default'
 
 Ett sår är en öppning i det som skulle varit slutet — en skada som ännu inte är läkt. I drömmarna är sår en av de mest direkta bilderna psyket har för det som gör ont, det som inte är färdigbearbetat, och det som fortfarande är ömt att beröra.
 
-## De vanligaste tolkningarna
+## Det öppna och obearbetade
 
 ### Det som är öppet och obearbetat
 
@@ -44,7 +44,7 @@ Att ha ett sår är att ha en sårbar fläck — en plats där du är öppen och
 
 Alla sårdrömmar handlar inte om öppna, blödande sår. Drömmar om sår som läks, som gror, som sköts om — är positiva bilder på en pågående bearbetningsprocess. Psyket är i gång med något.
 
-## Vad påverkar tolkningen?
+## Var såret satt och om det läkte
 
 **Om såret blödde kraftigt:**
 Något tappar dig på energi nu — en aktiv, pågående smärta som kräver uppmärksamhet.
@@ -64,7 +64,7 @@ En positiv process är i gång. Något som varit öppet sluts.
 **Om du inte visste var såret kom ifrån:**
 Ett omedvetet sår — något som gör ont men vars källa du ännu inte identifierat.
 
-## Psykologiska och kulturella perspektiv
+## Såret som synlig sårbarhet
 
 Sårsymboliken är universell i människans mytologiska tänkande. Den sårade hjälten är ett genomgående arketypiskt motiv: Akilles i hälen, Siegfried mellan skulderbladen, Amfortas med det oläkbara såret i Parsifal. Alla är män vars styrka är absolut — förutom i en enda punkt. Den punkten är såren.
 

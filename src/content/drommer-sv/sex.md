@@ -26,7 +26,7 @@ Sexuella drömmar är bland de vanligaste vi har — och bland dem som oftast sk
 
 Låt oss börja med det viktigaste: sexuella drömmar är inte önskeuppfyllelse i direkt mening. De handlar nästan aldrig bokstavligt om vem du vill ha sex med. De handlar om något mycket mer sammansatt — och mycket mer intressant.
 
-## De vanligaste tolkningarna
+## Närheten är ofta själva budskapet
 
 ### Ett behov av närhet och samhörighet
 
@@ -48,7 +48,7 @@ I jungiansk psykologi är sexuell energi i drömmar nära knuten till det Jung k
 
 Sexuella drömmar om någon du har ett svårt förhållande till — ett ex, en konfliktfylld relation, en person du är kluven till — kan handla om en djupare önskan om försoning eller integration. Att närma sig någon i drömmen är att närma sig det de representerar. Drömmar om [exet](/sv/drommar/exet/) har ofta just denna försonande kvalitet.
 
-## Vad påverkar tolkningen?
+## Egenskapen, inte personen
 
 **Om partnern var pojkvännen eller sambon:**
 Närhet, begär och samhörighet i förhållandet — antingen bekräftat eller en önskan om mer av det. Läs mer om drömmar om [pojkvännen](/sv/drommar/pojkvan/) för mer om vad partnern symboliserar.

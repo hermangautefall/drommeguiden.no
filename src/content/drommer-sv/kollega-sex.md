@@ -66,7 +66,7 @@ Normalt och förväntat — men kom ihåg att drömmar inte är valda. Du är in
 
 ## Arbetsplatsen som socialt landskap
 
-Forskaren Deirdre Barrett vid Harvard Medical School har studerat arbetsrelaterade drömmar och dokumenterat att sexuell aktivitet med kollegor är bland de vanligaste drömscenarierna — särskilt i stressade arbetsperioder. Slutsatsen är konsekvent: det handlar om relationer och maktdynamik, inte sexualitet.
+Sexuella drömmar om kollegor är betydligt vanligare än de flesta tror, och de gör sig gärna påminda i perioder med hög press på jobbet. Det är värt att lägga märke till vad de sällan handlar om: faktisk attraktion. Långt oftare handlar de om relation och maktdynamik — om närhet, rivalitet, erkännande och position i en grupp du tillbringar större delen av dagen med.
 
 Jung skulle ha sett kollegan som en skugg-figur eller en animafigur — en externalisering av en egenskap psyket önskar integrera. Det sexuella mötet är föreningen av två sidor — inte två kroppar.
 

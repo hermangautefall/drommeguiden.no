@@ -22,7 +22,7 @@ author: 'default'
 
 Att drömma om uppbrott — oavsett om du lämnar eller blir lämnad — är en av de mest emotionellt intensiva drömmar vi har. Du vaknar med sorg, lättnad, eller en märklig blandning av båda. Och du undrar vad drömmen egentligen försöker säga dig.
 
-## De vanligaste tolkningarna
+## Avslutet som närmar sig
 
 ### En övergång är på väg i ditt liv
 
@@ -46,7 +46,7 @@ Det är värt att fråga: finns det något i mitt liv som drömmens uppbrott pek
 
 Om du har gått igenom ett uppbrott tidigare — romantiskt eller annat — kan sådana drömmar vara spår av den bearbetning som aldrig blev helt klar. Hjärnan återvänder till emotionellt oavslutat material, särskilt i perioder med nya livsförändringar eller relationsstress.
 
-## Vad påverkar tolkningen?
+## Vem som gick, och varför
 
 **Om du var den som lämnade:**
 Du överväger ett skifte — aktivt eller omedvetet. Vad vill du bort från, eller mot?

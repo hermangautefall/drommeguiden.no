@@ -23,7 +23,7 @@ Att drömma om sin pappa är bland de mest meningsbärande drömmar vi kan ha �
 
 Det är sällan bara om honom drömmen handlar.
 
-## De vanligaste tolkningarna
+## Auktoritet, regler och inre måttstockar
 
 ### Auktoritet, regler och förväntningar
 
@@ -39,7 +39,7 @@ Om din pappa var en stödjande figur i uppväxten, kan drömmar om honom spegla 
 
 För dem som har förlorat sin pappa är [drömmar om avlidna](/sv/drommar/avliden-person/) mycket vanliga och upplevs ofta som djupt tröstande. Många beskriver att de i drömmen vet att han är borta, men ändå får prata med honom — och att detta ger en lättnad som sitter kvar länge efter uppvaknandet.
 
-## Vad påverkar tolkningen?
+## Frånvaron som också talar
 
 **Om han var stolt eller erkännande:**
 Ett tecken på att du är i god kontakt med din egen självkänsla och mästringskraft.

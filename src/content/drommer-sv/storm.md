@@ -24,7 +24,7 @@ Stormar i drömmarna är svåra att ignorera. Vare sig det handlar om ett vålds
 
 ---
 
-## De vanligaste tolkningarna
+## När stormen bryter loss
 
 ### Inre oro och emotionell turbulens
 
@@ -50,7 +50,7 @@ Denna tolkning är särskilt relevant om du i vaket liv tenderar att hålla sake
 
 ---
 
-## Vad påverkar tolkningen?
+## Stormens öga
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

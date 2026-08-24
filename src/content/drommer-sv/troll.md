@@ -23,7 +23,7 @@ Trollet är nordisk kulturs främsta och mest urtypiska framställning av det so
 
 Dessa drömmar är sällan triviala. De bär på något av det djupaste i den kollektiva erfarenheten.
 
-## De vanligaste tolkningarna
+## Det obearbetade som växer i mörkret
 
 ### En primitiv och kraftfull del av dig själv
 
@@ -45,7 +45,7 @@ Drömmens troll kan representera en rädsla, en utmaning eller ett problem du l�
 
 Trollet är gammalt — det finns där från början, det minns tid före människorna. Drömmens troll kan representera något från ditt förflutna, från släktens historia, från något uråldrigt i dig själv som pressar sig fram. Det är inte nödvändigtvis ont. Det är bara mycket, mycket gammalt.
 
-## Vad påverkar tolkningen?
+## Om trollet såg dig
 
 **Om trollet var hotande och förföljde dig:**
 En konfrontation kan inte skjutas upp längre. Något har vuxit för stort för att ignoreras.
@@ -68,7 +68,7 @@ En hord av undertryckta, primitiva impulser eller obearbetade utmaningar.
 **Om du var ett troll:**
 Den primitiva sidan av dig själv har tagit över — kanske nödvändigt i en period, kanske en varning.
 
-## Psykologiska och kulturella perspektiv
+## Trollet i nordisk folktro
 
 Trollet är i nordisk och skandinavisk tradition den arketypiska andre — det som inte är mänskligt, inte är kristet, inte är civiliserat. Det bor i berg (Dovre, Jotunheimen), i skog, i och under broar. Det är territoriellt, det är gammalt, och det följer sina egna lagar.
 

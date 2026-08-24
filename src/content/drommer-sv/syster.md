@@ -23,7 +23,7 @@ Syskonrelationen är något av det mest komplexa vi bär på — en blandning av
 
 De handlar ofta lika mycket om dig själv som om henne.
 
-## De vanligaste tolkningarna
+## Speglingen och det ouppgjorda
 
 ### Ömsesidig spegling och egna sidor
 
@@ -39,7 +39,7 @@ Syskonrelationer bär på mycket — gammal rivalitet, olika behandling från [f
 
 Systern är en av få människor som känner dig från [början](/sv/drommar/barn/) — som delar din tidigaste historia. Att drömma om henne kan handla om ett behov av anknytning till dina rötter, till där du kom ifrån, till det som var gemensamt.
 
-## Vad påverkar tolkningen?
+## Hur ni hade det tillsammans
 
 **Om ni hade det bra tillsammans:**
 Värme, tillhörighet och en önskan om mer närhet i relationen — eller i livet i stort.

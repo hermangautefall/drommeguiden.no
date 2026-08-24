@@ -21,7 +21,7 @@ author: 'default'
 
 Du skrapar trisslotter, vinner på lotteri, hittar sedlar på gatan. Det är ett av de trevligaste drömscenarierna som finns — och som oftast lämnar en med en stöt av besvikelse vid uppvaknandet. Men vad betyder det egentligen?
 
-## De vanligaste tolkningarna
+## Längtan efter frihet och trygghet
 
 ### Längtan efter frihet och möjligheter
 
@@ -41,7 +41,7 @@ Det är inte alltid symboliskt. Ibland är drömmens pengavinst en indikation p�
 
 Drömmarna kompenserar för det vi saknar i det vakna livet. I perioder av trängd ekonomi eller upplevd resursbrist är pengadrömmar mycket vanliga — psyket ger dig det du saknar, åtminstone för några timmar.
 
-## Vad påverkar tolkningen?
+## Vad du gjorde med vinsten
 
 **Om pengarna försvann eller togs från dig:** Rädsla för att förlora det du har, eller en möjlighet som gick dig förbi.
 
@@ -51,7 +51,7 @@ Drömmarna kompenserar för det vi saknar i det vakna livet. I perioder av trän
 
 **Om du inte visste vad du skulle göra med pengarna:** Resurser är tillgängliga — men du vet inte riktigt vad du vill använda dem till. Vad vill du egentligen?
 
-## Psykologiska och kulturella perspektiv
+## Tur och förtjänst
 
 I många kulturer är drömmens pengar ett specifikt varsel — ett gott omen om kommande lycka. I kinesisk drömforskning är pengar generellt en positiv symbol. I islamisk drömforskning kan pengar symbolisera en gåva från Gud.
 

@@ -23,7 +23,7 @@ Tomten är inte bara en jultomte — han är långt äldre och långt mer allvar
 
 Behandla honom inte illa. Det har aldrig gått bra.
 
-## De vanligaste tolkningarna
+## Väktaren av hemmet
 
 ### En skyddande kraft för hemmet
 
@@ -37,7 +37,7 @@ Tomten är gammal — långt äldre än kristendomen. Han har överlevt eftersom
 
 Tomten är liten — men hans makt över gården är total. Till skillnad från [trollet](/sv/drommar/troll/), som hotar utifrån, skyddar tomten inifrån. Han är inte en kraft du kontrollerar; han är en kraft som låter dig bo där om du beter dig rätt. Drömmens tomte kan representera något litet men avgörande i ditt liv: en liten detalj, en liten relation, en liten vana som har oproportionerligt stort inflytande.
 
-## Vad påverkar tolkningen?
+## Om tomten var vänlig eller vresig
 
 **Om tomten var vänlig:**
 Ett gott och harmoniskt hem — något vakar över det du håller kärt.
@@ -51,7 +51,7 @@ Du hedrar något gammalt och viktigt — en god och rätt handling.
 **Om tomten var närvarande men osynlig:**
 En skyddande kraft finns där även om du inte ser den direkt.
 
-## Psykologiska och kulturella perspektiv
+## Gårdstomten i folktron
 
 Tomten är i nordisk tradition ett av de mest långlivade folkreligiösa elementen — han är icke-kristen, han är gammal, och han är seg. Han har bevarats i traditionen för att han svarade på något verkligt i den nordiska psyken: behovet av att något vakar över oss, att hemmet är en trygg plats, att det finns en kraft som håller ordning i det nära.
 

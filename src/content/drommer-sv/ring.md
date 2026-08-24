@@ -21,7 +21,7 @@ author: 'default'
 
 Ringen är en av de mest arketypiska symbolerna i mänsklig kultur — cirkelns form utan början eller slut, ett tecken på förpliktelse, tillhörighet och det eviga. Att drömma om en ring bär med sig denna symboltyngd, och drömmarna är sällan tillfälliga.
 
-## De vanligaste tolkningarna
+## Mer än ett löfte till en person
 
 ### Förpliktelse och löften
 
@@ -37,7 +37,7 @@ Ringens cirkelform är en kraftfull symbol för cykler och fullständighet. Att 
 
 Ringen är i många kulturer ett tillhörighetsmärke — du är del av något, du tillhör någon. Att drömma om att bära en ring kan spegla ett behov av tillhörighet och anknytning. Att förlora en ring kan spegla rädsla för att förlora denna anknytning.
 
-## Vad påverkar tolkningen?
+## När ringen försvinner eller går sönder
 
 **Om du fick en ring:**
 Någon förpliktar sig till dig, eller du tar emot en [gåva](/sv/drommar/blomma/) av varaktigt värde.

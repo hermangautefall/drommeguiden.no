@@ -68,7 +68,7 @@ För dem som har förlorat ett barn i verkligheten: dessa drömmar är en del av
 
 ## Den djupaste omsorgsrädslan
 
-Drömforskaren Antonio Zadra vid Universitetet i Montreal dokumenterade att drömmar om att förlora barn är bland de vanligaste föräldrarelaterade drömmarna — och att de nästan aldrig följs av faktiska händelser. De är bearbetningsdrömmar, inte förebud.
+Drömmar om att förlora ett barn hör till de vanligaste drömmar föräldrar berättar om, och de är mycket sällan kopplade till något som faktiskt inträffar. De hör hemma i den kategori Ernest Hartmann kallar emotionell bearbetning: psyket ger den starkaste känsla du bär på den starkaste bild det har. Det är bearbetningsdrömmar, inte förebud.
 
 I många kulturer är det tradition att inte berätta sådana drömmar högt — av rädsla för att de "kallar på" det de speglar. Det är ett förståeligt folkpsykologiskt skydd. Men drömforskningen stödjer inte sådana tolkningar.
 

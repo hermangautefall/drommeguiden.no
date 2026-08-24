@@ -23,7 +23,7 @@ Räven är ett av de mest fascinerande djuren i drömsymboliken — laddad med i
 
 Det är ingen tillfällighet att många kulturer gett räven en plats i sina mytologier som den smarta överlevaren.
 
-## De vanligaste tolkningarna
+## När listen är en styrka — och när den lurar dig
 
 ### List och intelligens som resurs
 
@@ -39,7 +39,7 @@ Räven är i många traditioner också symbolen för den som lurade — en som f
 
 Räven överlever i nästan alla miljöer — från djupa [skogar](/sv/drommar/skog/) till stadskärnor. I drömmar kan den symbolisera din egen förmåga att anpassa dig till förändringar och ta dig igenom svåra perioder. Drömmen kan säga: du är mer robust och resursrik än du tror.
 
-## Vad påverkar tolkningen?
+## Charmerande, jagande eller lysande röd
 
 **Om räven är vänlig:**
 Tolkas gärna som att din egen klokskap och intuition är en resurs just nu. Lita på dina instinkter.

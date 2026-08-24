@@ -23,7 +23,7 @@ Vägen är en av drömmarnas mest arketypiska symboler för livsresan — och de
 
 Att drömma om en väg är att drömma om vart du är på väg — och frågan är om du är på rätt väg.
 
-## De vanligaste tolkningarna
+## Riktningen och valet framför dig
 
 ### Din livsriktning
 
@@ -37,7 +37,7 @@ Vägkorsningen är en av drömmarnas mest kraftfulla bilder — två eller flera
 
 Vägen är inte bara destinationen — den är själva resan. Drömmens väg kan handla om att värdesätta processen, om att det är värdefullt att gå, inte bara att anlända. En lång och vacker väg kan representera en livsperiod du är i som förtjänar att upplevas fullt ut, inte bara jäktas igenom.
 
-## Vad påverkar tolkningen?
+## Vägens beskaffenhet
 
 **Om vägen var lång och öppen:**
 Många möjligheter och god utsikt framåt — en klar riktning.
@@ -63,7 +63,7 @@ Nya territorier — något du inte navigerat förut.
 **Om du sprang på vägen:**
 Brådska eller entusiasm — du vill nå något snabbt. Körde du [bil](/sv/drommar/bil/) på vägen, se även den tolkningen.
 
-## Psykologiska och kulturella perspektiv
+## Vägen som livsmetafor
 
 "Vägen" som livssymbol är en av de mest grundläggande bilderna i all mänsklig berättelse — från Odysseus hemresa till pilgrimens vandring till den fornnordiska hjältens färd ut i världen. Det är ingen tillfällighet att många av historiens viktigaste andliga texter är vägmetaforer: Tao betyder "väg", Buddha talar om den åttafaldiga vägen, och Kristus säger "Jag är vägen".
 

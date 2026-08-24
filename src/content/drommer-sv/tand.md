@@ -34,7 +34,7 @@ förändring.
 
 ---
 
-## De vanligaste tolkningarna
+## Vidskepelsen som överlevde
 
 ### Självbild och utseende
 
@@ -83,7 +83,7 @@ positiv.
 
 ---
 
-## Vad påverkar tolkningen?
+## Från varsel till symbol
 
 Sammanhanget i drömmen är avgörande. Här är några varianter som ofta
 ger olika tolkningar:

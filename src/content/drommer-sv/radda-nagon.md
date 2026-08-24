@@ -21,7 +21,7 @@ author: 'default'
 
 Det är en av de drömmar som lämnar en med en märklig kombination av styrka och oro: du handlade, du ingrep, du räddade någon. Och så vaknar du och undrar vem — och vad — du egentligen räddade.
 
-## De vanligaste tolkningarna
+## Vem det egentligen är du drar i land
 
 ### Den du räddar är en del av dig själv
 
@@ -43,7 +43,7 @@ Ibland vet du mycket väl vem drömmens person representerar: det är någon i d
 
 Räddningen är ett av de arketypiska hjältemotiven — något av det djupast inbäddade i människopsyket. Vi är programmerade att reagera på andras nöd, och andras hjälpbehov aktiverar något av det primäraste i oss. Drömmens räddning är aktivering av hjältearketypen.
 
-## Vad påverkar tolkningen?
+## Vem du räddade — och hur lätt det var
 
 **Om du räddade ett barn:**
 Din inre barnsida behöver uppmärksamhet — sårbarhet, lek och ofiltrerade behov som kanske undertrycks.
@@ -63,7 +63,7 @@ Du är väl kopplad till dina egna resurser och din förmåga att handla.
 **Om räddningen var kaotisk och svår:**
 En svår situation i livet kräver mer av dig än det är enkelt att ge.
 
-## Psykologiska och kulturella perspektiv
+## Från folksagans hjälte till Sigurd — den som räddar
 
 Hjälten som räddar den svaga är ett av mytologins mest universella motiv — från Herakles som befriar Prometheus till Sigurd som väcker Brynhild ur hennes trollsömn. I alla dessa berättelser är räddningshandlingen inte bara extern — den är transformerande för hjälten själv.
 

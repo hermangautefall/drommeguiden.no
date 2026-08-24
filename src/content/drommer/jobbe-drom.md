@@ -56,7 +56,7 @@ Drømmene prosesserer relasjonelle spenninger, og jobbens konflikter og maktdyna
 
 ## Arbeid, identitet og det å koble av
 
-Forsker Tore Nielsen dokumenterte at arbeidsdrømmer har økt markant i frekvens siden 1980-åra — sammenfallende med fremveksten av en arbeidskultur der jobben er blitt primær identitetsarena.
+At jobben følger med inn i søvnen, er ikke rart. Kontinuitetshypotesen — at drømmene i stor grad speiler det vi er opptatt av i våken tilstand — forklarer hvorfor arbeidsdrømmer er så vanlige i en kultur der jobben er blitt en av de viktigste arenaene for identitet. Jo mer plass arbeidet tar om dagen, jo mer plass tar det om natten.
 
 Det er en interessant kulturell kontrast: i norrøn kultur var identiteten primært knyttet til ætt, ære og handlinger — ikke til stilling. Draugen — den urolige gjengangeren — var gjerne den som hadde udødelig uvilje mot å gi slipp på det jordlige. Kanskje er arbeidsdrømmene den moderne versjon: psyken som ikke klarer å gi slipp på det produktive.
 

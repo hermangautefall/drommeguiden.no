@@ -23,7 +23,7 @@ Vikingaskeppet är en av historiens mest imponerande tekniska och estetiska bedr
 
 För nordbor är vikingaskeppet identitet. Det är vi, för tusen år sedan, på väg ut i världen.
 
-## De vanligaste tolkningarna
+## Att segla ut i det okända
 
 ### Mod och att segla ut i det okända
 
@@ -37,7 +37,7 @@ Vikingaskeppet bär på tusen år av nordisk identitet — rikedom, äventyr, ma
 
 Vikingafärden var ingen semester — den var en insats av allt man hade. Drömmens vikingaskepp kan representera en fas i livet där du lägger allt du har i något, där du seglar ut utan garanti för återkomst men med en klar riktning och ett klart mål.
 
-## Vad påverkar tolkningen?
+## Om sjön var lugn eller upprörd
 
 **Om [skeppet](/sv/drommar/skepp/) seglade mot horisonten:**
 En djärv ny början — du är på väg mot något okänt men viktigt.
@@ -54,7 +54,7 @@ Resan är krävande — men vikingarna seglade genom storm också.
 **Om skeppet var i begravningsläge:**
 En fornnordisk begravning är den yttersta hyllningen — något avslutas med värdighet och ära.
 
-## Psykologiska och kulturella perspektiv
+## Skeppet i det nordiska arvet
 
 Vikingaskeppets eleganse är ingen tillfällighet — det byggdes av folk som visste att [havet](/sv/drommar/hav/) skulle döda dem om skeppet inte var perfekt. Drömmens vikingaskepp bär på denna kombination av skönhet och nödvändighet: något är vackert just för att det är så ytterst funktionellt.
 

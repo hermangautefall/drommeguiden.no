@@ -61,7 +61,7 @@ Ett tema psyket vill arbeta med. Vad handlar de om emotionellt, utöver det sexu
 
 ## Vad forskningen säger om sexuella drömmar
 
-Forskaren William Domhoff vid University of California dokumenterade att sexuella drömmar om eget kön är mycket vanliga oavsett sexuell läggning — och konsekvent tolkade som symboler för självintegration och närhet, inte sexuella önskningar.
+Sexuella drömmar om det egna könet är vanliga, oavsett vem man dras till i vaket tillstånd. Innehållsanalyser av stora drömsamlingar — traditionen efter Hall och Van de Castle — visar att det sexuella innehållet i drömmar är betydligt mer sammansatt än människors vakna självbild skulle antyda. Drömmen säger med andra ord lite säkert om läggning, och mer om att den lånar kroppens språk för att tala om närhet, tillhörighet och sidor av dig själv.
 
 Det är intressant att många icke-västerländska kulturer och urfolkstraditioner — inklusive fornnordisk shamanism — har haft utrymme för "två-andar" och könsrelaterad flexibilitet i visionära tillstånd. Det visionära eller drömmande jaget är gärna mer flytande än det socialt konstruerade.
 

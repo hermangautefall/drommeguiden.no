@@ -23,7 +23,7 @@ Svamp är ett av naturens mest fascinerande och underdiskuterade fenomen — och
 
 I drömmarna är svampen allt detta.
 
-## De vanligaste tolkningarna
+## Växt i det fördolda
 
 ### Dold tillväxt och osynliga nätverk
 
@@ -43,7 +43,7 @@ Svamp behöver inget ljus. De växer i mörkret, i fuktiga källare, under nedfa
 
 Svamp kan vara mat, medicin eller gift — och de kan likna varandra. Det finns en varsamhetsaspekt i svampsymbolen: inte allt som växer i det fördolda är gott. Något som ser oskyldigt ut kan skada. Drömmens svamp kan ibland spegla en varning om något som inte är vad det ser ut att vara.
 
-## Vad påverkar tolkningen?
+## Om svampen var ätlig eller giftig
 
 **Om svampen var vacker och frodig:** Något gott växer under ytan i ditt liv — ett positivt osynligt nätverk.
 
@@ -55,7 +55,7 @@ Svamp kan vara mat, medicin eller gift — och de kan likna varandra. Det finns 
 
 **Om det fanns ett stort mycel under marken:** Du är del av ett större nätverk av kopplingar och sammanhang än du är medveten om.
 
-## Psykologiska och kulturella perspektiv
+## Nätverken under marken
 
 Svamp har en rik och mångsidig symbolhistoria. I många ursprungsbefolkningars traditioner — från Sibirien till Mesoamerika — har bestämda svamptyper använts i rituella sammanhang för att nå visionära tillstånd. I nordisk tradition är flugsvampen (Amanita muscaria) förknippad med särskilda medvetandetillstånd — och möjligen med sejdpraktiker.
 

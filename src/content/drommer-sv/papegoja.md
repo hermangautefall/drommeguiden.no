@@ -23,7 +23,7 @@ Papegojan är ett av de mest särpräglade djuren i drömsymboliken — ett djur
 
 Drömmens ton avgör mycket av svaret.
 
-## De vanligaste tolkningarna
+## Mellan eko och egen röst
 
 ### Imitation och brist på originalitet
 
@@ -37,7 +37,7 @@ Papegojan talar — och att tala är centralt i drömmens budskap. Det kan handl
 
 Papegojan är färgrik och livlig — och i drömmar där papegojan är vacker och glädjeskapande kan budskapet handla om glädje, kreativitet och att uttrycka sig fritt.
 
-## Vad påverkar tolkningen?
+## Oväsen, tystnad och vem som talade
 
 **Om papegojan upprepar något du sa:**
 En varning om att ord du sagt lever vidare — var medveten om vad du kommunicerar.
@@ -51,7 +51,7 @@ Kreativt uttryck och skönhet. En uppmuntran till att visa mer av dig själv.
 **Om du är papegojan:**
 Du kan ha tagit över andras åsikter eller beteende utan att märka det.
 
-## Psykologiska och kulturella perspektiv
+## Rösten som upprepar andras ord
 
 I många kulturer är papegojan en symbol för intelligens och kommunikation — men också för det ytliga och det inlärda. Psykologiskt sett kan papegojan representera de delar av oss som har internaliserat andras röster — något som också berörs i drömmar om [skola](/sv/drommar/skola/) — föräldrar, samhälle, auktoriteter — utan att ha gått igenom dem kritiskt.
 

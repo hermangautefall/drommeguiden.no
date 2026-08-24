@@ -25,7 +25,7 @@ Att drömma om sin partner är mycket vanligt — och drömmarna kan variera eno
 
 Tonen i drömmen är ofta viktigare än själva handlingen.
 
-## De vanligaste tolkningarna
+## Relationen speglad tillbaka
 
 ### Relationen speglas som den verkligen är
 
@@ -39,7 +39,7 @@ Att drömma om partnern i romantiska eller intensiva situationer kan helt enkelt
 
 En av de vanligaste och mest obehagliga varianterna är att partnern är otrogen i drömmen. Detta är sällan ett förvarning om att det faktiskt sker — det speglar mycket oftare en egen osäkerhet, en gammal sårhet från tidigare relationer — kanske knuten till [exet](/sv/drommar/exet/) — eller en period med distans och otydlighet mellan er.
 
-## Vad påverkar tolkningen?
+## Stämningen mellan er
 
 **Om drömmen var varm och god:**
 Trygghet och kärlek är närvarande. Drömmen bekräftar något positivt i relationen.

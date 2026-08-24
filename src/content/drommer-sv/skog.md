@@ -24,7 +24,7 @@ Skogen är en av de mest tidlösa symbolerna i mänskligt medvetande — från s
 
 ---
 
-## De vanligaste tolkningarna
+## Att gå vilse
 
 ### Det omedvetna och inre utforskning
 
@@ -52,7 +52,7 @@ Denna tolkning förstärks om skogen i drömmen känns fridfull och du rör dig 
 
 ---
 
-## Vad påverkar tolkningen?
+## Stigen som öppnar sig
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

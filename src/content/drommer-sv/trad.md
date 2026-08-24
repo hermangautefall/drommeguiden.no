@@ -44,7 +44,7 @@ Trädet växer — aldrig färdigt, alltid i rörelse. Det är en av naturens me
 
 Trädet sträcker sig i båda riktningar — ner i jordens mörker och upp mot himlens ljus. I detta är det en symbol för förbindelsen mellan det materiella och det andliga, det jordbundna och det transcendenta. En person som är välrotad och ändå öppen mot det högre. Ett liv i balans mellan det konkreta och det meningsfulla.
 
-### Vad påverkar tolkningen?
+### Stammen, kronan och rötterna du såg
 
 **Om trädet var kraftfullt och frodigt:**
 God livsenergi, solitt fundament och rik personlig växt. Något blommar.
@@ -73,13 +73,13 @@ Ensamhet, men också styrka — det som står ensamt visar tydligt vad det är.
 **Om det var ett specifikt trädslag:**
 Ek: styrka och uthållighet. Björk: ny början och rening (särskilt nordisk). Tall: ståndaktighet genom mörkret. Pil: flexibilitet och sorg. Äpple: fruktsamhet och frestelse.
 
-## Psykologiskt perspektiv
+## Trädet som bild för växt
 
 I fornnordisk kosmologi är Yggdrasil — världsasken — själva universums ryggrad. Den binder de nio världarna samman: rötterna når till Hel och Niflheim och Mimers brunn, stammen är Midgård och människornas värld, och kronorna reser sig mot Asgård och gudarna. Tre örnar, en ekorre och en drake bor i den. Nidhögg gnager på rötterna nedifrån.
 
 Yggdrasil är inte bara ett träd — det är själva existensmönstret, kartan över all verklighet. Att drömma om ett mäktigt träd i nordisk kulturell kontext berör detta arv: trädet som bärare av allt.
 
-## Kulturell och symbolisk betydelse
+## Yggdrasil och världsträden
 
 Carl Jung såg trädet som en av de starkaste symbolerna för psykets utvecklingsprocess — individuationen. Han analyserade hundratals drömmars trädsymboler och fann att trädet genom drömmarna växte, metamorfoserade och mognade i takt med drömmarens psykologiska utveckling. I sin berömda bok om mandalas och symboler analyserar han ett träd som växer gradvis genom ett patientförlopp — från knopp till fullvuxet träd — som en direkt bild av en persons psykologiska läkning.
 

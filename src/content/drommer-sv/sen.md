@@ -23,7 +23,7 @@ Väckarklockan ringer inte, bussen kör iväg just när du når hållplatsen, [t
 
 Det är nästan aldrig en konkret deadline som drömmarna handlar om.
 
-## De vanligaste tolkningarna
+## Att inte hinna
 
 ### Stress och för mycket på en gång
 
@@ -37,7 +37,7 @@ Att komma för sent betyder att förlora något — möjligheten, platsen, tillf
 
 För-sent-drömmarna dyker gärna upp när något faktiskt närmar sig sin naturliga deadline — ett beslut du har skjutit upp, ett samtal du har undvikit, ett projekt som har legat för länge. Det omedvetna känner deadline även om det medvetna sinnet försöker ignorera den.
 
-## Vad påverkar tolkningen?
+## Vad du kom för sent till
 
 **Om du springer men inte kommer fram:**
 En känsla av att inte ha kontroll över situationen, eller att benen sviker dig — besläktat med drömmar om [att falla](/sv/drommar/falla/) — vanmakt inför krav.
@@ -54,7 +54,7 @@ Det omedvetna vet att du klarar press bättre än du tror. Ett uppmuntrande teck
 **Om alla andra redan var där:**
 En social dimension — rädsla för att sticka ut, för att inte höra till, för att komma in i något mitt i snarare än från början.
 
-## Psykologiska och kulturella perspektiv
+## Tidspressen som modernt drömtema
 
 För-sent-drömmarna är nära besläktade med [examensdrömmarna](/sv/drommar/examen/) — båda speglar Persona-ångesten: masken som kan spricka under press. De är vanligast bland perfektionister, högpresterande och människor med stark pliktkänsla.
 

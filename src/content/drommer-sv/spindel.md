@@ -29,7 +29,7 @@ Spindeln är en mästare i att bygga — den spinner intrikata nät med ett tål
 
 ---
 
-## De vanligaste tolkningarna
+## Nätet: att sitta fast
 
 ### Kreativitet och skapande kraft
 
@@ -63,7 +63,7 @@ Liknande tematik finns i drömmar om [orm](/sv/drommar/orm/), där ormens sluga 
 
 ---
 
-## Vad påverkar tolkningen?
+## När nätet är tomt
 
 Kontexten i drömmen är avgörande. Här är några varianter som ofta ger olika tolkningar:
 

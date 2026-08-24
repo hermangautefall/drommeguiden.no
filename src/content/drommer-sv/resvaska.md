@@ -21,7 +21,7 @@ author: 'default'
 
 Resväskan är resans behållare — den rymmer det du behöver, det du väljer att ta med, och ibland det du släpar på utan att egentligen vilja. I drömvärlden är den en av de mest direkta symbolerna på det du bär genom livet: ditt bagage, i bokstavlig och överförd mening.
 
-## De vanligaste tolkningarna
+## Bagaget du bär med dig
 
 ### Livsbagaget och det du bär
 
@@ -35,7 +35,7 @@ Resväskan förbereder en resa — och drömmens resväska kan spegla att något
 
 Drömmen kan handla om ett val: vad tar du med dig vidare, och vad kan du packa upp och lämna kvar? Inte allt bagage är nyttigt att bära med till nästa kapitel.
 
-## Vad påverkar tolkningen?
+## Hur tung den var, och vad som låg i den
 
 **Om resväskan var tung:**
 Du bär för mycket. Något kan lämnas kvar.

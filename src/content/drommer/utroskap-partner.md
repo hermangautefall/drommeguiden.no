@@ -69,7 +69,7 @@ En person som forteller om egne drømmer der de er utro, er sjelden på vei ut �
 
 ## Projeksjon og tillit
 
-Forsker Kelly Bulkeley dokumenterte at utroskapmotiver er blant de hyppigst forekommende i parforholdsdreams globalt — og at korrelasjonen med faktisk utroskap er svak. Det er utryggheten, ikke mistanken, som driver dem.
+Utroskap er et av de motivene som går igjen i drømmer om parforhold, på tvers av kulturer — og sammenhengen med faktisk utroskap er svak. Det er utryggheten, ikke mistanken, som driver dem: drømmen tar tak i den følelsen som allerede ligger der, og gir den den mest nærgående formen den kan finne.
 
 Jung beskrev sjalusien som en av de mest komplekse psykologiske tilstandene: den inneholder begjær, frykt, selvbilde og projeksjon i ett. Drømmens utroskapscenario er ett av sjalusiens bildespråk — selv i fravær av faktisk trussel.
 

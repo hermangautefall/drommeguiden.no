@@ -71,7 +71,7 @@ En vedvarende angst som fortjener oppmerksomhet. Er det noe i livet ditt som gj�
 
 ## Det sårbare vi bærer ansvar for
 
-Forsker Antonio Zadra ved Universitetet i Montreal dokumenterte at drømmer om barns ulykker er blant de vanligste foreldrerelaterte marerittpremissene — og at de konsistent mangler prediktiv verdi for faktiske hendelser. De er angstdrømmer, ikke spådomsdrømmer.
+Mareritt der noe skjer med barnet, er blant de vanligste drømmene foreldre forteller om. Drømmeforskningen har ikke funnet holdepunkter for at slike drømmer forutsier noe som helst — de følger tvert imot det mønsteret Ernest Hartmann beskriver for mareritt generelt: psyken bearbeider sterke følelser ved å gi dem det kraftigste bildet den har. Det er angstdrømmer, ikke varsler.
 
 Det norrøne begrepet "hamingja" — den beskyttende lykkeånd som fulgte en slekt — er i denne sammenhengen interessant: en del av foreldreansvaret var å beskytte barnets hamingja. Drømmens frykt for å miste barnet er kanskje en moderne versjon av denne urgamle beskytterimpulsen.
 
