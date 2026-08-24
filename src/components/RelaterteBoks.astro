@@ -2,6 +2,7 @@
 import { defaultLang, type Lang } from '../i18n/config';
 import { pathFor } from '../i18n/utils';
 import { symbolerSomFinnes } from '../lib/finnes-symbol';
+import { symbolEtiketter } from '../lib/symbol-etikett';
 
 interface Props {
   relaterte: string[];
@@ -17,6 +18,7 @@ const title = titleByLang[lang] ?? titleByLang.nb;
 // Dropp slugger uten artikkel — de ble tidligere rendret som doede lenker
 const finnes = symbolerSomFinnes(lang);
 const gyldige = relaterte.filter((s) => finnes.has(s));
+const etiketter = symbolEtiketter(lang);
 ---
 
 {gyldige.length > 0 && (
@@ -26,7 +28,7 @@ const gyldige = relaterte.filter((s) => finnes.has(s));
     <div class="relaterte-grid">
       {gyldige.map((slug) => (
         <a href={pathFor(lang, 'drommer', slug)} class="relaterte-chip">
-          {slug.replace(/-/g, ' ')}
+          {etiketter.get(slug) ?? slug.replace(/-/g, ' ')}
         </a>
       ))}
     </div>
@@ -79,7 +81,6 @@ const gyldige = relaterte.filter((s) => finnes.has(s));
     font-size: 13px;
     font-weight: 500;
     text-decoration: none;
-    text-transform: capitalize;
     transition: all 0.2s ease;
   }
   .relaterte-chip:hover {

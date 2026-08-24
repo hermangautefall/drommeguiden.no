@@ -27,7 +27,30 @@ function countText(node) {
 // vanlige norske ord/grammatikk).
 const DENY_LIST = new Set([
   'har',  // kolliderer med hjelpeverbet "har"
+  // «vei» er nesten alltid metaforisk i denne prosaen: «finne veien»,
+  // «på vei mot», «uten å komme noen vei», «gå veien om tankene» — og
+  // «veier» er dessuten verbet («hva som veier tyngst»). Ingen av dem
+  // handler om å drømme om en vei. De fem manuelle lenkene i teksten
+  // står igjen; de er valgt bevisst av en skribent.
+  'vei',
 ]);
+
+// Ord der den generiske suffiks-regelen treffer feil. Den bøyer stammen
+// mekanisk, og for disse gir det lenker på verbformer eller faste uttrykk:
+// «Det speiler en ny side av deg» pekte til artikkelen om speil, «vi er på
+// vei mot» til artikkelen om vei, og «en innsikt som trer frem» til treet.
+// Her oppgir vi eksplisitt hvilke former som faktisk betyr symbolet.
+const MONSTER_OVERSTYRING = {
+  // «speiler» er verbet — bare substantivformene skal lenkes
+  speil: /\bspeil(?:et|ene|s)?\b/i,
+  // «tre» er som regel tallordet eller verbet «tre frem» — bare
+  // de utvetydige formene
+  tre: /\b(?:treet|trær|trærne)\b/i,
+  // «lyser» er verbet
+  lys: /\blys(?:et|ene)?\b/i,
+  // «mater» er verbet
+  mat: /\bmat(?:en)?\b/i,
+};
 
 function loadSymbols(contentDir) {
   const files = readdirSync(contentDir).filter(f => f.endsWith('.md'));
@@ -48,7 +71,8 @@ function loadSymbols(contentDir) {
     const lastChar = searchWords[searchWords.length - 1].toLowerCase();
     const endsInVowel = 'aeiouyæøå'.includes(lastChar);
     const suffix = endsInVowel ? '(?:n|t|r|ne|s)?' : '(?:en|et|er|ene|s)?';
-    const pattern = new RegExp(`\\b${escaped}${suffix}\\b`, 'i');
+    const pattern = MONSTER_OVERSTYRING[slug]
+      ?? new RegExp(`\\b${escaped}${suffix}\\b`, 'i');
     symbols.push({ slug, pattern });
   }
   return symbols;
