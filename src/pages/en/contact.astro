@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 ---
 
@@ -6,11 +7,7 @@ import Base from '../../layouts/Base.astro';
   lang="en"
   tittel="Contact us"
   beskrivelse="Questions, feedback or suggestions for new dream symbols? Get in touch with the Dream Guide."
-  alternates={[
-    { lang: 'nb', url: 'https://drommeguiden.no/kontakt/' },
-    { lang: 'sv', url: 'https://drommeguiden.no/sv/kontakt/' },
-    { lang: 'en', url: 'https://drommeguiden.no/en/contact/' },
-  ]}
+  alternates={alternatesFor('kontakt')}
 >
   <div class="static-page">
     <span class="static-label">Contact</span>

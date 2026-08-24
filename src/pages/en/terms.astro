@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 ---
 
@@ -6,6 +7,7 @@ import Base from '../../layouts/Base.astro';
   lang="en"
   tittel="Terms and disclaimer"
   beskrivelse="Terms of use for The Dream Guide. What the content is meant to be, what it is not, and what responsibility we take for the information on this site."
+  alternates={alternatesFor('vilkar')}
 >
   <div class="static-page">
     <span class="static-label">Legal</span>

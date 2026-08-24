@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 ---
 
@@ -6,7 +7,7 @@ import Base from '../../layouts/Base.astro';
   lang="sv"
   tittel="Cookiepolicy"
   beskrivelse="Översikt över kakor Drömguiden använder — analys, annonsering och driftsnödvändiga kakor."
-  alternates={[{ lang: 'nb', url: 'https://drommeguiden.no/cookies/' }]}
+  alternates={alternatesFor('cookies')}
 >
   <div class="static-page">
     <span class="static-label">Juridiskt</span>

@@ -2,27 +2,43 @@
 import { getCollection } from 'astro:content';
 
 const alleSymboler = await getCollection('drommer-en');
-const sorterteSymboler = [...alleSymboler].sort((a, b) => a.data.slug.localeCompare(b.data.slug));
+// Sensitive symboler (overfall, dodsfall, sykdom, selvskading ...) holdes
+// utenfor rotasjonen. De hoerer hjemme i samlingen, men ikke som dagens
+// utvalgte pa forsiden — det er det forste en ny leser moter.
+const egnetForForsiden = alleSymboler.filter((s: any) => !s.data.sensitivt);
+const sorterteSymboler = [...egnetForForsiden].sort((a, b) => a.data.slug.localeCompare(b.data.slug));
 
 const symbolData = sorterteSymboler.map(s => ({
   slug: s.data.slug,
-  navn: s.data.tittel.replace(/ — what does it mean\?/, '').replace('Dreaming about ', '').replace('Dream about ', ''),
+  navn: s.data.tittel.replace(/ — what does it mean\?/, '').replace(/^Dreaming (?:of|about) /, '').replace(/^Dream about /, ''),
   desc: s.data.kortbeskrivelse || '',
   bilde: s.data.bilde || '',
 }));
+
+// Symbolet roterer per dag. Tidligere ble hele samlingen (~49 kB JSON) sendt
+// til klienten, og selve kortet stod som "Laster..." i HTML-en — det var alt
+// en crawler eller en leser uten JS fikk se. Na regnes byggedagens symbol ut
+// her og rendres direkte, mens klienten bare far et lite vindu med de neste
+// dagene og oppdaterer kortet hvis leserens lokale dato er en annen.
+const MS_PER_DAG = 86400000;
+const byggDag = Math.floor(Date.now() / MS_PER_DAG);
+const dagensSymbol = symbolData[byggDag % symbolData.length];
+const vindu = Object.fromEntries(
+  Array.from({ length: 60 }, (_, i) => [byggDag + i, symbolData[(byggDag + i) % symbolData.length]]),
+);
 ---
 
-<script is:inline define:vars={{ symbolData }}>
-  window.__drommensDataEN = symbolData;
+<script is:inline define:vars={{ vindu }}>
+  window.__drommensDataEN = vindu;
 </script>
 
 <div class="drommens-dag-wrapper" id="drommens-dag-en">
   <p class="dag-label">✦ TODAY'S SYMBOL</p>
-  <div class="dag-image dag-image-fallback" id="dag-image-container-en">✨</div>
-  <h2 class="dag-navn" id="dag-navn-en">Loading...</h2>
-  <p class="dag-beskrivelse" id="dag-beskrivelse-en"></p>
+  <div class={dagensSymbol.bilde ? "dag-image" : "dag-image dag-image-fallback"} id="dag-image-container-en">{dagensSymbol.bilde ? <img src={dagensSymbol.bilde} alt={dagensSymbol.navn} loading="lazy" /> : '✨'}</div>
+  <h2 class="dag-navn" id="dag-navn-en">{dagensSymbol.navn}</h2>
+  <p class="dag-beskrivelse" id="dag-beskrivelse-en">{dagensSymbol.desc}</p>
   <div class="dag-separator"></div>
-  <a href="/en/dreams/" class="dag-link hover:no-underline" id="dag-link-en">
+  <a href={`/en/dreams/${dagensSymbol.slug}/`} class="dag-link hover:no-underline" id="dag-link-en">
     Read full interpretation <span aria-hidden="true">&rarr;</span>
   </a>
   <p class="dag-dato" id="dag-dato-en"></p>
@@ -30,27 +46,25 @@ const symbolData = sorterteSymboler.map(s => ({
 
 <script is:inline>
   (function() {
-    var data = window.__drommensDataEN;
-    if (!data || !data.length) return;
-
     var now = new Date();
-    var daysSinceEpoch = Math.floor(now.getTime() / (1000 * 60 * 60 * 24));
-    var index = daysSinceEpoch % data.length;
-    var symbol = data[index];
+    var datoEl = document.getElementById('dag-dato-en');
+    var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    if (datoEl) datoEl.textContent = months[now.getMonth()] + ' ' + now.getDate() + ', ' + now.getFullYear();
+
+    // Kortet er allerede rendret med byggedagens symbol. Vinduet dekker de
+    // neste 60 dagene; er leserens dato utenfor, star det rendrede igjen.
+    var data = window.__drommensDataEN;
+    var symbol = data && data[Math.floor(now.getTime() / 86400000)];
+    if (!symbol) return;
 
     var navnEl = document.getElementById('dag-navn-en');
     var descEl = document.getElementById('dag-beskrivelse-en');
     var linkEl = document.getElementById('dag-link-en');
-    var datoEl = document.getElementById('dag-dato-en');
     var imgContainer = document.getElementById('dag-image-container-en');
 
     if (navnEl) navnEl.textContent = symbol.navn;
     if (descEl) descEl.textContent = symbol.desc;
     if (linkEl) linkEl.href = '/en/dreams/' + symbol.slug + '/';
-
-    var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-    if (datoEl) datoEl.textContent = months[now.getMonth()] + ' ' + now.getDate() + ', ' + now.getFullYear();
-
     if (imgContainer && symbol.bilde) {
       imgContainer.className = 'dag-image';
       imgContainer.innerHTML = '<img src="' + symbol.bilde + '" alt="' + symbol.navn + '" loading="lazy" />';

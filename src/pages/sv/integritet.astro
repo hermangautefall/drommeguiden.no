@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 ---
 
@@ -6,7 +7,7 @@ import Base from '../../layouts/Base.astro';
   lang="sv"
   tittel="Integritetspolicy"
   beskrivelse="Läs Drömguidens integritetspolicy. Vilka uppgifter vi samlar in, varför, och vilka rättigheter du har enligt GDPR."
-  alternates={[{ lang: 'nb', url: 'https://drommeguiden.no/personvern/' }]}
+  alternates={alternatesFor('personvern')}
 >
   <div class="static-page">
     <span class="static-label">Juridiskt</span>

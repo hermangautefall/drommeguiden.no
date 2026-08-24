@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 import DrommensDagSV from '../../components/DrommensDagSV.astro';
 import SiteSchema from '../../components/SiteSchema.astro';
@@ -62,13 +63,10 @@ const katIkoner = [
 
 <Base
   tittel="Drömguiden"
-  beskrivelse="Ta reda på vad dina drömmar betyder. Komplett guide till drömsymboler och drömtolkning på svenska."
+  beskrivelse="Ta reda på vad dina drömmar betyder. Över 200 drömsymboler förklarade — vad de kan betyda, varför, och vad som ändrar tolkningen."
   lang="sv"
   canonicalUrl="https://drommeguiden.no/sv/"
-  alternates={[
-    { lang: 'nb', url: 'https://drommeguiden.no/' },
-    { lang: 'sv', url: 'https://drommeguiden.no/sv/' },
-  ]}
+  alternates={alternatesFor('forside')}
 >
 
   <!-- 1. HERO -->

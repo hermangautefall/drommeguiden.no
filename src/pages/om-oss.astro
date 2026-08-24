@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../lib/statiske-alternates';
 import Base from '../layouts/Base.astro';
 import { getAuthor } from '../data/authors';
 
@@ -9,7 +10,7 @@ const author = getAuthor('default');
   lang="nb"
   tittel="Om oss"
   beskrivelse="Drømmeguiden er laget for deg som våkner med en drøm i hodet og lurer på hva den betyr. Møt redaktøren og se hvordan vi jobber."
-  alternates={[{ lang: 'sv', url: 'https://drommeguiden.no/sv/om-oss/' }]}
+  alternates={alternatesFor('omOss')}
 >
   <div class="static-page">
     <span class="static-label">Om oss</span>

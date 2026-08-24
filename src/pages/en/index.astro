@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 import DrommensDagEN from '../../components/DrommensDagEN.astro';
 import SiteSchema from '../../components/SiteSchema.astro';
@@ -70,14 +71,10 @@ const katIkoner = [
 
 <Base
   tittel="The Dream Guide"
-  beskrivelse="Discover what your dreams mean. A complete guide to dream symbols and dream interpretation, sorted by theme — clear meanings, no mysticism."
+  beskrivelse="Discover what your dreams mean. Dream symbols explained — what they can mean, why, and what changes the reading. Clear, never mystical."
   lang="en"
   canonicalUrl="https://drommeguiden.no/en/"
-  alternates={[
-    { lang: 'nb', url: 'https://drommeguiden.no/' },
-    { lang: 'sv', url: 'https://drommeguiden.no/sv/' },
-    { lang: 'en', url: 'https://drommeguiden.no/en/' },
-  ]}
+  alternates={alternatesFor('forside')}
 >
 
   <!-- 1. HERO -->

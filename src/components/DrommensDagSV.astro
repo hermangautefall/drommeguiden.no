@@ -2,7 +2,11 @@
 import { getCollection } from 'astro:content';
 
 const alleSymboler = await getCollection('drommer-sv');
-const sorterteSymboler = [...alleSymboler].sort((a, b) => a.data.slug.localeCompare(b.data.slug));
+// Sensitive symboler (overfall, dodsfall, sykdom, selvskading ...) holdes
+// utenfor rotasjonen. De hoerer hjemme i samlingen, men ikke som dagens
+// utvalgte pa forsiden — det er det forste en ny leser moter.
+const egnetForForsiden = alleSymboler.filter((s: any) => !s.data.sensitivt);
+const sorterteSymboler = [...egnetForForsiden].sort((a, b) => a.data.slug.localeCompare(b.data.slug));
 
 const symbolData = sorterteSymboler.map(s => ({
   slug: s.data.slug,
@@ -10,19 +14,31 @@ const symbolData = sorterteSymboler.map(s => ({
   desc: s.data.kortbeskrivelse || '',
   bilde: s.data.bilde || '',
 }));
+
+// Symbolet roterer per dag. Tidligere ble hele samlingen (~49 kB JSON) sendt
+// til klienten, og selve kortet stod som "Laster..." i HTML-en — det var alt
+// en crawler eller en leser uten JS fikk se. Na regnes byggedagens symbol ut
+// her og rendres direkte, mens klienten bare far et lite vindu med de neste
+// dagene og oppdaterer kortet hvis leserens lokale dato er en annen.
+const MS_PER_DAG = 86400000;
+const byggDag = Math.floor(Date.now() / MS_PER_DAG);
+const dagensSymbol = symbolData[byggDag % symbolData.length];
+const vindu = Object.fromEntries(
+  Array.from({ length: 60 }, (_, i) => [byggDag + i, symbolData[(byggDag + i) % symbolData.length]]),
+);
 ---
 
-<script is:inline define:vars={{ symbolData }}>
-  window.__drommensDataSV = symbolData;
+<script is:inline define:vars={{ vindu }}>
+  window.__drommensDataSV = vindu;
 </script>
 
 <div class="drommens-dag-wrapper" id="drommens-dag-sv">
   <p class="dag-label">✦ DAGENS SYMBOL</p>
-  <div class="dag-image dag-image-fallback" id="dag-image-container-sv">✨</div>
-  <h2 class="dag-navn" id="dag-navn-sv">Laddar...</h2>
-  <p class="dag-beskrivelse" id="dag-beskrivelse-sv"></p>
+  <div class={dagensSymbol.bilde ? "dag-image" : "dag-image dag-image-fallback"} id="dag-image-container-sv">{dagensSymbol.bilde ? <img src={dagensSymbol.bilde} alt={dagensSymbol.navn} loading="lazy" /> : '✨'}</div>
+  <h2 class="dag-navn" id="dag-navn-sv">{dagensSymbol.navn}</h2>
+  <p class="dag-beskrivelse" id="dag-beskrivelse-sv">{dagensSymbol.desc}</p>
   <div class="dag-separator"></div>
-  <a href="/sv/drommar/" class="dag-link hover:no-underline" id="dag-link-sv">
+  <a href={`/sv/drommar/${dagensSymbol.slug}/`} class="dag-link hover:no-underline" id="dag-link-sv">
     Läs full tolkning <span aria-hidden="true">&rarr;</span>
   </a>
   <p class="dag-dato" id="dag-dato-sv"></p>
@@ -30,27 +46,25 @@ const symbolData = sorterteSymboler.map(s => ({
 
 <script is:inline>
   (function() {
-    var data = window.__drommensDataSV;
-    if (!data || !data.length) return;
-
     var now = new Date();
-    var daysSinceEpoch = Math.floor(now.getTime() / (1000 * 60 * 60 * 24));
-    var index = daysSinceEpoch % data.length;
-    var symbol = data[index];
+    var datoEl = document.getElementById('dag-dato-sv');
+    var months = ['januari','februari','mars','april','maj','juni','juli','augusti','september','oktober','november','december'];
+    if (datoEl) datoEl.textContent = now.getDate() + ' ' + months[now.getMonth()] + ' ' + now.getFullYear();
+
+    // Kortet er allerede rendret med byggedagens symbol. Vinduet dekker de
+    // neste 60 dagene; er leserens dato utenfor, star det rendrede igjen.
+    var data = window.__drommensDataSV;
+    var symbol = data && data[Math.floor(now.getTime() / 86400000)];
+    if (!symbol) return;
 
     var navnEl = document.getElementById('dag-navn-sv');
     var descEl = document.getElementById('dag-beskrivelse-sv');
     var linkEl = document.getElementById('dag-link-sv');
-    var datoEl = document.getElementById('dag-dato-sv');
     var imgContainer = document.getElementById('dag-image-container-sv');
 
     if (navnEl) navnEl.textContent = symbol.navn;
     if (descEl) descEl.textContent = symbol.desc;
     if (linkEl) linkEl.href = '/sv/drommar/' + symbol.slug + '/';
-
-    var months = ['januari','februari','mars','april','maj','juni','juli','augusti','september','oktober','november','december'];
-    if (datoEl) datoEl.textContent = now.getDate() + ' ' + months[now.getMonth()] + ' ' + now.getFullYear();
-
     if (imgContainer && symbol.bilde) {
       imgContainer.className = 'dag-image';
       imgContainer.innerHTML = '<img src="' + symbol.bilde + '" alt="' + symbol.navn + '" loading="lazy" />';
