@@ -36,7 +36,7 @@ Regnbuen er i norrøn tradisjon Bifrost — broen mellom Midgard og Åsgard. I d
 
 Regnbuen inneholder alle farger — og kan representere mangfold, kompleksitet og rikdommen i livets spekter. Drømmens regnbue kan handle om å se helheten, om å romme kontraster, om at livet ikke er svart-hvitt men rikt og flerfargete.
 
-### Hva påvirker tolkningen?
+### Hvor buen sto, og om du nådde den
 
 **Hvis regnbuen var klar og full:**
 Et sterkt og positivt tegn — håp og overgang er tydelig og nær.
@@ -60,19 +60,3 @@ Regnbuen representerer i drømmepsykologi integrasjon av motsetninger — alle f
 ## Buen som løfte og bro
 
 Bifrost — regnbuebroen i norrøn mytologi — er vakker men farlig: bare gudene og de verdige kan krysse den under den store [himmelen](/drommer/himmel/), og ved Ragnarok brytes den av jotunenes tyngde. I kristen tradisjon er regnbuen Guds pakt med Noah etter syndfloden — et løfte om at ødeleggelsen ikke skal gjenta seg. Uavhengig av tradisjon bærer regnbuen på det samme kjernebudskapet: det er OK. Det blir bedre.
-
-## Hva bør du gjøre etter en drøm om regnbue?
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det håp, glede, ro eller noe annet? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Regnbuedrømmer dukker ofte opp etter vanskelige perioder, som et tegn på håp og lysning. Se etter sammenhenger i din nåværende livssituasjon.
-
-### Har du drømt om regnbue flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.

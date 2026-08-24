@@ -44,7 +44,7 @@ I drømmesymbolikken er [huset](/drommer/hus/) selvet — og døren er da grense
 
 Carl Jung var opptatt av døren som symbol på psykens grenser — særlig grensen mellom det bevisste og det ubevisste. En dør som åpner seg av seg selv, en dør det banker på fra innsiden — disse variantene kan representere noe fra det ubevisste som ønsker å komme frem i bevisstheten. Noe du ikke visste var der, men som er klart til å vise seg.
 
-### Hva påvirker tolkningen?
+### Åpen, lukket eller låst — og hvem som sto der
 
 **Hvis døren var åpen:**
 En mulighet er tilgjengelig. Noe inviterer deg inn. Spørsmålet er om du tør å gå gjennom.
@@ -77,19 +77,3 @@ En dør i drømme kan tolkes som en terskel, et valg eller en overgang. En åpen
 Det som ligger bak døren er ofte det mest interessante: det ukjente, en forventning, eller noe skjult i deg selv som ennå ikke har fått komme til syne. På tvers av kulturer har dører og terskler blitt sett som ladede, beskyttede overgangssteder — i romersk mytologi vokter guden Janus alle porter og dører, med blikket vendt både bakover og fremover, som et bilde på at hver overgang knytter sammen et før og et etter.
 
 I eventyrtradisjonen er den forbudte døren et kjent motiv — den man aldri skal åpne, og som helten naturligvis åpner likevel. Det er ofte der historien egentlig begynner, og kanskje er det noe av det samme drømmen din peker mot: at det er på den andre siden av døren noe nytt kan starte.
-
-## Hva bør du gjøre etter en drøm om dør?
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det nysgjerrighet, frykt, forventning eller noe annet? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Dørdrømmer dukker ofte opp i perioder med overganger, valg og nye muligheter. Se etter sammenhenger i din nåværende livssituasjon.
-
-### Har du drømt om dør flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.

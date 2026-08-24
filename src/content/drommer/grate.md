@@ -42,22 +42,6 @@ Forskning på drømmenes følelsesmessige funksjon peker på at REM-søvn spille
 
 I en kultur der det ikke alltid er like lett å gråte åpent foran andre, kan drømmen bli et sted der disse følelsene endelig får komme til uttrykk, uten at noen ser det. Det gjør ikke gråtedrømmene mindre ekte — tvert imot er de ofte blant de mest ærlige øyeblikkene følelseslivet vårt får, nettopp fordi ingen andre er der for å observere dem.
 
-## Hva bør du gjøre etter en drøm om å gråte?
-
-Gråtedrømmer sitter ofte igjen i kroppen lenge etter oppvåkning, og de er verdt å bruke litt tid på fremfor å avfeie som «bare en drøm». Tre spørsmål kan hjelpe deg videre:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det lettelse, sorg, tyngde eller noe helt annet? Denne følelsen peker som regel mer direkte mot hva drømmen faktisk handler om for deg, enn selve handlingen i drømmen gjør.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Gråtedrømmer dukker ofte opp i perioder med undertrykte følelser eller sorg som ennå ikke er ferdig bearbeidet. Se etter sammenhenger i din nåværende livssituasjon — noe uttalt eller uuttalt som har ligget og ventet på plass til å bli kjent på.
-
-### Har du drømt om å gråte flere ganger?
-
-Gjentatte drømmer er gjerne underbevissthetens måte å understreke et budskap på. Skriv gjerne ned drømmene dine og se etter mønstre over tid — hva går igjen, og hva er annerledes fra gang til gang?
-
 ## Kilder og videre lesning
 
 - Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — om drømmers rolle i følelsesmessig bearbeiding, relevant for gråt som en sunn prosesseringsmekanisme.

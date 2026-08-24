@@ -78,19 +78,3 @@ En dörr i drömmen kan tolkas som en tröskel, ett val eller en övergång. En 
 Det som finns bakom dörren är ofta det mest intressanta: det okända, en förväntan, eller något dolt inom dig själv som ännu inte fått komma till uttryck. Genom olika kulturer har dörrar och trösklar setts som laddade, skyddade övergångsplatser — i romersk mytologi vaktar guden Janus alla portar och dörrar, med blicken vänd både bakåt och framåt, som en bild av att varje övergång knyter samman ett före och ett efter.
 
 I sagotraditionen är den förbjudna dörren ett välkänt motiv — den man aldrig ska öppna, och som hjälten naturligtvis öppnar likväl. Det är ofta där berättelsen egentligen börjar, och kanske är det något liknande din dröm pekar mot: att det är på andra sidan dörren något nytt kan ta sin början.
-
-## Vad bör du göra efter en dröm om dörr?
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det nyfikenhet, rädsla, förväntan eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Dörrdrömmar dyker ofta upp i perioder med övergångar, val och nya möjligheter. Leta efter samband i din nuvarande livssituation.
-
-### Har du drömt om dörr flera gånger?
-
-Upprepade drömmar är det omedvetnas sätt att understryka ett budskap. Skriv ner drömmarna och leta efter mönster över tid.

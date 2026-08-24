@@ -80,19 +80,3 @@ En trappa kan tolkas som rörelse mellan nivåer i livet eller i medvetandet. At
 Oändliga trappor, eller en känsla av att aldrig nå toppen, tolkas ofta som frustration över att framsteg känns omöjligt. Att falla nerför trappan i en dröm kan på samma sätt peka mot en upplevelse av att förlora kontrollen, eller ett bakslag man oroar sig för.
 
 [Huset](/sv/drommar/hus/) förknippas ofta i drömmar med jaget, där de olika våningarna kan representera olika sidor av medvetandet — [källaren](/sv/drommar/kallare/) som det dolda och omedvetna, vinden som det glömda. Trappan blir då förbindelsen mellan dessa lager. Genom olika traditioner finns liknande bilder av trappor och stegar som knyter jorden till himlen — Jakobs stege i bibliska berättelser, eller tempeltrappor som en fysisk bro mellan människans värld och något större.
-
-## Vad bör du göra efter en dröm om trappa?
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det spänning, ångest, lättnad eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Trappdrömmar dyker ofta upp i perioder med framgång, tillbakagång eller övergångar. Leta efter sammanhang i din nuvarande livssituation.
-
-### Har du drömt om trappa flera gånger?
-
-Återkommande drömmar är det omedvetnas sätt att understryka ett budskap. Skriv ner drömmarna och leta efter mönster över tid.

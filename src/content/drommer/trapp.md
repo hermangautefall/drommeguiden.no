@@ -46,7 +46,7 @@ Denne midtposisjonen kan kjennes ubehagelig eller spennende, avhengig av hvordan
 
 Freud mente at drømmens trappegang — den rytmiske, gjentakende bevegelsen oppover — hadde en seksuell dimensjon. Han dokumenterte at mange av hans pasienters trappedrømmer var knyttet til seksuelle impulser og spenning. Selv om man ikke nødvendigvis aksepterer hele det freudianske rammeverket, er det en observasjon som peker på noe reelt: trappegangens kropp og rytme kan aktivere fysiologiske responser.
 
-### Hva påvirker tolkningen?
+### Opp, ned, eller en trapp som ikke tar slutt
 
 **Hvis du gikk oppover med letthet:**
 Fremgang, optimisme og en klar vei fremover. Noe er i positiv bevegelse.
@@ -79,19 +79,3 @@ En trapp kan tolkes som bevegelse mellom nivåer i livet eller i bevisstheten. �
 Endeløse trapper, eller en følelse av aldri å nå toppen, tolkes ofte som frustrasjon over at fremgang virker umulig å oppnå. Å falle ned trappen i en drøm kan på samme måte peke mot en opplevelse av å miste kontroll, eller et tilbakeslag man er bekymret for.
 
 [Huset](/drommer/hus/) forbindes ofte i drømmer med selvet, der de ulike etasjene kan representere ulike sider av bevisstheten — [kjelleren](/drommer/kjeller/) som det skjulte og ubevisste, loftet som det glemte. Trappen blir da forbindelsen mellom disse lagene. På tvers av tradisjoner finner man lignende bilder av trapper og stiger som knytter jord til himmel — Jakobs stige i bibelsk fortelling, eller tempeltrapper som en fysisk bro mellom menneskeverden og noe større.
-
-## Hva bør du gjøre etter en drøm om trapp?
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det spenning, angst, lettelse eller noe annet? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Trappedrømmer dukker ofte opp i perioder med fremgang, tilbakegang eller overganger. Se etter sammenhenger i din nåværende livssituasjon.
-
-### Har du drømt om trapp flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.

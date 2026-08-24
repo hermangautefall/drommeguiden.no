@@ -70,19 +70,3 @@ Forskning om drömmarnas emotionella funktion visar att REM-sömnen spelar en vi
 Drömmens gråt kan också ge utrymme för känslor du inte tillåter dig själv att känna fullt ut i vaket tillstånd. I en kultur där vi inte alltid gråter lätt inför andra kan drömmen bli en plats där dessa känslor äntligen får komma till uttryck — utan att någon ser det.
 
 Att gråta för någon annan i drömmen, oavsett om det är någon du älskar eller [någon som har det svårt](/sv/drommar/avliden-person/), kan också handla om medkänsla: en förmåga att känna andras smärta som din egen. Oavsett vad drömmen handlar om är gråtdrömmar oftast ett tecken på att något bearbetas — inte ett dåligt varsel.
-
-## Vad bör du göra efter en dröm om att gråta?
-
-Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du kvar med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det lättnad, sorg, tyngd eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Gråtdrömmar dyker ofta upp i perioder av undertryckta känslor eller obearbetad sorg. Leta efter samband i din nuvarande livssituation.
-
-### Har du drömt om att gråta flera gånger?
-
-Återkommande drömmar är det undermedvetnas sätt att understryka ett budskap. Skriv ned drömmarna och leta efter mönster över tid.

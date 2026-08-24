@@ -61,19 +61,3 @@ Regnbågen representerar inom drömpsykologin integrering av motsatser — alla 
 ## Bågen som löfte och bro
 
 Bifrost — regnbågsbron i fornnordisk mytologi — är vacker men farlig: bara gudarna och de värdiga kan korsa den under den stora [himlen](/sv/drommar/himmel/), och vid Ragnarök bryts den av jättarnas tyngd. I kristen tradition är regnbågen Guds förbund med Noa efter syndafloden — ett löfte om att förödelsen inte ska upprepas. Oavsett tradition bär regnbågen på samma kärnbudskap: det är OK. Det blir bättre.
-
-## Vad bör du göra efter en dröm om regnbåge?
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det hopp, glädje, ro eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Regnbågsdrömmar dyker ofta upp efter svåra perioder, som ett tecken på hopp och ljusning. Leta efter samband i din nuvarande livssituation.
-
-### Har du drömt om regnbåge flera gånger?
-
-Återkommande drömmar är det omedvetnas sätt att understryka ett budskap. Skriv ner drömmarna och leta efter mönster över tid.

@@ -36,7 +36,7 @@ Svømmingen er det fysiske uttrykket for å "holde seg over vannet" — og drøm
 
 Svømmingen kan også være rent positiv — en opplevelse av frihet, letthet og flyt. Å bevege seg gjennom vann med glede og letthet speiler en periode der du er i din rette element, der noe kjennes naturlig og godt.
 
-### Hva påvirker tolkningen?
+### Medstrøms, motstrøms eller på dypt vann
 
 **Hvis du svømte lett og fritt:**
 Du er i flyt. Noe kjennes naturlig og bevegelsesfriheten er der.
@@ -63,19 +63,3 @@ I jungiansk forstand er svømmingen en av de mest aktive og modige drømmene man
 ## Svømming som mestring
 
 I norrøn tradisjon er evnen til å svømme nær hellig — sjøfolk som ikke kunne svømme var hjelpeløse ved havari, og [havet](/drommer/hav/) var like mye liv som død. Å svømme er å ha respekt for vannet uten å la det beseire deg.
-
-## Hva bør du gjøre etter en drøm om å svømme?
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det frihet, kamp, letthet eller angst? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Svømmedrømmer dukker ofte opp i perioder der du navigerer noe emosjonelt krevende. Se etter sammenhenger i din nåværende livssituasjon.
-
-### Har du drømt om å svømme flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.

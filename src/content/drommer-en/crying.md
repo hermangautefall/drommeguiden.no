@@ -71,19 +71,3 @@ Research into the emotional function of dreams suggests that REM sleep plays an 
 Crying in a dream can also make room for feelings you don't let yourself feel fully while awake. In a culture where we don't always cry easily in front of others, the dream can become a place where these feelings finally get to come out — without anyone watching.
 
 Crying for someone else in a dream, whether it's someone you love or someone who is suffering, can also be about compassion: an ability to feel someone else's pain as your own. Whatever the dream is about, crying dreams are usually a sign that something is being processed — not a bad omen.
-
-## What should you do after a dream about crying?
-
-Dreams rarely give one simple answer — they speak to you through images and feelings. Ask yourself:
-
-### What feeling did you wake up with?
-
-The feeling is the dream's most important clue. Was it relief, grief, heaviness, or something else? That feeling points to what the dream is about for you.
-
-### What's going on in your life right now?
-
-Crying dreams often show up during periods of suppressed feelings or unprocessed grief. Look for connections to your current life situation.
-
-### Have you dreamed about crying more than once?
-
-Recurring dreams are the subconscious mind's way of underlining a message. Write the dreams down and look for patterns over time.

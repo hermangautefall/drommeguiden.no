@@ -66,19 +66,3 @@ Jung beskrev huset i drömmarna som en av de viktigaste arketypiska symbolerna, 
 ## Minnena vi sparar
 
 I nordisk huskultur är vinden historiskt sett ett speciellt rum: på de gamla torparplatserna och gårdshusen var vinden gärna där flickorna sov, och den hade en viss mystik och privatliv. Att drömma om en nordisk vind berör detta kulturella arv av det halvprivata, det mellan-rumsliga.
-
-## Vad bör du göra efter en dröm om vind?
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det nostalgi, nyfikenhet, ro eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Vindsdrömmar dyker ofta upp när något från det förflutna är redo att plockas fram igen. Sök efter samband i din nuvarande livssituation.
-
-### Har du drömt om vinden flera gånger?
-
-Återkommande drömmar är undermedvetandets sätt att understryka ett budskap. Skriv ner drömmarna och sök efter mönster över tid.

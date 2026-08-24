@@ -67,19 +67,3 @@ En bro i drömmen kan tolkas som att korsa från en fas eller ett tillstånd til
 Hur korsningen känns kan säga något om var du står i denna övergång. Att gå tryggt över bron tolkas ofta som att du är redo för förändringen, medan att tveka, eller drömma om en bro som vacklar eller är trasig, kan peka mot osäkerhet om det är säkert att gå vidare just nu. Det som finns under bron kan också vara värt att lägga märke till — vatten under bron förknippas ofta med känslor, medan ett stup kan handla om risk. När man säger att någon "bygger broar" handlar det ofta om att reparera en relation eller förena delar av livet som vuxit isär.
 
 Genom olika kulturer har broar setts som förbindelser mellan världar — i zoroastrisk tradition korsar själen Chinvat-bron efter döden, och regnbågen har ofta tolkats som en bro mellan himmel och jord. Sådana bilder kan påminna om att en bro i drömmen lika gärna kan handla om en andlig eller inre övergång som en praktisk en, och att [havet](/sv/drommar/hav/) eller vattnet den korsar ofta säger lika mycket som bron själv.
-
-## Vad bör du göra efter en dröm om bro?
-
-Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det mod, osäkerhet, spänning eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Brodrömmar dyker ofta upp i perioder med övergångar och stora livsval. Leta efter samband i din nuvarande livssituation.
-
-### Har du drömt om bro flera gånger?
-
-Upprepade drömmar är det omedvetnas sätt att understryka ett budskap. Skriv ner drömmarna och leta efter mönster över tid.

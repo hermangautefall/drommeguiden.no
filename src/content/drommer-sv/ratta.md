@@ -63,19 +63,3 @@ Jung skulle ha sett råttan som en manifestation av Skuggan i sin mest obehaglig
 ## Råttan mellan pest och överlevnad
 
 Råttan är i västerländsk tradition genomgående negativt laddad — från digerdöden till skräckfilmens kloakråtta. Men i kinesisk tradition är råttan faktiskt det första djuret i stjärnteckenscykeln och representerar intelligens, resursrikedom och anpassningsförmåga. I en nordisk kontext är råttan primärt en negativ symbol — skadedjur, förruttnelse, något man inte vill ha i huset.
-
-## Vad bör du göra efter en dröm om råtta?
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det avsky, rädsla, obehag eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Råttdrömmar dyker ofta upp när något dolt gnager på dig eller en situation känns hotfull. Leta efter samband i din nuvarande livssituation.
-
-### Har du drömt om råtta flera gånger?
-
-Återkommande drömmar är det omedvetnas sätt att understryka ett budskap. Skriv ner drömmarna och leta efter mönster över tid.

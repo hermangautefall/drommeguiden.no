@@ -36,7 +36,7 @@ Broen kan også handle om å skape forbindelser — mellom mennesker, mellom del
 
 Det å krysse en bro krever tillit — til konstruksjonen, til det som venter på den andre siden. Brodrømmene handler tidvis om nettopp dette: evnen til å ta et steg inn i det ukjente, å stole på at underlaget holder, å gå mot noe man ikke fullt kan se.
 
-### Hva påvirker tolkningen?
+### Broens tilstand og hva som skjedde
 
 **Hvis broen var solid og trygg:**
 Du er klar for overgangen. Fundamentet holder, og den andre siden er innen rekkevidde.
@@ -66,19 +66,3 @@ En bro i drømme kan tolkes som det å krysse fra én fase eller tilstand til en
 Hvordan krysningen kjennes kan si noe om hvor du står i denne overgangen. Å gå trygt over broen tolkes ofte som at du er klar for forandringen, mens å nøle, eller drømme om en bro som vakler eller er ødelagt, kan peke mot usikkerhet om det er trygt å gå videre akkurat nå. Det som befinner seg under broen kan også være verdt å legge merke til — vann under broen forbindes ofte med følelser, mens et stup kan handle om risiko. Når vi sier at noen "bygger broer", handler det ofte om å reparere en relasjon eller forene deler av livet som har vokst i hver sin retning.
 
 På tvers av kulturer har broer blitt sett som forbindelser mellom verdener — i zoroastrisk tradisjon krysser sjelen Chinvat-broen etter døden, og regnbuen har ofte blitt tolket som en bro mellom himmel og jord. Slike bilder kan minne om at en bro i drømme like gjerne kan handle om en åndelig eller indre overgang som en praktisk en, og at [elven](/drommer/elv/) eller [havet](/drommer/hav/) den krysser ofte forteller like mye som broen selv.
-
-## Hva bør du gjøre etter en drøm om bro?
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det mot, usikkerhet, spenning eller noe annet? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Brodrømmer dukker ofte opp i perioder med overganger og store livsvalg. Se etter sammenhenger i din nåværende livssituasjon.
-
-### Har du drømt om bro flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.

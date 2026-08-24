@@ -44,7 +44,7 @@ Treet vokser — aldri ferdig, alltid i bevegelse. Det er ett av naturen mest pr
 
 Treet strekker seg i begge retninger — ned i jordens mørke og opp mot himmelens lys. I dette er det et symbol på forbindelsen mellom det materielle og det åndelige, det jordbundne og det transcendente. En person som er godt rotfestet og likevel åpen mot det høyere. Et liv i balanse mellom det konkrete og det meningsfulle.
 
-### Hva påvirker tolkningen?
+### Stammen, kronen og røttene du så
 
 **Hvis treet var kraftfullt og frodigt:**
 God livsenergi, solid fundament og rik personlig vekst. Noe blomstrer.
@@ -84,19 +84,3 @@ Yggdrasil er ikke bare et tre — det er selve eksistensmønsteret, kartet over 
 Carl Jung så treet som ett av de sterkeste symbolene på psykens utviklingsprosess — individuasjonen. Han analyserte hundrevis av drømmers tresymboler og fant at treet gjennom drømmene vokste, metamorfoserte og modnet i takt med drømmerens psykologiske utvikling. I hans berømte bok om mandalas og symboler analyserer han et tre som vokser gradvis gjennom et pasientforløp — fra knopp til fullvokst tre — som et direkte bilde på en persons psykologiske helbredelse.
 
 Ligninjen mellom Yggdrasil og Jungs tre er kortere enn den ser ut.
-
-## Hva bør du gjøre etter en drøm om tre?
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det ro, ærefrykt, sorg eller noe annet? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Tredrømmer dukker ofte opp i perioder med personlig vekst eller spørsmål om røtter og identitet. Se etter sammenhenger i din nåværende livssituasjon.
-
-### Har du drømt om tre flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.

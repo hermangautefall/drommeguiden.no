@@ -44,7 +44,7 @@ Toalettet er kulturelt sett det mest private rommet vi har — og drømmene der 
 
 Et toalett som ikke fungerer, som er skittent, eller som er umulig å bruke, er et vanlig bilde på en situasjon der noe ikke fungerer som det skal — der presset bygger seg opp uten utløp. En situasjon der du ikke kan levere det som forventes.
 
-### Hva påvirker tolkningen?
+### Låst dør, skittent eller ingen skjerming i det hele tatt
 
 **Hvis du ikke fant et toalett:**
 Noe du trenger å gi slipp på har ikke funnet en arena — du bærer på noe som ikke har fått uttrykk.
@@ -68,19 +68,3 @@ Freud — naturligvis — hadde mye å si om toalettsymbolikk. Han knyttet det t
 ## Det kroppslige vi ikke snakker om
 
 Interessant nok er toalettdrømmene universalt vanlige på tvers av kulturer — de er dokumentert i drømmestudier over hele verden som en av de hyppigste drømmekategoriene. Uavhengig av kultur er behovet for å gi slipp dypt menneskelig.
-
-## Hva bør du gjøre etter en drøm om toalett?
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det lettelse, skam, frustrasjon eller noe annet? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Toalettdrømmer dukker ofte opp i perioder med press, behov for å gi slipp, eller situasjoner der privatlivet utfordres. Se etter sammenhenger.
-
-### Har du drømt om toalett flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.

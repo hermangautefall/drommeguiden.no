@@ -68,19 +68,3 @@ Jung beskrev källaren explicit som representation av det personliga omedvetna �
 ## Det vi lagrar och inte vill titta på
 
 Det finns en viktig övning i jungiansk terapi: att gå ner i källaren, se vad som är där, och bära det upp i ljuset. Inte för att bli av med det — utan för att äga det. För det vi inte äger, äger oss.
-
-## Vad bör du göra efter en dröm om källare?
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det rädsla, nyfikenhet, obehag eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Källardrömmar dyker ofta upp när något undertryckt eller förträngt pressar sig fram. Sök efter samband i din nuvarande livssituation.
-
-### Har du drömt om källare flera gånger?
-
-Återkommande drömmar är undermedvetandets sätt att understryka ett budskap. Skriv ner drömmarna och sök efter mönster över tid.

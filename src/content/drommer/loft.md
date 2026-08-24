@@ -65,19 +65,3 @@ Jung beskrev huset i drømmene som et av de viktigste arketypiske symbolene, og 
 ## Minnene vi tar vare på
 
 I norsk huskultur er loftet historisk sett et spesielt rom: på de gamle Husmannsplassene og gårdshusene var loftet gjerne der jentene sov, og det hadde en viss mystikk og privatliv. Å drømme om et norsk loft berører denne kulturelle arven av det halvt-private, det mellom-romlige.
-
-## Hva bør du gjøre etter en drøm om loft?
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det nostalgi, nysgjerrighet, ro eller noe annet? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Loftsdrømmer dukker ofte opp når noe fra fortiden er klart til å hentes frem igjen. Se etter sammenhenger i din nåværende livssituasjon.
-
-### Har du drømt om loft flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.

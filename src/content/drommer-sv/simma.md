@@ -63,19 +63,3 @@ I jungiansk mening är simmandet en av de mest aktiva och modiga drömmar man ka
 ## Simning som bemästrande
 
 I fornnordisk tradition är förmågan att simma nästan helig — sjöfolk som inte kunde simma var hjälplösa vid haveri, och [havet](/sv/drommar/hav/) var lika mycket liv som död. Att simma är att ha respekt för vattnet utan att låta det besegra dig.
-
-## Vad bör du göra efter en dröm om att simma?
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det frihet, kamp, lätthet eller ångest? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Simdrömmar dyker ofta upp i perioder då du navigerar något emotionellt krävande. Leta efter sammanhang i din nuvarande livssituation.
-
-### Har du drömt om att simma flera gånger?
-
-Återkommande drömmar är det omedvetnas sätt att understryka ett budskap. Skriv ner drömmarna och leta efter mönster över tid.

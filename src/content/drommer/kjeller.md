@@ -67,19 +67,3 @@ Jung beskrev kjelleren eksplisitt som representasjon av det personlige ubevisste
 ## Det vi lagrer og ikke vil se på
 
 Det finnes en viktig øvelse i jungiansk terapi: å gå ned i kjelleren, se hva som er der, og bære det opp i lyset. Ikke for å bli kvitt det — men for å eie det. Fordi det vi ikke eier, eier oss.
-
-## Hva bør du gjøre etter en drøm om kjeller?
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det frykt, nysgjerrighet, ubehag eller noe annet? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Kjellerdrømmer dukker ofte opp når noe undertrykt eller fortrengt presser seg frem. Se etter sammenhenger i din nåværende livssituasjon.
-
-### Har du drømt om kjeller flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.

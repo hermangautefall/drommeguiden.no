@@ -69,19 +69,3 @@ Freud — naturligtvis — hade mycket att säga om toalettsymbolik. Han knöt d
 ## Det kroppsliga vi inte talar om
 
 Intressant nog är toalettdrömmarna universellt vanliga över olika kulturer — de är dokumenterade i drömstudier världen över som en av de mest frekventa drömkategorierna. Oavsett kultur är behovet att släppa taget djupt mänskligt.
-
-## Vad bör du göra efter en dröm om toalett?
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det lättnad, skam, frustration eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Toalettdrömmar dyker ofta upp i perioder med press, behov av att släppa, eller situationer där privatlivet utmanas. Leta efter sammanhang.
-
-### Har du drömt om toalett flera gånger?
-
-Återkommande drömmar är det omedvetnas sätt att understryka ett budskap. Skriv ner drömmarna och leta efter mönster över tid.

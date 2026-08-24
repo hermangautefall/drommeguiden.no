@@ -84,19 +84,3 @@ Yggdrasil är inte bara ett träd — det är själva existensmönstret, kartan 
 Carl Jung såg trädet som en av de starkaste symbolerna för psykets utvecklingsprocess — individuationen. Han analyserade hundratals drömmars trädsymboler och fann att trädet genom drömmarna växte, metamorfoserade och mognade i takt med drömmarens psykologiska utveckling. I sin berömda bok om mandalas och symboler analyserar han ett träd som växer gradvis genom ett patientförlopp — från knopp till fullvuxet träd — som en direkt bild av en persons psykologiska läkning.
 
 Likheten mellan Yggdrasil och Jungs träd är kortare än den ser ut.
-
-## Vad bör du göra efter en dröm om träd?
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-### Vilken känsla satt du med när du vaknade?
-
-Känslan är drömmens viktigaste nyckel. Var det ro, vördnad, sorg eller något annat? Denna känsla pekar mot vad drömmen handlar om för dig.
-
-### Vad händer i ditt liv just nu?
-
-Träddrömmar dyker ofta upp i perioder av personlig växt eller frågor om rötter och identitet. Leta efter sammanhang i din nuvarande livssituation.
-
-### Har du drömt om träd flera gånger?
-
-Återkommande drömmar är det omedvetnas sätt att understryka ett budskap. Skriv ner drömmarna och leta efter mönster över tid.

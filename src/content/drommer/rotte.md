@@ -62,19 +62,3 @@ I jungiansk psykologi er Skyggen betegnelsen på de sidene av oss selv vi ikke v
 ## Rotten mellom pest og overlevelse
 
 Rotten er i vestlig tradisjon gjennomgående negativt ladet — fra svartedauden til skrekkfilmens kloakkrotte. Men i kinesisk tradisjon er rotten faktisk det første dyret i stjernetegnsyklusen og representerer intelligens, ressursrikdom og tilpasningsevne. I en norsk kontekst er rotten primært et negativt symbol — skadedyr, forrådnelse, noe man ikke vil ha i huset.
-
-## Hva bør du gjøre etter en drøm om rotte?
-
-Rottedrømmer sitter ofte igjen lenge etter at du har våknet — ubehaget er sjelden tilfeldig. Spør deg selv:
-
-### Hvilken følelse satt du igjen med da du våknet?
-
-Følelsen er drømmens viktigste nøkkel. Var det avsky, frykt, ubehag eller noe annet? Denne følelsen peker mot hva drømmen handler om for deg.
-
-### Hva skjer i livet ditt akkurat nå?
-
-Rottedrømmer dukker ofte opp når noe skjult gnager på deg eller en situasjon føles truende. Se etter sammenhenger i din nåværende livssituasjon.
-
-### Har du drømt om rotte flere ganger?
-
-Gjentatte drømmer er underbevissthetens måte å understreke et budskap. Skriv ned drømmene og se etter mønstre over tid.
