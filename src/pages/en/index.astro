@@ -115,7 +115,7 @@ const katIkoner = [
         <div class="hero-stats">
           <span class="hero-stat">{drommer.length} symbols</span>
           <span class="hero-stat">{kategorier.length} categories</span>
-          <span class="hero-stat">{guider.length} guides</span>
+          {guider.length > 0 && <span class="hero-stat">{guider.length} guides</span>}
         </div>
       </div>
 
