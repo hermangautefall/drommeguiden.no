@@ -44,7 +44,7 @@ Det kan også være verdt å spørre om det er en konkret vane eller et trekk ve
 
 Paradoksalt nok kan drømmer om eksen også være tegn på at du er i ferd med å legge kapittelet bak deg for godt — en slags siste gjennomgang før det legges vekk. Dette gjelder særlig når drømmen har en rolig eller avsluttende kvalitet: dere snakker fredelig sammen, du vinker farvel, eller du ser eksen på avstand uten behov for å nærme deg. Mange opplever at eksendrømmene endrer karakter over tid — fra intense og forvirrende scener til roligere og mer distanserte bilder, for til slutt å bli sjeldnere. Det er bearbeidingsprosessen i praksis.
 
-## Konteksten som endrer bildet
+## Krangel, ny partner, eller eksen midt i en helt annen drøm
 
 Konteksten i drømmen gir ofte den beste ledetråden. Krangler dere, kan det peke mot ubearbeidet sinne eller noe som aldri ble sagt. Er eksen sammen med noen andre, kan drømmen speile sjalusi eller usikkerhet mer generelt — ikke nødvendigvis rettet mot eksen selv, men en frykt for å bli erstattet eller glemt. Dukker eksen opp i en helt annen sammenheng, for eksempel på jobben eller i [barndomshjemmet](/drommer/hus/), tyder det på at drømmen handler om noe annet enn selve forholdet — eksen er da et symbol, og konteksten gir deg ledetråden til hva symbolet står for.
 

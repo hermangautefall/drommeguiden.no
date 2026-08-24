@@ -22,7 +22,7 @@ Innen tilknytningsteori regnes forholdet til mor gjerne som malen vi bærer med 
 
 Hva det betyr å drømme om mor avhenger sterkt av to ting: hva som skjedde i drømmen, og hvordan relasjonen din til henne faktisk er. Mange som drømmer om mor i en periode, drømmer også om [faren sin](/drommer/far/) i samme tidsrom — de to figurene henger ofte sammen i drømmenes indre logikk.
 
-## Hva drømmen ofte handler om
+## Trygghet, og den indre stemmen som ligner hennes
 
 ### Et behov for trygghet
 
@@ -36,7 +36,7 @@ I jungiansk psykologi omtales mor ofte som en arketype — «den store moren» �
 
 Drømmer om mor melder seg også når noe mellom dere ikke er avsluttet — en gammel konflikt, ord som aldri ble sagt, eller sorg etter et tap. Dette gjelder i særlig grad dem som har mistet moren sin: [drømmer om avdøde](/drommer/avdod-person/) foreldre er svært vanlige, og oppleves ofte som trøstende snarere enn skremmende.
 
-## Konteksten som endrer tolkningen
+## Glad, sint, syk — eller avdød og fullt til stede
 
 Måten mor opptrer på i drømmen, farger tolkningen mye. En mor som er glad og nær, tolkes ofte som et godt tegn — et signal om at trygghet og støtte finnes i livet ditt, eller at du lengter etter mer av det. En mor som virker sint, skuffet eller kald, kan heller speile indre selvkritikk eller en frykt for å skuffe noen — ikke nødvendigvis noe om henne personlig. Er hun syk eller i fare i drømmen, kan det handle om angst for å miste noen du er glad i, eller om en reell bekymring for hennes helse hvis hun er eldre eller [syk](/drommer/sykdom/). Kranglet dere, kan drømmen peke mot uoppgjorte følelser — eller en indre konflikt mellom det du selv vil, og det du tror forventes av deg. Og dersom hun er avdød, men fullt til stede og levende i drømmen, er dette en av de mest kjente og trøstende drømmevariantene som finnes: mange beskriver den som et besøk, mer virkelig enn en vanlig drøm.
 
