@@ -329,6 +329,22 @@ const katIkoner = [
           return;
         }
 
+        // Rangering: eksakt slug foerst, deretter treff i starten av
+        // slug/tittel, saa treff lenger inne, og til slutt treff som bare
+        // staar i beskrivelsen. Uten dette ble listen sortert alfabetisk,
+        // og et soek paa "slange" ga "orm" oeverst fordi ordet stod i
+        // ormeartikkelens beskrivelse.
+        const score = (s) => {
+          const slug = s.slug.toLowerCase();
+          const tittel = s.tittel.toLowerCase();
+          if (slug === query) return 0;
+          if (slug.startsWith(query)) return 1;
+          if (tittel.includes(' ' + query) || tittel.startsWith(query)) return 2;
+          if (slug.includes(query)) return 3;
+          if (tittel.includes(query)) return 4;
+          return 5;
+        };
+
         const treff = symboler
           .filter((s) => s.lang === siteLang)
           .filter(
@@ -337,6 +353,7 @@ const katIkoner = [
               s.tittel.toLowerCase().includes(query) ||
               s.kortbeskrivelse.toLowerCase().includes(query)
           )
+          .sort((a, b) => score(a) - score(b) || a.slug.length - b.slug.length)
           .slice(0, 6);
 
         if (treff.length === 0) {
