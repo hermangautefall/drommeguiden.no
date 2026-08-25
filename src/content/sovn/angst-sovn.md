@@ -102,5 +102,5 @@ Les videre: [Søvnproblemer og insomni](/sovn/sovnproblemer/) — [Søvnhygiene:
 
 - Helsedirektoratet — ["Søvn og søvnvansker"](https://www.helsedirektoratet.no/tema/sovn/sovn-og-sovnvansker)
 - Helse Bergen / Nasjonalt kompetansesenter for søvnsykdommer (SOVno) — ["Nasjonal anbefaling for utredning og behandling av insomni"](https://www.helse-bergen.no/49cddc/siteassets/seksjon/sovno/documents/nasjonal-anbefaling-for-utredning-og-behandling-av-insomni.pdf) (PDF)
-- Norsk Forening for Kognitiv Terapi — ["Kognitiv atferdsterapi ved insomni — veileder for helsepersonell (2025)"](https://kognitiv.no/wp-content/uploads/2025/03/Veileder-for-helsepersonell_insomnibehandling_2025.pdf) (PDF)
+- Norsk forening for kognitiv atferdsterapi — ["Ferdige behandlingsopplegg — fritt tilgjengelig"](https://kognitiv.no/ferdige-behandlingsopplegg-fritt-tilgjengelig/)
 - Norsk Helseinformatikk (NHI.no) — ["Søvnforstyrrelser hos voksne, veiviser"](https://nhi.no/symptomer/psyke-og-sinn/sovnforstyrrelser-hos-voksne-veiviser)

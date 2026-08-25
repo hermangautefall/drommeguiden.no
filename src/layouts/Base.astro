@@ -161,6 +161,14 @@ const hreflangLinks = [
       @import '../styles/global.css';
     </style>
 
+    <!-- Typografi for markdown-innhold. Maa vaere is:global: innhold fra
+         markdown faar ikke Astros scope-attributt, saa scopede .prose-regler
+         traff aldri artikkelteksten. Foer dette falt brodtekstlenker tilbake
+         til nettleserens standardblaa. -->
+    <style is:global>
+      @import '../styles/prose.css';
+    </style>
+
     <!-- Touch targets (WCAG 2.5.5 / Apple HIG — 80% mobil, iOS Safari).
          Truly global (is:global) så regelen treffer elementer på tvers
          av komponenter. .prose a bevisst utelatt for ikke å bryte
