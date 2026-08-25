@@ -60,3 +60,9 @@ Den vanligste lesningen av fengselsdrømmer handler om å føle seg fanget eller
 For andre kan fengselet handle om skyld eller samvittighet — en følelse av å straffe seg selv, eller en uro for konsekvenser av noe som har skjedd. Sprinklene i drømmen kan også representere mentale og følelsesmessige begrensninger du selv har bygget opp over tid: overbevisninger om hva du ikke kan, ikke fortjener, eller ikke får lov til. Et nyttig spørsmål å ta med seg er gjerne: hvem holder egentlig nøkkelen?
 
 Mye av dette handler om hvordan vi, ofte uten å merke det, internaliserer regler og forventninger og blir våre egne voktere. Å drømme om fengsel kan derfor være en vennlig påminnelse om å undersøke hvilke av disse murene som faktisk er nødvendige — og hvilke du kanskje kan gå gjennom.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — de selvpålagte begrensningene, og fangevokteren som ofte viser seg å være en selv.
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: innesperring som en av de eldste truslene.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor fengselsdrømmer kommer når valgfriheten oppleves liten.

@@ -56,3 +56,9 @@ Delfinen forbindes ofte med intelligens, lekenhet og glede — egenskaper som i 
 I flere maritime kulturer ble delfinen sett som en veiviser og redningsmann for sjøfolk — en beskyttende og velvillig følgesvenn på havet. I gresk myte reddet en delfin poeten Arion fra drukningsdøden, og delfinen var hellig for både Apollon og Poseidon. Et slikt møte i drømme kan tolkes som at noe eller noen leder deg trygt videre gjennom ukjent territorium.
 
 Som et pattedyr som er hjemme i [havet](/drommer/hav/) — ofte tolket som følelseslivets symbol — kan delfinen også representere en harmoni mellom intellekt og følelse: evnen til å navigere det emosjonelle landskapet med ynde. Delfinens avanserte kommunikasjon kan dessuten speile et tema om forbindelse og fellesskap — et ønske om å bli hørt og forstått.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det hjelpende dyret: en skikkelse som leder gjennom det dype uten å true.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — sjødyr i antikkens drømmetydning, der delfinen var et godt tegn.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor delfinens oppførsel farger tolkningen.

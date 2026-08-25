@@ -53,3 +53,8 @@ Et annet perspektiv handler om letthet, glede og frihet. Sommerfuglen er skjønn
 I mange kulturer er sommerfuglen også knyttet til de dødes sjeler — i Mexico forbindes monarksommerfuglene med Día de los Muertos, der de sies å bære med seg sjelene til forfedrene tilbake. Den kinesiske filosofen Zhuangzi fortalte den berømte drømmen om å være en sommerfugl: våknet han som et menneske som hadde drømt at han var en sommerfugl, eller var han en sommerfugl som nå drømte at han var et menneske? Spørsmålet peker på noe sommerfugledrømmer ofte rører ved — grensen mellom drøm og virkelighet, og hvor skjør og kortvarig en vakker tilstand kan være.
 
 Utforsk gjerne flere [natursymboler i drømmer](/kategori/natur/) hvis du vil se sommerfuglen i sammenheng med andre bilder fra naturen.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — forvandlingen fra puppe til vinger, og sommerfuglen som gammelt bilde på sjelen selv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor sommerfugldrømmer melder seg i endringsfaser.

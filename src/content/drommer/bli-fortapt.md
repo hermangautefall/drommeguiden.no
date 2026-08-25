@@ -69,3 +69,8 @@ Hjelp til å finne veien: støtte er tilgjengelig — du trenger ikke å finne v
 Jung beskrev en av livets viktigste prosesser som "individuasjon" — å finne sin egen vei fremfor å følge andres. Drømmer om å bli fortapt er, i dette perspektivet, ikke bare angstdrømmer — de er drømmer om selve prosjektet med å bli seg selv. Fortaptheten er ikke feil. Den er startpunktet for orienteringen. Les mer om [gjentakende drømmer](/guider/gjentakende-drommer/) hvis denne drømmen kommer tilbake gang etter gang.
 
 Interessant nok er disse drømmene spesielt vanlige i midtlivet — en periode mange kulturer anerkjenner som et naturlig tidspunkt for å gå seg vill og finne seg selv på nytt.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — å gå seg vill som stadium i individuasjonen: der kartet slutter å stemme, begynner arbeidet.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slike drømmer kommer når retningen i livet er uklar.

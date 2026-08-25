@@ -70,3 +70,9 @@ Det ironiske er at det å akseptere at bremsen mangler — å la være å kjempe
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe som holder på å løpe løpsk?
 - Har du drømt om **tap av kontroll** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: kontrolltapet som hjernens øving.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir opplevelsen av å miste styringen sine mest fysiske bilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor bremsesvikt kommer i perioder med for høyt tempo.

@@ -53,3 +53,9 @@ Elefanten forbindes ofte med hukommelse — «en elefant glemmer aldri» — og 
 I hinduistisk tradisjon er Ganesha, den elefanthodede guden, en av de mest elskede skikkelsene — kjent for å fjerne hindringer og åpne dører til nye begynnelser. I buddhistisk fortellertradisjon sies det at dronning Maya drømte om en hvit elefant før Buddha ble født, og elefanten ble dermed et hellig varsel om noe stort på vei. Den hvite elefanten har siden stått som et bilde på et disiplinert, rolig sinn — kanskje en kvalitet drømmen din peker mot at du har, eller trenger mer av.
 
 Drømmen kan også handle om «elefanten i rommet» — noe stort og åpenbart som du eller andre unngår å snakke om. I andre tilfeller kan elefanten i stedet tolkes som en tung byrde du bærer på, noe som krever både styrke og tålmodighet å håndtere, men som du tross alt er rigget for å bære.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — minnet og tyngden: en kraft som beveger seg langsomt, men ikke lar seg stoppe.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke dyr som opptrer i drømmer.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor rolig eller trampende avgjør tolkningen.

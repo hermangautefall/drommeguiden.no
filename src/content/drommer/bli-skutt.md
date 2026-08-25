@@ -68,3 +68,9 @@ Overlevde du skuddet i drømmen, er det gjerne et tegn på at du er mer motstand
 I kjernen handler drømmen om sårbarhet og avmakt — det plutselige, det du ikke kunne forutse eller forsvare deg mot. Mange opplever slike drømmer som en slags øvelse: sinnet tester ut en trusselrespons i et trygt rom, uten at det betyr at noe farlig faktisk venter.
 
 Det fine er at det du ofte sitter igjen med etter en slik drøm, er en følelse av å ha overlevd — og det er ikke tilfeldig. Å overleve skuddet i drømmen peker ofte mot at du har mer motstandskraft enn du tror, selv om noe har truffet deg hardt.
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: det plutselige angrepet som hjernens øving.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir sjokk og sårbarhet sine mest fysiske bilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor hvem som skjøt sier mest.

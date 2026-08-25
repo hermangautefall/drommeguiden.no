@@ -48,3 +48,9 @@ Var grisen aggressiv, kan det peke mot en undertrykt appetitt eller et undertryk
 I norrøn tradisjon er grisen faktisk et edelt dyr — Freyr, fruktbarhetsguden, red på villsvinet Gullinbursti som løp raskere enn noe hest. Valhalls beboere spiste kjøttet av villsvinet Sæhrímnir om kvelden og fant det igjen friskt og helt neste morgen. Grisen er i norrøn forstand livets overflod og regenerasjonsevne personifisert.
 
 Jung ville sett grisdrømmen som en invitasjon til å utforske de sidene av livet man har lært å skamme seg over — det fysiske, det appetittfulle, det som ikke passer inn i kultiverte normer, men som er en naturlig del av det å være menneskelig. Se også [ku](/drommer/ku/) og [sau](/drommer/sau/) for andre husdyrsymboler.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — husdyr og overflod som drømmemotiv, uten den skammen vi har lagt på dyret senere.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen og appetitten: det vi kaller grisete er ofte det vi ikke vil vedkjenne oss.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor grisens tilstand farger tolkningen.

@@ -82,3 +82,8 @@ I buddhistisk tradisjon er hjulet (*dharmachakra*) ett av de eldste symbolene �
 Jung og senere drømmeforskere har beskrevet selvbalanserende kjøretøy som bilder på *individuasjon* — den modne psykens evne til å holde indre balanse gjennom egen innsats, ikke gjennom ytre støtte. Drømmens sykkel er det jordnære, hverdagslige bildet av denne dypere prosessen: å lære seg å holde balansen mens man beveger seg.
 
 Den nordamerikanske drømmeforskeren Jeremy Taylor pekte ofte på at "hvert kjøretøy i en drøm er et bilde av hvordan du beveger deg gjennom livet akkurat nå." Sykkelen, med sin direkte kobling mellom kropp og fremgang, er det mest selvbiografiske av disse bildene — det er deg som tråkker.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — balansen man selv må holde: fremdrift som verken er passiv eller motorisert.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor motbakke eller utforbakke følger opplevd innsats.

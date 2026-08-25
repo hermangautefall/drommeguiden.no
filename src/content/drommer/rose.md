@@ -68,3 +68,9 @@ Freud tolket rose-aperingen seksuelt — som enhver blomst. Jung så den som ett
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe vakkert du holder på å nærme deg, eller å miste?
 - Har du drømt om **rose eller blomster** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — rosen som mandala-lignende bilde på Selvet: skjønnhet med torner, helhet med forsvar.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — blomster som drømmemotiv i antikken, lest ut fra tilstand og farge.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor rosens tilstand følger drømmerens egen.

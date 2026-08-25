@@ -82,3 +82,8 @@ Til sist kan det å gå hver til sitt i en drøm også tolkes som noe sunt: et t
 
 > 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på at drømmer om den man har forlatt, hører til bearbeidingen av bruddet.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir de tyngste følelsene de sterkeste bildene.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at bruddet i drømmen ofte kommer før bruddet i livet.

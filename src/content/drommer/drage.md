@@ -55,3 +55,8 @@ Er dragen vakker og majestetisk, handler drømmen trolig om beundring — enten 
 Carl Jung så drager som arketypiske symboler på "Skyggen" — de sidene av oss selv vi ikke vil vedkjenne oss, men som har enorm energi. Også [slangen](/drommer/slange/) deler denne arketypiske rollen i drømmesymbolikken. Å konfrontere dragen i drømmen er i jungiansk forstand en invitasjon til å møte det vi frykter i oss selv.
 
 I norrøn tradisjon er drager (ormer) vokterne av skatten — Fåfne i Sigurd-sagaen er det fremste eksemplet. Å drepe draken er å vinne tilgang til skjult rikdom, men det krever mot og list. Drømmen kan speile dette: noe verdifullt er innen rekkevidde, men det krever at du tør å konfrontere det som vokter det.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen og skatten den vokter: det farlige som også rommer noe verdifullt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor dragen melder seg når noe krever mot.

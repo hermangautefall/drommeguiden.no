@@ -63,3 +63,9 @@ I jungiansk psykologi er Skyggen betegnelsen på de sidene av oss selv vi ikke v
 ## Rotten mellom pest og overlevelse
 
 Rotten er i vestlig tradisjon gjennomgående negativt ladet — fra svartedauden til skrekkfilmens kloakkrotte. Men i kinesisk tradisjon er rotten faktisk det første dyret i stjernetegnsyklusen og representerer intelligens, ressursrikdom og tilpasningsevne. I en norsk kontekst er rotten primært et negativt symbol — skadedyr, forrådnelse, noe man ikke vil ha i huset.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen: det vi helst overser, og som likevel formerer seg i det skjulte.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — skadedyr som drømmemotiv, lest som noe som tærer i det stille.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor rottedrømmer kommer når noe forsømt melder seg.

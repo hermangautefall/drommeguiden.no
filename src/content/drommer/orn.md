@@ -51,3 +51,9 @@ Om ørnen fløy høyt og fritt i drømmen, er det et sterkt positivt tegn — fr
 I norrøn mytologi satt ørnen øverst i verdensasken Yggdrasil, høyt over [fjellene](/drommer/fjell/) — høyest av alle skapninger, med visdom og overblikk over verden. Den var Odins fugl. Å drømme om ørn i denne tradisjonen var et tegn på guddommelig oppmerksomhet eller høy skjebne.
 
 Jung så fugler generelt som symboler på frigjorte tanker og sjelen i fri bevegelse. Ørnen spesielt representerer det øverste nivået av bevissthet — evnen til å se seg selv og sitt liv med klarhet og distanse. Drømmer du gjentatte ganger om ørn, kan det være verdt å legge merke til hva slags høyde eller avstand du søker i livet ditt akkurat nå. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — ørnen som kongelig varsel i antikkens drømmetydning.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det opphøyde blikket: å se sitt eget liv ovenfra.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor ofte fugler opptrer i drømmer.

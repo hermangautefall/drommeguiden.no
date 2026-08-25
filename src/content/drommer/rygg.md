@@ -69,3 +69,8 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om ryggen **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og ryggen som bilde på byrde og bæreevne.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at smerten sitter der belastningen sitter.

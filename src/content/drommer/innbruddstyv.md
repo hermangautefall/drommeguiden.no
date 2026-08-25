@@ -57,3 +57,9 @@ Konfronterte du tyven, viser det mot og beredskap — du er klar til å møte de
 Huset som selvets symbol er ett av de mest konsistente og universalt dokumenterte i drømmeforskning. Uavhengig av kultur og bakgrunn bruker drømmere huset som bilde på seg selv — og da er den som bryter seg inn alltid en trussel mot selvet.
 
 Interessant nok viser forskning at innbruddsdrømmer er vanligst hos dem som faktisk opplever en reell krenkelse av grenser i våkenlivet — ikke innbrudd, men situasjoner der personlige grenser ikke respekteres. Drømmen er nøyaktig og presis i hva den speiler.
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: inntrengeren som hjernens øving på trussel.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen som bryter seg inn i det man trodde var trygt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slike drømmer kommer når grenser føles truet.

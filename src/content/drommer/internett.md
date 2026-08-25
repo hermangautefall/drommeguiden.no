@@ -64,3 +64,8 @@ Marshall McLuhan — medieteoretikeren som sa "mediet er budskapet" — ville ha
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — søker du noe du ikke finner?
 - Har du drømt om **digitale nettverk** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det kollektive rommet, nå i en form Jung ikke kunne forutse, men beskrev prinsippet for.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at skjermtid om dagen gir skjermdrømmer om natten.

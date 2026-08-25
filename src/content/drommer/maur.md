@@ -61,3 +61,9 @@ Mauren er på mange måter selve sinnbildet på flid og samarbeid. I Salomos ord
 Samtidig peker maurtuen på et spenningsforhold mellom individet og kollektivet. Hver maur er nesten ingenting alene, men sammen bygger de noe som overgår dem alle. Drømmen kan derfor handle om din rolle i et lag eller en gruppe — er du en del av noe meningsfullt, eller kjenner du deg redusert til "bare en brikke" i et større maskineri?
 
 Når mauren dukker opp i mengder — kryper, myldrer, invaderer — kan det også speile en mer hverdagslig følelse: mange små, gnagende ting som har hopet seg opp og nå krever oppmerksomhet samtidig. [Bien](/drommer/bie/) deler noe av maurens flid, men der bien ofte er knyttet til søtere belønninger, handler mauren mer om selve prosessen — arbeidet, samarbeidet og det lange løpet.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — insekter som drømmemotiv, lest som flid og som noe som hoper seg opp.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det kollektive og det utrettelige, som mauren er et av de tydeligste bildene på.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor maurdrømmer kommer når mange småting presser på.

@@ -78,3 +78,9 @@ Naboen lever tett på livet ditt uten å være en del av det — og denne blandi
 Naboen kan også representere en del av deg selv som er kjent, men ikke fullt eid — noe som ligger like i utkanten av bevisstheten, "nær nok" til at du kjenner det igjen, men ikke nær nok til at du har tatt det helt inn over deg. I så fall kan drømmen invitere deg til å se nærmere på denne ukjente, men nære, siden av deg selv.
 
 Samtidig handler nabo-drømmer ofte om tilhørighet til et fellesskap — følelsen av å være et godt medlem av nærmiljøet, eller av å bli vurdert av det. Et sammenligningsblikk ("hvordan ser livet mitt ut sett fra utsiden?") kan dukke opp her. Naboen er til syvende og sist den kjente fremmede: en påminnelse om at vi alltid lever med et lag av sosial overflate utenpå det vi egentlig er — og drømmen kan invitere deg til å reflektere over forholdet mellom de to.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — den nære andre: nær nok til å angå deg, fjern nok til å bære projeksjoner.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke mennesker som faktisk opptrer i drømmer.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor nabodrømmer handler om grenser.

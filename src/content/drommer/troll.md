@@ -85,3 +85,8 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om troll **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen slik folketroen kledde den: det uintegrerte som vokser i mørket.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor kulturens skikkelser blir psykens bilder.

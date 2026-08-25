@@ -62,3 +62,9 @@ Freud tolket penger — naturlig nok — som et analt symbol. Jung var mer inter
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — hva ville du gjort om du hadde mer rom og frihet?
 - Har du drømt om **rikdom eller gevinst** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — ønskeoppfyllelsen i sin mest bokstavelige form.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — rikdom og plutselig hell som drømmemotiv i antikken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at gevinsten i drømmen ofte handler om frihet, ikke penger.

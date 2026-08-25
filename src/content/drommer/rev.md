@@ -53,3 +53,9 @@ Reven kan tolkes som et bilde på klokskap og tilpasningsevne — egenskaper som
 På tvers av kulturer dukker reven opp som en formskifter og lurendreier. I japansk folketro er kitsune en magisk reveånd som kan opptre som både voktere og bedragere, alltid med et snev av mystikk. I europeisk middelalderlitteratur var Mikkel Rev (Reynard) den evige listige antihelten som lurte alle andre dyr, og i Æsops fabler er reven den som finner en bortforklaring når noe ikke lar seg oppnå — som i fortellingen om reven og de utilgjengelige rognebærene.
 
 Drømmen kan også handle om en person i livet ditt som er uvanlig kløktig eller listig, eller om en side av deg selv som trives best i utkanten — uavhengig, tilpasningsdyktig og alltid med et triks i bakhånd. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/), eller les vår guide om [gjentakende drømmer](/guider/gjentakende-drommer/) hvis reven har oppsøkt deg flere netter på rad.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — trickster-figuren: den listige som både hjelper og lurer.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på dyr i drømmer og hvilke roller de spiller.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor revens list ofte handler om din egen.

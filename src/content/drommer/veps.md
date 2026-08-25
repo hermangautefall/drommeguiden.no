@@ -40,3 +40,9 @@ Ble du stukket, peker det gjerne mot noe som traff hardt og uventet — en kriti
 Et nærliggende perspektiv handler om sinne og skarpe følelser. Vepsen kan representere irritabilitet eller fiendtlighet — din egen, eller noe du møter fra andre. Et «stikkende» ord, en spiss kommentar, eller en situasjon der noen oppfører seg aggressivt uten den produktive sødmen vi forbinder med [bien](/drommer/bie/).
 
 Til sist kan vepsen rett og slett stå for mindre bekymringer som ikke gir slipp — en vedvarende, summende uro i bakhodet. Spør deg gjerne hvilken energi vepsen i drømmen egentlig bar: var det aggresjon som ville ut, eller en advarsel om noe som bør håndteres med varsomhet?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — stikkende insekter som drømmemotiv, lest som små, skarpe plager.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan irritasjon og aggresjon finner presise bilder i drømmen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor vepsen kommer når noe smågnager.

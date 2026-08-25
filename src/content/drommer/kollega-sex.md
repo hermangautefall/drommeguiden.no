@@ -77,3 +77,9 @@ Ingen kulturell tradisjon tolker slike drømmer som varsler om faktiske hendelse
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **arbeidslivet ditt** akkurat nå?
 - Har du drømt om **denne kollegaen** — seksuelt eller ikke — **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — seksualitetens plass i drømmetydningen, og hvorfor drømmen kler andre behov i den formen.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — projeksjonen: kollegaen som bærer av egenskaper du selv strekker deg etter.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor stor andel av drømmer som har seksuelt innhold.

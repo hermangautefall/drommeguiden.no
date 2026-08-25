@@ -80,3 +80,8 @@ Norrøn mytologi har en interessant parallell: Freyja — guddinnen for kjærlig
 
 > 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — spenningen og utløsningen som grunnfigur i den psykoanalytiske lesningen av drømmer.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — foreningen av motsetninger, der utløsningen er bildet på at noe faller på plass.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor stor andel av drømmer som har seksuelt innhold.

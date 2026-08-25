@@ -64,3 +64,8 @@ I jungiansk forstand er svømmingen en av de mest aktive og modige drømmene man
 ## Svømming som mestring
 
 I norrøn tradisjon er evnen til å svømme nær hellig — sjøfolk som ikke kunne svømme var hjelpeløse ved havari, og [havet](/drommer/hav/) var like mye liv som død. Å svømme er å ha respekt for vannet uten å la det beseire deg.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — å bevege seg aktivt i det ubevisste, i stedet for å bli båret av det.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at motstrøms eller medstrøms følger opplevd mestring.

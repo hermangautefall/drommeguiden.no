@@ -79,3 +79,8 @@ I kinesisk slektskap finnes flere distinkte ord for ulike onkler — *bófù* (e
 Carl Jung beskrev "den vise gamle mann" (*Senex*) som en arketype for indre veiledning. Senere arketypiske psykologer som James Hillman har pekt på at *onkelfiguren* er en mildere og mer tilgjengelig versjon av denne arketypen — Senex i hverdagsskjorte. Han kan veilede uten å dømme.
 
 Den amerikanske drømmeforskeren Robert Hoss har beskrevet at familiefigurer i drømmer sjelden bare handler om den faktiske personen — de bærer på det rolle og funksjon de hadde i din indre verden da du var ung. Drømmens onkel er ofte en figur for "den maskuline siden av familien minus presset" — og hva enn drømmen vil med deg, handler den ofte om dette spesifikke fraværet av krav.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — den maskuline modellen ved siden av faren: veiledning uten autoritetens tyngde.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slektninger i drømmen bærer roller mer enn personer.

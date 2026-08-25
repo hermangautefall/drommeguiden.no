@@ -78,3 +78,8 @@ En dør i drømme kan tolkes som en terskel, et valg eller en overgang. En åpen
 Det som ligger bak døren er ofte det mest interessante: det ukjente, en forventning, eller noe skjult i deg selv som ennå ikke har fått komme til syne. På tvers av kulturer har dører og terskler blitt sett som ladede, beskyttede overgangssteder — i romersk mytologi vokter guden Janus alle porter og dører, med blikket vendt både bakover og fremover, som et bilde på at hver overgang knytter sammen et før og et etter.
 
 I eventyrtradisjonen er den forbudte døren et kjent motiv — den man aldri skal åpne, og som helten naturligvis åpner likevel. Det er ofte der historien egentlig begynner, og kanskje er det noe av det samme drømmen din peker mot: at det er på den andre siden av døren noe nytt kan starte.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — terskelen mellom to tilstander, et av de mest brukte bildene på overgang.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at en åpen eller lukket dør speiler hvordan valget kjennes i våken tilstand.

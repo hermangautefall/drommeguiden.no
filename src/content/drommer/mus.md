@@ -48,3 +48,9 @@ Et nærliggende perspektiv handler om de små, gnagende bekymringene. Musen kan 
 Et annet perspektiv ligger i beskjedenheten. Musen lever i marginene, ofte ubemerket, og kan derfor speile en oppmerksomhet på detaljer som lett overses — eller en følelse av selv å være oversett, stille og lite synlig i en situasjon der andre tar mer plass.
 
 Samtidig er musen et oppfinnsomt og motstandsdyktig dyr som finner veier til å overleve nesten hvor som helst. I fabeltradisjonen er det ofte den lille musen som redder den mektige løven — et bilde på at det som er smått kan utgjøre en avgjørende forskjell. Også i hinduistisk tradisjon rir guden Ganesha på en mus, som et symbol på det som overvinner hindringer ved å komme inn på de minste og mest utilgjengelige stedene. Drømmens mus kan altså, til tross for sin størrelse, peke på en stille, men virkningsfull styrke. Se også [rotte](/drommer/rotte/) for et nærliggende, men noe mer ladet symbol.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — smådyr som drømmemotiv, lest som noe smått som likevel forstyrrer.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det oversette og undervurderte i en selv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor musen kommer når mange småting hoper seg opp.

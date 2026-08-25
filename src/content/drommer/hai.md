@@ -61,3 +61,9 @@ En hai i drømmen kan vekke en helt urgammel form for frykt — følelsen av at 
 Andre ganger handler drømmen mer om en person eller en situasjon i hverdagen. Å kalle noen en "hai" er ikke tilfeldig — det kan tolkes som at drømmen advarer om en hensynsløs eller rovgrisk person, eller en situasjon som føles som den vil "spise deg opp" hvis du ikke er forsiktig, for eksempel et tøft arbeidsmiljø eller en relasjon i ubalanse. Haien kan også speile ditt eget fortrengte sinne — en kraft i deg som plutselig stiger til overflaten.
 
 Det er verdt å nevne at haien ikke alltid har vært et fryktsymbol. I polynesisk og hawaiisk tradisjon ble haier ('aumākua) ofte sett som beskyttende åndelige forfedre som voktet familien fra havet. Kanskje kan drømmen, sett i et slikt lys, også tolkes som at noe sterkt og kraftfullt vokter over deg — selv om det først ser skremmende ut.
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: rovdyret i vannet som en av de eldste truslene.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det som lurer under overflaten, både i havet og i en selv.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke dyr som opptrer i drømmer, og hvordan.

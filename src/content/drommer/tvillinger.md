@@ -75,3 +75,8 @@ Jung mente at selvet alltid er dobbelt: bevisst og ubevisst, lys og skygge, kjen
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe som er todelt eller splittet?
 - Har du drømt om **tvillinger** eller **dobbelheter** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det doble i psyken: to sider av samme selv, der den ene ofte bærer det den andre ikke vil vedkjenne seg.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor likhet og ulikhet i drømmen speiler indre spenning.

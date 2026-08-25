@@ -77,3 +77,9 @@ Selve følelsen av å stå på en terskel — verken i det gamle eller helt i de
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe du holder tilbake å forplikte deg til?
 - Har du drømt om **forlovelse eller løfte** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — foreningen av motsetninger, der løftet kommer før selve foreningen.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — trolovelse og sosial status som drømmemotiv i antikken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor forlovelsesdrømmer kommer foran store valg.

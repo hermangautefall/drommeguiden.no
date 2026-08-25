@@ -42,3 +42,9 @@ Tigeren kan tolkes som et bilde på en rå, ukontrollert kraft i deg — lidensk
 I kinesisk tradisjon er tigeren et av de tolv dyrene i den astrologiske syklusen og forbindes med mot, styrke og beskyttelse mot det onde. I hinduistisk mytologi rir gudinnen Durga på en tiger eller løve — et bilde på en voldsom, men beskyttende kvinnelig kraft. Tigeren er også et dyr som lever mye for seg selv, og drømmen kan derfor handle om uavhengighet: styrken som ligger i å stå på egne ben.
 
 Har du drømt om tigeren flere ganger, kan det være verdt å lese om [gjentakende drømmer](/guider/gjentakende-drommer/).
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — den ubendige instinktkraften: noe i deg som er sterkt og ikke temmet.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke dyr som opptrer i drømmer, og i hvilke situasjoner.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor avstanden til dyret sier mest.

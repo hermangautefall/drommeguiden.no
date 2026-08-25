@@ -83,3 +83,9 @@ Den nobelprisvinnende psykologen Daniel Kahneman har vist hvor systematisk hjern
 Moderne traumeforskning, særlig arbeidet til Bessel van der Kolk, viser at uforløst traume ofte gjenoppstår i drømmer som gjentatte ulykkescener. Hvis ulykkedrømmene er svært hyppige eller knyttet til en spesifikk hendelse i livet ditt, kan det være et signal om at noe trenger bearbeiding. Drømmer alene løser ikke traume; det er et budskap, ikke en behandling.
 
 Jung så ulykker i drømmer som scener der det bevisste "krasjer" med det ubevisste — der noe psykens undertrykker, til slutt bryter gjennom. Det er ikke nødvendigvis en katastrofe — det kan også være begynnelsen på en større indre helhet. Drømmens ulykke er da en grensemarkør: noe gammelt avsluttes på en plutselig måte, så noe nytt kan begynne.
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: ulykken som hjernens øving på det ukontrollerbare.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — angstdrømmer og hvordan psyken bearbeider frykt for tap av kontroll.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor ulykkesdrømmer kommer i perioder med uro.

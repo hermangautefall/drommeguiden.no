@@ -71,3 +71,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om søsteren **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — speilingen: søsteren som både likhet og motstykke, og som bærer av egne uforløste sider.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke familiemedlemmer som faktisk opptrer i drømmer.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor søskendrømmer bærer barndommens mønstre.

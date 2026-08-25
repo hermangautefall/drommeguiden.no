@@ -80,3 +80,8 @@ En trapp kan tolkes som bevegelse mellom nivåer i livet eller i bevisstheten. �
 Endeløse trapper, eller en følelse av aldri å nå toppen, tolkes ofte som frustrasjon over at fremgang virker umulig å oppnå. Å falle ned trappen i en drøm kan på samme måte peke mot en opplevelse av å miste kontroll, eller et tilbakeslag man er bekymret for.
 
 [Huset](/drommer/hus/) forbindes ofte i drømmer med selvet, der de ulike etasjene kan representere ulike sider av bevisstheten — [kjelleren](/drommer/kjeller/) som det skjulte og ubevisste, loftet som det glemte. Trappen blir da forbindelsen mellom disse lagene. På tvers av tradisjoner finner man lignende bilder av trapper og stiger som knytter jord til himmel — Jakobs stige i bibelsk fortelling, eller tempeltrapper som en fysisk bro mellom menneskeverden og noe større.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — bevegelsen opp og ned i psyken, mellom det bevisste og det som ligger under.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at retningen i trappen følger opplevd fremgang eller tilbakegang.

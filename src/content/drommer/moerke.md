@@ -66,3 +66,9 @@ I norrøn mytologi er Helheims kongerike mørkt og stille — men det er ikke ut
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe du ikke kan se, og hva tør du å stå i?
 - Har du drømt om **mørke eller det ukjente** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — mørket som det ubevisste: ikke ondt, men uopplyst.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir det ukjente sine sterkeste bilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor mørket kjennes truende eller trygt alt etter hvor du står.

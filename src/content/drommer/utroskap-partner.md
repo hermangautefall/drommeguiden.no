@@ -84,3 +84,8 @@ En norsk folkelig visdom er relevant her: det man frykter mest, det drømmer man
 
 > 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at utrygghet i våken tilstand følger med inn i drømmen.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — projeksjonen, og hvordan egne uerkjente sider legges over på partneren.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på at drømmer om partneren hører til bearbeidingen av relasjonen.

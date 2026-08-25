@@ -68,3 +68,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om jordskjelv **flere ganger**?
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: drømmen som øving på katastrofe.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir omveltning det mest fysiske bildet den kjenner.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at grunnen som svikter speiler noe som svikter i livet.

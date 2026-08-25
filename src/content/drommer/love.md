@@ -63,3 +63,9 @@ Din egen kraft eller selvtillit er svekket av noe — kanskje en hendelse, en pe
 I mange kulturer er løven et kongesymbol — i Egypt, Roma og middelalderens Europa. Den representerer det beste av menneskelig lederskap: mot kombinert med verdighet. Jung så løven som et symbol på Ego-et i sin sterkeste form — men advarte mot å la den indre løven bli tyrannisk. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/).
 
 I kristen symbolikk er løven både Kristus (løven av Juda) og djevelen (løven som vandrer og søker noen å oppsluke). Denne dobbeltheten — kraft som kan være både god og destruktiv — er kjernen i løvedrømmens budskap.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — løven som instinktiv kraft og som kongelig aspekt av Selvet.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — løven i antikkens drømmetydning, knyttet til makt og herskere.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke dyr som faktisk opptrer i drømmer, og hvordan.

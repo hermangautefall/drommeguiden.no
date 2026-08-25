@@ -79,3 +79,9 @@ Det er heller ikke gitt at drømmen handler om romantisk kjærlighet. Allerede d
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det nok nærhet og forbundethet der?
 - Har du drømt om **kjærlighet** på denne måten **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — ønskeoppfyllelsen: drømmen som gir deg nærheten du savner.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — anima og animus, og hvorfor den elskede i drømmen ofte bærer dine egne uforløste sider.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor kjærlighetsdrømmer melder seg i perioder med lengsel.

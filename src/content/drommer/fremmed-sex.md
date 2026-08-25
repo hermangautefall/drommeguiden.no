@@ -76,3 +76,9 @@ Norrøn mytologi har sin egen versjon: møtet med en valkyrie eller en skjeggete
 - Hvilken **følelse** satt du igjen med da du våknet — nysgjerrighet, frihet, forvirring?
 - Hva skjer i **livet ditt** akkurat nå — lengter du etter noe nytt?
 - Har du drømt om **fremmede** med seksuelt innhold **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — seksualitetens plass i drømmetydningen, og hvorfor det ukjente ansiktet er så vanlig.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — anima og animus: den ukjente som bærer av egenskaper du ennå ikke kjenner igjen.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor stor andel av drømmer som har seksuelt innhold.

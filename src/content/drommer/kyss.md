@@ -81,3 +81,9 @@ Freud tolket drømmens kyss — som det meste — seksuelt. Jung utvidet dette t
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — lengter du etter nærhet eller godkjennelse?
 - Har du drømt om **kyss** med denne personen **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kysset som tegn på pakt, allianse og hengivenhet i antikkens drømmetydning.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — foreningen av motsetninger, der kysset er det mildeste av bildene.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at hvem du kysser sier mer om relasjonen enn om lysten.

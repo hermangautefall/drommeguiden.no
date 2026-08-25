@@ -78,3 +78,8 @@ Samtidig handler føtter om frihet og uavhengighet — evnen til å gå din egen
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er du godt forankret, eller kjennes grunnen ustabil?
 - Har du drømt om **føtter eller å gå** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og føttene knyttet til fremdrift og selvstendighet.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at føttenes tilstand følger opplevd fotfeste i livet.

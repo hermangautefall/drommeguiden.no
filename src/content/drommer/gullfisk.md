@@ -50,3 +50,8 @@ Gullfisken lever i en liten, avgrenset verden — bollen er hele dens univers. D
 I kinesisk kultur er gullfisken derimot et av de mest positive symbolene som finnes — ordet for fisk har en klang som forbindes med overskudd og hell, og gullfisken tolkes ofte som et håpefullt tegn på velstand som er på vei.
 
 Som et kjæledyr som er fullstendig avhengig av sin eier, kan gullfisken også tolkes som et bilde på omsorg og ansvar — noe skjørt som er lagt i din varetekt. Og i eventyret om fiskeren og gullfisken ligger en annen kjent visdom: ønsker, lengsler og grådighet er nært forbundet, og spørsmålet om hva som faktisk gir tilfredshet, er verdt å stille seg selv.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det innestengte: noe vakkert som lever innenfor grenser det ikke har valgt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor bollens størrelse i drømmen speiler ditt eget spillerom.

@@ -72,3 +72,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om alkohol **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — hemningene som løsner, og drømmen som arena for det man ellers holder tilbake.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken bearbeider skam og kontrolltap gjennom drømmebilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor alkoholdrømmer speiler forholdet ditt til kontroll.

@@ -89,3 +89,9 @@ I norrøn tradisjon ble det å drømme om et barn — gutt eller jente — sett 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er noe nytt på vei, og hvilken type energi bærer det?
 - Har du drømt om **babyer** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — barnet som arketyp: det nye og sårbare, uavhengig av hvilket kjønn drømmen gir det.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor ofte barn opptrer i drømmer, og i hvilke roller.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor detaljen om kjønn sjelden er poenget.

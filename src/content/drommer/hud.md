@@ -73,3 +73,9 @@ Jung brukte begrepet "persona" — det latinske ordet for maske — om den sosia
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe under overflaten som trenger å komme ut?
 - Har du drømt om **hud eller kropp** på denne måten **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — huden og kroppsdelene som drømmemotiv i den eldste drømmelitteraturen.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — personaen: laget vi viser verden, og som huden er det mest bokstavelige bildet på.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor hudens tilstand følger opplevelsen av å være utsatt.

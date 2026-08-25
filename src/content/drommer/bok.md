@@ -84,3 +84,8 @@ I egyptisk tradisjon var *Dødeboken* en konkret tekst med trolldomsord og instr
 I persisk sufi-tradisjon, særlig hos Rumi og Ibn Arabi, finnes bildet av "hjertets bok" — *kitab al-qalb* — som det indre stedet sannheten er skrevet. Å lese seg selv er da å lese hjertets bok. Drømmens bok som er deg, eller som handler om deg, kan ofte forstås gjennom denne bildet.
 
 Jung beskrev boken som et symbol for *det kollektive ubevisste* — det felles arkivet menneskeheten bærer på sammen. Senere har forskere som Marie-Louise von Franz og Robert Bosnak utvidet dette og pekt på at drømmens bok ofte representerer "et samlet sted" der både personlig erfaring og kollektiv visdom møtes. Å lese i drømmen er da ikke bare å lære — det er å koble på et større rom av betydning.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — boken som bilde på kunnskap, livshistorie og det som er skrevet ned om deg selv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at det du leter etter i boken ofte er noe du leter etter i livet.

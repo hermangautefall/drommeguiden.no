@@ -86,3 +86,8 @@ Det norrøne begrepet "hamingja" — den beskyttende lykkeånd som fulgte en sle
 
 > 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — mareritt og hvordan psyken bearbeider den sterkeste frykten en forelder kan bære.
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: faren mot avkommet som en av de eldste truslene.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor omsorgsansvar om dagen gir omsorgsfrykt om natten.

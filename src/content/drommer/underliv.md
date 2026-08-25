@@ -75,3 +75,9 @@ Freud plasserte det meste av psykelivet i seksualiteten. Jung utvidet dette: det
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er du i kontakt med din egen skapende kraft?
 - Har du drømt om **kropp og vitalitet** på denne måten **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — seksualitetens plass i drømmetydningen, og kroppens språk for begjær og skam.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, også de man ikke snakket høyt om.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det skapende: underlivet som bilde på frembringelse, ikke bare på lyst.

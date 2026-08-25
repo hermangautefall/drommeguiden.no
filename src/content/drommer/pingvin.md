@@ -47,3 +47,8 @@ Var pingvinen alene i drømmen, kan det peke mot ensomhet eller utenforskap — 
 ## Et symbol uten gammel mytologi
 
 Pingvinen har ingen gammel mytologisk tradisjon — den ble ikke kjent for europeere før på 1400-tallet. Men i moderne populærkultur har den blitt et symbol på det sjarmerende-keitete, det lojale og det overraskende sterke. Psykologisk sett kan pingvinen representere de sidene av oss som ikke passer inn i standardmalen, men som likevel finner sin vei. Utforsk flere [dyresymboler i drømmer](/kategori/dyr/) hvis du vil se hvordan andre dyr speiler lignende temaer.
+
+## Kilder og videre lesning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke dyr som faktisk opptrer i drømmer, og hvor sjeldne de eksotiske er.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at et dyr uten gammel symboltradisjon får sin betydning fra dine egne assosiasjoner.

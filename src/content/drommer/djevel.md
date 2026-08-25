@@ -72,3 +72,9 @@ Bildet av djevelen har endret seg mye gjennom historien — fra "Satan" som på 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe du fortrenger eller ikke vil se?
 - Har du drømt om **djevelen eller mørke figurer** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen i sin mest personifiserte form: det vi ikke vil kjennes ved.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir det mest ubehagelige det sterkeste bildet.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor djevelen kommer i perioder med skyld eller fristelse.

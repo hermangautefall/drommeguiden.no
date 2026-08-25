@@ -78,3 +78,8 @@ Bestemoren bærer i drømmene ofte på en samlet visdom — erfaringen til en so
 Hvis bestemoren er gått bort, handler drømmen ofte om noe trøstende — et følt besøk, en måte å bearbeide sorg, eller et ønske om hennes veiledning igjen. Slike drømmer beskrives som regel som uvanlig ekte, og de er en naturlig del av å bære båndet til henne videre, selv etter at hun er borte. Se også [avdød person i drøm](/drommer/avdod-person/).
 
 Drømmen kan også handle om arv og identitet — om familiehistorien, om hvor du kommer fra, om verdier som er gitt videre gjennom generasjonene. Og noen ganger er bestemoren et bilde på din egen indre visdom: den modne, intuitive delen av deg som vet hvordan du tar vare på deg selv, uavhengig av hvem hun var i virkeligheten. Les også om drømmer om [bestefar](/drommer/bestefar/) eller [mor](/drommer/mor/).
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — den vise gamle kvinnen som arketyp: visdom, røtter og ubetinget omsorg.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor bestemordrømmer ofte kommer når du trenger trygghet.

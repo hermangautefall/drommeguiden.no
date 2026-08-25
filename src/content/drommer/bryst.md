@@ -77,3 +77,9 @@ I norrøn mytologi er Frigg og Freyja begge forbundet med fruktbarhet, næring o
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — gir du nok, eller gir du for mye?
 - Har du drømt om **kropp og næring** på denne måten **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene som drømmemotiv, og brystet knyttet til næring og omsorg.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — moderarketypen og det nærende som grunnbilde i psyken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor brystdrømmer ofte kommer i livsfaser med omsorgsansvar.

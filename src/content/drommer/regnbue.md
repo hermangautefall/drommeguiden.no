@@ -61,3 +61,9 @@ Regnbuen representerer i drømmepsykologi integrasjon av motsetninger — alle f
 ## Buen som løfte og bro
 
 Bifrost — regnbuebroen i norrøn mytologi — er vakker men farlig: bare gudene og de verdige kan krysse den under den store [himmelen](/drommer/himmel/), og ved Ragnarok brytes den av jotunenes tyngde. I kristen tradisjon er regnbuen Guds pakt med Noah etter syndfloden — et løfte om at ødeleggelsen ikke skal gjenta seg. Uavhengig av tradisjon bærer regnbuen på det samme kjernebudskapet: det er OK. Det blir bedre.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — integrasjonen av motsetninger: alle farger samlet i én bue.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — himmeltegn som varsel i den eldste drømmetydningen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor regnbuen kommer etter tunge perioder.

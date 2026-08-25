@@ -68,3 +68,9 @@ Eksistensfilosofen Søren Kierkegaard ville kanskje ha kalt dette "angst for mul
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe du er redd for å gå glipp av?
 - Har du drømt om **å komme for sent eller misse noe** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — angstdrømmen om å ikke rekke det, beslektet med eksamensdrømmen.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor utbredt motivet er.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at tidspresset i drømmen speiler tidspresset i livet.

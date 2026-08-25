@@ -90,3 +90,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Har du drømt om sykehus **flere ganger**?
 
 Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — sykdom og helbredelse som drømmemotiv, lenge før moderne medisin.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan uro for helse og kontrolltap finner kroppslige bilder i drømmen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor sykehusdrømmer melder seg i perioder med sårbarhet.

@@ -79,3 +79,8 @@ I sør-asiatiske kulturer skiller man tydelig mellom *masi* (mors søster) — "
 I vestlig kvinnehistorie har den ugifte tanten — *spinster aunt*, den "rare tanten" — vært et viktig kulturelt bilde på kvinnelig uavhengighet før det fantes ord for å være kvinne uten ektemann. Tanten Polly hos Mark Twain, tanter hos Jane Austen, fortellinger om "den tanten som tok henne med på reise" — alle bærer på dette: tanten som åpnet en dør barnet ellers ikke ville sett.
 
 Carl Jung beskrev "den store moren" som en arketyp med både næringsgivende og fortærende sider. Senere arketypiske psykologer som Clarissa Pinkola Estés har pekt på at *tantefiguren* ofte er den mildere, mer differensierte siden av denne arketypen — den næringsgivende uten den fortærende. Hun gir uten å eie. Drømmens tante bærer ofte på akkurat denne kvaliteten.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — den feminine modellen ved siden av moren: omsorg uten de samme forventningene.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slektninger i drømmen bærer roller mer enn personer.

@@ -68,3 +68,8 @@ I psykologisk forstand er oasen et symbol på det Jung kalte den "transcenderend
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er du i en uttørrende periode, og hva trenger du?
 - Har du drømt om **hvile og tilflukt** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — hvilen i ødemarken: pusterommet som gjør prøvelsen mulig å bære.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor oasen melder seg når noe har vart for lenge.

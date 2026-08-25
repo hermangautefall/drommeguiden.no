@@ -78,3 +78,9 @@ Klær er noe av det mest direkte vi viser verden av oss selv, og en kjole i drø
 En spesiell kjole — til [bryllup](/drommer/bryllup/), fest eller en annen markering — kan tolkes som at noe betydningsfullt nærmer seg, eller som et bilde på et selv i forvandling. Hvordan kjolen kjentes i drømmen sier ofte mer enn selve kjolen: følte du deg selvsikker, eksponert, eller som om den ikke var helt din? Klær dekker og avslører på samme tid, og en kjole som ikke passer kan tolkes som en rolle som ikke lenger stemmer, mens en kjole du kjenner deg vakker i kan speile en form for selvaksept.
 
 Også fargen og tilstanden på kjolen kan bære mening i tolkningen. En flekket, revet eller for trang kjole kan tolkes som selvtvil eller en rolle som klemmer, mens en kjole som sitter perfekt kan speile en periode der du kjenner deg trygg i din egen hud. Drømmer om å være [naken](/drommer/naken/) eller se deg selv i [speilet](/drommer/speil/) handler ofte om noe av det samme — hvordan du ser deg selv, og hvordan du tror andre ser deg.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — personaen: klærne som det laget vi møter verden med.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — klær og status som drømmemotiv i antikken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor anledningen i drømmen farger tolkningen.

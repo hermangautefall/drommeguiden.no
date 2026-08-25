@@ -80,3 +80,8 @@ Folkemedisinsk tradisjon i Norge — som i de fleste kulturer — skjelner mello
 
 > 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsskade som drømmemotiv, lest ut fra hvor såret satt.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir uforløste følelser en kroppslig, synlig form.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor sår i drømmen sjelden handler om kroppen.

@@ -59,3 +59,9 @@ Mange krigsdrømmer handler aller mest om det som skjer inne i deg, ikke ute i v
 Andre ganger speiler drømmen et miljø som rett og slett kjennes som en slagmark — en anspent arbeidsplass, en vond familiekonflikt, eller et forhold der det føles som man hele tiden må forsvare seg. Drømmen setter ord på en belastning du kanskje ikke har innsett hvor stor den er.
 
 Det er også verdt å nevne, varsomt, at krigsdrømmer kan øke i perioder der mye uro i verden fyller nyhetsbildet — sinnet bearbeider også det vi ser og leser om, selv når vi ikke er direkte berørt. Uansett hva drømmen springer ut av, peker den ofte mot temaer som å holde ut, velge sine kamper med omhu, og lengselen etter fred.
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: konflikten som hjernens øving.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — den indre konflikten projisert ut som slagmark.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor din rolle i krigen sier mest.

@@ -68,3 +68,9 @@ Jung beskrev kjelleren eksplisitt som representasjon av det personlige ubevisste
 ## Det vi lagrer og ikke vil se på
 
 Det finnes en viktig øvelse i jungiansk terapi: å gå ned i kjelleren, se hva som er der, og bære det opp i lyset. Ikke for å bli kvitt det — men for å eie det. Fordi det vi ikke eier, eier oss.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — kjelleren som psykens nederste etasje, der det fortrengte oppbevares.
+- Sigmund Freud, *Drømmetydning* (1900) — fortrengningen, og hvordan det bortgjemte likevel finner veien inn i drømmen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor kjellerdrømmer ofte kommer i perioder med selvransakelse.

@@ -79,3 +79,9 @@ Drømmer om operasjon kan tolkes som et bilde på heling — at noe som har gjor
 Å ligge på operasjonsbordet kan også speile en følelse av å være sårbar og i andres hender — at du for en stund må gi fra deg kontrollen og stole på at andre tar godt vare på deg. Det kan kjennes ubehagelig i drømmen, men ofte handler det mer om tillit enn om fare: en påminnelse om at det er greit å la noen hjelpe deg gjennom noe vanskelig.
 
 Hvis drømmen kommer i en periode der du faktisk er bekymret for helsen din, eller venter på en undersøkelse eller et inngrep, er det naturlig at slike tanker også dukker opp i drømmene. Det er sjelden et tegn på noe alvorlig — oftere er det kroppen og sinnet som bearbeider en helt forståelig uro. Drømmens operasjon kan også ses i forlengelse av [sykdom](/drommer/sykdom/) eller [sykehus](/drommer/sykehus/) som symboler — alle handler de om prosesser som beveger seg mot å bli hel igjen.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — inngrep i kroppen som drømmemotiv, lest som noe som må fjernes eller repareres.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken bearbeider sårbarhet og overgivelse av kontroll.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor hva som ble operert sier mest.

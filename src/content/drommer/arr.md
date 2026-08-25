@@ -81,3 +81,8 @@ Jung brukte "skadet healer"-arketypen — den Sårede Heleren — som ett av de 
 
 > 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppens merker som drømmemotiv, lest som spor av det man har vært igjennom.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken bearbeider gamle sår ved å gi dem synlig form.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor arret melder seg når noe gammelt aktiveres.

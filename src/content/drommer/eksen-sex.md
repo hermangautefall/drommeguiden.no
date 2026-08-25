@@ -81,3 +81,9 @@ Det er ingen kulturell tradisjon som tolker slike drømmer som varsel eller prof
 - Hvilken **følelse** satt du igjen med da du våknet — savn, ro, skyld, forvirring?
 - Hva skjer i **livet ditt** akkurat nå — er noe uavsluttet fra den perioden?
 - Har du drømt om **eksen** med seksuelt innhold **flere ganger**?
+
+## Kilder og videre lesning
+
+- Sigmund Freud, *Drømmetydning* (1900) — de uforløste ønskene og hvorfor de vender tilbake i så konkrete former.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på at drømmer om eks-partneren hører til bearbeidingen, ikke til stagnasjonen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slike drømmer kommer i bølger.

@@ -56,3 +56,8 @@ Krabbens harde skall og sterke klør kan i drømmer tolkes som bilder på selvbe
 Krabbens sidelengse gange er en annen kjent egenskap — den nærmer seg sjelden noe rett på, men beveger seg skrått og indirekte. I drømmer kan dette tolkes som en indirekte måte å håndtere et problem på: en unngåelse, eller en mer skrå og forsiktig tilnærming til noe du egentlig vil nærmere. I astrologien er krabben tegnet for Krepsen — knyttet til hjem, familie, følelsesmessig følsomhet og omsorg, og kjent for sin egen form for seighet, det å "henge fast" ved noe.
 
 Krabben skifter også skall for å vokse — den legger fra seg sin gamle beskyttelse for å bli større. Dette kan tolkes som et bilde på en overgangsfase: en periode der gamle forsvarsmekanismer ikke lenger passer, og der en viss sårbarhet er en naturlig del av å utvikle seg videre.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det harde skallet over den myke kjernen, og bevegelsen sidelengs i stedet for rett frem.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor krabbedrømmer kommer når du unngår noe direkte.

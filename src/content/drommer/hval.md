@@ -50,3 +50,9 @@ Hvalen kan i drømmer tolkes som et bilde på det dype ubevisste — kraftfulle 
 De største skapningene i havet vekker ofte en følelse av ærefrykt — noe sublimt og overveldende, en påminnelse om krefter som er langt større enn én selv. I bibelens fortelling om Jonas blir mannen "slukt" av hvalen — et bilde som ofte tolkes som en periode med mørke, tilbaketrekning eller krise, som likevel bærer i seg muligheten for forvandling. En indre reise før man igjen trer frem, forandret.
 
 Hvalens sang — dyp kommunikasjon som bærer over enorme avstander — kan også tolkes som et symbol på noe som forsøker å nå deg fra et sted lengre unna enn det vanlige. I noen tradisjoner ses hvalen som bærer av eldgammel visdom, en hukommelse som strekker seg langt tilbake i tid.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — nattsjøreisen: å bli slukt av dypet og komme ut igjen som forvandlet, slik Jona-motivet forteller det.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — sjødyr som drømmemotiv i antikkens varslingstradisjon.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor hvalen ofte kommer i store, langsomme livsfaser.

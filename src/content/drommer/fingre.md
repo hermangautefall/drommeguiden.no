@@ -90,3 +90,9 @@ I buddhistisk filosofi er det berømte uttrykket "fingeren peker på månen, men
 Jung beskrev hender som "psykens redskap i verden" og fingrene som dets fineste utløpere — den delen av kroppen der det indre møter det ytre mest direkte. Senere arketypiske psykologer som James Hillman har lagt vekt på at fingrene i drømmer ofte representerer "presisjonsbevisstheten" — den delen av oss som vet hvordan ting skal gjøres riktig, ikke bare i kraft.
 
 Den franske fenomenologen Maurice Merleau-Ponty beskrev hånden — og særlig fingertuppene — som "der verden møter oss". Drømmens fingre kan i denne lesningen handle om hvor levende du er i ditt møte med livet akkurat nå: berører du verden, eller har den blitt distansert?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og hendenes deler knyttet til presisjon og håndverk.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det å gripe fatt i noe: handlekraft i sin mest detaljerte form.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor hvilken finger det gjaldt kan bety noe.

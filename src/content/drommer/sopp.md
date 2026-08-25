@@ -68,3 +68,9 @@ I jungiansk psykologi ville soppen ha vært ett av de rikeste symbolene for det 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe som vokser i det stille?
 - Har du drømt om **sopp eller vekst under overflaten** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — veksten i det skjulte: det som brer seg under overflaten før det blir synlig.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — vekster og grøde som drømmemotiv i antikken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor spiselig eller giftig avgjør tolkningen.

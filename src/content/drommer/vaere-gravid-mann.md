@@ -80,3 +80,7 @@ Det er interessant at menn i vestlige kulturer rapporterer denne drømmen oftere
 
 > 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det skapende som ikke er bundet til kjønn: noe modnes innenfra og krever plass.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at en stor livsendring på vei preger nettene før den skjer.

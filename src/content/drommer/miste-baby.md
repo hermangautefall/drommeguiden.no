@@ -81,3 +81,9 @@ Det finnes imidlertid noe dypt menneskelig i selve drømmens scen: foreldre i al
 - Har du drømt om **tap av barn** **flere ganger**?
 
 *Hvis du bærer på sorg etter faktisk tap av et barn, kan det å snakke med en psykolog eller terapeut hjelpe deg gjennom drømmenes og sorgarbeidets tyngste faser.*
+
+## Kilder og videre lesning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — mareritt og hvordan psyken bearbeider den sterkeste frykten et menneske kan bære.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — fødsel og tap som drømmemotiv i den eldste drømmelitteraturen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at omsorgsansvar om dagen gir omsorgsfrykt om natten.

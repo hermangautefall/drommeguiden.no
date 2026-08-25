@@ -68,3 +68,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om gammel venn **flere ganger**?
+
+## Kilder og videre lesning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at den som fyller minnet, også fyller drømmen.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — vennen som bærer av en egenskap eller en tid du savner i deg selv.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på at drømmer om nære relasjoner hører til bearbeidingen av dem.

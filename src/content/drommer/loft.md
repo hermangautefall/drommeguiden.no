@@ -66,3 +66,8 @@ Jung beskrev huset i drømmene som et av de viktigste arketypiske symbolene, og 
 ## Minnene vi tar vare på
 
 I norsk huskultur er loftet historisk sett et spesielt rom: på de gamle Husmannsplassene og gårdshusene var loftet gjerne der jentene sov, og det hadde en viss mystikk og privatliv. Å drømme om et norsk loft berører denne kulturelle arven av det halvt-private, det mellom-romlige.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — loftet som psykens øverste etasje: minner, arv og det som er lagt bort, men tatt vare på.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor loftsdrømmer kommer når fortiden melder seg.

@@ -66,3 +66,8 @@ Jung brukte treet — særlig eiken — som ett av hans primære symboler for se
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er du godt nok forankret til det som stormer?
 - Har du drømt om **eik eller store trær** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — treet som bilde på Selvets vekst, med eika som det mest langsomme og seiglivede uttrykket.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor treets alder og tilstand speiler drømmerens livsfase.

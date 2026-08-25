@@ -48,3 +48,9 @@ Vandret sauene fredelig i drømmen, er det gjerne et tegn på ro, naturlig rytme
 Jung ville sett sauen som en representasjon av det kollektive Persona — den delen av oss som tilpasser seg normen og flokken, som ikke skiller seg ut. Nødvendig, men ikke tilstrekkelig for et fullt liv. Se [kategori dyr](/kategori/dyr/) for flere dyresymboler.
 
 Kommer sauen tilbake i flere drømmer, kan det være verdt å kjenne etter om det er trygghet eller underkastelse du egentlig søker når du lar deg lede av flokken.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — husdyr og flokk som drømmemotiv i et jordbrukssamfunn.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — flokken og det å følge med strømmen, mot det å gå sin egen vei.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke dyr som opptrer i drømmer, og hvordan.

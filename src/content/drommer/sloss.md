@@ -51,3 +51,9 @@ Vant du kampen, håndterer du konflikten med suksess — du har ressursene som t
 I norrøn tradisjon er kamp og strid ikke utelukkende negativt — einherjer i Valhall kjemper hver dag og samles om kvelden til fest. I beslektede drømmer kan du også oppleve å [drepe](/drommer/drepe/) noen. Kampen er trening, den er ære, den er hvem man er. Å drømme om kamp i norsk kulturell sammenheng kan berøre denne arven av det verdige stridets estetikk.
 
 Jung beskrev drømmens fiende som en av de viktigste gestalter i det ubevisste — fordi det vi kjemper mot gjerne er det vi trenger å integrere. Fienden er sjelden bare fiendtlig. Den er en del av deg som insisterer på å bli anerkjent.
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: kampen som hjernens øving på konfrontasjon.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen man møter ansikt til ansikt, og som ofte viser seg å være en del av en selv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor utfallet av kampen sier mest.

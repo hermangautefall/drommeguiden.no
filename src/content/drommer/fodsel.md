@@ -83,3 +83,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om fødsel **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — fødsel som drømmemotiv i den eldste drømmelitteraturen, knyttet til fremtid og slekt.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — barnet som arketyp og fødselen som bilde på noe nytt i psyken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor fødselsdrømmer kommer i perioder med nystart.

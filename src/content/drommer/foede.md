@@ -77,3 +77,9 @@ Jordmødre i mange kulturer — fra norske "jordemødre" til greske "maiai" — 
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er noe klart til å tre frem?
 - Har du drømt om **fødsel** eller **å føde** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — fødselen som drømmemotiv, blant de eldste vi kjenner.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — barnet som arketyp: det nye som krever plass og omsorg.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor fødselsdrømmer også kommer til dem som ikke venter barn.

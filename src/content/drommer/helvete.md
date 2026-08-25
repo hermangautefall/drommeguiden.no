@@ -85,3 +85,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om helvete **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggeriket: den delen av psyken der skyld og selvstraff holder til.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — mareritt og hvordan psyken gir indre pine sine sterkeste bilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slike drømmer kommer i perioder med skyldfølelse.

@@ -81,3 +81,8 @@ I norrøn tradisjon er Frigg — gudinnenes dronning og hjemmets beskytter — n
 
 > 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
 
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — amming og næring som drømmemotiv i den eldste drømmelitteraturen.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — moderarketypen og det nærende som grunnbilde i psyken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slike drømmer også kommer til dem som ikke har barn.

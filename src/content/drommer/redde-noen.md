@@ -52,3 +52,9 @@ Reddet du et barn, trenger din indre barneside oppmerksomhet — sårbarhet, lek
 Helten som redder den svake er ett av mytologiens mest universelle motiver — fra Heracles som befrir Promethevs til Sigurd som vekker Brynhild fra sin trollsøvn. I alle disse narrativene er redningshandlingen ikke bare ekstern — den er transformerende for helten selv.
 
 I norsk folkemedisin og eventyrtradisjon er Askeladden prototypen: han hjelper de han møter på veien, og hjelpen han gir, bringer ham til slutt til suksess. Det som reddes, redder til gjengjeld den som reddet. Drømmens redning bærer dette mønsteret: det du hjelper frem, hjelper deg tilbake.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — helteskikkelsen som arketyp, og redningen som bilde på noe man redder i seg selv.
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: faresituasjonen som hjernens øving.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor hvem du redder sier mest.

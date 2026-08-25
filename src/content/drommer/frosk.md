@@ -58,3 +58,9 @@ Frosken kan tolkes som et bilde på forvandling og vekst. Reisen fra rumpetroll 
 Frosken er også nært knyttet til vann, regn og fruktbarhet i mange kulturer. I det gamle Egypt var *Heqet* en froskhodet gudinne forbundet med fødsel og fruktbarhet, og i flere folketradisjoner regnes frosker som regnbringere — deres kvekking etter [regn](/drommer/regn/) ble sett som et tegn på at livet vender tilbake. Drømmens frosk kan på samme måte handle om fornyelse, om noe som vaskes bort og gir plass for noe friskt.
 
 I eventyret om Froskeprinsen ligger en annen tolkning: noe som ser lite tiltalende ut ved første blikk, kan vise seg å bære på stor verdi når man våger å se forbi det ytre. Som amfibium beveger frosken seg mellom vann og land, mellom følelse og fornuft — drømmen kan derfor også tolkes som et bilde på en følelsesmessig overgang, der noe som har ligget under overflaten en stund nå er klart til å vise seg.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — metamorfosen: forvandlingen fra ett stadium til et annet, synlig i dyret selv.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — frosk og padde som drømmemotiv, knyttet til regn og grøde.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor froskedrømmer kommer i overgangsfaser.

@@ -86,3 +86,9 @@ Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og f�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå?
 - Har du drømt om flyulykke **flere ganger**?
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: katastrofen som hjernens øving.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken gir kontrolltap sine mest dramatiske bilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at flystyrten ofte handler om et prosjekt, ikke en reise.

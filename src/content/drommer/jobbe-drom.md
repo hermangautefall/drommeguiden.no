@@ -66,3 +66,9 @@ Det er en interessant kulturell kontrast: i norrøn kultur var identiteten prim�
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — særlig i arbeidslivet?
 - Har du drømt om **jobb og prestasjon** **flere ganger**?
+
+## Kilder og videre lesning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at arbeidet tar plass om natten i takt med plassen det tar om dagen.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken bearbeider press og krav gjennom drømmebilder.
+- Matthew Walker, *Why We Sleep* (2017) — REM-søvn og følelsesregulering, og hva som skjer når arbeidet forstyrrer søvnen.

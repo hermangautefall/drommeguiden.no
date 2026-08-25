@@ -70,3 +70,9 @@ I norrøn tradisjon beitet fire hjorter i toppen av *Yggdrasil* og spiste av liv
 Jung beskrev hjorten som arketypisk for *anima* — den indre kvinnelige siden, det varsomme og intuitive aspektet av psyken. Senere arketypisk psykolog James Hillman har lagt vekt på at hjorten i drømmer ofte representerer "den sårbare sjelen" som ber om å bli sett uten å bli forfulgt. Drømmens hjort sier: ikke gjør meg til byttedyr — la meg være vakker og fri.
 
 Den franske antropologen Philippe Descola har dokumentert hvordan hjorten i nesten alle jakt- og samlerkulturer regnes som "menneskenes søsken" — et dyr med sjel som krever respekt selv når den jaktes. Drømmens hjort bærer på dette dype interspesies-forholdet.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — dyret som bilde på det sårbare og det hellige på én gang.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke dyr som faktisk opptrer i drømmer.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor jakten i drømmen ofte går begge veier.

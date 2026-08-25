@@ -66,3 +66,8 @@ Det fascinerende er at sosiale mediers dypeste psykologiske mekanismer — bekre
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det en avstand mellom den du er og den du presenterer deg som?
 - Har du drømt om **sosiale medier eller å bli sett** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — personaen: masken vi viser omverdenen, nå i digital form.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at skjermen i drømmen speiler hvor mye plass den tar om dagen.

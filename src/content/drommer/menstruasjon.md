@@ -81,3 +81,9 @@ Det er en av drømmepsykologiens store blindflekker at menstruasjon som drømmes
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er noe i en naturlig avslutnings- eller fornyelsessyklus?
 - Har du drømt om **kropp og syklus** på denne måten **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppens sykluser som drømmemotiv i antikken.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — syklusen og fornyelsen som grunnbilde, og det feminine prinsippets plass i psyken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor følelsen som følger blodet betyr mest.

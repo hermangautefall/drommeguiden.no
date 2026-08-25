@@ -65,3 +65,9 @@ I jungiansk psykologi representerer fugler generelt tanker, ideer og åndelige a
 I norrøn mytologi har kråken — og spesielt ravnen — en helt sentral posisjon. Odins to ravner, Hugin og Munin (tanke og minne), fløy ut over verden hver dag og brakte tilbake kunnskap til allvise Odin. Ravnen var altså en budbringer av visdom, en fugl som forbandt gudenes verden med menneskenes. Å drømme om kråke i en nordisk kontekst berører denne dype forbindelsen mellom fugl, kunnskap og det overnaturlige.
 
 I norsk folketro har kråken en mer hverdagslig, men like fascinerende rolle. Den er blitt sett som et varsel — noen steder ble det sagt at en kråke som kretset over et hus varslet om dødsfall eller store endringer, mens andre steder ble kråken respektert som en klok og tilpasningsdyktig overlevelseskunstner. Denne dobbeltheten mellom varsel og visdom gir kråkedrømmer en særlig dybde. Kråken ber deg ikke frykte det som kommer, men å møte det med åpne øyne og et skarpt sinn.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — kråka og ravnen som skyggefugler og budbringere mellom to verdener.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — fugletegn i antikkens varslingstradisjon.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor ofte fugler opptrer, og i hvilke situasjoner.

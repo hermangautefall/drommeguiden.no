@@ -60,3 +60,9 @@ Et annet perspektiv ligger i sødmen. Bien lager honning — frukten av arbeid, 
 Bien har dessuten en lang historie som et hellig dyr på tvers av kulturer. I gammelt Egypt ble biene sagt å stamme fra solguden Ras tårer, og bien var et kongelig symbol for Nedre Egypt. I keltisk og britisk folketradisjon finner man skikken "å fortelle biene" — man underrettet bikuben når noen i familien døde, som om biene var budbringere mellom denne verden og den neste. Drømmens bie kan derfor tolkes som noe som krysser grenser, og som bærer bud videre.
 
 Stikker bien deg i drømmen, kan det tolkes mer beskjedent: en liten, men skarp bekymring, et sårende ord, eller en uro for noe som i seg selv ikke er stort, men som likevel gjør vondt der det treffer.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — bier som drømmemotiv i antikken, knyttet til flid og til søt belønning.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det kollektive: samfunnet som organisme, med bikuben som klarest bilde.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor biedrømmer kommer i travle perioder.

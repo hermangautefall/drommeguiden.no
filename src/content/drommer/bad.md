@@ -88,3 +88,9 @@ I kristen tradisjon er *dåpen* den dypeste badesymbolikken — å gå ned i van
 I finsk og nordisk tradisjon er *badstuen* (sauna) det rituelle renselsesrommet — fysisk, sosialt og åndelig. Det finske ordtaket "*saunassa ollaan kuin kirkossa*" — "i badstuen er man som i kirken" — sier mye om hvordan rommet behandles. Drømmens bad i en nordisk kontekst bærer ofte på noe av denne sakrale stillheten.
 
 Jung beskrev vannet som arketypisk for det ubevisste, og badet som scenen der det bevisste møter det ubevisste i en kontrollert form. Drømmens bad er da ikke bare hygiene — det er en regulert kontakt med det dypere selvet.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — bading og renselse som drømmemotiv i antikken, der badet også var sosialt rom.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — renselsen og gjenfødelsen: å gå ned i vannet og komme opp som en annen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor baddrømmer kommer når noe trenger å vaskes bort.

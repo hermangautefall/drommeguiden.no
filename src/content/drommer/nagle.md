@@ -78,3 +78,8 @@ Psykologisk interessant er den klassiske drømmesymbolets forveksling mellom neg
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — har du godt grep, eller kjennes det glatt?
 - Har du drømt om **negler** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og neglene knyttet til grep og til det ytre inntrykket.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at neglenes tilstand følger opplevd kontroll og selvpresentasjon.

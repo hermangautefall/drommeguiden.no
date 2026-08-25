@@ -80,3 +80,9 @@ En bror i drømmen representerer ofte en del av deg selv — en slags "skygge-br
 Søskenforholdet rommer ofte begge ytterpunkter på samme tid — rivalisering og dyp lojalitet. Drømmen om broren kan handle om konkurranse, sammenligning eller en gammel spenning som aldri ble snakket ut. Men den kan like gjerne handle om brorskapets bånd: den som står ved siden av deg, den du kan stole på selv når alt annet svikter. Hvilken av disse følelsene var sterkest i drømmen, sier ofte noe om hvor du står i relasjonen akkurat nå.
 
 For mange — uavhengig av kjønn — kan broren også speile maskuline sider av en selv: handlekraft, mot, eller en alternativ vei du kunne tatt. Og uansett hva drømmen handler om, kan den også ganske enkelt være en bearbeiding av det faktiske forholdet til ham — noe uoppgjort, eller noe godt, som ber om litt oppmerksomhet. Se også drømmer om [søster](/drommer/soester/) eller [far](/drommer/far/).
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — speilingen og rivaliseringen: broren som både alliert og motstykke.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvilke familiemedlemmer som faktisk opptrer i drømmer.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor søskendrømmer bærer barndommens mønstre.

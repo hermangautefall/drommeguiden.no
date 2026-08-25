@@ -56,3 +56,8 @@ Ble du reddet fra å [drukne](/drommer/drukne/), handler det ofte om å bli over
 Det å bli reddet er ett av de arketypiske narrativene som finnes — og det er ikke tilfeldig at alle kulturer har fortellinger om redning og frelse. Fra norrøne guder som griper inn til hjelpe menneskene, til kristendommens frelsestanke, til folkeeventyrenes magiske hjelpere — det å bli reddet av noe større enn deg selv taler til noe grunnleggende i menneskesinnet.
 
 Jung beskrev begrepet "numinøs erfaring" — møtet med noe som er hellig, overveldende og dypt meningsfullt. Drømmer om å bli reddet av en kraftfull figur bærer gjerne denne kvaliteten: de etterlater ikke bare lettelse, men en form for ærefrykt.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — hjelperen som arketyp, og redningen som bilde på egne uoppdagede ressurser.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slike drømmer kommer når du bærer mye alene.

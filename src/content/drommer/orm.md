@@ -58,3 +58,9 @@ Jormungandr — Midgardsormen — omslutter hele den jordiske verden og biter si
 Carl Jung beskrev ormen som ett av de eldste og mest grunnleggende arketypiske symbolene — knyttet til det ubevisste i dets laveste og mest primitive form. Der slangen er det ubevisste i bevegelse og forvandling, er ormen det ubevisste som gnager i ro — tålmodig, vedvarende og uunngåelig. Se [kategori dyr](/kategori/dyr/) for flere dyresymboler i drømmer.
 
 Dukker ormen opp igjen i flere drømmer over tid, kan det være verdt å legge merke til hva som foregår i livet ditt akkurat nå, i det stille, uten at du fullt ut har fått øye på det ennå.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det jordnære og krypende: livskraft som beveger seg under overflaten.
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — ormer og slanger som drømmemotiv i den eldste drømmelitteraturen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor ormen ofte handler om noe som gnager.

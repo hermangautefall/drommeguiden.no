@@ -44,3 +44,9 @@ Kuas tilstand i drømmen sier mye om tolkningen. Var kua frisk og melkefull, er 
 Den norrøne urdyrskua Auðumbla er ett av de mest særegne bildene i norrøn kosmologi — hun sto i kaosens is og slikkfremgudene av isen mens hun ga melk til å nære jotnen Yme. Kua er der fra begynnelsen, hun gir næring til det som blir til. I norrøn tradisjon er kua ikke et banalt husdyr — hun er skapelsens første mor.
 
 Jung ville sett kua som en manifestasjon av "Den store moren" i sin mest nærende og jordnære form — rolig, fruktbar og ustoppelig i sin generøsitet. Se også [sau](/drommer/sau/) for et annet mildt husdyrsymbol.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — husdyr og velstand som drømmemotiv i et samfunn der buskapen var formuen.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det nærende og moderlige som grunnbilde, med kua som et av de eldste uttrykkene.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor roen i kua ofte er den roen drømmeren mangler.

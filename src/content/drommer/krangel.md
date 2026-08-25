@@ -58,3 +58,9 @@ Konflikt er ett av psykologiens mest studerte mellommenneskelige fenomener — o
 Jung beskrev det han kalte "komplekser" — emosjonelt ladde tanke- og følelsesklynger som kan "ta over" i drømmene og agere som selvstendige figurer. Personen du krangler med i drømmen er gjerne aktiveringen av et slikt kompleks: en del av deg selv med stor emosjonell ladning.
 
 I norrøne sagaer er ærestvist — holmgang og verbal duell — ett av de mest ritualiserte konfliktmønstrene. Det interessante er at sagaens konflikter alltid handler om noe grunnleggende: ære, sannhet, tilhørighet. Drømmens krangel bærer gjerne den samme alvoret, selv om den handler om det trivielle.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — komplekset: den ladede knuten i psyken som drømmen setter opp som en scene.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan undertrykt sinne finner form i drømmebilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor kranglen i drømmen ofte gjelder deg selv.

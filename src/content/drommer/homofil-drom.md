@@ -72,3 +72,9 @@ Moderne drømmeforskning er entydig: denne typen drøm er ikke diagnostisk for s
 - Hvilken **følelse** satt du igjen med da du våknet?
 - Hva skjer i **livet ditt** akkurat nå — er det noe du strever med å akseptere i deg selv?
 - Har du drømt om **lignende scenarier** **flere ganger**?
+
+## Kilder og videre lesning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — innholdsanalyser av store drømmesamlinger, og hvor sammensatt drømmenes seksuelle innhold er.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — anima og animus: integrasjonen av maskuline og feminine sider i psyken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor følelsen i drømmen sier mer enn handlingen.

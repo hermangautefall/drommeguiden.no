@@ -73,3 +73,9 @@ På tvers av kulturer har fuglen lenge vært et bilde på sjelen, ånden og det 
 I mange tradisjoner har fugler også vært budbringere — varsler om nytt, tegn på at noe er på vei. Drømmen kan derfor handle om tanker, ideer eller håp som er i bevegelse, som "letter" og finner en ny form. En fugl som flyr bort kan på samme måte tolkes som noe du må gi slipp på, eller en mulighet som glipper.
 
 Det er ofte verdt å legge merke til hvilken fugl det er, siden ulike fugler bærer ulike assosiasjoner: en due kan kjennes som fred og forsoning, en ugle kan tolkes som visdom — men også som et varsel — mens en ravn ofte bærer noe mer mystisk og tankefullt med seg. Se også [flyging](/drommer/flyging/) som et beslektet drømmesymbol.
+
+## Kilder og videre lesning
+
+- Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — fugletegn som en av antikkens mest utbredte former for varsling.
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — fuglen som bilde på sjelen i bevegelse og på det som løfter seg over situasjonen.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data på hvor ofte dyr og fugler opptrer i drømmer.

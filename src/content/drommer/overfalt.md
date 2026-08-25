@@ -59,3 +59,9 @@ Mange opplever også at de fryser eller ikke får ropt i drømmen — dette er e
 Angriperen i drømmen kan også representere en side av deg selv — som angst eller selvkritikk — eller et press du opplever fra en konkret situasjon eller person. Hvis drømmen henger sammen med noe du faktisk har opplevd, er det heller ikke uvanlig at slike bilder dukker opp som en del av den naturlige bearbeidingen — og det er aldri feil å søke støtte hvis det føles tungt.
 
 *Hvis disse drømmene er knyttet til reelle opplevelser av vold eller overgrep, fortjener du støtte. Det er ingen skam å søke hjelp.*
+
+## Kilder og videre lesning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: overfallet som hjernens øving på trussel.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hvordan psyken bearbeider frykt og krenkede grenser gjennom drømmebilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slike drømmer kommer i perioder med utrygghet.

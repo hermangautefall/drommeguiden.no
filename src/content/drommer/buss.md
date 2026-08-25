@@ -88,3 +88,8 @@ I bolivianske byer er *colectivos* og *trufis* — privateide minibusser — sel
 Carl Jung og senere arketypiske psykologer som James Hillman har sett kollektive kjøretøy som bilder på Persona-relasjonen til samfunnet: hvor mye av deg går inn i "vi", og hvor mye holder du som "jeg"? Drømmens buss er det dypeste hverdagslige bildet på dette spørsmålet.
 
 Sosiologen Robert Putnam — kjent for *Bowling Alone* — har dokumentert at moderne samfunns "tette nettverk" forvitrer. Drømmens buss kan i denne kontekst også bære på en lengsel: etter et fellesskap som er der hver dag, som går samme vei, som tar deg med selv når du ikke har valgt akkurat dem som sitter ved siden av deg.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — den kollektive ruten mot den individuelle veien, et sentralt spenn i individuasjonen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor bussdrømmer kommer når andre setter tempoet.

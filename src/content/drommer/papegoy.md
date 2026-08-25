@@ -49,3 +49,8 @@ Gjentok papegøyen noe du selv hadde sagt, er det gjerne en advarsel om at orden
 I mange kulturer er papegøyen et symbol på intelligens og kommunikasjon — men også på det overfladiske og det innlærte. Psykologisk sett kan papegøyen representere de delene av oss som har internalisert andres stemmer — noe som også berøres i drømmer om [skole](/drommer/skole/) — foreldre, samfunn, autoriteter — uten å ha gått gjennom dem kritisk.
 
 Drømmen kan invitere deg til å spørre: hva er egentlig min egen stemme? Dukker papegøyen opp igjen i flere drømmer, kan det være lurt å skrive det ned i en [drømmejournal](/guider/drommejournalen/) — over tid kan mønstrene si mer enn én enkelt drøm gjør alene.
+
+## Kilder og videre lesning
+
+- Carl Gustav Jung, *Mennesket og dets symboler* (1964) — personaen som gjentar andres ord i stedet for å finne sine egne.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, og hvorfor slike drømmer kommer når egen stemme kjennes borte.
