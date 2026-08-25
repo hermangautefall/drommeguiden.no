@@ -64,13 +64,7 @@ Laksens reise hjem til stedet den selv ble født, kan tolkes som et bilde på hj
 
 I mange nordlige kulturer har laksen også vært en kilde til overflod og livsviktig næring — et symbol som kan tolkes som at noe du har arbeidet hardt for, endelig er innen rekkevidde.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om laks **flere ganger**?
+> 💡 **Les også:** Laksens vei tilbake til elva er et av naturens tydeligste hjemkomstbilder. Flere slike i [guiden om norske drømmesymboler](/guider/norske-drommesymboler/).
 
 ## Kilder og videre lesning
 

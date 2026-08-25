@@ -65,14 +65,6 @@ Alkohol har en kompleks plass i norsk kultur — på én side en sterk drikkekul
 
 Psykologisk sett er alkohol i drømmene knyttet til Dionysus — den greske guden for ekstatisk frigjøring, det irrasjonelle og det som bryter med det ordnede. Drømmen inviterer deg til å undersøke: hva trenger du å slippe litt på? Les mer om [hva drømmer egentlig er](/guider/hva-er-drommer/) for å forstå underbevissthetens språk bedre.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om alkohol **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — hemningene som løsner, og drømmen som arena for det man ellers holder tilbake.

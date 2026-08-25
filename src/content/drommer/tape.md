@@ -68,12 +68,6 @@ Prestasjonsmotiv — ønsket om å gjøre det godt og frykten for å mislykkes �
 
 Det er interessant at norrøn kultur hadde et mer nyansert syn på tap enn mange andre: i sagaene er det ikke den som alltid vinner som er den edelste — det er den som taper med ære, som holder verdiene sine intakt i nederlaget. Drømmens tap kan da stille et norrønt spørsmål: hvis du tapte, tapte du med verdighet?
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe du er redd for å mislykkes med?
-- Har du drømt om **å tape eller mislykkes** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — angstdrømmen om å komme til kort, og forlegenheten som følger den.

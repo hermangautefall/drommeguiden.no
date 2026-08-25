@@ -72,13 +72,7 @@ For moderne nordmenn er nordlyset dypt forankret i identitet og nostalgi — sel
 
 Carl Jung ville sett nordlyset som en numinøs erfaring — det overveldende, hellige og ukontrollerbare møtet med noe som er større enn jeg-et. En slik drøm er et tegn på at psyken er i kontakt med noe arketypisk og dypt.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om nordlys **flere ganger**?
+> 💡 **Les også:** Nordlyset deler plass med en håndfull andre nordlige motiver i [guiden om norske drømmesymboler](/guider/norske-drommesymboler/).
 
 ## Kilder og videre lesning
 

@@ -76,12 +76,6 @@ Kyss som ritual har dype røtter i nesten alle kulturer. I norrøn tradisjon mar
 
 Freud tolket drømmens kyss — som det meste — seksuelt. Jung utvidet dette til noe mer grunnleggende: kyss er forening, og forening er psykens dypeste lengsel. Hele individuasjonsprosessen — den livslange bevegelsen mot helhet — kan beskrives som en serie kyss mellom det kjente og det ukjente i deg selv.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — lengter du etter nærhet eller godkjennelse?
-- Har du drømt om **kyss** med denne personen **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kysset som tegn på pakt, allianse og hengivenhet i antikkens drømmetydning.

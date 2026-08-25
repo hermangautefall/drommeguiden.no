@@ -62,14 +62,6 @@ I psykoanalytisk tradisjon er mat tett knyttet til de tidligste erfaringene av o
 
 I norsk kultur har mat og måltid en sterk sosial funksjon — søndagsmiddagen i [hjemmet](/drommer/hus/), julens tradisjoner, kosen med noe godt. Å drømme om mat i norsk kontekst er å drømme om tilhørighet og tradisjon like mye som ernæring.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om mat **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — måltid og sult som drømmemotiv, lest ut fra hva som ble spist og med hvem.

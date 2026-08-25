@@ -59,12 +59,6 @@ Internett som drømmesymbol er relativt nytt og lite studert — men vokser rask
 
 Marshall McLuhan — medieteoretikeren som sa "mediet er budskapet" — ville ha sett internettet som en forlengelse av det menneskelige nervesystemet. Drømmens internett er da: det kollektive nervesystemet vårt, synliggjort.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — søker du noe du ikke finner?
-- Har du drømt om **digitale nettverk** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det kollektive rommet, nå i en form Jung ikke kunne forutse, men beskrev prinsippet for.

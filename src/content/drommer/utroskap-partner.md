@@ -76,13 +76,7 @@ Jung beskrev sjalusien som en av de mest komplekse psykologiske tilstandene: den
 
 En norsk folkelig visdom er relevant her: det man frykter mest, det drømmer man om. Det er sant — og det betyr at drømmens innhold sier mer om frykten enn om virkeligheten.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe som gjør deg utrygg på deg selv?
-- Har du drømt om **partnerens utroskap** **flere ganger**?
-
-> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — om hvorfor utrygghet gir så livaktige drømmer.
 
 ## Kilder og videre lesning
 

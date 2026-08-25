@@ -60,14 +60,6 @@ For-sent-drømmene er nært beslektet med [eksamensdrømmene](/drommer/eksamen/)
 
 Interessant nok er disse drømmene blitt vanligere i moderne tid — noe som kan henge sammen med at vår opplevelse av tid er blitt mer komprimert, mer kravfull og mer fylt med konkurrerende forpliktelser enn noen gang.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om å komme for sent **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — angstdrømmen om å ikke rekke det, beslektet med eksamensdrømmen.

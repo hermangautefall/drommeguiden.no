@@ -82,14 +82,6 @@ Mange elvedrømmer handler i bunn og grunn om følelser som er i bevegelse snare
 
 Elven er også, helt konkret, en reise med en begynnelse og et mål — fra kilde til hav. Å følge elven i drømmen, eller å la deg bære av den, kan derfor handle om hvor du er i din egen livsreise: er du nær opprinnelsen, midt i løpet, eller på vei mot noe som venter forut? Og å krysse en elv, slik mange myter og fortellinger gjør et stort poeng av, markerer ofte at noe avsluttes på den ene siden og noe nytt begynner på den andre.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om elv **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det rennende vannet som bilde på livsløpet og på det ubevisstes bevegelse.

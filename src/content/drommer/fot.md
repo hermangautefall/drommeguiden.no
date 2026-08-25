@@ -73,12 +73,6 @@ Føttene bærer deg også fremover — de handler om retning og bevegelse. En dr
 
 Samtidig handler føtter om frihet og uavhengighet — evnen til å gå din egen vei uten å være avhengig av andre. Skadede eller bundne føtter kan derfor speile en begrenset frihet, eller en følelse av å bli holdt tilbake. Føttene har også en plass som symbol på ydmykhet i mange tradisjoner — fotvask som tegn på omsorg og tjeneste finnes på tvers av kulturer — og den kjente påminnelsen om at selv den lengste reisen begynner med ett skritt, gjelder like mye i drømmenes verden som i våken tilstand.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er du godt forankret, eller kjennes grunnen ustabil?
-- Har du drømt om **føtter eller å gå** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og føttene knyttet til fremdrift og selvstendighet.

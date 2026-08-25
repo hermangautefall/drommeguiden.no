@@ -72,12 +72,6 @@ Egyptisk kunst viser Isis som ammer Horus — ett av de mest reproduserte bilden
 
 I norrøn mytologi er Frigg og Freyja begge forbundet med fruktbarhet, næring og feminin kraft. Det norske ordet "barm" — som betyr både bryst og favn — bærer i seg dobbeltbetydningen av fysisk omsorg og varme omfavnelse.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — gir du nok, eller gir du for mye?
-- Har du drømt om **kropp og næring** på denne måten **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene som drømmemotiv, og brystet knyttet til næring og omsorg.

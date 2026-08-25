@@ -65,14 +65,6 @@ I jungiansk psykologi er barnet et av de viktigste arketypiske symbolene — det
 
 I nordisk folkloretradisjon er barn i drøm gjerne sett som varsler om noe nytt på vei. Hvis du er interessert i å utforske [hva drømmer egentlig er](/guider/hva-er-drommer/), har vi en egen guide om dette — ikke nødvendigvis bokstavelig talt, men som et symbol på at noe i livet er i ferd med å ta en ny form.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om barn **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — barnet som arketyp: det nye, det sårbare og det som ennå ikke er ferdig utviklet i oss.

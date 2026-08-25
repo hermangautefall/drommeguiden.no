@@ -64,14 +64,6 @@ I noen drømmer er kjæresten mindre en faktisk person og mer et bilde på en de
 
 Drømmer om kjæresten kan også løfte fram tilknytningsmønstre — trygghet, frykt for å bli forlatt, sjalusi, eller et ønske om mer nærhet. Og hvis du er singel og drømmer om en kjæreste du ikke har, eller om et ukjent ansikt, kan det tolkes som en lengsel etter forbindelse, eller et ønske om å bli kjent med en side av deg selv du ennå ikke har integrert — sjelden et varsel om hvem du faktisk kommer til å møte.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om kjæresten **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — anima og animus: partneren i drømmen som bærer av egenskaper du selv rommer.

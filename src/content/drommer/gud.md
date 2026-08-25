@@ -68,12 +68,6 @@ Gud kan i drømmer også opptre som den ytterste autoritets- eller foreldrefigur
 
 Slike drømmer dukker ofte opp i kriser, og bringer da gjerne trøst, ærefrykt eller en følelse av ikke å være alene — den slags opplevelse som kalles "numinøs" eller hellig. Hvordan det guddommelige fremstår i drømmen, formes ofte av din egen oppvekst og bakgrunn. Drømmen bruker en kjent skikkelse for å snakke om mening og tilhørighet, og det gjelder like mye for den som ikke er religiøs som for den som er det. Se også drømmer om [engler](/drommer/engler/) eller [himmelen](/drommer/himmel/).
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — søker du noe som er større enn det hverdaglige?
-- Har du drømt om **det guddommelige** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — møtet med det numinøse og Selvet som arketyp, og hvorfor slike drømmer oppleves som større enn drømmeren.

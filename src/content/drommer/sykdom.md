@@ -65,14 +65,6 @@ Slike drømmer kan også være en påminnelse om å ta vare på deg selv — å 
 
 Hvis drømmen vekker uro for egen eller andres helse, er det godt å vite at slike drømmer nesten aldri er bokstavelige eller forutsigende — de handler om følelser, ikke om fremtiden. Ofte peker de mot et mønster eller en uløst sak som har "ulmet" en stund, og som det kan være godt å gi litt oppmerksomhet før det vokser seg større.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om sykdom **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — sykdom og kropp som drømmemotiv i antikken, og hvordan det ble lest som varsel.

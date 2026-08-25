@@ -74,13 +74,7 @@ Andre ganger kan bildet av å skilles speile en indre splittelse — to deler av
 
 Til sist kan det å gå hver til sitt i en drøm også tolkes som noe sunt: et tegn på at du er i ferd med å finne din egen vei, stå litt mer på egne ben, eller skille klarere mellom hva som er ditt og hva som hører til andre. Slike drømmer er sjelden et varsel — de er som oftest sinnets stille bearbeiding av endring.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er noe på vei til å avsluttes?
-- Har du drømt om **avskjeder eller brudd** **flere ganger**?
-
-> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Angst og søvn](/sovn/angst-sovn/) — om hvordan uro og søvn forsterker hverandre i tunge perioder.
 
 ## Kilder og videre lesning
 

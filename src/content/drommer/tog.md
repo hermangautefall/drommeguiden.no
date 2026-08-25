@@ -62,14 +62,6 @@ Den klassiske "å gå glipp av toget"-drømmen tolkes ofte som en frykt for å l
 
 Fordi et tog frakter mange mennesker samtidig, kan drømmen også handle om det kollektive — å bli med "på lasset" med andre, eller en opplevelse av at livet går etter en rutetabell du ikke har satt selv.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om tog **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det kollektive sporet mot den individuelle veien, et sentralt spenn i individuasjonen.

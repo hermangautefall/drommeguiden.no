@@ -76,14 +76,6 @@ Andre ganger handler det om en større forvandling i deg selv — en ny fase av 
 
 For dem som selv venter barn, eller går gjennom en stor endring i livet, er slike drømmer svært vanlige — kroppen og sinnet er i en tilstand av forventning, og drømmene blir gjerne livligere og mer fargerike i slike perioder. På tvers av kulturer har fødsel ofte vært knyttet til fornyelse og håp om fremtiden, og det universelle bildet av noe nytt som kommer til verden, er en av drømmens varmeste symboler.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om fødsel **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — fødsel som drømmemotiv i den eldste drømmelitteraturen, knyttet til fremtid og slekt.

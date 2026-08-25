@@ -60,13 +60,7 @@ Bunaden er ett av de få nasjonale symbolene som ikke er omstridt i Norge — de
 
 Jungs Persona — den sosiale masken — handler om klesdrakt i overført forstand: det man viser frem, den rollen man tar på seg. Bunaden er en av de mest eksplisitte formene for Persona som finnes: den sier tydelig hvem du er, hvor du er fra og hva du representerer.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om bunad **flere ganger**?
+> 💡 **Les også:** Bunaden er ett av flere motiver som bare gir full mening i norsk sammenheng. Se [oversikten over norske drømmesymboler](/guider/norske-drommesymboler/) for de andre.
 
 ## Kilder og videre lesning
 

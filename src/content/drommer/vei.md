@@ -69,14 +69,6 @@ Hastverk eller entusiasme — du vil nå noe fort. Kjørte du i [bil](/drommer/b
 
 I norsk kulturell sammenheng er ferden — til fjells, ut i naturen, langs kysten — dypt forankret. Å drømme om vei berører noe av denne nomadiske og naturfrydende arven.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om vei **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — veien som bilde på individuasjonen: den livslange bevegelsen mot å bli den man er.

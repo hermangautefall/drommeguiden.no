@@ -57,13 +57,7 @@ Nissen er i norsk tradisjon et av de mest langlivede folkereligiøse elementene 
 
 Jung ville sett nissen som en manifestasjon av Selvets beskyttende funksjon — den lille figuren som holder [huset](/drommer/hus/) (selvet) i orden fra innsiden.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om nisse **flere ganger**?
+> 💡 **Les også:** Nissen er folketroens vokterfigur. [Guiden om norske drømmesymboler](/guider/norske-drommesymboler/) forklarer hvordan slike skikkelser fikk sin plass i drømmene.
 
 ## Kilder og videre lesning
 

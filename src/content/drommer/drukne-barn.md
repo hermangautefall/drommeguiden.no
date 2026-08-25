@@ -76,15 +76,7 @@ Mareritt der noe skjer med barnet, er blant de vanligste drømmene foreldre fort
 
 Det norrøne begrepet "hamingja" — den beskyttende lykkeånd som fulgte en slekt — er i denne sammenhengen interessant: en del av foreldreansvaret var å beskytte barnets hamingja. Drømmens frykt for å miste barnet er kanskje en moderne versjon av denne urgamle beskytterimpulsen.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe sårbart du frykter å miste kontrollen over?
-- Har du drømt om **barn i fare** **flere ganger**?
-
-*Disse drømmene kan være svært belastende. Hvis de er hyppige og forstyrrer søvnen din alvorlig, kan det hjelpe å snakke med noen — enten en nær person eller en fagperson.*
-
-> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — om hvordan søvnen endrer seg når man har ansvar for noen små.
 
 ## Kilder og videre lesning
 

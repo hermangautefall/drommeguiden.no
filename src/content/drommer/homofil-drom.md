@@ -67,12 +67,6 @@ Det er interessant at mange ikke-vestlige kulturer og urfolkstradisjonar — ink
 
 Moderne drømmeforskning er entydig: denne typen drøm er ikke diagnostisk for seksuell orientering. Den er ett bildespråk blant mange for psykens bevegelse mot integrasjon og selvaksept.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe du strever med å akseptere i deg selv?
-- Har du drømt om **lignende scenarier** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — innholdsanalyser av store drømmesamlinger, og hvor sammensatt drømmenes seksuelle innhold er.

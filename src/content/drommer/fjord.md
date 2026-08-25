@@ -65,13 +65,7 @@ Fjorden er for norsk selvforståelse det Nilen er for Egypt eller Themsen for En
 
 I norrøn tid var fjorden hjem og vei på én gang — der langskipene lå, der handelen foregikk, der [elvene](/drommer/elv/) møtte sjøen, der livet pulserte. Fjorden er ikke et fremmed element i norsk psyke; det er hverdagen gjennom tusen år.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om fjord **flere ganger**?
+> 💡 **Les også:** Fjorden er kanskje det mest særnorske symbolet av alle. [Guiden om norske drømmesymboler](/guider/norske-drommesymboler/) tar for seg de øvrige.
 
 ## Kilder og videre lesning
 

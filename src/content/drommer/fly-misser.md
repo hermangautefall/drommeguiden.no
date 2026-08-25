@@ -63,12 +63,6 @@ Den speiler noe svært spesifikt for vår tid: den akselererte kulturen, FOMO (f
 
 Eksistensfilosofen Søren Kierkegaard ville kanskje ha kalt dette "angst for muligheten" — ikke angst for et konkret onde, men angst for selve den åpne horisonten av valg og muligheter der feil valg alltid er mulig.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe du er redd for å gå glipp av?
-- Har du drømt om **å komme for sent eller misse noe** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — angstdrømmen om å ikke rekke det, beslektet med eksamensdrømmen.

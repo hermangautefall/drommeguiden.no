@@ -72,13 +72,7 @@ I mange urfolkstradisjoner — inkludert samiske og inuittiske kulturer — hadd
 
 Det er interessant at menn i vestlige kulturer rapporterer denne drømmen oftere enn man forventer — og at den nesten alltid viser seg å knytte seg til en pågående skapelsesprosess, enten profesjonelt, kunstnerisk eller personlig.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — hva er du i ferd med å bringe frem?
-- Har du drømt om **å bære noe frem** på denne måten **flere ganger**?
-
-> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Søvn under graviditet](/sovn/sovn-graviditet/) — om hvordan søvnen endrer seg for begge parter i en graviditet.
 
 ## Kilder og videre lesning
 

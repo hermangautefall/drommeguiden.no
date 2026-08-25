@@ -68,12 +68,6 @@ Seier og anerkjennelse er ett av Maslows høyeste behov i behovspyramiden — ak
 
 I norrøn tradisjon var ære (dýrð) den høyeste verdien — ikke rikdom eller makt, men det gode omdømmet, det å bli husket for noe godt. Seieren i kamp eller konkurranse var ett av de fremste veiene til denne æren. Drømmens seier bærer noe av denne urgamle æreslengselen — den sosiale bekreftelsen som sier: du er noe verdt.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe du arbeider mot som trenger bekreftelse?
-- Har du drømt om **å vinne eller lykkes** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — ønskeoppfyllelsen: drømmen som gir deg anerkjennelsen du savner.

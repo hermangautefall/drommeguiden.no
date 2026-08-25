@@ -58,13 +58,7 @@ I samisk sjamanisme er reinsdyret et av de viktigste kraftdyrene — noaiden (sj
 
 For norsk storsamfunn er reinsdyret et symbol på noe ekte og ikke-kommersialisert ved Norge — noe som virkelig hører hjemme i [skogen](/drommer/skog/) og på vidda, på en måte byene og E-6 ikke gjør. Å drømme om reinsdyr er å drømme om noe av det mest opprinnelige ved det norske.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om reinsdyr **flere ganger**?
+> 💡 **Les også:** Reinen står i en levende samisk sammenheng. Den og de andre nordlige symbolene er samlet i [guiden om norske drømmesymboler](/guider/norske-drommesymboler/).
 
 ## Kilder og videre lesning
 

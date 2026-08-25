@@ -61,14 +61,6 @@ Jung betraktet månen som ett av de viktigste arketypiske symbolene for det ubev
 
 I norrøn tradisjon er Máni guden for månen — en mannlig figur, i motsetning til mange andre kulturers feminine måne. Denne norrøne tradisjonen gir månen en noe annen kvalitet i norsk kulturell psyke: rolig, taktfast, bærende — ikke bare romantisk og følelsesladet. Drømmer om [havet](/drommer/hav/) deler mye av den samme symbolikken om det dype og ubevisste.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om månen **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — månen som bilde på det feminine prinsippet, syklusene og det som lyser i mørket.

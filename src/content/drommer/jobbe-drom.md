@@ -61,12 +61,6 @@ At jobben følger med inn i søvnen, er ikke rart. Kontinuitetshypotesen — at 
 
 Det er en interessant kulturell kontrast: i norrøn kultur var identiteten primært knyttet til ætt, ære og handlinger — ikke til stilling. Draugen — den urolige gjengangeren — var gjerne den som hadde udødelig uvilje mot å gi slipp på det jordlige. Kanskje er arbeidsdrømmene den moderne versjon: psyken som ikke klarer å gi slipp på det produktive.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — særlig i arbeidslivet?
-- Har du drømt om **jobb og prestasjon** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at arbeidet tar plass om natten i takt med plassen det tar om dagen.

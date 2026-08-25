@@ -58,14 +58,6 @@ Bein som symbol på fundament er universalt — fra det å "stå med beggje bein
 
 Jung ville sett sterke bein som et symbol på en velutviklet evne til å navigere verden — et Ego som er trygt forankret og kan bevege seg med selvtillit. Drømmer om [hender](/drommer/hender/) handler derimot om handling og evnen til å gripe verden.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om bein **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene som drømmemotiv, og beina knyttet til å stå og å bære.

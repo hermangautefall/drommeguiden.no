@@ -65,12 +65,6 @@ I eksistensfilosofi brukes "kast" (Heideggers "Geworfenheit") om den erfaringen 
 
 Det ironiske er at det å akseptere at bremsen mangler — å la være å kjempe mot det ukontrollerbare og heller fokusere på å styre — er det som gir best overlevelsessjanse i den drømmen. Det er et godt bilde på livet generelt.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe som holder på å løpe løpsk?
-- Har du drømt om **tap av kontroll** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: kontrolltapet som hjernens øving.

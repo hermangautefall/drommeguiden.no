@@ -61,14 +61,6 @@ For nordmenn er skipet ikke et fremmed symbol — det er identitetens kjerne. Vi
 
 Jung beskrev skipet som ett av de arketypiske fartøyene for sjelsreisen — det som bærer bevisstheten over ubevisste farvann. Å drømme om et skip er å drømme om å holde seg flytende i det dypeste av alt.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om skip **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — fartøyet som bærer deg over dypet: et av de eldste bildene på livsreisen.

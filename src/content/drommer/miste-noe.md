@@ -65,14 +65,6 @@ Den frustrerende følelsen av å lete og lete uten å finne det du har mistet, k
 
 Ikke alt som mistes i en drøm er nødvendigvis tungt. Noen ganger øver psyken seg på å gi slipp på ting som ikke lenger trengs, og skaper dermed plass til noe nytt. [Nøkler](/drommer/nokler/) som mistes kan for eksempel handle om at en gammel tilgang eller rolle ikke lenger er aktuell — og det kan være helt i orden.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om å miste noe **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — angstdrømmer og det som forsvinner, som uttrykk for noe uavklart.

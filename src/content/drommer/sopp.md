@@ -63,12 +63,6 @@ Moderne forskning på psilocybin — den psykoaktive forbindelsen i visse soppty
 
 I jungiansk psykologi ville soppen ha vært ett av de rikeste symbolene for det ubevisste selv: ikke lysende og åpenbart, men levende og aktivt i mørket.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe som vokser i det stille?
-- Har du drømt om **sopp eller vekst under overflaten** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — veksten i det skjulte: det som brer seg under overflaten før det blir synlig.

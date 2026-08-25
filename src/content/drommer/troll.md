@@ -78,13 +78,7 @@ Carl Jung beskrev det han kalte Skyggen — de aspektene av psyken vi ikke vedkj
 
 Asbjørnsen og Moe samlet eventyrtrollene, men de hentet dem fra en levende muntlig tradisjon som strakk seg tilbake til norrøn tid. Jotner — de urgamle kjempene — er trollets forfedre: de som eksisterte før gudene skapte orden, de som representerer kaos og råkraft i sin reneste form.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om troll **flere ganger**?
+> 💡 **Les også:** Trollet er folketroens navn på noe psykologien senere ga andre ord. Mer om dette i [guiden om norske drømmesymboler](/guider/norske-drommesymboler/).
 
 ## Kilder og videre lesning
 

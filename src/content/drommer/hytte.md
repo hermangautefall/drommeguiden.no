@@ -67,13 +67,7 @@ Hytten er i norsk kulturhistorie noe annet enn i de fleste andre kulturer — de
 
 Drømmens hytte bærer på all denne kulturelle rikdommen — og er dermed et drømmesymbol ingen andre kulturer kan ha på helt samme måte.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om hytte **flere ganger**?
+> 💡 **Les også:** Hytta er stedet nordmenn drar for å bli færre. Mer om slike særnorske motiver i [guiden om norske drømmesymboler](/guider/norske-drommesymboler/).
 
 ## Kilder og videre lesning
 

@@ -61,12 +61,6 @@ Mørket som hellig er ett av religionshistoriens gjennomgående temaer. Den apof
 
 I norrøn mytologi er Helheims kongerike mørkt og stille — men det er ikke utelukkende et sted for straff. Det er et sted for hvile, for de som ikke falt i kamp. Mørket er ikke bare trussel — det er også det som rommer de sovende, de sørgende, de som venter på noe nytt.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe du ikke kan se, og hva tør du å stå i?
-- Har du drømt om **mørke eller det ukjente** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — mørket som det ubevisste: ikke ondt, men uopplyst.

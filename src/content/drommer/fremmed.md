@@ -66,14 +66,6 @@ Drømmen kan også speile hvordan du forholder deg til det nye generelt — endr
 
 Vi har dessuten en tendens til å projisere på fremmede: de blir tomme flater vi fyller med egne følelser. En truende fremmed kan derfor bære på en frykt du allerede har, mens en hjelpsom fremmed kan representere en ressurs, et råd eller en vei videre du ikke helt har sett selv. I mange fortellinger er nettopp den mystiske fremmede en som dukker opp for å bringe et budskap eller sette noe i bevegelse — en liten katalysator i historien om livet ditt.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om fremmed **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen og de sidene av oss selv vi ennå ikke kjenner igjen, som drømmen ofte gir et ukjent ansikt.

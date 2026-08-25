@@ -70,12 +70,6 @@ Det arketypiske tvillingmotivet handler gjennomgående om det doble som er en n�
 
 Jung mente at selvet alltid er dobbelt: bevisst og ubevisst, lys og skygge, kjent og fremmed. Tvillingdrømmen er psykens mest direkte bilde på denne dobbelheten.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe som er todelt eller splittet?
-- Har du drømt om **tvillinger** eller **dobbelheter** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det doble i psyken: to sider av samme selv, der den ene ofte bærer det den andre ikke vil vedkjenne seg.

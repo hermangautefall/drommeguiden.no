@@ -60,14 +60,6 @@ Magen er også der vi "fordøyer" det som skjer med oss. "Sommerfugler i magen" 
 
 Magen kan også handle om næring og behov — sult, hva som faktisk gir deg energi, eller en sårbarhet du bærer på (den myke, ubeskyttede magen). Av og til er forklaringen enklere enn man tror: faktisk sult eller fordøyelse mens du sover kan også forme drømmebildene, og det er ingenting å bekymre seg over.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om magen **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og magen som sete for det man fordøyer.

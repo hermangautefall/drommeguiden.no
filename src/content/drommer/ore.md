@@ -58,14 +58,6 @@ I mange spirituelle tradisjoner er lytteevnen knyttet til visdom — den vise h�
 
 Jung ville sett en blokkert øredrøm som et tegn på at Ego-et ikke vil høre noe fra det ubevisste — en motstand mot innsikt som trenger å overvinnes. Drømmer om [fremmede](/drommer/fremmed/) kan også handle om å lytte til noe ukjent i seg selv.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om ører **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og øret knyttet til det man hører og det man overhører.

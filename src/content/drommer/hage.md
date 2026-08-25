@@ -63,14 +63,6 @@ Samtidig er en hage aldri statisk — den krever stell for å forbli det den er.
 
 Hagen følger også årstidenes rytme, og det gjør drømmer om hagearbeid til noe som ofte handler om tålmodighet og timing. Å så er ikke det samme som å høste, og mellom de to ligger det en periode der ingenting ser ut til å skje på overflaten. En drøm om å plante, vente eller høste i en hage kan derfor minne deg om at noe i livet ditt trenger tid for å bli til det det skal bli — og at den tiden ikke nødvendigvis er bortkastet, selv når det ikke føles produktivt.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om hage **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — den stelte hagen som bilde på det indre livet man dyrker, beslektet med mandalaen.

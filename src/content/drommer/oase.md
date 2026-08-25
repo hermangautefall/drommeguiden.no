@@ -63,12 +63,6 @@ I det jødisk-kristne narrative er ørkenvandrinen og oasen sentralt: Israels fo
 
 I psykologisk forstand er oasen et symbol på det Jung kalte den "transcenderende funksjon" — det punktet der psyken finner en ny syntese når to motpoler har brukt hverandre ut. Etter den psykiske ørkenen: oasen.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er du i en uttørrende periode, og hva trenger du?
-- Har du drømt om **hvile og tilflukt** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — hvilen i ødemarken: pusterommet som gjør prøvelsen mulig å bære.

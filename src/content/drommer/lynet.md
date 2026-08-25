@@ -58,14 +58,6 @@ Lyn kan tolkes som et glimt av innsikt — et plutselig "aha"-øyeblikk der noe 
 
 Lyn kan også tolkes som et bilde på sjokk og brå endring — noe som kommer som lyn fra klar himmel, en hendelse eller et vendepunkt som endrer alt på et øyeblikk. På tvers av kulturer har lynet lenge vært knyttet til guddommelig kraft og dom — tenk på Zevs og hans tordenkile, et symbol på makten til gudene over himmelen. Denne forbindelsen til noe stort og ukontrollerbart kan også gi drømmen en undertone av frykt: frykten for å bli truffet av krefter du ikke har kontroll over, og sårbarheten som ligger i det.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om lyn **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — lynet som bilde på den plutselige innsikten: noe som opplyser alt på ett sekund.

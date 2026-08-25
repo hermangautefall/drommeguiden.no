@@ -60,13 +60,7 @@ Vikingskipets eleganse er ikke tilfeldig — det ble bygget av folk som visste a
 
 Osebergskipet og Gokstadskipet i Vikingskipshuset på Bygdøy er blant Norges mest besøkte kulturskatter — vi identifiserer oss med dem på et nivå som er dypere enn historisk interesse. Det er en del av oss.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om vikingskip **flere ganger**?
+> 💡 **Les også:** Vikingskipet bærer både reise og arv — les mer i [guiden om norske drømmesymboler](/guider/norske-drommesymboler/).
 
 ## Kilder og videre lesning
 

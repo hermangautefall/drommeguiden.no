@@ -73,12 +73,6 @@ I japansk shinto-tradisjon er negler og hår de kroppsdelene som er nærmest for
 
 Psykologisk interessant er den klassiske drømmesymbolets forveksling mellom negler og [tenner](/drommer/tann/) — begge handler om ytre uttrykk, grenser og kontroll, og begge har høy forekomst i angstdrømmer. Der tenner primært speiler kommunikasjon og selvtillit, speiler negler i større grad vern og grep.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — har du godt grep, eller kjennes det glatt?
-- Har du drømt om **negler** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og neglene knyttet til grep og til det ytre inntrykket.

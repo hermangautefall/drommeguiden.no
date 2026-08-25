@@ -14,6 +14,11 @@ der de er genuint relevante for symbolet. Bedre med 2 riktige kilder enn
   *Erindringer, drømmer, tanker* (1961) — arketyper, skygge, persona,
   individuasjon, det kollektive ubevisste.
 
+- De islandske ættesagaene (nedskrevet ca. 1200–1350) — drømmefortellinger som
+  primærkilde til norrøn drømmetradisjon (fylgje, hamingja, varseldrømmer).
+  Skal alltid presenteres som kulturhistorie, aldri som dokumentasjon av at
+  drømmer virker eller varsler. Relevant for: norske og nordiske symboler.
+
 ## Empirisk drømmeforskning
 - Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams*
   (1966) — normative data på hva folk faktisk drømmer om.

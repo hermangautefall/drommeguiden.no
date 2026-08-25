@@ -74,14 +74,6 @@ I mange kulturer er det tradisjon for å ikke fortelle slike drømmer høyt — 
 
 Det finnes imidlertid noe dypt menneskelig i selve drømmens scen: foreldre i alle kulturer til alle tider har drømt om å miste det de holder kjærest. Det er prisen for å elske.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe sårbart du er redd for å miste?
-- Har du drømt om **tap av barn** **flere ganger**?
-
-*Hvis du bærer på sorg etter faktisk tap av et barn, kan det å snakke med en psykolog eller terapeut hjelpe deg gjennom drømmenes og sorgarbeidets tyngste faser.*
-
 ## Kilder og videre lesning
 
 - Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — mareritt og hvordan psyken bearbeider den sterkeste frykten et menneske kan bære.

@@ -62,14 +62,6 @@ I jungiansk psykologi er havet et symbol på det kollektive ubevisste — det st
 
 I norsk kultur er kysten og stranden ikke bare geografi — den er identitet. Norge er et kystfolk, og stranden representerer både det kjente og det åpne. Å drømme om den norske stranden treffer noe kulturelt og historisk dypt.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om strand **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — grenselandet mellom det bevisste landet og det ubevisste havet.

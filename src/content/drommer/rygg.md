@@ -62,14 +62,6 @@ Ryggen som byrdesymbol er ett av de mest universale i menneskelig kultur — fra
 
 Jung ville sett en overbelastet rygg som et tegn på at Ego-et prøver å kontrollere og bære mer enn det naturlig kan — en invitasjon til å slippe kontrollen og la andre bære litt av vekten.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om ryggen **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og ryggen som bilde på byrde og bæreevne.

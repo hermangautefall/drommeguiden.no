@@ -78,14 +78,6 @@ Det gode budskapet er at en helvetesdrøm som regel handler om en vanskelig føl
 
 *Opplever du drømmer som ledsages av vedvarende følelser av fortvilelse, skyld eller hjelpeløshet i hverdagen, kan det være nyttig å snakke med noen — enten en venn, en fagperson, eller en du har tillit til. Les mer om [mareritt](/guider/mareritt/) og hvordan du håndterer dem.*
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om helvete **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggeriket: den delen av psyken der skyld og selvstraff holder til.

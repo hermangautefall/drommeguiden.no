@@ -60,14 +60,6 @@ Det som faktisk kommer ut av munnen i drømmen er også verdt å legge merke til
 
 Munnen er samtidig en inngang — det er her vi tar inn mat, men også ideer, inntrykk og påvirkning utenfra. En drøm om munnen kan derfor handle om appetitt i bred forstand: hva du har lyst på, hva du lar deg påvirke av, eller hva du kanskje burde være mer kritisk til å "svelge". Munn-drømmer overlapper ofte med tann-drømmer, og kan begge handle om uro for utseende, kommunikasjon eller kontroll.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om munnen **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdelene i drømmen, og munnen knyttet til tale og til det man tar inn.

@@ -64,14 +64,6 @@ For mange handler dette like mye om kontroll og selvstendighet som om jobb. Å d
 
 Sjefen kan også speile din egen ambisjon og forholdet til suksess. Hva betyr det for deg å bli sett på som god nok? Noen kjenner en snikende bedragerfølelse i møte med en sjeffigur i drømmen — en frykt for at noen snart vil "avsløre" at man ikke strekker til. Andre opplever at sjefen i drømmen egentlig er en projeksjon av deres eget indre driv: den delen av deg som organiserer, presser og setter standarder. Hvis denne indre stemmen ofte er hard, kan drømmen være en påminnelse om å vise deg selv litt mer av den vennligheten du gjerne gir andre.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om sjef **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — autoritetsfiguren i drømmen som bærer av både ytre krav og den indre kritikeren.

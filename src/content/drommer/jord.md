@@ -58,14 +58,6 @@ I norrøn kosmologi er Jörð — Jorddissen — Tors mor og selve jordens perso
 
 Jung knyttet jord til det feminine prinsippet i sin mest grunnleggende form — den store moren som nærer, holder og til slutt tar tilbake det hun gav.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om jord **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — jorden som moderbilde og som det grunnleggende vi står på.

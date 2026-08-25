@@ -75,14 +75,6 @@ Himmelen som et sted etter dette livet handler ofte om fred, lengsel etter harmo
 
 Å se oppover, mot himmelen, kan også tolkes som å søke mening og det store bildet — en forbindelse til noe som er evig eller varig, utover det dagligdagse. På tvers av kulturer går himmelen igjen som det guddommeliges rike, og det universelle blikket oppover er kanskje et av de mest delte bildene mennesker har for lengsel og håp. Se også drømmer om [stjernene](/drommer/stjerner/), [Gud](/drommer/gud/) eller [engler](/drommer/engler/).
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om himmelen **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — høyden og det opphøyde som bilde på det som er større enn jeget.

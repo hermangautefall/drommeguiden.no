@@ -74,14 +74,6 @@ Jung ville sett utroskapdrømmens "tredjepart" som en projeksjon — en eksterna
 
 En viktig innsikt: å fortelle partneren om utroskapdrømmene dine kan av og til skape mer uro enn det løser. De trenger ikke tolkningshjelp — de trenger oftest å bli møtt med selvmedfølelse og kanskje en ærlig samtale om noe annet som ulmer.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om utroskap **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — de fortrengte ønskene og hvorfor drømmen kler dem i så konkrete former.

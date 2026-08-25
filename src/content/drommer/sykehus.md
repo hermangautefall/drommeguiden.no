@@ -81,16 +81,6 @@ I eldre nordisk folketro fantes det helbredelsesritualer knyttet til spesielle s
 
 ---
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om sykehus **flere ganger**?
-
-Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — sykdom og helbredelse som drømmemotiv, lenge før moderne medisin.

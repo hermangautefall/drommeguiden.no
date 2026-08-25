@@ -60,14 +60,6 @@ I jungiansk forstand representerer det fremmede landet gjerne Skyggens territori
 
 For nordmenn har utlandet historisk representert noe tillokkende og litt skummelt på én gang — det moderne, det kosmopolitiske, det som er annerledes enn det trygge hjemlige. Denne ambivalensen kan farge drømmens utland med både spenning og mild angst.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om utlandet **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — reisen ut av det vante som bilde på individuasjonen.

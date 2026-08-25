@@ -76,12 +76,6 @@ Jung ville ha sett eks-partneren som en animafigur (for menn) eller animusfigur 
 
 Det er ingen kulturell tradisjon som tolker slike drømmer som varsel eller profeti. De er nesten universelt forstått som emosjonelt bearbeidingsarbeid — og det er den tolkningen som er best støttet av forskning.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet — savn, ro, skyld, forvirring?
-- Hva skjer i **livet ditt** akkurat nå — er noe uavsluttet fra den perioden?
-- Har du drømt om **eksen** med seksuelt innhold **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — de uforløste ønskene og hvorfor de vender tilbake i så konkrete former.

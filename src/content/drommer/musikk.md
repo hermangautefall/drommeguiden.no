@@ -62,14 +62,6 @@ Musikk er et av de fenomenene Jung var mest fascinert av — fordi den opererer 
 
 For Herman og andre musikere er musikk ikke bare et symbol — det er en identitet og en levemåte. Å drømme om musikk kan da ha en enda mer direkte og personlig resonans: det handler om kjernen i hvem man er og hva man er her for å gjøre.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om musikk **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — uttrykket som går forbi ordene, og som når følelser språket ikke rekker.

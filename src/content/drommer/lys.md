@@ -61,14 +61,6 @@ For nordmenn — med vår sterke lysmangel om vinteren og vår intense lysglede 
 
 Jung knyttet lyset til Selvet i sin mest realiserte form — det fullt integrerte og bevisste individet. Å drømme om å se lyset er å drømme om psykologisk helhet.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om lys **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — lyset som bilde på bevissthet og innsikt, i motsetning til det ubevisste mørket.

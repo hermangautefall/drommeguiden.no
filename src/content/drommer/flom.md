@@ -61,14 +61,6 @@ Flommen er ett av de mest arketypiske bildene i menneskelig mytologi — fra Noa
 
 Jung så flommen som et symbol på det ubevisste i sin mest ukontrollerbare form — de dypere lagene av psyken som bryter gjennom forsvarsverkene og overvelder det bevisste jeget. Det er skremmende, men ikke nødvendigvis farlig — det kan være nødvendig.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om flom **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — vannet som stiger som bilde på et ubevisst innhold som ikke lenger lar seg holde tilbake.

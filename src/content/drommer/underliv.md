@@ -70,12 +70,6 @@ I norrøn tradisjon hadde Freyja — gudinden for kjærlighet, fruktbarhet og kr
 
 Freud plasserte det meste av psykelivet i seksualiteten. Jung utvidet dette: det primære er ikke seksuelt, men vitalt — det er livskraften selv som bor her, og seksualiteten er ett av dens uttrykk.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er du i kontakt med din egen skapende kraft?
-- Har du drømt om **kropp og vitalitet** på denne måten **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — seksualitetens plass i drømmetydningen, og kroppens språk for begjær og skam.

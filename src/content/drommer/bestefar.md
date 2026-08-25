@@ -62,14 +62,6 @@ Hvis bestefaren er gått bort, oppleves drømmen ofte som et trøstende besøk �
 
 Bestefaren kan også representere autoritet og verdier på en mildere måte enn faren ofte gjør — tradisjon, moralsk forankring, familiehistorier som har formet hvem du er. Og i en mer indre lesning kan han stå for din egen mentor-stemme: den delen av deg som klarer å holde hodet kaldt og se ting i et større perspektiv. Les også om drømmer om [bestemor](/drommer/bestemor/) eller [far](/drommer/far/).
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om bestefaren **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — den vise gamle mannen som arketyp: erfaring, autoritet og arv.

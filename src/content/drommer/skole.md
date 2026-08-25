@@ -80,16 +80,6 @@ I norsk kultur, der utdanningssystemet spiller en så sentral rolle i folk sine 
 
 ---
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om skole **flere ganger**?
-
-Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — eksamensdrømmen som klassisk motiv, og hvorfor den melder seg lenge etter at skolen er ferdig.

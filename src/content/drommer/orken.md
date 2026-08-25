@@ -64,14 +64,6 @@ Den ensomme reisen gjennom noe krevende — kanskje et nødvendig enerom med deg
 
 For nordmenn, som sjelden opplever ørken i virkeligheten, er ørkenen i drømmene et rent symbolsk rom — et mentalt landskap som representerer det absolutt fremmedartede og ekstreme.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om ørken **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — ødemarken som stadium i individuasjonen: tørken før noe nytt kan vokse.

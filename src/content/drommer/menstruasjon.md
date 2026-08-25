@@ -76,12 +76,6 @@ I mange urfolkstradisjoner er menstruasjonstiden en krafttid — ikke en svakhet
 
 Det er en av drømmepsykologiens store blindflekker at menstruasjon som drømmesymbol er lite behandlet — kanskje fordi drømmepsykologien lenge ble dominert av mannlige teoretikere. Det gir drommeguiden.no et klart mulighetsvindu: dette er en underservert, reelt søkt symbolside.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er noe i en naturlig avslutnings- eller fornyelsessyklus?
-- Har du drømt om **kropp og syklus** på denne måten **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppens sykluser som drømmemotiv i antikken.

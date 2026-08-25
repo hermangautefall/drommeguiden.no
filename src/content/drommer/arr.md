@@ -73,13 +73,7 @@ Det tyske begrepet "Narbe" (arr) er etymologisk knyttet til samme rot som "Erfah
 
 Jung brukte "skadet healer"-arketypen — den Sårede Heleren — som ett av de viktigste mønstrene i menneskepsyken. Det er nettopp den som bærer arr som har den dypeste kapasiteten til å hjelpe andre: fordi de vet hva det koster. Drømmens arr er noen ganger dette: psykens anerkjennelse av din dybde.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe i fortiden din som fortsatt setter merker?
-- Har du drømt om **arr eller merker** **flere ganger**?
-
-> 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn/) — om hvordan det som er leget likevel kan melde seg i søvnen.
 
 ## Kilder og videre lesning
 

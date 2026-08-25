@@ -57,12 +57,6 @@ I mange kulturer er drømmens penger et spesifikt varsel — en god omen om komm
 
 Freud tolket penger — naturlig nok — som et analt symbol. Jung var mer interessert i det gullet representerer: transformation, det verdifulle, det som holder verdi gjennom tid. Drømmens pengegevinst er da kontakten med noe virkelig verdifullt i tilværelsen — ikke nødvendigvis monetært.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — hva ville du gjort om du hadde mer rom og frihet?
-- Har du drømt om **rikdom eller gevinst** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — ønskeoppfyllelsen i sin mest bokstavelige form.

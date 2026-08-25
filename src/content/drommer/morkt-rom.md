@@ -83,16 +83,6 @@ I moderne drømmepsykologi forbindes mørke rom ofte med undertrykte følelser e
 
 ---
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om et mørkt rom **flere ganger**?
-
-Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det ubevisste som et rom man ikke ser inn i, og skyggen som holder til der.

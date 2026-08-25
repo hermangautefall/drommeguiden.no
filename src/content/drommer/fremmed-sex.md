@@ -71,12 +71,6 @@ I romantisk litteratur — fra Middelalderens ridderromaner til 1800-tallets got
 
 Norrøn mytologi har sin egen versjon: møtet med en valkyrie eller en skjeggete vandrende fremmed (Odin i forkledning) som bringer livsendring. Det fremmede bærer alltid en gave — om du tør ta imot den.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet — nysgjerrighet, frihet, forvirring?
-- Hva skjer i **livet ditt** akkurat nå — lengter du etter noe nytt?
-- Har du drømt om **fremmede** med seksuelt innhold **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — seksualitetens plass i drømmetydningen, og hvorfor det ukjente ansiktet er så vanlig.

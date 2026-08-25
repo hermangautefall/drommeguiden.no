@@ -71,13 +71,7 @@ Drømmens ensomhet aktiverer dette urgamle systemet. Det er ikke svakhet å drø
 
 I norrøn kultur var utestenging fra fellesskapet — å bli gjort til fredløs, utlegd — den strengeste straffen som fantes, verre enn død. "Én som er utlegd er ingen." Drømmens ensomhet berører denne dypeste frykten: å ikke høre til.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det nok ekte og nær kontakt med andre?
-- Har du drømt om **ensomhet eller å ikke bli sett** **flere ganger**?
-
-> 💡 **Les også:** [Depresjon og søvn](/sovn/depresjon-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Depresjon og søvn](/sovn/depresjon-sovn/) — om sammenhengen mellom nedstemthet, søvn og drømmeinnhold.
 
 ## Kilder og videre lesning
 

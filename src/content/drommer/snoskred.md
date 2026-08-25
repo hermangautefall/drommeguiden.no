@@ -63,13 +63,7 @@ For nordmenn er snøskredet ikke et abstrakt bilde — det er en reell og nær f
 
 Men det bærer også på noe dypere: den urgamle erfaringen av at fjellene gir og fjellene tar. At naturen er vakker og brutal på én gang. At det hvite kan drepe. Når [isen](/drommer/is/) og snøen slipper taket, er det ingen vei tilbake.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om snøskred **flere ganger**?
+> 💡 **Les også:** Skredet er et nordlig motiv med en helt konkret bakgrunn. Se [guiden om norske drømmesymboler](/guider/norske-drommesymboler/).
 
 ## Kilder og videre lesning
 

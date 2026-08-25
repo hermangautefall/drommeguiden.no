@@ -84,12 +84,6 @@ Det jungianske kjønnssymbolet i drømmene er ett av de mest konsistente funnene
 
 I norrøn tradisjon ble det å drømme om et barn — gutt eller jente — sett som et godt varsel. Lykkenornen Skuld ble forbundet med det ufødte og fremtidige: barnet i drømmen er det som ennå ikke har tatt form, men som allerede er på vei.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er noe nytt på vei, og hvilken type energi bærer det?
-- Har du drømt om **babyer** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — barnet som arketyp: det nye og sårbare, uavhengig av hvilket kjønn drømmen gir det.

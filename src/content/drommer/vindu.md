@@ -61,14 +61,6 @@ Vinduet er i arkitektur- og rompsykologi en av de mest psykologisk ladde element
 
 Jung beskrev drømmens hus og dets åpninger — dører og vinduer — som psykens kommunikasjonsorganer: stedene der det indre og ytre møtes og utveksles.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om vindu **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — vinduet som skillet mellom det indre og det ytre, og som mulighet til å se uten å delta.

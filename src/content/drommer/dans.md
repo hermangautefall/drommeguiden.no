@@ -69,14 +69,6 @@ Jung var opptatt av dansen som ett av de eldste arketypiske uttrykkene — kropp
 
 I norrøn og norsk tradisjon er dansen til stede fra de eldste ritualene — bruktdans, springdans, hallingspark — og den er knyttet til fellesskap, høytid og overskudd. Å drømme om dans i norsk kulturell kontekst berører noe av denne kollektive gleden ved kropp i fri bevegelse.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om å danse **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — kroppens uttrykk og foreningen av motsetninger i bevegelse.

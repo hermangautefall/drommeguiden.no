@@ -74,12 +74,6 @@ Like ofte peker kjærligheten i drømmen innover, mot ditt forhold til deg selv.
 
 Det er heller ikke gitt at drømmen handler om romantisk kjærlighet. Allerede de gamle grekerne skilte mellom flere former for kjærlighet — eros, filia, storge og agape — og drømmens kjærlighet kan tilhøre hvilken som helst av disse: et vennskap, et familiebånd, eller en mer universell medfølelse. Noen ganger uttrykker drømmen også en idealisert lengsel snarere enn en virkelighet — et bilde av hva du ønsker deg, satt opp mot det du faktisk har.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det nok nærhet og forbundethet der?
-- Har du drømt om **kjærlighet** på denne måten **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — ønskeoppfyllelsen: drømmen som gir deg nærheten du savner.

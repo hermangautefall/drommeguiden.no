@@ -64,14 +64,6 @@ Søsterskap rommer både støtte og rivalisering, ofte side om side. Drømmen ka
 
 Drømmen kan også ganske enkelt handle om den faktiske relasjonen til henne — uforløste følelser, en lengsel etter mer kontakt, eller en bekymring du bærer på. Og i en bredere forstand kan "søsterskap" i drømmen representere kvinnelig vennskap og solidaritet generelt — en valgt familie, ikke bare en biologisk en.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om søsteren **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — speilingen: søsteren som både likhet og motstykke, og som bærer av egne uforløste sider.

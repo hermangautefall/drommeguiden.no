@@ -61,14 +61,6 @@ Jordskjelvet er i jungiansk forstand knyttet til det ubevisste i sin mest ukontr
 
 For nordmenn, som bor i et land uten store jordskjelv, er disse drømmene særlig symbolske fremfor realistiske — de speiler noe som bryter mot vår grunnleggende forventning om stabilitet og fasthet.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om jordskjelv **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: drømmen som øving på katastrofe.

@@ -64,14 +64,6 @@ For nordmenn er is ikke et eksotisk symbol — det er hverdagen en del av året.
 
 I norrøn kosmologi er Niflheim — isens og kuldets rike — et av de to urspringene til eksistensen, i motsetning til Muspelheims [ild](/drommer/ild/). Frost og is er ikke bare negativt — det er halvparten av skapelsens råmateriale.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om is **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det frosne som bilde på følelser som er lagt på is heller enn borte.

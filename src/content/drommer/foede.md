@@ -72,12 +72,6 @@ Jung kalte individuasjonsprosessen — den livslange bevegelsen mot psykisk helh
 
 Jordmødre i mange kulturer — fra norske "jordemødre" til greske "maiai" — var ikke bare biologiske hjelpere, men symbolske veiledere gjennom overgangen. Drømmens fødsel kan tidvis inkludere en slik veileder — spør hvem som var til stede, og hva de representerte.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er noe klart til å tre frem?
-- Har du drømt om **fødsel** eller **å føde** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — fødselen som drømmemotiv, blant de eldste vi kjenner.

@@ -90,16 +90,6 @@ Hvis bryllupet i drømmen er stressende, eller går galt på ulike vis, kan det 
 
 ---
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om bryllup **flere ganger**?
-
-Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — foreningen av motsetninger som indre bilde, ikke bare som seremoni.

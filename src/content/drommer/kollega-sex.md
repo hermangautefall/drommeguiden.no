@@ -72,12 +72,6 @@ Jung ville ha sett kollegaen som en skygge-figur eller en animafigur — en ekst
 
 Ingen kulturell tradisjon tolker slike drømmer som varsler om faktiske hendelser eller ønsker. De er gjennomgående forstått som bearbeidingsdrømmer knyttet til sosial og hierarkisk tilhørighet.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **arbeidslivet ditt** akkurat nå?
-- Har du drømt om **denne kollegaen** — seksuelt eller ikke — **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — seksualitetens plass i drømmetydningen, og hvorfor drømmen kler andre behov i den formen.

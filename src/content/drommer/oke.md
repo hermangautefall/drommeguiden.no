@@ -61,12 +61,6 @@ Druideorden — de keltiske prestene — tok sitt navn fra eiken (dru = eik på 
 
 Jung brukte treet — særlig eiken — som ett av hans primære symboler for selvet i sin helhet: røttene i det ubevisste, stammen i nuet, grenene mot det ukjente. Eiken er ikke hva man søker å bli — det er hva man allerede er, i sin dypeste form.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er du godt nok forankret til det som stormer?
-- Har du drømt om **eik eller store trær** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — treet som bilde på Selvets vekst, med eika som det mest langsomme og seiglivede uttrykket.

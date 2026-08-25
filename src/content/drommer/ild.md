@@ -81,14 +81,6 @@ Carl Jung knyttet ilden til libido i vid forstand — livsenergi som søker uttr
 
 Gaston Bachelard, den franske filosofen, viet en hel bok til ildpsykologien — "The Psychoanalysis of Fire" — og konkluderte med at ilden er det første og mest grunnleggende objektet for menneskelig drømming og fantasi. Vi er skapt til å se inn i flammene.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om ild **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — ilden som forvandlingens arketyp: den ødelegger og renser i samme bevegelse.

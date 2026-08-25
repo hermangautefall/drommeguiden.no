@@ -67,12 +67,6 @@ Djevelen kan også representere fristelse — en indre kamp mellom lyst og samvi
 
 Bildet av djevelen har endret seg mye gjennom historien — fra "Satan" som på hebraisk betyr "anklageren", via middelalderens skremmende fremstillinger, til Goethes Mefistofeles som beskriver seg selv som "den kraft som alltid vil det onde, men alltid skaper det gode". Det er verdt å minne seg selv på: drømmens djevel er sjelden bokstavelig eller overnaturlig. Oftest er han et bilde på noe som allerede finnes inni oss, og som kan møtes med nysgjerrighet i stedet for frykt. Se også drømmer om [helvete](/drommer/helvete/).
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe du fortrenger eller ikke vil se?
-- Har du drømt om **djevelen eller mørke figurer** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — skyggen i sin mest personifiserte form: det vi ikke vil kjennes ved.

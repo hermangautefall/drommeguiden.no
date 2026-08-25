@@ -72,12 +72,6 @@ Forlovelsen kan også speile foreningen av to deler — to sider av deg selv, el
 
 Selve følelsen av å stå på en terskel — verken i det gamle eller helt i det nye — er gjerne det drømmen forsøker å fange. Det er en mellomtilstand fylt av forventning, og ofte mer håpefull enn skremmende, selv når den kommer med litt nervøsitet.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe du holder tilbake å forplikte deg til?
-- Har du drømt om **forlovelse eller løfte** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — foreningen av motsetninger, der løftet kommer før selve foreningen.

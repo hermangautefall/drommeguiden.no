@@ -58,15 +58,9 @@ Det norrøne er til stede — noe gammelt og kraftfullt er en del av det hellige
 
 Norge har rundt 28 bevarte stavkirker — de fleste fra 1100- og 1200-tallet. De er ikke museer; de er levende kirker, mange fremdeles i bruk. De representerer en periode der den norrøne og den kristne tradisjonen var i aktiv dialog, og der resultatet ble noe helt unikt i verdenshistorien.
 
-Borgundsavkirken, Heddal stavkirke, Urnes stavkirke — disse er ikke bare arkitektur. De er symboler på at en kultur kan bære på to tradisjoner på én gang uten at det ene utsletter det andre. Det er en psykologisk leksjon i seg selv: integrasjon fremfor utryddelse.
+Borgund stavkirke, Heddal stavkirke, Urnes stavkirke — disse er ikke bare arkitektur. De er symboler på at en kultur kan bære på to tradisjoner på én gang uten at det ene utsletter det andre. Det er en psykologisk leksjon i seg selv: integrasjon fremfor utryddelse.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om stavkirke **flere ganger**?
+> 💡 **Les også:** Stavkirken hører til en liten gruppe symboler som ingen internasjonal drømmebok dekker — de er samlet i [guiden om norske drømmesymboler](/guider/norske-drommesymboler/).
 
 ## Kilder og videre lesning
 

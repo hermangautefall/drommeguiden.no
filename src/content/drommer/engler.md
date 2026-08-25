@@ -77,14 +77,6 @@ Ordet "engel" kommer av det greske angelos, som rett og slett betyr "budbringer"
 
 Engler finnes i jødedom, kristendom og islam som mellomledd mellom det menneskelige og det guddommelige, og lignende skikkelser går igjen i mange andre tradisjoner. Det gjør englebildet til noe som kjennes igjen av svært mange — også de som ikke er troende. Slike drømmer er spesielt vanlige i forbindelse med sorg, og oppleves da ofte som en stille trøst om at noe — eller noen — er i fred. Se også drømmer om [Gud](/drommer/gud/) eller [himmelen](/drommer/himmel/).
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om engler **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — budbringeren og det numinøse: møtet med noe som oppleves større enn en selv.

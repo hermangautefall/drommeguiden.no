@@ -63,12 +63,6 @@ I norrøn tradisjon er det blomsten — hverken rosen spesifikt eller blomster g
 
 Freud tolket rose-aperingen seksuelt — som enhver blomst. Jung så den som ett av de arketypiske bildene på mandalaens helhet: rosen som blomstrer i sentrum er selvet som realiseres.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe vakkert du holder på å nærme deg, eller å miste?
-- Har du drømt om **rose eller blomster** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — rosen som mandala-lignende bilde på Selvet: skjønnhet med torner, helhet med forsvar.

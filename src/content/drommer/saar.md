@@ -72,13 +72,7 @@ Jung brukte begrepet "det sårede selv" om den psykiske smerten som oppstår i i
 
 Folkemedisinsk tradisjon i Norge — som i de fleste kulturer — skjelner mellom sår som lege seg og sår som "lever". Et sår som "lever" er et sår som har fått åndelig eller emosjonell ladning og ikke leger seg med bare fysisk behandling. Drømmens sår tilhører gjerne denne kategorien.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe som gjør vondt når du berører det?
-- Har du drømt om **sår eller skade** **flere ganger**?
-
-> 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Sorg og søvn](/sovn/sorg-sovn/) — om hvordan sorgen arbeider videre om natten.
 
 ## Kilder og videre lesning
 

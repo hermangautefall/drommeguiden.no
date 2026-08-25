@@ -82,16 +82,6 @@ Hvis hendene i drømmen var skitne eller skadet, kan det peke mot skyldfølelse 
 
 ---
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om hender **flere ganger**?
-
-Svarene dine gir ofte mer innsikt enn noen tolkningsliste kan gi.
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — kroppsdeler i drømmer, og hendene som bilde på arbeid og evne.

@@ -60,13 +60,7 @@ Elgen er i norsk kultur nesten et nasjonaldyr — den er på postkort, i reklame
 
 I sjamanistiske tradisjoner i Nord-Europa er elgen (og [reinsdyret](/drommer/reinsdyr/)) et kraftdyr — en guide og beskytter. Norrøne sjamaners relasjoner til elgen er dokumentert i graverikter og helleristninger.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om elg **flere ganger**?
+> 💡 **Les også:** Elgen hører til de nordlige dyresymbolene, samlet i [guiden om norske drømmesymboler](/guider/norske-drommesymboler/).
 
 ## Kilder og videre lesning
 

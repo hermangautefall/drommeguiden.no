@@ -63,12 +63,6 @@ Positiv psykologi — pionert av Martin Seligman — skiller mellom nytelseslykk
 
 Aristoteles kalte dette eudaimonia — det gode livet, ikke det lykkelige livet i overfladisk forstand. Drømmens lykke er av og til en glimt inn i nettopp dette: hva ditt gode liv faktisk vil se ut.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det rom for mer glede?
-- Har du drømt om **ren glede eller lykke** **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Sigmund Freud, *Drømmetydning* (1900) — ønskeoppfyllelsen: drømmen som gir deg det du savner.

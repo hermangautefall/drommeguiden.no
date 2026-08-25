@@ -63,14 +63,6 @@ Uttrykket "emosjonell bagasje" er ikke tilfeldig — kofferten kan tolkes som de
 
 Hva du legger i kofferten, og hva du lar ligge, kan også speile prioriteringer — hva som faktisk betyr noe for deg akkurat nå, og hvilken identitet du tar med deg videre. Reisen kan kjennes som frihet og nye muligheter, men kofferten er samtidig en påminnelse om vekten av det vi ikke helt klarer å legge fra oss.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om koffert **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — bagasjen som bilde på det man bærer med seg, valgt og uvalgt.

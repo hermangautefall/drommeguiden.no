@@ -72,13 +72,7 @@ Freud tolket alle drømmer med seksuell utladning som uttrykk for undertrykte se
 
 Norrøn mytologi har en interessant parallell: Freyja — guddinnen for kjærlighet, fruktbarhet og krigersk kraft — regnes som forbindelsen mellom erotisk glede og skaperkraft. Orgastisk energi var ikke skambelagt, men sett på som livsbejaende og kreativ.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe som bygger seg opp?
-- Har du drømt om **seksuell utladning** uten seksuelt innhold **flere ganger**?
-
-> 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser/) — om hva som skjer i kroppen under REM-søvnen.
 
 ## Kilder og videre lesning
 

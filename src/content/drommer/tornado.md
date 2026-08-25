@@ -61,14 +61,6 @@ Tornadoen kan også tolkes som en brå, destruktiv endring — en omveltning som
 
 I et mer moderne kulturelt lys kan tornadoen også minne om overgangen i *Trollmannen fra Oz* — virvelvinden som river deg ut av det kjente og inn i en helt ny, fremmed verden. Tolket slik kan drømmen handle om en stor forvandling, der det som føles skremmende også åpner døren til noe nytt.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om tornado **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: naturkatastrofen som hjernens øving.

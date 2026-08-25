@@ -72,13 +72,7 @@ Jungs perspektiv er mer nyansert og mer relevant for de fleste: det seksuelle i 
 
 I de fleste kulturer har seksuelle drømmer vært tolket som tegn på fruktbarhet, kreativitet og livskraft — ikke som skambelagte uttrykk for underbevisste lyster. Det norrøne begrepet "seiðr" inkluderte erotiske visjoner som en del av en utvidet bevissthet.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — savner du nærhet eller kontakt?
-- Har du drømt om **samleie** med denne personen **flere ganger**?
-
-> 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser/) — for en dypere forståelse av hvordan drømmene dine henger sammen med søvnkvaliteten din.
+> 💡 **Les også:** [Søvnfaser og rem-søvn](/sovn/sovnfaser/) — om hvorfor REM-søvnen er der de mest kroppslige drømmene hører hjemme.
 
 ## Kilder og videre lesning
 

@@ -68,12 +68,6 @@ I psykosomatisk medisin er huden spesielt interessant: det er veldokumentert at 
 
 Jung brukte begrepet "persona" — det latinske ordet for maske — om den sosiale fasaden vi viser verden. Huden er persona i sin mest konkrete form: det som er synlig, det som presenterer oss, det som kan males og formes — men som også begrenser og gjemmer.
 
-## Drømmeguiden anbefaler
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå — er det noe under overflaten som trenger å komme ut?
-- Har du drømt om **hud eller kropp** på denne måten **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — huden og kroppsdelene som drømmemotiv i den eldste drømmelitteraturen.

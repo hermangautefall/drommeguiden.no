@@ -75,14 +75,6 @@ Nysnø som dekker alt kan tolkes som et blankt ark — en mulighet til å begynn
 
 For mange er snø også tett forbundet med minner og barndom — undringen ved den første snøen, lyden av stillheten den skaper. Slike drømmer kan rett og slett tolkes som nostalgi, en lengsel tilbake til en enklere tid.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om snø **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — det hvite og urørte som bilde på stillhet, men også på det som er lagt på is.

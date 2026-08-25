@@ -79,14 +79,6 @@ Jung ville sett flyulykkedrømmen som en konfrontasjon med Ikaros-myten: den men
 
 Forskning på angstdrømmer viser at flyulykkedrømmer er vanligst i perioder med høyt press, store beslutninger og store personlige eller profesjonelle overganger. De er et pålitelig barometer på indre spenning — og som alle andre angstdrømmer, sjelden et varsel om det de bokstavelig fremstiller. Lurer du på hvorfor angstdrømmer gjentar seg? Les mer i guiden om [gjentakende drømmer](/guider/gjentakende-drommer/).
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om flyulykke **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorien: katastrofen som hjernens øving.

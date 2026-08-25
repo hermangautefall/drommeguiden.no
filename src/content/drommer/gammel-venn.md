@@ -61,14 +61,6 @@ Ofte legemliggjør den gamle vennen en egenskap du savner i livet ditt akkurat n
 
 Slike drømmer kan også handle om noe uavsluttet: følelser rundt et vennskap som glapp uten en tydelig grunn, eller et stille ønske om å ta opp kontakten igjen. Samtidig minner gamle venner oss om kontinuitet — de er forankret i kjernen av hvem vi er, og å drømme om dem kan være en måte å koble seg til disse delene av identiteten på, selv når livet har gått videre i en annen retning.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om gammel venn **flere ganger**?
-
 ## Kilder og videre lesning
 
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: at den som fyller minnet, også fyller drømmen.

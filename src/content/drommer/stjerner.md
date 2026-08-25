@@ -61,14 +61,6 @@ Stjernene er i norrøn tradisjon spredd fra gnistene i Muspelheim — skapt i sk
 
 Astronomisk sett er vi alle skapt av stjernestøv — og denne erkjennelsen, at vi bokstavelig talt er del av kosmos, gir stjernene en symbolsk dybde som overskrider mytologien. Se også [månen](/drommer/mane/) og [solen](/drommer/sol/) for beslektede himmellegeme-symboler.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om stjerner **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — himmeltegnene som drømmemotiv i antikken, og som orientering.

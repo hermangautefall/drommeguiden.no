@@ -64,14 +64,6 @@ Men gull har også en skyggeside. Lokkingen av rikdom kan tolkes som grådighet 
 
 I alkymien var forvandlingen av bly til gull aldri bare snakk om metall — alkymistene selv beskrev det som et bilde på indre arbeid, der noe rått og ubearbeidet i mennesket gradvis foredles. Et slikt blikk kan gjøre drømmens gull til et tegn på vekst og forvandling som er i gang. Gull kan også ganske enkelt være bildet på mestring og belønning — "gullstandarden", det å lykkes med noe du har lagt mye i, eller [vinne](/drommer/vinne-penger/) noe du har strebet etter lenge.
 
-## Drømmeguiden anbefaler
-
-Drømmer gir sjelden ett enkelt svar — de snakker til deg gjennom bilder og følelser. Spør deg selv:
-
-- Hvilken **følelse** satt du igjen med da du våknet?
-- Hva skjer i **livet ditt** akkurat nå?
-- Har du drømt om gull **flere ganger**?
-
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — gullet i alkymien som bilde på Selvet og på det som er virkelig verdifullt.
