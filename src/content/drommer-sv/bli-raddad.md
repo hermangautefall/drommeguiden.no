@@ -70,3 +70,8 @@ En period där du upplever att inte ha tillgång till det stöd du behöver. Vad
 Att bli räddad är ett av de arketypiska narrativen som finns — och det är ingen tillfällighet att alla kulturer har berättelser om räddning och frälsning. Från fornnordiska gudar som griper in för att hjälpa människorna, till kristendomens frälsningstanke, till folksagornas magiska hjälpare — att bli räddad av något större än dig själv talar till något grundläggande i människosinnet.
 
 Jung beskrev begreppet "numinös erfarenhet" — mötet med något som är heligt, överväldigande och djupt meningsfullt. Drömmar om att bli räddad av en kraftfull gestalt bär gärna denna kvalitet: de lämnar inte bara lättnad utan en form av vördnad.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — hjälparen som arketyp, och räddningen som bild för egna oupptäckta resurser.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sådana drömmar kommer när du bär mycket ensam.

@@ -78,3 +78,9 @@ Jung beskrev svartsjukan som ett av de mest komplexa psykologiska tillstånden: 
 En nordisk folklig visdom är relevant här: det man fruktar mest, det drömmer man om. Det är sant — och det betyder att drömmens innehåll säger mer om rädslan än om verkligheten.
 
 > 💡 **Läs även:** [Ångest och sömn](/sv/somn/angest-somn/) — för en djupare förståelse av hur dina drömmar hänger samman med sömnkvaliteten.
+
+## Källor och vidare läsning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att otrygghet i vaket tillstånd följer med in i drömmen.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — projektionen, och hur egna oerkända sidor läggs över på partnern.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på att drömmar om partnern hör till bearbetningen av relationen.

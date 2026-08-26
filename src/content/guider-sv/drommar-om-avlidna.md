@@ -87,3 +87,8 @@ Relaterat: [avliden person](/sv/drommar/avliden-person/) — [drömjournalen](/s
 
 > 💡 **Läs också från sömnsektionen:** [Sorg och sömn](/sv/somn/sorg-somn/)
 
+## Källor och vidare läsning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — drömmen som emotionell bearbetning, och varför sorg ger så starka drömbilder.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på att drömmar om den man har förlorat hör till bearbetningen snarare än hindrar den.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att den som fyller tankarna om dagen också fyller drömmarna.

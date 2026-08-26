@@ -62,3 +62,9 @@ Din egen kraft eller självtillit är försvagad av något. Något eller någon 
 I många kulturer är lejonet en kungasymbol — i Egypten, Rom och medeltidens Europa. Den representerar det bästa av mänskligt ledarskap: mod kombinerat med värdighet. Jung såg lejonet som en symbol för Egot i sin starkaste form — men varnade för att låta det inre lejonet bli tyranniskt. Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).
 
 I kristen symbolik är lejonet både Kristus (Juda lejon) och djävulen (lejonet som vandrar och söker någon att uppsluka). Denna dubbelhet — kraft som kan vara både god och destruktiv — är kärnan i lejondrömmens budskap.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — lejonet som instinktiv kraft och som självets kungliga aspekt.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — lejonet i antikens drömtydning, kopplat till makt och härskare.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vilka djur som faktiskt uppträder i drömmar, och hur.

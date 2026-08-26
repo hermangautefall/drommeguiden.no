@@ -63,3 +63,8 @@ Oasen är en av de äldsta religiösa och mytologiska bilderna i de stora ökenk
 I den judisk-kristna berättelsen är ökenvandringen och oasen centrala: Israels folk i öknen, Elia som kollapsar och hittar mat under enbusken, Jesus i öknen i fyrtio dagar. Oasen är inte bara vila — den är Guds försyn mitt i det mänskligt omöjliga.
 
 Psykologiskt sett är oasen en symbol för det Jung kallade den "transcenderande funktionen" — den punkt där psyket hittar en ny syntes när två motpoler har nött ut varandra. Efter den psykiska öknen: oasen.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — vilan i ödemarken: andrummet som gör prövningen möjlig att bära.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför oasen gör sig påmind när något har varat för länge.

@@ -84,3 +84,8 @@ De flesta som upplever falskt uppvaknande regelbundet börjar efter hand se på 
 
 > 💡 **Läs också från sömnsektionen:** [Sömnfaser](/sv/somn/somnfaser/)
 
+## Källor och vidare läsning
+
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömn och den oskarpa gränsen mellan sömn och vakenhet.
+- REM-atoni — muskelförlamningen som håller kroppen stilla under REM-sömn, och som förklarar varför ett falskt uppvaknande kan kännas så fysiskt övertygande.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur drömmen lånar material från det allra närmaste, som sovrummet du nyss «vaknade» i.

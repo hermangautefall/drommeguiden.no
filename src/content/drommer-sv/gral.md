@@ -76,3 +76,8 @@ Jung beskrev det han kallade "komplex" — emotionellt laddade tanke- och känsl
 
 I fornnordiska sagor är ärestrid — holmgång och verbal duell — ett av de mest ritualiserade konfliktmönstren. Det intressanta är att sagornas konflikter alltid handlar om något grundläggande: ära, sanning, tillhörighet. Drömmens gräl bär gärna samma allvar, även om det handlar om det triviala.
 
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — komplexet: den laddade knuten i psyket som drömmen sätter upp som en scen.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur undertryckt ilska finner form i drömbilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför grälet i drömmen ofta gäller dig själv.

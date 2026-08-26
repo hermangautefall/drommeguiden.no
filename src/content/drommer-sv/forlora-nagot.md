@@ -65,3 +65,9 @@ Förlustdrömmar dyker ofta upp i samband med övergångar i livet — ett nytt 
 Den frustrerande känslan av att leta och leta utan att hitta det du förlorat kan också spegla en upplevelse av att vara överväldigad, splittrad eller glömsk i vardagen — som om tankarna inte riktigt är där du vill ha dem.
 
 Allt som förloras i en dröm behöver inte vara tungt. Ibland övar psyket på att släppa saker som inte längre behövs, och skapar därmed plats för något nytt. [Nycklar](/sv/drommar/nycklar/) som förloras kan till exempel handla om att en gammal tillgång eller roll inte längre är aktuell — och det kan vara helt i sin ordning.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — ångestdrömmen och det som försvinner, som uttryck för något oavklarat.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — förlust som drömmotiv, ett av de äldsta vi känner till.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att känslan av att tappa överblicken speglar något du bär på i vaket tillstånd.

@@ -68,3 +68,9 @@ Omsorg och skyddsinstinkt — du kämpar för något du håller kärt.
 I fornnordisk tradition är kamp och strid inte uteslutande negativt — einherjerna i Valhall kämpar varje dag och samlas på kvällen till fest. I besläktade drömmar kan du också uppleva att [döda](/sv/drommar/doda/) någon. Kampen är träning, den är ära, den är vem man är. Att drömma om kamp i nordisk kulturell kontext kan beröra detta arv av den värdiga stridens estetik.
 
 Jung beskrev drömmens fiende som en av de viktigaste gestalterna i det omedvetna — eftersom det vi kämpar mot gärna är det vi behöver integrera. Fienden är sällan bara fientlig. Den är en del av dig som insisterar på att bli erkänd.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: kampen som hjärnans övning inför konfrontation.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan man möter ansikte mot ansikte, och som ofta visar sig vara en del av en själv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför utgången av kampen säger mest.

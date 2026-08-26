@@ -62,3 +62,9 @@ Ett näraliggande perspektiv handlar om de små, gnagande bekymren. Musen kan re
 Ett annat perspektiv ligger i anspråkslösheten. Musen lever i marginalerna, ofta obemärkt, och kan därför spegla en uppmärksamhet på detaljer som lätt förbises — eller en känsla av att själv vara förbisedd, tyst och föga synlig i en situation där andra tar mer plats.
 
 Samtidigt är musen ett uppfinningsrikt och motståndskraftigt djur som hittar vägar att överleva nästan var som helst. I fabeltraditionen är det ofta den lilla musen som räddar det mäktiga lejonet — en bild av att det som är litet kan göra en avgörande skillnad. Även i hinduisk tradition rider guden Ganesha på en mus, som en symbol för det som övervinner hinder genom att ta sig in på de minsta och mest svåråtkomliga platserna. Drömmens mus kan alltså, trots sin storlek, peka på en tyst men verkningsfull styrka.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — smådjur som drömmotiv, lästa som något litet som ändå stör.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det förbisedda och underskattade i en själv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför musen kommer när många småsaker hopar sig.

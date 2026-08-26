@@ -97,3 +97,9 @@ för att bli dömd är ofta självskapad, och bor mer inom oss själva än i
 hur andra faktiskt ser på oss.
 
 ---
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — förlägenhetsdrömmarna, som Freud räknade bland de allra vanligaste.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur utbrett nakenmotivet är, och i vilka situationer det uppträder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför blicken i drömmen ofta är ens egen.

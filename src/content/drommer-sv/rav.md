@@ -61,3 +61,9 @@ Räven kan tolkas som en bild av klokhet och anpassningsförmåga — egenskaper
 Över olika kulturer dyker räven upp som en gestaltskiftare och lurendrejare. I japansk folktro är kitsune en magisk rävande som kan uppträda som både väktare och bedragare, alltid med ett stänk av mystik. I europeisk medeltidslitteratur var Mickel Räv (Reynard) den eviga listiga antihjälten som lurade alla andra djur, och i Aisopos fabler är räven den som hittar en bortförklaring när något inte går att uppnå — som i berättelsen om räven och de oåtkomliga rönnbären.
 
 Drömmen kan också handla om en person i ditt liv som är ovanligt klok eller listig, eller om en sida av dig själv som trivs bäst i utkanten — oberoende, anpassningsbar och alltid med ett trick i bakfickan. Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — tricksterfiguren: den listiga som både hjälper och lurar.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på djur i drömmar och vilka roller de spelar.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför rävens list ofta handlar om din egen.

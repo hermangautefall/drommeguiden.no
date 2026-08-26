@@ -69,3 +69,8 @@ Brådska eller entusiasm — du vill nå något snabbt. Körde du [bil](/sv/drom
 "Vägen" som livssymbol är en av de mest grundläggande bilderna i all mänsklig berättelse — från Odysseus hemresa till pilgrimens vandring till den fornnordiska hjältens färd ut i världen. Det är ingen tillfällighet att många av historiens viktigaste andliga texter är vägmetaforer: Tao betyder "väg", Buddha talar om den åttafaldiga vägen, och Kristus säger "Jag är vägen".
 
 I nordisk kulturell kontext är färden — till fjälls, ut i naturen, längs kusten — djupt förankrad. Att drömma om väg berör något av detta nomadiska och naturälskande arv.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — vägen som bild för individuationen: den livslånga rörelsen mot att bli den man är.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför vägens skick följer den egna upplevelsen av riktning.

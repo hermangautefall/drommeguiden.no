@@ -102,3 +102,9 @@ Barns drömvärld är rik, intensivt aktiv och viktig att ta på allvar:
 - Tonåringars sömnbehov och drömmönster är biologiskt annorlunda
 
 Relaterat: [drömjournalen](/sv/guider/dromjournalen/) — [mardröm](/sv/guider/mardrom/) — [nattskräck](/sv/guider/nattskrack/)
+
+## Källor och vidare läsning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vad människor faktiskt drömmer om, och grunden för att jämföra barns drömmar med vuxnas.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — varför mardrömmar är vanligast under barnaåren, och hur psyket använder dem för att bearbeta starka känslor.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att barnets drömmar speglar den värld barnet faktiskt lever i.

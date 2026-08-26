@@ -68,3 +68,9 @@ Att drömma om Gud kan ofta tolkas som ett sökande efter mening, vägledning el
 Gud kan i drömmar också uppträda som den yttersta auktoritets- eller föräldragestalten. Då handlar drömmen ofta om teman som dom, skuld, förlåtelse och acceptans — om att känna sig sedd och bedömd, eller om en längtan efter att bli erkänd för den du är. Var mötet strängt eller dömande kan det spegla en inre röst som varit för hård mot dig själv.
 
 Sådana drömmar dyker ofta upp i kriser, och de ger då gärna tröst, vördnad eller en känsla av att inte vara ensam — den typ av upplevelse som kallas "numinös" eller helig. Hur det gudomliga framträder i drömmen formas ofta av din egen uppväxt och bakgrund. Drömmen använder en bekant gestalt för att tala om mening och tillhörighet, och det gäller lika mycket den som inte är religiös som den som är det. Se även drömmar om [änglar](/sv/drommar/anglar/) eller [himlen](/sv/drommar/himmel/).
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — mötet med det numinösa och självet som arketyp, och varför sådana drömmar upplevs som större än drömmaren.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — gudadrömmar och hur de lästes i antiken, långt före psykologin.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att drömmens religiösa bilder följer drömmarens egen bakgrund.

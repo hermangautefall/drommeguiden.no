@@ -79,3 +79,9 @@ Flygdrömmar är fascinerande eftersom de kombinerar två av de starkaste arkety
 Jung skulle ha sett drömmen om flygkrasch som en konfrontation med Ikarosmyten: den mänskliga driften att flyga högre än vingarna bär, och det oundvikliga fallet som följd. Drömmen är inte ett straff — den är en påminnelse om att all ambition har sina gränser, och att dessa gränser är värda att känna.
 
 Forskning på ångestdrömmar visar att flygkraschdrömmar är vanligast i perioder med högt tryck, stora beslut och stora personliga eller professionella övergångar. De är en tillförlitlig barometer på inre spänning — och som alla andra ångestdrömmar, sällan ett varsel om det de bokstavligen gestaltar. Undrar du varför ångestdrömmar upprepas? Läs mer i guiden om [återkommande drömmar](/sv/guider/aterkommande-drommar/).
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: katastrofen som hjärnans övning.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger kontrollförlust sina mest dramatiska bilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att flygkraschen ofta handlar om ett projekt, inte en resa.

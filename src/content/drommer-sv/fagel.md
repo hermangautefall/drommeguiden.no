@@ -74,3 +74,9 @@ Genom olika kulturer har fågeln länge varit en bild för själen, anden och de
 I många traditioner har fåglar också varit budbärare — tecken på att något nytt är på väg. Drömmen kan därför handla om tankar, idéer eller förhoppningar som är i rörelse, som "lyfter" och hittar en ny form. En fågel som flyger bort kan på samma sätt tolkas som något du behöver släppa, eller en möjlighet som glider undan.
 
 Det är ofta värt att lägga märke till vilken fågel det är, eftersom olika fåglar bär olika associationer: en duva kan kännas som fred och försoning, en uggla kan tolkas som vishet — men också som ett varsel — medan en korp ofta bär med sig något mer mystiskt och tankeväckande. Se även [flyga](/sv/drommar/flyga/) som en besläktad drömsymbol.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — fågeltecken som en av antikens mest utbredda former av varsel.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — fågeln som bild för själen i rörelse och för det som lyfter sig över situationen.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta djur och fåglar uppträder i drömmar.

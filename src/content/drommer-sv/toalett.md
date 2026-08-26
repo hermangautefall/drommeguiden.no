@@ -70,3 +70,9 @@ Freud — naturligtvis — hade mycket att säga om toalettsymbolik. Han knöt d
 ## Det kroppsliga vi inte talar om
 
 Intressant nog är toalettdrömmarna universellt vanliga över olika kulturer — de är dokumenterade i drömstudier världen över som en av de mest frekventa drömkategorierna. Oavsett kultur är behovet att släppa taget djupt mänskligt.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — det kroppsliga och det man gör sig av med, som Freud räknade bland de tidigaste källorna till skam.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppens funktioner som drömmotiv, utan den förlägenhet vi lagt på dem senare.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför toalettdrömmar handlar om avskildhet och gränser.

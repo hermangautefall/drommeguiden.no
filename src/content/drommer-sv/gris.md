@@ -60,3 +60,9 @@ Du tar till dig näring från något du kanske haft ett ambivalent förhållande
 I nordisk tradition är grisen faktiskt ett ädelt djur — Frej, fruktbarhetsguden, red på vildsvinet Gullinbursti som sprang snabbare än någon häst. Valhalls invånare åt köttet av vildsvinet Särimner på kvällen och fann det igen friskt och helt nästa morgon. Grisen är i nordisk mening livets överflöd och regenerationsförmåga personifierad.
 
 Jung skulle ha sett grisdrömmen som en inbjudan att utforska de sidor av livet man lärt sig skämmas över — det fysiska, det aptitfulla, det som inte passar in i kultiverade normer, men som är en naturlig del av att vara människa. Se även [ko](/sv/drommar/ko/) och [får](/sv/drommar/far/) för andra husdjurssymboler.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — husdjur och överflöd som drömmotiv, utan den skam vi lagt på djuret senare.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan och aptiten: det vi kallar grisigt är ofta det vi inte vill kännas vid.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför grisens skick färgar tolkningen.

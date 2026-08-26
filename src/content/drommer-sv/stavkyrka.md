@@ -60,3 +60,8 @@ Det fornnordiska är närvarande — något gammalt och kraftfullt är en del av
 Sverige har en enda bevarad stavkyrka: Hedared i Västergötland, uppförd omkring år 1500. Norge har ett trettiotal, de flesta betydligt äldre. Byggnadstekniken fanns på båda sidor om gränsen — det var bevarandet som uteblev här, och just därför bär den svenska ensamheten på något eget: en byggnad som stod kvar när alla de andra försvann.
 
 Stavkyrkan hör till en period då den fornnordiska och den kristna traditionen fortfarande var i aktiv dialog. Drakhuvuden och rankslingor sitter på kyrkor byggda för en ny tro. Det säger något annat än att den ena traditionen slog ut den andra: två världsbilder fick plats i samma byggnad. Det är en psykologisk lärdom i sig — integration framför utrotning.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det invigda rummet, och mötet mellan två trostraditioner i samma byggnad.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att kulturarvet blir psykets bildspråk.

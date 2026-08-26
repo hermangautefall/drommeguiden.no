@@ -81,3 +81,8 @@ En trappa kan tolkas som rörelse mellan nivåer i livet eller i medvetandet. At
 Oändliga trappor, eller en känsla av att aldrig nå toppen, tolkas ofta som frustration över att framsteg känns omöjligt. Att falla nerför trappan i en dröm kan på samma sätt peka mot en upplevelse av att förlora kontrollen, eller ett bakslag man oroar sig för.
 
 [Huset](/sv/drommar/hus/) förknippas ofta i drömmar med jaget, där de olika våningarna kan representera olika sidor av medvetandet — [källaren](/sv/drommar/kallare/) som det dolda och omedvetna, vinden som det glömda. Trappan blir då förbindelsen mellan dessa lager. Genom olika traditioner finns liknande bilder av trappor och stegar som knyter jorden till himlen — Jakobs stege i bibliska berättelser, eller tempeltrappor som en fysisk bro mellan människans värld och något större.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — rörelsen upp och ner i psyket, mellan det medvetna och det som ligger under.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att riktningen i trappan följer upplevd framgång eller motgång.

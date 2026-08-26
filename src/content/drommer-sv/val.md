@@ -64,3 +64,9 @@ Valen kan i drömmar tolkas som en bild av det djupa omedvetna — kraftfulla k�
 De största varelserna i havet väcker ofta en känsla av vördnad — något sublimt och överväldigande, en påminnelse om krafter som är mycket större än en själv. I bibelns berättelse om Jona blir mannen "uppslukad" av valen — en bild som ofta tolkas som en period av mörker, tillbakadragenhet eller kris, som likväl bär på möjligheten till förvandling. En inre resa innan man träder fram igen, förändrad.
 
 Valens sång — djup kommunikation som når över enorma avstånd — kan också tolkas som en symbol för något som försöker nå dig från en plats längre bort än det vanliga. I vissa traditioner ses valen som bärare av uråldrig visdom, ett minne som sträcker sig långt tillbaka i tiden.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — nattsjöresan: att slukas av djupet och komma ut förvandlad, så som Jona-motivet berättar det.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — sjödjur som drömmotiv i antikens varseltradition.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför valen ofta kommer i stora, långsamma livsfaser.

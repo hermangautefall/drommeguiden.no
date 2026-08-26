@@ -78,3 +78,9 @@ Det är viktigt att säga rakt ut: att drömma om att döda speglar nästan aldr
 Den vanligaste tolkningen handlar om att "göra slut på" något i överförd bemärkelse: att avsluta en vana, lägga en roll åt sidan, göra slut på en relation, eller låta en gammal version av dig själv få dö för att något nytt ska få plats. Offret i drömmen representerar ofta just det du, djupast sett, vill bli av med — inte en verklig person.
 
 För andra kan drömmen vara ett tryggt utlopp för ilska eller frustration som inte får plats i vardagen, eller den kan handla om att återta kontroll och makt i en situation där du känner dig maktlös. Den skuldkänsla som ofta följer en sådan dröm är nästan alltid ett tecken på att du är en omtänksam person — inte ett bevis på något annat.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan: det vi inte vill kännas vid hos oss själva, och som drömmen kan ge våldsamma former.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger undertryckt ilska den starkaste bild det har.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sådana drömmar nästan aldrig handlar om faktiskt våld.

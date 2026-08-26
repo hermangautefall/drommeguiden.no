@@ -60,3 +60,8 @@ En känsla av att stå utanför en tradition eller gemenskap.
 Folkdräkten är en av de få nationella symboler som samlar människor över politik och generationer. I Sverige bärs den vid midsommar, bröllop och högtider — tillfällen då man bekänner sig till något gemensamt.
 
 Jungs Persona — den sociala masken — handlar om klädesdräkt i överförd bemärkelse: det man visar upp, den roll man tar på sig. Folkdräkten är en av de mest explicita formerna av Persona som finns: den säger tydligt vem du är, var du är ifrån och vad du representerar.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — personan och tillhörigheten: plagget som säger var man hör hemma, inte bara vem man är.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför passform och tillfälle betyder något i drömmen.

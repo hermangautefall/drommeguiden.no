@@ -75,3 +75,9 @@ Ambition, frigörelse och en rörelse mot något högre — en av de mest dynami
 Himlen som en plats efter detta livet handlar ofta om frid, längtan efter harmoni och det andliga. Sådana drömmar är särskilt vanliga efter sorg och förlust, och kan vara en tröst — en känsla av att något är i sin ordning för den som gått bort, eller att ett idealt tillstånd är inom räckhåll ("att vara i himlen" som uttryck för fullständig lycka).
 
 Att se uppåt, mot himlen, kan också tolkas som att söka mening och det stora sammanhanget — en koppling till något evigt eller bestående, bortom det vardagliga. Över kulturgränser återkommer himlen som det gudomligas rike, och den universella blicken uppåt är kanske en av de mest delade bilder människor har för längtan och hopp. Se även drömmar om [stjärnorna](/sv/drommar/stjarnor/), [Gud](/sv/drommar/gud/) eller [änglar](/sv/drommar/anglar/).
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — höjden och det upphöjda som bild för det som är större än jaget.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — himlens tecken som drömmotiv i den äldsta drömlitteraturen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför vädret i drömmen ofta följer sinnesstämningen.

@@ -78,3 +78,8 @@ I nordisk sagovärld är trollet alltid prövningen. Askungen vinner inte genom 
 Carl Jung beskrev det han kallade Skuggan — de aspekter av psyket vi inte kännas vid — som en av de viktigaste och mest brådskande arketyperna att integrera. Det man undertrycker växer. Det man aldrig ser i ansiktet styr en bakifrån. Trollet i nordisk folklora är Skuggan i sin mest konkreta, kulturellt förankrade form. Det är inte tillfälligt att trollet spricker i ljuset — eftersom det är exakt vad som händer med Skuggan när den erkänns.
 
 Asbjørnsen och Moe samlade sagotrollen, men de hämtade dem från en levande muntlig tradition som sträckte sig tillbaka till fornnordisk tid. Jättar — de uråldriga jättarna — är trollets förfäder: de som existerade innan gudarna skapade ordning, de som representerar kaos och råkraft i sin renaste form.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan så som folktron klädde den: det ointegrerade som växer i mörkret.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför kulturens gestalter blir psykets bilder.

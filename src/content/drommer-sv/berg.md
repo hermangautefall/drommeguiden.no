@@ -80,3 +80,8 @@ Berget är samtidigt en bild för det som inte rör sig. Där mycket annat i liv
 Till sist handlar bergsdrömmar ofta om förhållandet mellan ansträngning och belöning. Klättringen är det tunga, gradvisa arbetet — steg för steg, ofta utan att du ser hur långt du kommit. Utsikten från toppen är det du får tillbaka för det. En dröm om att klättra kan påminna dig om att mödan har en mening, medan en dröm där du redan står på toppen kan bjuda in dig att stanna upp och verkligen ta in det du har uppnått, innan du går vidare.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — berget som bild för det som måste bestigas, och för det som inte låter sig flyttas.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför bergsdrömmar kommer inför stora uppgifter.

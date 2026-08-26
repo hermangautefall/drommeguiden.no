@@ -62,3 +62,8 @@ Telefonen är framför allt en bild av förbindelse — eller bristen på den. D
 En mycket vanlig variant är drömmen där du inte får knapparna att fungera, telefonen inte går igenom, eller du inte hör vad som sägs. Det kan tolkas som en frustration över att inte bli hörd, eller över att inte hitta orden för något du behöver uttrycka. Ibland tolkas detta också som en signal från det undermedvetna — en "väckarklocka" från en del av dig själv som försöker fånga din uppmärksamhet.
 
 Som en relativt ny symbol speglar telefonen också vår tid: ständig uppkoppling, ett flöde av notiser, och pressen att alltid vara tillgänglig. En dröm om telefon kan därför lika gärna handla om överväldigande information och distraktion som om själva kontakten — kanske speglar den ett behov av att koppla bort lite, vare sig det gäller [internet](/sv/drommar/internet/) eller [sociala medier](/sv/drommar/sociala-medier/).
+
+## Källor och vidare läsning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför en bruten linje speglar en bruten kontakt i vaket tillstånd.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger känslan av att inte nå fram sin tydligaste form.

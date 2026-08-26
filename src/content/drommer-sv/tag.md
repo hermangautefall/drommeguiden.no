@@ -62,3 +62,8 @@ Ett tåg kan tolkas som din livsresa, men på ett fast spår — du följer en f
 Den klassiska drömmen om att missa tåget tolkas ofta som en rädsla för att låta ett tillfälle passera — att du är för sen, eller att chansen redan är förbi. Att sitta på fel tåg, eller inte kunna kliva av, kan istället peka mot en känsla av att vara fast i en riktning du inte själv har valt.
 
 Eftersom ett tåg fraktar många människor samtidigt kan drömmen också handla om det gemensamma — att följa med "i flocken" med andra, eller en känsla av att livet går efter en tidtabell du inte har satt själv.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det kollektiva spåret mot den egna vägen, en central spänning i individuationen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att hinna eller missa tåget speglar upplevd tidspress.

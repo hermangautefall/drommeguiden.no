@@ -74,3 +74,9 @@ Forskning på otrohetsdrömmar visar att de är mycket vanliga och inte korreler
 Jung skulle ha sett otrohetsdrömmens "tredje part" som en projektion — en externalisering av något inre. Det handlar sällan om den faktiska personen; det handlar om vad de representerar som är frånvarande eller hotat.
 
 En viktig insikt: att berätta för partnern om dina otrohetsdrömmar kan ibland skapa mer oro än det löser. De behöver ingen tolkningshjälp — de behöver oftast mötas med självmedkänsla och kanske ett ärligt samtal om något annat som pyr.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — de bortträngda önskningarna och varför drömmen klär dem i så konkreta former.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att otryggheten i drömmen speglar otrygghet i vaket tillstånd.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på att drömmar om partnern hör till bearbetningen av relationen.

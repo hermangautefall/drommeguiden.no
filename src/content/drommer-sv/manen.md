@@ -61,3 +61,9 @@ Det omedvetna är mycket nära medvetandet. Något vill fram.
 Jung betraktade månen som en av de viktigaste arketypiska symbolerna för det omedvetna — särskilt för det han kallade "anima" hos män och den "mörka feminina sidan" generellt. Måndrömmarna är för honom en inbjudan att gå in i de djupare lagren av psyket.
 
 I fornnordisk tradition är Máni guden för månen — en manlig figur, till skillnad från många andra kulturers feminina måne. Denna fornnordiska tradition ger månen en något annan kvalitet i nordisk kulturell psyke: lugn, taktfast, bärande — inte bara romantisk och känsloladdad. Drömmar om [havet](/sv/drommar/hav/) delar mycket av samma symbolik om det djupa och omedvetna.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — månen som bild för det feminina, cyklerna och det som lyser i mörkret.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — månfaser som drömtecken i en tid då de också var tideräkning.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför månens fas färgar stämningen i drömmen.

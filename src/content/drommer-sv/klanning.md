@@ -79,3 +79,9 @@ Kläder är något av det mest direkta vi visar världen av oss själva, och en 
 En särskild klänning — till [bröllop](/sv/drommar/brollop/), fest eller något annat firande — kan tolkas som att något betydelsefullt närmar sig, eller som en bild av ett jag i förvandling. Hur klänningen kändes i drömmen säger ofta mer än klänningen själv: kände du dig självsäker, exponerad, eller som om den inte riktigt var din? Kläder döljer och avslöjar samtidigt, och en klänning som inte passar kan tolkas som en roll som inte längre stämmer, medan en klänning du känner dig vacker i kan spegla en form av självacceptans.
 
 Även färgen och skicket på klänningen kan bära mening i tolkningen. En fläckig, trasig eller för trång klänning kan tolkas som självtvivel eller en roll som klämmer, medan en klänning som sitter perfekt kan spegla en period då du känner dig trygg i din egen kropp. Drömmar om att vara [naken](/sv/drommar/naken/) eller se dig själv i [spegeln](/sv/drommar/spegel/) handlar ofta om något av samma slag — hur du ser dig själv, och hur du tror att andra ser dig.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — personan: kläderna som det lager vi möter världen med.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kläder och status som drömmotiv i antiken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför tillfället i drömmen färgar tolkningen.

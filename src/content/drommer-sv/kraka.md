@@ -80,3 +80,9 @@ I fornnordisk mytologi har kråkan — och särskilt korpen — en helt central 
 I nordisk folktro har kråkan en mer vardaglig, men lika fascinerande roll. Den har setts som ett förebud — på vissa ställen sades det att en kråka som kretsade över ett hus varslade om dödsfall eller stora förändringar, medan kråkan på andra ställen respekterades som en klok och anpassningsduglig överlevnadskonstnär. Denna dubbelhet mellan förebud och visdom ger kråkdrömmar ett särskilt djup. Kråkan ber dig inte frukta det som kommer, utan att möta det med öppna ögon och ett skarpt sinne.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — kråkan och korpen som skuggfåglar och budbärare mellan två världar.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — fågeltecken i antikens varseltradition.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta fåglar uppträder, och i vilka situationer.

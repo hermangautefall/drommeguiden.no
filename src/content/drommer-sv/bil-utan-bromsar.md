@@ -65,3 +65,9 @@ Bildrömmarna är moderna, men de ersätter äldre symboler för livets färd: h
 I existensfilosofin används "kast" (Heideggers "Geworfenheit") om den erfarenhet att vi är inkastade i livet utan att ha valt det, och att livet bär iväg med en logik vi inte fullt ut kontrollerar. Drömmens bil utan bromsar är detta kastadets bildspråk: du är på en färd du inte fullt ut styr.
 
 Det ironiska är att acceptera att bromsen saknas — att låta bli att kämpa mot det okontrollerbara och i stället fokusera på att styra — är det som ger bäst överlevnadschans i den drömmen. Det är en god bild av livet i stort.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: kontrollförlusten som hjärnans övning.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger upplevelsen av att tappa styrningen sina mest fysiska bilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför bromssvikt kommer i perioder med för högt tempo.

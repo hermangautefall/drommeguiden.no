@@ -59,3 +59,9 @@ Kan spegla att du känner att din frihet eller dina möjligheter är begränsade
 I fornnordisk mytologi satt örnen högst uppe i världsasken Yggdrasil, högt över [bergen](/sv/drommar/berg/) — högst av alla varelser, med visdom och överblick över världen. Den var Odens fågel. Att drömma om örn i denna tradition var ett tecken på gudomlig uppmärksamhet eller hög skepnad.
 
 Jung såg fåglar i allmänhet som symboler för frigjorda tankar och själen i fri rörelse. Örnen särskilt representerar den översta nivån av medvetande — förmågan att se sig själv och sitt liv med klarhet och distans. Drömmer du upprepade gånger om örn, kan det vara värt att lägga märke till vilken sorts höjd eller distans du söker i ditt liv just nu. Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — örnen som kungligt varsel i antikens drömtydning.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — den upphöjda blicken: att se sitt eget liv ovanifrån.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta fåglar uppträder i drömmar.

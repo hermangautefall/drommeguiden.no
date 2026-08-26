@@ -62,3 +62,8 @@ Det mest grundläggande perspektivet handlar om själva förvandlingen. Metamorf
 Ett annat perspektiv handlar om lätthet, glädje och frihet. Fjärilen är skönhet i sin mest flyktiga form — en varelse som lever kort men intensivt, och som påminner oss om att vara närvarande i nuet. Drömmen kan bära ett hoppfullt, milt budskap: att något lätt och vackert är på väg in i ditt liv.
 
 I många kulturer är fjärilen också kopplad till de dödas själar — i Mexiko förknippas monarkfjärilarna med Día de los Muertos, där de sägs bära med sig förfädernas själar tillbaka. Den kinesiske filosofen Zhuangzi berättade den berömda drömmen om att vara en fjäril: vaknade han som en människa som hade drömt att han var en fjäril, eller var han en fjäril som nu drömde att han var en människa? Frågan pekar på något fjärilsdrömmar ofta rör vid — gränsen mellan dröm och verklighet, och hur skört och kortvarigt ett vackert tillstånd kan vara.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — förvandlingen från puppa till vingar, och fjärilen som gammal bild för själen själv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför fjärilsdrömmar kommer i förändringsfaser.

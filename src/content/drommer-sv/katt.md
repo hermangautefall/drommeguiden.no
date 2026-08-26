@@ -84,3 +84,8 @@ I det forntida Egypten dyrkades katten som helig och knöts till gudinnan Bastet
 Det är ofta kattens beteende i drömmen som ger den bästa fingervisningen. En lugn, kelig katt kan tyda på att du har god kontakt med din egen oberoende och intuitiva sida, eller på ett avslappnat förhållande till någon. En klösande, irriterad eller frånvarande katt kan istället peka mot en person som känns reserverad, oförutsägbar eller svår att läsa — eller mot att du själv drar dig undan något.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — katten som bild för det oberoende och svårlästa: något som inte låter sig styras.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför kattens beteende i drömmen säger mest.

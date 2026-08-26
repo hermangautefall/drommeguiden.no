@@ -111,3 +111,9 @@ Färger i drömmarna är ett eget lager av symbolspråk som berikar drömmens me
 Onaturligt intensiva eller mättade färger är alltid värda att lägga särskilt märke till — de är ofta de mest meningsfulla färgframträdandena i drömmarna.
 
 Relaterat: [drömjournalen](/sv/guider/dromjournalen/) — [klardrömning](/sv/guider/klardromning/) — [vad är drömmar](/sv/guider/vad-ar-drommar/)
+
+## Källor och vidare läsning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — innehållsanalys av stora drömsamlingar, inklusive hur ofta färger över huvud taget minns.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — färgernas plats i det symboliska språket, och varför samma färg kan betyda motsatta saker.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — varför personliga associationer väger tyngre än universella färgnycklar.

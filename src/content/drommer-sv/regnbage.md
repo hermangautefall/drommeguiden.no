@@ -62,3 +62,9 @@ Regnbågen representerar inom drömpsykologin integrering av motsatser — alla 
 ## Bågen som löfte och bro
 
 Bifrost — regnbågsbron i fornnordisk mytologi — är vacker men farlig: bara gudarna och de värdiga kan korsa den under den stora [himlen](/sv/drommar/himmel/), och vid Ragnarök bryts den av jättarnas tyngd. I kristen tradition är regnbågen Guds förbund med Noa efter syndafloden — ett löfte om att förödelsen inte ska upprepas. Oavsett tradition bär regnbågen på samma kärnbudskap: det är OK. Det blir bättre.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — integrationen av motsatser: alla färger samlade i en båge.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — himlatecken som varsel i den äldsta drömtydningen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför regnbågen kommer efter tunga perioder.

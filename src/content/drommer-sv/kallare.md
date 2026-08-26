@@ -69,3 +69,9 @@ Jung beskrev källaren explicit som representation av det personliga omedvetna �
 ## Det vi lagrar och inte vill titta på
 
 Det finns en viktig övning i jungiansk terapi: att gå ner i källaren, se vad som är där, och bära det upp i ljuset. Inte för att bli av med det — utan för att äga det. För det vi inte äger, äger oss.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — källaren som psykets nedersta våning, där det bortträngda förvaras.
+- Sigmund Freud, *Drömtydning* (1900) — bortträngningen, och hur det undanstoppade ändå hittar in i drömmen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför källardrömmar kommer i perioder av självrannsakan.

@@ -80,3 +80,8 @@ Skogen är också en stark bild för naturen och det vilda inom dig själv. Trä
 Om du i drömmen går vilse eller hittar stigen kan det också säga något om var du befinner dig just nu. Att famla utan riktning kan peka mot en period av osäkerhet kring vad nästa steg ska vara, medan att hitta en stig eller komma ut i en glänta kan tolkas som att en form av klarhet eller riktning är på väg — även om du inte ser den helt tydligt ännu.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skogen som det outforskade: platsen man går vilse i innan man hittar en ny väg.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför skogsdrömmar kommer i perioder utan tydlig riktning.

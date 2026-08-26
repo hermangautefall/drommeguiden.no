@@ -67,3 +67,8 @@ Kan betyda att du övervinner en stor rädsla eller utmaning. En seger som kosta
 Carl Jung såg drakar som arketypiska symboler för "Skuggan" — de sidor av oss själva vi inte vill kännas vid, men som har enorm energi. Också [ormen](/sv/drommar/orm/) delar denna arketypiska roll i drömsymboliken. Att konfrontera draken i drömmen är i jungiansk mening en inbjudan att möta det vi fruktar i oss själva.
 
 I fornnordisk tradition är drakar (ormar) skattens väktare — Fafner i Sigurdssagan är det främsta exemplet. Att döda draken är att vinna tillgång till dold rikedom, men det kräver mod och list. Drömmen kan spegla detta: något värdefullt är inom räckhåll, men det kräver att du vågar konfrontera det som vaktar det.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan och skatten den vaktar: det farliga som också rymmer något värdefullt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför draken gör sig påmind när något kräver mod.

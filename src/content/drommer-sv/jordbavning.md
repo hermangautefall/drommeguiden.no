@@ -61,3 +61,9 @@ Den mest dramatiska bilden — något fundamentalt och okänt öppnar sig under 
 Jordbävningen är i jungiansk mening knuten till det omedvetna i sin mest okontrollerbara form — de krafter som opererar under medvetandets yta och som med jämna mellanrum bryter fram med stor kraft. Drömmen är inte ett varsel — den är en beskrivning av ett inre tillstånd. Temat påminner om drömmar om att [falla](/sv/drommar/falla/), där något stabilt plötsligt ger efter.
 
 För nordbor, som bor i ett land utan stora jordbävningar, är dessa drömmar särskilt symboliska snarare än realistiska — de speglar något som bryter mot vår grundläggande förväntning på stabilitet och fasthet.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: naturkatastrofen som hjärnans övning.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger omvälvning den mest fysiska bild det känner till.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att marken som sviktar speglar något som sviktar i livet.

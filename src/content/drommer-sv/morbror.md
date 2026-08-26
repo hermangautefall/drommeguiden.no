@@ -80,3 +80,8 @@ I kinesisk släktskap finns flera distinkta ord för olika farbröder — *bóf�
 Carl Jung beskrev "den vise gamle mannen" (*Senex*) som en arketyp för inre vägledning. Senare arketypspsykologer som James Hillman har pekat på att *morbrors- eller farbrorsfiguren* är en mildare och mer tillgänglig version av denna arketyp — Senex i vardagsskjorta. Han kan vägleda utan att döma.
 
 Den amerikanske drömforskaren Robert Hoss har beskrivit att familjefigurer i drömmar sällan bara handlar om den faktiska personen — de bär på den roll och funktion de hade i din inre värld när du var ung. Drömmens morbror är ofta en figur för "den maskulina sidan av familjen minus pressen" — och vad än drömmen vill med dig, handlar den ofta om just den specifika frånvaron av krav.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — den manliga förebilden vid sidan av fadern: vägledning utan auktoritetens tyngd.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför släktingar i drömmen bär roller mer än personer.

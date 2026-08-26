@@ -97,3 +97,9 @@ drömmar räknas som en klassisk form av [mardröm](/sv/guider/mardrom/). Med
 sig om och möta förföljaren mitt i drömmen själv.
 
 > 💡 **Läs även:** [Ångest och sömn](/sv/somn/angest-somn/) — om varför otrygghet ger så levande drömmar.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: jaktdrömmen som hjärnans övning inför fara.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför det du undviker om dagen hinner ifatt dig på natten.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan: det man flyr från visar sig ofta vara en del av en själv.

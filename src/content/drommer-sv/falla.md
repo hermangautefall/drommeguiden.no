@@ -103,3 +103,9 @@ du stod på försvinner under dig. Drömmar om att stå vid kanten av ett
 står vid en vändpunkt, utan att veta vad som väntar därunder.
 
 ---
+
+## Källor och vidare läsning
+
+- Hypnagogiska ryckningar vid insomning — den fysiologiska ryckning vid insomning som ofta upplevs just som ett fall.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur utbrett fallmotivet är i drömmar.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att fallet speglar upplevelsen av att tappa fotfästet i vaket tillstånd.

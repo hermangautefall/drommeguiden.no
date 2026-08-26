@@ -64,3 +64,8 @@ I jungiansk mening är simmandet en av de mest aktiva och modiga drömmar man ka
 ## Simning som bemästrande
 
 I fornnordisk tradition är förmågan att simma nästan helig — sjöfolk som inte kunde simma var hjälplösa vid haveri, och [havet](/sv/drommar/hav/) var lika mycket liv som död. Att simma är att ha respekt för vattnet utan att låta det besegra dig.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — att röra sig aktivt i det omedvetna i stället för att bäras av det.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att medström eller motström följer upplevd bemästring.

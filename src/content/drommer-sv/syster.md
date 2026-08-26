@@ -64,3 +64,9 @@ En syster i drömmen kan fungera som en spegelbild av dig själv — kvinnliga s
 Systerskap rymmer både stöd och rivalitet, ofta sida vid sida. Drömmen kan spegla solidaritet och förtroende — att hon är en av de få som verkligen känner dig. Men den kan också lyfta fram gammal konkurrens, särskilt kring identitet, utseende eller prestationer, saker som kanske aldrig sagts högt mellan er.
 
 Drömmen kan också helt enkelt handla om den verkliga relationen till henne — olösta känslor, en längtan efter mer kontakt, eller en oro du bär på. Och i en vidare mening kan "systerskap" i drömmen representera kvinnlig vänskap och solidaritet i stort — en vald familj, inte bara en biologisk.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — speglingen: systern som både likhet och motstycke, och som bärare av egna olösta sidor.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vilka familjemedlemmar som faktiskt uppträder i drömmar.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför syskondrömmar bär barndomens mönster.

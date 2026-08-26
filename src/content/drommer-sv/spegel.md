@@ -80,3 +80,8 @@ Att möta ett främmande ansikte i spegeln — eller en version av dig själv du
 Spegeln har länge varit en bild för sanning och självinsikt i berättelser och folktro, från Snövits talande spegel till Narcissus som fångades av sin egen bild i vattnet. I många folktraditioner har speglar också setts som portaler eller "själfångare" — därför täcktes de över efter ett dödsfall, och en krossad spegel varslade om olycka. Denna arv gör att speglar i drömmar ofta känns mer laddade än ett vanligt vardagsföremål.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — spegeln som möte med självbilden, och med det man inte känner igen i sig själv.
+- Carl Gustav Jung, *Mitt liv — minnen, drömmar, tankar* (1961) — Jungs egna beskrivningar av att möta sig själv i drömmens bilder.

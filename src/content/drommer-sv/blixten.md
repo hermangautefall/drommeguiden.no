@@ -58,3 +58,9 @@ Insikten finns där, men konsekvenserna har inte kommit än. Något är i rörel
 Blixten kan tolkas som en glimt av insikt — ett plötsligt "aha"-ögonblick där något blir klart för dig på en bråkdel av en sekund, ett uppvaknande eller en sanning som slår till med full kraft. Sådana drömmar kan dyka upp i perioder då du är på väg att förstå något viktigt om dig själv eller ditt liv, även om medvetandet inte riktigt hunnit ikapp ännu.
 
 Blixten kan också tolkas som en bild av chock och plötslig förändring — något som kommer som en blixt från klar himmel, en händelse eller ett vändpunkt som förändrar allt på ett ögonblick. Över kulturgränser har blixten länge förknippats med gudomlig kraft och dom — tänk på Zeus och hans åskvigg, en symbol för gudarnas makt över himlen. Denna koppling till något stort och okontrollerbart kan också ge drömmen en underton av rädsla: rädslan för att träffas av krafter du inte rår över, och den sårbarhet som ligger i det.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — blixten som bild för den plötsliga insikten: något som lyser upp allt på en sekund.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — himlatecken som varsel i antiken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför blixten kommer när något äntligen går upp för dig.

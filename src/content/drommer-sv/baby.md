@@ -85,3 +85,8 @@ En baby i drömmen kan ofta förstås som en bild för något nytt som håller p
 Samtidigt kan babyn representera sårbarhet — en liten, ny del av dig som behöver omvårdnad, skydd och uppmärksamhet. I modernt terapispråk talar man ofta om "det inre barnet": de delar av oss som är öppna, äkta och beroende av omsorg, och som vi ibland behöver lära känna igen.
 
 Spädbarnet är över kulturer och tidsepoker en symbol för hopp, potential och en nystart. Drömmen bjuder ofta in till frågan: vad är det nya som behöver din uppmärksamhet just nu, och finns det något i dig själv som längtar efter mer omsorg?
+
+## Källor och vidare läsning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta barn och spädbarn förekommer i drömmar, och i vilka roller.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att något nytt i livet ger något nytt i drömmen.

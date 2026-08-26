@@ -65,3 +65,9 @@ En av de mer skrämmande drömmarna, men sällan ett varsel. Speglar gärna ång
 I jungiansk psykologi är barnet en av de viktigaste arketypiska symbolerna — det representerar potential, helhet och framtid. Jung skrev att barnet i drömmen symboliserar det själv vi är på väg att bli: något som ännu inte är realiserat, men som redan existerar som möjlighet.
 
 I nordisk folkloretradition ses barn i drömmar gärna som varsel om något nytt på väg. Om du är intresserad av att utforska [vad drömmar egentligen är](/sv/guider/vad-ar-drommar/) har vi en egen guide om detta — inte nödvändigtvis bokstavligen, utan som en symbol för att något i livet håller på att ta en ny form.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — barnet som arketyp: det nya, det sårbara och det som ännu inte är färdigutvecklat i oss.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför föräldrar drömmer om barn oftare än andra.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta barn uppträder i drömmar, och i vilka roller.

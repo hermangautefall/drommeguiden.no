@@ -88,3 +88,9 @@ Björnen bär också på en stark beskyddande, näst intill maternell kraft. Tä
 Om björnen i drömmen känns hotfull kan den tolkas som ett överväldigande problem, en mäktig person i ditt liv, eller en ilska — din egen eller andras — som du förr eller senare måste möta. I flera urfolkstraditioner på norra halvklotet, bland både nordamerikanska och sibiriska folk, har björnen setts som en mäktig ande och helare, en varelse som förbinder människans värld med något större. Även på stjärnhimlen lever denna respekt vidare, i stjärnbilden som de gamla grekerna knöt till Kallisto — Stora björnen.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — djuret som bild för instinktkraft, och björnen som både beskyddare och hot.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta vilda djur uppträder i drömmar, och i vilka situationer.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att kraften i drömmen ofta handlar om ens egen.

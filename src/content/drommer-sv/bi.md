@@ -81,3 +81,9 @@ Ett annat perspektiv finns i sötman. Biet gör honung — frukten av arbete, en
 Biet har dessutom en lång historia som ett heligt djur i många kulturer. I det gamla Egypten sades bina härstamma från solguden Ras tårar, och biet var en kunglig symbol för Nedre Egypten. I keltisk och brittisk folktradition finns seden att "berätta för bina" — man underrättade bikupan när någon i familjen dog, som om bina var budbärare mellan denna värld och nästa. Drömmens bi kan därför tolkas som något som korsar gränser, och som bär bud vidare.
 
 Om biet stack dig i drömmen kan det tolkas mer vardagligt: en liten men skarp oro, ett sårande ord, eller en bekymring för något som i sig inte är stort, men som ändå gör ont där det träffar.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — bin som drömmotiv i antiken, kopplade till flit och till söt belöning.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det kollektiva: samhället som organism, med bikupan som tydligaste bild.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför bidrömmar kommer i intensiva perioder.

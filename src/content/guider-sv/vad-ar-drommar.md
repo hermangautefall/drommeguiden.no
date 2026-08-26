@@ -93,3 +93,10 @@ Oavsett vad forskningen landar på, inbjuder drömmarna oss att lära känna oss
 - [Drömjournalen — så minns du dina drömmar](/sv/guider/dromjournalen/)
 - [Klardrömning — så tar du kontroll](/sv/guider/klardromning/)
 - [Mardrömmar — varför vi har dem och vad vi kan göra](/sv/guider/mardrom/)
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — önskeuppfyllelseteorin, och utgångspunkten för all modern drömtydning, också den som är oenig med honom.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — arketyper, det kollektiva omedvetna och brottet med Freud.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen och den empiriska invändningen mot dold symbolik.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömnens neurobiologi och drömmarnas roll i känsloreglering.

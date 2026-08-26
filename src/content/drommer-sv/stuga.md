@@ -67,3 +67,8 @@ Ju djupare in, desto större behov av att ta avstånd från det vanliga.
 Stugan är i nordisk kulturhistoria något annat än i de flesta andra kulturer — den är inte lyx, den är egalitär. Från kungahuset till vanliga barnfamiljer delar nordbor idealet om stugan som fristadssymbol. Stugtraditionen är ett kollektivt nordiskt värde, nedlagt i allemansrätten och i det att nordiska barn växer upp med att veta att naturen tillhör alla.
 
 Drömmens stuga bär på all denna kulturella rikedom — och är därmed en drömsymbol ingen andra kulturer kan ha på riktigt samma sätt.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — den avgränsade platsen man drar sig tillbaka till, besläktad med temenos-bilden.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför stugdrömmar gör sig påminda när vardagen tätnar.

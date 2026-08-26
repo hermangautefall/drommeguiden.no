@@ -72,3 +72,9 @@ Bröst som helig symbol går tillbaka till de äldsta mänskliga kulturer vi kä
 Egyptisk konst visar Isis som ammar Horus — en av de mest reproducerade bilderna från antiken, och förebilden för det kristna Maria lactans-motivet som dominerade europeisk konst under medeltiden. Det närande bröstet är gudinnebildens kärna.
 
 I fornnordisk mytologi är Frigg och Freja båda förbundna med fruktbarhet, näring och feminin kraft. Det svenska ordet "barm" — som betyder både bröst och famn — bär i sig dubbelbetydelsen av fysisk omsorg och varm omfamning.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppsdelarna som drömmotiv, och bröstet kopplat till näring och omsorg.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — modersarketypen och det närande som grundbild i psyket.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför bröstdrömmar ofta kommer i livsfaser med omsorgsansvar.

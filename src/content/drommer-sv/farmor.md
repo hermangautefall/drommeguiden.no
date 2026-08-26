@@ -79,3 +79,8 @@ Farmodern bär i drömmarna ofta på en samlad visdom — erfarenheten hos någo
 Om farmodern är avliden handlar drömmen ofta om något tröstande — ett känt besök, ett sätt att bearbeta sorg, eller en önskan om hennes vägledning igen. Sådana drömmar beskrivs ofta som ovanligt verkliga, och de är en naturlig del av att bära bandet till henne vidare, även efter att hon är borta. Se även [avliden person i dröm](/sv/drommar/avliden-person/).
 
 Drömmen kan också handla om arv och identitet — om familjehistorien, om var du kommer ifrån, om värderingar som förts vidare genom generationerna. Och ibland är farmodern en bild av din egen inre visdom: den mogna, intuitiva delen av dig som vet hur du tar hand om dig själv, oavsett vem hon var i verkligheten. Läs även om drömmar om [farfar](/sv/drommar/farfar/) eller [mor](/sv/drommar/mor/).
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — den visa gamla kvinnan som arketyp: visdom, rötter och ovillkorlig omsorg.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sådana drömmar ofta kommer när du behöver trygghet.

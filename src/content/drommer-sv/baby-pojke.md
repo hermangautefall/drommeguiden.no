@@ -84,3 +84,9 @@ Barn som symboler är universella och alltid positiva i sin grundstruktur — ä
 Den jungianska könssymboliken i drömmarna är ett av de mest konsekventa fynden i drömforskning: manliga och kvinnliga figurer i drömmarna representerar distinkta psykologiska funktioner — inte biologiska könsroller, utan djupa psykiska mönster.
 
 I fornnordisk tradition sågs det att drömma om ett barn — pojke eller flicka — som ett gott varsel. Lyckonornan Skuld förknippades med det ofödda och framtida: barnet i drömmen är det som ännu inte har tagit form, men som redan är på väg.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — barnet som arketyp: det nya och sårbara, oavsett vilket kön drömmen ger det.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta barn uppträder i drömmar, och i vilka roller.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför detaljen om kön sällan är poängen.

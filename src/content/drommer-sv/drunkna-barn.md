@@ -78,3 +78,9 @@ Mardrömmar där något händer barnet är bland de vanligaste drömmar föräld
 Det fornnordiska begreppet "hamingja" — den beskyddande lyckoande som följde en släkt — är i detta sammanhang intressant: en del av föräldraansvaret var att skydda barnets hamingja. Drömmens rädsla för att förlora barnet är kanske en modern version av denna urgamla beskyddarimpuls.
 
 > 💡 **Läs även:** [Sömn under graviditet](/sv/somn/somn-graviditet/) — om hur sömnen förändras när man har ansvar för någon liten.
+
+## Källor och vidare läsning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — mardrömmar och hur psyket bearbetar den starkaste rädsla en förälder kan bära.
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: faran mot avkomman som ett av de äldsta hoten.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför omsorgsansvar om dagen ger omsorgsrädsla på natten.

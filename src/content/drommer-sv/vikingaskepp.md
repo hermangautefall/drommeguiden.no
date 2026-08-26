@@ -60,3 +60,8 @@ En fornnordisk begravning är den yttersta hyllningen — något avslutas med v�
 Vikingaskeppets elegans är ingen tillfällighet — det byggdes av folk som visste att [havet](/sv/drommar/hav/) skulle döda dem om skeppet inte var perfekt. Drömmens vikingaskepp bär på den kombinationen av skönhet och nödvändighet: något är vackert just för att det är så ytterst funktionellt.
 
 Sverige har ett enda bevarat vikingaskepp — Äskekärrsskeppet, ett lastfartyg som hittades i Göta älvs strandbank 1933 och dateras till 900-talet. Vill man se den svenska skeppstraditionen får man annars gå till båtgravarna i Vendel och Valsgärde i Uppland, eller till handelsstaden Birka i Mälaren. Det säger något om vad skeppet var här: inte främst ett krigsredskap, utan ett sätt att komma ut i världen och hem igen.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — resan ut i det okända som bild för individuationen, buren av kulturens egna symboler.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att kulturarvet blir psykets bildspråk.

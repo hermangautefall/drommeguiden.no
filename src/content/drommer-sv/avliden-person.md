@@ -72,3 +72,8 @@ Inom modern sorgforskning talar man ibland om "continuing bonds" — tanken att 
 En egen kategori brukar kallas "besöksdrömmar" — ovanligt levande och fridfulla drömmar där den avlidne verkar frisk, lugn och fullt närvarande, och du vaknar med en känsla av att något verkligt har hänt. Detta fenomen är beskrivet över nästan alla kulturer och tidsepoker, och är en av de mest universella drömupplevelser människor har.
 
 Mer än något annat kan dessa drömmar förstås som psykets sätt att ge utrymme för det som inte blev sagt. Den avlidne fortsätter att finnas som en inre gestalt — en röst, en blick, en närvaro — som du bär vidare inom dig, och drömmen blir en plats där detta band kan visa sig igen.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — mötet med de döda som ett av drömmens starkaste och mest tröstande motiv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att den som fyller tankarna också fyller drömmarna.

@@ -73,3 +73,8 @@ Drömmens ensamhet aktiverar detta urgamla system. Det är inte svaghet att drö
 I fornnordisk kultur var utstötning från gemenskapen — att bli gjord till fredlös, utlaga — det strängaste straffet som fanns, värre än död. "En som är utlaga är ingen." Drömmens ensamhet berör denna djupaste rädsla: att inte höra till.
 
 > 💡 **Läs även:** [Depression och sömn](/sv/somn/depression-somn/) — om sambandet mellan nedstämdhet, sömn och drömmars innehåll.
+
+## Källor och vidare läsning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför saknad i vaket tillstånd följer med in i drömmarna.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger de tyngsta känslorna de starkaste bilderna.

@@ -61,3 +61,9 @@ Drömmarna processar relationella spänningar, och jobbets konflikter och maktdy
 Att jobbet följer med in i sömnen är inte konstigt. Kontinuitetshypotesen — att drömmarna i hög grad speglar det vi är upptagna av i vaket tillstånd — förklarar varför arbetsdrömmar är så vanliga i en kultur där jobbet har blivit en av de viktigaste arenorna för identitet. Ju mer plats arbetet tar om dagen, desto mer plats tar det om natten.
 
 Det är en intressant kulturell kontrast: i fornnordisk kultur var identiteten primärt knuten till ätt, ära och handlingar — inte till position. Draugen — den oroliga gengångaren — var gärna den som hade odödlig ovilja att släppa det jordiska. Kanske är arbetsdrömmarna den moderna versionen: psyket som inte klarar att släppa det produktiva.
+
+## Källor och vidare läsning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att arbetet tar plats på natten i takt med den plats det tar om dagen.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket bearbetar press och krav genom drömbilder.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömn och känsloreglering, och vad som händer när arbetet stör sömnen.

@@ -63,3 +63,9 @@ Svamp har en rik och mångsidig symbolhistoria. I många ursprungsbefolkningars 
 Modern forskning på psilocybin — den psykoaktiva föreningen i vissa svamptyper — visar att de kan ha djup terapeutisk effekt vid depression och existentiella kriser. Svampen som medicin och som visionär katalysator är ett väldigt gammalt mönster.
 
 I jungiansk psykologi skulle svampen ha varit en av de rikaste symbolerna för det omedvetna självet: inte lysande och uppenbar, utan levande och aktiv i mörkret.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — växten i det fördolda: det som breder ut sig under ytan innan det blir synligt.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — växter och gröda som drömmotiv i antiken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför ätlig eller giftig avgör tolkningen.

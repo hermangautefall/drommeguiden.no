@@ -79,3 +79,9 @@ Grodan kan tolkas som en bild av förvandling och tillväxt. Resan från grodyng
 Grodan är också nära knuten till vatten, regn och fruktbarhet i många kulturer. I det gamla Egypten var *Heqet* en grodhuvad gudinna förknippad med födelse och fruktbarhet, och i flera folktraditioner ses grodor som regnbringare — deras kväkande efter [regn](/sv/drommar/regn/) tolkades som ett tecken på att livet återvänder. Drömmens groda kan på liknande sätt handla om förnyelse, om något som sköljs bort och ger plats för något fräscht.
 
 I sagan om Grodprinsen finns en annan tolkning: något som vid första anblicken verkar oansenligt kan visa sig bära på stort värde när man vågar se bortom ytan. Som amfibie rör sig grodan mellan vatten och land, mellan känsla och förnuft — drömmen kan därför också tolkas som en bild av en känslomässig övergång, där något som legat under ytan en tid nu är redo att visa sig.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — metamorfosen: förvandlingen från ett stadium till ett annat, synlig i djuret självt.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — groda och padda som drömmotiv, kopplade till regn och gröda.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför groddrömmar kommer i övergångsfaser.

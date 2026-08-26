@@ -80,3 +80,8 @@ I sydasiatiska kulturer skiljer man tydligt mellan *masi* (moderns syster) — "
 I västerländsk kvinnohistoria har den ogifta mostern — *spinster aunt*, den "udda mostern" — varit en viktig kulturell bild av kvinnlig självständighet före det fanns ord för att vara kvinna utan make. Tant Polly hos Mark Twain, mostrar hos Jane Austen, berättelser om "den mostern som tog henne med på resa" — alla bär på detta: mostern som öppnade en dörr barnet annars inte skulle ha sett.
 
 Carl Jung beskrev "den stora modern" som en arketyp med både närande och förtärande sidor. Senare arketypspsykologer som Clarissa Pinkola Estés har pekat på att *mosterfiguren* ofta är den mildare, mer differentierade sidan av denna arketyp — den närande utan den förtärande. Hon ger utan att äga. Drömmens moster bär ofta på just den kvaliteten.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — den kvinnliga förebilden vid sidan av modern: omsorg utan samma förväntningar.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför släktingar i drömmen bär roller mer än personer.

@@ -73,3 +73,8 @@ Hjärtat är på många sätt känslolivets adress — vi säger att något "gå
 Samtidigt är hjärtat ett organ, och kroppen talar också genom drömmarna. Hjärtdrömmar kan ibland spegla en underliggande oro för hälsan, eller stress och ångest som satt sig i kroppen — det bultande hjärtat vid ångest är en bekant kroppslig upplevelse. Oftast är drömmen symbolisk, men det kan ändå vara värt att lyssna på kroppen om oron dröjer kvar i vaket tillstånd.
 
 "Hjärta" är även ett ord för mod och kärna — att "ta mod till sig" handlar om att våga visa vad man känner, och "sakens kärna" pekar mot det som verkligen betyder något. Kulturellt har hjärtat länge setts som själens och känslornas säte — i det gamla Egypten bevarades hjärtat efter döden och vägdes mot Maats fjäder, medan hjärnan kastades bort som oviktig. Drömmar om hjärtat kan därmed peka mot dina kärnvärderingar: vad som betyder mest för dig, och om du lever i linje med det.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — hjärtat som drömmotiv i antiken, säte för mod såväl som för känsla.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför hjärtats tillstånd i drömmen följer det egna.

@@ -72,3 +72,9 @@ Födseln är kanske den mest universella av alla arketypiska symboler. Alla kult
 Jung kallade individuationsprocessen — den livslånga rörelsen mot psykisk helhet — en serie symboliska födelseögonblick: delar av självet som tar form och träder in i medvetandet. Drömmens födelse är en av de kraftfullaste bilderna för sådana ögonblick.
 
 Barnmorskor i många kulturer — från svenska "jordemödrar" till grekiska "maiai" — var inte bara biologiska hjälpare, utan symboliska vägledare genom övergången. Drömmens födelse kan emellanåt inkludera en sådan vägledare — fråga dig vem som var närvarande, och vad de representerade.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — förlossningen som drömmotiv, bland de äldsta vi känner till.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — barnet som arketyp: det nya som kräver plats och omsorg.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför förlossningsdrömmar också kommer till dem som inte väntar barn.

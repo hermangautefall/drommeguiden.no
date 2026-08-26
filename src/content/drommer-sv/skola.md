@@ -80,3 +80,9 @@ I psykologisk forskning är skoldrömmar bland de bäst dokumenterade återkomma
 I nordisk kultur, där utbildningssystemet spelar en så central roll i människors liv, är det naturligt att skolan blir en kraftfull drömsymbol. Den nordiska enhetsskolan, med sitt ideal om likhet och inkludering, skapar också sin egen uppsättning drömscenarier — rädslan för att sticka ut, trycket att passa in, och balansen mellan att vara sig själv och att anpassa sig till gemenskapen. Dessa teman lever vidare i drömmarna långt efter att skoltiden är över.
 
 ---
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — tentamensdrömmen som klassiskt motiv, och varför den återkommer långt efter skoltiden.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur utbrett skolmotivet är över åldersgrupper.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att det som upprepas är känslan av att bli bedömd, inte skolan.

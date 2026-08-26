@@ -79,3 +79,9 @@ Krokodilen kan tolkas som en bild av en dold fara — något som ligger lugnt un
 Ett närbesläktat spår är bedrägeri: uttrycket "krokodiltårar" pekar mot falska känslor och oärlighet. Drömmen kan tolkas som en signal om att något — eller någon — inte är vad det ser ut att vara, eller att en situation som verkar harmlös faktiskt bär på en udda.
 
 I det gamla Egypten var *Sobek* krokodilguden, en gestalt kopplad till både fara och beskydd — han representerade Nilens fruktbarhet, men också dess dödliga kraft, och var både respekterad och fruktad. Krokodilen räknas också som en av jordens äldsta "levande fossiler", och i drömmar kan den därför tolkas som en bild av djupa, instinktiva och överlevnadsdrivna krafter i psyket — urgamla sidor av oss som sällan kommer till tals i vardagen.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: rovdjuret som ligger stilla och väntar.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vilka djur som uppträder i drömmar, och hur.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför avståndet till djuret säger mest.

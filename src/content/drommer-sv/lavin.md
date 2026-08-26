@@ -62,3 +62,9 @@ Tystnaden efter det som vältrade — något är över, och något nytt börjar.
 För nordbor är lavinen inte en abstrakt bild — den är en verklig och nära fara för alla som rör sig i fjällen. Den nordiska fjällvettregeln om att känna lavinrisk är inte metaforisk; det är överlevnad. Drömmens lavin bär på denna konkreta rädsla i nordisk fjällkultur.
 
 Men den bär också på något djupare: den uråldriga erfarenheten av att fjällen ger och fjällen tar. Att naturen är vacker och brutal på samma gång. Att det vita kan döda. När [isen](/sv/drommar/is/) och snön släpper taget finns det ingen väg tillbaka.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: skredet som hjärnans övning inför plötslig fara.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger uppdämt tryck en bild som lossnar allt på en gång.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför lavindrömmar kommer när något har byggts upp.

@@ -62,3 +62,9 @@ Myran är på många sätt själva sinnebilden för flit och samarbete. I Salomo
 Samtidigt pekar myrstacken på ett spänningsförhållande mellan individen och kollektivet. Varje myra är nästan ingenting på egen hand, men tillsammans bygger de något som övergår dem alla. Drömmen kan därför handla om din roll i ett lag eller en grupp — är du en del av något meningsfullt, eller känner du dig reducerad till "bara en kugge" i ett större maskineri?
 
 När myran dyker upp i mängder — kryper, myllrar, invaderar — kan det också spegla en mer vardaglig känsla: många små, gnagande saker som har hopat sig och nu kräver uppmärksamhet samtidigt. [Biet](/sv/drommar/bi/) delar något av myrans flit, men där biet ofta är kopplat till sötare belöningar, handlar myran mer om själva processen — arbetet, samarbetet och det långa loppet.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — insekter som drömmotiv, lästa som flit och som något som hopar sig.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det kollektiva och det outtröttliga, som myran är en av de tydligaste bilderna för.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför myrdrömmar kommer när många småsaker pressar på.

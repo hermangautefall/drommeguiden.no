@@ -69,3 +69,8 @@ Något djupt och betydelsefullt äger rum — en övergång, en markering.
 Jung var intresserad av dansen som ett av de äldsta arketypiska uttrycken — kroppens naturliga svar på rytm och livskraft. Han beskrev dansen i drömmarna som ett tecken på att libido (livsenergi i vid bemärkelse) är fri och i rörelse — motsatsen till stagnation och depression.
 
 I fornnordisk och svensk tradition har dansen varit närvarande från de äldsta ritualerna — polska, långdans, ringdans — och den är knuten till gemenskap, högtid och överskott. Att drömma om dans i svensk kulturell kontext berör något av denna kollektiva glädje i kropp i fri rörelse.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — kroppens uttryck och föreningen av motsatser i rörelse.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att vem du dansar med säger mer än dansen själv.

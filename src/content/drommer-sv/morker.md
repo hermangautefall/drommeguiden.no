@@ -60,3 +60,9 @@ Mörkret är också en sorgbild. I perioder med depression, sorg eller inre vint
 Mörkret som heligt är ett av religionshistoriens genomgående teman. Den apofatiska teologin — läran om att Gud är bortom all mänsklig förståelse och därför bäst beskrivs som mörker — är en av kristendomens äldsta traditioner. Mäster Eckhart: "Gud är en ström av mörker." Johannes av korset: "Den mörka natten i själen."
 
 I fornnordisk mytologi är Helheims konungarike mörkt och stilla — men det är inte enbart en plats för straff. Det är en plats för vila, för dem som inte föll i strid. Mörkret är inte bara hot — det är också det som rymmer de sovande, de sörjande, de som väntar på något nytt.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — mörkret som det omedvetna: inte ont, utan oupplyst.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger det okända sina starkaste bilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför mörkret känns hotfullt eller tryggt beroende på var du står.

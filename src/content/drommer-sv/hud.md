@@ -68,3 +68,9 @@ Huden som identitetsmarkör är en av de mest kulturellt laddade symbolerna som 
 I psykosomatisk medicin är huden särskilt intressant: det är väldokumenterat att stress, ångest och emotionella konflikter manifesterar sig som hudproblem — eksem, psoriasis och utslag är klassiska psykosomatiska tillstånd. Kroppen "talar" genom huden, och drömmens hud gör detsamma.
 
 Jung använde begreppet "persona" — det latinska ordet för mask — om den sociala fasad vi visar världen. Huden är persona i sin mest konkreta form: det som är synligt, det som presenterar oss, det som kan målas och formas — men som också begränsar och döljer.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — huden och kroppsdelarna som drömmotiv i den äldsta drömlitteraturen.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — personan: lagret vi visar världen, som huden är den mest bokstavliga bilden för.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför hudens skick följer upplevelsen av att vara utsatt.

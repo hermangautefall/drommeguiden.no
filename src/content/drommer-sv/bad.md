@@ -89,3 +89,9 @@ I kristen tradition är *dopet* den djupaste badesymboliken — att gå ned i va
 I finsk och nordisk tradition är *bastun* det rituella reningsrummet — fysiskt, socialt och andligt. Det finska ordspråket "*saunassa ollaan kuin kirkossa*" — "i bastun är man som i kyrkan" — säger mycket om hur rummet behandlas. Drömmens bad i en nordisk kontext bär ofta på något av denna sakrala stillhet.
 
 Jung beskrev vattnet som arketypiskt för det omedvetna, och badet som scenen där det medvetna möter det omedvetna i en kontrollerad form. Drömmens bad är då inte bara hygien — det är en reglerad kontakt med det djupare jaget.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — bad och rening som drömmotiv i antiken, där badet också var socialt rum.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — reningen och återfödelsen: att gå ner i vattnet och komma upp som en annan.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför baddrömmar kommer när något behöver tvättas bort.

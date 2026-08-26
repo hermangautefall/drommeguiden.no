@@ -73,3 +73,8 @@ Naglar har en överraskande rik folkloristisk tradition. I nordisk folkmedicin o
 I japansk shinto-tradition är naglar och hår de kroppsdelar som är närmast förbundna med den levande anden (tamashii) — de växer efter döden, de bär personens essens.
 
 Psykologiskt intressant är den klassiska drömsymbolikens förväxling mellan naglar och [tänder](/sv/drommar/tand/) — båda handlar om yttre uttryck, gränser och kontroll, och båda har hög förekomst i ångestdrömmar. Där tänder primärt speglar kommunikation och självförtroende, speglar naglar i större grad skydd och grepp.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppsdelarna i drömmen, och naglarna kopplade till grepp och till det yttre intrycket.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att naglarnas skick följer upplevd kontroll och självpresentation.

@@ -75,3 +75,9 @@ Jung skulle ha sett amningen som ett uttryck för den stora modersarketypens nä
 I nordisk tradition är Frigg — gudinnornas drottning och hemmets beskyddare — nära förbunden med näring och omsorg. Att nära fram något är i den nordiska förståelsen inte passivt, utan en aktiv, kraftfull handling.
 
 > 💡 **Läs också:** [Sömn under graviditet](/sv/somn/somn-graviditet/) — för en djupare förståelse av hur dina drömmar hänger ihop med din sömnkvalitet.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — amning och näring som drömmotiv i den äldsta drömlitteraturen.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — modersarketypen och det närande som grundbild i psyket.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sådana drömmar också kommer till dem som inte har barn.

@@ -72,3 +72,8 @@ I fornnordisk tradition sågs norrskenet som ett varsel från gudarnas värld �
 För moderna nordbor är norrskenet djupt förankrat i identitet och nostalgi — även de som aldrig ser det i vardagen, bär det som en bild av vad Norden är och vad de är som nordbor.
 
 Carl Jung skulle ha sett norrskenet som en numinös erfarenhet — det överväldigande, heliga och okontrollerbara mötet med något som är större än jaget. En sådan dröm är ett tecken på att psyket är i kontakt med något arketypiskt och djupt.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det numinösa: upplevelsen av något större som visar sig oväntat.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför det sällsynta ljuset ofta kommer i vändpunkter.

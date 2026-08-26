@@ -91,3 +91,10 @@ Stress och drömmar hänger nära samman — och sambandet är väldokumenterat:
 Relaterat: [mardrömmar](/sv/guider/mardrom/) — [drömjournalen](/sv/guider/dromjournalen/) — [återkommande drömmar](/sv/guider/aterkommande-drommar/)
 
 > 💡 **Läs även från sömnsektionen:** [Ångest och sömn](/sv/somn/angest-somn/) · [Sömnhygien](/sv/somn/somnhygien/)
+
+## Källor och vidare läsning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att det som tynger dig om dagen följer med in i drömmarna.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger de starkaste känslorna de starkaste bilderna.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömn, känsloreglering och vad stress gör med sömnkvaliteten.
+- 1177 Vårdguiden — [Stress](https://www.1177.se/liv--halsa/stresshantering-och-somn/stress/)

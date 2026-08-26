@@ -65,3 +65,8 @@ Till och med det skyddade farvattnet är i rörelse — något stör det som bru
 Fjorden är för nordisk självförståelse ungefär det Nilen är för Egypten — ett geografiskt drag som har blivit identitet. I Sverige finns bara en enda äkta tröskelfjord: Gullmarn i Bohuslän, med en djuprända som når långt under omgivande havsbotten. De stora fjordlandskapen ligger på andra sidan Kölen, men bilden är gemensam för hela Norden.
 
 I fornnordisk tid var fjorden hem och väg på en gång — där långskeppen låg, där handeln pågick, där [älvarna](/sv/drommar/alv/) mötte havet, där livet pulserade. Fjorden är inget främmande element i nordisk psyke; den är vardag genom tusen år, och det är sannolikt därför bilden bär så mycket även för den som aldrig bott vid en.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — djupet mellan två branta sidor: det omedvetna som är både omslutet och oändligt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför var på fjorden du befann dig betyder något.

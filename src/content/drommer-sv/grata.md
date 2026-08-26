@@ -71,3 +71,8 @@ Forskning om drömmarnas emotionella funktion visar att REM-sömnen spelar en vi
 Drömmens gråt kan också ge utrymme för känslor du inte tillåter dig själv att känna fullt ut i vaket tillstånd. I en kultur där vi inte alltid gråter lätt inför andra kan drömmen bli en plats där dessa känslor äntligen får komma till uttryck — utan att någon ser det.
 
 Att gråta för någon annan i drömmen, oavsett om det är någon du älskar eller [någon som har det svårt](/sv/drommar/avliden-person/), kan också handla om medkänsla: en förmåga att känna andras smärta som din egen. Oavsett vad drömmen handlar om är gråtdrömmar oftast ett tecken på att något bearbetas — inte ett dåligt varsel.
+
+## Källor och vidare läsning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — gråten som ventil: hur psyket låter uppdämda känslor få ett utlopp.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömn och känsloreglering, och varför drömmens gråt kan kännas befriande.

@@ -64,3 +64,9 @@ Att drömma om sin partner speglar ofta relationens känslomässiga tillstånd j
 I vissa drömmar är partnern mindre en verklig person och mer en bild av en del av dig själv — egenskaper du förknippar med dem, eller din egen förmåga till närhet och kärlek. Drömmen kan då handla om "den inre andra": hur du ger och tar emot kärlek, oavsett vem som står vid din sida. Många upplever liknande teman i drömmar om [bröllop](/sv/drommar/brollop/).
 
 Drömmar om partnern kan också lyfta fram anknytningsmönster — trygghet, rädsla för att bli lämnad, svartsjuka, eller en önskan om mer närhet. Och om du är singel och drömmer om en partner du inte har, eller om ett okänt ansikte, kan det tolkas som en längtan efter förbindelse, eller en önskan att bli bekant med en sida av dig själv som du ännu inte integrerat — sällan ett förebud om vem du faktiskt kommer att möta.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — anima och animus: partnern i drömmen som bärare av egenskaper du själv rymmer.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på att drömmar om nära relationer hör till bearbetningen av dem.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför den du står närmast tar mest plats också på natten.

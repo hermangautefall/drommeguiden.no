@@ -80,3 +80,9 @@ Genom olika kulturer har hästen länge förknippats med frihet och resning — 
 Häst-symbolen rymmer också tanken på partnerskap. Relationen mellan ryttare och häst bygger på ömsesidigt förtroende, och drömmen kan därför spegla en relation i ditt liv — eller förhållandet till dig själv, mellan den del som vill styra och den del som vill galoppera fritt. I mytologin finns även den bevingade Pegasos, en bild för inspiration och fantasins fria flykt, och hästar som bär mellan världar återkommer i berättelser från många kulturer.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — hästen som bild för instinktiv kraft: något som bär dig, men som du inte helt styr.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på djur i drömmar och vilka situationer de uppträder i.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför hästens temperament speglar drömmarens eget.

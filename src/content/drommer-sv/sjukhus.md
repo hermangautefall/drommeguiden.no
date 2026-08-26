@@ -81,3 +81,9 @@ I nordisk kultur har sjukhuset en särskild plats. Den offentliga sjukvården re
 I äldre nordisk folktro fanns det läkningsritualer knutna till särskilda platser — heliga källor, fjällgrottor och naturliga tillhåll där sjuka sökte hälsa. Sjukhuset är på många sätt den moderna versionen av dessa platser, och drömmar om sjukhus kan ses i förlängningen av en gammal tradition: människans sökande efter en plats där det är tryggt att vara sårbar.
 
 ---
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — sjukdom och helande som drömmotiv, långt före modern medicin.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur oro för hälsa och kontrollförlust hittar kroppsliga bilder i drömmen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sjukhusdrömmar kommer i perioder av sårbarhet.

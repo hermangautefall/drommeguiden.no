@@ -67,3 +67,9 @@ Djävulen i en dröm kan tolkas som de förträngda eller fruktade delar av dig 
 Djävulen kan också representera frestelse — en inre kamp mellan lust och samvete, något du känner att du "inte borde" önska dig. Drömmen kan spegla ett verkligt dilemma i ditt liv, där något drar dig i en riktning du vet inte är din. Andra gånger är djävulen den gestalt vi projicerar rädsla, skuld eller ondska på utåt — en yttre "djävul" kan vara en person eller en kraft vi lägger skulden på, medan drömmen bjuder in till att ta tillbaka ansvaret för det som egentligen är vårt eget.
 
 Bilden av djävulen har förändrats mycket genom historien — från "Satan" som på hebreiska betyder "åklagaren", via medeltidens skrämmande skildringar, till Goethes Mefistofeles som beskriver sig själv som "den kraft som alltid vill det onda, men alltid skapar det goda". Det är värt att påminna sig: drömmens djävul är sällan bokstavlig eller övernaturlig. Oftast är han en bild av något som redan finns inom oss, och som kan mötas med nyfikenhet snarare än rädsla. Se även drömmar om [helvetet](/sv/drommar/helvete/).
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan i sin mest personifierade form: det vi inte vill kännas vid.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger det mest obehagliga den starkaste bilden.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför djävulen kommer i perioder av skuld eller frestelse.

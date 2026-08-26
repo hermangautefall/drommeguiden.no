@@ -58,3 +58,8 @@ En isolation eller en avskärning från något viktigt. Se även [munnen](/sv/dr
 I många spirituella traditioner är lyssningsförmågan knuten till visdom — den vise hör mer än den talar. "Den som har öron, hör" är ett av historiens mest upprepade visdomsuttryck. Att drömma om öron är att drömma om själva grundlaget för förståelse: att vi faktiskt tar emot det som sänds.
 
 Jung skulle ha sett en blockerad örondröm som ett tecken på att jaget inte vill höra något från det omedvetna — ett motstånd mot insikt som behöver övervinnas. Drömmar om [främlingar](/sv/drommar/frammande/) kan också handla om att lyssna till något okänt i sig själv.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppsdelarna i drömmen, och örat kopplat till det man hör och det man överhör.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att det du inte hör i drömmen ofta är något du undviker.

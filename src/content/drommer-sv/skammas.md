@@ -64,3 +64,9 @@ Skamforskaren June Price Tangney beskriver två typer av skam: adaptiv skam som 
 Det är intressant att fornnordisk kultur hade ett mycket konkret och socialt definierat skambegrepp — niðingsverk (en äreskränkande handling) var något som faktiskt förtjänade skam. Samtidigt var modet att visa upp sina brister och ta ansvar för dem en dygd. Drömmens skam utmanar dig kanske till detsamma: är det något som faktiskt behöver erkännas — och finns det mod att göra det?
 
 > 💡 **Läs också:** [Ångest och sömn](/sv/somn/angest-somn/) — om hur oro på dagen formar det som kommer på natten.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — förlägenhetsdrömmarna, som han räknade bland de mest utbredda av alla.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur skam och exponering får sina egna, igenkännliga drömbilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför skammen i drömmen ofta är äldre än situationen den visar.

@@ -137,3 +137,9 @@ tanddrömmar handla om förlust av kontroll, oro för utseende och
 åldrande, eller ord och kommunikation man inte kan ta tillbaka.
 
 ---
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — tandförlust som ett av de allra äldsta dokumenterade drömmotiven.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur utbrett tandmotivet är över kulturer och åldrar.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför tanddrömmar kommer i perioder av press.

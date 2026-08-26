@@ -62,3 +62,8 @@ Ringens form har ingen början och inget slut, och det är möjligen denna obrut
 Samtidigt kan cirkeln läsas som en bild av helhet i sig — inte bara det som binder dig till något utanför dig, utan en känsla av att något i dig har rundats av, kommit "full cirkel". En ring kan också peka på status och tillhörighet: ett signetmärke, en roll, en symbol för att du hör till en viss grupp eller har en viss position.
 
 Om ringen i drömmen tappades bort eller krossades, kan det tolkas som oro för att en förpliktelse är i fara, eller rädsla för att en relation går sönder. Att hitta en ring kan istället spegla ett nytt band som är på väg in i ditt liv — en möjlighet, en överenskommelse, eller en tillhörighet du ännu inte lagt märke till.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — cirkeln utan slut: ringen som bild för helhet och för bindning på samma gång.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför en förlorad ring sällan handlar om smycket.

@@ -74,3 +74,9 @@ Kärleksdrömmar speglar ofta ett grundläggande mänskligt behov: önskan om f�
 Lika ofta pekar kärleken i drömmen inåt, mot din relation till dig själv. Klarar du att ta emot omsorg och värme när den ges till dig? Drömmar där du blir älskad och uppskattad kan tolkas som psykets sätt att visa dig något du förtjänar, men inte alltid ger dig själv i vardagen.
 
 Det är inte heller givet att drömmen handlar om romantisk kärlek. Redan de antika grekerna skilde mellan flera former av kärlek — eros, filia, storge och agape — och drömmens kärlek kan tillhöra vilken som helst av dessa: en vänskap, ett familjeband, eller en mer universell medkänsla. Ibland uttrycker drömmen också en idealiserad längtan snarare än en verklighet — en bild av vad du önskar dig, ställd mot det du faktiskt har.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — önskeuppfyllelsen: drömmen som ger dig den närhet du saknar.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — anima och animus, och varför den älskade i drömmen ofta bär dina egna olösta sidor.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför kärleksdrömmar kommer i perioder av längtan.

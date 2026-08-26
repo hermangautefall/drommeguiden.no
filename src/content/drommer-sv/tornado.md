@@ -61,3 +61,9 @@ En tornado kan tolkas som en bild av överväldigande känslor — särskilt vre
 Tornadon kan också tolkas som en plötslig, destruktiv förändring — en omvälvning som vänder upp och ner på livet på kort tid: en kris, eller en ostadig situation eller person som med rätta kunde kallas "en virvelvind". Kärnan i symbolen handlar ofta om förlust av kontroll — känslan av att vara maktlös inför en kraft som drar dig med sig, som tratten i en tornado.
 
 I ett mer modernt kulturellt ljus kan tornadon också påminna om övergången i *Trollkarlen från Oz* — virveln som river dig bort från det kända och in i en helt ny, främmande värld. Tolkad så kan drömmen handla om en stor förvandling, där det som känns skrämmande också öppnar dörren till något nytt.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: naturkatastrofen som hjärnans övning.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger omvälvning de mest våldsamma bilder det har.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför tornadon kommer när något rycks upp med rötterna.

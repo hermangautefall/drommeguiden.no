@@ -83,3 +83,9 @@ I nordisk tradition har mörkret en helt egen plats. De långa, mörka vintrarna
 I modern drömpsykologi förknippas mörka rum ofta med undertryckta känslor eller obearbetade upplevelser. Forskning visar att sådana drömmar är vanliga i perioder av stress, och att de kan fungera som en påminnelse om att något behöver bearbetning. Det mörka rummet är sällan ett hot — det är oftare en ingång.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det omedvetna som ett rum man inte ser in i, och skuggan som håller till där.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger rädsla de starkaste bilder det har.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att det ovissa i drömmen speglar något oavklarat i vaket tillstånd.

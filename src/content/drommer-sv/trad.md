@@ -85,3 +85,8 @@ Yggdrasil är inte bara ett träd — det är själva existensmönstret, kartan 
 Carl Jung såg trädet som en av de starkaste symbolerna för psykets utvecklingsprocess — individuationen. Han analyserade hundratals drömmars trädsymboler och fann att trädet genom drömmarna växte, metamorfoserade och mognade i takt med drömmarens psykologiska utveckling. I sin berömda bok om mandalas och symboler analyserar han ett träd som växer gradvis genom ett patientförlopp — från knopp till fullvuxet träd — som en direkt bild av en persons psykologiska läkning.
 
 Likheten mellan Yggdrasil och Jungs träd är kortare än den ser ut.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — trädet som en av de mest utbredda bilderna för växt, förankring och självets utveckling.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför trädets skick speglar drömmarens egen livsfas.

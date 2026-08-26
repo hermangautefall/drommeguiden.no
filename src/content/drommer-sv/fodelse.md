@@ -76,3 +76,9 @@ Många drömmar om en födelse kommer i perioder då något nytt gror i livet �
 Andra gånger handlar det om en större förändring inom dig själv — en ny fas i livet, en ny roll, ett nytt sätt att se på den du är. Värkarna före födseln kan då tolkas som en bild av den insats och det tålamod som ofta föregår något meningsfullt. Det kan kännas tungt under resans gång, men drömmen pekar oftast framåt, mot något som är på väg att ta form.
 
 För dem som själva väntar barn, eller går igenom en stor förändring i livet, är sådana drömmar mycket vanliga — kroppen och sinnet befinner sig i ett tillstånd av förväntan, och drömmarna blir gärna mer levande och färgstarka under sådana perioder. I många kulturer har födsel länge förknippats med förnyelse och hopp om framtiden, och den universella bilden av något nytt som kommer till världen är en av drömmens varmaste symboler.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — födelsen som drömmotiv i den äldsta drömlitteraturen, kopplad till framtid och släkt.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — barnet som arketyp och födelsen som bild för något nytt i psyket.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför födelsedrömmar kommer i perioder av nystart.

@@ -64,3 +64,9 @@ Jung skulle ha sett råttan som en manifestation av Skuggan i sin mest obehaglig
 ## Råttan mellan pest och överlevnad
 
 Råttan är i västerländsk tradition genomgående negativt laddad — från digerdöden till skräckfilmens kloakråtta. Men i kinesisk tradition är råttan faktiskt det första djuret i stjärnteckenscykeln och representerar intelligens, resursrikedom och anpassningsförmåga. I en nordisk kontext är råttan primärt en negativ symbol — skadedjur, förruttnelse, något man inte vill ha i huset.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan: det vi helst förbiser, och som ändå förökar sig i det fördolda.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — skadedjur som drömmotiv, lästa som något som tär i det tysta.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför råttdrömmar kommer när något försummat gör sig påmint.

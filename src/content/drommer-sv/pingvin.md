@@ -55,3 +55,8 @@ Du är i ditt rätta element — kanske inte där andra förväntar sig, men per
 ## En symbol utan gammal mytologi
 
 Pingvinen har ingen gammal mytologisk tradition — den blev inte känd för européer förrän på 1400-talet. Men i modern populärkultur har den blivit en symbol för det charmigt klumpiga, det lojala och det överraskande starka. Psykologiskt sett kan pingvinen representera de sidor av oss som inte passar in i standardmallen, men som ändå hittar sin väg.
+
+## Källor och vidare läsning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vilka djur som faktiskt uppträder i drömmar, och hur sällsynta de exotiska är.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att ett djur utan gammal symboltradition får sin betydelse från dina egna associationer.

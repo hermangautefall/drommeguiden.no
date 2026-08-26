@@ -79,3 +79,9 @@ Grannen lever tätt intill ditt liv utan att vara en del av det — och just den
 Grannen kan också representera en del av dig själv som är bekant, men inte helt erkänd — något som ligger strax i utkanten av medvetandet, "nära nog" för att du känner igen det, men inte nära nog för att du tagit det till dig fullt ut. I så fall kan drömmen vara en inbjudan att se närmare på denna okända, men nära, sidan av dig själv.
 
 Samtidigt handlar drömmar om grannar ofta om tillhörighet till en gemenskap — känslan av att vara en god medlem i närmiljön, eller av att bli bedömd av den. Ett jämförande blick ("hur ser mitt liv ut sett utifrån?") kan dyka upp här. Grannen är i grund och botten den bekanta främlingen: en påminnelse om att vi alltid lever med ett lager av social yta utanpå det vi egentligen är — och drömmen kan bjuda in dig att reflektera över relationen mellan de två.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — den nära andra: nära nog att angå dig, avlägsen nog att bära projektioner.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vilka människor som faktiskt uppträder i drömmar.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför grannedrömmar handlar om gränser.

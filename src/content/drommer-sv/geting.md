@@ -61,3 +61,8 @@ Ett annat perspektiv handlar om hot och försvar. Att bli jagad eller stungen ka
 
 Till sist kan getingen helt enkelt stå för mindre bekymmer som inte släpper — en ihållande, surrande oro i bakhuvudet. Fråga dig gärna vilken energi getingen i drömmen egentligen bär: är det aggression som vill ut, eller en varning om något som bör hanteras varsamt?
 
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — stickande insekter som drömmotiv, lästa som små, skarpa plågor.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur irritation och aggression finner precisa bilder i drömmen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför getingen kommer när något smågnager.

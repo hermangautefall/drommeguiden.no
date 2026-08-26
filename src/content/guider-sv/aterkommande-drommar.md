@@ -98,3 +98,8 @@ Eftersom återkommande drömmar ofta är kopplade till obearbetade emotionella t
 
 > 💡 **Läs även från sömnsektionen:** [PTSD och drömmar](/sv/somn/ptsd-drommar/)
 
+## Källor och vidare läsning
+
+- Tore Nielsen (Université de Montréal) — hans forskning tyder på att återkommande drömmar kan förstås som försök att integrera känslor som inte är färdigbearbetade i vaket tillstånd.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — mardrömmar och upprepning som uttryck för en känsla som fortfarande söker en form.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför drömmen slutar upprepas när det underliggande förändras.

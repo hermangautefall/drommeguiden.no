@@ -76,3 +76,9 @@ Drömforskningen har länge intresserat sig för vad som händer i drömmarna ho
 Jung skulle ha sett expartnern som en animafigur (för män) eller animusfigur (för kvinnor) — en inre representation av det andra könets egenskaper, projicerad ut på en extern person. Att drömma sexuellt om dem är då att närma sig dessa egenskaper i sig själv.
 
 Det finns ingen kulturell tradition som tolkar sådana drömmar som varsel eller profetia. De är nästan universellt förstådda som emotionellt bearbetningsarbete — och det är den tolkning som är bäst stödd av forskningen.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — de olösta önskningarna och varför de återvänder i så konkreta former.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på att drömmar om expartnern hör till bearbetningen, inte till stagnationen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sådana drömmar kommer i vågor.

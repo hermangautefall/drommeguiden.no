@@ -60,3 +60,9 @@ En social dimension — rädsla för att sticka ut, för att inte höra till, f�
 För-sent-drömmarna är nära besläktade med [examensdrömmarna](/sv/drommar/tenta/) — båda speglar Persona-ångesten: masken som kan spricka under press. De är vanligast bland perfektionister, högpresterande och människor med stark pliktkänsla.
 
 Intressant nog har dessa drömmar blivit vanligare i modern tid — något som kan hänga samman med att vår upplevelse av tid har blivit mer komprimerad, mer kravfylld och mer fylld av konkurrerande åtaganden än någonsin.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — ångestdrömmen om att inte hinna, besläktad med tentamensdrömmen.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur utbrett motivet är över grupper.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att tidspressen i drömmen speglar tidspressen i livet.

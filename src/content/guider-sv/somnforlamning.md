@@ -112,3 +112,10 @@ Sömnförlamning är skrämmande, men den är harmlös. Här är det viktigaste 
 Kanske det mest befriande med sömnförlamning är att upptäcka att miljontals människor genom historien har upplevt exakt detsamma — och att de flesta tog sig igenom det med inte mer skada än en god historia att berätta.
 
 > 💡 **Läs även från sömnsektionen:** [Sömnfaser](/sv/somn/somnfaser/) · [Astralprojektion och sömn](/sv/somn/astralprojektion/)
+
+## Källor och vidare läsning
+
+- REM-atoni — muskelförlamningen som normalt håller kroppen stilla under REM-sömn, och som vid sömnförlamning varar några sekunder för länge.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömnens fysiologi och övergångarna in i och ut ur den.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — varför tillståndet ger så starka och skrämmande sinnesintryck.
+- 1177 Vårdguiden — [Sömnsvårigheter](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

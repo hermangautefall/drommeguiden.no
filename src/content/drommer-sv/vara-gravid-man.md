@@ -74,3 +74,8 @@ I många urfolkstraditioner — inklusive samiska och inuitiska kulturer — had
 Det är intressant att män i västerländska kulturer rapporterar denna dröm oftare än man förväntar sig — och att den nästan alltid visar sig knyta an till en pågående skapandeprocess, antingen professionellt, konstnärligt eller personligt.
 
 > 💡 **Läs även:** [Sömn under graviditet](/sv/somn/somn-graviditet/) — för en djupare förståelse av hur dina drömmar hänger samman med sömnkvaliteten.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det skapande som inte är bundet till kön: något mognar inifrån och kräver plats.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att en stor livsförändring på väg präglar nätterna innan den sker.

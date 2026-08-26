@@ -77,3 +77,9 @@ Den vanligaste tolkningen av fängelsedrömmar handlar om att känna sig fångad
 För andra kan fängelset handla om skuld eller dåligt samvete — en känsla av att straffa sig själv, eller en oro för konsekvenser av något som hänt. Gallren i drömmen kan också representera mentala och känslomässiga begränsningar du själv har byggt upp över tid: föreställningar om vad du inte kan, inte förtjänar, eller inte får göra. En bra fråga att ta med sig är ofta: vem är det egentligen som har nyckeln?
 
 Mycket av detta handlar om hur vi, ofta utan att märka det, internaliserar regler och förväntningar och blir våra egna fångvaktare. Att drömma om fängelse kan därför vara en vänlig påminnelse om att undersöka vilka av dessa murar som faktiskt är nödvändiga — och vilka du kanske kan gå igenom.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — de självpålagda begränsningarna, och fångvaktaren som ofta visar sig vara en själv.
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: instängdhet som ett av de äldsta hoten.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför fängelsedrömmar kommer när valfriheten känns liten.

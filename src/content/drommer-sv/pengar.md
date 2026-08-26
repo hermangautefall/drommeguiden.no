@@ -76,3 +76,8 @@ Pengar i drömmar handlar sällan om bokstavlig ekonomi — de tolkas ofta snara
 Några tidiga psykoanalytiker, bland andra Freud och Ferenczi, kopplade pengar och guld till behovet av kontroll och att hålla tillbaka — en historisk kuriositet som ändå kan kännas träffande för den som känner igen sig i att "samla på" trygghet. I folktron är bilden långt ifrån entydig: i vissa traditioner är pengadrömmar ett lyckotecken, i andra ett motsatt varsel — drömmer du om pengar, vaknar du till förlust.
 
 I grund och botten kan pengadrömmar också handla om makt och energi: vad du värdesätter, vem som har kontrollen, och hur dessa frågor spelar sig ut i dina relationer.
+
+## Källor och vidare läsning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför pengar i drömmen sällan handlar om ekonomi.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta pengar och ägodelar förekommer i drömmar.

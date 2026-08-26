@@ -62,3 +62,8 @@ En plats du önskar komma till — vila, frihet, övergång — som fortfarande 
 I jungiansk psykologi är havet en symbol för det kollektiva omedvetna — det stora, djupa, odefinierbara. Stranden är gränsen mellan detta och den medvetna världen. Att stå på stranden i drömmen är att stå i medvetenheten och se ut mot det som är större än du. Drömmar där [solen](/sv/drommar/sol/) skiner på stranden förstärker ofta den positiva och livgivande aspekten.
 
 I nordisk kultur är kusten och stranden inte bara geografi — den är identitet. Norden är ett kustfolk, och stranden representerar både det kända och det öppna. Att drömma om den nordiska stranden träffar något kulturellt och historiskt djupt.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — gränslandet mellan det medvetna landet och det omedvetna havet.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att hur långt ut i vattnet du vågar dig speglar din egen beredskap.

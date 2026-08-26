@@ -75,3 +75,9 @@ Det tyska begreppet "Narbe" (ärr) är etymologiskt knutet till samma rot som "E
 Jung använde "sårad helare"-arketypen — den Sårade Helaren — som ett av de viktigaste mönstren i människans psyke. Det är just den som bär ärr som har den djupaste förmågan att hjälpa andra: eftersom de vet vad det kostar. Drömmens ärr är ibland detta: psykets erkännande av ditt djup.
 
 > 💡 **Läs också:** [Sorg och sömn](/sv/somn/sorg-somn/) — för en djupare förståelse av hur dina drömmar hänger ihop med din sömnkvalitet.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppens märken som drömmotiv, lästa som spår av det man gått igenom.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket bearbetar gamla sår genom att ge dem synlig form.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför ärret gör sig påmint när något gammalt aktiveras.

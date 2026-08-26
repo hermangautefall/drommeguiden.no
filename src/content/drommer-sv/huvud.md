@@ -75,3 +75,9 @@ I grekisk tradition var huvudet sätet för själen — Aristoteles menade att f
 Carl Jung ansåg däremot att överdriven vikt på huvudet — på det rationella och medvetna — var en av den moderna människans största faror. Drömmar där huvudet är i obalans med resten av kroppen kan i jungiansk mening peka mot ett psyke som behöver komma tillbaka till helheten — där kroppen, känslorna och det omedvetna inkluderas.
 
 I fornnordisk tradition var Mimer huvudet som innehöll all världens visdom — Oden offrade ett öga för att dricka av Mimers brunn. Huvudet är där visdom bor, men visdom är inte gratis.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppsdelarna i drömmen, och huvudet kopplat till status och förstånd.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — huvudet som bild för identitet och det medvetna jaget.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför överbelastning gärna tar en kroppslig form i drömmen.

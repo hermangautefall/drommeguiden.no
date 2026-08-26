@@ -81,3 +81,8 @@ Psykologen Alfred Adler intresserade sig för hur drömmar kan uttrycka ärelyst
 Att flyga är också en av de vanligaste upplevelserna i klardrömmar, där drömmaren är delvis medveten och kan känna en stark känsla av kontroll. I flera traditioner finns även föreställningen om en "själsresa" — att något inom oss kan lösgöra sig och röra sig fritt, en bild som ligger nära den frihet många beskriver i flygdrömmar.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — flykten som bild för frihet och överblick, och för att lyfta sig över situationen.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömnen och kroppens tillstånd under de mest kroppsligt levande drömmarna.

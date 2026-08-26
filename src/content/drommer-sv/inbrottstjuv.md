@@ -74,3 +74,9 @@ Du söker och finner stöd. Du är inte ensam med det som hotar dig.
 Huset som jagets symbol är en av de mest konsekventa och universellt dokumenterade i drömforskning. Oavsett kultur och bakgrund använder drömmare huset som bild av sig själva — och då är den som bryter sig in alltid ett hot mot jaget.
 
 Intressant nog visar forskning att inbrottsdrömmar är vanligast hos dem som faktiskt upplever en reell kränkning av gränser i vaket liv — inte inbrott, utan situationer där personliga gränser inte respekteras. Drömmen är exakt och precis i vad den speglar.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: inkräktaren som hjärnans övning inför hot.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan som bryter sig in i det man trodde var tryggt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sådana drömmar kommer när gränser känns hotade.

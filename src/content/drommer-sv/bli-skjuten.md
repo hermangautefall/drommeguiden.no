@@ -82,3 +82,9 @@ Att drömma om att bli skjuten kan kännas skrämmande medan det pågår, men de
 I grunden handlar drömmen om sårbarhet och maktlöshet — det plötsliga, det du inte kunde förutse eller skydda dig mot. Många upplever sådana drömmar som en sorts övning: sinnet testar en hotrespons i ett tryggt rum, utan att det betyder att något farligt faktiskt väntar.
 
 Det fina är att det du ofta bär med dig efter en sådan dröm är en känsla av att ha överlevt — och det är ingen slump. Att överleva skottet i drömmen pekar ofta mot att du har mer motståndskraft än du tror, även när något har träffat dig hårt.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: det plötsliga angreppet som hjärnans övning.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger chock och sårbarhet sina mest fysiska bilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför vem som sköt säger mest.

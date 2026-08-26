@@ -78,3 +78,8 @@ Stormen kan också tolkas som en yttre omvälvning — en turbulent period i liv
 En annan bild är stormens öga — den märkligt stilla punkten mitt i allt kaos. Att finna lugn där, mitt i oron, kan tolkas som en påminnelse om att även stormar går över. Naturkrafternas råa styrka kan dessutom väcka en känsla av vördnad och vanmakt — en påminnelse om krafter som är större än oss, och att det ibland är rätt att ge sig hän åt dem istället för att kämpa emot.
 
 ---
+
+## Källor och vidare läsning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger uppdämda känslor de mest dramatiska bilderna.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att stormens styrka följer trycket i vaket tillstånd.

@@ -63,3 +63,8 @@ En resväska i drömmen kan tolkas som en bild av resa och övergång — att n�
 Uttrycket "emotionellt bagage" är inte av en slump — resväskan kan tolkas som det du bär med dig av tidigare erfarenheter, olösta saker eller mönster från det förflutna. En tung resväska kan därför spegla en känsla av att bära för mycket, medan en [förlorad resväska](/sv/drommar/forlora-nagot/) kan tolkas som en rädsla för att förlora en del av sig själv, eller tappa kontrollen mitt i en övergång.
 
 Vad du lägger i resväskan, och vad du lämnar kvar, kan också spegla prioriteringar — vad som faktiskt betyder något för dig just nu, och vilken identitet du tar med dig vidare. Resan kan kännas som frihet och nya möjligheter, men resväskan är samtidigt en påminnelse om tyngden av det vi inte riktigt kan lägga ifrån oss.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — bagaget som bild för det man bär med sig, valt och ovalt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att vikten och innehållet följer det du faktiskt bär på.

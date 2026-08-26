@@ -58,3 +58,8 @@ En överväldigande känsla av livsglädje, kreativitet eller kärlek.
 Blomman är i jungiansk psykologi knuten till Självet i sin blomningstid — psyket i sitt mest öppna och mottagliga tillstånd. Den är inte den mogna [fruktens](/sv/drommar/gravid/) överflöd, utan blommans löfte om vad som är möjligt.
 
 I svensk tradition är blommor knutna till [sommarens](/sv/drommar/sol/) kortvarighet — i ett land med lång [vinter](/sv/drommar/sno/) är blomman extra laddad. Att drömma om blommor i svensk kontext är att drömma om det käraste och mest kortvariga i livet.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — blomman som bild för självet i utfoldning, och för något som mognar i sin egen takt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför blommans skick ofta följer drömmarens eget.

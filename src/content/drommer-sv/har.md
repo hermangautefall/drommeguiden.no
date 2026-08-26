@@ -62,3 +62,8 @@ Hår är något av det mest synliga hos oss — det formar hur vi uppfattar oss 
 Att klippa håret i en dröm kan tolkas som en handling lika mycket som en symbol. Ett medvetet, önskat klipp kan spegla ett behov av en ny start — att lämna något bakom sig och göra plats för något annat. Ett oönskat eller påtvingat klipp pekar däremot oftare mot en känsla av att förlora kontrollen, eller att utsättas för en förändring du själv inte bett om.
 
 Genom historien har hår också burit stor social och kulturell betydelse — som tecken på status, uppror, tillhörighet eller konformitet. Tovigt och ovårdat hår i en dröm kan därför tolkas som mental oro eller förvirring, medan frisyren kan säga något om hur du presenterar dig själv för omvärlden just nu.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — håret som drömmotiv, kopplat till styrka, status och identitet.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att förändring i håret speglar förändring i självbilden.

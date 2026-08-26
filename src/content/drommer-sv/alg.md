@@ -60,3 +60,9 @@ Du observerar en stor kraft eller möjlighet utan att närma dig den.
 Älgen är i nordisk kultur nästan ett nationaldjur — den finns på vykort, i reklam, i skämt och i skogsupplevelserna som präglar nordisk barndom. Älgen är nära nog att mötas på tur, och exotisk nog för att mötet alltid sitter kvar. Drömmens älg bär all denna kulturella förtrogenhet kombinerad med djurets inneboende storlek och värdighet.
 
 I schamanistiska traditioner i Nordeuropa är älgen (och [renen](/sv/drommar/ren/)) ett kraftdjur — en guide och beskyddare. Fornnordiska schamaners relationer till älgen är dokumenterade i gravritualer och hällristningar.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det stora, lugna vilddjuret som bild för en kraft som inte låter sig jagas.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vilka djur som uppträder i drömmar.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför mötet med djuret säger mer än djuret självt.

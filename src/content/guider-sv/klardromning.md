@@ -110,3 +110,8 @@ Som med de flesta färdigheter kräver klardrömning tålamod och regelbunden ö
 
 > 💡 **Läs även från sömnsektionen:** [Sömnfaser](/sv/somn/somnfaser/) · [Polyfasisk sömn](/sv/somn/polyfasisk-somn/)
 
+## Källor och vidare läsning
+
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömnen som klardrömmar uppstår i, och varför de är vanligast mot morgonen.
+- Carl Gustav Jung, *Mitt liv — minnen, drömmar, tankar* (1961) — Jungs beskrivningar av att medvetet gå in i och arbeta med drömbilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — en nykter blick på vad drömforskningen kan och inte kan säga om kontroll över drömmar.

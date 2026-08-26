@@ -61,3 +61,9 @@ Mörker, desorientering och brist på hopp. Något har dolt vägledningen för d
 Stjärnorna är i fornnordisk tradition spridda från gnistorna i Muspelheim — skapade i skapelsens kaos, placerade av gudarna för att lysa upp natthimlen. Att drömma om stjärnor i nordisk kontext berör något av den första skapelsekraften — något uråldrigt och strålande.
 
 Astronomiskt sett är vi alla skapta av stjärnstoft — och denna insikt, att vi bokstavligen är del av kosmos, ger stjärnorna en symbolisk djup som överskrider mytologin. Se även [månen](/sv/drommar/manen/) och [solen](/sv/drommar/sol/) för besläktade himlakroppssymboler.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — himlatecknen som drömmotiv i antiken, och som orientering.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — stjärnan som bild för riktning och för det själv man navigerar efter.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför stjärndrömmar kommer i perioder med vägval.

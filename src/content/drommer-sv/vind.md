@@ -67,3 +67,8 @@ Jung beskrev huset i drömmarna som en av de viktigaste arketypiska symbolerna, 
 ## Minnena vi sparar
 
 I nordisk huskultur är vinden historiskt sett ett speciellt rum: på de gamla torparplatserna och gårdshusen var vinden gärna där flickorna sov, och den hade en viss mystik och privatliv. Att drömma om en nordisk vind berör detta kulturella arv av det halvprivata, det mellan-rumsliga.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — vinden som psykets översta våning: minnen, arv och det som lagts undan men sparats.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför vindsdrömmar kommer när det förflutna gör sig påmint.

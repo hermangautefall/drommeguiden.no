@@ -91,3 +91,9 @@ I buddhistisk filosofi är det berömda uttrycket "fingret pekar på månen, men
 Jung beskrev händer som "psykets redskap i världen" och fingrarna som dess finaste utlöpare — den del av kroppen där det inre möter det yttre mest direkt. Senare arketypspsykologer som James Hillman har lagt vikt vid att fingrarna i drömmar ofta representerar "precisionsmedvetandet" — den del av oss som vet hur saker ska göras rätt, inte bara med kraft.
 
 Den franske fenomenologen Maurice Merleau-Ponty beskrev handen — och särskilt fingertopparna — som "där världen möter oss". Drömmens fingrar kan i denna läsning handla om hur levande du är i ditt möte med livet just nu: rör du världen, eller har den blivit distanserad?
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppsdelarna i drömmen, och händernas delar kopplade till precision och hantverk.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — att gripa tag i något: handlingskraft i sin mest detaljerade form.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför vilket finger det gällde kan betyda något.

@@ -61,3 +61,8 @@ En andlig erfarenhet som överskrider det ordinära — något närmar sig det t
 För nordbor — med vår starka ljusbrist på vintern och vår intensiva ljusglädje på sommaren — är ljuset extra laddat. Det nordiska förhållandet till ljus är inte metaforiskt; det är existentiellt. Att drömma om ljus i en mörk novembermånad är att drömma om något djupt saknat.
 
 Jung knöt ljuset till Självet i sin mest realiserade form — den fullt integrerade och medvetna individen. Att drömma om att se ljuset är att drömma om psykologisk helhet.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — ljuset som bild för medvetande och insikt, i motsats till det omedvetna mörkret.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför ljusets betydelse beror på var du själv står.

@@ -66,3 +66,9 @@ En främling i drömmen bär ofta på en okänd potential — en egenskap, en ta
 Drömmen kan också spegla hur du förhåller dig till det nya i allmänhet — förändringar, nya människor, okända situationer som är på väg in i ditt liv. Om främlingen i drömmen känns avslappnande eller oroande kan det säga något om hur öppen eller försiktig du är inför det oväntade just nu.
 
 Vi har dessutom en tendens att projicera på främlingar: de blir tomma ytor vi fyller med våra egna känslor. En hotfull främling kan därför bära på en rädsla du redan har, medan en hjälpsam främling kan representera en resurs, ett råd eller en väg framåt du inte riktigt sett själv. I många berättelser är just den mystiska främlingen någon som dyker upp för att föra med sig ett budskap eller sätta något i rörelse — en liten katalysator i berättelsen om ditt liv.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — skuggan och de sidor av oss själva vi ännu inte känner igen, som drömmen ger ett okänt ansikte.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur stor andel av drömmarnas personer som faktiskt är okända.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför främlingen ändå bär något från ditt eget liv.

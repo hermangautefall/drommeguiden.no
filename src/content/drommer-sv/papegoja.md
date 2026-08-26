@@ -57,3 +57,8 @@ Du kan ha tagit över andras åsikter eller beteende utan att märka det.
 I många kulturer är papegojan en symbol för intelligens och kommunikation — men också för det ytliga och det inlärda. Psykologiskt sett kan papegojan representera de delar av oss som har internaliserat andras röster — något som också berörs i drömmar om [skola](/sv/drommar/skola/) — föräldrar, samhälle, auktoriteter — utan att ha gått igenom dem kritiskt.
 
 Drömmen kan bjuda in dig att fråga: vad är egentligen min egen röst?
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — personan som upprepar andras ord i stället för att finna sina egna.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sådana drömmar kommer när den egna rösten känns borta.

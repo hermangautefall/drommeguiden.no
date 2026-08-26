@@ -74,3 +74,9 @@ Drömmar om att förlora ett barn hör till de vanligaste drömmar föräldrar b
 I många kulturer är det tradition att inte berätta sådana drömmar högt — av rädsla för att de "kallar på" det de speglar. Det är ett förståeligt folkpsykologiskt skydd. Men drömforskningen stödjer inte sådana tolkningar.
 
 Det finns dock något djupt mänskligt i själva drömmens scen: föräldrar i alla kulturer i alla tider har drömt om att förlora det de håller kärast. Det är priset för att älska.
+
+## Källor och vidare läsning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — mardrömmar och hur psyket bearbetar den starkaste rädsla en människa kan bära.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — födelse och förlust som drömmotiv i den äldsta drömlitteraturen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att omsorgsansvar om dagen ger omsorgsrädsla på natten.

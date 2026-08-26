@@ -77,3 +77,9 @@ Att drömma om änglar handlar ofta allra mest om beskydd, tröst, uppmuntran oc
 Ordet "ängel" kommer från grekiska angelos, som helt enkelt betyder "budbärare". I drömmar kan ängeln därför representera ett budskap eller en insikt som är på väg till dig — värt att lägga märke till vad ängeln sade, gjorde, eller vilken känsla den lämnade efter sig. Ängeln kan också förstås som ditt eget samvete eller din bättre natur — den del av dig som vet vad som är rätt, och som vill beskydda och vägleda dig genom det som är svårt.
 
 Änglar finns inom judendom, kristendom och islam som mellanled mellan det mänskliga och det gudomliga, och liknande gestalter återfinns i många andra traditioner. Det gör ängelbilden till något som känns igen av väldigt många — även de som inte är troende. Sådana drömmar är särskilt vanliga i samband med sorg, och upplevs då ofta som en stilla tröst om att något — eller någon — är i frid. Se även drömmar om [Gud](/sv/drommar/gud/) eller [himlen](/sv/drommar/himmel/).
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — budbäraren och det numinösa: mötet med något som upplevs större än en själv.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — guda- och budbärardrömmar i antiken, långt före psykologin.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att drömmens religiösa bilder följer drömmarens egen bakgrund.

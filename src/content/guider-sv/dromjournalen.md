@@ -101,3 +101,9 @@ Dina drömmar är en resurs som redan finns i dig. Allt du behöver är en penna
 - [Återkommande drömmar — vad försöker hjärnan säga?](/sv/guider/aterkommande-drommar/)
 - [Vad är drömmar? Det vetenskapen faktiskt säger](/sv/guider/vad-ar-drommar/)
 - [Klardrömning — så tar du kontroll](/sv/guider/klardromning/)
+
+## Källor och vidare läsning
+
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömnens roll, och varför drömmarna försvinner så snabbt efter uppvaknandet.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — systematisk nedteckning av drömmar som metod, och vad mönster över tid faktiskt kan visa.
+- Carl Gustav Jung, *Mitt liv — minnen, drömmar, tankar* (1961) — Jungs egen praxis med att skriva ner och arbeta vidare med sina drömmar under år.

@@ -106,3 +106,9 @@ Mardrömmar kan kännas överväldigande i stunden, men de behöver inte styra d
 
 > 💡 **Läs även från sömnsektionen:** [Sömnproblem](/sv/somn/somnproblem/) · [PTSD och drömmar](/sv/somn/ptsd-drommar/)
 
+## Källor och vidare läsning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — huvudverket om mardrömmar som emotionell bearbetning.
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: mardrömmen som hjärnans övning inför fara.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömn och känsloreglering, och vad som händer när den störs.
+- 1177 Vårdguiden — [Sömnsvårigheter](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

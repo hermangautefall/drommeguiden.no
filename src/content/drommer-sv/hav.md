@@ -133,3 +133,9 @@ Havet ber dig se inåt — det bjuder in dig att dyka ner i det som
 ligger under vardagslivets yta.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — havet som bild för det omedvetna, med en yta som syns och ett djup som inte gör det.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta vatten och hav förekommer i drömmar.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att sjöns tillstånd speglar drömmarens eget känsloläge.

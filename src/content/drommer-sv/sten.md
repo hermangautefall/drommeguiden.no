@@ -89,3 +89,9 @@ I shintotraditionen i Japan är *iwakura* — gudastenar — platser där *kami*
 I alkymistisk och senare jungiansk tradition är *lapis philosophorum* — "filosofernas sten" — själva målet för transformationsprocessen. Den representerar det varaktiga, det integrerade, det autentiska självet. Jung såg denna sten som arketypen för den mogna, samlade individen. Drömmens sten kan i denna läsning vara en bild av något i dig som tålt prövningen, blivit fast, och nu är äkta.
 
 Den franske filosofen Gaston Bachelard skrev om "stenens dröm" som arketypisk för det motsidiga — det som motstår förändring och därmed ger människan något att mäta sin egen flyktighet mot. Drömmens sten är på detta sätt alltid också en spegling: du är den som är i rörelse; stenen är den som består.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — stenen som en av alkemins och psykets äldsta bilder för det oföränderliga i en själv.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — sten och fast mark som drömmotiv i antiken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför tyngden i drömmen ofta är en tyngd du bär.

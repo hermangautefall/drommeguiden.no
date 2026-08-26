@@ -68,3 +68,8 @@ Inom anknytningsteorin beskrivs modern ofta som mallen för vår tidigaste upple
 Modersgestalten bär ofta på en spänning mellan det närande och det kontrollerande — den som ger trygghet, men som också kan kännas gränssättande eller till och med kvävande. Denna ambivalens återkommer i flera myter, bland annat berättelsen om Demeter och Persefone, och kan dyka upp i drömmar som både varma och oroande bilder av samma person.
 
 Mor kan också representera något inom dig själv: din egen förmåga att ta hand om dig, eller ett otillgodosett behov av omsorg du bär med dig. Och över kulturgränser hittar vi modersgudinnor som Demeter, Isis och Gaia — gestalter knutna till jord, fruktbarhet och ursprung, som en spegel av varifrån vi alla kommer.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — modersarketypen, ett av de mest grundläggande bilderna i psyket.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vilka familjemedlemmar som faktiskt uppträder i drömmar.

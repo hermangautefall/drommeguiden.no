@@ -74,3 +74,9 @@ Jungs perspektiv är mer nyanserat och mer relevant för de flesta: det sexuella
 I de flesta kulturer har sexuella drömmar tolkats som tecken på fruktbarhet, kreativitet och livskraft — inte som skambelagda uttryck för omedvetna lystnader. Det fornnordiska begreppet "sejd" inkluderade erotiska visioner som en del av ett utvidgat medvetande.
 
 > 💡 **Läs också:** [Sömnfaser och REM-sömn](/sv/somn/somnfaser/) — om varför REM-sömnen är där de mest kroppsliga drömmarna hör hemma.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — sexualitetens plats i drömtydningen, och varför Freuds läsning både är utgångspunkten och det mest omstridda.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — föreningen av motsatser: det sexuella som bild för inre integration.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur stor andel av drömmar som faktiskt har sexuellt innehåll.

@@ -82,3 +82,9 @@ I flera mytologier vaktar hundar gränsen mellan världar: den grekiska Cerberus
 Det som ofta säger mest i en hunddröm är hur hunden beter sig. En vänlig, lekfull hund kan peka mot ett stödjande förhållande, eller mot att du har en god relation till dina egna behov och instinkter. En aggressiv eller morrande hund kan tolkas som en konflikt, ett brutet förtroende, eller din egen "vakthunds"-instinkt som slår till. En bortsprungen eller övergiven hund kan påminna om ett förhållande — till andra eller till dig själv — som blivit försummat och behöver uppmärksamhet.
 
 ---
+
+## Källor och vidare läsning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vilka djur som faktiskt uppträder i drömmar, och hur ofta.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — hunden mellan lojalitet och vakthundsinstinkt: närhet och försvar i samma djur.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför hundens beteende i drömmen säger mest.

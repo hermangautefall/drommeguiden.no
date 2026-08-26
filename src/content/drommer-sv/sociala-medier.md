@@ -61,3 +61,8 @@ Ibland handlar drömmens sociala medier inte om det som visas, utan om det som i
 Sociala medier som drömsymbol är ännu nyare än [internet](/sv/drommar/internett/) generellt — och växer snabbt. Det är förenligt med det vi vet om hur drömmarna speglar vardagslivets starkaste symboler: där telefonen och TV:n dominerade förra generationens drömmar, dominerar Instagram och TikTok nu.
 
 Det fascinerande är att sociala mediers djupaste psykologiska mekanismer — bekräftelse, jämförelse, identitetsprojektion — inte är nya. De är uråldriga mänskliga behov klädda i ny teknologisk skrud. Drömmens sociala medier är därmed en modern arketyp.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — personan: masken vi visar omvärlden, nu i digital form.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att skärmen i drömmen speglar hur mycket plats den tar om dagen.

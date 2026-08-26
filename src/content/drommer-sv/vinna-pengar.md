@@ -57,3 +57,9 @@ Drömmarna kompenserar för det vi saknar i det vakna livet. I perioder av trän
 I många kulturer är drömmens pengar ett specifikt varsel — ett gott omen om kommande lycka. I kinesisk drömforskning är pengar generellt en positiv symbol. I islamisk drömforskning kan pengar symbolisera en gåva från Gud.
 
 Freud tolkade pengar — naturligt nog — som en anal symbol. Jung var mer intresserad av vad guldet representerar: transformation, det värdefulla, det som håller värde genom tiden. Drömmens pengavinst är då kontakten med något verkligt värdefullt i tillvaron — inte nödvändigtvis monetärt.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — önskeuppfyllelsen i sin mest bokstavliga form.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — rikedom och plötslig tur som drömmotiv i antiken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att vinsten i drömmen ofta handlar om frihet, inte om pengar.

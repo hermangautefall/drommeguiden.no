@@ -83,3 +83,9 @@ Det kan också vara värt att fråga sig vad exet egentligen *representerar* fö
 Hjärnforskaren Matthew Walker har beskrivit REM-sömn som en form av "nattlig terapi": hjärnan besöker emotionellt laddade minnen på nytt för att dämpa intensiteten i dem över tid. Gamla relationer är ofta just sådana laddade minnen, och kan därför dyka upp igen — särskilt i perioder av stress, eller när du går in i en ny relation som väcker gamla anknytningsmönster.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — anima och animus: exet som bärare av egenskaper du själv rymmer.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför exdrömmar kommer i vågor snarare än jämnt fördelat.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömnen som en slags nattlig bearbetning av känsloladdade minnen.

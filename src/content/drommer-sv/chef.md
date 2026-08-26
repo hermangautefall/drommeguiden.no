@@ -64,3 +64,8 @@ Chefen i drömmar kan stå för vem som helst som har — eller upplevs ha — m
 För många handlar detta lika mycket om kontroll och självständighet som om jobbet. Att drömma att chefen bestämmer över dig kan tolkas som en signal om att du önskar mer rådighet över din egen tid och dina egna val — eller att du, under en period, har gett ifrån dig mer kontroll än du egentligen är bekväm med.
 
 Chefen kan också spegla din egen ambition och förhållande till framgång. Vad betyder det för dig att bli sedd som tillräckligt bra? Många känner en smygande bedragarkänsla inför en chefsfigur i drömmen — en rädsla för att någon snart ska "avslöja" att man inte räcker till. Andra upplever att chefen i drömmen egentligen är en projektion av deras eget inre driv: den del av dig som organiserar, pressar och sätter standarder. Om den inre rösten ofta är hård kan drömmen vara en påminnelse om att visa dig själv lite av den vänlighet du gärna ger andra.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — auktoritetsfiguren i drömmen som bärare av både yttre krav och den inre kritikern.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför arbetsdrömmar är så vanliga i en kultur där jobbet präglar identiteten.

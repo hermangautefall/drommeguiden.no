@@ -76,3 +76,8 @@ Att gå vilse är en av de äldsta mänskliga symbolerna för existentiell förv
 Jung beskrev en av livets viktigaste processer som "individuation" — att finna sin egen väg i stället för att följa andras. Drömmar om att gå vilse är, i detta perspektiv, inte bara ångestdrömmar — de är drömmar om själva projektet att bli sig själv. Att vara vilse är inte fel. Det är startpunkten för orienteringen. Läs mer om [återkommande drömmar](/sv/guider/aterkommande-drommar/) om denna dröm kommer tillbaka gång efter gång.
 
 Intressant nog är dessa drömmar särskilt vanliga i medelåldern — en period många kulturer erkänner som en naturlig tidpunkt att gå vilse och finna sig själv på nytt.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — att gå vilse som stadium i individuationen: där kartan slutar stämma börjar arbetet.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sådana drömmar kommer när riktningen i livet är oklar.

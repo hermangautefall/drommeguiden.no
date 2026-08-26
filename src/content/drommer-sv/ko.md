@@ -58,3 +58,9 @@ Du tar aktivt till dig det som finns tillgängligt — du skördar från det som
 Den nordiska urdjurskon Auðumbla är en av de mest säregna bilderna i nordisk kosmologi — hon stod i kaosens is och slickade fram gudarna ur isen medan hon gav mjölk för att nära jätten Ymer. Kon finns där från begynnelsen, hon ger näring till det som blir till. I nordisk tradition är kon inte ett banalt husdjur — hon är skapelsens första moder.
 
 Jung skulle ha sett kon som en manifestation av "Den stora modern" i sin mest närande och jordnära form — lugn, fruktbar och ostoppbar i sin generositet. Se också [får](/sv/drommar/sau/) för en annan mild husdjurssymbol.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — husdjur och välstånd som drömmotiv i ett samhälle där boskapen var förmögenheten.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det närande och moderliga som grundbild, med kon som ett av de äldsta uttrycken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför lugnet hos kon ofta är det lugn drömmaren saknar.

@@ -116,3 +116,9 @@ stämmer bäst beror ofta på hur ormen uppträdde i din dröm — och vilken
 känsla den väckte.
 
 ---
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — ormen i den psykoanalytiska läsningen, och varför just den blivit så omdiskuterad.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — ormen som bild för förvandling och för det som rör sig under medvetandets tröskel.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför ormens beteende i drömmen säger mest.

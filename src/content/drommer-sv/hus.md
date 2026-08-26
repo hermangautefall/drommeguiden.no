@@ -80,3 +80,8 @@ Husets skick i drömmen säger ofta något om din livssituation just nu. Förfal
 Huset är också nära knutet till trygghet, tillhörighet och identitet — skillnaden mellan fasaden vi visar utåt och det privata rummet innanför. Filosofen Gaston Bachelard skrev om huset som "vårt innersta varas geografi", där barndomshemmet lägger grunden för hur vi senare drömmer om rum och hem.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — huset som bild för psyket självt: källaren, vinden och rummen däremellan svarar mot olika lager i en själv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför husets skick följer drömmarens egen livssituation.

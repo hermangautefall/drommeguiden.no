@@ -124,3 +124,8 @@ Relaterat: [mardrömmar](/sv/guider/mardrom/) — [sömnförlamning](/sv/guider/
 
 > 💡 **Läs även från sömnsektionen:** [Sömnproblem](/sv/somn/somnproblem/)
 
+## Källor och vidare läsning
+
+- Matthew Walker, *Why We Sleep* (2017) — sömnfaserna, och varför nattskräck hör hemma i djup NREM-sömn och inte i drömsömnen.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — skillnaden mellan mardrömmar och de tillstånd som bara ser ut som mardrömmar utifrån.
+- 1177 Vårdguiden — [Sömnsvårigheter](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

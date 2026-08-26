@@ -73,3 +73,8 @@ Fötterna är grunden du står på — det som gör dig jordad och stabil. "Att 
 Fötterna bär dig också framåt — de handlar om riktning och rörelse. En dröm om att gå kan handla om vart du är på [väg](/sv/drommar/vag/), om du rör dig mot något du önskar, eller om du över huvud taget upplever framsteg. Att vara fastlåst, eller att inte komma framåt oavsett hur mycket du går, kan spegla en period där något i livet känns stillastående.
 
 Samtidigt handlar fötter om frihet och självständighet — förmågan att gå din egen väg utan att vara beroende av andra. Skadade eller bundna fötter kan därför spegla en begränsad frihet, eller en känsla av att hållas tillbaka. Fötterna har också en plats som symbol för ödmjukhet i många traditioner — fottvätt som tecken på omsorg och tjänande finns i flera kulturer — och den kända påminnelsen om att även den längsta resan börjar med ett steg gäller lika mycket i drömmarnas värld som i vaket tillstånd.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppsdelarna i drömmen, och fötterna kopplade till framdrift och självständighet.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att fötternas skick följer upplevt fotfäste i livet.

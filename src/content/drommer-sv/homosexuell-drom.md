@@ -67,3 +67,9 @@ Sexuella drömmar om det egna könet är vanliga, oavsett vem man dras till i va
 Det är intressant att många icke-västerländska kulturer och urfolkstraditioner — inklusive fornnordisk shamanism — har haft utrymme för "två-andar" och könsrelaterad flexibilitet i visionära tillstånd. Det visionära eller drömmande jaget är gärna mer flytande än det socialt konstruerade.
 
 Modern drömforskning är entydig: denna typ av dröm är inte diagnostisk för sexuell läggning. Det är ett bildspråk bland många för psykets rörelse mot integration och självacceptans.
+
+## Källor och vidare läsning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — innehållsanalyser av stora drömsamlingar, och hur sammansatt drömmarnas sexuella innehåll är.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — anima och animus: integrationen av maskulina och feminina sidor i psyket.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför känslan i drömmen säger mer än handlingen.

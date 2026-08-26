@@ -83,3 +83,9 @@ Hur vargen beter sig i drömmen är ofta avgörande för tolkningen. En hotfull 
 Vargen har också två mycket olika ansikten i berättartraditionen. I sagan om Rödluvan är den förklädnaden och faran — "vargen i fårakläder" som lurar den ovetande. Men i legenden om Rom var det en varghona som ammade och räddade grundarna Romulus och Remus, och blev själva symbolen för beskydd och ursprung. Kanske handlar drömmen om var du själv står mellan dessa två bilder — om du just nu upplever vargen som ett hot, eller som något som tar hand om dig.
 
 ---
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — vargen mellan flock och ensamhet: lojalitet och utanförskap i samma djur.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför vargens roll i drömmen speglar din egen.
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: rovdjuret som en av de äldsta hotbilderna.

@@ -72,3 +72,9 @@ Sexuella drömmar om kollegor är betydligt vanligare än de flesta tror, och de
 Jung skulle ha sett kollegan som en skugg-figur eller en animafigur — en externalisering av en egenskap psyket önskar integrera. Det sexuella mötet är föreningen av två sidor — inte två kroppar.
 
 Ingen kulturell tradition tolkar sådana drömmar som förebud om faktiska händelser eller önskningar. De förstås genomgående som bearbetningsdrömmar knutna till social och hierarkisk tillhörighet.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — sexualitetens plats i drömtydningen, och varför drömmen klär andra behov i den formen.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — projektionen: kollegan som bärare av egenskaper du själv sträcker dig efter.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur stor andel av drömmar som har sexuellt innehåll.

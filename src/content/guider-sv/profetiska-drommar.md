@@ -79,3 +79,10 @@ Profetiska drömmar är ett verkligt fenomen i den meningen att väldigt många 
 Det som är säkert är att dessa drömmar förtjänar att tas på allvar — inte som varsel att frukta, utan som signaler att undersöka. Börja med att skriva ner dem, och se vad mönstren avslöjar över tid.
 
 Relaterat: [klardrömning](/sv/guider/klardromning/) — [drömjournalen](/sv/guider/dromjournalen/) — [återkommande drömmar](/sv/guider/aterkommande-drommar/)
+
+## Källor och vidare läsning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför drömmar som ser ut som förebud oftast speglar något du redan visste.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — drömmens kompenserande funktion, som förklarar upplevelsen av att bli «berättad» något.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — den äldsta bevarade systematiska drömboken, och själva ursprunget till det profetiska läsesättet.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — hur vanliga de flesta drömmotiv är, och vad det betyder för sannolikheten att träffa rätt.

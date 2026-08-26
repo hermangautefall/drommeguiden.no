@@ -63,3 +63,9 @@ Rosen är den västerländska kulturkretsens främsta kärlekssymbol — Afrodit
 I fornnordisk tradition är det blomman — varken rosen specifikt eller blommor i allmänhet — som är förbunden med Freja och kärlekens kraft. Men rosens dubbelnatur av skönhet och törnen speglas i den fornnordiska bilden av livet självt: det goda är aldrig gratis, och det som är värt att ha är värt att kämpa för.
 
 Freud tolkade rosen sexuellt — som varje blomma. Jung såg den som en av de arketypiska bilderna för mandalans helhet: rosen som blomstrar i centrum är Självet som realiseras.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — rosen som mandalaliknande bild för självet: skönhet med taggar, helhet med försvar.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — blommor som drömmotiv i antiken, lästa utifrån skick och färg.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför rosens skick följer drömmarens eget.

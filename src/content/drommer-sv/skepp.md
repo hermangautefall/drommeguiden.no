@@ -61,3 +61,9 @@ Något drar bort från dig — en möjlighet, en fas, en relation du inte är me
 För nordbor är skeppet inte en främmande symbol — det är identitetens kärna. Vikingatidens skepp var teknologins underverk och rörelsefrihetens instrument. Skeppet som korsar en [bro](/sv/drommar/bro/) är en särskilt kraftfull bild. Det fornnordiska begreppet "långskepp" är inte bara ett fartyg — det är ett löfte om horisont.
 
 Jung beskrev skeppet som ett av de arketypiska fartygen för själsresan — det som bär medvetandet över omedvetna farvatten. Att drömma om ett skepp är att drömma om att hålla sig flytande i det djupaste av allt.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — farkosten som bär dig över djupet: en av de äldsta bilderna för livsresan.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — sjöresor som drömmotiv, lästa utifrån sjöns tillstånd.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför det spelar roll vem som styr.

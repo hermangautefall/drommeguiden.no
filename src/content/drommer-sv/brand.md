@@ -84,3 +84,9 @@ Att släcka eld kan tolkas som att du tar kontroll över en svår situation. Det
 Eld kan också tolkas som en bild för intensiv känsla — lidelse, begär, ilska eller kreativ energi som "brinner" i dig. Ibland handlar det om motsatsen: en känsla av att vara "utbränd", av att ha blivit förtärd av något som krävde för mycket. I grekisk mytologi stals elden från gudarna av Prometheus och gavs till människorna — en bild för kunskap, framsteg och att våga ta sig över en gräns.
 
 En okontrollerad brand i drömmen kan tolkas som rädsla för att förlora något, eller en situation som har kommit "ur kontroll". Samtidigt har elden en helt annan sida i brasan eller härden — där den representerar värme, hem och samvaro. Hur elden upplevs i drömmen säger ofta mycket om vilken av dessa betydelser som är mest relevant för dig.
+
+## Källor och vidare läsning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger förändring och rädsla de starkaste bilder det har.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — elden som förvandlingens arketyp: den förstör och renar i samma rörelse.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför eldens storlek följer trycket i vaket tillstånd.

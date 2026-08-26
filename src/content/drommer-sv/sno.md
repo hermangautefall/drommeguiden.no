@@ -74,3 +74,8 @@ Snö bär ofta på två sidor i drömspråket. Den ena sidan är lugn, frid och 
 Nysnö som täcker allt kan tolkas som ett blankt blad — en möjlighet att börja om, eller en bild av något som håller på att täckas över eller döljas. Snö och vinter kan också tolkas som en vilofas, en mark i träda där något ligger och väntar på rätt tillfälle att växa igen — precis som frön vilar under snön och väntar på våren.
 
 För många är snö också nära förknippat med minnen och barndom — förundran inför den första snön, ljudet av den tystnad den skapar. Sådana drömmar kan helt enkelt tolkas som nostalgi, en längtan tillbaka till en enklare tid.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det vita och orörda som bild för stillhet, men också för det som lagts på is.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att snöns karaktär i drömmen följer den egna sinnesstämningen.

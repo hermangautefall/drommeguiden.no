@@ -76,3 +76,9 @@ Andra gånger kan bilden av att skiljas spegla en inre splittring — två delar
 Till sist kan det att gå skilda vägar i en dröm också tolkas som något friskt: ett tecken på att du är på väg att hitta din egen riktning, stå lite mer på egna ben, eller dra en tydligare gräns mellan vad som är ditt och vad som hör till andra. Sådana drömmar är sällan ett varningstecken — de är oftast sinnets stilla bearbetning av förändring.
 
 > 💡 **Läs också:** [Ångest och sömn](/sv/somn/angest-somn/) — om hur oro och sömn förstärker varandra i tunga perioder.
+
+## Källor och vidare läsning
+
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — hennes forskning tyder på att drömmar om den man lämnat hör till bearbetningen av uppbrottet.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger de tyngsta känslorna de starkaste bilderna.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att uppbrottet i drömmen ofta kommer före uppbrottet i livet.

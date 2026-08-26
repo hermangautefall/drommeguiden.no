@@ -80,3 +80,8 @@ Regn kan tolkas som en känslomässig utlösning i bildform — tårar som äntl
 Stämningen i drömmen säger mycket om tolkningen. Regn kan kännas vemodigt och tungt, men det kan också vara förknippat med en skön känsla av mys och trygghet — att se regnet falla utanför medan du själv sitter varm och trygg inomhus.
 
 ---
+
+## Källor och vidare läsning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket låter känslor som behöver falla ta form av väder.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömn och känsloreglering, och varför drömmens stämning sitter kvar efter uppvaknandet.

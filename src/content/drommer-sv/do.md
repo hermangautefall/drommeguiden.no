@@ -80,3 +80,9 @@ Det är värt att säga tydligt: att drömma om sin egen död varslar nästan al
 För många hänger dödsdrömmar samman med en stor övergång: en separation, ett jobbyte, en flytt, eller en inre förändring som håller på att ske. Döden är det yttersta okända, och drömmen kan därför bära med sig en oro för att förlora kontrollen, eller för att inte veta vad som väntar på andra sidan av förändringen.
 
 Motivet död och återfödelse återkommer i kulturer över hela världen — från invigningsriter där den gamla identiteten symboliskt dör, till Döden-kortet i tarot, som traditionellt tolkas som omvälvning och nybörjan snarare än bokstavlig död. Ibland kan en fridfull dödsdröm till och med tolkas som en form av acceptans: ett tecken på att du är redo att släppa taget om något och gå vidare.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — individuationen, där gamla identiteter symboliskt måste dö för att nya ska växa fram.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: drömmar som speglar pågående övergångar, inte kommande händelser.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — mardrömmar och hur psyket bearbetar starka känslor genom drömbilder.

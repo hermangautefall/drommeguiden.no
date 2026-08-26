@@ -58,3 +58,8 @@ Frihet, energi och rörelseglädje. Du är i flöde. Se även [ryggen](/sv/dromm
 Ben som symbol för grund är universell — från att "stå med båda fötterna på jorden" till uttrycket "ta benen på nacken". Att stå, gå och springa är bland de mest grundläggande mänskliga handlingarna, och i drömmarna är de tätt knutna till psykologisk frihet och styrka.
 
 Jung skulle se starka ben som en symbol för en välutvecklad förmåga att navigera världen — ett Ego som är tryggt förankrat och kan röra sig med självförtroende. Drömmar om [händer](/sv/drommar/hander/) handlar däremot om handling och förmågan att gripa världen.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppsdelarna som drömmotiv, och benen kopplade till att stå och att bära.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför benens styrka i drömmen följer upplevt fotfäste.

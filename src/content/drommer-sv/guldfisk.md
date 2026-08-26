@@ -62,3 +62,8 @@ Guldfisken lever i en liten, avgränsad värld — bowlen är hela dess universu
 I kinesisk kultur är guldfisken däremot ett av de mest positiva symbolerna som finns — ordet för fisk har en klang som förknippas med överflöd och tur, och guldfisken tolkas ofta som ett hoppfullt tecken på välstånd som är på väg.
 
 Som ett husdjur som är helt beroende av sin ägare kan guldfisken också tolkas som en bild för omsorg och ansvar — något ömtåligt som lagts i din vård. Och i sagan om fiskaren och guldfisken finns en annan välkänd visdom: önskningar, längtan och girighet hänger nära samman, och frågan om vad som egentligen ger tillfredsställelse är väl värd att ställa sig själv.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det instängda: något vackert som lever innanför gränser det inte har valt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför skålens storlek i drömmen speglar ditt eget spelrum.

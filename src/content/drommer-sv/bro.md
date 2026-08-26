@@ -68,3 +68,8 @@ En bro i drömmen kan tolkas som att korsa från en fas eller ett tillstånd til
 Hur korsningen känns kan säga något om var du står i denna övergång. Att gå tryggt över bron tolkas ofta som att du är redo för förändringen, medan att tveka, eller drömma om en bro som vacklar eller är trasig, kan peka mot osäkerhet om det är säkert att gå vidare just nu. Det som finns under bron kan också vara värt att lägga märke till — vatten under bron förknippas ofta med känslor, medan ett stup kan handla om risk. När man säger att någon "bygger broar" handlar det ofta om att reparera en relation eller förena delar av livet som vuxit isär.
 
 Genom olika kulturer har broar setts som förbindelser mellan världar — i zoroastrisk tradition korsar själen Chinvat-bron efter döden, och regnbågen har ofta tolkats som en bro mellan himmel och jord. Sådana bilder kan påminna om att en bro i drömmen lika gärna kan handla om en andlig eller inre övergång som en praktisk en, och att [havet](/sv/drommar/hav/) eller vattnet den korsar ofta säger lika mycket som bron själv.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — övergången mellan två tillstånd som centralt motiv i individuationsprocessen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför brodrömmar kommer i perioder med stora val.

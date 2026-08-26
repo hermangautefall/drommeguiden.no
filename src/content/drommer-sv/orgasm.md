@@ -74,3 +74,9 @@ Freud tolkade alla drömmar med sexuell urladdning som uttryck för undertryckta
 Fornnordisk mytologi har en intressant parallell: Freja — gudinnan för kärlek, fruktbarhet och krigisk kraft — räknas som förbindelsen mellan erotisk glädje och skaparkraft. Orgastisk energi var inte skambelagd, utan sågs som livsbejakande och kreativ.
 
 > 💡 **Läs också:** [Sömnfaser och REM-sömn](/sv/somn/somnfaser/) — om vad som händer i kroppen under REM-sömnen.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — spänningen och urladdningen som grundfigur i den psykoanalytiska läsningen av drömmar.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — föreningen av motsatser, där urladdningen är bilden för att något faller på plats.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur stor andel av drömmar som har sexuellt innehåll.

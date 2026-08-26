@@ -70,3 +70,9 @@ Underlivet som symboliskt centrum är ett av människokulturens äldsta teman. S
 I fornnordisk tradition hade Freja — gudinnan för kärlek, fruktbarhet och krigarkraft — centrum för all skapande energi i det feminina. Det var inte skamligt, utan heligt. Hennes kunskap inkluderade sejd — magisk praktik knuten till kropp och instinkt.
 
 Freud placerade det mesta av psykelivet i sexualiteten. Jung utvidgade detta: det primära är inte sexuellt, utan vitalt — det är livskraften själv som bor här, och sexualiteten är ett av dess uttryck.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — sexualitetens plats i drömtydningen, och kroppens språk för begär och skam.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppsdelarna i drömmen, också de man inte talade högt om.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det skapande: underlivet som bild för frambringande, inte bara för lust.

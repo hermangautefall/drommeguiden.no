@@ -88,3 +88,9 @@ Ett bröllop i drömmen kan tolkas som en bild av att två sidor av dig själv m
 Bröllop är också en av mänsklighetens mest universella övergångar — en tröskel mellan det som varit och det som kommer, markerad med ritualer i nästan alla kulturer. Att binda sig till något, vare sig det är en person, en väg eller ett val, är sällan en liten sak, och drömmen kan bära med sig allt det som hör till: glädjen, men också tyngden av åtagandet.
 
 Om bröllopet i drömmen känns stressigt, eller går fel på olika sätt, kan det snarare spegla ambivalens — en oro inför en stor förändring, eller press och förväntningar du känner av, från dig själv eller andra. Frågan drömmen kan ställa är ofta ganska enkel: är du redo för det som kommer?
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — föreningen av motsatser som inre bild, inte bara som ceremoni.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — äktenskap och social status som drömmotiv i antiken.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför bröllopsdrömmar kommer i perioder med stora val.

@@ -64,3 +64,8 @@ En stark upplevelse av att vara fastlåst och oförmögen att röra sig.
 För nordbor är is ingen exotisk symbol — det är en del av vardagen större delen av året. Is kan också förknippas med [snö](/sv/drommar/sno/) och det frusna [havet](/sv/drommar/hav/). Is på vägarna, is på sjön, isen som bär eller sviker. Isens symbolik är djupt förankrad i nordisk erfarenhet: vi vet vad det innebär att isen bär, och vi vet vad det innebär att den ger efter.
 
 I fornnordisk kosmologi är Niflheim — isens och köldens rike — ett av de två urkällorna till existensen, i motsats till Muspelheims [eld](/sv/drommar/eld/). Frost och is är inte bara negativt — det är hälften av skapelsens råmaterial.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det frusna som bild för känslor som lagts på is snarare än försvunnit.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att isens tjocklek speglar hur trygg marken känns.

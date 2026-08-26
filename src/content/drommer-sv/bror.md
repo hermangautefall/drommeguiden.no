@@ -81,3 +81,9 @@ En bror i drömmen representerar ofta en del av dig själv — en sorts "skuggbr
 Syskonrelationen rymmer ofta båda ytterligheterna samtidigt — rivalitet och djup lojalitet. Drömmen om brodern kan handla om konkurrens, jämförelse eller en gammal spänning som aldrig blev utredd. Men den kan lika gärna handla om brödraskapets band: den som står vid din sida, den du kan lita på även när allt annat sviker. Vilken av dessa känslor var starkast i drömmen säger ofta något om var du står i relationen just nu.
 
 För många — oavsett kön — kan brodern också spegla maskulina sidor av en själv: handlingskraft, mod, eller en alternativ väg du kunde ha tagit. Och oavsett vad drömmen handlar om kan den också helt enkelt vara en bearbetning av den verkliga relationen till honom — något ouppklarat, eller något gott, som ber om lite uppmärksamhet. Se även drömmar om [syster](/sv/drommar/syster/) eller [pappa](/sv/drommar/pappa/).
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — speglingen och rivaliteten: brodern som både allierad och motstycke.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på vilka familjemedlemmar som faktiskt uppträder i drömmar.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför syskondrömmar bär barndomens mönster.

@@ -79,3 +79,8 @@ En dörr i drömmen kan tolkas som en tröskel, ett val eller en övergång. En 
 Det som finns bakom dörren är ofta det mest intressanta: det okända, en förväntan, eller något dolt inom dig själv som ännu inte fått komma till uttryck. Genom olika kulturer har dörrar och trösklar setts som laddade, skyddade övergångsplatser — i romersk mytologi vaktar guden Janus alla portar och dörrar, med blicken vänd både bakåt och framåt, som en bild av att varje övergång knyter samman ett före och ett efter.
 
 I sagotraditionen är den förbjudna dörren ett välkänt motiv — den man aldrig ska öppna, och som hjälten naturligtvis öppnar likväl. Det är ofta där berättelsen egentligen börjar, och kanske är det något liknande din dröm pekar mot: att det är på andra sidan dörren något nytt kan ta sin början.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — tröskeln mellan två tillstånd, en av de mest använda bilderna för övergång.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att en öppen eller stängd dörr speglar hur valet känns i vaket tillstånd.

@@ -92,3 +92,9 @@ Den nobelprisvinnande psykologen Daniel Kahneman har visat hur systematiskt hjä
 Modern traumaforskning, särskilt arbetet av Bessel van der Kolk, visar att obearbetat trauma ofta återuppstår i drömmar som upprepade olycksscener. Om olycksdrömmarna är mycket frekventa eller knutna till en specifik händelse i ditt liv, kan det vara en signal om att något behöver bearbetning. Drömmar ensamma löser inte trauma; det är ett budskap, inte en behandling.
 
 Jung såg olyckor i drömmar som scener där det medvetna "krockar" med det omedvetna — där något psyket undertrycker till sist bryter igenom. Det är inte nödvändigtvis en katastrof — det kan också vara början på en större inre helhet. Drömmens olycka är då en gränsmarkör: något gammalt avslutas på ett plötsligt sätt, så att något nytt kan börja.
+
+## Källor och vidare läsning
+
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: olyckan som hjärnans övning inför det okontrollerbara.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — ångestdrömmar och hur psyket bearbetar rädsla för kontrollförlust.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför olycksdrömmar kommer i perioder av oro.

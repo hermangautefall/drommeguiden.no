@@ -65,3 +65,9 @@ Utanförskap eller ett valt avstånd från något socialt.
 Alkohol har en komplex plats i den nordiska kulturen — å ena sidan en stark dryckestradition, å andra sidan en lika stark nykterhetskultur. Denna ambivalens gör alkoholdrömmarna extra laddade för många: begär och skuld kan existera sida vid sida.
 
 Psykologiskt sett är alkohol i drömmarna knuten till Dionysos — den grekiske guden för extatisk frigörelse, det irrationella och det som bryter med det ordnade. Drömmen bjuder in dig att undersöka: vad behöver du släppa lite på? Läs mer om [vad drömmar egentligen är](/sv/guider/vad-ar-drommar/) för att förstå det omedvetnas språk bättre.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — hämningarna som släpper, och drömmen som arena för det man annars håller tillbaka.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket bearbetar skam och kontrollförlust genom drömbilder.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför alkoholdrömmar speglar ditt förhållande till kontroll.

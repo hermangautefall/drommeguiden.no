@@ -60,3 +60,9 @@ Munnen är platsen där ord blir till — och drömmar om munnen handlar ofta om
 Det som faktiskt kommer ut ur munnen i drömmen är också värt att lägga märke till — var orden sanna, hårda, vänliga, eller falska? Drömmar speglar ofta hur vi förhåller oss till sanning och ärlighet i vår kommunikation, både med andra och med oss själva.
 
 Munnen är samtidigt en ingång — det är här vi tar in mat, men också idéer, intryck och påverkan utifrån. En dröm om munnen kan därför handla om aptit i bred mening: vad du har lust på, vad du låter dig påverkas av, eller vad du kanske borde vara mer kritisk till att "svälja". Mundrömmar överlappar ofta med tanddrömmar, och kan båda handla om oro för utseende, kommunikation eller kontroll.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — kroppsdelarna i drömmen, och munnen kopplad till tal och till det man tar in.
+- Sigmund Freud, *Drömtydning* (1900) — den orala fasen och munnens plats i den psykoanalytiska läsningen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att det osagda i drömmen ofta är osagt också om dagen.

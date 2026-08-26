@@ -80,3 +80,8 @@ Det är värt att komma ihåg att bilen är en ganska ung symbol i drömmarnas h
 Ofta är det bilens skick och fart som ger nyckeln till tolkningen. Vild körning kan handla om en situation som kommit ur kontroll, medan en bil som plötsligt stannar kan spegla en känsla av att sitta fast eller stå still i livet. En kollision kan tolkas som rädsla för en konflikt som är på väg att närma sig — något du kanske har anat, men inte riktigt sett klart. Att drömma om en [bil utan bromsar](/sv/drommar/bil-utan-bromsar/) hör till samma familj av drömmar, där känslan av att inte kunna stoppa står helt i centrum.
 
 ---
+
+## Källor och vidare läsning
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför bilen handlar om riktning och kontroll snarare än om trafik.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta transportmedel förekommer i drömmar.

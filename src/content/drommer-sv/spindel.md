@@ -91,3 +91,9 @@ Samtidigt är spindlar en av de absolut vanligaste fobierna, och många spindeld
 I vissa psykologiska tolkningar kopplas spindeln också till en mäktig — och möjligen kontrollerande — modersfigur, eftersom hon både skapar och fångar på samma gång. Men spindeln kan också helt enkelt representera tålamod och hantverk: hon bygger långsamt och noggrant, och väntar. Ett nät som tar tid att väva, men som håller.
 
 ---
+
+## Källor och vidare läsning
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur ofta insekter och spindlar förekommer i drömmar.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — nätet som bild för det man sitter fast i, och för det man själv har vävt.
+- Antti Revonsuo, «The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming», *Behavioral and Brain Sciences* 23(6), 2000 — threat simulation-teorin: småkryp som en av de äldsta och mest kroppsliga hotbilderna.

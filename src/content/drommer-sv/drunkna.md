@@ -82,3 +82,9 @@ Sådana drömmar är ofta intensiva, med en stark känsla av panik och kroppens 
 I många kulturer finns även en äldre tanke om att gå under vatten handlar om mer än bara fara. Nedsänkning förknippas ofta med rening och övergång — att gå under och sedan komma upp igen, gärna lite förändrad. På så sätt kan en drunkningsdröm, även om den känns dramatisk, lika gärna tolkas som början på något nytt som bara en varning — ungefär som drömmar om att [falla](/sv/drommar/falla/) ofta handlar om en övergång man redan är mitt i.
 
 ---
+
+## Källor och vidare läsning
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — hur psyket ger överväldigande känslor sin mest kroppsliga bild.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att vattnet sällan handlar om vatten.
+- Matthew Walker, *Why We Sleep* (2017) — REM-sömn och känsloreglering, och vad som händer när den störs.

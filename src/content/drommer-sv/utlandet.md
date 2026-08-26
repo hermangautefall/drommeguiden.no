@@ -60,3 +60,8 @@ Drömmens klassiska logik — något bekant presenteras som okänt för att peka
 I jungiansk förståelse representerar det främmande landet gärna Skuggans territorium eller det omedvetna — en plats där de vanliga reglerna inte gäller och där det undertryckta kan visa sig. Att resa dit i drömmen är att öppna sig för nya inre erfarenheter.
 
 För nordbor har utlandet historiskt representerat något lockande och lite skrämmande på samma gång — det moderna, det kosmopolitiska, det som är annorlunda än det trygga hemma. Denna ambivalens kan färga drömmens utland med både spänning och mild ångest.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — resan ut ur det invanda som bild för individuationen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför sådana drömmar kommer när livet känns för trångt.

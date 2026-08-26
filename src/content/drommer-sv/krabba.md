@@ -79,3 +79,8 @@ Krabbans hårda skal och starka klor kan i drömmar tolkas som bilder för själ
 Krabbans sidledes gång är ett annat välkänt drag — den närmar sig sällan något rakt på, utan rör sig snett och indirekt. I drömmar kan detta tolkas som ett indirekt sätt att hantera ett problem: ett undvikande, eller ett mer försiktigt och sidledes sätt att närma sig något du egentligen vill nå. I astrologin är krabban tecknet för Kräftan — kopplat till hem, familj, känslighet och omsorg, och känt för sin egen form av seghet, att "hålla fast" vid något.
 
 Krabban byter också skal för att växa — den lämnar sitt gamla skydd bakom sig för att bli större. Det kan tolkas som en bild för en övergångsfas: en period då gamla försvar inte längre passar, och där en viss sårbarhet är en naturlig del av att utvecklas vidare.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — det hårda skalet över den mjuka kärnan, och rörelsen i sidled i stället för rakt fram.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför krabbdrömmar kommer när du undviker något direkt.

@@ -64,3 +64,8 @@ Den ensamma resan genom något krävande — kanske ett nödvändigt enrum med d
 Öknen är i jungiansk psykologi knuten till Skuggland — den plats där jaget inte längre kan upprätthålla sina vanliga försvar och fasader. Där måste man möta sig själv utan distraktioner. Det är inte en behaglig plats, men det kan vara en nödvändig en.
 
 För nordbor, som sällan upplever öken i verkligheten, är öknen i drömmarna ett rent symboliskt rum — ett mentalt landskap som representerar det absolut främmande och extrema.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — ödemarken som stadium i individuationen: torkan innan något nytt kan växa.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför ökendrömmar kommer i perioder som känns tomma.

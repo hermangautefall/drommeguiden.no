@@ -82,3 +82,8 @@ Få symboler är så laddade som blod, och det återkommer i kulturer världen �
 En vanlig tolkningsväg skiljer mellan att förlora blod och att känna blodet "koka". Att drömma om att tappa blod kan peka mot en känsla av att vara utmattad, dränerad eller tömd på energi — kanske ett tecken på att något eller någon tar mer än det ger tillbaka. Blod kan å andra sidan också stå för starka känslor i rörelse: passion, ilska, eller något som är på väg att explodera — som när vi säger att "blodet kokar".
 
 Blod är också knutet till släkt och arv — det vi "har i blodet", det som binder generationer samman, för gott och för ont. I många religiösa och rituella traditioner ses blod dessutom som heligt: använt i pakter, offer och reningsritualer. En dröm om blod kan därför röra något mycket grundläggande — frågor om ursprung, tillhörighet och vad vi bär vidare från dem som kom före oss.
+
+## Källor och vidare läsning
+
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — blod som drömmotiv i antiken, läst utifrån var det kom och hur mycket.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — blodet som bild för livskraft, släktband och det som inte går att ta tillbaka.

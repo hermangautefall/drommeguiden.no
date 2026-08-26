@@ -71,3 +71,9 @@ Främlingen som arketypisk figur har existerat i drömforskning sedan Freud — 
 I romantisk litteratur — från medeltidens riddarromaner till 1800-talets gotiska berättelser — är den mystiska främlingen som dyker upp och förvandlar ett genomgående motiv. Det är för att det resonerar med något arketypiskt i psyket: mötet med det okända i dig själv är djupt transformerande.
 
 Fornnordisk mytologi har sin egen version: mötet med en valkyrja eller en skäggig vandrande främling (Oden i förklädnad) som bringar livsförändring. Det främmande bär alltid en gåva — om du vågar ta emot den.
+
+## Källor och vidare läsning
+
+- Sigmund Freud, *Drömtydning* (1900) — sexualitetens plats i drömtydningen, och varför det okända ansiktet är så vanligt.
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — anima och animus: främlingen som bärare av egenskaper du ännu inte känner igen.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normativa data på hur stor andel av drömmar som har sexuellt innehåll.

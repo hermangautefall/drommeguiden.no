@@ -58,3 +58,9 @@ En extrem anknytning till det jordbundna — eller ett behov av näring på en g
 I fornnordisk kosmologi är Jörd — Jordgudinnan — Tors mor och själva jordens personifikation. Jord är gudarnas moder i fornnordisk tradition: det fundamentala, det närande, det av vilket allt är skapat. För bönder och kustfolk genom nordisk historia är jord identitet — den som äger jord, äger framtid. Drömmens jord kan också knytas till [trädgården](/sv/drommar/tradgard/) och [skogen](/sv/drommar/skog/) som växer ur den.
 
 Jung knöt jord till den feminina principen i sin mest grundläggande form — den stora modern som när, håller och till slut tar tillbaka det hon gav.
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — jorden som modersbild och som det grundläggande vi står på.
+- Artemidoros från Daldis, *Oneirocritica* (ca 150–200 e.Kr.) — jord och gröda som drömmotiv i ett samhälle där skörden avgjorde allt.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen: att det jordnära i drömmen ofta handlar om behov av fotfäste.
