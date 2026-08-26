@@ -70,9 +70,3 @@ Tvillingar bär en särskild mytologisk laddning i nästan alla kulturer. Romulu
 Det arketypiska tvillingmotivet handlar genomgående om det dubbla som är en nödvändig spänning — inte en sanning, utan två som är sanna samtidigt. I fornnordisk tradition är Frej och Freja tvillingarna — den maskulina fruktbarheten och den feminina — och båda är nödvändiga för världens ordning.
 
 Jung menade att jaget alltid är dubbelt: medvetet och omedvetet, ljus och skugga, känt och främmande. Tvillingdrömmen är psykets mest direkta bild av denna dubbelhet.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något som är tudelat eller splittrat?
-- Har du drömt om **tvillingar** eller **dubbelheter** **flera gånger**?

@@ -64,11 +64,3 @@ Guld har i alla tider varit måttstocken för det dyrbara, och i drömmar funger
 Men guld har också en skuggsida. Lockelsen av rikedom kan tolkas som girighet eller ambition som tagit överhanden, och drömmen kan ställa frågan: är detta äkta värde, eller bara något som glittrar? Skillnaden mellan guld och "oäkta guld" — det som ser ut att vara mycket, men inte är det — kan vara just det drömmen vill att du ska lägga märke till.
 
 I alkemin handlade förvandlingen av bly till guld aldrig bara om metall — alkemisterna själva beskrev det som en bild av inre arbete, där något rått och obearbetat i människan gradvis förädlas. Med ett sådant synsätt kan drömmens guld bli ett tecken på en växt och förvandling som redan är på gång. Guld kan också helt enkelt vara bilden av att lyckas och bli belönad — "guldstandarden", att lyckas med något du lagt mycket i, eller att [vinna](/sv/drommar/vinna-pengar/) något du strävat efter länge.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om guld **flera gånger**?

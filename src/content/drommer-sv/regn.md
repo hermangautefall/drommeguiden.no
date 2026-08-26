@@ -80,13 +80,3 @@ Regn kan tolkas som en känslomässig utlösning i bildform — tårar som äntl
 Stämningen i drömmen säger mycket om tolkningen. Regn kan kännas vemodigt och tungt, men det kan också vara förknippat med en skön känsla av mys och trygghet — att se regnet falla utanför medan du själv sitter varm och trygg inomhus.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om regn **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

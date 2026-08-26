@@ -62,11 +62,3 @@ En plats du önskar komma till — vila, frihet, övergång — som fortfarande 
 I jungiansk psykologi är havet en symbol för det kollektiva omedvetna — det stora, djupa, odefinierbara. Stranden är gränsen mellan detta och den medvetna världen. Att stå på stranden i drömmen är att stå i medvetenheten och se ut mot det som är större än du. Drömmar där [solen](/sv/drommar/sol/) skiner på stranden förstärker ofta den positiva och livgivande aspekten.
 
 I nordisk kultur är kusten och stranden inte bara geografi — den är identitet. Norden är ett kustfolk, och stranden representerar både det kända och det öppna. Att drömma om den nordiska stranden träffar något kulturellt och historiskt djupt.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om stranden **flera gånger**?

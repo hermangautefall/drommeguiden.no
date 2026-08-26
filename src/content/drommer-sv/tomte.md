@@ -57,11 +57,3 @@ En skyddande kraft finns där även om du inte ser den direkt.
 Tomten är i nordisk tradition ett av de mest långlivade folkreligiösa elementen — han är icke-kristen, han är gammal, och han är seg. Han har bevarats i traditionen för att han svarade på något verkligt i den nordiska psyken: behovet av att något vakar över oss, att hemmet är en trygg plats, att det finns en kraft som håller ordning i det nära.
 
 Jung skulle ha sett tomten som en manifestation av Självets skyddande funktion — den lilla figuren som håller [huset](/sv/drommar/hus/) (självet) i ordning inifrån.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om tomten **flera gånger**?

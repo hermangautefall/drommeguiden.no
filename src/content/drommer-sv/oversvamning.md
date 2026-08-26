@@ -61,11 +61,3 @@ Krisen är över. Det som överväldigade dig är på väg att dra sig tillbaka.
 Översvämningen är en av de mest arketypiska bilder i mänsklig mytologi — från Noas ark till Gilgamesh-eposet till otaliga urfolkstraditioner. Den representerar överallt samma sak: en överväldigande kraft som renar och förvandlar, som förstör det gamla för att göra plats för det nya.
 
 Jung såg översvämningen som en symbol för det omedvetna i sin mest okontrollerbara form — de djupare lagren av psyket som bryter igenom försvarsverken och överväldigar det medvetna jaget. Det är skrämmande, men inte nödvändigtvis farligt — det kan vara nödvändigt.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om översvämning **flera gånger**?

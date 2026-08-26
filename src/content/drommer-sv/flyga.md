@@ -81,13 +81,3 @@ Psykologen Alfred Adler intresserade sig för hur drömmar kan uttrycka ärelyst
 Att flyga är också en av de vanligaste upplevelserna i klardrömmar, där drömmaren är delvis medveten och kan känna en stark känsla av kontroll. I flera traditioner finns även föreställningen om en "själsresa" — att något inom oss kan lösgöra sig och röra sig fritt, en bild som ligger nära den frihet många beskriver i flygdrömmar.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om att flyga **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

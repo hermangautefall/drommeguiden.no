@@ -76,9 +76,3 @@ Drömforskningen har länge intresserat sig för vad som händer i drömmarna ho
 Jung skulle ha sett expartnern som en animafigur (för män) eller animusfigur (för kvinnor) — en inre representation av det andra könets egenskaper, projicerad ut på en extern person. Att drömma sexuellt om dem är då att närma sig dessa egenskaper i sig själv.
 
 Det finns ingen kulturell tradition som tolkar sådana drömmar som varsel eller profetia. De är nästan universellt förstådda som emotionellt bearbetningsarbete — och det är den tolkning som är bäst stödd av forskningen.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade — savn, ro, skuld, förvirring?
-- Vad händer i **ditt liv** just nu — är något oavslutat från den perioden?
-- Har du drömt om **exet** med sexuellt innehåll **flera gånger**?

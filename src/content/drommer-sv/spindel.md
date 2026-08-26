@@ -91,13 +91,3 @@ Samtidigt är spindlar en av de absolut vanligaste fobierna, och många spindeld
 I vissa psykologiska tolkningar kopplas spindeln också till en mäktig — och möjligen kontrollerande — modersfigur, eftersom hon både skapar och fångar på samma gång. Men spindeln kan också helt enkelt representera tålamod och hantverk: hon bygger långsamt och noggrant, och väntar. Ett nät som tar tid att väva, men som håller.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om spindel **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

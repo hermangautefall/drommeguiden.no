@@ -62,11 +62,3 @@ En börda som hindrar dig från att stå upprätt och se framåt. Se även [ben]
 Ryggen som bördessymbol är en av de mest universella i mänsklig kultur — från myternas Atlas som bär världen på sina axlar, till det dagliga uttrycket "att ha mycket på ryggen". Vi bär ansvar, sorg och förpliktelser — och kroppen i drömmarna är precis på att visa var det sitter.
 
 Jung skulle ha sett en överbelastad rygg som ett tecken på att jaget försöker kontrollera och bära mer än det naturligt kan — en inbjudan att släppa kontrollen och låta andra bära lite av vikten.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om ryggen **flera gånger**?

@@ -65,11 +65,3 @@ Förlustdrömmar dyker ofta upp i samband med övergångar i livet — ett nytt 
 Den frustrerande känslan av att leta och leta utan att hitta det du förlorat kan också spegla en upplevelse av att vara överväldigad, splittrad eller glömsk i vardagen — som om tankarna inte riktigt är där du vill ha dem.
 
 Allt som förloras i en dröm behöver inte vara tungt. Ibland övar psyket på att släppa saker som inte längre behövs, och skapar därmed plats för något nytt. [Nycklar](/sv/drommar/nycklar/) som förloras kan till exempel handla om att en gammal tillgång eller roll inte längre är aktuell — och det kan vara helt i sin ordning.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt kvar i dig när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om att förlora något **flera gånger**?

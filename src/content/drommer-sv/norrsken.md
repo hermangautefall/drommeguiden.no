@@ -72,11 +72,3 @@ I fornnordisk tradition sågs norrskenet som ett varsel från gudarnas värld �
 För moderna nordbor är norrskenet djupt förankrat i identitet och nostalgi — även de som aldrig ser det i vardagen, bär det som en bild av vad Norden är och vad de är som nordbor.
 
 Carl Jung skulle ha sett norrskenet som en numinös erfarenhet — det överväldigande, heliga och okontrollerbara mötet med något som är större än jaget. En sådan dröm är ett tecken på att psyket är i kontakt med något arketypiskt och djupt.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om norrsken **flera gånger**?

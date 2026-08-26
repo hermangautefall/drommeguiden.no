@@ -68,12 +68,4 @@ För många handlar tentadrömmen ändå mest om en mer allmän prestationsånge
 
 Kontinuitetshypotesen inom drömforskningen pekar på att sådana drömmar ofta blir vanligare i perioder då vi verkligen är under press. Sett på det sättet kan tentadrömmen vara en påminnelse från psyket om att något i livet just nu kräver extra av dig — och att du, precis som då, troligen är bättre förberedd än du tror.
 
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om tenta **flera gånger**?
-
 > 💡 **Läs även:** [Ångest och sömn](/sv/sovn/angest-somn/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.

@@ -64,11 +64,3 @@ Laxens kamp mot strömmen kan tolkas som en av naturens starkaste bilder för be
 Laxens resa hem till platsen där den själv föddes kan tolkas som en bild för hemkomst och att fullborda en cykel — en påminnelse om rötter, ursprung och något som ges vidare till nästa generation. I irsk och keltisk tradition finns berättelsen om Visdomens lax, en fisk som sades bära all världens visdom efter att ha smakat på kunskapens nötter — en bild för insikt som vinns genom lång erfarenhet och uthållighet, inte genom genvägar.
 
 I många nordliga kulturer har laxen också varit en källa till överflöd och livsviktig näring — en symbol som kan tolkas som att något du har arbetat hårt för äntligen är inom räckhåll.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om lax **flera gånger**?

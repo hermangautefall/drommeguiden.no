@@ -75,11 +75,3 @@ För många är kyrkan framför allt en bild av en fristad — en plats där tem
 Samtidigt är kyrkan en plats vi sällan är ensamma om — den är byggd för gemenskap, för övergångsriter som [bröllop](/sv/drommar/brollop/), dop och begravning, och för traditioner som binder samman generationer. En dröm där kyrkan är full av människor kan därför handla om tillhörighet: din relation till familj, gemenskap eller det arv du är en del av, och hur du hittar din plats i det.
 
 Kyrkan är också historiskt knuten till samvete och värderingar — en plats man gick till för att göra upp med sig själv. Drömmar om kyrka kan därför bjuda in dig att se närmare på dina egna värderingar, eller på något du bär på skuld för och behöver lägga ifrån dig. Och själva byggnaden säger ofta något i sig: en praktfull, ljus kyrka kan spegla ett rikt inre tillstånd, medan en förfallen eller tom kyrka kan peka mot en andlig tomhet eller ensamhet som ber om uppmärksamhet.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om kyrka **flera gånger**?

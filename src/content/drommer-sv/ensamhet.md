@@ -72,10 +72,4 @@ Drömmens ensamhet aktiverar detta urgamla system. Det är inte svaghet att drö
 
 I fornnordisk kultur var utstötning från gemenskapen — att bli gjord till fredlös, utlaga — det strängaste straffet som fanns, värre än död. "En som är utlaga är ingen." Drömmens ensamhet berör denna djupaste rädsla: att inte höra till.
 
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det nog av äkta och nära kontakt med andra?
-- Har du drömt om **ensamhet eller att inte bli sedd** **flera gånger**?
-
 > 💡 **Läs även:** [Depression och sömn](/sv/sovn/depression-somn/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.

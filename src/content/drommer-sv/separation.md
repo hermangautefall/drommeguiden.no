@@ -75,10 +75,4 @@ Andra gånger kan bilden av att skiljas spegla en inre splittring — två delar
 
 Till sist kan det att gå skilda vägar i en dröm också tolkas som något friskt: ett tecken på att du är på väg att hitta din egen riktning, stå lite mer på egna ben, eller dra en tydligare gräns mellan vad som är ditt och vad som hör till andra. Sådana drömmar är sällan ett varningstecken — de är oftast sinnets stilla bearbetning av förändring.
 
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är något på väg att avslutas?
-- Har du drömt om **avsked eller uppbrott** **flera gånger**?
-
 > 💡 **Läs också:** [Ångest och sömn](/sv/sovn/angest-somn/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.

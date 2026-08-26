@@ -74,11 +74,3 @@ Forskning på otrohetsdrömmar visar att de är mycket vanliga och inte korreler
 Jung skulle ha sett otrohetsdrömmens "tredje part" som en projektion — en externalisering av något inre. Det handlar sällan om den faktiska personen; det handlar om vad de representerar som är frånvarande eller hotat.
 
 En viktig insikt: att berätta för partnern om dina otrohetsdrömmar kan ibland skapa mer oro än det löser. De behöver ingen tolkningshjälp — de behöver oftast mötas med självmedkänsla och kanske ett ärligt samtal om något annat som pyr.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om otrohet **flera gånger**?

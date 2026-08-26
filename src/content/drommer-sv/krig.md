@@ -76,11 +76,3 @@ Många krigsdrömmar handlar mest om det som pågår inom dig, inte om världen 
 Andra gånger speglar drömmen en miljö som helt enkelt känns som en slagfält — en spänd arbetsplats, en jobbig familjekonflikt, eller en relation där det känns som man ständigt måste försvara sig. Drömmen sätter ord på en belastning du kanske inte riktigt insett storleken på.
 
 Det är också värt att nämna, varsamt, att krigsdrömmar kan bli vanligare i perioder då mycket oro i världen fyller nyhetsflödet — sinnet bearbetar även det vi ser och läser om, även när vi inte är direkt berörda. Oavsett vad drömmen springer ur pekar den ofta mot teman som att hålla ut, välja sina strider med omtanke, och längtan efter fred.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om krig **flera gånger**?

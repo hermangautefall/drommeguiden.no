@@ -81,11 +81,3 @@ Prometheus stal elden från gudarna och gav den till människorna — och straff
 Carl Jung knöt elden till libido i vid mening — livsenergi som söker uttryck. Han analyserade många patienters elddrömmar och fann att de nästan alltid sammanföll med perioder av stark inre rörelse: transformationer, genombrott, kriser som innehöll frö till något nytt. Eld i drömmarna var sällan ett dåligt tecken — det var ett tecken på att något var levande.
 
 Gaston Bachelard, den franske filosofen, vigde en hel bok åt eldpsykologin — "The Psychoanalysis of Fire" — och konkluderade att elden är det första och mest grundläggande objektet för mänsklig drömming och fantasi. Vi är skapta att se in i lågorna.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om eld **flera gånger**?

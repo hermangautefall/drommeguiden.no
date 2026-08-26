@@ -67,11 +67,3 @@ Ju djupare in, desto större behov av att ta avstånd från det vanliga.
 Stugan är i nordisk kulturhistoria något annat än i de flesta andra kulturer — den är inte lyx, den är egalitär. Från kungahuset till vanliga barnfamiljer delar nordbor idealet om stugan som fristadssymbol. Stugtraditionen är ett kollektivt nordiskt värde, nedlagt i allemansrätten och i det att nordiska barn växer upp med att veta att naturen tillhör alla.
 
 Drömmens stuga bär på all denna kulturella rikedom — och är därmed en drömsymbol ingen andra kulturer kan ha på riktigt samma sätt.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om stuga **flera gånger**?

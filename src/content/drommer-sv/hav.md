@@ -133,14 +133,3 @@ Havet ber dig se inåt — det bjuder in dig att dyka ner i det som
 ligger under vardagslivets yta.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder
-och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om havet **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

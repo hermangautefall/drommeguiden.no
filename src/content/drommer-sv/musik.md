@@ -62,11 +62,3 @@ Något blockerar ditt kreativa uttryck — en hämning, en rädsla, en situation
 Musik är ett av de fenomen Jung var mest fascinerad av — för att det opererar direkt på det omedvetna utan att gå vägen över rationellt tänkande. Han beskrev musik som "ett direkt uttryck för själen" och menade att drömmarnas musik ofta kommunicerade något som psyket inte hade ord för.
 
 För musiker är musik inte bara en symbol — det är en identitet och ett levnadssätt. Att drömma om musik kan då ha en ännu mer direkt och personlig resonans: det handlar om kärnan i vem man är och vad man är här för att göra.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om musik **flera gånger**?

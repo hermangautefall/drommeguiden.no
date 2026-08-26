@@ -62,12 +62,3 @@ En haj i drömmen kan väcka en närmast urgammal rädsla — känslan av att n�
 Ibland handlar drömmen snarare om en person eller en situation i vardagen. Att kalla någon en "haj" är inte slumpmässigt — det kan tolkas som att drömmen varnar för en hänsynslös eller rovgirig person, eller en situation som känns som att den vill "äta upp dig" om du inte är försiktig, till exempel en tuff arbetsmiljö eller en relation i obalans. Hajen kan också spegla din egen undertryckta ilska — en kraft inom dig som plötsligt stiger till ytan.
 
 Värt att nämna är att hajen inte alltid har varit en skräckfigur. I polynesisk och hawaiisk tradition betraktades hajar ('aumākua) ofta som beskyddande andliga förfäder som vakade över familjen från havet. Sett i det ljuset kan drömmen kanske också tolkas som att något starkt och kraftfullt vakar över dig — även om det först ser skrämmande ut.
-
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om haj **flera gånger**? Då kan vår guide om [återkommande drömmar](/sv/guider/aterkommande-drommar/) vara nyttig.

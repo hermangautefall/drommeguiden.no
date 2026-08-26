@@ -61,9 +61,3 @@ I fornnordisk tradition är eken Tors träd — associerat med blixt, kraft och 
 Druidorden — de keltiska prästerna — tog sitt namn från eken (dru = ek på fornirländska). Tingsplatsen i Skandinavien lades gärna under en ek. Oraklet i Dodona i antikens Grekland var en helig ek där Zeus vilja tolkades genom bladens prassel.
 
 Jung använde trädet — särskilt eken — som en av sina primära symboler för Självet i sin helhet: rötterna i det omedvetna, stammen i nuet, grenarna mot det okända. Eken är inte vad man strävar efter att bli — det är vad man redan är, i sin djupaste form.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är du tillräckligt förankrad för det som stormar?
-- Har du drömt om **ek eller stora träd** **flera gånger**?

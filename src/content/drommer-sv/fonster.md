@@ -61,11 +61,3 @@ En observerande och reflekterande fas — du ser på livet från sidan.
 Fönstret är i arkitektur- och rumspsykologi ett av de mest psykologiskt laddade elementen i ett hem — det är [ljuset](/sv/drommar/ljus/) som kommer in, det är utsikten, det är kontakten med världen. Hem utan fönster är fängelser; hem med stora fönster är frihet. I drömmarna bär fönstret på denna symboliska tyngd.
 
 Jung beskrev drömmens hus och dess öppningar — dörrar och fönster — som psykets kommunikationsorgan: platserna där det inre och yttre möts och utbyts.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om fönster **flera gånger**?

@@ -64,11 +64,3 @@ Pappan i drömmar kan ofta representera auktoritet, struktur och de regler och f
 Fadersgestalten har också haft en central plats i tidig psykoanalys, där relationen till pappan sågs som avgörande för hur vi internaliserar regler och samvete — det som senare blev en del av vårt eget överjag. Om pappan i drömmen känns stödjande kan det handla om vägledning och trygghet i ett beslut; om han är frånvarande eller sträng kan drömmen snarare pekar mot otillgodosedda behov, rädsla för att bli dömd, eller en oro i förhållandet till auktoriteter i stort.
 
 Över kulturgränser hittar vi liknande bilder i faders- och himmelsgudar som Zeus — gestalter knutna till auktoritet, ordning och de regler som ramar in en värld. [Mor](/sv/drommar/mor/) och pappa utgör ofta två sidor av samma mynt i drömmarnas språk: det närande och det formande.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om pappa **flera gånger**?

@@ -72,9 +72,3 @@ En förlovning i drömmen kan tolkas som en bild av ett löfte du är på väg a
 Förlovningen kan också spegla föreningen av två delar — två sidor av dig själv, eller en relation som blir en mer integrerad del av den du är. Samtidigt är det helt naturligt om drömmen bär på en känsla av tvekan: kalla fötter, tvivel om framtiden, eller frågan "är jag redo för det här?" hör ofta till när något stort ska beseglas.
 
 Själva känslan av att stå på en tröskel — varken kvar i det gamla eller helt i det nya — är ofta det drömmen försöker fånga. Det är ett mellantillstånd fyllt av förväntan, och oftare hoppfullt än skrämmande, även när det följs av lite nervositet.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något du håller tillbaka att förplikta dig till?
-- Har du drömt om **förlovning eller löfte** **flera gånger**?

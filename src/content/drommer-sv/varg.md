@@ -83,13 +83,3 @@ Hur vargen beter sig i drömmen är ofta avgörande för tolkningen. En hotfull 
 Vargen har också två mycket olika ansikten i berättartraditionen. I sagan om Rödluvan är den förklädnaden och faran — "vargen i fårakläder" som lurar den ovetande. Men i legenden om Rom var det en varghona som ammade och räddade grundarna Romulus och Remus, och blev själva symbolen för beskydd och ursprung. Kanske handlar drömmen om var du själv står mellan dessa två bilder — om du just nu upplever vargen som ett hot, eller som något som tar hand om dig.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om varg **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

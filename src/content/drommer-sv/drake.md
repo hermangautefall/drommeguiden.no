@@ -67,12 +67,3 @@ Kan betyda att du övervinner en stor rädsla eller utmaning. En seger som kosta
 Carl Jung såg drakar som arketypiska symboler för "Skuggan" — de sidor av oss själva vi inte vill kännas vid, men som har enorm energi. Också [ormen](/sv/drommar/orm/) delar denna arketypiska roll i drömsymboliken. Att konfrontera draken i drömmen är i jungiansk mening en inbjudan att möta det vi fruktar i oss själva.
 
 I fornnordisk tradition är drakar (ormar) skattens väktare — Fafner i Sigurdssagan är det främsta exemplet. Att döda draken är att vinna tillgång till dold rikedom, men det kräver mod och list. Drömmen kan spegla detta: något värdefullt är inom räckhåll, men det kräver att du vågar konfrontera det som vaktar det.
-
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om drake **flera gånger**?

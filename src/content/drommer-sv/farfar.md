@@ -62,11 +62,3 @@ Farfar i drömmarna kan representera visdom och erfarenhet som byggts upp under 
 Om farfar är avliden upplevs drömmen ofta som ett tröstande besök — ett möte som ger något man trodde var förlorat. Många beskriver det som att söka hans godkännande eller råd, och drömmen kan vara en naturlig del av att bearbeta sorg och hålla fast i bandet till honom. Se även [avliden person i dröm](/sv/drommar/avliden-person/).
 
 Farfar kan också representera auktoritet och värderingar på ett mildare sätt än pappan ofta gör — tradition, moralisk förankring, familjehistorier som format vem du är. Och i en mer inre läsning kan han stå för din egen mentorröst: den del av dig som lyckas hålla huvudet kallt och se saker i ett större perspektiv. Läs även om drömmar om [farmor](/sv/drommar/farmor/) eller [pappa](/sv/drommar/pappa/).
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om farfar **flera gånger**?

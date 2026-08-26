@@ -76,9 +76,3 @@ Omsorg, respekt och välsignelse snarare än romantik. Vad behöver du skydd ell
 Kyssen som ritual har djupa rötter i nästan alla kulturer. I nordisk tradition markerade en kyss ingående av ed och pakt. I romersk lag bekräftade en kyss muntliga avtal. I mystiska traditioner symboliserar kyssen överföring av livsande och gudomlig gnista.
 
 Freud tolkade drömmens kyss — som det mesta — sexuellt. Jung vidgade detta till något mer grundläggande: kyssen är förening, och förening är psykets djupaste längtan. Hela individuationsprocessen — den livslånga rörelsen mot helhet — kan beskrivas som en serie kyssar mellan det kända och det okända i dig själv.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — längtar du efter närhet eller bekräftelse?
-- Har du drömt om **kyss** med denna person **flera gånger**?

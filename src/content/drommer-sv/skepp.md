@@ -61,11 +61,3 @@ Något drar bort från dig — en möjlighet, en fas, en relation du inte är me
 För nordbor är skeppet inte en främmande symbol — det är identitetens kärna. Vikingatidens skepp var teknologins underverk och rörelsefrihetens instrument. Skeppet som korsar en [bro](/sv/drommar/bro/) är en särskilt kraftfull bild. Det fornnordiska begreppet "långskepp" är inte bara ett fartyg — det är ett löfte om horisont.
 
 Jung beskrev skeppet som ett av de arketypiska fartygen för själsresan — det som bär medvetandet över omedvetna farvatten. Att drömma om ett skepp är att drömma om att hålla sig flytande i det djupaste av allt.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om skepp **flera gånger**?

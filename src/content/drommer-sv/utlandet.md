@@ -60,11 +60,3 @@ Drömmens klassiska logik — något bekant presenteras som okänt för att peka
 I jungiansk förståelse representerar det främmande landet gärna Skuggans territorium eller det omedvetna — en plats där de vanliga reglerna inte gäller och där det undertryckta kan visa sig. Att resa dit i drömmen är att öppna sig för nya inre erfarenheter.
 
 För nordbor har utlandet historiskt representerat något lockande och lite skrämmande på samma gång — det moderna, det kosmopolitiska, det som är annorlunda än det trygga hemma. Denna ambivalens kan färga drömmens utland med både spänning och mild ångest.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om utlandet **flera gånger**?

@@ -60,11 +60,3 @@ Fråga dig själv ärligt: följer du andras riktning snarare än din egen?
 "Den gode herden" är en av de starkaste kristna bilderna av omsorg och ledarskap — och det är just fåret, som behöver vallning och skydd, som ger bilden dess mening. I nordisk kulturhistoria är fårhållningen djupt förankrad: fäboddriften, ullen till vadmalen, lammet till helgen. Fåret är inte exotiskt — det är urgammalt och välbekant, bland det mest nordiska som finns.
 
 Jung skulle ha sett fåret som en representation av det kollektiva Persona — den del av oss som anpassar sig till normen och flocken, som inte sticker ut. Nödvändigt, men inte tillräckligt för ett fullt liv. Se [kategori djur](/sv/kategori/djur/) för fler djursymboler.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om får **flera gånger**?

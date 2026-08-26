@@ -62,11 +62,3 @@ Omsorg och generositet — en önskan om att ge, eller kanske en tendens att ge 
 I psykoanalytisk tradition är maten tätt knuten till de tidigaste erfarenheterna av omsorg — bröstet, maten, den som ger näring. Matdrömmar berör därmed något mycket grundläggande i den mänskliga psyket: urbehovet att bli sedd och omhändertagen.
 
 I svensk kultur har mat och måltid en stark social funktion — söndagsmiddagen i [hemmet](/sv/drommar/hus/), julens traditioner, myset med något gott. Att drömma om mat i en nordisk kontext är att drömma om tillhörighet och tradition lika mycket som om näring.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt kvar i dig när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om mat **flera gånger**?

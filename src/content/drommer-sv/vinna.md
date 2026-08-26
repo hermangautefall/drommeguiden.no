@@ -68,9 +68,3 @@ En signal om att det du arbetar mot kanske inte är det som ger dig mening.
 Seger och erkännande hör till Maslows högre behov i behovspyramiden — aktningen, den positiva självvärderingen, känslan av att bemästra och betyda något. Drömmens seger är en direkt projektion av detta behov.
 
 I fornnordisk tradition var äran (dýrð) det högsta värdet — inte rikedom eller makt, utan det goda ryktet, att bli ihågkommen för något gott. Segern i strid eller tävling var en av de främsta vägarna till denna ära. Drömmens seger bär något av denna uråldriga äreslängtan — den sociala bekräftelsen som säger: du är något värd.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något du arbetar mot som behöver bekräftelse?
-- Har du drömt om **att vinna eller lyckas** **flera gånger**?

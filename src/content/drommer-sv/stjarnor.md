@@ -61,11 +61,3 @@ Mörker, desorientering och brist på hopp. Något har dolt vägledningen för d
 Stjärnorna är i fornnordisk tradition spridda från gnistorna i Muspelheim — skapade i skapelsens kaos, placerade av gudarna för att lysa upp natthimlen. Att drömma om stjärnor i nordisk kontext berör något av den första skapelsekraften — något uråldrigt och strålande.
 
 Astronomiskt sett är vi alla skapta av stjärnstoft — och denna insikt, att vi bokstavligen är del av kosmos, ger stjärnorna en symbolisk djup som överskrider mytologin. Se även [månen](/sv/drommar/manen/) och [solen](/sv/drommar/sol/) för besläktade himlakroppssymboler.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om stjärnor **flera gånger**?

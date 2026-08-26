@@ -58,11 +58,3 @@ Du tar aktivt till dig det som finns tillgängligt — du skördar från det som
 Den nordiska urdjurskon Auðumbla är en av de mest säregna bilderna i nordisk kosmologi — hon stod i kaosens is och slickade fram gudarna ur isen medan hon gav mjölk för att nära jätten Ymer. Kon finns där från begynnelsen, hon ger näring till det som blir till. I nordisk tradition är kon inte ett banalt husdjur — hon är skapelsens första moder.
 
 Jung skulle ha sett kon som en manifestation av "Den stora modern" i sin mest närande och jordnära form — lugn, fruktbar och ostoppbar i sin generositet. Se också [får](/sv/drommar/sau/) för en annan mild husdjurssymbol.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om ko **flera gånger**?

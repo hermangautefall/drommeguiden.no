@@ -68,11 +68,3 @@ Omsorg och skyddsinstinkt — du kämpar för något du håller kärt.
 I fornnordisk tradition är kamp och strid inte uteslutande negativt — einherjerna i Valhall kämpar varje dag och samlas på kvällen till fest. I besläktade drömmar kan du också uppleva att [döda](/sv/drommar/doda/) någon. Kampen är träning, den är ära, den är vem man är. Att drömma om kamp i nordisk kulturell kontext kan beröra detta arv av den värdiga stridens estetik.
 
 Jung beskrev drömmens fiende som en av de viktigaste gestalterna i det omedvetna — eftersom det vi kämpar mot gärna är det vi behöver integrera. Fienden är sällan bara fientlig. Den är en del av dig som insisterar på att bli erkänd.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om att slåss **flera gånger**?

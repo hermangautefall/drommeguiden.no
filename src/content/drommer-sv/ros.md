@@ -63,9 +63,3 @@ Rosen är den västerländska kulturkretsens främsta kärlekssymbol — Afrodit
 I fornnordisk tradition är det blomman — varken rosen specifikt eller blommor i allmänhet — som är förbunden med Freja och kärlekens kraft. Men rosens dubbelnatur av skönhet och törnen speglas i den fornnordiska bilden av livet självt: det goda är aldrig gratis, och det som är värt att ha är värt att kämpa för.
 
 Freud tolkade rosen sexuellt — som varje blomma. Jung såg den som en av de arketypiska bilderna för mandalans helhet: rosen som blomstrar i centrum är Självet som realiseras.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något vackert du håller på att närma dig, eller att förlora?
-- Har du drömt om **ros eller blommor** **flera gånger**?

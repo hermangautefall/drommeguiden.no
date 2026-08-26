@@ -72,9 +72,3 @@ Sexuella drömmar om kollegor är betydligt vanligare än de flesta tror, och de
 Jung skulle ha sett kollegan som en skugg-figur eller en animafigur — en externalisering av en egenskap psyket önskar integrera. Det sexuella mötet är föreningen av två sidor — inte två kroppar.
 
 Ingen kulturell tradition tolkar sådana drömmar som förebud om faktiska händelser eller önskningar. De förstås genomgående som bearbetningsdrömmar knutna till social och hierarkisk tillhörighet.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt arbetsliv** just nu?
-- Har du drömt om **denna kollega** — sexuellt eller inte — **flera gånger**?

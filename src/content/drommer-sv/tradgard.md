@@ -63,11 +63,3 @@ Ordet "paradis" har sitt ursprung i ett forniranskt ord för en inhägnad trädg
 Samtidigt är en trädgård aldrig statisk — den kräver skötsel för att förbli det den är. Drömmens trädgård kan därför spegla en pågående balansgång mellan ordning och vildvuxenhet: en välskött trädgård kan stå för kontroll, omsorg och något du tar dig tid att underhålla, medan en igenvuxen eller vild trädgård kan peka mot sidor av livet som fått växa fritt utan din inblandning — inte nödvändigtvis negativt, men värt att lägga märke till.
 
 Trädgården följer också årstidernas rytm, och det gör drömmar om trädgårdsarbete till något som ofta handlar om tålamod och timing. Att så är inte samma sak som att skörda, och mellan de två ligger en period då ingenting tycks hända på ytan. En dröm om att plantera, vänta eller skörda i en trädgård kan därför påminna dig om att något i ditt liv behöver tid för att bli det det ska bli — och att den tiden inte nödvändigtvis är bortkastad, även när det inte känns produktivt.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om trädgård **flera gånger**?

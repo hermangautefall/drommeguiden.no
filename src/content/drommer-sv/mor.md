@@ -68,11 +68,3 @@ Inom anknytningsteorin beskrivs modern ofta som mallen för vår tidigaste upple
 Modersgestalten bär ofta på en spänning mellan det närande och det kontrollerande — den som ger trygghet, men som också kan kännas gränssättande eller till och med kvävande. Denna ambivalens återkommer i flera myter, bland annat berättelsen om Demeter och Persefone, och kan dyka upp i drömmar som både varma och oroande bilder av samma person.
 
 Mor kan också representera något inom dig själv: din egen förmåga att ta hand om dig, eller ett otillgodosett behov av omsorg du bär med dig. Och över kulturgränser hittar vi modersgudinnor som Demeter, Isis och Gaia — gestalter knutna till jord, fruktbarhet och ursprung, som en spegel av varifrån vi alla kommer.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om mor **flera gånger**?

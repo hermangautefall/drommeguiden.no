@@ -73,10 +73,4 @@ Jungs perspektiv är mer nyanserat och mer relevant för de flesta: det sexuella
 
 I de flesta kulturer har sexuella drömmar tolkats som tecken på fruktbarhet, kreativitet och livskraft — inte som skambelagda uttryck för omedvetna lystnader. Det fornnordiska begreppet "sejd" inkluderade erotiska visioner som en del av ett utvidgat medvetande.
 
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — saknar du närhet eller kontakt?
-- Har du drömt om **samlag** med denna person **flera gånger**?
-
 > 💡 **Läs också:** [Sömnfaser och REM-sömn](/sv/sovn/sovnfaser/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.

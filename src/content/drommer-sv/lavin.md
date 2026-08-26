@@ -62,11 +62,3 @@ Tystnaden efter det som vältrade — något är över, och något nytt börjar.
 För nordbor är lavinen inte en abstrakt bild — den är en verklig och nära fara för alla som rör sig i fjällen. Den nordiska fjällvettregeln om att känna lavinrisk är inte metaforisk; det är överlevnad. Drömmens lavin bär på denna konkreta rädsla i nordisk fjällkultur.
 
 Men den bär också på något djupare: den uråldriga erfarenheten av att fjällen ger och fjällen tar. Att naturen är vacker och brutal på samma gång. Att det vita kan döda. När [isen](/sv/drommar/is/) och snön släpper taget finns det ingen väg tillbaka.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om lavin **flera gånger**?

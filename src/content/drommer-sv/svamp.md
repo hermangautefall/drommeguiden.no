@@ -63,9 +63,3 @@ Svamp har en rik och mångsidig symbolhistoria. I många ursprungsbefolkningars 
 Modern forskning på psilocybin — den psykoaktiva föreningen i vissa svamptyper — visar att de kan ha djup terapeutisk effekt vid depression och existentiella kriser. Svampen som medicin och som visionär katalysator är ett väldigt gammalt mönster.
 
 I jungiansk psykologi skulle svampen ha varit en av de rikaste symbolerna för det omedvetna självet: inte lysande och uppenbar, utan levande och aktiv i mörkret.
-
-## Drommeguiden rekommenderar
-
-- Vilken **känsla** satt du kvar med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något som växer i det tysta?
-- Har du drömt om **svamp eller tillväxt under ytan** **flera gånger**?

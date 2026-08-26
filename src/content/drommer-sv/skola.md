@@ -80,13 +80,3 @@ I psykologisk forskning är skoldrömmar bland de bäst dokumenterade återkomma
 I nordisk kultur, där utbildningssystemet spelar en så central roll i människors liv, är det naturligt att skolan blir en kraftfull drömsymbol. Den nordiska enhetsskolan, med sitt ideal om likhet och inkludering, skapar också sin egen uppsättning drömscenarier — rädslan för att sticka ut, trycket att passa in, och balansen mellan att vara sig själv och att anpassa sig till gemenskapen. Dessa teman lever vidare i drömmarna långt efter att skoltiden är över.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om skolan **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

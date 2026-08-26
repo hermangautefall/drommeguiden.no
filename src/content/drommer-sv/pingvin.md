@@ -55,11 +55,3 @@ Du är i ditt rätta element — kanske inte där andra förväntar sig, men per
 ## En symbol utan gammal mytologi
 
 Pingvinen har ingen gammal mytologisk tradition — den blev inte känd för européer förrän på 1400-talet. Men i modern populärkultur har den blivit en symbol för det charmigt klumpiga, det lojala och det överraskande starka. Psykologiskt sett kan pingvinen representera de sidor av oss som inte passar in i standardmallen, men som ändå hittar sin väg.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om pingvin **flera gånger**? Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).

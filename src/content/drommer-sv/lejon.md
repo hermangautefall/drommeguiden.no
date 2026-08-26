@@ -62,12 +62,3 @@ Din egen kraft eller självtillit är försvagad av något. Något eller någon 
 I många kulturer är lejonet en kungasymbol — i Egypten, Rom och medeltidens Europa. Den representerar det bästa av mänskligt ledarskap: mod kombinerat med värdighet. Jung såg lejonet som en symbol för Egot i sin starkaste form — men varnade för att låta det inre lejonet bli tyranniskt. Utforska fler [djursymboler i drömmar](/sv/kategori/djur/).
 
 I kristen symbolik är lejonet både Kristus (Juda lejon) och djävulen (lejonet som vandrar och söker någon att uppsluka). Denna dubbelhet — kraft som kan vara både god och destruktiv — är kärnan i lejondrömmens budskap.
-
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om lejon **flera gånger**? Läs om [återkommande drömmar](/sv/guider/aterkommande-drommar/).

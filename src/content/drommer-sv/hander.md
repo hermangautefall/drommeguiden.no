@@ -82,13 +82,3 @@ Händer är också det vi räcker ut till andra med. De ger och tar emot, hjälp
 Om händerna i drömmen var smutsiga eller skadade kan det peka mot skuldkänslor — "blod på händerna" — eller mot att något har krävt mycket av dig. Bundna eller förlamade händer kan å sin sida spegla en känsla av maktlöshet, av att inte kunna ingripa där du önskar. Händer är också verktyg för uttryck — hantverk, kreativitet och de gester vi kommunicerar med. I många kulturer har handen "lästs" som en sorts karta över en människas liv och karaktär, en påminnelse om hur mycket vi förknippar med just dessa två kroppsdelar.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om händer **flera gånger**?
-
-Svaren ger ofta mer insikt än någon tolkningslista kan ge.

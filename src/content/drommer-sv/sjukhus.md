@@ -81,13 +81,3 @@ I nordisk kultur har sjukhuset en särskild plats. Den offentliga sjukvården re
 I äldre nordisk folktro fanns det läkningsritualer knutna till särskilda platser — heliga källor, fjällgrottor och naturliga tillhåll där sjuka sökte hälsa. Sjukhuset är på många sätt den moderna versionen av dessa platser, och drömmar om sjukhus kan ses i förlängningen av en gammal tradition: människans sökande efter en plats där det är tryggt att vara sårbar.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om sjukhus **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

@@ -57,14 +57,6 @@ En fornnordisk begravning är den yttersta hyllningen — något avslutas med v�
 
 ## Skeppet i det nordiska arvet
 
-Vikingaskeppets eleganse är ingen tillfällighet — det byggdes av folk som visste att [havet](/sv/drommar/hav/) skulle döda dem om skeppet inte var perfekt. Drömmens vikingaskepp bär på denna kombination av skönhet och nödvändighet: något är vackert just för att det är så ytterst funktionellt.
+Vikingaskeppets elegans är ingen tillfällighet — det byggdes av folk som visste att [havet](/sv/drommar/hav/) skulle döda dem om skeppet inte var perfekt. Drömmens vikingaskepp bär på den kombinationen av skönhet och nödvändighet: något är vackert just för att det är så ytterst funktionellt.
 
-Osebergskeppet och Gokstadskeppet i Vikingaskeppshuset på Bygdöy i Oslo hör till Nordens mest besökta kulturskatter — vi identifierar oss med dem på en nivå som är djupare än historiskt intresse. Det är en del av oss.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om vikingaskepp **flera gånger**?
+Sverige har ett enda bevarat vikingaskepp — Äskekärrsskeppet, ett lastfartyg som hittades i Göta älvs strandbank 1933 och dateras till 900-talet. Vill man se den svenska skeppstraditionen får man annars gå till båtgravarna i Vendel och Valsgärde i Uppland, eller till handelsstaden Birka i Mälaren. Det säger något om vad skeppet var här: inte främst ett krigsredskap, utan ett sätt att komma ut i världen och hem igen.

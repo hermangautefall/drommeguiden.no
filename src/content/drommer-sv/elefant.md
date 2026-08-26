@@ -62,12 +62,3 @@ Elefanten förknippas ofta med minne — "en elefant glömmer aldrig" — och me
 I hinduisk tradition är Ganesha, guden med elefanthuvud, en av de mest älskade gestalterna — känd för att undanröja hinder och öppna dörrar till nya början. I buddhistisk berättartradition sägs det att drottning Maya drömde om en vit elefant innan Buddha föddes, och elefanten blev därmed ett heligt tecken på något stort som var på väg. Den vita elefanten har sedan stått som en bild av ett disciplinerat, lugnt sinne — möjligen en kvalitet din dröm pekar mot att du har, eller behöver mer av.
 
 Drömmen kan också handla om "elefanten i rummet" — något stort och uppenbart som du eller andra undviker att tala om. I andra fall kan elefanten i stället tolkas som en tung börda du bär på, något som kräver både styrka och tålamod att hantera, men som du ändå är rustad för att bära.
-
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om elefant **flera gånger**? Läs mer om [återkommande drömmar](/sv/guider/aterkommande-drommar/).

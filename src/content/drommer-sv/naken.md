@@ -97,13 +97,3 @@ för att bli dömd är ofta självskapad, och bor mer inom oss själva än i
 hur andra faktiskt ser på oss.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om att vara naken **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

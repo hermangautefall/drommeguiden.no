@@ -78,13 +78,3 @@ Stormen kan också tolkas som en yttre omvälvning — en turbulent period i liv
 En annan bild är stormens öga — den märkligt stilla punkten mitt i allt kaos. Att finna lugn där, mitt i oron, kan tolkas som en påminnelse om att även stormar går över. Naturkrafternas råa styrka kan dessutom väcka en känsla av vördnad och vanmakt — en påminnelse om krafter som är större än oss, och att det ibland är rätt att ge sig hän åt dem istället för att kämpa emot.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om storm **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

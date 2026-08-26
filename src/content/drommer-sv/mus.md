@@ -62,11 +62,3 @@ Ett näraliggande perspektiv handlar om de små, gnagande bekymren. Musen kan re
 Ett annat perspektiv ligger i anspråkslösheten. Musen lever i marginalerna, ofta obemärkt, och kan därför spegla en uppmärksamhet på detaljer som lätt förbises — eller en känsla av att själv vara förbisedd, tyst och föga synlig i en situation där andra tar mer plats.
 
 Samtidigt är musen ett uppfinningsrikt och motståndskraftigt djur som hittar vägar att överleva nästan var som helst. I fabeltraditionen är det ofta den lilla musen som räddar det mäktiga lejonet — en bild av att det som är litet kan göra en avgörande skillnad. Även i hinduisk tradition rider guden Ganesha på en mus, som en symbol för det som övervinner hinder genom att ta sig in på de minsta och mest svåråtkomliga platserna. Drömmens mus kan alltså, trots sin storlek, peka på en tyst men verkningsfull styrka.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om mus **flera gånger**?

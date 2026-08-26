@@ -83,13 +83,3 @@ Det kan också vara värt att fråga sig vad exet egentligen *representerar* fö
 Hjärnforskaren Matthew Walker har beskrivit REM-sömn som en form av "nattlig terapi": hjärnan besöker emotionellt laddade minnen på nytt för att dämpa intensiteten i dem över tid. Gamla relationer är ofta just sådana laddade minnen, och kan därför dyka upp igen — särskilt i perioder av stress, eller när du går in i en ny relation som väcker gamla anknytningsmönster.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om ditt ex **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

@@ -77,12 +77,4 @@ Mardrömmar där något händer barnet är bland de vanligaste drömmar föräld
 
 Det fornnordiska begreppet "hamingja" — den beskyddande lyckoande som följde en släkt — är i detta sammanhang intressant: en del av föräldraansvaret var att skydda barnets hamingja. Drömmens rädsla för att förlora barnet är kanske en modern version av denna urgamla beskyddarimpuls.
 
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något sårbart du fruktar att förlora kontrollen över?
-- Har du drömt om **barn i fara** **flera gånger**?
-
-*Dessa drömmar kan vara mycket påfrestande. Om de är frekventa och stör din sömn allvarligt, kan det hjälpa att prata med någon — antingen en närstående eller en fackperson.*
-
 > 💡 **Läs även:** [Sömn under graviditet](/sv/sovn/somn-graviditet/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.

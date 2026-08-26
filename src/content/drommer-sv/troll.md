@@ -78,11 +78,3 @@ I nordisk sagovärld är trollet alltid prövningen. Askungen vinner inte genom 
 Carl Jung beskrev det han kallade Skuggan — de aspekter av psyket vi inte kännas vid — som en av de viktigaste och mest brådskande arketyperna att integrera. Det man undertrycker växer. Det man aldrig ser i ansiktet styr en bakifrån. Trollet i nordisk folklora är Skuggan i sin mest konkreta, kulturellt förankrade form. Det är inte tillfälligt att trollet spricker i ljuset — eftersom det är exakt vad som händer med Skuggan när den erkänns.
 
 Asbjørnsen och Moe samlade sagotrollen, men de hämtade dem från en levande muntlig tradition som sträckte sig tillbaka till fornnordisk tid. Jättar — de uråldriga jättarna — är trollets förfäder: de som existerade innan gudarna skapade ordning, de som representerar kaos och råkraft i sin renaste form.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om troll **flera gånger**?

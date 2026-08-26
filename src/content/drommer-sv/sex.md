@@ -76,11 +76,3 @@ Sexuella drömmar handlar sällan bokstavligt om vem du är attraherad av. Oftar
 Sigmund Freud såg sådana drömmar som ett direkt uttryck för undertryckta önskningar. Modern psykologi har dock en bredare syn: sexuella drömmar verkar handla om mycket mer än bokstavlig önskeuppfyllelse — de kan också spegla behov av intimitet, närhet, acceptans eller självkänsla. Om drömpartnern är någon du inte är attraherad av i verkligheten, handlar drömmen oftast om en egenskap personen förkroppsligar, inte om personen själv.
 
 Det är också värt att veta att fysiologisk upphetsning under REM-sömn är mycket vanlig och sker oberoende av drömmens innehåll — det säger i sig självt lite om faktiskt begär. Sexuella drömmar är en normal och vanlig del av sömnen, och de förtjänar samma nyktra och nyfikna tillnärmning som alla andra drömmar.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om sex **flera gånger**?

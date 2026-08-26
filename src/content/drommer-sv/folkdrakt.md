@@ -60,11 +60,3 @@ En känsla av att stå utanför en tradition eller gemenskap.
 Folkdräkten är en av de få nationella symboler som samlar människor över politik och generationer. I Sverige bärs den vid midsommar, bröllop och högtider — tillfällen då man bekänner sig till något gemensamt.
 
 Jungs Persona — den sociala masken — handlar om klädesdräkt i överförd bemärkelse: det man visar upp, den roll man tar på sig. Folkdräkten är en av de mest explicita formerna av Persona som finns: den säger tydligt vem du är, var du är ifrån och vad du representerar.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om folkdräkt **flera gånger**?

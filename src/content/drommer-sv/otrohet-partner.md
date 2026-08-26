@@ -77,10 +77,4 @@ Jung beskrev svartsjukan som ett av de mest komplexa psykologiska tillstånden: 
 
 En nordisk folklig visdom är relevant här: det man fruktar mest, det drömmer man om. Det är sant — och det betyder att drömmens innehåll säger mer om rädslan än om verkligheten.
 
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något som gör dig otrygg i dig själv?
-- Har du drömt om **partnerns otrohet** **flera gånger**?
-
 > 💡 **Läs även:** [Ångest och sömn](/sv/somn/angest-somn/) — för en djupare förståelse av hur dina drömmar hänger samman med sömnkvaliteten.

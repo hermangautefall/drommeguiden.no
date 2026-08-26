@@ -80,13 +80,3 @@ Skogen är också en stark bild för naturen och det vilda inom dig själv. Trä
 Om du i drömmen går vilse eller hittar stigen kan det också säga något om var du befinner dig just nu. Att famla utan riktning kan peka mot en period av osäkerhet kring vad nästa steg ska vara, medan att hitta en stig eller komma ut i en glänta kan tolkas som att en form av klarhet eller riktning är på väg — även om du inte ser den helt tydligt ännu.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om skog **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

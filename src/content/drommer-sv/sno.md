@@ -74,11 +74,3 @@ Snö bär ofta på två sidor i drömspråket. Den ena sidan är lugn, frid och 
 Nysnö som täcker allt kan tolkas som ett blankt blad — en möjlighet att börja om, eller en bild av något som håller på att täckas över eller döljas. Snö och vinter kan också tolkas som en vilofas, en mark i träda där något ligger och väntar på rätt tillfälle att växa igen — precis som frön vilar under snön och väntar på våren.
 
 För många är snö också nära förknippat med minnen och barndom — förundran inför den första snön, ljudet av den tystnad den skapar. Sådana drömmar kan helt enkelt tolkas som nostalgi, en längtan tillbaka till en enklare tid.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om snö **flera gånger**?

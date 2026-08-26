@@ -74,11 +74,3 @@ Genom olika kulturer har fågeln länge varit en bild för själen, anden och de
 I många traditioner har fåglar också varit budbärare — tecken på att något nytt är på väg. Drömmen kan därför handla om tankar, idéer eller förhoppningar som är i rörelse, som "lyfter" och hittar en ny form. En fågel som flyger bort kan på samma sätt tolkas som något du behöver släppa, eller en möjlighet som glider undan.
 
 Det är ofta värt att lägga märke till vilken fågel det är, eftersom olika fåglar bär olika associationer: en duva kan kännas som fred och försoning, en uggla kan tolkas som vishet — men också som ett varsel — medan en korp ofta bär med sig något mer mystiskt och tankeväckande. Se även [flyga](/sv/drommar/flyga/) som en besläktad drömsymbol.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du kvar med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om fågel **flera gånger**?

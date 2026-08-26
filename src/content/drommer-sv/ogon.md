@@ -62,11 +62,3 @@ En klassisk symbol för andlig insikt och intuition som väcks — mycket laddat
 I många kulturer runt Medelhavet och Mellanöstern finns också tron på "det onda ögat" — föreställningen om att en blick kan bära med sig avundsjuka eller en önskan om skada, och att man kan skydda sig mot det. Drömmar där du känner dig iakttagen av många ögon, eller av en blick du inte kan undkomma, kan påminna om just den känslan: av att bli bedömd, genomskådad eller följd på ett sätt som gör dig orolig.
 
 Samtidigt finns föreställningen om "det tredje ögat" inom hinduisk och buddhistisk tradition — en symbol för intuition och inre insikt, en förmåga att se bortom det som visas på ytan. Slutna eller blinda ögon i en dröm kan å sin sida tolkas som ett uttryck för undvikande — något i ditt liv som du ännu inte är redo att se rakt på, eller väljer att inte se.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om ögon **flera gånger**?

@@ -70,9 +70,3 @@ Underlivet som symboliskt centrum är ett av människokulturens äldsta teman. S
 I fornnordisk tradition hade Freja — gudinnan för kärlek, fruktbarhet och krigarkraft — centrum för all skapande energi i det feminina. Det var inte skamligt, utan heligt. Hennes kunskap inkluderade sejd — magisk praktik knuten till kropp och instinkt.
 
 Freud placerade det mesta av psykelivet i sexualiteten. Jung utvidgade detta: det primära är inte sexuellt, utan vitalt — det är livskraften själv som bor här, och sexualiteten är ett av dess uttryck.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är du i kontakt med din egen skapande kraft?
-- Har du drömt om **kropp och vitalitet** på detta sätt **flera gånger**?

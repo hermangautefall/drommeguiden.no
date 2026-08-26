@@ -96,12 +96,4 @@ drömmar räknas som en klassisk form av [mardröm](/sv/guider/mardrom/). Med
 [lucid drömning](/sv/guider/lucid-dromning/) kan man också öva på att vända
 sig om och möta förföljaren mitt i drömmen själv.
 
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om att bli förföljd **flera gånger**?
-
 > 💡 **Läs även:** [Ångest och sömn](/sv/sovn/angest-somn/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.

@@ -74,11 +74,3 @@ Drömmar om att förlora ett barn hör till de vanligaste drömmar föräldrar b
 I många kulturer är det tradition att inte berätta sådana drömmar högt — av rädsla för att de "kallar på" det de speglar. Det är ett förståeligt folkpsykologiskt skydd. Men drömforskningen stödjer inte sådana tolkningar.
 
 Det finns dock något djupt mänskligt i själva drömmens scen: föräldrar i alla kulturer i alla tider har drömt om att förlora det de håller kärast. Det är priset för att älska.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — finns det något sårbart du är rädd för att förlora?
-- Har du drömt om **förlust av barn** **flera gånger**?
-
-*Om du bär på sorg efter faktisk förlust av ett barn, kan samtal med en psykolog eller terapeut hjälpa dig genom drömmarnas och sorgarbetets tyngsta faser.*

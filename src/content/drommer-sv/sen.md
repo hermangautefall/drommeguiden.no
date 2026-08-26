@@ -60,11 +60,3 @@ En social dimension — rädsla för att sticka ut, för att inte höra till, f�
 För-sent-drömmarna är nära besläktade med [examensdrömmarna](/sv/drommar/tenta/) — båda speglar Persona-ångesten: masken som kan spricka under press. De är vanligast bland perfektionister, högpresterande och människor med stark pliktkänsla.
 
 Intressant nog har dessa drömmar blivit vanligare i modern tid — något som kan hänga samman med att vår upplevelse av tid har blivit mer komprimerad, mer kravfylld och mer fylld av konkurrerande åtaganden än någonsin.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om att komma för sent **flera gånger**?

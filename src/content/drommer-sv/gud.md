@@ -68,9 +68,3 @@ Att drömma om Gud kan ofta tolkas som ett sökande efter mening, vägledning el
 Gud kan i drömmar också uppträda som den yttersta auktoritets- eller föräldragestalten. Då handlar drömmen ofta om teman som dom, skuld, förlåtelse och acceptans — om att känna sig sedd och bedömd, eller om en längtan efter att bli erkänd för den du är. Var mötet strängt eller dömande kan det spegla en inre röst som varit för hård mot dig själv.
 
 Sådana drömmar dyker ofta upp i kriser, och de ger då gärna tröst, vördnad eller en känsla av att inte vara ensam — den typ av upplevelse som kallas "numinös" eller helig. Hur det gudomliga framträder i drömmen formas ofta av din egen uppväxt och bakgrund. Drömmen använder en bekant gestalt för att tala om mening och tillhörighet, och det gäller lika mycket den som inte är religiös som den som är det. Se även drömmar om [änglar](/sv/drommar/anglar/) eller [himlen](/sv/drommar/himmel/).
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — söker du något som är större än det vardagliga?
-- Har du drömt om **det gudomliga** **flera gånger**?

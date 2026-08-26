@@ -80,13 +80,3 @@ Husets skick i drömmen säger ofta något om din livssituation just nu. Förfal
 Huset är också nära knutet till trygghet, tillhörighet och identitet — skillnaden mellan fasaden vi visar utåt och det privata rummet innanför. Filosofen Gaston Bachelard skrev om huset som "vårt innersta varas geografi", där barndomshemmet lägger grunden för hur vi senare drömmer om rum och hem.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om hus **flera gånger**?
-
-Svaren ger ofta mer insikt än någon tolkningslista kan ge.

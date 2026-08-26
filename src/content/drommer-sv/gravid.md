@@ -69,11 +69,3 @@ Graviditetsdrömmar är inte förbehållna dem som väntar eller önskar barn. L
 Den grekiske drömtolkaren Artemidoros skrev redan på 100-talet att sådana drömmar måste tolkas utifrån den som drömde — samma bild kunde betyda helt olika saker för olika människor, beroende på livssituation. Det tänket är fortfarande relevant: en graviditetsdröm hos någon som väntar barn kan handla om något helt annat än samma dröm hos någon som just har börjat ett nytt jobb.
 
 Modern sömnforskning visar dessutom att kvinnor som faktiskt är gravida ofta rapporterar mer levande och emotionella drömmar — något som kan kopplas till hormonella förändringar och en annorlunda sömnrytm. För andra handlar drömmen mer om förväntan, om att bära på något nytt och värdefullt. I många folktraditioner har graviditet i drömmen dessutom tolkats som ett gott varsel — ett tecken på att något lyckosamt är på väg.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du kvar med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om gravid **flera gånger**?

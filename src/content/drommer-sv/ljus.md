@@ -61,11 +61,3 @@ En andlig erfarenhet som överskrider det ordinära — något närmar sig det t
 För nordbor — med vår starka ljusbrist på vintern och vår intensiva ljusglädje på sommaren — är ljuset extra laddat. Det nordiska förhållandet till ljus är inte metaforiskt; det är existentiellt. Att drömma om ljus i en mörk novembermånad är att drömma om något djupt saknat.
 
 Jung knöt ljuset till Självet i sin mest realiserade form — den fullt integrerade och medvetna individen. Att drömma om att se ljuset är att drömma om psykologisk helhet.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om ljus **flera gånger**?

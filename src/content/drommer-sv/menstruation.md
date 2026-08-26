@@ -76,9 +76,3 @@ Menstruationens symbolik är en av de äldsta i mänskliga kulturer. Månen — 
 I många ursprungstraditioner är menstruationstiden en krafttid — inte en period av svaghet, utan en tid med tillgång till vision och insikt. Många kulturer praktiserade menstruationsriter där kvinnor drog sig undan för att drömma och ta emot insikt för gemenskapen.
 
 Det är en av drömpsykologins stora blinda fläckar att menstruation som drömsymbol behandlats så lite — kanske för att drömpsykologin länge dominerades av manliga teoretiker. Det ger drommeguiden.no ett tydligt möjlighetsfönster: detta är en underserverad, verkligt sökt symbolsida.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt kvar i dig när du vaknade?
-- Vad händer i **ditt liv** just nu — är något i en naturlig avslutande eller förnyande cykel?
-- Har du drömt om **kropp och cykel** på det här sättet **flera gånger**?

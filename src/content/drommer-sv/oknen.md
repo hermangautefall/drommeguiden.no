@@ -64,11 +64,3 @@ Den ensamma resan genom något krävande — kanske ett nödvändigt enrum med d
 Öknen är i jungiansk psykologi knuten till Skuggland — den plats där jaget inte längre kan upprätthålla sina vanliga försvar och fasader. Där måste man möta sig själv utan distraktioner. Det är inte en behaglig plats, men det kan vara en nödvändig en.
 
 För nordbor, som sällan upplever öken i verkligheten, är öknen i drömmarna ett rent symboliskt rum — ett mentalt landskap som representerar det absolut främmande och extrema.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om öken **flera gånger**?

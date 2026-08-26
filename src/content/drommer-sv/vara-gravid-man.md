@@ -73,10 +73,4 @@ I många urfolkstraditioner — inklusive samiska och inuitiska kulturer — had
 
 Det är intressant att män i västerländska kulturer rapporterar denna dröm oftare än man förväntar sig — och att den nästan alltid visar sig knyta an till en pågående skapandeprocess, antingen professionellt, konstnärligt eller personligt.
 
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — vad håller du på att bringa fram?
-- Har du drömt om **att bära fram något** på detta sätt **flera gånger**?
-
 > 💡 **Läs även:** [Sömn under graviditet](/sv/somn/somn-graviditet/) — för en djupare förståelse av hur dina drömmar hänger samman med sömnkvaliteten.

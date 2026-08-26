@@ -75,11 +75,3 @@ I grekisk tradition var huvudet sätet för själen — Aristoteles menade att f
 Carl Jung ansåg däremot att överdriven vikt på huvudet — på det rationella och medvetna — var en av den moderna människans största faror. Drömmar där huvudet är i obalans med resten av kroppen kan i jungiansk mening peka mot ett psyke som behöver komma tillbaka till helheten — där kroppen, känslorna och det omedvetna inkluderas.
 
 I fornnordisk tradition var Mimer huvudet som innehöll all världens visdom — Oden offrade ett öga för att dricka av Mimers brunn. Huvudet är där visdom bor, men visdom är inte gratis.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om huvudet **flera gånger**?

@@ -60,11 +60,3 @@ Att drömma om magen kan handla om intuition — den visshet du har innan du har
 Magen är också där vi "smälter" det som händer oss. "Fjärilar i magen" eller att "inte tåla" något är bilder för hur erfarenheter och känslor bearbetas i kroppen. En dröm om magen kan därför spegla något du fortfarande är i färd med att bearbeta — en upplevelse som behöver mer tid för att "sätta sig".
 
 Magen kan också handla om näring och behov — hunger, vad som faktiskt ger dig energi, eller en sårbarhet du bär på (den mjuka, oskyddade magen). Ibland är förklaringen enklare än man tror: faktisk hunger eller matsmältning medan du sover kan också forma drömbilderna, och det finns ingen anledning att oroa sig för det.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om magen **flera gånger**?

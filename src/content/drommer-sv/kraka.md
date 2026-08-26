@@ -80,13 +80,3 @@ I fornnordisk mytologi har kråkan — och särskilt korpen — en helt central 
 I nordisk folktro har kråkan en mer vardaglig, men lika fascinerande roll. Den har setts som ett förebud — på vissa ställen sades det att en kråka som kretsade över ett hus varslade om dödsfall eller stora förändringar, medan kråkan på andra ställen respekterades som en klok och anpassningsduglig överlevnadskonstnär. Denna dubbelhet mellan förebud och visdom ger kråkdrömmar ett särskilt djup. Kråkan ber dig inte frukta det som kommer, utan att möta det med öppna ögon och ett skarpt sinne.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om kråka **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

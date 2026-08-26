@@ -71,9 +71,3 @@ Främlingen som arketypisk figur har existerat i drömforskning sedan Freud — 
 I romantisk litteratur — från medeltidens riddarromaner till 1800-talets gotiska berättelser — är den mystiska främlingen som dyker upp och förvandlar ett genomgående motiv. Det är för att det resonerar med något arketypiskt i psyket: mötet med det okända i dig själv är djupt transformerande.
 
 Fornnordisk mytologi har sin egen version: mötet med en valkyrja eller en skäggig vandrande främling (Oden i förklädnad) som bringar livsförändring. Det främmande bär alltid en gåva — om du vågar ta emot den.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade — nyfikenhet, frihet, förvirring?
-- Vad händer i **ditt liv** just nu — längtar du efter något nytt?
-- Har du drömt om **främlingar** med sexuellt innehåll **flera gånger**?

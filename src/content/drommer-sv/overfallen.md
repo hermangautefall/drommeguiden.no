@@ -74,11 +74,3 @@ Att drömma om att bli överfallen är mycket vanligt och handlar nästan alltid
 Många upplever också att de fryser eller inte kan ropa i drömmen — det är en helt normal del av REM-sömnen, där kroppen är naturligt förlamad, och har inget att göra med svaghet eller en "fel" reaktion. Drömmen kan helt enkelt vara sinnets sätt att öva på en hotrespons i ett tryggt rum.
 
 Angriparen i drömmen kan också representera en sida av dig själv — som ångest eller självkritik — eller en press du upplever från en konkret situation eller person. Om drömmen hänger ihop med något du faktiskt har upplevt är det inte ovanligt att sådana bilder dyker upp som en del av den naturliga bearbetningen — och det är aldrig fel att söka stöd om det känns tungt.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något som kränker dina gränser?
-- Har du drömt om **att bli angripen eller hotad** **flera gånger**?
-
-*Om dessa drömmar är knutna till reella upplevelser av våld eller övergrepp, förtjänar du stöd. Det är ingen skam att söka hjälp.*

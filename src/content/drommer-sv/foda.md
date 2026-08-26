@@ -72,9 +72,3 @@ Födseln är kanske den mest universella av alla arketypiska symboler. Alla kult
 Jung kallade individuationsprocessen — den livslånga rörelsen mot psykisk helhet — en serie symboliska födelseögonblick: delar av självet som tar form och träder in i medvetandet. Drömmens födelse är en av de kraftfullaste bilderna för sådana ögonblick.
 
 Barnmorskor i många kulturer — från svenska "jordemödrar" till grekiska "maiai" — var inte bara biologiska hjälpare, utan symboliska vägledare genom övergången. Drömmens födelse kan emellanåt inkludera en sådan vägledare — fråga dig vem som var närvarande, och vad de representerade.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är något redo att träda fram?
-- Har du drömt om **födsel** eller **att föda** **flera gånger**?

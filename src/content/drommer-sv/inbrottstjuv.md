@@ -74,11 +74,3 @@ Du söker och finner stöd. Du är inte ensam med det som hotar dig.
 Huset som jagets symbol är en av de mest konsekventa och universellt dokumenterade i drömforskning. Oavsett kultur och bakgrund använder drömmare huset som bild av sig själva — och då är den som bryter sig in alltid ett hot mot jaget.
 
 Intressant nog visar forskning att inbrottsdrömmar är vanligast hos dem som faktiskt upplever en reell kränkning av gränser i vaket liv — inte inbrott, utan situationer där personliga gränser inte respekteras. Drömmen är exakt och precis i vad den speglar.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om inbrottstjuv **flera gånger**?

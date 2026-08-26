@@ -68,9 +68,3 @@ Perfektionism och överdrivet konsekvenstänkande — en förlust är inte slute
 Prestationsmotiv — önskan att göra det bra och rädslan för att misslyckas — är ett av de mest studerade psykologiska fenomenen sedan David McClelland klassificerade det på 1950-talet. Drömmens förlust är en direkt manifestation av det McClelland kallade "fear of failure" — en av de två sidorna av prestationsbehovet.
 
 Det är intressant att fornnordisk kultur hade en mer nyanserad syn på förlust än många andra: i sagorna är det inte den som alltid vinner som är den ädlaste — det är den som förlorar med ära, som håller sina värden intakta i nederlaget. Drömmens förlust kan då ställa en fornnordisk fråga: om du förlorade, förlorade du med värdighet?
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något du är rädd att misslyckas med?
-- Har du drömt om **att förlora eller misslyckas** **flera gånger**?

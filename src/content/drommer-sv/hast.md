@@ -80,13 +80,3 @@ Genom olika kulturer har hästen länge förknippats med frihet och resning — 
 Häst-symbolen rymmer också tanken på partnerskap. Relationen mellan ryttare och häst bygger på ömsesidigt förtroende, och drömmen kan därför spegla en relation i ditt liv — eller förhållandet till dig själv, mellan den del som vill styra och den del som vill galoppera fritt. I mytologin finns även den bevingade Pegasos, en bild för inspiration och fantasins fria flykt, och hästar som bär mellan världar återkommer i berättelser från många kulturer.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om häst **flera gånger**?
-
-Svaren ger ofta mer insikt än någon tolkningslista kan ge.

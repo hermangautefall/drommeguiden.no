@@ -60,11 +60,3 @@ Munnen är platsen där ord blir till — och drömmar om munnen handlar ofta om
 Det som faktiskt kommer ut ur munnen i drömmen är också värt att lägga märke till — var orden sanna, hårda, vänliga, eller falska? Drömmar speglar ofta hur vi förhåller oss till sanning och ärlighet i vår kommunikation, både med andra och med oss själva.
 
 Munnen är samtidigt en ingång — det är här vi tar in mat, men också idéer, intryck och påverkan utifrån. En dröm om munnen kan därför handla om aptit i bred mening: vad du har lust på, vad du låter dig påverkas av, eller vad du kanske borde vara mer kritisk till att "svälja". Mundrömmar överlappar ofta med tanddrömmar, och kan båda handla om oro för utseende, kommunikation eller kontroll.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om munnen **flera gånger**?

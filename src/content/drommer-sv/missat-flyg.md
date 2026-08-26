@@ -63,9 +63,3 @@ Drömmen om att missa flyget är ett av de tydligaste exemplen på hur drömmarn
 Den speglar något mycket specifikt för vår tid: den accelererade kulturen, FOMO (fear of missing out), och den ständiga upplevelsen av att livet kräver mer av dig än du har kapacitet att ge.
 
 Existensfilosofen Søren Kierkegaard skulle kanske ha kallat detta "ångest för möjligheten" — inte ångest för ett konkret ont, utan ångest för själva den öppna horisonten av val och möjligheter där fel val alltid är möjligt.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något du är rädd för att gå miste om?
-- Har du drömt om **att komma för sent eller missa något** **flera gånger**?

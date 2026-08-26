@@ -63,10 +63,4 @@ Skamforskaren June Price Tangney beskriver två typer av skam: adaptiv skam som 
 
 Det är intressant att fornnordisk kultur hade ett mycket konkret och socialt definierat skambegrepp — niðingsverk (en äreskränkande handling) var något som faktiskt förtjänade skam. Samtidigt var modet att visa upp sina brister och ta ansvar för dem en dygd. Drömmens skam utmanar dig kanske till detsamma: är det något som faktiskt behöver erkännas — och finns det mod att göra det?
 
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något du håller dolt för att du är rädd för domen?
-- Har du drömt om **skam eller att avslöjas** **flera gånger**?
-
 > 💡 **Läs också:** [Ångest och sömn](/sv/sovn/angest-somn/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.

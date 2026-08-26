@@ -58,11 +58,3 @@ Du är en del av en rörelse som är större än dig själv — en flock, ett ar
 I samisk schamanism är renen ett av de viktigaste kraftdjuren — noajden (schamanen) reser på renens rygg till andra världar. Renen är bron mellan den mänskliga världen och de andliga.
 
 För det nordiska storsamhället är renen en symbol för något äkta och icke-kommersialiserat vid Norden — något som verkligen hör hemma i [skogen](/sv/drommar/skog/) och på viddorna, på ett sätt som städerna och motorvägarna inte gör. Att drömma om ren är att drömma om något av det mest ursprungliga i det nordiska.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om ren **flera gånger**?

@@ -63,9 +63,3 @@ Några av de mest intensiva lyckodrömmarna är inte om prestationer eller relat
 Positiv psykologi — pionjärad av Martin Seligman — skiljer mellan njutningslycka (hedonisk lycka från behagliga upplevelser) och meningslycka (eudaimonisk lycka från ett liv i linje med värderingar och förmågor). Drömmens lycka är ofta av det senare slaget: ett tillstånd av djupare harmoni än vardagens glädjeämnen.
 
 Aristoteles kallade detta eudaimonia — det goda livet, inte det lyckliga livet i ytlig mening. Drömmens lycka är ibland en glimt in i just detta: hur ditt goda liv faktiskt skulle se ut.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — finns det utrymme för mer glädje?
-- Har du drömt om **ren glädje eller lycka** **flera gånger**?

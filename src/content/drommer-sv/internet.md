@@ -59,9 +59,3 @@ Drömmar om att tappa internetuppkopplingen, om trögt nät, om att inte hitta f
 Internet som drömsymbol är relativt nytt och lite studerat — men växer snabbt i drömrapporter. Det är intressant att det redan har fått en fast plats i drömmarnas bildspråk på bara några decennier: det säger något om hur djupt det digitala nätverket är integrerat i vårt kollektiva medvetande.
 
 Marshall McLuhan — medieteoretikern som sade "mediet är budskapet" — skulle sett internet som en förlängning av det mänskliga nervsystemet. Drömmens internet är då: vårt kollektiva nervsystem, synliggjort.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — söker du något du inte finner?
-- Har du drömt om **digitala nätverk** **flera gånger**?

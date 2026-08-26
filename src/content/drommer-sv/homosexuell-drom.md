@@ -67,9 +67,3 @@ Sexuella drömmar om det egna könet är vanliga, oavsett vem man dras till i va
 Det är intressant att många icke-västerländska kulturer och urfolkstraditioner — inklusive fornnordisk shamanism — har haft utrymme för "två-andar" och könsrelaterad flexibilitet i visionära tillstånd. Det visionära eller drömmande jaget är gärna mer flytande än det socialt konstruerade.
 
 Modern drömforskning är entydig: denna typ av dröm är inte diagnostisk för sexuell läggning. Det är ett bildspråk bland många för psykets rörelse mot integration och självacceptans.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något du kämpar med att acceptera i dig själv?
-- Har du drömt om **liknande scenarier** **flera gånger**?

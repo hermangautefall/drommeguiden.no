@@ -61,11 +61,3 @@ Den mest dramatiska bilden — något fundamentalt och okänt öppnar sig under 
 Jordbävningen är i jungiansk mening knuten till det omedvetna i sin mest okontrollerbara form — de krafter som opererar under medvetandets yta och som med jämna mellanrum bryter fram med stor kraft. Drömmen är inte ett varsel — den är en beskrivning av ett inre tillstånd. Temat påminner om drömmar om att [falla](/sv/drommar/falla/), där något stabilt plötsligt ger efter.
 
 För nordbor, som bor i ett land utan stora jordbävningar, är dessa drömmar särskilt symboliska snarare än realistiska — de speglar något som bryter mot vår grundläggande förväntning på stabilitet och fasthet.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om jordbävning **flera gånger**?

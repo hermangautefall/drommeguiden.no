@@ -62,14 +62,6 @@ Till och med det skyddade farvattnet är i rörelse — något stör det som bru
 
 ## Fjorden i den nordiska självbilden
 
-Fjorden är för nordisk självförståelse det Nilen är för Egypten eller Themsen för England — ett geografiskt element som har blivit identitet. Hardangerfjorden, Sognefjorden, Geirangerfjorden: namnen är laddade med tillhörighet och stolthet. Att drömma om fjord är att drömma om nordenhetens kärna.
+Fjorden är för nordisk självförståelse ungefär det Nilen är för Egypten — ett geografiskt drag som har blivit identitet. I Sverige finns bara en enda äkta tröskelfjord: Gullmarn i Bohuslän, med en djuprända som når långt under omgivande havsbotten. De stora fjordlandskapen ligger på andra sidan Kölen, men bilden är gemensam för hela Norden.
 
-I fornnordisk tid var fjorden hem och väg på en gång — där långskeppen låg, där handeln pågick, där [älvarna](/sv/drommar/alv/) mötte sjön, där livet pulserade. Fjorden är inte ett främmande element i nordisk psyke; det är vardagen genom tusen år.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om fjord **flera gånger**?
+I fornnordisk tid var fjorden hem och väg på en gång — där långskeppen låg, där handeln pågick, där [älvarna](/sv/drommar/alv/) mötte havet, där livet pulserade. Fjorden är inget främmande element i nordisk psyke; den är vardag genom tusen år, och det är sannolikt därför bilden bär så mycket även för den som aldrig bott vid en.

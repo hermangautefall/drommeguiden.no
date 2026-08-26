@@ -63,11 +63,3 @@ En resväska i drömmen kan tolkas som en bild av resa och övergång — att n�
 Uttrycket "emotionellt bagage" är inte av en slump — resväskan kan tolkas som det du bär med dig av tidigare erfarenheter, olösta saker eller mönster från det förflutna. En tung resväska kan därför spegla en känsla av att bära för mycket, medan en [förlorad resväska](/sv/drommar/forlora-nagot/) kan tolkas som en rädsla för att förlora en del av sig själv, eller tappa kontrollen mitt i en övergång.
 
 Vad du lägger i resväskan, och vad du lämnar kvar, kan också spegla prioriteringar — vad som faktiskt betyder något för dig just nu, och vilken identitet du tar med dig vidare. Resan kan kännas som frihet och nya möjligheter, men resväskan är samtidigt en påminnelse om tyngden av det vi inte riktigt kan lägga ifrån oss.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om resväska **flera gånger**?

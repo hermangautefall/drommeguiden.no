@@ -61,9 +61,3 @@ Ibland handlar drömmens sociala medier inte om det som visas, utan om det som i
 Sociala medier som drömsymbol är ännu nyare än [internet](/sv/drommar/internett/) generellt — och växer snabbt. Det är förenligt med det vi vet om hur drömmarna speglar vardagslivets starkaste symboler: där telefonen och TV:n dominerade förra generationens drömmar, dominerar Instagram och TikTok nu.
 
 Det fascinerande är att sociala mediers djupaste psykologiska mekanismer — bekräftelse, jämförelse, identitetsprojektion — inte är nya. De är uråldriga mänskliga behov klädda i ny teknologisk skrud. Drömmens sociala medier är därmed en modern arketyp.
-
-## Drommeguiden rekommenderar
-
-- Vilken **känsla** satt du kvar med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det ett avstånd mellan den du är och den du presenterar dig som?
-- Har du drömt om **sociala medier eller att bli sedd** **flera gånger**?

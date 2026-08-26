@@ -57,14 +57,6 @@ Det fornnordiska är närvarande — något gammalt och kraftfullt är en del av
 
 ## Två traditioner sammanflätade
 
-Norge har omkring 28 bevarade stavkyrkor — de flesta från 1100- och 1200-talet. De är inte museer; de är levande kyrkor, många fortfarande i bruk. De representerar en period då den fornnordiska och den kristna traditionen var i aktiv dialog, och där resultatet blev något helt unikt i världshistorien.
+Sverige har en enda bevarad stavkyrka: Hedared i Västergötland, uppförd omkring år 1500. Norge har ett trettiotal, de flesta betydligt äldre. Byggnadstekniken fanns på båda sidor om gränsen — det var bevarandet som uteblev här, och just därför bär den svenska ensamheten på något eget: en byggnad som stod kvar när alla de andra försvann.
 
-Borgunds stavkyrka, Heddal stavkyrka, Urnes stavkyrka — dessa är inte bara arkitektur. De är symboler för att en kultur kan bära på två traditioner samtidigt utan att den ena utplånar den andra. Det är en psykologisk lärdom i sig: integration framför utrotning.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om en stavkyrka **flera gånger**?
+Stavkyrkan hör till en period då den fornnordiska och den kristna traditionen fortfarande var i aktiv dialog. Drakhuvuden och rankslingor sitter på kyrkor byggda för en ny tro. Det säger något annat än att den ena traditionen slog ut den andra: två världsbilder fick plats i samma byggnad. Det är en psykologisk lärdom i sig — integration framför utrotning.

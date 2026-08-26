@@ -60,11 +60,3 @@ Du tar till dig näring från något du kanske haft ett ambivalent förhållande
 I nordisk tradition är grisen faktiskt ett ädelt djur — Frej, fruktbarhetsguden, red på vildsvinet Gullinbursti som sprang snabbare än någon häst. Valhalls invånare åt köttet av vildsvinet Särimner på kvällen och fann det igen friskt och helt nästa morgon. Grisen är i nordisk mening livets överflöd och regenerationsförmåga personifierad.
 
 Jung skulle ha sett grisdrömmen som en inbjudan att utforska de sidor av livet man lärt sig skämmas över — det fysiska, det aptitfulla, det som inte passar in i kultiverade normer, men som är en naturlig del av att vara människa. Se även [ko](/sv/drommar/ko/) och [får](/sv/drommar/far/) för andra husdjurssymboler.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du kvar med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om gris **flera gånger**?

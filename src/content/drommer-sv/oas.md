@@ -63,9 +63,3 @@ Oasen är en av de äldsta religiösa och mytologiska bilderna i de stora ökenk
 I den judisk-kristna berättelsen är ökenvandringen och oasen centrala: Israels folk i öknen, Elia som kollapsar och hittar mat under enbusken, Jesus i öknen i fyrtio dagar. Oasen är inte bara vila — den är Guds försyn mitt i det mänskligt omöjliga.
 
 Psykologiskt sett är oasen en symbol för det Jung kallade den "transcenderande funktionen" — den punkt där psyket hittar en ny syntes när två motpoler har nött ut varandra. Efter den psykiska öknen: oasen.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är du i en uttorkande period, och vad behöver du?
-- Har du drömt om **vila och tillflykt** **flera gånger**?

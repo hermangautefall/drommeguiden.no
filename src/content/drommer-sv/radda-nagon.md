@@ -69,9 +69,3 @@ En svår situation i livet kräver mer av dig än det är enkelt att ge.
 Hjälten som räddar den svaga är ett av mytologins mest universella motiv — från Herakles som befriar Prometheus till Sigurd som väcker Brynhild ur hennes trollsömn. I alla dessa berättelser är räddningshandlingen inte bara extern — den är transformerande för hjälten själv.
 
 I nordisk folktro och sagotraditionen är Askepotten prototypen: han hjälper dem han möter på vägen, och hjälpen han ger för honom till slut till framgång. Det som räddas, räddar i sin tur den som räddade. Drömmens räddning bär detta mönster: det du hjälper fram, hjälper dig tillbaka.
-
-## Drömguiden rekommenderar
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu — är det något i dig som behöver räddning?
-- Har du drömt om **att rädda någon** **flera gånger**?

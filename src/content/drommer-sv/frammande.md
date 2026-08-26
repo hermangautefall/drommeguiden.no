@@ -66,11 +66,3 @@ En främling i drömmen bär ofta på en okänd potential — en egenskap, en ta
 Drömmen kan också spegla hur du förhåller dig till det nya i allmänhet — förändringar, nya människor, okända situationer som är på väg in i ditt liv. Om främlingen i drömmen känns avslappnande eller oroande kan det säga något om hur öppen eller försiktig du är inför det oväntade just nu.
 
 Vi har dessutom en tendens att projicera på främlingar: de blir tomma ytor vi fyller med våra egna känslor. En hotfull främling kan därför bära på en rädsla du redan har, medan en hjälpsam främling kan representera en resurs, ett råd eller en väg framåt du inte riktigt sett själv. I många berättelser är just den mystiska främlingen någon som dyker upp för att föra med sig ett budskap eller sätta något i rörelse — en liten katalysator i berättelsen om ditt liv.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om främling **flera gånger**?

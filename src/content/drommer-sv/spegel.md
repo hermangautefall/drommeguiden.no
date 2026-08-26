@@ -80,13 +80,3 @@ Att möta ett främmande ansikte i spegeln — eller en version av dig själv du
 Spegeln har länge varit en bild för sanning och självinsikt i berättelser och folktro, från Snövits talande spegel till Narcissus som fångades av sin egen bild i vattnet. I många folktraditioner har speglar också setts som portaler eller "själfångare" — därför täcktes de över efter ett dödsfall, och en krossad spegel varslade om olycka. Denna arv gör att speglar i drömmar ofta känns mer laddade än ett vanligt vardagsföremål.
 
 ---
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om spegel **flera gånger**?
-
-Dina svar ger ofta mer insikt än någon tolkningslista kan ge.

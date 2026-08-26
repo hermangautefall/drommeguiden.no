@@ -61,11 +61,3 @@ En ny början — något friskt och energigivande är på väg in.
 Solen är universellt kopplad till den maskulina principen i många traditioner — det medvetna, det aktiva, det som belyser. Jung kallade solen en symbol för Egot i dess klaraste och starkaste form. I nordisk tradition är Sol (Sól) gudinnans namn — hon kör solvagnen över himlen, alltid förföljd av vargen Sköll. Solen är liv, men den är också jagad och förgänglig. Se även [stjärnor](/sv/drommar/stjarnor/) och [himlen](/sv/drommar/himmel/) för besläktade drömsymboler.
 
 För svenskar, som lever med stora ljusvariationer under året, är solen extra laddad — soluppgången i april efter en lång vinter är en fysisk och känslomässig händelse. Att drömma om sol i nordisk kontext berör något djupt om ljus och mörker som är mer än bara meteorologi.
-
-## Drommeguiden rekommenderar
-
-Drömmar ger sällan ett enkelt svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du kvar med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om solen **flera gånger**?

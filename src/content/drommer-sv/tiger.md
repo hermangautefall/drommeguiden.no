@@ -64,12 +64,3 @@ Tigern kan tolkas som en bild av en rå, okontrollerad kraft inom dig — passio
 En tiger som smyger eller verkar hotfull kan tolkas som en fara eller en stark känsla du har undvikit att förhålla dig till. Att möta tigern, eller till och med tämja den i drömmen, kan tolkas som ett tecken på att du är på väg att använda den här kraften på ett sätt som gynnar dig, istället för att låta den styra dig.
 
 I kinesisk tradition är tigern ett av de tolv djuren i den astrologiska cykeln och förknippas med mod, styrka och skydd mot det onda. I hinduistisk mytologi rider gudinnan Durga på en tiger eller lejon — en bild av en våldsam men beskyddande kvinnlig kraft. Tigern är också ett djur som lever mycket för sig själv, och drömmen kan därför även handla om oberoende och självständighet — styrkan i att stå på egna ben.
-
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om tiger **flera gånger**? Läs om [återkommande drömmar](/sv/guider/aterkommande-drommar/).

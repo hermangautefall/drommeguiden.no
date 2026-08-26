@@ -65,11 +65,3 @@ Att drömma om sjukdom kan ofta tolkas som kroppens och sinnets sätt att sätta
 Sådana drömmar kan också vara en påminnelse om att ta hand om dig själv — att sänka tempot lite, vila, och erkänna behov du kanske skjutit åt sidan. Det är inget misslyckande att behöva omsorg; drömmen kan helt enkelt vara sinnets sätt att säga att det är tid att lyssna på kroppen.
 
 Om drömmen väcker oro för din egen eller andras hälsa är det bra att veta att sådana drömmar nästan aldrig är bokstavliga eller förebådande — de handlar om känslor, inte om framtiden. Ofta pekar de mot ett mönster eller en olöst fråga som "pyrt" en tid, och som det kan vara bra att ge lite uppmärksamhet innan den växer sig större.
-
-## Drömguiden rekommenderar
-
-Drömmar ger sällan ett enda svar — de talar till dig genom bilder och känslor. Fråga dig själv:
-
-- Vilken **känsla** satt du med när du vaknade?
-- Vad händer i **ditt liv** just nu?
-- Har du drömt om sjukdom **flera gånger**?
