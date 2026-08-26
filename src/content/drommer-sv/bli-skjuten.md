@@ -56,7 +56,7 @@ Benen: en attack mot det som bär dig och ger dig riktning.
 
 ### Bearbetning av faktiskt våld eller trauma
 
-För dem som har varit utsatta för faktiskt våld, hot eller traumatiska händelser: drömmens skott kan vara en direkt bearbetning av dessa erfarenheter. Se guiden om [PTSD och drömmar](/sv/sovn/ptsd-drommar/) för mer om detta.
+För dem som har varit utsatta för faktiskt våld, hot eller traumatiska händelser: drömmens skott kan vara en direkt bearbetning av dessa erfarenheter. Se guiden om [PTSD och drömmar](/sv/somn/ptsd-drommar/) för mer om detta.
 
 ## Vem som sköt — och var du blev träffad
 

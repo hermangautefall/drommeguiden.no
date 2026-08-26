@@ -73,4 +73,4 @@ Freud tolkade alla drömmar med sexuell urladdning som uttryck för undertryckta
 
 Fornnordisk mytologi har en intressant parallell: Freja — gudinnan för kärlek, fruktbarhet och krigisk kraft — räknas som förbindelsen mellan erotisk glädje och skaparkraft. Orgastisk energi var inte skambelagd, utan sågs som livsbejakande och kreativ.
 
-> 💡 **Läs också:** [Sömnfaser och REM-sömn](/sv/sovn/sovnfaser/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.
+> 💡 **Läs också:** [Sömnfaser och REM-sömn](/sv/somn/somnfaser/) — om vad som händer i kroppen under REM-sömnen.

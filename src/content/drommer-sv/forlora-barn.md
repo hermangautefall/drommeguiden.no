@@ -65,7 +65,7 @@ Lättnad och återförening — något du fruktade att förlora är inte förlor
 En obearbetad rädsla som fortfarande lever i dig. Vad i ditt liv behöver mer omsorg och uppmärksamhet?
 
 **Om drömmen uppträdde efter faktisk sorg eller förlust:**
-För dem som har förlorat ett barn i verkligheten: dessa drömmar är en del av sorgbearbetningen och förtjänar rymlighet och stöd. Se guiden om [sorg och sömn](/sv/sovn/sorg-somn/).
+För dem som har förlorat ett barn i verkligheten: dessa drömmar är en del av sorgbearbetningen och förtjänar rymlighet och stöd. Se guiden om [sorg och sömn](/sv/somn/sorg-somn/).
 
 ## Den djupaste omsorgsrädslan
 

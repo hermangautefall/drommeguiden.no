@@ -96,4 +96,4 @@ drömmar räknas som en klassisk form av [mardröm](/sv/guider/mardrom/). Med
 [lucid drömning](/sv/guider/lucid-dromning/) kan man också öva på att vända
 sig om och möta förföljaren mitt i drömmen själv.
 
-> 💡 **Läs även:** [Ångest och sömn](/sv/sovn/angest-somn/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.
+> 💡 **Läs även:** [Ångest och sömn](/sv/somn/angest-somn/) — om varför otrygghet ger så levande drömmar.

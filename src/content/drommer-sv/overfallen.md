@@ -41,7 +41,7 @@ Frågan är: vad vill du skydda — och vad skyddar dig?
 
 Om du har upplevt kränkningar, trakasserier, våld eller trauman — antingen nyligen eller i det förflutna — kan drömmens överfall vara direkt bearbetning av dessa erfarenheter. Drömmarna är en del av traumats naturliga bearbetningsprocess.
 
-För dem med PTSD är överfallsdrömmar särskilt vanliga och kan kräva professionellt stöd. Se guiden om [PTSD och drömmar](/sv/sovn/ptsd-drommar/).
+För dem med PTSD är överfallsdrömmar särskilt vanliga och kan kräva professionellt stöd. Se guiden om [PTSD och drömmar](/sv/somn/ptsd-drommar/).
 
 ### Den inre angriparen
 

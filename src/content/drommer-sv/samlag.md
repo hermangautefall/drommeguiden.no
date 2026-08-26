@@ -73,4 +73,4 @@ Jungs perspektiv är mer nyanserat och mer relevant för de flesta: det sexuella
 
 I de flesta kulturer har sexuella drömmar tolkats som tecken på fruktbarhet, kreativitet och livskraft — inte som skambelagda uttryck för omedvetna lystnader. Det fornnordiska begreppet "sejd" inkluderade erotiska visioner som en del av ett utvidgat medvetande.
 
-> 💡 **Läs också:** [Sömnfaser och REM-sömn](/sv/sovn/sovnfaser/) — för en djupare förståelse av hur dina drömmar hänger samman med din sömnkvalitet.
+> 💡 **Läs också:** [Sömnfaser och REM-sömn](/sv/somn/somnfaser/) — om varför REM-sömnen är där de mest kroppsliga drömmarna hör hemma.
