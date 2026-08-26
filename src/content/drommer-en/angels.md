@@ -82,3 +82,9 @@ Dreaming about angels is, more than anything, often about protection, comfort, e
 The word "angel" comes from the Greek *angelos*, which simply means "messenger." In dreams, the angel can therefore represent a message or an insight on its way to you — worth noticing what the angel said, did, or what feeling it left behind. The angel can also be understood as your own conscience or better nature — the part of you that knows what's right, and that wants to protect and guide you through whatever is difficult.
 
 Angels appear in Judaism, Christianity and Islam as intermediaries between the human and the divine, and similar figures recur across many other traditions. That makes the image of the angel something recognisable to a great many people — including those who aren't religious. Dreams like this are especially common around grief, and are often experienced as a quiet comfort that something — or someone — is at peace. Dreams about [God](/en/dreams/god/) or heaven can carry a similar resonance.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the messenger and the numinous: an encounter with something felt to be larger than oneself.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — divine and messenger dreams in antiquity, long before psychology.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the dream's religious imagery follows the dreamer's own background.

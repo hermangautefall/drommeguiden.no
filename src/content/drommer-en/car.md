@@ -77,3 +77,8 @@ A car in a dream can often be read as an image of your life journey — and the 
 It's worth remembering that the car is a fairly young symbol in the history of dreams — a good example of how our dream language keeps renewing itself alongside society. New objects and technologies become new symbols, but they often carry familiar, age-old themes of power, freedom, and direction.
 
 Often it's the car's condition and speed that hold the key to the interpretation. Reckless driving can be about a situation that's spun out of control, while a car that suddenly stalls can mirror the feeling of being stuck or standing still in life. A collision can be read as fear of an approaching conflict — something you may have seen coming without quite being ready for it. Dreaming about a car with no brakes belongs to the same family of dreams, where the feeling of being unable to stop takes center stage.
+
+## Sources and further reading
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the car is about direction and control rather than traffic.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how often vehicles appear in dreams.

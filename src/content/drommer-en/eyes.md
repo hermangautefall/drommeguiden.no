@@ -63,3 +63,8 @@ The eye is one of the most universal symbols in human culture, turning up in vas
 In many cultures around the Mediterranean and Middle East there's also a belief in "the evil eye" — the idea that a gaze can carry envy or ill intent, and that one can be protected against it. Dreams where you feel watched by many eyes, or by a gaze you can't escape, can echo this same feeling: of being judged, seen through, or tracked in a way that unsettles you.
 
 At the same time, Hindu and Buddhist traditions carry the idea of the "third eye" — a symbol of intuition and inner insight, an ability to see past what shows on the surface. Closed or blind eyes in a dream, on the other hand, can be read as an expression of avoidance — something in your life you're not yet ready to look at directly, or that you're choosing not to see.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the body parts in dreams, with the eye tied to insight and to being seen.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the gaze as encounter: to see and to be judged in the same moment.

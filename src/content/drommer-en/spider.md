@@ -84,3 +84,9 @@ The image of the spider as weaver shows up again and again, across cultures that
 At the same time, spiders are among the most common phobias, and many spider dreams are really about being caught in a web — a relationship that feels manipulative, a sticky situation that's hard to get out of, or a general sense of being trapped. Asking who or what is spinning the web in the dream can be a useful question to sit with.
 
 In some psychological readings, the spider is also linked to a powerful — and potentially controlling — mother figure, because it both creates and traps at the same time. But the spider can just as easily represent patience and craft: it builds slowly and precisely, and waits. A web that takes time to spin, but holds.
+
+## Sources and further reading
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how often insects and spiders appear in dreams.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the web as an image of what you are caught in, and of what you have woven yourself.
+- Antti Revonsuo, 'The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming', *Behavioral and Brain Sciences* 23(6), 2000 — the threat simulation theory: small creatures as one of the oldest and most bodily fears.

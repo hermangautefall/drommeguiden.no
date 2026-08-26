@@ -59,3 +59,9 @@ The elephant is often associated with memory — "an elephant never forgets" —
 In Hindu tradition, Ganesha, the elephant-headed god, is one of the most beloved figures — known for removing obstacles and opening doors to new beginnings. In Buddhist storytelling tradition, Queen Maya is said to have dreamed of a white elephant before the Buddha was born, and the elephant thereby became a sacred omen of something great on its way. The white elephant has since stood as an image of a disciplined, calm mind — perhaps a quality your dream is pointing toward you having, or needing more of.
 
 The dream may also be about "the elephant in the room" — something big and obvious that you or others are avoiding talking about. In other cases, the elephant may instead be read as a heavy burden you're carrying, something that takes both strength and patience to handle, but that you are, after all, equipped to bear.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — memory and weight: a force that moves slowly but will not be stopped.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on which animals appear in dreams.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why calm or trampling decides the reading.

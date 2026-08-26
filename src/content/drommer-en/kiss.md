@@ -76,3 +76,9 @@ Care, respect and blessing rather than romance. What do you need protection or s
 Kissing as ritual has deep roots in nearly every culture. In Norse tradition, a kiss could seal an oath or a bond. In Roman law, a kiss confirmed verbal agreements. In mystical traditions, the kiss symbolises the transfer of life-breath and divine spark.
 
 Freud read the kiss in dreams — like most things — as sexual. Jung broadened this into something more fundamental: a kiss is union, and union is the psyche's deepest longing. The whole process of individuation — the lifelong movement toward wholeness — can be described as a series of kisses between the known and the unknown within you.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the kiss as a sign of pact, alliance and affection in antiquity's dream interpretation.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the union of opposites, of which the kiss is the gentlest image.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: who you kiss says more about the relationship than about desire.

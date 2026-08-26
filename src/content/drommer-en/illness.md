@@ -66,3 +66,9 @@ Dreaming about illness can often be read as the body and mind's way of putting w
 Dreams like these can also be a reminder to take care of yourself — to slow down a little, rest, and acknowledge needs you may have pushed aside. Needing care isn't a failure; the dream may simply be the mind's way of saying it's time to listen to the body.
 
 If the dream stirs up worry about your health or someone else's, it can help to know that dreams like these are almost never literal or predictive — they're about feelings, not the future. They often point to a pattern or an unresolved issue that's been quietly simmering for a while, and one that might benefit from a little attention before it grows any bigger.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — illness and the body as dream motifs in antiquity, and how they were read as omens.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: worry about health follows you into the dream without foretelling anything.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — anxiety dreams and how unease finds a bodily form.

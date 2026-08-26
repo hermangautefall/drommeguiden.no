@@ -58,3 +58,9 @@ Darkness, disorientation and a lack of hope. Something has hidden your usual poi
 In Norse tradition, the stars were said to be scattered from the sparks of Muspelheim — born in the chaos of creation, placed by the gods to light up the night sky. Dreaming about stars, seen through that lens, touches something of that first creative spark — something ancient and radiant.
 
 Astronomically, we are all made of stardust — and this recognition, that we are quite literally part of the cosmos, gives stars a symbolic depth that reaches beyond mythology. The moon and the [sun](/en/dreams/sun/) are related dream symbols worth exploring too.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the signs of the sky as dream motifs in antiquity, and as a means of orientation.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the star as an image of direction and of the Self one navigates by.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why star dreams arrive in periods of choice.

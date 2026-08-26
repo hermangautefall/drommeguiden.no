@@ -65,3 +65,8 @@ Sigmund Freud wrote about this very dream, pointing to a pattern many people rec
 For many people, though, the exam dream is really about a more general kind of performance anxiety. The fear of being tested, judged, or exposed as not good enough doesn't stay confined to school — it follows us into work, into relationships, and into parenthood, anywhere we might feel we're being evaluated.
 
 The continuity hypothesis in dream research suggests that dreams like this tend to become more frequent during periods when we're genuinely under pressure. Seen that way, the exam dream can be the psyche's way of reminding you that something in your life right now is asking more of you than usual — and that, just like back then, you're probably more prepared than you think.
+
+## Sources and further reading
+
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — the examination dream, one of the motifs Freud described earliest and most clearly.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the dream arrives when something is about to be judged.

@@ -64,3 +64,9 @@ Gold has always been the measure of the precious, and in dreams it often functio
 But gold also has a shadow side. The lure of riches can be read as greed or ambition that's gotten out of hand, and the dream may pose the question: is this genuine value, or just something that glitters? The difference between gold and fool's gold — what looks like a lot but isn't — may be exactly what the dream is asking you to notice.
 
 In alchemy, the transformation of lead into gold was never just about metal — the alchemists themselves described it as an image of inner work, where something raw and unrefined in a person is gradually refined. Seen this way, the gold in your dream can become a sign of growth and transformation already underway. Gold can also simply be an image of mastery and reward — "the gold standard," succeeding at something you've invested a great deal in, or finally winning something you've strived for over a long time.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — gold in alchemy as an image of the Self and of what is genuinely valuable.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — wealth and property as dream motifs in antiquity.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: what you do with the gold says more than the gold itself.

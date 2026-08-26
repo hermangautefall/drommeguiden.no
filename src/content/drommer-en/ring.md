@@ -69,3 +69,8 @@ The ring's shape has no beginning and no end, and that unbroken circle is perhap
 At the same time, the circle can be read as an image of wholeness in itself — not only what binds you to something outside yourself, but a sense that something in you has rounded off, come "full circle." A ring can also point to status and belonging: a signature piece, a role, a symbol that you belong to a particular group or hold a particular position.
 
 If the ring in the dream was lost or broken, it can be read as unease that a commitment is at risk, or fear that a relationship is falling apart. Finding a ring, on the other hand, can mirror a new bond making its way into your life — an opportunity, an agreement, or a sense of belonging you haven't yet noticed.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the circle without end: the ring as an image of wholeness and of binding at once.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why a lost ring is rarely about jewellery.

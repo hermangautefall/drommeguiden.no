@@ -75,3 +75,9 @@ Dreams about drowning often reflect a feeling of being overwhelmed — after all
 These dreams tend to be intense, with a strong sense of panic and the body's alarm system fully activated. It can simply be unpleasant to wake up from them. For some, a drowning dream can even have a purely physiological explanation — for instance if breathing was uneven or obstructed during sleep — but most often it points to something pressing on you in waking life.
 
 In many cultures, there's also an older idea that going under water is about more than just danger. Submersion is often linked to purification and transition — going under only to come back up again, somewhat changed. Seen this way, a drowning dream, even though it feels dramatic, can just as easily be read as the start of something new rather than only a warning — not unlike how dreams about [falling](/en/dreams/falling/) often reflect a transition you're in the middle of.
+
+## Sources and further reading
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche gives overwhelming feeling its most bodily image.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the water is rarely about water.
+- Matthew Walker, *Why We Sleep* (2017) — REM sleep and emotional regulation, and what happens when it is disrupted.

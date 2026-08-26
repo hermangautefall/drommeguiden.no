@@ -74,3 +74,8 @@ Feet are the foundation you stand on — what makes you grounded and stable. "St
 Feet also carry you forward — they're about direction and movement. A dream about walking can be about where your path is leading, whether you're moving toward something you want, or whether you're making any progress at all. Being stuck, or unable to move forward no matter how much you walk, can reflect a period where something in life feels stagnant.
 
 At the same time, feet are about freedom and independence — the ability to go your own way without depending on others. Injured or bound feet can therefore reflect limited freedom, or a feeling of being held back. Feet also hold a place as a symbol of humility across many traditions — washing feet as a sign of care and service appears across cultures — and the familiar reminder that even the longest journey begins with a single step holds just as true in the world of dreams as it does in waking life.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the body parts in dreams, with the feet tied to progress and independence.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the state of the feet follows felt footing in life.

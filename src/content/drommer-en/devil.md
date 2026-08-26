@@ -76,3 +76,9 @@ The devil in a dream can be read as the denied, repressed or feared parts of you
 The devil can also represent temptation — an inner struggle between desire and conscience, something you feel you "shouldn't" want. The dream can mirror a real dilemma in your life, where something is pulling you in a direction you know isn't yours. Other times the devil is the figure we project fear, guilt or wrongdoing onto from outside — an external "devil" can be a person or a force we blame, while the dream invites us to reclaim responsibility for what's actually our own.
 
 The image of the devil has shifted a great deal through history — from "Satan," which in Hebrew means "the accuser," through the frightening depictions of the medieval period, to Goethe's Mephistopheles, who describes himself as "the power that always wills evil, yet ever creates good." It's worth reminding yourself: the devil in a dream is rarely literal or supernatural. Most often he's an image of something that already exists within us, and that can be met with curiosity rather than fear — the same is often true of dreams about hell.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the shadow in its most personified form: what we will not acknowledge.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche gives the most uncomfortable material the strongest image.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the devil arrives in periods of guilt or temptation.

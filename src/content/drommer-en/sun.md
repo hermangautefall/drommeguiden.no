@@ -58,3 +58,8 @@ A new beginning — something fresh and energising is on its way in.
 The sun is tied, across many traditions, to the masculine principle — the conscious, the active, that which illuminates. Jung called the sun a symbol of the Ego in its clearest and strongest form. In Norse tradition, Sól is the name of the goddess who drives the sun-chariot across the sky, forever pursued by the wolf Sköll. The sun is life, but it is also hunted and temporary. [Stars](/en/dreams/stars/) and [heaven](/en/dreams/heaven/) are related dream symbols worth exploring too.
 
 For people who live through large seasonal swings in daylight, the sun tends to carry extra weight — a sunrise in spring after a long, dark winter can feel like a physical and emotional event in its own right. Dreaming about the sun, in that light, touches something deeper about light and darkness than mere weather.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the sun as an image of consciousness and of the Self at the centre.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why sunrise and sunset carry different weight.

@@ -66,3 +66,8 @@ Pregnancy dreams aren't reserved for people who are expecting or hoping for a ch
 The Greek dream interpreter Artemidorus wrote as early as the 2nd century that such dreams had to be read in light of the dreamer — the same image could mean completely different things for different people, depending on their circumstances. That way of thinking still holds up: a pregnancy dream in someone who is expecting a child can be about something entirely different than the same dream in someone who has just started a new job.
 
 Modern sleep research also shows that people who are actually pregnant often report more vivid and emotional dreams — something that may be linked to hormonal changes and a different sleep rhythm. For others, the dream is more about anticipation, about carrying something new and valuable. In many folk traditions, pregnancy in a dream has also been read as a good omen — a sign that something fortunate is on its way.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — pregnancy as a dream motif in the oldest dream literature, tied to future and lineage.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: something growing quietly takes its place in the dream.

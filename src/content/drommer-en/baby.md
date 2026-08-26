@@ -83,3 +83,8 @@ A baby in a dream can often be understood as an image of something new taking sh
 At the same time, the baby can represent vulnerability — a small, new part of you that needs care, protection and attention. In modern therapeutic language, this is often called the "inner child": the parts of us that are open, genuine and dependent on care, and that we sometimes need to get to know again.
 
 Across cultures and eras, the infant is a symbol of hope, potential and a fresh start. The dream often invites the question: what is the new thing that needs your attention right now, and is there a part of you that's longing for more care?
+
+## Sources and further reading
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how often infants and children appear in dreams, and in which roles.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: something new in life gives something new in the dream.

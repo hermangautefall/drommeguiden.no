@@ -77,3 +77,9 @@ The most common reading of prison dreams has to do with feeling trapped or limit
 For others, the prison can be about guilt or conscience — a feeling of punishing yourself, or unease about the consequences of something that has happened. The bars in the dream can also represent mental and emotional limits you've built up over time: beliefs about what you can't do, don't deserve, or aren't allowed. One useful question to carry with you is: who's actually holding the key?
 
 Much of this comes down to how we, often without noticing, internalise rules and expectations and become our own guards. Dreaming of prison can therefore be a gentle reminder to examine which of these walls are actually necessary — and which ones you might be able to walk straight through.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the self-imposed limits, and the jailer who often turns out to be oneself.
+- Antti Revonsuo, 'The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming', *Behavioral and Brain Sciences* 23(6), 2000 — the threat simulation theory: confinement as one of the oldest threats.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why prison dreams arrive when freedom of choice feels small.

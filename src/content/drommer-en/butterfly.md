@@ -60,3 +60,8 @@ The most fundamental perspective is about the transformation itself. The metamor
 Another perspective is about lightness, joy, and freedom. The butterfly is beauty in its most fleeting form — a creature that lives briefly but intensely, reminding us to stay present in the moment. The dream can carry a gentle, hopeful message: that something light and beautiful is on its way into your life.
 
 In many cultures, the butterfly is also linked to the souls of the dead — in Mexico, monarch butterflies are associated with Día de los Muertos, said to carry the souls of ancestors back for a visit. The Chinese philosopher Zhuangzi told the famous story of dreaming he was a butterfly: did he wake as a man who had dreamed he was a butterfly, or was he a butterfly now dreaming he was a man? The question touches on something butterfly dreams often stir up — the blurred line between dream and reality, and how fragile and fleeting a beautiful state can be.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the transformation from chrysalis to wings, and the butterfly as an ancient image of the soul itself.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why butterfly dreams arrive in phases of change.

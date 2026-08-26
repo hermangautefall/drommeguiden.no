@@ -81,3 +81,8 @@ The cat has lived alongside humans for thousands of years, yet it has never quit
 In ancient Egypt, the cat was worshipped as sacred and linked to the goddess Bastet, who represented home, fertility, and protection — an animal worthy of deep respect and care. Elsewhere the picture is more mixed: black cats are tied to good luck in some traditions and bad luck in others, and in medieval Europe cats were often associated with the supernatural and with witches' familiars.
 
 It's often the cat's behavior in the dream that offers the best clue. A cuddly, calm cat can suggest you're in good touch with your own independent, intuitive side, or that you have a relaxed relationship with someone. A scratching, hissing, or distant cat, on the other hand, can point to a person who feels reserved, unpredictable, or hard to read — or to you yourself pulling away from something.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the cat as an image of the independent and the unreadable: something that will not be directed.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the cat's behaviour in the dream tells you most.

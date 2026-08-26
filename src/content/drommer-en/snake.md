@@ -73,3 +73,9 @@ Few creatures have accompanied humanity through as many myths and symbols as the
 The snake is also closely tied to healing. The Rod of Asclepius, a single snake coiled around a staff, comes from Greek mythology and represents the god of medicine — the symbol is still used in medicine today. This captures something of the snake's core ambiguity: it can be both poison and remedy, danger and cure, often at the same time.
 
 Sigmund Freud pointed to the snake as one of the most discussed phallic symbols in dreams, linking it to repressed desire or sexuality. In Hindu and yogic tradition we find a different reading: kundalini, the "coiled snake" of energy said to rest at the base of the spine, associated with spiritual awakening. Which of these readings fits best often depends on how the snake behaved in your dream — and what feeling it stirred in you.
+
+## Sources and further reading
+
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — the snake in the psychoanalytic reading, and why it became the most contested image of all.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the snake as an image of transformation and of what moves below the threshold of awareness.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the snake's behaviour in the dream tells you most.

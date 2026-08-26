@@ -79,3 +79,9 @@ Dreaming about being shot is one of the more frightening dreams while it lasts, 
 At its core, the dream is about vulnerability and powerlessness — the sudden thing you couldn't foresee or defend against. Many people experience these dreams as a kind of rehearsal: the mind testing out a threat response in a safe space, without it meaning that anything dangerous is actually waiting for you.
 
 What's reassuring is that what you're often left with after a dream like this is a feeling of having survived — and that's not incidental. Surviving the shot in the dream often points to more resilience than you realise, even though something hit you hard.
+
+## Sources and further reading
+
+- Antti Revonsuo, 'The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming', *Behavioral and Brain Sciences* 23(6), 2000 — the threat simulation theory: the sudden attack as the brain's rehearsal.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche gives shock and vulnerability their most physical imagery.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why who fired the shot tells you most.

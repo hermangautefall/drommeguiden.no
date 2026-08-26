@@ -78,3 +78,9 @@ Sigmund Freud wrote specifically about what he called the embarrassment dream of
 Another angle concerns vulnerability and exposure. The fear of being "seen" in the deepest sense — judged, seen through, or unmasked as a fraud — is something a great many people carry, particularly in periods when they are performing or putting themselves in front of others. The naked dream then becomes an image of showing your real self, without the mask you usually wear.
 
 There is one detail worth holding onto, though, and it recurs in many naked dreams: often nobody else in the dream notices the nakedness at all, or they simply do not care. That says something essential — the fear of being judged is frequently self-generated, and lives more inside us than in how others actually see us.
+
+## Sources and further reading
+
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — the embarrassment dreams, which Freud counted among the most widespread of all.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how common the nakedness motif is, and in which settings it appears.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the gaze in the dream is so often your own.

@@ -79,3 +79,9 @@ Carl Jung viewed the ocean as one of the strongest symbols of the collective unc
 In coastal cultures with deep maritime traditions, the sea has always held a central place. For communities that depended on it, the sea was both a giver and a taker of life — it provided food and trade, but also demanded sacrifice. That duality lives on in our dreams. People who grow up with a close relationship to the sea often carry personal memories and associations that color the interpretation.
 
 From a psychological perspective, recurring dreams of the ocean can signal emotional material that wants attention. The ocean asks you to look inward — it invites you to dive beneath the surface of everyday life. Dreams of mountains can offer an interesting contrast, where the mountain represents the stable and visible, while the ocean holds the fluid and hidden.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the sea as an image of the unconscious, with a surface that shows and a depth that does not.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how often water and the sea appear in dreams.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the state of the water tracks the dreamer's own emotional weather.

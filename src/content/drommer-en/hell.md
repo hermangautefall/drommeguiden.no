@@ -77,3 +77,9 @@ The image can also be about guilt and harsh self-judgment — a fear of punishme
 The reassuring part is that a hell dream is usually about a difficult emotional state — not a literal underworld. Many myths tell of a descent into the underworld and a return — like Orpheus, or Dante's journey through the Inferno — where the descent is the beginning of a transformation, not an ending. Putting words to what you're carrying can be the first step out: often, the only way out is through. See also dreams of the [devil](/en/dreams/devil/), [prison](/en/dreams/prison/), or a dark room.
 
 *If you experience dreams accompanied by persistent feelings of despair, guilt, or helplessness in your daily life, it can help to talk to someone — a friend, a professional, or someone you trust. Learn more about nightmares and how to handle them.*
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the shadow realm: the part of the psyche where guilt and self-punishment reside.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — nightmares and how the psyche gives inner torment its strongest imagery.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why such dreams arrive in periods of guilt.

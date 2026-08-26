@@ -76,3 +76,9 @@ In Greek tradition, the head was the seat of the soul — Aristotle held that re
 Carl Jung, on the other hand, believed that an excessive emphasis on the head — on the rational and conscious mind — was one of the great dangers of modern life. Dreams in which the head is out of balance with the rest of the body can, in a Jungian sense, point to a psyche that needs to return to wholeness — one where the body, the feelings, and the unconscious are included.
 
 In Norse tradition, Mimir's head held all the world's wisdom — Odin sacrificed an eye to drink from Mimir's well. The head is where wisdom lives, but wisdom is never free.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the body parts in dreams, with the head tied to standing and to reason.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the head as an image of identity and of the conscious ego.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why overload readily takes a bodily form in dreams.

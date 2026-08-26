@@ -82,3 +82,8 @@ A staircase can be read as movement between levels in life or in awareness. Goin
 Endless staircases, or a feeling of never reaching the top, are often read as frustration at progress that feels impossible to achieve. Falling down the stairs in a dream can, in the same way, point to a feeling of losing control, or a setback you're worried about.
 
 In dreams, the [house](/en/dreams/house/) is often connected to the self, where the different floors can represent different sides of consciousness — the basement as the hidden and unconscious, the attic as the forgotten. The staircase becomes the connection between these layers. Across traditions, similar images appear of stairs and ladders linking earth to heaven — Jacob's ladder in the biblical story, or temple stairways as a physical bridge between the human world and something greater.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the movement up and down within the psyche, between the conscious and what lies beneath.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the direction on the stairs follows felt progress or setback.

@@ -76,3 +76,8 @@ Across cultures and eras, flight has served as an image of freedom — breaking 
 The psychologist Alfred Adler was interested in how dreams can express ambition and striving. In his thinking, flying dreams could be about a wish to master something, to rise above a difficult situation, or to take a position "above" others — not necessarily out of superiority, but as a sign of working toward something greater.
 
 Flying is also one of the most common experiences in lucid dreams, where the dreamer is partly aware and may feel a strong sense of control. Several traditions also hold the idea of a "soul journey" — that something in us can detach and move freely — an image that sits close to the freedom many people describe in flying dreams.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — flight as an image of freedom and overview, and of rising above a situation.
+- Matthew Walker, *Why We Sleep* (2017) — REM sleep and the state of the body during the most physically vivid dreams.

@@ -78,3 +78,9 @@ Carl Jung would likely have seen school in dreams as a representation of the col
 In psychological research, school dreams are among the best-documented recurring dreams. Studies show they're especially common during periods of stress and change — the brain uses the familiar setting as a framework for processing new challenges. It's as if the mind is saying: this reminds me of something I've been through before.
 
 In cultures where education plays a central role in people's lives, it's natural for school to become such a powerful dream symbol. School systems built around ideals of equality and inclusion also generate their own set of dream scenarios — the fear of standing out, the pressure to fit in, and the balance between being yourself and adapting to the group. These themes live on in dreams long after school itself is over.
+
+## Sources and further reading
+
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — the examination dream as a classic motif, and why it returns long after school has ended.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how widespread the school motif is across age groups.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: what repeats is the feeling of being assessed, not the school.

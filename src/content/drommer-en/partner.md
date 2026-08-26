@@ -63,3 +63,9 @@ Dreaming about your partner often mirrors the emotional state of the relationshi
 In some dreams, the partner is less an actual person and more an image of a part of yourself — qualities you associate with them, or your own capacity for closeness and love. The dream can then be about the "inner other": how you give and receive love, regardless of who's actually by your side. Many people notice similar themes in [wedding dreams](/en/dreams/wedding/).
 
 Dreams about a partner can also bring attachment patterns to the surface — security, fear of being left, jealousy, or a wish for more closeness. And if you're single and dream about a partner you don't have, or about an unfamiliar face, it can be read as a longing for connection, or a wish to get to know a side of yourself you haven't fully integrated yet — rarely a preview of who you'll actually meet.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — anima and animus: the partner in the dream as carrier of qualities you hold yourself.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — her research suggests that dreams about close relationships belong to the work of processing them.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the person closest to you takes up the most room at night.

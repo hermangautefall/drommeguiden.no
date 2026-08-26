@@ -75,3 +75,9 @@ Across cultures, the bird has long been an image of the soul, the spirit, and wh
 In many traditions, birds have also served as messengers — heralds of news, signs that something is on its way. The dream can therefore be about thoughts, ideas, or hopes that are in motion, that are "taking off" and finding a new shape. A bird flying away can, in the same way, be read as something you need to let go of, or an opportunity slipping past.
 
 It's often worth noticing which bird it was, since different birds carry different associations: a dove can feel like peace and reconciliation, an owl can be read as wisdom — but also as an omen — while a raven often carries something more mysterious and pensive. Dreams about [flying](/en/dreams/flying/) touch on similar territory.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — bird signs as one of antiquity's most widespread forms of omen.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the bird as an image of the soul in motion and of what lifts above a situation.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how often animals and birds appear in dreams.

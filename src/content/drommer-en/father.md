@@ -65,3 +65,8 @@ The father in dreams can often represent authority, structure, and the rules and
 The father figure also holds a central place in early psychoanalysis, where the relationship to the father was seen as key to how we internalise rules and conscience — what later becomes part of our own superego. If the father in the dream feels supportive, it can be about guidance and security in a decision; if he's absent or strict, the dream may instead point to unmet needs, a fear of being judged, or unease around authority in general.
 
 Across cultures we find similar images in father and sky gods like Zeus — figures tied to authority, order and the rules that frame a world. [Mother](/en/dreams/mother/) and father often form two sides of the same coin in the language of dreams: the nurturing and the shaping.
+
+## Sources and further reading
+
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — the paternal figure in the psychoanalytic reading, and its place in the dream.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the father as archetype: authority, rules, and the inner standards you carry forward.

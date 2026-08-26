@@ -69,3 +69,8 @@ In attachment theory, the mother is often described as the template for our earl
 The mother figure often holds a tension between the nurturing and the controlling — the one who gives safety but who can also feel restrictive, even suffocating. This ambivalence runs through many myths, including the story of Demeter and Persephone, and can surface in dreams as both warm and unsettling images of the same person.
 
 Your mother can also represent something within yourself: your own ability to care for yourself, or an unmet need for care that you're carrying. And across cultures we find mother goddesses like Demeter, Isis and Gaia — figures tied to earth, fertility and origin, mirroring where we all come from.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the mother archetype, one of the most fundamental images in the psyche.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on which family members actually appear in dreams.

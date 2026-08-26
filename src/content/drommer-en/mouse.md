@@ -63,3 +63,9 @@ One nearby reading has to do with the small, gnawing worries. The mouse can repr
 Another reading lies in modesty. The mouse lives in the margins, often unnoticed, and can therefore mirror an attention to detail that's easily overlooked — or a feeling of being overlooked yourself, quiet and unseen in a situation where others take up more space.
 
 At the same time, the mouse is a resourceful and resilient animal that finds a way to survive almost anywhere. In fable tradition, it's often the small mouse that saves the mighty lion — an image of how something small can make a decisive difference. In Hindu tradition, too, the god Ganesha rides a mouse, a symbol of overcoming obstacles by reaching into the smallest and least accessible places. The mouse in a dream can, despite its size, point to a quiet but effective kind of strength. See also rats for a related but more charged symbol.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — small creatures as dream motifs, read as something minor that nevertheless disturbs.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the overlooked and underestimated in oneself.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the mouse arrives when many small things pile up.

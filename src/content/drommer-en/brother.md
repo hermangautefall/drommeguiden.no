@@ -82,3 +82,9 @@ A brother in a dream often represents a part of yourself — a kind of "shadow b
 The sibling relationship often holds both extremes at once — rivalry and deep loyalty. A dream about your brother may be about competition, comparison, or an old tension that was never talked through. But it can just as easily be about the bond of brotherhood: the one who stands beside you, the one you can trust even when everything else fails. Whichever feeling was strongest in the dream often says something about where you stand in the relationship right now.
 
 For many people — regardless of gender — the brother can also mirror masculine qualities within yourself: drive, courage, or a road you could have taken. And whatever the dream is really about, it may simply be your mind processing your actual relationship with him — something unresolved, or something good, quietly asking for a bit of attention. You may also want to read about dreams of your [sister](/en/dreams/sister/) or [father](/en/dreams/father/).
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the mirroring and the rivalry: the brother as both ally and counterpart.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on which family members actually appear in dreams.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why sibling dreams carry the patterns of childhood.

@@ -78,3 +78,9 @@ The horse can be read as an image of a powerful life force within you — drive,
 Across cultures, the horse has long been associated with freedom and nobility — an animal that carries people further and faster than they could ever manage alone. The dream can therefore be about a longing to move more freely through life, whether that's a journey, a new opportunity, or simply a wish for more room to breathe.
 
 The horse symbol also carries the idea of partnership. The bond between rider and horse rests on trust running in both directions, so the dream can mirror a relationship in your life — or your relationship with yourself, between the part of you that wants to steer and the part that wants to gallop free. Mythology also gives us the winged Pegasus, an image of inspiration and the free flight of imagination, and horses that carry riders between worlds appear again and again in stories from many cultures.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the horse as an image of instinctual power: something that carries you but that you do not fully steer.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on animals in dreams and the situations they appear in.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the horse's temperament mirrors the dreamer's own.

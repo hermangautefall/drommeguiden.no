@@ -69,3 +69,8 @@ The phone is, first and foremost, an image of connection — or its absence. The
 A very common variant is the dream where you can't dial correctly, the phone doesn't work, or you can't make out what's being said. This can be read as frustration at not being heard, or at not finding the words for something you need to express. Some also read this as a signal from the unconscious — a "wake-up call" from a part of yourself trying to get your attention.
 
 As a relatively new symbol, the phone also mirrors our era: constant connectivity, a stream of notifications, and the pressure to always be reachable. A dream about a phone can just as easily be about overwhelm and distraction as about connection itself — perhaps it mirrors a need to unplug for a while, whether from the internet or social media.
+
+## Sources and further reading
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why a broken line mirrors a broken contact in waking life.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche gives the feeling of not getting through its clearest form.

@@ -73,3 +73,8 @@ Money in dreams is rarely about literal finances — it's more often read as an 
 Some early psychoanalysts, Freud and Ferenczi among them, linked money and gold to a need for control and a tendency to hold back — a historical curiosity that can still feel relevant to anyone who recognizes themselves in "hoarding" security. In folk tradition, the picture is far from consistent: in some traditions, dreaming about money is a sign of good luck; in others, the opposite — dream of money, wake to loss.
 
 In the end, money dreams can also be about power and energy: what you value, who holds control, and how those questions play out in your relationships.
+
+## Sources and further reading
+
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why money in dreams is rarely about finances.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how often money and possessions appear in dreams.

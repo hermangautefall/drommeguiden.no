@@ -65,3 +65,9 @@ A sister in a dream can function as a mirror of yourself — feminine qualities,
 Sisterhood holds both support and rivalry, often side by side. The dream can reflect solidarity and closeness — that she's one of the few people who truly knows you. But it can just as easily bring up old competition, especially around identity, appearance or achievement — things that may never have been said out loud between you.
 
 The dream may also simply be about your actual relationship with her — unresolved feelings, a longing for more contact, or a worry you're carrying. And in a broader sense, "sisterhood" in the dream can represent female friendship and solidarity in general — a chosen family, not only a biological one.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the mirroring: the sister as both likeness and counterpart, and as carrier of one's own unresolved sides.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on which family members actually appear in dreams.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why sibling dreams carry the patterns of childhood.

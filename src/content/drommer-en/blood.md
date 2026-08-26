@@ -77,3 +77,8 @@ Few symbols carry as much weight as blood, and it recurs across cultures worldwi
 One common way to read these dreams is to distinguish between losing blood and feeling the blood "boil." Dreaming of being drained of blood can point to a sense of exhaustion, depletion, or being tapped for energy — perhaps a sign that someone or something is taking more than it gives back. Blood can also, on the other hand, stand for strong feelings in motion: passion, anger, or something about to erupt — the way we talk about blood "boiling."
 
 Blood is also tied to lineage and inheritance — what we "have in our blood," what binds generations together, for better and worse. In many religious and ritual traditions, blood is also considered sacred: used in covenants, sacrifices, and purification rites. A dream about blood can therefore touch on something very fundamental — questions of origin, belonging, and what we carry forward from those who came before us.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — blood as a dream motif in antiquity, read by where it came from and how much there was.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — blood as an image of life force, kinship, and what cannot be taken back.

@@ -21,7 +21,7 @@ author: 'default'
 
 ## What does it mean to dream about churches?
 
-The church is one of the most symbolically loaded places in Norwegian culture — a building that holds christenings and funerals, [weddings](/en/dreams/wedding/) and confirmations, Sunday services and quiet. Even for those who aren't religious or churchgoing, a church tends to carry a cultural and emotional weight that's hard to shake off. Dreaming about a church touches something deep — something to do with life's great turning points and questions that don't have easy answers.
+The church is one of the most symbolically loaded buildings in Western culture — a place that holds christenings and funerals, [weddings](/en/dreams/wedding/) and confirmations, Sunday services and quiet. Even for those who aren't religious or churchgoing, a church tends to carry a cultural and emotional weight that's hard to shake off. Dreaming about a church touches something deep — something to do with life's great turning points and questions that don't have easy answers.
 
 These dreams are almost never just about the building. They're about what the church carries.
 
@@ -37,7 +37,7 @@ The church in the dream is an invitation to listen inward — to the questions y
 
 ### Transitions and life's great rituals
 
-In Norwegian tradition, the church is where the major life events unfold — christenings, confirmations, weddings, funerals. Dreaming about a church can mirror that you're in the middle of, or approaching, a transition like this. Something is coming to an end, or something new is beginning — and it matters enough that your mind reaches for one of life's most ritually charged spaces to work through it.
+Across Christian tradition, the church is where the major life events are marked — christenings, confirmations, weddings, funerals. Dreaming about a church can mirror that you're in the middle of, or approaching, a transition like this. Something is coming to an end, or something new is beginning — and it matters enough that your mind reaches for one of life's most ritually charged spaces to work through it.
 
 The kind of church event the dream evokes offers clues: a wedding points toward union and commitment, a funeral points toward closing a chapter and grief — perhaps tied to a [deceased person](/en/dreams/deceased-person/) — a quiet, empty church points toward reflection and inner calm.
 
@@ -82,3 +82,8 @@ For many, a church is first and foremost an image of refuge — a place where th
 At the same time, a church is rarely a place we're in alone — it's built for community, for rites of passage like [weddings](/en/dreams/wedding/), christenings and funerals, and for traditions that tie generations together. A dream where the church is full of people can therefore be about belonging: your relationship to family, community, or the legacy you're part of, and how you find your place within it.
 
 A church has also long been tied to conscience and values — a place people went to reckon with themselves. Dreams about churches can therefore invite you to look more closely at your own values, or at something you're carrying guilt over and need to set down. And the building itself often says something on its own: a grand, light-filled church can mirror a rich inner life, while a rundown or empty one can point to a spiritual emptiness or loneliness asking for attention.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the consecrated space: the place where something larger is given room.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche gives the need for comfort and coherence a physical form.

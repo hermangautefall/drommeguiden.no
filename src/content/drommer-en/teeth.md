@@ -79,3 +79,9 @@ The tooth dream is nothing new. As far back as the Oneirocritica — the oldest 
 In folk traditions widespread across parts of Europe and Greece, losing teeth in a dream was often understood as a sign of illness or death in the family — a persistent superstition that today is usually read as a metaphor for loss rather than a literal warning.
 
 More recent sleep research approaches tooth dreams from a different angle. Tooth dreams are among the most commonly reported dreams, and they often appear linked to everyday stress and anxiety. Some studies have also suggested a possible connection between tooth dreams and teeth grinding (bruxism) or other dental irritation during sleep, though this link isn't fully established. In a more symbolic reading, tooth dreams can be about loss of control, worry over appearance and aging, or words said that can't be taken back.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — tooth loss as one of the oldest documented dream motifs we know of.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how widespread the teeth motif is across cultures and ages.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why teeth dreams arrive in periods of strain.

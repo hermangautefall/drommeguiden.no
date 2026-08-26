@@ -62,3 +62,8 @@ The boss in a dream can stand in for anyone who has — or seems to have — pow
 For many people, this is just as much about control and independence as it is about work. Dreaming that your boss is dictating to you can be read as a sign that you want more say over your own time and choices — or that, for a while, you've handed over more control than you're really comfortable with.
 
 The boss can also mirror your own ambition and relationship to success. What does it mean to you to be seen as good enough? Some people feel a creeping sense of imposter syndrome when facing a boss figure in a dream — a fear that someone is about to "find out" they don't measure up. Others find that the boss in the dream is really a projection of their own inner drive: the part of you that organises, pushes and sets standards. If that inner voice tends to be harsh, the dream might be a reminder to offer yourself a little more of the kindness you readily give others.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the authority figure in the dream as carrier of both outer demands and the inner critic.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why work dreams are so common in a culture where the job shapes identity.

@@ -73,3 +73,9 @@ Sexual dreams are rarely, literally, about who you're attracted to. More often t
 Sigmund Freud saw dreams like these as a direct expression of repressed desire. Modern psychology tends to take a broader view: sexual dreams appear to be about far more than literal wish fulfilment — they can also mirror a need for intimacy, closeness, acceptance, or self-confidence. If the dream partner is someone you're not attracted to in waking life, the dream is often read as being about a quality that person embodies, rather than about the person themselves.
 
 It's also worth knowing that physiological arousal during REM sleep is very common and happens independently of dream content — on its own, it says little about actual desire. Sexual dreams are a normal, widespread part of sleep, and they deserve the same calm, curious approach as any other dream.
+
+## Sources and further reading
+
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — the place of sexuality in dream interpretation, and why Freud's reading is both the starting point and the most contested.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the union of opposites: the sexual as an image of inner integration.
+- Matthew Walker, *Why We Sleep* (2017) — REM sleep and the state of the body during the most physically vivid dreams.

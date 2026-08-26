@@ -79,3 +79,9 @@ Hands are what we act with — they do, create, shape and grasp. Dreaming about 
 Hands are also what we reach out to others with. They give and receive, help and hold. A dream about hands can therefore mirror your relationships — a helping hand, holding someone's hand, or letting go of something or someone. Such images can be about closeness, trust, or a connection that's changing.
 
 If the hands in the dream were dirty or injured, it can point toward guilt — "blood on your hands" — or toward something that has demanded a great deal of you. Bound or paralysed hands, in turn, can mirror a feeling of powerlessness, of not being able to intervene where you want to. Hands are also tools of expression — craft, creativity, and the gestures we communicate with. In many cultures the hand has been "read" as a kind of map of a person's life and character, a reminder of how much we associate with these two body parts.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the body parts in dreams, with hands tied to work and capability.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the hands as an expression of agency and of taking hold of something.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the state of the hands follows your own sense of control.

@@ -76,3 +76,9 @@ It's worth saying clearly: dreaming about killing someone almost never reflects 
 The most common reading has to do with figuratively "putting to death" something: ending a habit, retiring a role, closing out a relationship, or letting an old version of yourself die so something new can take its place. The victim in the dream often represents exactly what you, deep down, want to be rid of — not an actual person.
 
 For others, the dream can be a safe outlet for anger or frustration that has no room in waking life, or it can be about regaining control and power in a situation where you feel powerless. The guilt that so often follows the dream is almost always a sign that you're a thoughtful person — not evidence of anything else.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the shadow: what we will not acknowledge in ourselves, to which the dream can give violent form.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche gives suppressed anger the strongest image it has.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why such dreams almost never concern actual violence.

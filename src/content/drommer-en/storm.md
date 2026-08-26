@@ -77,3 +77,8 @@ A storm in a dream can be read as inner unrest set into motion — anger that ha
 The storm can also be read as outer upheaval — a turbulent period in life, a sudden change, or a sense of chaos you can't quite control. A storm that appears together with [rain](/en/dreams/rain/) in a dream often ties this unrest to a broader emotional process.
 
 Another image worth holding onto is the eye of the storm — that oddly still centre in the middle of all the chaos. Finding calm there, in the midst of the unrest, can be read as a reminder that even storms pass. The raw force of nature can also stir a sense of awe and powerlessness — a reminder of forces larger than us, and that sometimes it's right to surrender to them rather than fight.
+
+## Sources and further reading
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche gives pent-up feeling its most dramatic imagery.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the storm's force follows the pressure in waking life.

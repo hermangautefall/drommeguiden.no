@@ -83,3 +83,9 @@ Many birth dreams arrive during periods when something new is sprouting in your 
 Other times it's about a bigger transformation within yourself — a new phase of life, a new role, a new view of who you are. The labour before the birth can then be read as an image of the effort and patience that often precede anything meaningful. It can feel demanding along the way, but the dream tends to point forward, toward something that's in the process of taking shape.
 
 For those who are expecting a child themselves, or going through a major change in life, dreams like this are very common — the body and mind are in a state of anticipation, and dreams tend to become more vivid and colourful during such periods. Across cultures, birth has often been tied to renewal and hope for the future, and the universal image of something new arriving in the world is one of the dream world's warmest symbols.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — birth as a dream motif in the oldest dream literature, tied to future and lineage.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the child as archetype and birth as an image of something new in the psyche.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why birth dreams arrive in periods of new beginnings.

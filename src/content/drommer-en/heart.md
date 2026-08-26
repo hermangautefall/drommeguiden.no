@@ -72,3 +72,8 @@ The heart is in many ways the address of emotional life — we say that somethin
 At the same time the heart is an organ, and the body speaks through dreams too. Heart dreams can occasionally mirror an underlying worry about health, or stress and anxiety that has settled in the body — the hammering heart of anxiety is a familiar bodily experience. As a rule the dream is symbolic, but it is still worth listening to if the unease persists while you are awake.
 
 "Heart" is also a word for courage and for the core of something — to "take heart" is to dare to show what you feel, and "the heart of the matter" points to what really counts. Culturally the heart has long been seen as the seat of the soul and the emotions: in ancient Egypt the heart was preserved after death and weighed against Ma'at's feather, while the brain was discarded as unimportant. Dreams of the heart may therefore point toward your core values — what matters most to you, and whether you are living in line with it.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the heart as a dream motif in antiquity, the seat of courage as much as of feeling.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the heart's condition in the dream follows your own.

@@ -66,3 +66,9 @@ A stranger in a dream often carries an unknown potential — a quality, a talent
 The dream can also reflect how you relate to newness in general — changes, new people, unfamiliar situations on their way into your life. Whether the stranger in the dream feels relaxing or unsettling can say something about how open or cautious you are toward the unexpected right now.
 
 We also tend to project onto strangers: they become blank surfaces we fill with our own feelings. A threatening stranger can therefore carry a fear you already have, while a helpful stranger might represent a resource, a piece of advice, or a way forward you haven't quite seen yourself. In many stories, it's precisely the mysterious stranger who appears to deliver a message or set something in motion — a small catalyst in the story of your life.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the shadow and the sides of ourselves we do not yet recognise, to which the dream gives an unknown face.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on what share of the people in dreams are in fact strangers.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the stranger still carries something from your own life.

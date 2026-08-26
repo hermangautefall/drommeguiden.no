@@ -77,3 +77,9 @@ According to the continuity hypothesis in dream research, dreams often reflect w
 It can also help to ask what your ex actually *represents* to you. Maybe they stand for a quality you admired, a version of yourself from that period, a sense of freedom or passion you associate with your time together — or a wound that never fully healed. The dream is about that, not about the person themselves.
 
 Sleep researcher Matthew Walker has described REM sleep as a kind of "overnight therapy": the brain revisits emotionally charged memories to soften their intensity over time. Old relationships are often exactly this kind of charged memory, and can resurface for that reason — especially during periods of stress, or when you enter a new relationship that activates old attachment patterns.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — anima and animus: the ex as carrier of qualities you hold yourself.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why ex dreams arrive in waves rather than evenly.
+- Matthew Walker, *Why We Sleep* (2017) — REM sleep as a kind of overnight processing of emotionally charged memories.

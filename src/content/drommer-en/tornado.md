@@ -62,3 +62,9 @@ A tornado can be read as an image of overwhelming feelings — anger or anxiety 
 The tornado can also be read as a sudden, destructive change — an upheaval that turns life upside down in a short amount of time: a crisis, or an unstable situation or person that could fairly be called "a whirlwind." At the core of the symbol is often a loss of control — the feeling of being powerless against a force that pulls you in, like the funnel of a tornado.
 
 In a more modern cultural light, the tornado might also bring to mind the transition in *The Wizard of Oz* — the whirlwind that tears you out of the familiar and into a completely new, unfamiliar world. Read this way, the dream can be about a major transformation, where what feels frightening also opens the door to something new.
+
+## Sources and further reading
+
+- Antti Revonsuo, 'The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming', *Behavioral and Brain Sciences* 23(6), 2000 — the threat simulation theory: the natural disaster as the brain's rehearsal.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche gives upheaval the most violent imagery it has.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the tornado arrives when something is torn up by the roots.

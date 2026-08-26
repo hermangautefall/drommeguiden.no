@@ -69,3 +69,8 @@ A bridge in a dream can be read as crossing from one phase or state into another
 How the crossing feels can say something about where you stand in this transition. Crossing the bridge safely is often read as being ready for the change, while hesitating, or dreaming of a bridge that's shaky or broken, can point to uncertainty about whether it's safe to move forward right now. What lies beneath the bridge is also worth noticing — water under a bridge is often associated with feelings, while a drop can be about risk. When we talk about someone "building bridges," it's often about repairing a relationship or bringing together parts of a life that have grown apart.
 
 Across cultures, bridges have been seen as connections between worlds — in Zoroastrian tradition, the soul crosses the Chinvat Bridge after death, and the rainbow has often been read as a bridge between heaven and earth. Images like these can be a reminder that a bridge in a dream can be about a spiritual or inner transition just as easily as a practical one — and that the [river](/en/dreams/river/) or [ocean](/en/dreams/ocean/) it crosses often says just as much as the bridge itself.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the crossing between two states as a central motif in the individuation process.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why bridge dreams arrive in periods of large decisions.

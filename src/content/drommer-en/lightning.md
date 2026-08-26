@@ -64,3 +64,9 @@ The insight is there, but the consequences haven't arrived yet. Something is in 
 Lightning can be read as a flash of insight — a sudden "aha" moment where something becomes clear to you in a split second, an awakening or a truth striking with full force. Dreams like this can arrive during periods when you're in the process of understanding something important about yourself or your life, even if your conscious mind hasn't quite caught up yet.
 
 Lightning can also be read as an image of shock and sudden change — something that arrives like lightning out of a clear sky, an event or turning point that changes everything in an instant. Across cultures, lightning has long been associated with divine power and judgment — think of Zeus and his thunderbolt, a symbol of the gods' authority over the sky. This connection to something vast and uncontrollable can also lend the dream an undertone of fear: the fear of being struck by forces beyond your control, and the vulnerability that comes with that.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — lightning as an image of the sudden insight: something that lights everything for a second.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — signs in the sky as omens in antiquity.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why lightning arrives when something finally becomes clear.

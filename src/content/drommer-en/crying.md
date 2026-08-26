@@ -72,3 +72,8 @@ Research into the emotional function of dreams suggests that REM sleep plays an 
 Crying in a dream can also make room for feelings you don't let yourself feel fully while awake. In a culture where we don't always cry easily in front of others, the dream can become a place where these feelings finally get to come out — without anyone watching.
 
 Crying for someone else in a dream, whether it's someone you love or someone who is suffering, can also be about compassion: an ability to feel someone else's pain as your own. Whatever the dream is about, crying dreams are usually a sign that something is being processed — not a bad omen.
+
+## Sources and further reading
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — weeping as a release valve: how the psyche gives dammed-up feeling an outlet.
+- Matthew Walker, *Why We Sleep* (2017) — REM sleep and emotional regulation, and why crying in a dream can feel like relief.

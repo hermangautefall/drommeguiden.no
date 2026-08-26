@@ -70,3 +70,8 @@ In modern grief research there is a concept known as "continuing bonds" — the 
 A particular category is often called "visitation dreams" — unusually vivid and peaceful dreams in which the deceased appears well, calm and fully present, and you wake with the sense that something real has happened. This phenomenon has been described across nearly every culture and era, and it is one of the most universal dream experiences people share.
 
 More than anything, these dreams can be understood as the mind's way of making room for what was left unsaid. The person who died continues to exist as an inner figure — a voice, a look, a presence — that you carry forward within you, and the dream becomes a place where that bond can show itself again.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — meeting the dead as one of the dream's strongest and most consoling motifs.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: whoever fills your thoughts also fills your dreams.

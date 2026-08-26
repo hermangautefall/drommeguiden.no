@@ -63,3 +63,8 @@ Hair is one of the most visible things about us — it helps shape how we experi
 Cutting your hair in a dream can be read as an action as much as a symbol. A deliberate, wanted cut can mirror a need for a fresh start — leaving something behind to make room for something else. An unwanted or forced cut, on the other hand, more often points to a feeling of losing control, or being subjected to a change you didn't ask for.
 
 Throughout history, hair has also carried significant social and cultural meaning — as a marker of status, rebellion, belonging, or conformity. Tangled, unkempt hair in a dream can therefore be read as mental confusion or unease, while how the hair is styled can say something about how you're presenting yourself to the world right now.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — hair as a dream motif, tied to strength, status and identity.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: a change in the hair mirrors a change in the self-image.

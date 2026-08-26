@@ -63,3 +63,9 @@ The dolphin is often associated with intelligence, playfulness and joy — quali
 In several maritime cultures the dolphin was seen as a guide and rescuer for sailors — a protective and benevolent companion at sea. In Greek myth, a dolphin saved the poet Arion from drowning, and the dolphin was sacred to both Apollo and Poseidon. Such an encounter in a dream can be read as something or someone guiding you safely through unfamiliar territory.
 
 As a mammal at home in the [ocean](/en/dreams/ocean/) — often read as the symbol of emotional life — the dolphin can also represent a harmony between intellect and feeling: the ability to navigate the emotional landscape with grace. The dolphin's advanced communication may also mirror a theme of connection and community — a wish to be heard and understood.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the helping animal: a figure that guides through the deep without threatening.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — sea creatures in antiquity's dream interpretation, where the dolphin was a good sign.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the dolphin's behaviour colours the reading.

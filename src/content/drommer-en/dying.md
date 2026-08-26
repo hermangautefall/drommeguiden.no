@@ -81,3 +81,9 @@ It's worth stating clearly: dreaming about your own death almost never foretells
 For many people, death dreams are tied to a major transition: a breakup, a career change, a move, or an inner shift that's underway. Death is the ultimate unknown, and the dream can therefore carry an unease about losing control, or about not knowing what waits on the other side of the change.
 
 The motif of death and rebirth recurs across cultures worldwide — from initiation rituals where the old identity symbolically dies, to the Death card in tarot, traditionally read as upheaval and new beginnings rather than literal death. Sometimes a peaceful dream about dying can even be read as a form of acceptance: a sign that you're ready to let something go and move on.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — individuation, in which old identities must symbolically die for new ones to grow.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: dreams mirror transitions under way, not events to come.
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — nightmares and how the psyche processes strong feeling through dream imagery.

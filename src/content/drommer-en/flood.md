@@ -61,3 +61,9 @@ The crisis has passed. Whatever was overwhelming you is retreating. [Rain](/en/d
 The flood is one of the most archetypal images in human mythology — from Noah's ark to the Epic of Gilgamesh to countless Indigenous flood traditions. Everywhere it represents much the same thing: an overwhelming force that cleanses and transforms, that destroys the old to make room for the new.
 
 Jung saw the flood as a symbol of the unconscious in its most uncontrollable form — the deeper layers of the psyche breaking through our defences and overwhelming the conscious self. It's frightening, but not necessarily dangerous — sometimes it's exactly what's needed.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — rising water as an image of unconscious content that can no longer be held back.
+- Antti Revonsuo, 'The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming', *Behavioral and Brain Sciences* 23(6), 2000 — the threat simulation theory: the disaster dream as rehearsal.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why flood dreams arrive when something becomes too much.

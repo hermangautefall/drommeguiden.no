@@ -78,3 +78,8 @@ One of the most common readings of house dreams is that the house represents you
 The condition of the house in the dream often says something about your current situation. Disrepair, leaks, or an ongoing renovation can mirror a period of change or something that's asking for your attention. Discovering a room you didn't know existed is often read as a sign of untapped potential — something within you that hasn't been explored yet.
 
 The house is also closely tied to safety, belonging, and identity — the gap between the face we show the world and the private space within. The philosopher Gaston Bachelard wrote about the house as "the topography of our intimate being," where the childhood home lays the groundwork for how we later dream about rooms and homes.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the house as an image of the psyche itself, its basement and attic answering to different layers of a person.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the state of the house follows the dreamer's own situation.

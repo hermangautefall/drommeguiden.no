@@ -78,3 +78,8 @@ A mirror in a dream is often read as an image of how you see yourself right now.
 Meeting a stranger's face in the mirror — or a version of yourself you don't recognize — can be about standing before a side of yourself you've hidden or pushed away, a kind of double asking to be seen. Encounters like this are rarely comfortable, but they can also open the door to a more honest kind of self-examination.
 
 Mirrors have long stood for truth and self-knowledge in stories and folklore, from Snow White's talking mirror to Narcissus, captivated by his own reflection in the water. In many folk traditions, mirrors have also been seen as portals or "soul-catchers" — part of why they were once covered after a death in the family, and why a broken mirror was taken as an omen of bad luck. That legacy is part of why mirrors in dreams so often feel more charged than an everyday object.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the mirror as an encounter with the self-image, and with what you do not recognise in yourself.
+- Carl Gustav Jung, *Memories, Dreams, Reflections* (1961) — Jung's own accounts of meeting himself in the imagery of dreams.

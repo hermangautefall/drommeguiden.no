@@ -88,3 +88,8 @@ Heraclitus's famous saying — that you can never step into the same river twice
 Many river dreams are, at bottom, about feelings that are moving rather than stuck. Where still water can feel deep and closed off, a river is always on its way somewhere — it processes, carries, transforms. A clear, even river can mirror feelings that flow freely and find their natural shape, while a river full of eddies or countercurrents can point to something in you that's being worked through, but hasn't yet found stillness.
 
 The river is also, quite literally, a journey with a beginning and a destination — from source to sea. Following the river in a dream, or letting it carry you, can therefore be about where you are in your own life's journey: are you near the source, in the middle of the course, or heading toward something that awaits further on? And crossing a river, as so many myths and stories make a point of, often marks that something ends on one side and something new begins on the other.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — running water as an image of the course of a life and of the unconscious in motion.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the current's speed and direction follow your own sense of control.

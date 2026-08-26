@@ -77,3 +77,9 @@ Many war dreams are, at their core, about what's happening inside you rather tha
 Other times the dream mirrors an environment that simply feels like a battlefield — a tense workplace, a painful family conflict, or a relationship where it feels like you constantly have to defend yourself. The dream puts words to a strain you might not have realised was so heavy.
 
 It's also worth noting, gently, that war dreams can increase during periods when a lot of unrest in the world fills the news — the mind processes what we see and read about, too, even when we're not directly affected. Whatever the dream springs from, it often points toward themes like endurance, choosing your battles carefully, and a longing for peace.
+
+## Sources and further reading
+
+- Antti Revonsuo, 'The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming', *Behavioral and Brain Sciences* 23(6), 2000 — the threat simulation theory: conflict as the brain's rehearsal.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the inner conflict projected outward as a battlefield.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why your role in the war tells you most.

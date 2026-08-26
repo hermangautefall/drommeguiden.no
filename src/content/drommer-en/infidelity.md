@@ -72,3 +72,9 @@ Research on infidelity dreams shows they're extremely common and don't correlate
 Jung would likely have seen the "third party" in an infidelity dream as a projection — an externalisation of something internal. It's rarely about the actual person; it's about what they represent that feels absent or under threat.
 
 One thing worth knowing: telling your partner about your infidelity dreams can sometimes stir up more unease than it resolves. These dreams rarely need to be interpreted out loud together — they usually need to be met with self-compassion, and perhaps an honest conversation about whatever else is quietly simmering underneath.
+
+## Sources and further reading
+
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — the repressed wishes and why the dream dresses them in such concrete forms.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the insecurity in the dream mirrors insecurity while awake.
+- Rosalind Cartwright, *The Twenty-four Hour Mind* (2010) — her research suggests that dreams about a partner belong to the work of processing the relationship.

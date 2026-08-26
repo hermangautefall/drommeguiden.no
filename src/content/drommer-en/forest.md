@@ -78,3 +78,8 @@ In fairy tales and folk stories around the world, the forest is where transforma
 The forest is also a powerful image of nature and the wildness within you. The trees, the roots, and the humming life beneath the ground can reflect a need to grow, to put down roots, or to reconnect with a more instinctive, physical part of yourself that's fallen into the shadow of everyday demands. The Japanese practice of *shinrin-yoku*, or forest bathing, is built on exactly this idea: that spending time among trees has a restorative, almost healing effect — something that can show up in dreams where the forest feels good to be in.
 
 Whether you get lost in the dream or find the path can also say something about where you stand right now. Wandering without direction can point to a period of uncertainty about what the next step should be, while finding a path or reaching a clearing can be read as a sign that some form of clarity or direction is on its way — even if you can't quite see it yet.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the forest as the unexplored: the place you get lost in before finding a new path.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why forest dreams arrive in periods without clear direction.

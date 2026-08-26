@@ -78,3 +78,9 @@ A wolf in a dream can be read as a picture of the untamed part of yourself — i
 How the wolf behaves in the dream often shapes the interpretation. A threatening or chasing wolf can be read as fear, conflict, or your own drives and "hunger" that feel hard to control. A wolf that instead walks alongside you, or seems calm and alert, can be read as an ally — a reminder that you're more in touch with your instincts than you think.
 
 The wolf also wears two very different faces in storytelling. In the fairy tale of Little Red Riding Hood, it's disguise and danger — the "wolf in sheep's clothing" tricking the unsuspecting. But in the legend of Rome, it was a she-wolf who nursed and saved the founders Romulus and Remus, becoming a symbol of protection and origin in her own right. Maybe the dream is about where you stand between these two images — whether you're currently experiencing the wolf as a threat, or as something looking after you.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the wolf between pack and solitude: loyalty and exclusion in the same animal.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the wolf's role in the dream mirrors your own.
+- Antti Revonsuo, 'The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming', *Behavioral and Brain Sciences* 23(6), 2000 — the threat simulation theory: the predator as one of the oldest danger images.

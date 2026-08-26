@@ -87,3 +87,9 @@ The bear can be read as an image of raw strength alternating with deep stillness
 The bear also carries a strong protective, almost maternal power. Think of the "mama bear" defending her cubs without a second thought — the dream can mirror how far you'd go to protect someone or something you love, or a need to be cared for with that same intensity yourself.
 
 If the bear in the dream feels threatening, it can be read as an overwhelming problem, a powerful person in your life, or an anger — yours or someone else's — that you'll eventually need to face. In many Indigenous traditions across the northern hemisphere, among both North American and Siberian peoples, the bear has been regarded as a powerful spirit and healer, a being that connects the human world with something greater. That reverence lives on in the night sky too, in the constellation the ancient Greeks associated with Callisto — the Great Bear.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the animal as an image of instinctual force, the bear as both protector and threat.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how often wild animals appear in dreams, and in which situations.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the power in the dream is often your own.

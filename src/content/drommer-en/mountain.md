@@ -79,3 +79,8 @@ Across cultures, mountain peaks have long been tied to something sacred or eleva
 At the same time, the mountain is an image of something that doesn't move. Where much of life is fleeting and changeable, the mountain can represent something stable and lasting — a value, a relationship, or a core belief you can lean on. But the same image can also turn: a mountain blocking the way can stand for something immovable in your path, an obstacle that can't be negotiated with, only met.
 
 Ultimately, mountain dreams are often about the relationship between effort and reward. The climb is the slow, heavy work — step by step, often without seeing how far you've come. The view from the top is what you get in return. A dream about climbing can remind you that the effort has meaning, while a dream where you're already standing at the top can invite you to pause and actually take in what you've achieved, before moving on.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the mountain as an image of what must be climbed, and of what will not be moved.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why mountain dreams arrive before large undertakings.

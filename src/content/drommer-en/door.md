@@ -86,3 +86,8 @@ A door in a dream can be read as a threshold, a choice, or a transition. An open
 What lies behind the door is often the most interesting part: the unknown, an expectation, or something hidden within you that hasn't yet had the chance to surface. Across cultures, doors and thresholds have long been seen as charged, guarded points of passage — in Roman mythology, the god Janus watches over every gate and door, looking both backward and forward at once, an image of how every transition ties together a before and an after.
 
 In fairy-tale tradition, the forbidden door is a familiar motif — the one you're never supposed to open, which the hero naturally opens anyway. That's often where the real story begins, and maybe your dream is pointing toward something similar: that it's on the other side of the door where something new gets to start.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the threshold between two states, one of the most used images for transition.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: an open or closed door mirrors how the choice feels while awake.

@@ -82,3 +82,9 @@ Ambition, liberation, and a movement toward something higher — one of the most
 Heaven as a place beyond this life is often about peace, a longing for harmony, and the spiritual. Dreams like this are especially common after grief and loss, and can offer real comfort — a sense that something is alright for the person who's gone, or that an ideal state is within reach, in the same way we might say someone looks "like they're in heaven" to describe complete happiness.
 
 Looking upward, toward the sky, can also be read as a search for meaning and the bigger picture — a connection to something eternal or lasting, beyond the everyday. Across cultures, the sky recurs as the realm of the divine, and the universal gesture of looking upward may be one of the most widely shared human images for longing and hope. Similar themes often appear in dreams about stars, [God](/en/dreams/god/) or angels.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — height and the elevated as an image of what is greater than the ego.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — signs in the sky as dream motifs in the oldest dream literature.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the weather in a dream tends to follow your mood.

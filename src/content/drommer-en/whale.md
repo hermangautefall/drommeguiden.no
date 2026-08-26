@@ -65,3 +65,9 @@ In dreams, the whale can be read as an image of the deep unconscious — powerfu
 The largest creatures in the ocean often stir a sense of awe — something sublime and overwhelming, a reminder of forces far greater than any one person. In the biblical story of Jonah, the man is "swallowed" by the whale — an image often read as a period of darkness, withdrawal, or crisis that nonetheless carries within it the possibility of transformation. An inner journey before stepping forward again, changed.
 
 The whale's song — deep communication that carries across enormous distances — can also be read as a symbol of something trying to reach you from somewhere farther away than usual. In some traditions the whale is seen as a keeper of ancient wisdom, a memory stretching far back in time.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the night sea journey: to be swallowed by the deep and emerge transformed, as the Jonah motif tells it.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — sea creatures as dream motifs in antiquity's tradition of omens.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the whale arrives in large, slow phases of life.

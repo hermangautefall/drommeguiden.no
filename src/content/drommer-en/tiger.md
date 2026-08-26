@@ -65,3 +65,9 @@ The tiger can be read as an image of a raw, uncontrolled force within you — pa
 A tiger that lurks or feels threatening can be read as a danger or a strong feeling you've been avoiding facing. Meeting the tiger — or even taming it in the dream — can be read as a sign that you're learning to put this force to use in a way that serves you, instead of letting it run you.
 
 In Chinese tradition, the tiger is one of the twelve animals of the zodiac and is associated with courage, strength, and protection against evil. In Hindu mythology, the goddess Durga rides a tiger or lion — an image of a fierce yet protective feminine power. The tiger is also an animal that lives largely on its own, so the dream may equally be about independence and self-reliance — the strength found in standing on your own two feet.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the untamed instinctual force: something in you that is strong and not domesticated.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on which animals appear in dreams, and in which situations.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the distance to the animal tells you most.

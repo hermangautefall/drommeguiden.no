@@ -74,3 +74,9 @@ The Finnish dream researcher Antti Revonsuo has made the chase dream one of the 
 In a more clinical, present-day reading, what we flee in dreams often mirrors what we avoid in waking life — a conflict we push aside, a feeling we would rather not sit with, a decision we keep deferring, or a person we find difficult. The pursuer is rarely arbitrary: it is frequently a disowned part of oneself, such as anxiety, guilt, or a deadline drawing closer.
 
 The Gestalt therapist Fritz Perls suggested a concrete exercise for dreams like these: become the pursuer. Instead of running, you can imagine — calmly, afterwards — speaking AS the one doing the chasing, in order to discover which part of yourself it actually represents. Many people find that chase dreams shade into dreams of [falling](/en/dreams/falling/) or of being trapped in a dark room, and such dreams are considered a classic form of nightmare. With lucid dreaming you can also practise turning around and meeting the pursuer inside the dream itself.
+
+## Sources and further reading
+
+- Antti Revonsuo, 'The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming', *Behavioral and Brain Sciences* 23(6), 2000 — the threat simulation theory: the chase dream as the brain rehearsing danger.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why what you avoid by day catches up with you at night.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the shadow: what you flee often turns out to be part of yourself.

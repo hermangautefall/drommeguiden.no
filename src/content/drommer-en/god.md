@@ -76,3 +76,9 @@ Dreaming about God is often read as a search for meaning, guidance, or a connect
 In dreams, God can also appear as the ultimate authority or parent figure. When that happens, the dream often deals with themes of judgment, guilt, forgiveness and acceptance — with feeling seen and evaluated, or with a longing to be recognised for who you are. If the encounter felt strict or judgmental, it can mirror an inner voice that has been too hard on you.
 
 Dreams like this often surface during crises, and tend to bring comfort, awe, or a sense of not being alone — the kind of experience often called "numinous," or sacred. How the divine appears in the dream is often shaped by your own upbringing and background. The dream uses a familiar figure to speak about meaning and belonging, and that holds just as true for someone who isn't religious as for someone who is. Dreams about [angels](/en/dreams/angels/) or heaven can carry a similar quality.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the encounter with the numinous and the Self as archetype, and why such dreams feel larger than the dreamer.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — dreams of the gods and how they were read in antiquity, long before psychology.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the dream's religious imagery follows the dreamer's own background.

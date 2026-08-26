@@ -64,3 +64,8 @@ A suitcase in a dream can be read as an image of travel and transition — that 
 The expression "emotional baggage" is no accident — the suitcase can be read as what you carry of past experience, unfinished business, or old patterns. A heavy suitcase can therefore mirror a feeling of carrying too much, while a [lost suitcase](/en/dreams/losing-something/) can be read as a fear of losing part of yourself, or losing control in the middle of a transition.
 
 What you pack into the suitcase, and what you leave out, can also mirror your priorities — what actually matters to you right now, and which identity you're carrying forward. The journey can feel like freedom and new possibility, but the suitcase is at the same time a reminder of the weight of what we can't quite manage to set down.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — baggage as an image of what you carry with you, chosen and unchosen.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the weight and contents follow what you are actually carrying.

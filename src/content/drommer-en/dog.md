@@ -80,3 +80,9 @@ The dog is humanity's oldest animal companion, and it is perhaps not so surprisi
 In several mythologies dogs guard the boundary between worlds: the Greek Cerberus watched the entrance to the underworld, and the Egyptian Anubis — with his jackal head — accompanied the dead on their way onward. The dog is thus an old symbol of the guardian at the threshold, the one who watches over the passage from one place to another.
 
 What usually says the most in a dog dream is how the dog behaves. A friendly, playful dog may point toward a supportive relationship, or toward being on good terms with your own needs and instincts. An aggressive or growling dog can be read as a conflict, a breach of trust, or your own guard-dog instinct kicking in. A lost or abandoned dog may bring to mind a relationship — with others or with yourself — that has been neglected and needs attention.
+
+## Sources and further reading
+
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on which animals actually appear in dreams, and how often.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the dog between loyalty and guard instinct: closeness and defence in the same animal.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the dog's behaviour in the dream tells you most.

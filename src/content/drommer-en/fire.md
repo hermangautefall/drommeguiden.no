@@ -81,3 +81,9 @@ Across cultures, fire is one of the most ambiguous symbols there is — destruct
 Fire can also be read as an image of intense feeling — passion, desire, anger or creative energy that "burns" in you. Sometimes it is the opposite: a sense of being "burned out", of having been consumed by something that asked too much. In Greek mythology fire was stolen from the gods by Prometheus and given to humankind — an image of knowledge, progress, and daring to cross a boundary.
 
 An uncontrolled fire in a dream can be read as a fear of losing something, or a situation that has run away from you. At the same time fire has an entirely different face in the hearth or the campfire, where it stands for warmth, home and company. How the fire feels in the dream often says a great deal about which of these meanings is most relevant to you.
+
+## Sources and further reading
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche gives fear and change the strongest imagery it has.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — fire as the archetype of transformation: it destroys and purifies in the same motion.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why the size of the fire follows the pressure in waking life.

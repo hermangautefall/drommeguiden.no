@@ -79,3 +79,9 @@ Falling dreams often have a very concrete physiological explanation. The sudden 
 Psychologist Alfred Adler linked falling to the fear of failure — the loss of status, control, or recognition, and an underlying feeling of inferiority. In Adler's individual psychology, this stands in tension with the human drive toward mastery: the dream can therefore point to a place in life where you feel you're not measuring up, or where something you've built feels at risk of collapsing.
 
 In a more modern understanding, where dreams are often seen as a continuation of waking emotions, falling can simply mirror a feeling of uncertainty, a lack of support, or losing your footing — the ground you thought you stood on disappearing beneath you. Dreams of standing at the edge of a dark room carry some of the same symbolism: you're at a turning point, without knowing what awaits below.
+
+## Sources and further reading
+
+- The hypnic jerk at sleep onset — the physiological twitch at sleep onset that is often experienced as exactly this kind of fall.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on how widespread the falling motif is across dream reports.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the fall mirrors a felt loss of footing in waking life.

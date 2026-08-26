@@ -63,3 +63,9 @@ Dreams about loss often show up around life transitions — a new job, a breakup
 The frustrating feeling of searching and searching without finding what you've lost can also reflect a sense of being overwhelmed, scattered, or forgetful in everyday life — as if your thoughts aren't quite where you want them to be.
 
 Not everything lost in a dream is necessarily heavy. Sometimes the mind is practising letting go of things it no longer needs, making room for something new. Losing your [keys](/en/dreams/keys/), for instance, can be about an old form of access or an old role no longer being relevant — and that can be perfectly fine.
+
+## Sources and further reading
+
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — the anxiety dream and the thing that disappears, as an expression of something unresolved.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — loss as a dream motif, one of the oldest we know of.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the sense of losing your grip mirrors something you carry while awake.

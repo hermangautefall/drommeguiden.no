@@ -60,3 +60,9 @@ A shark in a dream can stir up a truly ancient kind of fear — the sense that s
 Other times the dream is more about a person or a situation in everyday life. Calling someone a "shark" isn't a coincidence — the dream can be read as a warning about a ruthless or predatory person, or a situation that feels like it will "eat you alive" if you're not careful, such as a brutal work environment or an unbalanced relationship. The shark can also mirror your own repressed anger — a force in you that suddenly rises to the surface.
 
 It's worth noting that the shark hasn't always been a symbol of fear. In Polynesian and Hawaiian tradition, sharks ('aumākua) were often seen as protective ancestral spirits watching over the family from the sea. Seen in that light, the dream might also be read as something powerful watching over you — even if it looks frightening at first.
+
+## Sources and further reading
+
+- Antti Revonsuo, 'The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming', *Behavioral and Brain Sciences* 23(6), 2000 — the threat simulation theory: the predator in the water as one of the oldest threats.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — what lurks beneath the surface, in the sea and in oneself.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on which animals appear in dreams, and how.

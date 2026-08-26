@@ -60,3 +60,9 @@ The mouth is where words are formed — and dreams about the mouth are often abo
 What actually comes out of the mouth in the dream is also worth noticing — were the words true, harsh, kind, or dishonest? Dreams often mirror how we relate to truth and honesty in our communication, both with others and with ourselves.
 
 The mouth is also an entry point — it's where we take in food, but also ideas, impressions and outside influence. A dream about the mouth can therefore be about appetite in a broad sense: what you want, what you let yourself be influenced by, or what you might need to be more critical about "swallowing." Mouth dreams often overlap with teeth dreams, and both can be about worries around appearance, communication or control.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the body parts in dreams, with the mouth tied to speech and to what you take in.
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — the oral stage and the mouth's place in the psychoanalytic reading.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: what is unsaid in the dream is often unsaid by day as well.

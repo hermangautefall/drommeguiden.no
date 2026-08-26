@@ -74,3 +74,9 @@ Dreams about love often mirror a basic human need: the wish for connection, inti
 Just as often, love in a dream points inward, toward your relationship with yourself. Are you able to receive care and warmth when it's offered to you? Dreams where you're loved and valued can be read as your psyche's way of showing you something you deserve but don't always give yourself day to day.
 
 Nor is it a given that the dream is about romantic love. The ancient Greeks already distinguished between several forms of love — eros, philia, storge and agape — and the love in your dream could belong to any of these: a friendship, a family bond, or a more universal compassion. Sometimes the dream also expresses an idealised longing rather than a reality — a picture of what you want, set against what you actually have.
+
+## Sources and further reading
+
+- Sigmund Freud, *The Interpretation of Dreams* (1900) — wish fulfilment: the dream that gives you the closeness you lack.
+- Carl Gustav Jung, *Man and His Symbols* (1964) — anima and animus, and why the beloved in the dream often carries your own unresolved sides.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why love dreams arrive in periods of longing.

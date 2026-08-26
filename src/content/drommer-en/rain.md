@@ -78,3 +78,8 @@ Rain can be read as emotional release cast into imagery — tears finally allowe
 Across cultures, rain is also tied to nourishment, growth, and blessing. Rain after a long drought is often read as an image of hope and new life — a sign that something dormant is finally able to grow again. At the same time, rain carries a cleansing symbolism that goes back a long way: water that washes clean, rinses away the old, and clears space for a fresh start.
 
 The mood of the dream says a lot about its meaning. Rain can feel wistful and heavy, but it can just as easily be tied to a good feeling of coziness and safety — watching the rain fall outside while you're warm and settled indoors.
+
+## Sources and further reading
+
+- Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — how the psyche lets feelings that need to fall take the form of weather.
+- Matthew Walker, *Why We Sleep* (2017) — REM sleep and emotional regulation, and why a dream's mood lingers after waking.

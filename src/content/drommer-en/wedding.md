@@ -87,3 +87,9 @@ A wedding in a dream can be read as an image of two parts of yourself coming tog
 A wedding is also one of humanity's most universal transitions — a threshold between what was and what's coming, marked with rituals in nearly every culture. Binding yourself to something, whether it's a person, a path, or a choice, is rarely a small thing, and the dream can hold all of what comes with it: the joy, but also the weight of the commitment.
 
 If the wedding in the dream is stressful, or goes wrong in various ways, it can instead mirror ambivalence — unease about a big change, or pressure and expectations you feel, whether from yourself or others. The question the dream often poses is quite simple: are you ready for what's coming?
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the union of opposites as an inner image, not only as a ceremony.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — marriage and social standing as dream motifs in antiquity.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis, and why wedding dreams arrive in periods of large decisions.

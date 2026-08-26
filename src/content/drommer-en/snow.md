@@ -82,3 +82,8 @@ Snow often carries two sides in the language of dreams. One side is calm, peace,
 Fresh snow covering everything can be read as a blank page — a chance to begin again, or an image of something being covered over or hidden. Snow and winter can also be read as a period of rest, a fallow field where something lies waiting for the right moment to grow again — the way seeds lie beneath the snow, waiting for spring.
 
 For many, snow is also closely tied to memory and childhood — the wonder of the first snowfall, the sound of the stillness it creates. Dreams like this can simply be read as nostalgia, a longing back toward a simpler time.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the white and untouched as an image of stillness, but also of what has been put on ice.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the character of the snow follows your own mood.

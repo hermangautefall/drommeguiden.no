@@ -69,3 +69,8 @@ A train can be read as your life's journey, but on a fixed track — following a
 The classic "missing the train" dream is often read as a fear of letting an opportunity pass — that you're too late, or that the chance has already gone. Being on the wrong train, or not being able to get off, can in turn point to a feeling of being stuck on a path you didn't choose for yourself.
 
 Because a train carries many people at once, the dream can also be about the collective — going along for the ride with others, or a sense that life is running on a timetable you didn't set yourself.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the collective track against the individual path, a central tension in individuation.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: catching or missing the train mirrors felt time pressure.

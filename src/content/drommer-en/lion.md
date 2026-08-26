@@ -63,3 +63,9 @@ Your own power or confidence has been weakened by something. Something, or someo
 In many cultures the lion is a symbol of kingship — in Egypt, Rome, and medieval Europe. It represents the best of human leadership: courage paired with dignity. Jung saw the lion as a symbol of the Ego in its strongest form — but warned against letting the inner lion turn tyrannical.
 
 In Christian symbolism, the lion is both Christ (the Lion of Judah) and the devil (the lion that prowls, seeking someone to devour). This duality — a power that can be either good or destructive — sits at the heart of what the lion dream is telling you.
+
+## Sources and further reading
+
+- Carl Gustav Jung, *Man and His Symbols* (1964) — the lion as instinctual power and as the regal aspect of the Self.
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the lion in antiquity's dream interpretation, tied to power and rulers.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data on which animals actually appear in dreams, and how.

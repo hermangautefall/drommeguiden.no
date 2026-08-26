@@ -60,3 +60,8 @@ Dreaming about your stomach can be about intuition — the certainty you feel be
 The stomach is also where we "digest" what happens to us. "Butterflies in the stomach" or not being able to "stomach" something are images of how experiences and feelings get processed in the body. A dream about your stomach can therefore mirror something you're still working through — an experience that needs more time to settle.
 
 The stomach can also be about nourishment and need — hunger, what actually gives you energy, or a vulnerability you carry (the soft, unprotected stomach). Sometimes the explanation is simpler than you'd think: actual hunger or digestion while you sleep can also shape your dream imagery, and that's nothing to worry about.
+
+## Sources and further reading
+
+- Artemidorus of Daldis, *Oneirocritica* (c. 150–200 AD) — the body parts in dreams, with the stomach as the seat of what you digest.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — the continuity hypothesis: the gut feeling in the dream is often the one you have while awake.
