@@ -62,3 +62,8 @@ Farfar i drömmarna kan representera visdom och erfarenhet som byggts upp under 
 Om farfar är avliden upplevs drömmen ofta som ett tröstande besök — ett möte som ger något man trodde var förlorat. Många beskriver det som att söka hans godkännande eller råd, och drömmen kan vara en naturlig del av att bearbeta sorg och hålla fast i bandet till honom. Se även [avliden person i dröm](/sv/drommar/avliden-person/).
 
 Farfar kan också representera auktoritet och värderingar på ett mildare sätt än pappan ofta gör — tradition, moralisk förankring, familjehistorier som format vem du är. Och i en mer inre läsning kan han stå för din egen mentorröst: den del av dig som lyckas hålla huvudet kallt och se saker i ett större perspektiv. Läs även om drömmar om [farmor](/sv/drommar/farmor/) eller [pappa](/sv/drommar/pappa/).
+
+## Källor och vidare läsning
+
+- Carl Gustav Jung, *Människan och hennes symboler* (1964) — den vise gamle mannen som arketyp: erfarenhet, auktoritet och arv.
+- G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, och varför farfarsdrömmar gör sig påminda i valsituationer.
