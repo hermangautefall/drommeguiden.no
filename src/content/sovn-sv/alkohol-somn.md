@@ -83,3 +83,10 @@ Alkohol är inte ett sömnmedel — det är en sömntjuv:
 - Att skippa alkohol de sista 3–6 timmarna före sömnen ger märkbar förbättring
 
 Läs vidare: [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Sömnproblem och insomni](/sv/somn/somnproblem/)
+
+## Källor
+
+- Sleep Medicine Reviews (2024) — ["The effect of alcohol on subsequent sleep in healthy adults: A systematic review and meta-analysis"](https://www.sciencedirect.com/science/article/pii/S1087079224001345)
+- European Respiratory Review / PubMed Central — ["Alcohol and the risk of sleep apnoea: a systematic review and meta-analysis"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5840512/)
+- 1177 Vårdguiden — ["Alkohol"](https://www.1177.se/liv--halsa/tobak-och-alkohol/alkohol/)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

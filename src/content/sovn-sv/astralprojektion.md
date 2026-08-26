@@ -78,3 +78,10 @@ OBE och astralprojektion är verkliga upplevelser med en neurologisk förklaring
 - Nära-döden-upplevelsernas status är vetenskapligt kontroversiell men faktiskt dokumenterad
 
 Läs vidare: [Klardrömning](/sv/guider/klardromning/) — [Sömnförlamning](/sv/guider/somnforlamning/) — [Falskt uppvaknande](/sv/guider/falskt-uppvaknande/)
+
+## Källor
+
+- Brain: A Journal of Neurology (Blanke et al., 2004) — ["Out-of-body experience and autoscopy of neurological origin"](https://academic.oup.com/brain/article-abstract/127/2/243/347826)
+- New England Journal of Medicine (Blanke, 2007) — ["Visualizing Out-of-Body Experience in the Brain"](https://www.nejm.org/doi/full/10.1056/NEJMoa070010)
+- Cureus / PubMed Central — ["Astral Projection: A Strange Out-of-Body Experience in Dissociative Disorder"](https://pmc.ncbi.nlm.nih.gov/articles/PMC8425774/)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

@@ -88,3 +88,9 @@ Koffein är en effektiv sömntjuv eftersom halveringstiden är mycket längre ä
 - Koffeinfri sömn ger mer sammanhängande REM och bättre drömminne
 
 Läs vidare: [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Alkohol och sömn](/sv/somn/alkohol-somn/) — [Sömnfaser förklarade](/sv/somn/somnfaser/)
+
+## Källor
+
+- Sleep Medicine Reviews (Gardiner et al., 2023) — ["The effect of caffeine on subsequent sleep: A systematic review and meta-analysis"](https://www.sciencedirect.com/science/article/pii/S1087079223000205)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

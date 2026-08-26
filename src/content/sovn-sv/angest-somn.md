@@ -98,3 +98,8 @@ Sök hjälp hos din läkare om ångesten är genomgående, påverkar vardagen oc
 - Andningsövningar, progressiv muskelavslappning och planerad oroststund är enkla åtgärder med god dokumentation
 
 Läs vidare: [Sömnproblem och insomni](/sv/somn/somnproblem/) — [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Mardröm — orsaker och behandling](/sv/guider/mardrom/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Ångest"](https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/angest--starka-kanslor-av-oro/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

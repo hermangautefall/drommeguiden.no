@@ -128,3 +128,8 @@ Sömnproblem drabbar en av tre — och de låter sig ofta behandlas:
 - Sömnproblem stör drömkvaliteten direkt — och visar sig i ökad mardrömsförekomst
 
 Läs vidare: [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Ångest och sömn](/sv/somn/angest-somn/) — [Stress och drömmarna](/sv/guider/stress-och-drommar/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)
+- 1177 Vårdguiden — ["Stress"](https://www.1177.se/liv--halsa/stresshantering-och-somn/stress/)

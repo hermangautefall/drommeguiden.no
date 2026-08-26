@@ -109,3 +109,8 @@ Forskningen ger inte ett svar på varför vi drömmer — men ger oss flera komp
 - Psykologisk kommunikation: Jung och Freud pekade på att drömmarna förmedlar något från det omedvetna
 
 Vidare läsning: [Sömnfaser och REM förklarade](/sv/somn/somnfaser/) — [Vad är sömn?](/sv/somn/vad-ar-somn/) — [Drömjournalen — så minns du drömmarna](/sv/guider/dromjournalen/)
+
+## Källor
+
+- American Journal of Psychiatry (Hobson & McCarley, 1977) — ["The brain as a dream state generator: an activation-synthesis hypothesis of the dream process"](https://www.semanticscholar.org/paper/The-brain-as-a-dream-state-generator:-an-hypothesis-Hobson-McCarley/f1af886bfac2ee058ddaf1a6fb61dabe08e19b08)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

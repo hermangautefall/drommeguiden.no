@@ -103,3 +103,8 @@ Sömn under graviditet är utmanande — men det finns goda åtgärder:
 - Sidläge med graviditetskudde, begränsat vätskeintag på kvällen och korta vilor på dagen är de viktigaste åtgärderna
 
 Läs vidare: [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Vad drömmar om graviditet betyder](/sv/drommar/gravid/) — [Barn och drömmar](/sv/guider/barn-och-drommar/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Graviditet"](https://www.1177.se/barn--gravid/graviditet/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

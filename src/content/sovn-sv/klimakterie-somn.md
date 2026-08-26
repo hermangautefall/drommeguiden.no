@@ -84,3 +84,8 @@ Klimakteriet förändrar sömnen genom flera mekanismer:
 - Svalt sovrum, HRT (efter läkarbedömning), KBT-I och avslappningstekniker är de viktigaste åtgärderna
 
 Läs vidare: [Sömnproblem och insomni](/sv/somn/somnproblem/) — [Ångest och sömn](/sv/somn/angest-somn/) — [Sömnhygien: 12 vanor](/sv/somn/somnhygien/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

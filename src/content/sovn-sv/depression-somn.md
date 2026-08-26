@@ -78,3 +78,8 @@ Depression och sömn är djupt sammanflätade i en självförstärkande spiral:
 *Ihållande sömnproblem i kombination med depressiva symtom bör utredas av läkare.*
 
 Läs vidare: [Sömnproblem och insomni](/sv/somn/somnproblem/) — [Ångest och sömn](/sv/somn/angest-somn/) — [Stress och drömmar](/sv/guider/stress-och-drommar/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Depression"](https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/depression/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

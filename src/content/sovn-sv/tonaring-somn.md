@@ -91,3 +91,8 @@ Tonåringars sömnproblem är biologiskt förankrade — inte beteendemässig la
 - Sen skoltidsstart är den bäst dokumenterade strukturella åtgärden
 
 Läs vidare: [Ditt sömnbehov](/sv/somn/somnbehov/) — [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Barn och drömmar](/sv/guider/barn-och-drommar/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Trötthet"](https://www.1177.se/liv--halsa/stresshantering-och-somn/trotthet/)

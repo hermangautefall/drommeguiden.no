@@ -79,3 +79,10 @@ Melatonin är en tidssignal, inte ett sömnmedel:
 - Timing är avgörande: 30–60 minuter före önskad läggdags
 
 Läs vidare: [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Sömnproblem och insomni](/sv/somn/somnproblem/) — [Sömnhygien](/sv/somn/somnhygien/)
+
+## Källor
+
+- Journal of Pineal Research (Cruz‑Sanabria et al., 2024) — ["Optimizing the Time and Dose of Melatonin as a Sleep‑Promoting Drug: A Systematic Review of Randomized Controlled Trials and Dose–Response Meta‑Analysis"](https://onlinelibrary.wiley.com/doi/10.1111/jpi.12985)
+- FASS — [läkemedelsfakta för allmänheten](https://www.fass.se/)
+- Läkemedelsverket — [information om godkända läkemedel](https://www.lakemedelsverket.se/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

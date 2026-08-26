@@ -81,3 +81,7 @@ Sömn och immunförsvaret är biologiskt oskiljaktiga:
 - Sömn är aktiv behandling vid sjukdom, inte passivitet
 
 Läs vidare: [Vad är sömn?](/sv/somn/vad-ar-somn/) — [Ditt sömnbehov](/sv/somn/somnbehov/) — [Sömnproblem och insomni](/sv/somn/somnproblem/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

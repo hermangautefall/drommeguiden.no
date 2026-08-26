@@ -77,3 +77,8 @@ Sömnen förändras biologiskt med åldern — men mycket är behandlingsbart:
 - Äldre drömmer mer positivt och lugnt — men drömmar om avlidna är vanligare och ofta tröstande
 
 Läs vidare: [Melatonin — dos och användning](/sv/somn/melatonin/) — [Sömnproblem och insomni](/sv/somn/somnproblem/) — [Drömmar om avlidna](/sv/guider/drommar-om-avlidna/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

@@ -110,3 +110,11 @@ Alla sömntillskott är inte lika — här är det korta svaret:
 - GABA: tvivelaktigt hjärnupptag vid oralt intag — begränsad direkt sömneffekt
 
 Läs vidare: [Melatonin — dos och bruk](/sv/somn/melatonin/) — [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Ångest och sömn](/sv/somn/angest-somn/)
+
+## Källor
+
+- BMC Complementary Medicine and Therapies / PubMed Central — ["Oral magnesium supplementation for insomnia in older adults: a Systematic Review & Meta-Analysis"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8053283/)
+- European Neuropsychopharmacology — ["Does valerian work for insomnia? An umbrella review of the evidence"](https://www.sciencedirect.com/science/article/pii/S0924977X24000294)
+- Psychiatry Investigation (2024) — ["Herbal and Natural Supplements for Improving Sleep: A Literature Review"](https://www.psychiatryinvestigation.org/upload/pdf/pi-2024-0121.pdf) (PDF)
+- FASS — [läkemedelsfakta för allmänheten](https://www.fass.se/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

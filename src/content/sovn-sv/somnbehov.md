@@ -81,3 +81,9 @@ Sömnbehovet är individuellt — men de flesta behöver mer än de tror:
 - Sömnkvalitet räknas lika mycket som timmar — effektiv sömn ger mer än många timmar med dålig sömn
 
 Läs vidare: [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Vad är sömn?](/sv/somn/vad-ar-somn/) — [Sömnhygien](/sv/somn/somnhygien/)
+
+## Källor
+
+- Sleep Health (Hirshkowitz et al., 2015) — ["National Sleep Foundation's sleep time duration recommendations: methodology and results summary"](https://www.sleephealthjournal.org/article/s2352-7218(15)00015-7/fulltext)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Trötthet"](https://www.1177.se/liv--halsa/stresshantering-och-somn/trotthet/)

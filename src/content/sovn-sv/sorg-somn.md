@@ -88,3 +88,11 @@ Sorg och sömn är oskiljaktigt förbundna — och sömnen är en aktiv del av s
 - Journalskrivande, ritualer och socialt stöd är de mest effektiva sömnåtgärderna i sorgtiden
 
 Läs vidare: [Att drömma om avlidna](/sv/guider/drommar-om-avlidna/) — [Sömnproblem och insomni](/sv/somn/somnproblem/) — [Dromjournalen](/sv/guider/dromjournalen/)
+
+## Källor
+
+- Sleep Medicine Reviews (Lancel et al., 2020) — ["Sleep disturbances in bereavement: A systematic review"](https://www.sciencedirect.com/science/article/pii/S1087079220300745)
+- Sleep Foundation — ["How Grief and Complicated Grief Affect Sleep"](https://www.sleepfoundation.org/mental-health/grief-and-sleep)
+- Death Studies / PubMed (Hardison et al., 2005) — ["Insomnia and complicated grief symptoms in bereaved college students"](https://pubmed.ncbi.nlm.nih.gov/15802260/)
+- Folkhälsomyndigheten — ["Psykisk hälsa och suicidprevention"](https://www.folkhalsomyndigheten.se/livsvillkor-levnadsvanor/psykisk-halsa-och-suicidprevention/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

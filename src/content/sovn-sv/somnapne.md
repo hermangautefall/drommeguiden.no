@@ -99,3 +99,8 @@ Sömnapné är vanligt, allvarligt och mycket behandlingsbart:
 - Sök läkare om du känner igen dig i symtomen — vårdcentralen kan beställa sömnregistrering
 
 Läs vidare: [Sömnproblem och insomni](/sv/somn/somnproblem/) — [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Stress och drömmarna](/sv/guider/stress-och-drommar/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)
+- 1177 Vårdguiden — ["Trötthet"](https://www.1177.se/liv--halsa/stresshantering-och-somn/trotthet/)

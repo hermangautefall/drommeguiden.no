@@ -91,3 +91,8 @@ Sömn är inte passivt — det är en av kroppens mest avancerade biologiska pro
 - Drömmarna är sömnens psykologiska kärna — och de har en dokumenterad funktion
 
 Vidare läsning: [Sömnfaser i detalj](/sv/somn/somnfaser/) — [Varför drömmer vi?](/sv/somn/varfor-drommer-vi/) — [Sömnhygien: 12 vanor för bättre sömn](/sv/somn/somnhygien/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Trötthet"](https://www.1177.se/liv--halsa/stresshantering-och-somn/trotthet/)

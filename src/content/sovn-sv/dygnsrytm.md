@@ -100,3 +100,8 @@ Den biologiska klockan är ett av kroppens viktigaste styrsystem:
 - REM-sömnen och drömmarna är de första att försvinna vid störningar i rytmen
 
 Läs vidare: [Melatonin — dos och användning](/sv/somn/melatonin/) — [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Sömnhygien: 12 vanor](/sv/somn/somnhygien/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Trötthet"](https://www.1177.se/liv--halsa/stresshantering-och-somn/trotthet/)

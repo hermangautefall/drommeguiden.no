@@ -92,3 +92,11 @@ Ljudmaskering är ett enkelt och effektivt sömnåtgärd — särskilt i bullrig
 - Ger mer sammanhängande sömn och bättre drömminne
 
 Läs vidare: [Sovrummet för bättre sömn](/sv/somn/sovrum-somn/) — [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Drömjournalen](/sv/guider/dromjournalen/)
+
+## Källor
+
+- Sleep Medicine Reviews (Riedy et al., 2021) — ["Noise as a sleep aid: A systematic review"](https://www.sciencedirect.com/science/article/abs/pii/S1087079220301283)
+- Journal of Clinical Sleep Medicine — ["Systematic review: auditory stimulation and sleep"](https://jcsm.aasm.org/doi/10.5664/jcsm.9860)
+- Sleep Medicine — ["Continuous white noise exposure during sleep and childhood development: A scoping review"](https://www.sciencedirect.com/science/article/abs/pii/S1389945724001588)
+- PubMed Central — ["Effects of white noise on preterm infants in the neonatal intensive care unit: A meta-analysis of randomised controlled trials"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10794858/)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

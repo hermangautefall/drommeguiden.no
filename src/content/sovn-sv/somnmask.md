@@ -89,3 +89,9 @@ Mörkret är en av sömnens viktigaste förutsättningar:
 - Bättre mörker ger bättre REM och mer livliga drömmar
 
 Läs vidare: [Sovrummet för bättre sömn](/sv/somn/sovrum-somn/) — [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Melatonin — dos och bruk](/sv/somn/melatonin/)
+
+## Källor
+
+- Critical Care / PubMed Central (Hu et al., 2015) — ["Effects of earplugs and eye masks combined with relaxing music on sleep, melatonin and cortisol levels in ICU patients: a randomized controlled trial"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4391192/)
+- Australian Critical Care / PubMed Central — ["The Efficacy of Eye Masks and Earplugs Interventions for Sleep Promotion in Critically Ill Patients: A Systematic Review and Meta-Analysis"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8678458/)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

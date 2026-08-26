@@ -84,3 +84,8 @@ PTSD och traumatiska drömmar hör till de bäst förstådda — och mest belast
 *PTSD kräver professionell behandling. Sök läkare eller psykolog.*
 
 Läs vidare: [Mardrömmar — orsaker och behandling](/sv/guider/mardrom/) — [Återkommande drömmar](/sv/guider/aterkommande-drommar/) — [Depression och sömn](/sv/somn/depression-somn/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Ångest"](https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/angest--starka-kanslor-av-oro/)
+- Folkhälsomyndigheten — ["Psykisk hälsa och suicidprevention"](https://www.folkhalsomyndigheten.se/livsvillkor-levnadsvanor/psykisk-halsa-och-suicidprevention/)

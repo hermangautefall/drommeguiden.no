@@ -99,3 +99,11 @@ Historiens mest dokumenterade drömscenarier är fascinerande och lärorika:
 - Gemensam neurologisk förklaring: REM-sömnen tillåter oväntade associationer som den rationella hjärnan annars avvisar
 
 Läs vidare: [Varför drömmer vi?](/sv/somn/varfor-drommer-vi/) — [Profetiska drömmar](/sv/guider/profetiska-drommar/) — [Drömmarna och hjärnan](/sv/somn/drommar-och-hjarnan/)
+
+## Källor
+
+- Hektoen International — ["Scientific discoveries in dreams: Sleeping while the mind works"](https://hekint.org/2023/12/19/scientific-discoveries-in-dreams-sleeping-while-the-mind-works/)
+- Bulletin for the History of Chemistry (Rocke, 2015) — ["It Began with a Daydream: The 150th Anniversary of the Kekulé Benzene Structure"](https://www.researchgate.net/publication/266025885_It_Began_with_a_Daydream_The_150th_Anniversary_of_the_Kekule_Benzene_Structure)
+- Dreaming (Strunz, 1993) — ["What Do We Really Know About Mendeleev's Dream of the Periodic Table? A Note on Dreams of Scientific Problem Solving"](https://www.researchgate.net/publication/251285637_What_Do_We_Really_Know_About_Mendeleev's_Dream_of_the_Periodic_Table_A_Note_on_Dreams_of_Scientific_Problem_Solving)
+- Linda Hall Library — ["Otto Loewi — Scientist of the Day"](https://www.lindahall.org/about/news/scientist-of-the-day/otto-loewi/)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

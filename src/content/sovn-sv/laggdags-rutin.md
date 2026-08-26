@@ -111,3 +111,9 @@ En bra läggdagsrutin är hjärnans nedtrappningsprotokoll:
 7. Gör det vid ungefär samma tid varje kväll
 
 Läs vidare: [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Drömjournalen](/sv/guider/dromjournalen/) — [Ångest och sömn](/sv/somn/angest-somn/)
+
+## Källor
+
+- Sleep Medicine Reviews (Mindell & Williamson, 2018) — ["Benefits of a bedtime routine in young children: Sleep, development, and beyond"](https://pubmed.ncbi.nlm.nih.gov/29195725/)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

@@ -79,3 +79,11 @@ Träning är ett av de bästa sömnmedlen som finns:
 - Träning på morgonen kombinerat med morgonljus är den bästa biologiska klockkalibreringen
 
 Läs vidare: [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Ångest och sömn](/sv/somn/angest-somn/) — [Ditt sömnbehov](/sv/somn/somnbehov/)
+
+## Källor
+
+- PubMed Central — ["The best approaches and doses of exercise for improving sleep quality: a network meta-analysis and dose-response relationship study"](https://pmc.ncbi.nlm.nih.gov/articles/PMC11987399/)
+- Sleep Medicine — ["Effects of exercise on sleep quality in general population: Meta-analysis and systematic review"](https://www.sciencedirect.com/science/article/abs/pii/S1389945724005021)
+- PubMed Central (2025) — ["Effects of Aerobic Exercise on Sleep Quality, Insomnia, and Inflammatory Markers: A Systematic Review and Meta-Analysis"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12293783/)
+- 1177 Vårdguiden — ["Fysisk aktivitet och träning"](https://www.1177.se/liv--halsa/fysisk-aktivitet-och-traning/)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

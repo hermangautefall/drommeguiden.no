@@ -100,3 +100,12 @@ Tyngdtäcken är dokumenterat effektiva — för rätt personer:
 - Inte lämpligt vid sömnapné, klaustrofobi eller för dem som sover mycket varmt
 
 Läs vidare: [Sovrummet för bättre sömn](/sv/somn/sovrum-somn/) — [Ångest och sömn](/sv/somn/angest-somn/) — [Sömnhygien: 12 vanor](/sv/somn/somnhygien/)
+
+## Källor
+
+- Journal of Clinical Sleep Medicine (Ekholm et al., 2020) — ["A randomized controlled study of weighted chain blankets for insomnia in psychiatric disorders"](https://jcsm.aasm.org/doi/10.5664/jcsm.8636)
+- BMC Psychiatry (2024) — ["Effect of weighted blankets on sleep quality among adults with insomnia: a pilot randomized controlled trial"](https://link.springer.com/article/10.1186/s12888-024-06218-9)
+- Journal of Psychiatric Research (2024) — ["The effect of weighted blankets on sleep quality and mental health symptoms in people with psychiatric disorders: A systematic review and meta-analysis"](https://www.sciencedirect.com/science/article/pii/S0022395624005508)
+- Frontiers in Psychiatry (2024) — ["The effect of weighted blankets on sleep and related disorders: a brief review"](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1333015/full)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

@@ -106,3 +106,9 @@ Sömnappar och wearables är användbara verktyg, rätt använda:
 - Kombinera med drömjournalen för en komplett bild
 
 Läs vidare: [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Drömjournalen](/sv/guider/dromjournalen/) — [Ditt sömnbehov](/sv/somn/somnbehov/)
+
+## Källor
+
+- Sensors / Brigham and Women's Hospital (2024) — ["Accuracy of Three Commercial Wearable Devices for Sleep Tracking in Healthy Adults"](https://pmc.ncbi.nlm.nih.gov/articles/PMC11511193/)
+- JMIR mHealth and uHealth (2023) — ["Accuracy of 11 Wearable, Nearable, and Airable Consumer Sleep Trackers: Prospective Multicenter Validation Study"](https://mhealth.jmir.org/2023/1/e50983)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

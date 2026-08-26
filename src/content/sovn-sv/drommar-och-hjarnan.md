@@ -96,3 +96,8 @@ Drömmarnas neurologiska bas är väl kartlagd och djupt fascinerande:
 - Lucida drömmare aktiverar prefrontala cortex under REM — ett neurologiskt unikt fenomen
 
 Läs vidare: [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Lucida drömmar](/sv/guider/klardromning/) — [Sömnparalys](/sv/guider/somnforlamning/)
+
+## Källor
+
+- American Journal of Psychiatry (Hobson & McCarley, 1977) — ["The brain as a dream state generator: an activation-synthesis hypothesis of the dream process"](https://www.semanticscholar.org/paper/The-brain-as-a-dream-state-generator:-an-hypothesis-Hobson-McCarley/f1af886bfac2ee058ddaf1a6fb61dabe08e19b08) (Semantic Scholar — primærsitering)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

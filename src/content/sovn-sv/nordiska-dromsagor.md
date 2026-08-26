@@ -85,3 +85,8 @@ Fornnordisk drömfundamentalism är en av de rikaste och mest sofistikerade drö
 - Gemensamt med modern psykologi: drömmarna är meningsfulla och bär information
 
 Läs vidare: [Profetiska drömmar](/sv/guider/profetiska-drommar/) — [Berömda drömmar i historien](/sv/somn/beromda-drommar/) — [Troll — vad det betyder att drömma om troll](/sv/drommar/troll/)
+
+## Källor
+
+- Wikipedia (kildedokumentert) — ["Gunnlaugs saga ormstungu"](https://en.wikipedia.org/wiki/Gunnlaugs_saga_ormstungu)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

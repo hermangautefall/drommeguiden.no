@@ -109,3 +109,8 @@ Sovrumsmiljön är en underskattad sömnfaktor:
 - En optimal sovrumsmiljö ger mer sammanhängande REM-sömn och bättre drömminne
 
 Läs vidare: [Sömnhygien: 12 vanor](/sv/somn/somnhygien/) — [Tyngdtäcke — guide och rekommendationer](/sv/somn/tyngdtacke/) — [Sömnproblem och insomni](/sv/somn/somnproblem/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

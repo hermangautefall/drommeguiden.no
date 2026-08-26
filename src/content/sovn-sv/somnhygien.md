@@ -122,3 +122,8 @@ De 12 viktigaste sömnhygieniska åtgärderna, rangordnade efter effekt:
 12. Hantera oro aktivt på dagtid
 
 Läs vidare: [Sömnproblem och insomni](/sv/somn/somnproblem/) — [Ångest och sömn](/sv/somn/angest-somn/) — [Drömjournalen](/sv/guider/dromjournalen/)
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Sömnsvårigheter"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/)

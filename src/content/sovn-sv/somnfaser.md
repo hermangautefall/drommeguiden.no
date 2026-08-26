@@ -188,3 +188,7 @@ tidpunkter på natten:
 - REM-sömn: emotionell bearbetning, kreativt tänkande, levande drömmar
 - Djup sömn dominerar tidigt på natten; REM dominerar sent
 - Alkohol undertrycker REM; sent sänggående skär djup sömn; tidig väckning skär REM
+
+## Källor
+
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)

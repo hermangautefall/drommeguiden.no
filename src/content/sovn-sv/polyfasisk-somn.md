@@ -73,3 +73,12 @@ Polyfasisk sömn är fascinerande, men de mest extrema varianterna är inte hål
 - Polyfasisk sömn är intressant för klardrömmare, inte som produktivitetshack
 
 Läs vidare: [Sömnfaser förklarade](/sv/somn/somnfaser/) — [Ditt sömnbehov](/sv/somn/somnbehov/) — [Klardrömning](/sv/guider/klardromning/)
+
+## Källor
+
+- Sleep Health / National Sleep Foundation consensus panel (2021) — ["Adverse impact of polyphasic sleep patterns in humans: Report of the National Sleep Foundation sleep timing and variability consensus panel"](https://www.sciencedirect.com/science/article/pii/S2352721821000309)
+- Sleep Foundation — ["Polyphasic Sleep: Benefits and Risks"](https://www.sleepfoundation.org/how-sleep-works/polyphasic-sleep)
+- Cleveland Clinic — ["Should You Try Polyphasic Sleep?"](https://health.clevelandclinic.org/polyphasic-sleep)
+- Sleep Health (Hirshkowitz et al., 2015) — ["National Sleep Foundation's sleep time duration recommendations"](https://www.sleephealthjournal.org/article/s2352-7218(15)00015-7/fulltext)
+- 1177 Vårdguiden — ["Sömnen är viktig för din hälsa"](https://www.1177.se/liv--halsa/stresshantering-och-somn/somnen-ar-viktig-for-din-halsa/)
+- 1177 Vårdguiden — ["Trötthet"](https://www.1177.se/liv--halsa/stresshantering-och-somn/trotthet/)
