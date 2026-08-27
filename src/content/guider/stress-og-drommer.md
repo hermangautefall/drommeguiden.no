@@ -4,6 +4,7 @@ slug: stress-og-drommer
 kortbeskrivelse: "Stress endrer drømmene dine på konkrete og dokumenterte måter. Her er hva forskning sier om sammenhengen mellom stress og drømmenes innhold og kvalitet."
 leseminutter: 8
 bilde: /bilder/guider/stress-og-drommer.jpg
+sv_slug: stress-och-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
 ---

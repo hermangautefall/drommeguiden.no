@@ -4,6 +4,7 @@ slug: barn-og-drommer
 kortbeskrivelse: "Barn drømmer annerledes enn voksne og har egne behov knyttet til drømmene. Her er hva forskningen vet om barns drømmeliv, og hvordan du støtter dem."
 leseminutter: 8
 bilde: /bilder/guider/barn-og-drommer.jpg
+sv_slug: barn-och-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
 ---

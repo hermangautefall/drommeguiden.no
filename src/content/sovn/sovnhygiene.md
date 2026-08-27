@@ -8,6 +8,7 @@ leseminutter: 10
 dato: 2026-03-18
 oppdatert: 2026-06-13
 bilde: /bilder/sovn/sovnhygiene.jpg
+sv_slug: somnhygien
 relaterte_sovn:
   - sovnproblemer
   - soverom-sovn

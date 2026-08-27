@@ -6,6 +6,7 @@ kategori: psykologi
 kortbeskrivelse: "Depresjon og søvnproblemer er dypt sammenvevd — og begge forverrer hverandre. Her er mekanismene, drømmenes rolle, og hva som faktisk kan hjelpe."
 leseminutter: 8
 bilde: /bilder/sovn/depresjon-sovn.jpg
+sv_slug: depression-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

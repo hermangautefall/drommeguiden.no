@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Immunforsvaret er på sitt mest aktive mens du sover. Her er hva forskning sier om sammenhengen mellom søvnkvalitet og kroppens evne til å bekjempe sykdom."
 leseminutter: 7
 bilde: /bilder/sovn/sovn-immunforsvar.jpg
+sv_slug: somn-immunforsvar
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

@@ -6,6 +6,7 @@ leseminutter: 6
 dato: 2026-03-18
 oppdatert: 2026-06-13
 bilde: /bilder/guider/drommejournalen.jpg
+sv_slug: dromjournalen
 ---
 
 ## Drømmejournalen — slik husker du drømmene dine

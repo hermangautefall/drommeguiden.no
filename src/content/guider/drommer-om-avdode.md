@@ -4,6 +4,7 @@ slug: drommer-om-avdode
 kortbeskrivelse: "Å drømme om noen du har mistet er en av de mest intense og rørende drømmeopplevelsene vi kan ha. Her er hva forskning og psykologi sier om slike drømmer."
 leseminutter: 9
 bilde: /bilder/guider/drommer-om-avdode.jpg
+sv_slug: drommar-om-avlidna
 dato: 2026-03-18
 oppdatert: 2026-06-13
 ---

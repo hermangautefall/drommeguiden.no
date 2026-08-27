@@ -6,6 +6,7 @@ kategori: hygiene
 kortbeskrivelse: "Soveromsmiljøet påvirker søvnkvaliteten mer enn de fleste tror. Her er hva forskning sier om temperatur, lys, støy og hva som faktisk gir bedre søvn."
 leseminutter: 8
 bilde: /bilder/sovn/soverom-sovn.jpg
+sv_slug: sovrum-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

@@ -2,6 +2,7 @@
 tittel: "Falsk oppvåkning — når du tror du er våken, men fortsatt drømmer"
 slug: falsk-oppvakning
 bilde: /bilder/guider/falsk-oppvakning.jpg
+sv_slug: falskt-uppvaknande
 kortbeskrivelse: "Falsk oppvåkning er en av de mest forvirrende drømmeopplevelsene vi kan ha. Her er hva som skjer, hvorfor det skjer, og hva du kan gjøre med det."
 leseminutter: 8
 dato: 2026-03-18

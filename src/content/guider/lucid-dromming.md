@@ -6,6 +6,7 @@ leseminutter: 7
 dato: 2026-03-18
 oppdatert: 2026-06-13
 bilde: /bilder/guider/lucid-dromming.jpg
+sv_slug: klardromning
 ---
 
 ## Lucid drømming — slik tar du kontroll

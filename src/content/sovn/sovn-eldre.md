@@ -6,6 +6,7 @@ kategori: livsfaser
 kortbeskrivelse: "Søvnen endrer seg naturlig med alderen — men dårlig søvn er ikke uunngåelig. Her er hva som skjer biologisk, og hva forskning sier faktisk hjelper."
 leseminutter: 8
 bilde: /bilder/sovn/sovn-eldre.jpg
+sv_slug: somn-aldre
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

@@ -2,6 +2,7 @@
 tittel: "Søvnparalyse — hva som skjer i kroppen og sinnet"
 slug: sovnparalyse
 bilde: /bilder/guider/sovnparalyse.jpg
+sv_slug: somnforlamning
 kortbeskrivelse: "Søvnparalyse er en av de mest skremmende søvnopplevelsene vi kan ha — men det er helt ufarlig. Her er hva som faktisk skjer og hva du kan gjøre."
 leseminutter: 9
 dato: 2026-03-18

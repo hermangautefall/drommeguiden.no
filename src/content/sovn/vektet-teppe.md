@@ -6,6 +6,7 @@ kategori: produkter
 kortbeskrivelse: "Vektet teppe har blitt populært som søvnhjelpemiddel — men hva sier forskning, hvem hjelper det faktisk, og hva bør du se etter når du velger?"
 leseminutter: 8
 bilde: /bilder/sovn/vektet-teppe.jpg
+sv_slug: tyngdtacke
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

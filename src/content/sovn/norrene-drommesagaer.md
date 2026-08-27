@@ -6,6 +6,7 @@ kategori: psykologi
 kortbeskrivelse: "I norrøn kultur var drømmer ikke symbolske — de var varsler, budskaper og skjebne. Her er de mest fascinerende drømmene fra sagaenes verden og hva de betyr."
 leseminutter: 9
 bilde: /bilder/sovn/norrene-drommesagaer.jpg
+sv_slug: nordiska-dromsagor
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

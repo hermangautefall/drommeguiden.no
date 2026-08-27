@@ -6,6 +6,7 @@ kategori: livsfaser
 kortbeskrivelse: "Tenåringer sover ikke sent av latskap — biologi tvinger dem til det. Her er hva som skjer med søvnen i tenårene, og hva som faktisk kan hjelpe."
 leseminutter: 8
 bilde: /bilder/sovn/tenaring-sovn.jpg
+sv_slug: tonaring-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

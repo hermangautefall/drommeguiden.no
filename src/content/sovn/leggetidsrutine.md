@@ -6,6 +6,7 @@ kategori: hygiene
 kortbeskrivelse: "En god leggetidsrutine er et av de mest effektive søvntiltakene — men ikke fordi det er magisk. Her er mekanismen og 7 konkrete steg du kan starte i kveld."
 leseminutter: 7
 bilde: /bilder/sovn/leggetidsrutine.jpg
+sv_slug: laggdags-rutin
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

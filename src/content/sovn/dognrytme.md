@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Den biologiske klokken styrer søvn, energi, humør og fordøyelse — alt etter et 24-timersur. Her er hvordan den fungerer, og hva som forstyrrer den."
 leseminutter: 8
 bilde: /bilder/sovn/dognrytme.jpg
+sv_slug: dygnsrytm
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

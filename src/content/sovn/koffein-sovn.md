@@ -6,6 +6,7 @@ kategori: hygiene
 kortbeskrivelse: "Koffein er verdens mest brukte psykoaktive stoff — og en av de vanligste søvntyvene. Her er mekanismen, halveringstiden og hva du bør gjøre annerledes."
 leseminutter: 7
 bilde: /bilder/sovn/koffein-sovn.jpg
+sv_slug: koffein-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

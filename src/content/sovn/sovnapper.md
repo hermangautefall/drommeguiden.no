@@ -6,6 +6,7 @@ kategori: produkter
 kortbeskrivelse: "Søvnapper som Sleep Cycle, Oura Ring og Apple Watch lover innsikt i søvnkvaliteten din. Her er hva de faktisk måler, hva de ikke kan, og hvem de passer for."
 leseminutter: 8
 bilde: /bilder/sovn/sovnapper.jpg
+sv_slug: somnappar
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

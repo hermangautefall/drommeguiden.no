@@ -6,6 +6,7 @@ kategori: livsfaser
 kortbeskrivelse: "Sorg forandrer søvnen dypt — og søvnen er der mye av sorgen bearbeides. Her er hva forskning sier om sorg, søvnproblemer og drømmenes rolle i helbredelsen."
 leseminutter: 8
 bilde: /bilder/sovn/sorg-sovn.jpg
+sv_slug: sorg-somn
 dato: 2026-03-18
 oppdatert: 2026-08-24
 relaterte_sovn:

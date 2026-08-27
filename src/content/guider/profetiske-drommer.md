@@ -4,6 +4,7 @@ slug: profetiske-drommer
 kortbeskrivelse: "Mange opplever drømmer som ser ut til å forutsi fremtiden. Finnes profetiske drømmer egentlig? Her er hva psykologi og forskning sier om fenomenet."
 leseminutter: 8
 bilde: /bilder/guider/profetiske-drommer.jpg
+sv_slug: profetiska-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
 ---

@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Polyfasisk søvn lover mer produktiv tid ved å dele søvnen i flere korte bolker. Her er hva forskning faktisk sier om det er bærekraftig og trygt."
 leseminutter: 7
 bilde: /bilder/sovn/polyfasisk-sovn.jpg
+sv_slug: polyfasisk-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

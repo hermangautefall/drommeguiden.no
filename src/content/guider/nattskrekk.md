@@ -4,8 +4,10 @@ slug: nattskrekk
 kortbeskrivelse: "Nattskrekk er annerledes enn mareritt og kan virke skremmende å oppleve. Her er hva som skjer i kroppen, hvem det rammer og hva du kan gjøre."
 leseminutter: 8
 bilde: /bilder/guider/nattskrekk.jpg
+sv_slug: nattskrack
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: night-terrors
 ---
 
 Du hører et skrik fra soverommet. Barnet sitter oppreist i sengen med åpne øyne, ser rett frem, roper og skjelver — men er ikke våkent. Ingenting du sier når frem. Og neste morgen husker barnet ingenting.

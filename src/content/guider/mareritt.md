@@ -6,6 +6,7 @@ leseminutter: 7
 dato: 2026-03-18
 oppdatert: 2026-06-13
 bilde: /bilder/guider/mareritt.jpg
+sv_slug: mardrom
 ---
 
 ## Mareritt — hvorfor vi har dem og hva vi kan gjøre

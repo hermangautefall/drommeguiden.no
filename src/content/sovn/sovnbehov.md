@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Åtte timer er gjennomsnittet — men søvnbehovet varierer betydelig mellom mennesker. Her er hva forskning sier om søvnbehov, og hvordan du finner ditt eget."
 leseminutter: 7
 bilde: /bilder/sovn/sovnbehov.jpg
+sv_slug: somnbehov
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Melatonin er ikke et sovemiddel — det er et signalhormon. Her er hva melatonin faktisk gjør, hvem det hjelper, og hva forskning sier om dose og timing."
 leseminutter: 8
 bilde: /bilder/sovn/melatonin.jpg
+sv_slug: melatonin
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

@@ -6,6 +6,7 @@ kategori: produkter
 kortbeskrivelse: "Magnesium, L-theanin, valerian, ashwagandha — hyllesiden med søvntilskudd er overveldende. Her er hva forskning faktisk sier om hvilke som virker."
 leseminutter: 9
 bilde: /bilder/sovn/sovntilskudd.jpg
+sv_slug: somntillskott
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

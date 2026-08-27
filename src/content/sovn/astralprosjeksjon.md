@@ -6,6 +6,7 @@ kategori: psykologi
 kortbeskrivelse: "Astralprosjeksjon og out-of-body experiences oppleves som ekstraordinært virkelige. Her er hva nevrovitenskap og søvnforskning sier om hva som faktisk skjer."
 leseminutter: 8
 bilde: /bilder/sovn/astralprosjeksjon.jpg
+sv_slug: astralprojektion
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

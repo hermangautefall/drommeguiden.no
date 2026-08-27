@@ -4,6 +4,7 @@ slug: farger-i-drommer
 kortbeskrivelse: "Farger i drømmer er sjelden tilfeldige. Rød, blå, hvit, svart — hver farge bærer på et eget symbolspråk. Her er en komplett guide til fargenes mening."
 leseminutter: 9
 bilde: /bilder/guider/farger-i-drommer.jpg
+sv_slug: farger-i-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
 ---

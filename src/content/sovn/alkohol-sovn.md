@@ -6,6 +6,7 @@ kategori: hygiene
 kortbeskrivelse: "Mange bruker alkohol for å sovne — men forskning er klar: alkohol ødelegger søvnkvaliteten. Her er hva som faktisk skjer i kroppen din etter et glass."
 leseminutter: 7
 bilde: /bilder/sovn/alkohol-sovn.jpg
+sv_slug: alkohol-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

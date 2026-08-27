@@ -14,13 +14,19 @@ export async function getStaticPaths() {
 const { artikkel } = Astro.props;
 const { Content } = await render(artikkel);
 
-const alternates: { lang: 'nb' | 'sv'; url: string }[] = [
+const alternates: { lang: 'nb' | 'sv' | 'en'; url: string }[] = [
   { lang: 'nb', url: `https://drommeguiden.no${pathFor('nb', 'sovn', artikkel.data.slug)}` },
 ];
 if (artikkel.data.sv_slug) {
   alternates.push({
     lang: 'sv',
     url: `https://drommeguiden.no${pathFor('sv', 'sovn', artikkel.data.sv_slug)}`,
+  });
+}
+if (artikkel.data.en_slug) {
+  alternates.push({
+    lang: 'en',
+    url: `https://drommeguiden.no${pathFor('en', 'sovn', artikkel.data.en_slug)}`,
   });
 }
 ---

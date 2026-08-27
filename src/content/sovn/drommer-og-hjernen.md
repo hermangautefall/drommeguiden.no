@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Hva skjer i hjernen mens du drømmer? Hjerneavbildning avslører et fascinerende bilde av REM-søvnens nevrologiske arkitektur — her er hva forskning har funnet."
 leseminutter: 8
 bilde: /bilder/sovn/drommer-og-hjernen.jpg
+sv_slug: drommar-och-hjarnan
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

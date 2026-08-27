@@ -6,6 +6,7 @@ kategori: vitenskap
 kortbeskrivelse: "Noen av historiens viktigste oppdagelser og beslutninger er blitt til i drømmene. Her er de mest fascinerende dokumenterte tilfellene — og hva de kan lære oss."
 leseminutter: 8
 bilde: /bilder/sovn/beroemte-drommer.jpg
+sv_slug: beromda-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

@@ -6,6 +6,7 @@ kategori: lidelser
 kortbeskrivelse: "Søvnapné er en av de vanligste og mest undervurderte søvnlidelsene. Her er symptomene du bør kjenne til, hva som forårsaker det, og hva behandlingen innebærer."
 leseminutter: 9
 bilde: /bilder/sovn/sovnapne.jpg
+sv_slug: somnapne
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

@@ -8,6 +8,7 @@ leseminutter: 9
 dato: 2026-03-22
 oppdatert: 2026-06-13
 bilde: /bilder/sovn/hvorfor-drommer-vi.jpg
+sv_slug: varfor-drommer-vi
 relaterte_sovn:
   - sovnfaser
   - hva-er-sovn

@@ -6,6 +6,7 @@ kategori: produkter
 kortbeskrivelse: "Hvit støy, rosa støy, brunt støy og naturlyder — alle hevder å gi bedre søvn. Her er hva forskning sier om lydmaskering og hva som faktisk fungerer best."
 leseminutter: 7
 bilde: /bilder/sovn/hvit-stoy-sovn.jpg
+sv_slug: vitt-brus-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

@@ -6,6 +6,7 @@ kategori: psykologi
 kortbeskrivelse: "Angst og søvnproblemer forsterker hverandre i en selvforsterkende spiral. Her er mekanismene bak, og hva forskning sier faktisk virker for å bryte sirkelen."
 leseminutter: 9
 bilde: /bilder/sovn/angst-sovn.jpg
+sv_slug: angest-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

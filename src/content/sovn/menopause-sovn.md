@@ -6,6 +6,7 @@ kategori: livsfaser
 kortbeskrivelse: "Overgangsalderen forandrer søvnen dramatisk for mange kvinner. Her er hva som faktisk skjer hormonelt, og hva som kan hjelpe for bedre netter."
 leseminutter: 8
 bilde: /bilder/sovn/menopause-sovn.jpg
+sv_slug: klimakterie-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

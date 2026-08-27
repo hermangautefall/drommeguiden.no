@@ -6,6 +6,7 @@ kategori: psykologi
 kortbeskrivelse: "PTSD er den søvn- og drømmeforstyrrelsen vi vet mest om — og som er mest belastende. Her er mekanismene, og hva behandlingen kan gjøre med drømmene."
 leseminutter: 8
 bilde: /bilder/sovn/ptsd-drommer.jpg
+sv_slug: ptsd-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:
