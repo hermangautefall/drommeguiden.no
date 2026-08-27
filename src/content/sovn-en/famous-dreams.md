@@ -72,7 +72,7 @@ The periodic table is chemistry's most fundamental organizing principle. There's
 
 ## Srinivasa Ramanujan and mathematics from the goddess (early 1900s)
 
-The Indian mathematician Ramanujan — who never had a formal mathematical education — produced thousands of extraordinary formulas and theorems. He attributed many of them to visits from the Hindu goddess Namagiri in his dreams, who, he said, "wrote formulas on his tongue."
+The Indian mathematician Ramanujan — who had almost no formal training in advanced mathematics, having left college without a degree after failing his non-mathematical subjects — produced thousands of extraordinary formulas and theorems. He attributed many of them to visits from the Hindu goddess Namagiri in his dreams, who, he said, "wrote formulas on his tongue."
 
 The mathematicians who later examined Ramanujan's work — including G. H. Hardy, who collaborated with him — confirmed that the formulas were correct and exceptionally deep. Many are still not formally proven, but have been verified empirically.
 

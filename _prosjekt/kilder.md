@@ -49,7 +49,48 @@ der de er genuint relevante for symbolet. Bedre med 2 riktige kilder enn
 5. 2–4 kilder per artikkel. Ikke fyll opp.
 
 ### Navngitte forskere
-Aldri knytt en navngitt, levende forsker til et konkret funn eller tall som
-ikke står i listen over. Feilattribuering er verre enn ingen kilde: den ser
-etterprøvbar ut og faller fra hverandre ved første kontroll. Er du usikker,
-skriv påstanden uten navn — eller la den stå igjen.
+
+Skillet som gjelder er **fabrikkering mot etterprøvbar sitering** — ikke om
+navnet står på listen over.
+
+**Forbudt:** å tillegge en navngitt forsker et funn, et tall eller en
+konklusjon som ikke lar seg finne igjen. Feilattribuering er verre enn ingen
+kilde: den ser etterprøvbar ut og faller fra hverandre ved første kontroll.
+Vi har allerede måttet skrive om 18 avsnitt av denne typen — ekte navn med
+oppdiktede funn (Barrett, Siegel, Bulkeley, Cacioppo, Zadra), og i ett
+tilfelle en påstand stikk i strid med forskerens faktiske posisjon.
+
+**Tillatt:** å sitere en navngitt forsker for et funn som er allment
+dokumentert og lar seg kontrollere. Tre krav:
+
+1. Funnet skal være det forskeren faktisk er kjent for, ikke noe i nærheten.
+2. Institusjon og eventuelt årstall skal stemme.
+3. Ingen tall eller prosenter med mindre de står i et verk på listen.
+
+Er du usikker på om et funn holder, skriv påstanden uten navn. Et hedget
+utsagn uten kilde er alltid bedre enn et skarpt utsagn med feil kilde.
+
+#### Forskere som allerede er i bruk, og hva de dekker
+
+Disse er kontrollert og kan siteres innenfor sitt felt:
+
+- **Eugene Aserinsky & Nathaniel Kleitman** (Chicago, 1953) — oppdagelsen av
+  REM-søvnen.
+- **Olaf Blanke** (EPFL) — elektrisk stimulering av temporoparietal junction
+  som fremkaller ut-av-kroppen-lignende opplevelser.
+- **Pim van Lommel** — den nederlandske prospektive studien av nær-døden-
+  opplevelser hos hjertestanspasienter (*The Lancet*, 2001).
+- **Till Roenneberg** (LMU München) — kronotyper og kartleggingen av
+  døgnrytmefordelingen i befolkningen.
+- **Ursula Voss** (Frankfurt) — gammabølgeaktivitet under lucide drømmer.
+- **Stephen LaBerge** (Stanford) — eksperimentell verifisering av lucid
+  drømming med avtalte øyebevegelser.
+- **Frederik van Eeden** — som innførte begrepet «lucid dream» (1913).
+- **Mary Carskadon** og **Russell Foster** — forsinket søvnfase hos ungdom.
+- **J. William Worden** — sorgens oppgaver som modell.
+- **Richard Wiseman** — eksperimentell psykologi om varsler og sannsynlighet.
+- **Otto Loewi** — nobelforelesningen der han selv krediterte drømmen.
+
+Legg nye navn til her når de tas i bruk, med hva de dekker — ikke bare
+navnet. Listen er ikke uttømmende, men et navn som ikke står her skal
+kontrolleres før det brukes.

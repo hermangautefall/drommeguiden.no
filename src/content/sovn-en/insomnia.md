@@ -23,7 +23,7 @@ relaterte_drommer:
   - alcohol
 ---
 
-A large share of adults report sleep problems on a weekly basis, and insomnia has risen markedly over the past couple of decades, making it one of the more underestimated health problems around.
+Sleep problems are among the most common reasons people contact a doctor, and insomnia is one of the most widespread health complaints there is — common enough that most people will have a stretch of it at some point.
 
 You're far from alone, in other words. But that doesn't mean sleep problems should be accepted as a permanent state. For most people, there's something to be done, and the best treatment isn't pills.
 
