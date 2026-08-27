@@ -2,7 +2,7 @@
 tittel: "Drömma om is — vad betyder det?"
 slug: is
 nb_slug: is
-kategori: natur
+kategori: vatten
 kortbeskrivelse: "Har du drömt om is? Is i drömmar symboliserar frusna känslor och det som har stelnat — här är de vanligaste tolkningarna av vad det egentligen betyder."
 relaterte:
   - sno

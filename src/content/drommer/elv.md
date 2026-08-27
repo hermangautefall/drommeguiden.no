@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om elv — hva betyr det?"
 slug: elv
-kategori: natur
+kategori: vann
 kortbeskrivelse: "Har du drømt om elv? Elven er ett av de sterkeste symbolene på livets bevegelse og tid — her er de vanligste tolkningene av hva det egentlig betyr."
 relaterte:
   - hav

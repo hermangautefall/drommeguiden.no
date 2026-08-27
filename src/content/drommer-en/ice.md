@@ -1,7 +1,7 @@
 ---
 tittel: "Dreaming of ice — what does it mean?"
 slug: ice
-kategori: nature
+kategori: water
 kortbeskrivelse: "Dreamed about ice? Ice in dreams symbolises frozen feelings and what has hardened in you — here are common interpretations of what it can mean."
 relaterte:
   - snow

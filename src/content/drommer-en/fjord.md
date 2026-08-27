@@ -1,7 +1,7 @@
 ---
 tittel: "Dreaming of a fjord — what does it mean?"
 slug: fjord
-kategori: nature
+kategori: water
 kortbeskrivelse: "Dreamed about a fjord, the long inlet that cuts through Norway's coastal mountains? It's a symbol of depth and stillness — here's what the dream can mean."
 relaterte:
   - ocean

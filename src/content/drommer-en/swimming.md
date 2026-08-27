@@ -1,7 +1,7 @@
 ---
 tittel: "Dreaming about swimming — what does it mean?"
 slug: swimming
-kategori: events
+kategori: water
 kortbeskrivelse: "Dreamed about swimming? Swimming dreams are about actively navigating your emotional life — here are the most common interpretations of it."
 relaterte:
   - ocean

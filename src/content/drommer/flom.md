@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om flom — hva betyr det?"
 slug: flom
-kategori: natur
+kategori: vann
 sensitivt: true
 kortbeskrivelse: "Har du drømt om flom? Flomdrømmer handler om overveldende følelser som er ute av kontroll — her er de vanligste tolkningene av hva det kan bety."
 relaterte:

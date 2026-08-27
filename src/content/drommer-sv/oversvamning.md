@@ -2,7 +2,7 @@
 tittel: "Drömma om översvämning — vad betyder det?"
 slug: oversvamning
 nb_slug: flom
-kategori: natur
+kategori: vatten
 sensitivt: true
 kortbeskrivelse: "Har du drömt om översvämning? Översvämningsdrömmar handlar om överväldigande känslor som är ur kontroll — här är de vanligaste tolkningarna av vad det kan betyda."
 relaterte:

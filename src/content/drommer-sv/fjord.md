@@ -2,7 +2,7 @@
 tittel: "Drömma om fjord — vad betyder det?"
 slug: fjord
 nb_slug: fjord
-kategori: natur
+kategori: vatten
 kortbeskrivelse: "Har du drömt om fjord? Fjorden är en genuint nordisk drömsymbol för djup och stillhet — här är de vanligaste tolkningarna av vad drömmen betyder."
 relaterte:
   - hav

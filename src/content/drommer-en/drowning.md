@@ -1,7 +1,7 @@
 ---
 tittel: "Dreaming of drowning — what does it mean?"
 slug: drowning
-kategori: events
+kategori: water
 sensitivt: true
 kortbeskrivelse: "Dreaming of drowning? It's rarely about water — it often reflects overwhelming emotions or a loss of control. Here are the most common interpretations."
 relaterte:

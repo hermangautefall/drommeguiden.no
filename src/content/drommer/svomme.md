@@ -1,7 +1,7 @@
 ---
 tittel: "Drømmer om å svømme — hva betyr det?"
 slug: svomme
-kategori: hendelser
+kategori: vann
 kortbeskrivelse: "Har du drømt om å svømme? Svømmedrømmer handler om å navigere følelseslivet ditt — her er de vanligste tolkningene av hva det egentlig betyr."
 relaterte:
   - hav

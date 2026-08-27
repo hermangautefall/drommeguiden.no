@@ -2,7 +2,7 @@
 tittel: "Drömma om att simma — vad betyder det?"
 slug: simma
 nb_slug: svomme
-kategori: handelser
+kategori: vatten
 kortbeskrivelse: "Har du drömt om att simma? Simdrömmar handlar om att navigera ditt känsloliv — här är de vanligaste tolkningarna av vad det egentligen betyder."
 relaterte:
   - hav

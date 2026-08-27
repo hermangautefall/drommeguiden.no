@@ -1,7 +1,7 @@
 ---
 tittel: "Dreaming of a flood — what does it mean?"
 slug: flood
-kategori: nature
+kategori: water
 sensitivt: true
 kortbeskrivelse: "Dreamed about a flood? Flood dreams often speak to overwhelming feelings that feel out of control — here are the most common interpretations."
 relaterte:

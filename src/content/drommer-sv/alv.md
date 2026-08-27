@@ -2,7 +2,7 @@
 tittel: "Drömma om älv — vad betyder det?"
 slug: alv
 nb_slug: elv
-kategori: natur
+kategori: vatten
 kortbeskrivelse: "Har du drömt om älv? Älven är en av de starkaste symbolerna för livets rörelse och tid — här är de vanligaste tolkningarna av vad det egentligen betyder."
 relaterte:
   - hav
