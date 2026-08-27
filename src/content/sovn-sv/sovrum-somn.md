@@ -2,6 +2,7 @@
 tittel: "Sovrummet för bättre sömn — temperatur, ljus, ljud och utrustning"
 slug: sovrum-somn
 nb_slug: soverom-sovn
+en_slug: bedroom-and-sleep
 seksjon: sovn
 kategori: hygiene
 kortbeskrivelse: "Sovrumsmiljön påverkar sömnkvaliteten mer än de flesta tror. Här är vad forskning säger om temperatur, ljus, ljud och vad som faktiskt ger bättre sömn."

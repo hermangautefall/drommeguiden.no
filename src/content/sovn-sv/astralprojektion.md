@@ -2,6 +2,7 @@
 tittel: "Astralprojektion och OBE — vad forskningen faktiskt säger"
 slug: astralprojektion
 nb_slug: astralprosjeksjon
+en_slug: astral-projection
 seksjon: sovn
 kategori: psykologi
 kortbeskrivelse: "Astralprojektion och out-of-body experiences upplevs som extraordinärt verkliga. Här är vad neurovetenskapen och sömnforskningen säger om vad som faktiskt händer."

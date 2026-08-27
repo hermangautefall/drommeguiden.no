@@ -7,6 +7,7 @@ bilde: /bilder/guider/drommer-om-avdode.jpg
 sv_slug: drommar-om-avlidna
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: dreams-of-the-dead
 ---
 
 De fleste som har mistet noen nær, vet hva det er. Du ser dem i drømmene — som om de aldri var borte, som om alt er normalt. Og så våkner du, og tapet treffer deg på nytt. Eller du våkner med en uvanlig ro, en følelse av at noe ble sagt som trengte å sies, at et møte fant sted som var reelt på en måte du ikke helt kan forklare.

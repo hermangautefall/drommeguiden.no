@@ -2,6 +2,7 @@
 tittel: "Klardrömning — så tar du kontroll"
 slug: klardromning
 nb_slug: lucid-dromming
+en_slug: lucid-dreaming
 kortbeskrivelse: "Vad är klardrömning, och kan du lära dig det? Utforska tekniker som MILD och WILD, verklighetstester, och vad forskningen säger om fördelar och nackdelar."
 leseminutter: 7
 dato: 2026-03-18

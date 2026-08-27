@@ -2,6 +2,7 @@
 tittel: "Dygnsrytmen — så fungerar din inre biologiska klocka"
 slug: dygnsrytm
 nb_slug: dognrytme
+en_slug: circadian-rhythm
 seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Den biologiska klockan styr sömn, energi, humör och matsmältning — allt efter ett 24-timmarsschema. Här är hur den fungerar och vad som stör den."

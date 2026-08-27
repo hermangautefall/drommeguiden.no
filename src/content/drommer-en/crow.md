@@ -65,7 +65,7 @@ In Jungian psychology, birds in general represent thoughts, ideas, and the spiri
 
 In Norse mythology, the crow — and especially the raven — holds a central position. Odin's two ravens, Huginn and Muninn (thought and memory), flew out over the world each day and returned with knowledge for the all-seeing god. The raven was, in other words, a messenger of wisdom, a bird that connected the world of the gods with the world of humans. Dreaming of a crow in a Nordic frame of reference touches this old bond between bird, knowledge, and the supernatural.
 
-In Norwegian folk belief, the crow has a more everyday, but equally fascinating, role. It's been seen as an omen — in some places, a crow circling a house was said to signal death or major change, while elsewhere the crow was respected as a clever, adaptable survivor. That doubleness between omen and wisdom gives crow dreams a particular depth. The crow doesn't ask you to fear what's coming — it asks you to meet it with open eyes and a sharp mind.
+In Nordic folk belief, the crow has a more everyday but equally interesting role. It's been seen as an omen — in some places, a crow circling a house was said to signal death or major change, while elsewhere the crow was respected as a clever, adaptable survivor. That doubleness between omen and wisdom gives crow dreams a particular depth. The crow doesn't ask you to fear what's coming — it asks you to meet it with open eyes and a sharp mind.
 
 ## Sources and further reading
 

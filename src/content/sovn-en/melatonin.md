@@ -12,6 +12,12 @@ nb_slug: melatonin
 sv_slug: melatonin
 relaterte_sovn:
   - circadian-rhythm
+  - sleep-stages
+  - how-much-sleep
+  - insomnia
+relaterte_guider:
+  - what-are-dreams
+  - false-awakening
 author: 'default'
 ---
 
@@ -65,7 +71,7 @@ An interesting side effect many people who take melatonin report: more vivid and
 
 Some people experience this as a positive effect (more memorable, interesting dreams); others find it disruptive. If you take melatonin and notice your dreams becoming very intense or unsettling, it can help to lower the dose or take it slightly earlier.
 
-## The takeaway
+## A time signal, not a sedative
 
 Melatonin is a time signal, not a sleeping pill:
 

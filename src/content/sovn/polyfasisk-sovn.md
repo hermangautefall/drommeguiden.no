@@ -9,6 +9,7 @@ bilde: /bilder/sovn/polyfasisk-sovn.jpg
 sv_slug: polyfasisk-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: polyphasic-sleep
 relaterte_sovn:
   - sovnfaser
   - sovnbehov
@@ -40,7 +41,7 @@ Tilhengerne argumenterer med at kroppen gjennom tilpasning kan lære å gå dire
 
 Det er ikke helt galt. Det er dokumentert at søvndepriverte individer faktisk begynner å gå raskere inn i REM. Men dette er en nødsrespons fra en stresset hjerne, ikke en optimal tilpasning.
 
-## Hva forskning sier
+## Hva som skjer når døgnet deles opp
 
 Det er svært begrenset kontrollert forskning på langvarig polyfasisk søvn hos voksne. Det som finnes er ikke oppmuntrende for de mest ekstreme variantene:
 

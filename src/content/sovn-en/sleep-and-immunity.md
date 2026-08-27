@@ -3,7 +3,7 @@ tittel: "Sleep and immunity — what happens in the body while you sleep"
 slug: sleep-and-immunity
 seksjon: sovn
 kategori: vitenskap
-kortbeskrivelse: "Your immune system is at its most active while you sleep. Here's what research says about the link between sleep quality and the body's ability to fight illness."
+kortbeskrivelse: "Your immune system is at its most active while you sleep. Here's what research says about the link between sleep quality and fighting off illness."
 leseminutter: 7
 bilde: /bilder/sovn/sovn-immunforsvar.jpg
 nb_slug: sovn-immunforsvar
@@ -12,8 +12,13 @@ dato: 2026-03-18
 oppdatert: 2026-08-25
 author: 'default'
 relaterte_sovn:
+  - what-is-sleep
   - how-much-sleep
   - insomnia
+relaterte_guider:
+  - stress-and-dreams
+relaterte_drommer:
+  - illness
 ---
 
 "Sleep it off" isn't just an old wives' tale. It's biology.
@@ -56,7 +61,7 @@ That's one of the mechanisms behind the epidemiological finding that chronic sle
 
 ## Sleep and dreams during illness
 
-Many people notice their dreams become especially intense and bizarre during illness, fever in particular. That's not a coincidence. Fever raises brain activity and can produce more vivid, hyperreal and sometimes hallucinatory dream scenarios. Some cultural beliefs about visionary dreams during illness likely have their roots in this phenomenon.
+Many people notice their dreams become especially intense and bizarre during [illness](/en/dreams/illness/), fever in particular. That's not a coincidence. Fever raises brain activity and can produce more vivid, hyperreal and sometimes hallucinatory dream scenarios. Some cultural beliefs about visionary dreams during illness likely have their roots in this phenomenon.
 
 ## Practical takeaways
 

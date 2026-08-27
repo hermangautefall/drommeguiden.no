@@ -9,6 +9,7 @@ bilde: /bilder/sovn/koffein-sovn.jpg
 sv_slug: koffein-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: caffeine-and-sleep
 relaterte_sovn:
   - sovnhygiene
   - sovnfaser

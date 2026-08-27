@@ -2,6 +2,7 @@
 tittel: "Alkohol och sömn — därför förstör det sömnkvaliteten"
 slug: alkohol-somn
 nb_slug: alkohol-sovn
+en_slug: alcohol-and-sleep
 seksjon: sovn
 kategori: hygiene
 kortbeskrivelse: "Många använder alkohol för att somna — men forskningen är tydlig: alkohol förstör sömnkvaliteten. Här är vad som faktiskt händer i kroppen efter ett glas."

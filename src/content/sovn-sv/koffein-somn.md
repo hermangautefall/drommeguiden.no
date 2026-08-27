@@ -2,6 +2,7 @@
 tittel: "Koffein och sömn — så påverkar kaffet din natt"
 slug: koffein-somn
 nb_slug: koffein-sovn
+en_slug: caffeine-and-sleep
 seksjon: sovn
 kategori: hygiene
 kortbeskrivelse: "Koffein är världens mest använda psykoaktiva ämne — och en av de vanligaste sömntjuvarna. Här är mekanismen, halveringstiden och vad du bör göra annorlunda."

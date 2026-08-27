@@ -7,6 +7,7 @@ kortbeskrivelse: "Søvn er ikke passiv hvile — det er en av kroppens mest akti
 leseminutter: 9
 dato: 2026-03-22
 oppdatert: 2026-06-13
+en_slug: what-is-sleep
 bilde: /bilder/sovn/hva-er-sovn.jpg
 sv_slug: vad-ar-somn
 relaterte_sovn:

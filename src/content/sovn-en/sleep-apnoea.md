@@ -14,8 +14,11 @@ author: 'default'
 relaterte_sovn:
   - insomnia
   - how-much-sleep
+  - what-is-sleep
 relaterte_guider:
   - night-terrors
+  - sleep-paralysis
+  - stress-and-dreams
 relaterte_drommer:
   - drowning
 ---

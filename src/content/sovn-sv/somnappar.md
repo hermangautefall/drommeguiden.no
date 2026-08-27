@@ -2,6 +2,7 @@
 tittel: "Sömnappar — vad de kan och inte kan, och vilka är värda det"
 slug: somnappar
 nb_slug: sovnapper
+en_slug: sleep-apps
 seksjon: sovn
 kategori: produkter
 kortbeskrivelse: "Sömnappar som Sleep Cycle, Oura Ring och Apple Watch lovar insikt i din sömnkvalitet. Här är vad de faktiskt mäter, vad de inte kan, och vem de passar för."

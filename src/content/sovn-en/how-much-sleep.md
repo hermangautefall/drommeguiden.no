@@ -13,7 +13,11 @@ oppdatert: 2026-08-25
 author: 'default'
 relaterte_sovn:
   - sleep-stages
+  - what-is-sleep
   - sleep-hygiene
+relaterte_guider:
+  - children-and-dreams
+  - stress-and-dreams
 relaterte_drommer:
   - food
 ---

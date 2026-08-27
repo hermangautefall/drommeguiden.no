@@ -12,7 +12,12 @@ dato: 2026-03-22
 oppdatert: 2026-08-25
 author: 'default'
 relaterte_sovn:
+  - what-is-sleep
+  - why-we-dream
   - sleep-hygiene
+relaterte_guider:
+  - lucid-dreaming
+  - dream-journal
 relaterte_drommer:
   - flying
   - teeth
@@ -68,6 +73,8 @@ Researcher Rosalind Cartwright documented this concretely: bereaved patients who
 
 **Consolidating procedural memory.** Where deep sleep strengthens factual memory, REM sleep primarily strengthens procedural memory — motor skills, patterns and rules. Musicians, athletes and chess players tend to perform better after good REM sleep.
 
+Read more: [Why do we dream? What the research says](/en/sleep/why-we-dream/)
+
 ## The sleep cycle through the night
 
 A typical night of full sleep looks roughly like this: the earliest cycles are heavy on deep sleep and light on REM, as the body prioritises physical repair. Through the middle of the night, deep sleep gradually gives way to more REM. By the final cycles, deep sleep has mostly disappeared and the night is dominated by REM and light sleep.
@@ -90,7 +97,7 @@ The dreams you remember — vivid, narrative, emotionally intense — almost alw
 
 The reason you remember dreams best in the morning isn't that most dreaming happens then — it's that you typically wake from or right after a long REM period, while the memories are still accessible.
 
-A dream journal can help you capture and understand your dreams better, and if you're curious what specific images in your dreams might mean, there's a large library of [dream symbols and interpretations](/en/dreams/) to explore.
+A [dream journal](/en/guides/dream-journal/) can help you capture and understand your dreams better, and if you're curious what specific images in your dreams might mean, there's a large library of [dream symbols and interpretations](/en/dreams/) to explore.
 
 ## What to remember
 

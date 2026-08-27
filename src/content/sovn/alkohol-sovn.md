@@ -9,6 +9,7 @@ bilde: /bilder/sovn/alkohol-sovn.jpg
 sv_slug: alkohol-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: alcohol-and-sleep
 relaterte_sovn:
   - sovnfaser
   - sovnhygiene

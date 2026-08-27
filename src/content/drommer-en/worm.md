@@ -15,7 +15,7 @@ dato: 2026-03-18
 oppdatert: 2026-08-25
 bilde: /bilder/symboler/orm.jpg
 nb_slug: orm
-sv_slug: orm
+sv_slug: mask
 author: 'default'
 ---
 

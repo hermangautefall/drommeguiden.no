@@ -2,6 +2,7 @@
 tittel: "Drömmarna och hjärnan — vad händer neurologiskt under REM-sömn"
 slug: drommar-och-hjarnan
 nb_slug: drommer-og-hjernen
+en_slug: dreams-and-the-brain
 seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Vad händer i hjärnan medan du drömmer? Hjärnavbildning avslöjar en fascinerande bild av REM-sömnens neurologiska arkitektur — här är vad forskningen har funnit."

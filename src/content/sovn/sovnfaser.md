@@ -9,6 +9,7 @@ dato: 2026-03-22
 oppdatert: 2026-06-13
 bilde: /bilder/sovn/sovnfaser.jpg
 sv_slug: somnfaser
+en_slug: sleep-stages
 relaterte_sovn:
   - hva-er-sovn
   - hvorfor-drommer-vi

@@ -7,6 +7,7 @@ kortbeskrivelse: "Falsk oppvåkning er en av de mest forvirrende drømmeopplevel
 leseminutter: 8
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: false-awakening
 ---
 
 Du åpner øynene. Rommet er kjent, lyset er riktig, og du hører de vanlige lydene fra gaten utenfor. Du strekker deg etter telefonen for å sjekke klokken — og i det øyeblikket vakner du virkelig. Det du trodde var morgenen, var bare enda et lag av drøm.

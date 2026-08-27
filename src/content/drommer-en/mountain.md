@@ -22,7 +22,7 @@ author: 'default'
 
 ## What does it mean to dream about a mountain?
 
-The mountain is one of the most universal dream symbols — it appears in myths, religious texts, and fairy tales around the world. In Norway, mountains also hold an especially personal place: they're part of the everyday landscape and a piece of collective identity. When a mountain shows up in your dreams, it's rarely just about geography. It tends to point to something bigger — ambition, challenge, or a longing for perspective and meaning.
+The mountain is one of the most universal dream symbols — it appears in myths, religious texts, and fairy tales around the world. In mountain countries they also hold a more personal place: part of the everyday landscape and a piece of collective identity. When a mountain shows up in your dreams, it's rarely just about geography. It tends to point to something bigger — ambition, challenge, or a longing for perspective and meaning.
 
 ---
 

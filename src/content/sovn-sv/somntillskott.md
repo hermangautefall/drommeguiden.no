@@ -2,6 +2,7 @@
 tittel: "Sömntillskott — vad fungerar, vad är hokuspokus, och vad bör du välja?"
 slug: somntillskott
 nb_slug: sovntilskudd
+en_slug: sleep-supplements
 seksjon: sovn
 kategori: produkter
 kortbeskrivelse: "Magnesium, L-tean, valeriana, ashwagandha — hyllan med sömntillskott är överväldigande. Här är vad forskning faktiskt säger om vilka som fungerar."

@@ -2,6 +2,7 @@
 tittel: "Sömnförlamning — vad som händer i kroppen och sinnet"
 slug: somnforlamning
 nb_slug: sovnparalyse
+en_slug: sleep-paralysis
 bilde: /bilder/guider/sovnparalyse.jpg
 kortbeskrivelse: "Sömnförlamning är en av de mest skrämmande sömnupplevelser vi kan ha — men den är helt ofarlig. Här är vad som faktiskt händer och vad du kan göra."
 leseminutter: 9
@@ -69,7 +70,7 @@ Några tekniker som hjälper många:
 
 **Acceptera istället för att kämpa.** Detta låter paradoxalt, men fungerar för många: att tillåta sig att ligga kvar, andas lugnt och observera upplevelsen utan att kämpa emot den leder ofta till att episoden avslutas snabbare. Kampen förstärker ångesten; acceptansen dämpar den.
 
-## Det psykologiska perspektivet
+## Varför rädslan sitter kvar länge efteråt
 
 Carl Jung skulle ha sett sömnförlamningens "närvaro" som en konkret manifestation av Skuggan — de sidor av psyket vi inte kännas vid, som samlas och insisterar på att bli erkända. Dess besök i sömnförlamningens gränsland är då ett uttryck för något omedvetet som önskar kontakt.
 

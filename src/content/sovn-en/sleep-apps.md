@@ -3,7 +3,7 @@ tittel: "Sleep apps — what they can and can't do, and which are worth it"
 slug: sleep-apps
 seksjon: sovn
 kategori: produkter
-kortbeskrivelse: "Sleep apps like Sleep Cycle, Oura Ring and Apple Watch promise insight into your sleep quality. Here's what they actually measure, what they can't, and who they suit."
+kortbeskrivelse: "Sleep apps like Sleep Cycle, Oura Ring and Apple Watch promise insight into your sleep. Here's what they actually measure, and who they suit."
 leseminutter: 8
 bilde: /bilder/sovn/sovnapper.jpg
 nb_slug: sovnapper
@@ -15,6 +15,9 @@ relaterte_sovn:
   - sleep-stages
   - how-much-sleep
   - bedroom-and-sleep
+relaterte_guider:
+  - dream-journal
+  - what-are-dreams
 ---
 
 Tracking your sleep has never been easier. A whole industry of apps and wearables promises insight into sleep stages, REM quality and a nightly sleep score, for the price of an app or a wristband.
@@ -75,7 +78,7 @@ Whoop is aimed primarily at athletic recovery tracking, but produces solid sleep
 
 ## Sleep apps and your dream journal
 
-Here's a connection that's often overlooked: sleep apps and a dream journal are complementary tools, not competitors.
+Here's a connection that's often overlooked: sleep apps and a [dream journal](/en/guides/dream-journal/) are complementary tools, not competitors.
 
 A sleep app gives you quantitative data — hours, estimated stages, HRV trends. A dream journal gives you qualitative material — what you actually experienced, which emotional themes were active, which symbols showed up.
 

@@ -11,8 +11,12 @@ bilde: /bilder/sovn/menopause-sovn.jpg
 nb_slug: menopause-sovn
 sv_slug: klimakterie-somn
 relaterte_sovn:
+  - insomnia
+  - sleep-hygiene
   - anxiety-and-sleep
-  - depression-and-sleep
+relaterte_guider:
+  - stress-and-dreams
+  - nightmares
 relaterte_drommer:
   - blood
 author: 'default'
@@ -48,7 +52,7 @@ Many women going through menopause report more vivid, bizarre, and emotionally i
 
 The mechanisms are likely mixed: more frequent nighttime awakenings from night sweats mean waking more often from REM sleep and remembering more of the dream. Hormonal fluctuations also directly affect the amygdala and the brain's emotional processing.
 
-The themes in menopausal dreams often relate to identity, roles, the body, and aging — the psyche processing a major life transition.
+The themes in menopausal dreams often relate to identity, roles, the body, and aging — the psyche processing a major life transition. See the guide on [stress and dreams](/en/guides/stress-and-dreams/) for more on how life-stage transitions shape dream content.
 
 ## What actually helps
 
@@ -72,7 +76,7 @@ It's worth saying plainly: menopause isn't just a medical problem to be fixed. I
 
 The sleep problems are real and worth treating. But the dreams during this period — intense, emotionally charged, often centered on body, time, and identity — are also the psyche processing something significant. Meeting them with curiosity rather than just frustration can produce unexpected insight.
 
-## The takeaway
+## More than symptoms to manage
 
 Menopause changes sleep through several mechanisms:
 

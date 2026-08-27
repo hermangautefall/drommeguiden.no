@@ -3,7 +3,7 @@ tittel: "What is sleep? A guide to the science of sleep"
 slug: what-is-sleep
 seksjon: sovn
 kategori: vitenskap
-kortbeskrivelse: "Sleep isn't passive rest — it's one of the body's most active processes. Here's what research knows about what sleep actually is, and why we can't live without it."
+kortbeskrivelse: "Sleep isn't passive rest — it's one of the body's most active processes. Here's what research knows about what sleep is, and why we can't live without it."
 leseminutter: 9
 dato: 2026-03-22
 oppdatert: 2026-08-25
@@ -11,9 +11,11 @@ bilde: /bilder/sovn/hva-er-sovn.jpg
 nb_slug: hva-er-sovn
 sv_slug: vad-ar-somn
 relaterte_sovn:
+  - sleep-stages
   - why-we-dream
-  - circadian-rhythm
-  - dreams-and-the-brain
+  - insomnia
+relaterte_guider:
+  - what-are-dreams
 author: 'default'
 ---
 
@@ -53,11 +55,15 @@ Stages 1 and 2 are light sleep, where you can easily be woken and the brain begi
 
 Deep sleep dominates the first half of the night, REM sleep the second. A full night gives you both — which is why consistently cutting sleep short is so harmful: you always lose the part you need most.
 
+Read more in our detailed guide: [sleep stages — what happens in REM, light, and deep sleep](/en/sleep/sleep-stages/).
+
 ## Dreams — sleep's deepest layer
 
 Dreams are sleep's most fascinating dimension. They occur primarily during REM sleep and aren't random. Research shows that REM sleep plays an active role in emotional regulation: the brain processes emotionally charged material in a physiological environment where stress hormones are reduced — which helps dampen the emotional intensity of painful memories over time.
 
 Carl Jung and Sigmund Freud both believed dreams communicate something essential from the unconscious. Modern sleep research doesn't confirm all of that framework, but what it does confirm is that dreams serve a real function: without sufficient REM sleep, emotional processing is significantly reduced, and the risk of anxiety and depression rises.
+
+Want to understand the symbolic language of dreams more deeply? Read our guide on [what dreams mean and how to interpret them](/en/guides/what-are-dreams/).
 
 ## The consequences of not sleeping enough
 
@@ -75,7 +81,7 @@ Adults between 18 and 64 need 7–9 hours. Adults over 65 need 7–8 hours. Teen
 
 One important distinction: sleep duration isn't the same as sleep quality. Eight hours of fragmented sleep is far worse than seven hours of continuous, deep sleep.
 
-## The takeaway
+## Why sleep isn't optional
 
 Sleep isn't passive — it's one of the body's most sophisticated biological processes, with critical functions for the brain, body, and mind:
 

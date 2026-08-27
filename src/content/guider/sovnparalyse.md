@@ -7,6 +7,7 @@ kortbeskrivelse: "Søvnparalyse er en av de mest skremmende søvnopplevelsene vi
 leseminutter: 9
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: sleep-paralysis
 ---
 
 Du vakner — eller tror du vakner. Rommet er der, lyset er riktig, alt er kjent. Men du kan ikke bevege deg. Ikke en finger, ikke et øyelokk. Kroppen din adlyder deg ikke. Og så, nesten alltid, er det noe der — en tyngde på brystet, en skygge i hjørnet, en tilstedeværelse du vet er i rommet selv om du ikke ser den tydelig.
@@ -69,7 +70,7 @@ Noen teknikker som hjelper mange:
 
 **Aksepter fremfor å kjempe.** Dette høres paradoksalt ut, men fungerer for mange: å tillate seg å bli liggende, puste rolig og observere opplevelsen uten å kjempe mot den, fører ofte til at episoden avsluttes raskere. Kampen forsterker angsten; aksepten demper den.
 
-## Det psykologiske perspektivet
+## Hvorfor frykten sitter i lenge etterpå
 
 Carl Jung ville sett søvnparalysens "tilstedeværelse" som en konkret manifestasjon av Skyggen — de sidene av psyken vi ikke vedkjenner oss, som samler seg og insisterer på å bli anerkjent. Dens besøk i søvnparalysens grenseland er da et uttrykk for noe ubevisst som ønsker kontakt.
 

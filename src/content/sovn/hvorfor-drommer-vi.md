@@ -7,6 +7,7 @@ kortbeskrivelse: "Hvorfor drømmer vi? Forskning gir oss stadig bedre svar — f
 leseminutter: 9
 dato: 2026-03-22
 oppdatert: 2026-06-13
+en_slug: why-we-dream
 bilde: /bilder/sovn/hvorfor-drommer-vi.jpg
 sv_slug: varfor-drommer-vi
 relaterte_sovn:

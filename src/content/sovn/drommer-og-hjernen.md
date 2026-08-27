@@ -9,6 +9,7 @@ bilde: /bilder/sovn/drommer-og-hjernen.jpg
 sv_slug: drommar-och-hjarnan
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: dreams-and-the-brain
 relaterte_sovn:
   - sovnfaser
   - hvorfor-drommer-vi

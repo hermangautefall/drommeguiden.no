@@ -2,6 +2,7 @@
 tittel: "Sömn under graviditet — drömmar, sömnproblem och goda tips"
 slug: somn-graviditet
 nb_slug: sovn-graviditet
+en_slug: sleep-in-pregnancy
 seksjon: sovn
 kategori: livsfaser
 kortbeskrivelse: "Graviditet förändrar sömnen dramatiskt — och drömmarna med den. Här är vad som händer trimester för trimester, och vad som faktiskt hjälper för bättre nattsömn."

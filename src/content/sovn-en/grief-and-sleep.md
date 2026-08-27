@@ -13,7 +13,10 @@ oppdatert: 2026-08-25
 author: 'default'
 relaterte_sovn:
   - insomnia
+  - depression-and-sleep
   - sleep-hygiene
+relaterte_guider:
+  - dreams-of-the-dead
 relaterte_drommer:
   - deceased-person
   - losing-a-baby
@@ -49,7 +52,7 @@ The dreams that follow a loss are among the most intense and memorable people re
 
 **Reliving dreams** are more painful: the loss happens again, the person who died is sick or in danger, or you're desperately searching for someone you can't find. These reflect the acute work of grieving — the brain's attempt to process something that hasn't been integrated yet.
 
-Both kinds are normal. Both are signs that grief is being processed.
+Both kinds are normal. Both are signs that grief is being processed. See the guide on [dreams of the dead](/en/guides/dreams-of-the-dead/) for a closer look at what these dreams can mean and what to do with them.
 
 ## When grief-related sleep problems need more than time
 
@@ -61,7 +64,7 @@ Signs of prolonged grief disorder, where the grief is as intense after six to tw
 
 Signs of depression, which differs from ordinary grief through a persistent inability to feel any pleasure, generalised hopelessness, and intense self-criticism.
 
-## What actually helps
+## What helps when grief disrupts sleep
 
 There isn't much research specifically on treating sleep problems during grief, but what we know from insomnia treatment in general still applies.
 
@@ -69,7 +72,7 @@ There isn't much research specifically on treating sleep problems during grief, 
 
 **Small rituals around bedtime.** A brief ritual in memory of the person who died — a candle, a photo, a few words — can create a psychological frame that makes the transition to sleep easier.
 
-**Writing things down.** Putting the evening's thoughts and longing into words gives them somewhere to sit, rather than circling during sleep. A dream journal that also captures evening thoughts and morning dreams can become a valuable tool for grief work.
+**Writing things down.** Putting the evening's thoughts and longing into words gives them somewhere to sit, rather than circling during sleep. A [dream journal](/en/guides/dream-journal/) that also captures evening thoughts and morning dreams can become a valuable tool for grief work.
 
 **Staying connected to others.** Isolation makes grief-related sleep problems worse. Human closeness — not necessarily talking about the loss, just being present with someone — has a documented positive effect on sleep quality in bereaved people.
 

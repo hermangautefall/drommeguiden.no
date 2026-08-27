@@ -2,6 +2,7 @@
 tittel: "Återkommande drömmar — vad försöker hjärnan säga?"
 slug: aterkommande-drommar
 nb_slug: gjentakende-drommer
+en_slug: recurring-dreams
 kortbeskrivelse: "Varför drömmer du samma sak om och om igen? Läs om forskningen bakom återkommande drömmar, de vanligaste typerna och hur du kan tolka och hantera dem."
 leseminutter: 6
 dato: 2026-03-18

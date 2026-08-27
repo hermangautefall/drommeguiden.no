@@ -9,6 +9,7 @@ bilde: /bilder/sovn/hvit-stoy-sovn.jpg
 sv_slug: vitt-brus-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: white-noise-and-sleep
 relaterte_sovn:
   - soverom-sovn
   - sovnhygiene

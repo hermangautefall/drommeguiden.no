@@ -60,7 +60,7 @@ Classic dream logic — something familiar is presented as unfamiliar, to point 
 
 In a Jungian reading, the foreign country often represents the territory of the Shadow, or the unconscious more broadly — a place where the usual rules don't apply and the suppressed can show itself. To travel there in a dream is to open yourself to new inner experiences.
 
-For Norwegians in particular, being abroad has historically represented something alluring and a little unsettling at the same time — the modern, the cosmopolitan, the different from the safe and familiar at home. This ambivalence can color the dream's foreign country with both excitement and a mild unease.
+For people from small countries in particular, being abroad has often carried both promise and unease at once — the modern and the cosmopolitan on one side, the risk of losing your footing on the other. This ambivalence can color the dream's foreign country with both excitement and a mild unease.
 
 ## Sources and further reading
 

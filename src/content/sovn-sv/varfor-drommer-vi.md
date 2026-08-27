@@ -2,6 +2,7 @@
 tittel: "Varför drömmer vi? Det säger forskningen"
 slug: varfor-drommer-vi
 nb_slug: hvorfor-drommer-vi
+en_slug: why-we-dream
 seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Varför drömmer vi? Forskning ger oss allt bättre svar — från emotionell reglering till kreativ problemlösning. Här är vad vi vet, och vad vi ännu inte vet."

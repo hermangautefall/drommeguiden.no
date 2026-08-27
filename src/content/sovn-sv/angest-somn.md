@@ -2,6 +2,7 @@
 tittel: "Ångest och sömn — den onda cirkeln och hur du bryter den"
 slug: angest-somn
 nb_slug: angst-sovn
+en_slug: anxiety-and-sleep
 seksjon: sovn
 kategori: psykologi
 kortbeskrivelse: "Ångest och sömnproblem förstärker varandra i en självförstärkande spiral. Här är mekanismerna bakom, och vad forskningen säger faktiskt fungerar för att bryta cirkeln."

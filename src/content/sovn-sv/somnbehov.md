@@ -2,6 +2,7 @@
 tittel: "Ditt sömnbehov — hur mycket sömn behöver du egentligen?"
 slug: somnbehov
 nb_slug: sovnbehov
+en_slug: how-much-sleep
 seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Åtta timmar är genomsnittet — men sömnbehovet varierar betydligt mellan människor. Här är vad forskning säger om sömnbehov, och hur du hittar ditt eget."

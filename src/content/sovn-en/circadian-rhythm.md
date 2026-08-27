@@ -3,7 +3,7 @@ tittel: "The circadian rhythm — how your internal biological clock works"
 slug: circadian-rhythm
 seksjon: sovn
 kategori: vitenskap
-kortbeskrivelse: "Your biological clock governs sleep, energy, mood, and digestion on a 24-hour cycle. Here's how it works, and what throws it off."
+kortbeskrivelse: "Your biological clock governs sleep, energy, mood, and digestion on a 24-hour cycle. Here's how it actually works, and what throws it off balance."
 leseminutter: 8
 dato: 2026-03-18
 oppdatert: 2026-08-25
@@ -12,6 +12,11 @@ nb_slug: dognrytme
 sv_slug: dygnsrytm
 relaterte_sovn:
   - melatonin
+  - sleep-stages
+  - sleep-hygiene
+relaterte_guider:
+  - what-are-dreams
+  - stress-and-dreams
 relaterte_drommer:
   - moon
   - sun
@@ -54,7 +59,7 @@ Late chronotypes ("night owls") have a clock set a bit later — naturally sleep
 
 Researcher Till Roenneberg at LMU Munich has mapped chronotype distribution across the population and found that late chronotypes are in the majority among teenagers — that's biologically programmed, not teenage stubbornness. Early school start times are a public health problem for exactly this reason.
 
-Extreme late chronotypes can have a clinical condition called delayed sleep phase syndrome — where the clock is phase-shifted so far that a normal bedtime is around 3 a.m. and natural waking happens around 11 a.m. to noon.
+Extreme late chronotypes can have a clinical condition called delayed sleep phase syndrome — where the clock is phase-shifted so far that a normal bedtime is around 3 a.m. and natural waking happens around 11 a.m. to noon. See the article on [melatonin](/en/sleep/melatonin/) for treatment options.
 
 ## What throws the biological clock off
 
@@ -66,7 +71,7 @@ Extreme late chronotypes can have a clinical condition called delayed sleep phas
 
 **Meal timing.** When you eat is a secondary zeitgeber — eating in the middle of the night sends conflicting signals to the peripheral clocks in the liver, stomach, and gut.
 
-**Crossing time zones.** Jet lag is the clock being out of phase with its surroundings. The body takes roughly one to two days per time zone to reset — which is part of why correctly timed melatonin can help.
+**Crossing time zones.** Jet lag is the clock being out of phase with its surroundings. The body takes roughly one to two days per time zone to reset — which is part of why correctly timed [melatonin](/en/sleep/melatonin/) can help.
 
 ## How to support your biological clock
 
@@ -84,9 +89,9 @@ The biological clock doesn't just determine when you fall asleep — it determin
 
 That means the phase of your biological clock directly affects dream quality. Late chronotypes who have to get up early for school or work primarily lose REM sleep — the richest dream sleep. For them, sleep loss is, to a significant degree, dream loss.
 
-A disrupted circadian rhythm — as with shift work or chronic social jetlag — is associated with more unpleasant and fragmented dream content.
+A disrupted circadian rhythm — as with shift work or chronic social jetlag — is associated with more unpleasant and fragmented dream content. See the guide on [stress and dreams](/en/guides/stress-and-dreams/) for the fuller picture.
 
-## The takeaway
+## Working with your clock, not against it
 
 The biological clock is one of the body's most important control systems:
 

@@ -2,6 +2,7 @@
 tittel: "Fornnordiska drömsagor — när drömmarna styrde ödet"
 slug: nordiska-dromsagor
 nb_slug: norrene-drommesagaer
+en_slug: norse-dream-sagas
 seksjon: sovn
 kategori: psykologi
 kortbeskrivelse: "I fornnordisk kultur var drömmar inte symboliska — de var varsel, budskap och öde. Här är de mest fascinerande drömmarna från sagornas värld och vad de betyder."

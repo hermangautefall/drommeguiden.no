@@ -71,7 +71,7 @@ Something in your past has left marks you haven't fully recognized. The psyche i
 
 Scars carry rich symbolism across many cultures — and most readings of them are positive. A samurai's scars were a mark of battle and honor. Scandinavian saga heroes weren't described as handsome without their wounds — their scars were part of their identity. To be "scarred from many battles" wasn't a complaint, but a tribute.
 
-The German word *Narbe* (scar) is etymologically related to the same root as *Erfahrung* (experience) — to carry scars is to carry experience. Something similar exists in Norwegian folk understanding: the one marked by life is the one who has lived it.
+The German word *Narbe* (scar) is etymologically related to the same root as *Erfahrung* (experience) — to carry scars is to carry experience. The same idea turns up in folk understanding across many languages: the one marked by life is the one who has lived it.
 
 Jung used the archetype of the "wounded healer" as one of the most important patterns in the human psyche. It's precisely the one who carries scars who has the deepest capacity to help others — because they know what it costs. The scar in a dream is, sometimes, exactly this: the psyche's recognition of your own depth.
 

@@ -15,6 +15,9 @@ relaterte_sovn:
   - sleep-hygiene
   - insomnia
   - weighted-blankets
+relaterte_guider:
+  - dream-journal
+  - sleep-paralysis
 ---
 
 The bedroom is where sleep happens, and what you expose your body to there — light, temperature, sound — isn't neutral. It's a set of signals your brain actively uses to decide how deep and how good your sleep will be.
@@ -89,7 +92,7 @@ For people who sweat heavily at night — common with sleep apnoea and menopause
 
 The bedroom environment doesn't just affect whether you sleep — it affects what you dream and how well you remember it.
 
-A dark, cool, quiet bedroom produces deeper and more coherent REM sleep. That means more vivid, narrative dreams you actually remember on waking — the foundation for working with a dream journal.
+A dark, cool, quiet bedroom produces deeper and more coherent REM sleep. That means more vivid, narrative dreams you actually remember on waking — the foundation for working with a [dream journal](/en/guides/dream-journal/).
 
 Research also shows bedroom temperature affects the emotional tone of dreams: rooms that are too warm are associated with more unsettled, anxious dreams. It's a biological response — the body reads overheating as a stressor.
 

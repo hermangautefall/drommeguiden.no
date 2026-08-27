@@ -1,9 +1,9 @@
 ---
-tittel: "Bedtime routine — 7 steps that actually work"
+tittel: "Bedtime routine — the steps that actually work"
 slug: bedtime-routine
 seksjon: sovn
 kategori: hygiene
-kortbeskrivelse: "A good bedtime routine is one of the most effective sleep tools there is, not because it's magic. Here's the mechanism and 7 concrete steps to start tonight."
+kortbeskrivelse: "A good bedtime routine is one of the most effective sleep tools there is, and not because it's magic. Here's the mechanism, and where to start tonight."
 leseminutter: 7
 dato: 2026-03-18
 oppdatert: 2026-08-25
@@ -11,8 +11,12 @@ bilde: /bilder/sovn/leggetidsrutine.jpg
 nb_slug: leggetidsrutine
 sv_slug: laggdags-rutin
 relaterte_sovn:
+  - sleep-hygiene
   - anxiety-and-sleep
-  - caffeine-and-sleep
+  - bedroom-and-sleep
+relaterte_guider:
+  - dream-journal
+  - stress-and-dreams
 author: 'default'
 ---
 
@@ -50,7 +54,7 @@ The Zeigarnik effect is real: the brain actively holds on to unfinished thoughts
 
 Take 5–10 minutes to write down tomorrow's two most important tasks and any active worries. Not to solve them — just to "park" them. Research shows this concretely reduces the time it takes to fall asleep.
 
-One alternative is a dream journal: writing down the evening's thoughts and, over time, reflections on your dreams.
+One alternative is a [dream journal](/en/guides/dream-journal/): writing down the evening's thoughts and, over time, reflections on your dreams.
 
 ### Step 4: A warm bath or shower (60–90 minutes before bed)
 
@@ -94,9 +98,9 @@ Checking email or work messages. It reactivates performance mode.
 
 A good bedtime routine doesn't just make falling asleep easier — it directly improves dream quality. A calm wind-down produces more continuous sleep, which produces deeper and more memorable REM periods.
 
-The writing step in step 3 is particularly relevant for dream journaling: thoughts noted in the evening create a bridge to the night's dreams, and the morning's dreams can be recorded in that same journal.
+The writing step in step 3 is particularly relevant for [dream journaling](/en/guides/dream-journal/): thoughts noted in the evening create a bridge to the night's dreams, and the morning's dreams can be recorded in that same journal.
 
-## The takeaway
+## Your wind-down protocol
 
 A good bedtime routine is your brain's wind-down protocol:
 

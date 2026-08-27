@@ -2,6 +2,7 @@
 tittel: "Drömjournalen — så minns du dina drömmar"
 slug: dromjournalen
 nb_slug: drommejournalen
+en_slug: dream-journal
 kortbeskrivelse: "Lär dig hur en drömjournal kan hjälpa dig att minnas dina drömmar, upptäcka mönster och förstå dig själv bättre. Praktiska tips och tekniker ingår."
 leseminutter: 6
 dato: 2026-03-18

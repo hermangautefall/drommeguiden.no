@@ -2,6 +2,7 @@
 tittel: "Läggdagsrutin — 7 steg som faktiskt fungerar"
 slug: laggdags-rutin
 nb_slug: leggetidsrutine
+en_slug: bedtime-routine
 seksjon: sovn
 kategori: hygiene
 kortbeskrivelse: "En bra läggdagsrutin är en av de mest effektiva sömnåtgärderna — men inte för att den är magisk. Här är mekanismen och 7 konkreta steg du kan börja med ikväll."

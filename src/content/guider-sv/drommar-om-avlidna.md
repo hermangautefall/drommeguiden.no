@@ -2,6 +2,7 @@
 tittel: "Att drömma om avlidna — vad betyder det, och är det normalt?"
 slug: drommar-om-avlidna
 nb_slug: drommer-om-avdode
+en_slug: dreams-of-the-dead
 kortbeskrivelse: "Att drömma om någon du har förlorat är en av de mest intensiva och rörande drömupplevelser vi kan ha. Här är vad forskning och psykologi säger om sådana drömmar."
 leseminutter: 9
 bilde: /bilder/guider/drommer-om-avdode.jpg

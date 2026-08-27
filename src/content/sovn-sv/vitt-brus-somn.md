@@ -2,6 +2,7 @@
 tittel: "Vitt brus för sömn — vad det är, varför det fungerar, och bästa alternativen"
 slug: vitt-brus-somn
 nb_slug: hvit-stoy-sovn
+en_slug: white-noise-and-sleep
 seksjon: sovn
 kategori: produkter
 kortbeskrivelse: "Vitt brus, rosa brus, brunt brus och naturljud — alla påstås ge bättre sömn. Här är vad forskning säger om ljudmaskering och vad som faktiskt fungerar bäst."

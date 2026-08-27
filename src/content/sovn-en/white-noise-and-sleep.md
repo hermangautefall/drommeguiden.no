@@ -10,6 +10,13 @@ oppdatert: 2026-08-25
 bilde: /bilder/sovn/hvit-stoy-sovn.jpg
 nb_slug: hvit-stoy-sovn
 sv_slug: vitt-brus-somn
+relaterte_sovn:
+  - bedroom-and-sleep
+  - sleep-hygiene
+  - insomnia
+relaterte_guider:
+  - what-are-dreams
+  - dream-journal
 author: 'default'
 ---
 
@@ -35,7 +42,7 @@ It isn't magic. It's acoustics.
 
 **Nature sounds** — rain, ocean, forest, a stream — are popular and carry a psychological element beyond pure sound masking: they're associated with safety and nature, which can help you relax faster.
 
-## What research says
+## What the research on sound masking shows
 
 Studies on white and pink noise in a sleep context show:
 
@@ -76,9 +83,9 @@ Classical music, ambient electronica, acoustic guitar, and piano are among the b
 
 White noise and sound masking reduce nighttime awakenings, which means more continuous sleep cycles. That's good news for dream recall: you're interrupted from REM sleep less often mid-dream, so you remember more coherent dream scenarios.
 
-Some people also report that specific nature sounds — ocean, rain, forest — influence the setting of their dreams. That isn't well documented scientifically, but it's an interesting phenomenon to experiment with in a dream journal.
+Some people also report that specific nature sounds — ocean, rain, forest — influence the setting of their dreams. That isn't well documented scientifically, but it's an interesting phenomenon to experiment with in a [dream journal](/en/guides/dream-journal/).
 
-## The takeaway
+## Making the disruptive sounds disappear
 
 Sound masking is a simple, effective sleep tool — especially in noisy environments:
 

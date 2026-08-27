@@ -2,6 +2,7 @@
 tittel: "Mardrömmar — varför vi har dem och vad vi kan göra"
 slug: mardrom
 nb_slug: mareritt
+en_slug: nightmares
 kortbeskrivelse: "Varför har vi mardrömmar, och vad kan vi göra åt dem? Läs om orsaker som stress och trauma, Image Rehearsal Therapy, och när du bör söka hjälp."
 leseminutter: 7
 dato: 2026-03-18

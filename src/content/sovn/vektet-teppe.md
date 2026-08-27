@@ -7,6 +7,7 @@ kortbeskrivelse: "Vektet teppe har blitt populært som søvnhjelpemiddel — men
 leseminutter: 8
 bilde: /bilder/sovn/vektet-teppe.jpg
 sv_slug: tyngdtacke
+en_slug: weighted-blankets
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:
@@ -28,7 +29,7 @@ Et vektet teppe er et teppe fylt med et tungt materiale — oftest glassperler e
 
 Det jevne trykket over kroppen kalles "Deep Pressure Stimulation" (DPS) — og det er her den dokumenterte effekten ligger.
 
-## Hva forskning sier
+## Hva studiene på dyptrykk faktisk viser
 
 DPS er veldokumentert i ergoterapi og sensorisk integrasjonsforskning. Trykket aktiverer det parasympatiske nervesystemet — det samme systemet som aktiveres ved klem, massasje og håndtering av babyer. Kortisol (stresshormon) reduseres, serotonin og oksytocin øker.
 

@@ -7,6 +7,7 @@ bilde: /bilder/guider/stress-og-drommer.jpg
 sv_slug: stress-och-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: stress-and-dreams
 ---
 
 Du har en krevende periode på jobben, og plutselig er drømmene fulle av eksamener du ikke er forberedt til, tog du ikke rekker og sjefer som er misfornøyde. Eller du sover dårlig, drømmene er urolige og fragmenterte, og du våkner utmattet. Sammenhengen er ikke tilfeldig — stress påvirker drømmene på konkrete og veldokumenterte måter.

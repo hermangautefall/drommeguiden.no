@@ -19,7 +19,7 @@ A false awakening is one of the most disorienting phenomena in the dream world �
 
 A false awakening is a dream in which you experience waking up — and where the new "awake" state is just as convincing and detailed as real life. You might get up, go to the bathroom, make coffee and start your morning — all while still asleep. Some people experience this in layers: they "wake up" again and again, believing each time they're finally awake, only to discover they're still dreaming.
 
-The phenomenon was formally described by the British writer and dream researcher Oliver Fox in the early twentieth century, and has since been thoroughly documented in sleep research. It occurs primarily during REM sleep — the sleep stage where the most vivid, narrative dreams happen.
+The phenomenon was formally described by the British writer and dream researcher Oliver Fox in the early twentieth century, and has since been thoroughly documented in sleep research. It occurs primarily during REM sleep — the sleep stage where the most vivid, narrative dreams happen. See the article on [sleep stages](/en/sleep/sleep-stages/) for more on how the night is structured.
 
 ## Why does it happen?
 
@@ -41,7 +41,7 @@ False awakening and [lucid dreaming](/en/guides/lucid-dreaming/) are closely rel
 
 A simple reality check is to look at your hands. In dreams, hands are often blurry, have the wrong number of fingers, or look strange. Another technique is trying to push a finger through the palm of the other hand — something that never works in reality but often "succeeds" in dreams.
 
-## The psychological perspective
+## Freud, Jung and the blurred line between dream and reality
 
 Carl Jung would have seen the false awakening as an expression of what he called "psychic realism" — where the unconscious is just as real, just as concrete and just as true as the outer world. The line between dream and reality isn't always where we think it is, and a false awakening may be the clearest demonstration of this: the brain can build a world that's indistinguishable from the real one, because it's working with the same raw material — sensory impressions, memories, expectations.
 

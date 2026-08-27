@@ -2,6 +2,7 @@
 tittel: "Färger i drömmar — vad betyder de olika färgerna?"
 slug: farger-i-drommar
 nb_slug: farger-i-drommer
+en_slug: colours-in-dreams
 kortbeskrivelse: "Färger i drömmar är sällan slumpmässiga. Röd, blå, vit, svart — varje färg bär på sitt eget symbolspråk. Här är en komplett guide till färgernas mening."
 leseminutter: 9
 bilde: /bilder/guider/farger-i-drommer.jpg
@@ -71,7 +72,7 @@ Det är viktigt att komma ihåg att färgsymbolik varierar. I västerländsk tra
 
 Vad betyder färgerna för dig, i din kulturella bakgrund och i din personliga livshistoria?
 
-## Praktiska råd
+## Så arbetar du med dina egna färger
 
 När du antecknar dina drömmar i [drömjournalen](/sv/guider/dromjournalen/), notera alltid färger som var särskilt intensiva eller ovanliga. Med tiden kommer du att upptäcka mönster: kanske dyker rött alltid upp i perioder av stress, eller blått i perioder av ro. Dina personliga färgassociationer är lika viktiga som de kulturella.
 

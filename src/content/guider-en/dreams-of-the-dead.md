@@ -31,7 +31,7 @@ The second type is the visitation dream — where something about the encounter 
 
 The third type is the anxious dream — where the person who died is in danger, or where you know they're gone but can't find them, or where the encounter is confused and fragmented. These often reflect unprocessed grief or unresolved aspects of the relationship. Some also experience a variant where they believe they've woken up and see the deceased person in the room — an experience that can resemble a [false awakening](/en/guides/false-awakening/), where the line between dream and reality blurs.
 
-## What does psychology say?
+## What psychology says about these dreams
 
 From a psychological perspective, dreaming about the dead is a natural and healthy part of the grieving process. The brain processes relationships continuously — and in dreams, this processing continues after a loss. The person who died isn't gone from the psyche even though they're gone from life.
 
@@ -65,13 +65,15 @@ Children often dream about deceased grandparents and relatives, and these dreams
 
 It's important to let children talk about these dreams without dismissing them as "just dreams." They're part of a child's grief journey and deserve room and curiosity.
 
-## Practical advice
+## What can help
 
 Write the dreams down. Visitation dreams are among the most memorable we have, but details fade quickly. Write down what was said, what you felt, how the person who died looked.
 
 Give the dreams room. Don't dismiss them as meaningless, but don't let them become an excuse to avoid the grief work in waking life either. The dreams are part of grieving — not a substitute for it.
 
 Share them with someone. Many bereaved people keep visitation dreams to themselves for fear of being dismissed. But most people who have lost someone know these dreams. Sharing them can be deeply comforting for both people involved.
+
+Grief also affects sleep more broadly, beyond the dreams themselves — see the article on [grief and sleep](/en/sleep/grief-and-sleep/) for more.
 
 ## A sign that the bond continues
 

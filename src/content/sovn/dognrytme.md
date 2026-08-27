@@ -9,6 +9,7 @@ bilde: /bilder/sovn/dognrytme.jpg
 sv_slug: dygnsrytm
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: circadian-rhythm
 relaterte_sovn:
   - melatonin
   - sovnfaser

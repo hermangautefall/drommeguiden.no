@@ -2,6 +2,7 @@
 tittel: "Melatonin — vad det är, rätt dos och vem det hjälper"
 slug: melatonin
 nb_slug: melatonin
+en_slug: melatonin
 seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Melatonin är inte ett sömnmedel — det är ett signalhormon. Här är vad melatonin faktiskt gör, vem det hjälper, och vad forskning säger om dos och timing."

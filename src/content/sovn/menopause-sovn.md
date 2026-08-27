@@ -9,6 +9,7 @@ bilde: /bilder/sovn/menopause-sovn.jpg
 sv_slug: klimakterie-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: menopause-and-sleep
 relaterte_sovn:
   - sovnproblemer
   - sovnhygiene

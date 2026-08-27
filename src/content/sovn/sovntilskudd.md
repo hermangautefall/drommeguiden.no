@@ -7,6 +7,7 @@ kortbeskrivelse: "Magnesium, L-theanin, valerian, ashwagandha — hyllesiden med
 leseminutter: 9
 bilde: /bilder/sovn/sovntilskudd.jpg
 sv_slug: somntillskott
+en_slug: sleep-supplements
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

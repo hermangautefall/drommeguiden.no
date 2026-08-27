@@ -11,7 +11,12 @@ bilde: /bilder/sovn/angst-sovn.jpg
 nb_slug: angst-sovn
 sv_slug: angest-somn
 relaterte_sovn:
+  - insomnia
+  - sleep-hygiene
   - depression-and-sleep
+relaterte_guider:
+  - stress-and-dreams
+  - nightmares
 relaterte_drommer:
   - being-chased
 author: 'default'
@@ -41,9 +46,9 @@ Sleep researchers call this "conditioned hyperarousal" — and it's the primary 
 
 Anxiety doesn't just disrupt falling asleep and sleep quality — it directly changes what you dream about.
 
-Under anxiety, the amygdala is more active, including during sleep. REM sleep — where emotional memories are processed — ends up processing anxiety-related material. The result is more frequent nightmares, more anxious dream scenarios, and dreams in which you're chased, can't reach your destination, lose control, or fail.
+Under anxiety, the amygdala is more active, including during sleep. REM sleep — where emotional memories are processed — ends up processing anxiety-related material. The result is more frequent [nightmares](/en/guides/nightmares/), more anxious dream scenarios, and dreams in which you're [chased](/en/dreams/being-chased/), can't reach your destination, lose control, or fail.
 
-These dreams aren't random — they're direct reflections of the anxious material the brain is actively working through. Understanding them, rather than fearing them, is a step toward healing.
+These dreams aren't random — they're direct reflections of the anxious material the brain is actively working through. See the guide on [stress and dreams](/en/guides/stress-and-dreams/) for the fuller mechanism. Understanding them, rather than fearing them, is a step toward healing.
 
 ## What actually works
 
@@ -83,7 +88,7 @@ Sometimes anxiety is too strong for sleep measures alone to be enough. Generaliz
 
 Seek help from your doctor if the anxiety is pervasive, affects daily life, and doesn't improve with the measures described here.
 
-## The takeaway
+## Breaking the cycle
 
 Anxiety and sleep are locked in a self-reinforcing spiral — but the cycle can be broken:
 

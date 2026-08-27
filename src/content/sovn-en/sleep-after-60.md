@@ -13,7 +13,10 @@ oppdatert: 2026-08-25
 author: 'default'
 relaterte_sovn:
   - insomnia
+  - melatonin
   - sleep-hygiene
+relaterte_guider:
+  - dreams-of-the-dead
 ---
 
 "I didn't sleep like this when I was young." It's one of the most consistent complaints doctors hear from older patients. And it's true — sleep changes biologically across a lifetime, and after 60 those changes become noticeable.
@@ -48,7 +51,7 @@ It's important not to accept poor sleep as "just something that happens when you
 
 ## Melatonin and older adults
 
-Of all the age groups, melatonin's evidence base is strongest in older adults — a real acknowledgment that reduced melatonin production is a genuine factor in age-related sleep disruption.
+Of all the age groups, [melatonin's](/en/sleep/melatonin/) evidence base is strongest in older adults — a real acknowledgment that reduced melatonin production is a genuine factor in age-related sleep disruption.
 
 A low dose taken shortly before the desired bedtime has been shown to improve sleep quality and reduce the time it takes to fall asleep in older adults. It doesn't replace other measures, but it's considered safe and effective as a supplement. As with any supplement, talk to a doctor or pharmacist before starting, particularly alongside other medication.
 
@@ -62,9 +65,9 @@ Cognitive behavioural therapy for insomnia (CBT-I) has been shown to work well i
 
 Dream content shifts with age in interesting ways. Older adults generally report more positive dreams than younger adults — less anxious, calmer, more nostalgic. This fits the emotional "maturing" documented in ageing research: older adults tend to prioritise positive experiences and are generally better at regulating negative emotion.
 
-Dreams about deceased loved ones become more frequent later in life, for obvious reasons, and many people experience them as comforting visits.
+Dreams about deceased loved ones become more frequent later in life, for obvious reasons, and many people experience them as comforting visits. See the guide on [dreams of the dead](/en/guides/dreams-of-the-dead/) for more.
 
-## The takeaway
+## Sleeping well after 60
 
 Sleep changes biologically with age, but much of it is treatable:
 

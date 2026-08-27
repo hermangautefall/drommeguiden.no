@@ -7,6 +7,7 @@ bilde: /bilder/guider/barn-og-drommer.jpg
 sv_slug: barn-och-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: children-and-dreams
 ---
 
 Barnet ditt sitter opp i sengen midt på natten, redd for noe det ikke kan sette ord på. Eller det forteller om en drøm der dere to var på et eventyr, levende og detaljert. Barn drømmer — og de drømmer intenst. Men barns drømmeliv er annerledes enn voksnes på måter som er viktige å forstå.

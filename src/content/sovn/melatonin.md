@@ -9,6 +9,7 @@ bilde: /bilder/sovn/melatonin.jpg
 sv_slug: melatonin
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: melatonin
 relaterte_sovn:
   - sovnfaser
   - sovnbehov

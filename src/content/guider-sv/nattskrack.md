@@ -2,6 +2,7 @@
 tittel: "Nattskräck — vad är det, och vad gör du åt det?"
 slug: nattskrack
 nb_slug: nattskrekk
+en_slug: night-terrors
 kortbeskrivelse: "Nattskräck skiljer sig från mardrömmar och kan verka skrämmande att uppleva. Här är vad som händer i kroppen, vem det drabbar och vad du kan göra."
 leseminutter: 8
 bilde: /bilder/guider/nattskrekk.jpg

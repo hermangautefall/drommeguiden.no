@@ -7,6 +7,7 @@ kortbeskrivelse: "Åtte timer er gjennomsnittet — men søvnbehovet varierer be
 leseminutter: 7
 bilde: /bilder/sovn/sovnbehov.jpg
 sv_slug: somnbehov
+en_slug: how-much-sleep
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

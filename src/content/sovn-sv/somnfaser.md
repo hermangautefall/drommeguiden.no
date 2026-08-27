@@ -9,6 +9,7 @@ dato: 2026-04-20
 oppdatert: 2026-06-01
 bilde: /bilder/sovn/sovnfaser.jpg
 nb_slug: sovnfaser
+en_slug: sleep-stages
 relaterte_drommer:
   - flyga
   - tand

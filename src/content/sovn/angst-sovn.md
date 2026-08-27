@@ -9,6 +9,7 @@ bilde: /bilder/sovn/angst-sovn.jpg
 sv_slug: angest-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: anxiety-and-sleep
 relaterte_sovn:
   - sovnproblemer
   - sovnhygiene

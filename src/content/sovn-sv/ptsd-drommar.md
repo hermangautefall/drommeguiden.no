@@ -2,6 +2,7 @@
 tittel: "PTSD och drömmar — traumatiska mardrömmar och vägen mot bättring"
 slug: ptsd-drommar
 nb_slug: ptsd-drommer
+en_slug: ptsd-and-dreams
 seksjon: sovn
 kategori: psykologi
 kortbeskrivelse: "PTSD är den sömn- och drömstörning vi vet mest om — och som är mest belastande. Här är mekanismerna, och vad behandlingen kan göra med drömmarna."

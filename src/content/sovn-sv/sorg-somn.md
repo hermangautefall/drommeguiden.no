@@ -2,6 +2,7 @@
 tittel: "Sorg och sömn — drömmar efter förlust och nattens tysta bearbetning"
 slug: sorg-somn
 nb_slug: sorg-sovn
+en_slug: grief-and-sleep
 seksjon: sovn
 kategori: livsfaser
 kortbeskrivelse: "Sorg förändrar sömnen djupt — och sömnen är där mycket av sorgen bearbetas. Här är vad forskning säger om sorg, sömnproblem och drömmarnas roll i läkandet."

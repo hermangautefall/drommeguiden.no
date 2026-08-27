@@ -61,7 +61,7 @@ Because recurring dreams are often tied to unprocessed emotional themes, the mos
 
 **Try Image Rehearsal Therapy.** This technique, described in detail in our guide on [nightmares](/en/guides/nightmares/), involves consciously rewriting the dream's plot, during the day, into a new and more positive outcome. You visualise the new version daily. Research has shown this can break the cycle of recurring dreams.
 
-**Talk to someone.** Whether it's a friend, a partner, or a therapist — sharing your dreams and reflecting on them together can offer new perspectives and make it easier to understand what the dreams are about.
+**Talk to someone.** Whether it's a friend, a partner, or a therapist — sharing your dreams and reflecting on them together can offer new perspectives and make it easier to understand what the dreams are about. If the recurring dream is trauma-related, see the article on [PTSD and dreams](/en/sleep/ptsd-and-dreams/) for more.
 
 **Address what you're avoiding.** If you recognise a link between the dream and something in your life, the boldest and most effective thing you can do may be to face exactly that. Have the difficult conversation. Make the decision. Many people find that recurring dreams fade or disappear entirely once the underlying issue has been addressed.
 

@@ -2,6 +2,7 @@
 tittel: "Tonåringar och sömn — fördröjd fas, skärmtid och sömnbehov"
 slug: tonaring-somn
 nb_slug: tenaring-sovn
+en_slug: teenagers-and-sleep
 seksjon: sovn
 kategori: livsfaser
 kortbeskrivelse: "Tonåringar sover inte sent av lathet — biologin tvingar dem till det. Här är vad som händer med sömnen i tonåren, och vad som faktiskt kan hjälpa."
@@ -52,7 +53,7 @@ Den biologiskt fördröjda sömnfasen förstärks av skärmbruk. Tonåringar är
 
 Det skapar en dubbel effekt: biologi och beteende drar åt samma håll, och läggdags förskjuts allt senare.
 
-## Vad som faktiskt hjälper
+## Åtgärder som fungerar för en tonårsdygnsrytm
 
 **Morgonljus är viktigare än kvällsstängning.** Att beordra tonåringen att lägga bort telefonen kl. 21:00 är användbart, men inte tillräckligt. Det effektiva tillägget är starkt morgonljus så tidigt som möjligt — det är den kraftigaste signalen för att förskjuta den biologiska klockan tidigare.
 

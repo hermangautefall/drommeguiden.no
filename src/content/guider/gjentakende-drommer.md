@@ -7,6 +7,7 @@ dato: 2026-03-18
 oppdatert: 2026-06-13
 bilde: /bilder/guider/gjentakende.jpg
 sv_slug: aterkommande-drommar
+en_slug: recurring-dreams
 ---
 
 ## Gjentakende drømmer — hva prøver hjernen å si?

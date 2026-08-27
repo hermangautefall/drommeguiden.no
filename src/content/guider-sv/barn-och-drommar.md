@@ -2,6 +2,7 @@
 tittel: "Barn och drömmar — vad drömmer barn om, och hur hjälper du dem?"
 slug: barn-och-drommar
 nb_slug: barn-og-drommer
+en_slug: children-and-dreams
 kortbeskrivelse: "Barn drömmer annorlunda än vuxna och har unika behov kopplade till drömmarna. Här är vad forskningen vet om barns drömliv och hur du stöttar dem."
 leseminutter: 8
 bilde: /bilder/guider/barn-og-drommer.jpg

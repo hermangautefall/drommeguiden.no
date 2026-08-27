@@ -11,8 +11,13 @@ bilde: /bilder/sovn/astralprosjeksjon.jpg
 nb_slug: astralprosjeksjon
 sv_slug: astralprojektion
 relaterte_sovn:
+  - sleep-stages
   - polyphasic-sleep
   - dreams-and-the-brain
+relaterte_guider:
+  - false-awakening
+  - lucid-dreaming
+  - sleep-paralysis
 author: 'default'
 ---
 
@@ -38,7 +43,7 @@ The scientific explanation for OBEs isn't "it doesn't happen" — it's "this is 
 
 **The temporoparietal junction (TPJ).** Researcher Olaf Blanke at EPFL has shown that electrical stimulation of a specific brain region — the temporoparietal junction — triggers OBE-like experiences in patients. The TPJ is the brain area that integrates sensory information about the body in space (proprioception, vestibular signals, vision) into a coherent sense of embodiment. Disrupting that integration can produce the experience of being "outside" the body.
 
-**Sleep paralysis and the hypnagogic state.** The vast majority of spontaneous OBEs occur in the borderland between sleep and wakefulness — typically during sleep paralysis or in a hypnagogic/hypnopompic state. That's the same neurological territory where sleep paralysis and false awakenings occur.
+**Sleep paralysis and the hypnagogic state.** The vast majority of spontaneous OBEs occur in the borderland between sleep and wakefulness — typically during [sleep paralysis](/en/guides/sleep-paralysis/) or in a hypnagogic/hypnopompic state. That's the same neurological territory where sleep paralysis and [false awakenings](/en/guides/false-awakening/) occur.
 
 **The activated brain of REM sleep.** Some OBEs occur during REM sleep, when the brain is highly active but the body is paralyzed. The projected "astral body" may be the brain's way of forming a motor representation of movement the body isn't actually carrying out — a kind of "motor hallucination."
 
@@ -60,9 +65,9 @@ What this means — whether it's evidence of consciousness existing independent 
 
 For people who work with their dreams, it's useful to know that OBE territory and dream territory overlap heavily. Many of the techniques for inducing an OBE are the same ones used to induce lucid dreams — and the line between a "genuine" OBE and a highly vivid lucid dream is, subjectively, almost impossible to draw.
 
-That's a practical insight: if you're interested in exploring these states, dream journaling and lucid dreaming practice are the best starting point. The brain is capable of producing experiences of extraordinary intensity and convincing realism — and the borderland of sleep is where they're most accessible.
+That's a practical insight: if you're interested in exploring these states, a [dream journal](/en/guides/dream-journal/) and [lucid dreaming](/en/guides/lucid-dreaming/) practice are the best starting point. The brain is capable of producing experiences of extraordinary intensity and convincing realism — and the borderland of sleep is where they're most accessible.
 
-## The takeaway
+## What the evidence actually supports
 
 OBEs and astral projection are real experiences with a neurological explanation:
 

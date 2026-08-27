@@ -2,6 +2,7 @@
 tittel: "Sömnhygien — 12 vanor som ger dig bättre sömn"
 slug: somnhygien
 nb_slug: sovnhygiene
+en_slug: sleep-hygiene
 seksjon: sovn
 kategori: hygiene
 kortbeskrivelse: "Sömnhygien är samlingen av vanor och miljöfaktorer som påverkar din sömnkvalitet. Här är de 12 mest dokumenterade åtgärderna — rangordnade efter effekt."

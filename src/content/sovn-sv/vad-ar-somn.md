@@ -2,6 +2,7 @@
 tittel: "Vad är sömn? En guide till sömnens vetenskap"
 slug: vad-ar-somn
 nb_slug: hva-er-sovn
+en_slug: what-is-sleep
 seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Sömn är inte passiv vila — det är en av kroppens mest aktiva processer. Här är vad forskningen vet om vad sömn egentligen är och varför vi inte kan leva utan den."

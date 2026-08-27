@@ -2,6 +2,7 @@
 tittel: "Stress och drömmar — hur påverkar stress dina drömmar?"
 slug: stress-och-drommar
 nb_slug: stress-og-drommer
+en_slug: stress-and-dreams
 kortbeskrivelse: "Stress förändrar dina drömmar på konkreta och dokumenterade sätt. Här är vad forskning säger om sambandet mellan stress och drömmarnas innehåll och kvalitet."
 leseminutter: 8
 bilde: /bilder/guider/stress-og-drommer.jpg

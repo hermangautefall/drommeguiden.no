@@ -2,6 +2,7 @@
 tittel: "Sömnapné — symtom, orsaker och behandling"
 slug: somnapne
 nb_slug: sovnapne
+en_slug: sleep-apnoea
 seksjon: sovn
 kategori: lidelser
 kortbeskrivelse: "Sömnapné är en av de vanligaste och mest underskattade sömnstörningarna. Här är symtomen du bör känna till, vad som orsakar det, och vad behandlingen innebär."

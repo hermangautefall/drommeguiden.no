@@ -2,6 +2,7 @@
 tittel: "Klimakteriet och sömn — nattsvettningar, insomni och intensiva drömmar"
 slug: klimakterie-somn
 nb_slug: menopause-sovn
+en_slug: menopause-and-sleep
 seksjon: sovn
 kategori: livsfaser
 kortbeskrivelse: "Klimakteriet förändrar sömnen dramatiskt för många kvinnor. Här är vad som faktiskt händer hormonellt, och vad som kan hjälpa för bättre nätter."

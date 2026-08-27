@@ -2,6 +2,7 @@
 tittel: "Sömnmask och mörkläggningsgardiner — guide och vad du bör leta efter"
 slug: somnmask
 nb_slug: sovnmaske
+en_slug: sleep-masks
 seksjon: sovn
 kategori: produkter
 kortbeskrivelse: "Mörker är en av sömnens viktigaste förutsättningar. Här är vad som gör sömnmasker och mörkläggningsgardiner effektiva, och vad du bör leta efter när du väljer."

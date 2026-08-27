@@ -2,6 +2,7 @@
 tittel: "Sömn efter 60 — varför sömnen förändras med åldern och vad som hjälper"
 slug: somn-aldre
 nb_slug: sovn-eldre
+en_slug: sleep-after-60
 seksjon: sovn
 kategori: livsfaser
 kortbeskrivelse: "Sömnen förändras naturligt med åldern — men dålig sömn är inte oundviklig. Här är vad som händer biologiskt och vad forskningen säger faktiskt hjälper."

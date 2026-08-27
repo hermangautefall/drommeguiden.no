@@ -11,7 +11,12 @@ bilde: /bilder/sovn/alkohol-sovn.jpg
 nb_slug: alkohol-sovn
 sv_slug: alkohol-somn
 relaterte_sovn:
-  - caffeine-and-sleep
+  - sleep-stages
+  - sleep-hygiene
+  - insomnia
+relaterte_guider:
+  - stress-and-dreams
+  - what-are-dreams
 relaterte_drommer:
   - alcohol
 author: 'default'
@@ -69,7 +74,7 @@ Cutting off alcohol at least three hours before bed is a reasonable minimum. Sle
 
 For those who use alcohol as a regular sleep aid: the first few nights without it will likely feel worse — that's withdrawal and the rebound effect at work. After a week or two, sleep quality is typically noticeably better than it was with alcohol.
 
-## The takeaway
+## Alcohol is a sleep thief, not a sleep aid
 
 Alcohol isn't a sleep aid — it's a sleep thief:
 

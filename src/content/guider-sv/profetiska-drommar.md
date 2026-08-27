@@ -2,6 +2,7 @@
 tittel: "Profetiska drömmar — finns de, och vad säger forskningen?"
 slug: profetiska-drommar
 nb_slug: profetiske-drommer
+en_slug: prophetic-dreams
 kortbeskrivelse: "Många upplever drömmar som verkar förutsäga framtiden. Finns profetiska drömmar egentligen? Här är vad psykologi och forskning säger om fenomenet."
 leseminutter: 8
 bilde: /bilder/guider/profetiske-drommer.jpg
@@ -19,7 +20,7 @@ En profetisk dröm — eller precognitive dream, som det kallas inom forskningen
 
 Profetiska drömmar är rapporterade i alla kulturer och i alla tider. Abraham Lincolns dröm om sin egen begravning dagar innan attentatet. Mark Twains dröm om sin brors död i en ångbåtsolycka. Historien är full av dem. Och i dag rapporterar stora andelar av befolkningen att de har haft minst en dröm som verkade förutsäga något.
 
-## Vad säger psykologin?
+## Varför träffarna känns så sällsynta och så starka
 
 Mainstream-psykologin har traditionellt varit skeptisk till profetiska drömmar och förklarat dem med tre mekanismer:
 

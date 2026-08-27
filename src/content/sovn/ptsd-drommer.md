@@ -9,6 +9,7 @@ bilde: /bilder/sovn/ptsd-drommer.jpg
 sv_slug: ptsd-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: ptsd-and-dreams
 relaterte_sovn:
   - sovnproblemer
   - depresjon-sovn
@@ -67,7 +68,7 @@ Etter vellykket EMDR-behandling endres gjerne drømmenes karakter: traumedrømme
 
 **Prazosin** — et blodtrykksmiddel med uventede søvneffekter — har vist seg å redusere PTSD-relaterte mareritt hos noen pasienter, sannsynligvis ved å blokkere noradrenalin-aktivering under søvn.
 
-## En viktig avklaring
+## Forskjellen på mareritt og traumemareritt
 
 PTSD er en klinisk tilstand som krever profesjonell behandling — ikke bare søvnhygienejusteringer. Denne artikkelen er informativ. Hvis du kjenner deg igjen i symptomene som beskrives — spesielt gjentakende traumatiske mareritt, unngåelse og kronisk hyperaktivering — er det viktig å oppsøke lege eller psykolog.
 

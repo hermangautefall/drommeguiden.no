@@ -15,6 +15,8 @@ relaterte_sovn:
   - insomnia
   - sleep-hygiene
   - bedroom-and-sleep
+relaterte_guider:
+  - children-and-dreams
 relaterte_drommer:
   - pregnant
   - baby
@@ -75,7 +77,7 @@ These dreams are normal and are a sign the brain is processing one of the bigges
 
 **Leg cramps.** Stretch your calf muscles before bed. Magnesium supplements — discussed with a midwife or doctor first — have reasonable evidence for reducing leg cramps in pregnancy.
 
-**Emotional unease.** Write down worries and thoughts before bed, not to solve them, but to set them aside. A simple journal works well. A dream journal that also captures evening thoughts and morning dreams can be especially useful during this period.
+**Emotional unease.** Write down worries and thoughts before bed, not to solve them, but to set them aside. A simple journal works well. A [dream journal](/en/guides/dream-journal/) that also captures evening thoughts and morning dreams can be especially useful during this period.
 
 **Daytime rest.** A short nap in the middle of the day isn't laziness — it's necessary compensation. After the first trimester, lying flat on your back for long periods isn't recommended, so favour side-lying or a seated position.
 

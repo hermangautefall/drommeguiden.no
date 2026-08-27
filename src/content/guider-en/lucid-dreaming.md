@@ -19,7 +19,7 @@ The term "lucid dream" was first used by the Dutch psychiatrist Frederik van Eed
 
 It's worth distinguishing between different degrees of lucidity. In its mildest form, you simply know you're dreaming, but have little control. In its most advanced form, you can deliberately change your surroundings, fly, talk to dream characters, or explore the dream world however you like. Most people experiencing lucid dreaming for the first time land somewhere in between.
 
-Research at universities such as Stanford and the University of Frankfurt has confirmed that lucid dreaming is a genuine neurological state. Using EEG measurements, researchers have shown that lucid dreamers have increased activity in the prefrontal cortex — the part of the brain responsible for self-awareness and rational thought, which is normally dampened during ordinary dream sleep.
+Research at universities such as Stanford and the University of Frankfurt has confirmed that lucid dreaming is a genuine neurological state. Using EEG measurements, researchers have shown that lucid dreamers have increased activity in the prefrontal cortex — the part of the brain responsible for self-awareness and rational thought, which is normally dampened during ordinary dream sleep. See the article on [sleep stages](/en/sleep/sleep-stages/) for more on where lucid dreams fit into the night.
 
 ## Reality checks — the foundation of lucid dreaming
 
@@ -41,7 +41,7 @@ MILD stands for Mnemonic Induction of Lucid Dreams and was developed by Stephen 
 
 Here's how it works: as you're falling asleep, or after waking from a dream in the middle of the night, repeat an intention to yourself. It might be something like "next time I'm dreaming, I will realise I'm dreaming." At the same time, visualise yourself in a recent dream, but this time picture yourself realising that you're dreaming.
 
-The key is combining the intention with vivid mental imagery. Don't just say the words — see it, feel it. Repeat the process until you fall asleep. Research has shown that the MILD technique is most effective when paired with the "Wake Back to Bed" method, where you set an alarm after five to six hours of sleep, stay awake for a few minutes, and then go back to bed with the MILD intention.
+The key is combining the intention with vivid mental imagery. Don't just say the words — see it, feel it. Repeat the process until you fall asleep. Research has shown that the MILD technique is most effective when paired with the "Wake Back to Bed" method, where you set an alarm after five to six hours of sleep, stay awake for a few minutes, and then go back to bed with the MILD intention. This has some overlap with [polyphasic sleep](/en/sleep/polyphasic-sleep/) schedules, which also break the night into deliberate segments.
 
 ## The WILD technique — a direct route into a lucid dream
 

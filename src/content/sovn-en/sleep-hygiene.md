@@ -3,7 +3,7 @@ tittel: "Sleep hygiene — the habits that actually improve your sleep"
 slug: sleep-hygiene
 seksjon: sovn
 kategori: hygiene
-kortbeskrivelse: "Sleep hygiene is the set of habits and environmental factors that shape your sleep quality. Here are the most well-documented ones, ranked by how much they help."
+kortbeskrivelse: "Sleep hygiene is the set of habits and environmental factors shaping your sleep quality. Here are the most well-documented ones, ranked by effect."
 leseminutter: 10
 bilde: /bilder/sovn/sovnhygiene.jpg
 nb_slug: sovnhygiene
@@ -14,6 +14,10 @@ author: 'default'
 relaterte_sovn:
   - insomnia
   - bedroom-and-sleep
+  - bedtime-routine
+relaterte_guider:
+  - dream-journal
+  - stress-and-dreams
 ---
 
 "Sleep hygiene" sounds clinical, but it just means the habits and environmental factors that shape your sleep quality. It isn't advanced biohacking — it's basic insight into what the body needs to sleep well.
@@ -50,7 +54,7 @@ Many people say "caffeine doesn't affect me." Research shows caffeine disrupts s
 
 Alcohol makes many people drowsy and shortens the time it takes to fall asleep. But it wrecks sleep quality. Alcohol suppresses REM sleep and deep sleep, produces more shallow, fragmented sleep in the second half of the night, and measurably disrupts sleep architecture, even in moderate amounts.
 
-The result is that you sleep longer but wake more exhausted.
+The result is that you sleep longer but wake more exhausted. See the article on [alcohol and sleep](/en/sleep/alcohol-and-sleep/) for the details.
 
 ## 6. Keep the bedroom cool
 
@@ -68,13 +72,13 @@ The brain is good at building associations. If you spend many hours in bed on ac
 
 A consistent wind-down routine of 20–45 minutes before bed acts as a signal to the nervous system that it's time to shift gears. It won't necessarily make you fall asleep faster, but it lowers your activation level, which makes falling asleep easier.
 
-What the routine contains matters less than how consistent it is. Some options that work well for many people: dimmed lighting, calm music, light stretching, reading a physical book, a few minutes of mindfulness, or journaling.
+What the routine contains matters less than how consistent it is. Some options that work well for many people: dimmed lighting, calm music, light stretching, reading a physical book, a few minutes of mindfulness, or journaling. See the article on a [bedtime routine](/en/sleep/bedtime-routine/) for concrete ideas.
 
 ## 9. A dream journal as a bedtime ritual
 
 One of the least-known but most effective links between sleep hygiene and dreams: writing down worries and unfinished thoughts before sleep reduces the "unfinished business" activity in the brain during sleep, which supports better sleep quality and more coherent dreaming.
 
-A dream journal isn't just for interpreting dreams — writing down whatever is active in your mind (a "brain dump") is one of the most consistently effective methods for reducing the time it takes to fall asleep.
+A [dream journal](/en/guides/dream-journal/) isn't just for interpreting dreams — writing down whatever is active in your mind (a "brain dump") is one of the most consistently effective methods for reducing the time it takes to fall asleep.
 
 ## 10. Exercise — timing is everything
 
@@ -92,13 +96,13 @@ Solutions: blackout curtains, earplugs, a white noise machine to mask irregular 
 
 Of all the things that steal sleep, ruminating thoughts at night are among the worst. Trying to stop the thoughts in bed doesn't help — it reinforces them. What helps is addressing worries during the day instead.
 
-One concrete technique: set aside a short block of time in the afternoon to deliberately worry, writing down concerns and possible action plans. When the worry resurfaces at night, the brain can "refer back" to the fact that it's already been dealt with.
+One concrete technique: set aside a short block of time in the afternoon to deliberately worry, writing down concerns and possible action plans. When the worry resurfaces at night, the brain can "refer back" to the fact that it's already been dealt with. See the guide on [stress and dreams](/en/guides/stress-and-dreams/) for a deeper look at how stress, worry and sleep quality connect.
 
 ## Sleep hygiene and dream quality
 
 Sleep hygiene doesn't just affect how much and how well you sleep — it directly shapes the character of your dreams.
 
-Good sleep hygiene produces more coherent REM sleep, which means more vivid, narrative dreams. That's the foundation for keeping a dream journal at all: you can only work with the dreams you remember, and you mostly remember dreams from uninterrupted REM sleep.
+Good sleep hygiene produces more coherent REM sleep, which means more vivid, narrative dreams. That's the foundation for keeping a [dream journal](/en/guides/dream-journal/) at all: you can only work with the dreams you remember, and you mostly remember dreams from uninterrupted REM sleep.
 
 Poor sleep hygiene produces fragmented sleep with frequent waking, which means the dreams you do remember are often the shortest and most anxious ones, since they come from early REM episodes and from waking mid-cycle.
 

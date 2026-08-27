@@ -9,6 +9,7 @@ bilde: /bilder/sovn/leggetidsrutine.jpg
 sv_slug: laggdags-rutin
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: bedtime-routine
 relaterte_sovn:
   - sovnhygiene
   - angst-sovn

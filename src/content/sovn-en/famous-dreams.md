@@ -14,6 +14,10 @@ relaterte_sovn:
   - why-we-dream
   - dreams-and-the-brain
   - norse-dream-sagas
+relaterte_guider:
+  - prophetic-dreams
+  - what-are-dreams
+  - recurring-dreams
 relaterte_drommer:
   - god
   - angels
@@ -80,11 +84,11 @@ It's tempting to dismiss these stories as myths or after-the-fact rationalizing.
 
 What we know from neuroscience is that sleep — REM sleep in particular — is a time when the brain reorganizes and connects information across categories it wouldn't connect while awake and rational. The prefrontal cortex — the logical gatekeeper — is dialed down. Associations that would otherwise be dismissed as illogical are allowed through.
 
-For a brain already loaded with an unsolved problem, that's the perfect environment for unexpected connections. Creativity research calls this "incubation" — letting a problem sit and letting the subconscious work on it.
+For a brain already loaded with an unsolved problem, that's the perfect environment for unexpected connections. Creativity research calls this "incubation" — letting a problem sit and letting the subconscious work on it. See the guide on [prophetic dreams](/en/guides/prophetic-dreams/) for more on what research says about dreams that seem to foresee the future.
 
 Dreams may not be magic. But they aren't empty, either.
 
-## The takeaway
+## What history's dreamers have in common
 
 History's most documented dream scenarios are fascinating and instructive:
 

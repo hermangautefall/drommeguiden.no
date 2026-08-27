@@ -7,6 +7,7 @@ bilde: /bilder/guider/profetiske-drommer.jpg
 sv_slug: profetiska-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: prophetic-dreams
 ---
 
 Nesten alle har en slik historie — enten fra seg selv eller fra noen de stoler på. En drøm som viste noe som faktisk skjedde. En drøm der noen varslet om sin egen bortgang, og så gikk bort. En drøm om en ulykke, en telefon, et møte — og så, dager eller uker senere, nettopp det. Uforklarlig. Uhyggelig. Minneverdig.
@@ -19,7 +20,7 @@ En profetisk drøm — eller precognitive dream, som det kalles i forskning — 
 
 Profetiske drømmer er rapportert i alle kulturer og til alle tider. Abraham Lincolns drøm om sin egen begravelse dager før attentatet. Mark Twains drøm om sin brors død i en dampbåtulykke. Historien er full av dem. Og i dag rapporterer store andeler av befolkningen å ha hatt minst én drøm som virket å forutsi noe.
 
-## Hva sier psykologien?
+## Hvorfor treffene føles så sjeldne og så sterke
 
 Mainstream psykologi har tradisjonelt vært skeptisk til profetiske drømmer og forklart dem med tre mekanismer:
 

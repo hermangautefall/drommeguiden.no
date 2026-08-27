@@ -13,8 +13,12 @@ oppdatert: 2026-08-25
 author: 'default'
 relaterte_sovn:
   - sleep-hygiene
+  - anxiety-and-sleep
+  - melatonin
 relaterte_guider:
   - night-terrors
+  - nightmares
+  - stress-and-dreams
 relaterte_drommer:
   - alcohol
 ---
@@ -57,7 +61,7 @@ Negative conditioning: the bed becomes associated more and more with frustration
 
 Sleep problems and dream quality are closely linked. Fragmented, shallow sleep produces less frequent but more intense and uncomfortable dreams, and the dreams people remember from frequent waking are often the most negative, since they come from early REM episodes.
 
-Chronic insomnia is associated with a higher rate of nightmares and anxiety dreams. Paradoxically, sleep anxiety itself — the fear of not sleeping — is one of the strongest material sources the brain uses to produce uncomfortable dream scenarios.
+Chronic insomnia is associated with a higher rate of [nightmares](/en/guides/nightmares/) and anxiety dreams. Paradoxically, sleep anxiety itself — the fear of not sleeping — is one of the strongest material sources the brain uses to produce uncomfortable dream scenarios. See the guide on [stress and dreams](/en/guides/stress-and-dreams/) for a closer look at this relationship.
 
 ## What works, and what doesn't
 
@@ -71,7 +75,7 @@ Health authorities generally recommend sleep medication only for acute sleep pro
 
 ### Melatonin: right for specific situations
 
-Melatonin isn't a classic sleeping pill — it's a signalling hormone that tells the body it's night. It's useful for circadian rhythm disruptions (jet lag, shift work), in older adults (where melatonin production is reduced), and in some children with ADHD and autism.
+[Melatonin](/en/sleep/melatonin/) isn't a classic sleeping pill — it's a signalling hormone that tells the body it's night. It's useful for circadian rhythm disruptions (jet lag, shift work), in older adults (where melatonin production is reduced), and in some children with ADHD and autism.
 
 For ordinary insomnia, its effect is more limited than many assume.
 

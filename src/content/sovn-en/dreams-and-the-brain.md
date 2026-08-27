@@ -11,9 +11,13 @@ bilde: /bilder/sovn/drommer-og-hjernen.jpg
 nb_slug: drommer-og-hjernen
 sv_slug: drommar-och-hjarnan
 relaterte_sovn:
+  - sleep-stages
   - why-we-dream
   - what-is-sleep
-  - astral-projection
+relaterte_guider:
+  - what-are-dreams
+  - lucid-dreaming
+  - sleep-paralysis
 author: 'default'
 ---
 
@@ -45,7 +49,7 @@ During REM sleep, the brainstem sends active signals that paralyze most voluntar
 
 Without REM atonia, you would physically fight, run, and talk in your sleep in ways that could be dangerous. There's a sleep disorder called REM sleep behavior disorder (RBD) in which this paralysis fails — and affected people actually act out their dreams, with potentially harmful consequences.
 
-The paradox is that REM atonia sometimes lingers for a few seconds into wakefulness — that's the mechanism behind sleep paralysis.
+The paradox is that REM atonia sometimes lingers for a few seconds into wakefulness — that's the mechanism behind [sleep paralysis](/en/guides/sleep-paralysis/).
 
 ## The neurochemistry of dreaming
 
@@ -79,9 +83,9 @@ The suppressed prefrontal cortex explains dreams' strange logic and lack of cont
 
 The highly active amygdala explains the emotional force of dreams — and underscores that dreaming is emotional processing in action, giving psychological frameworks (like Jung's and Freud's) a biological foundation.
 
-Hippocampal activity during REM underscores that dreams are closely tied to memory work — and that the symbols that appear are often linked to current life experiences.
+Hippocampal activity during REM underscores that dreams are closely tied to memory work — and that the symbols that appear are often linked to current life experiences. Read more about what research and psychology say about the meaning of dreams in the guide [what are dreams?](/en/guides/what-are-dreams/)
 
-## The takeaway
+## A different kind of activated brain
 
 The neurological basis of dreaming is well mapped and deeply fascinating:
 

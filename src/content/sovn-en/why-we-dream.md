@@ -11,9 +11,12 @@ bilde: /bilder/sovn/hvorfor-drommer-vi.jpg
 nb_slug: hvorfor-drommer-vi
 sv_slug: varfor-drommer-vi
 relaterte_sovn:
+  - sleep-stages
   - what-is-sleep
-  - dreams-and-the-brain
-  - famous-dreams
+  - sleep-hygiene
+relaterte_guider:
+  - what-are-dreams
+  - dream-journal
 relaterte_drommer:
   - snake
   - flying
@@ -61,7 +64,7 @@ Finnish sleep researcher Antti Revonsuo proposed an interesting evolutionary exp
 
 Studies of dream content show that negative, threatening, and stressful scenarios are heavily overrepresented compared to actual everyday experience — we dream far more about being chased, endangered, and losing things than about mundane routine. Revonsuo argues this isn't random: dreams train the brain's response patterns for crisis situations in a safe, simulated environment.
 
-This also explains why being chased in a dream is one of the most universal dream experiences across cultures.
+This also explains why being [chased](/en/dreams/being-chased/) in a dream is one of the most universal dream experiences across cultures.
 
 ### Activation-synthesis (Hobson and McCarley)
 
@@ -79,6 +82,8 @@ Jung believed dreams communicated something from the unconscious too, but that t
 
 Modern neuroscience doesn't confirm Freud's specific theories about sexual symbolism or wish fulfillment, but what it does confirm — that the dreaming brain processes emotional and personal material in ways that are meaningful, not random — sits closer to Jung's broader framework than to a purely noise-based view.
 
+Want to dive deeper into the psychology of dreams? See our guide on [what dreams mean and how they're interpreted](/en/guides/what-are-dreams/).
+
 ## What dreams do — in summary
 
 The best explanations aren't mutually exclusive. Dreams likely do several things at once:
@@ -89,11 +94,13 @@ What's certain is that they aren't random. And they aren't unimportant.
 
 ## Can you influence what you dream about?
 
-To a limited degree. Intense engagement with a topic right before sleep increases the likelihood of dreaming about it. A method called Targeted Memory Reactivation — where memories are cued right at sleep onset — has, in experiments, increased the frequency of dreams about specific topics. And lucid dreamers, who are aware they're dreaming, can to some extent steer the dream's content.
+To a limited degree. Intense engagement with a topic right before sleep increases the likelihood of dreaming about it. A method called Targeted Memory Reactivation — where memories are cued right at sleep onset — has, in experiments, increased the frequency of dreams about specific topics. And [lucid dreamers](/en/guides/lucid-dreaming/), who are aware they're dreaming, can to some extent steer the dream's content.
+
+Read more about [lucid dreaming and techniques for achieving it](/en/guides/lucid-dreaming/).
 
 What we can't do — yet — is guarantee dream content. The brain decides for itself what's important enough to process.
 
-## The takeaway
+## No single answer, several real ones
 
 Research doesn't give a single answer to why we dream, but it offers several complementary explanations:
 

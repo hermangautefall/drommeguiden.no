@@ -9,6 +9,7 @@ bilde: /bilder/sovn/norrene-drommesagaer.jpg
 sv_slug: nordiska-dromsagor
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: norse-dream-sagas
 relaterte_sovn:
   - beroemte-drommer
   - hvorfor-drommer-vi

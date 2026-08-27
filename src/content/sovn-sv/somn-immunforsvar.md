@@ -2,6 +2,7 @@
 tittel: "Sömn och immunförsvaret — vad händer i kroppen medan du sover"
 slug: somn-immunforsvar
 nb_slug: sovn-immunforsvar
+en_slug: sleep-and-immunity
 seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Immunförsvaret är som mest aktivt medan du sover. Här är vad forskningen säger om sambandet mellan sömnkvalitet och kroppens förmåga att bekämpa sjukdom."

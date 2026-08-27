@@ -2,6 +2,7 @@
 tittel: "Polyfasisk sömn — fungerar det, och är det säkert?"
 slug: polyfasisk-somn
 nb_slug: polyfasisk-sovn
+en_slug: polyphasic-sleep
 seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Polyfasisk sömn lovar mer produktiv tid genom att dela sömnen i flera korta pass. Här är vad forskning faktiskt säger om det är hållbart och säkert."
@@ -40,7 +41,7 @@ Förespråkarna argumenterar för att kroppen genom anpassning kan lära sig att
 
 Det är inte helt fel. Det är dokumenterat att sömndepriverade individer faktiskt börjar gå snabbare in i REM. Men detta är en nödrespons från en stressad hjärna, inte en optimal anpassning.
 
-## Vad forskningen säger
+## Vad som händer när dygnet delas upp
 
 Det finns mycket begränsad kontrollerad forskning på långvarig polyfasisk sömn hos vuxna. Det som finns är inte uppmuntrande för de mest extrema varianterna:
 

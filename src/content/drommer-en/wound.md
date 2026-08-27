@@ -72,7 +72,7 @@ Wound symbolism is universal across human mythological thinking. The wounded her
 
 Jung used the phrase "the wounded self" for the psychic pain that arises during individuation — the encounter with the shadow, with suppressed parts of the self, with life's inevitable losses. Wounds in dreams are often markers of exactly these points of encounter.
 
-Folk-medical tradition in Norway — as in most cultures — distinguishes between a wound that heals and a wound that "lives." A wound that "lives" is one that has taken on a spiritual or emotional charge and won't heal with physical treatment alone. The wound in a dream often belongs to this category. A [scar](/en/dreams/scar/) is what's left once this kind of wound finally closes.
+Folk-medical tradition — in most cultures — distinguishes between a wound that heals and a wound that "lives." A wound that "lives" is one that has taken on a spiritual or emotional charge and won't heal with physical treatment alone. The wound in a dream often belongs to this category. A [scar](/en/dreams/scar/) is what's left once this kind of wound finally closes.
 
 ## Sources and further reading
 

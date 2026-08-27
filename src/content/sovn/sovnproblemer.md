@@ -9,6 +9,7 @@ dato: 2026-03-18
 oppdatert: 2026-06-13
 bilde: /bilder/sovn/sovnproblemer.jpg
 sv_slug: somnproblem
+en_slug: insomnia
 relaterte_sovn:
   - sovnhygiene
   - angst-sovn

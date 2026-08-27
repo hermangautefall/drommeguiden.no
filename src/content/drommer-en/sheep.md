@@ -37,7 +37,7 @@ The sheep is a gentle and vulnerable animal — it doesn't attack, it doesn't de
 
 ### Calm and a natural rhythm
 
-In a Norwegian context, the sheep is tied to the mountains and to the seasonal rhythm of pasture life — a slow, natural cycle where you follow the grazing and the seasons. The sheep in your dream can carry a calmer, more positive weight: a reminder of the simple, the modest, the unhurried. See also [cow](/en/dreams/cow/) for a similar symbol of the grounded and nourishing.
+In upland farming country the sheep is tied to the mountains and to the seasonal rhythm of pasture life — a slow, natural cycle where you follow the grazing and the seasons. The sheep in your dream can carry a calmer, more positive weight: a reminder of the simple, the modest, the unhurried. See also [cow](/en/dreams/cow/) for a similar symbol of the grounded and nourishing.
 
 ## The role you played in the flock
 
@@ -45,7 +45,7 @@ If the sheep were grazing peacefully in the dream, it's usually a sign of calm, 
 
 ## The shepherd, the flock, and the one who strays
 
-"The good shepherd" is one of the strongest Christian images of care and leadership — and it's precisely because the sheep needs herding and protection that this image carries its meaning. In Norwegian cultural history, sheep farming runs deep: the mountain pastures, the wool spun into homespun cloth, the lamb at holiday feasts. The sheep isn't exotic — it's old-fashioned and familiar, among the most Norwegian things there is.
+"The good shepherd" is one of the strongest Christian images of care and leadership — and it's precisely because the sheep needs herding and protection that this image carries its meaning. Across northern Europe, sheep farming runs deep in cultural memory: the mountain pastures, the wool spun into cloth at home, the lamb at holiday feasts. The sheep isn't exotic. It's old-fashioned and familiar, and that ordinariness is part of what the symbol carries.
 
 Jung would likely have seen the sheep as a representation of the collective Persona — the part of us that adapts to the norm and the flock, that doesn't stand out. Necessary, but not sufficient for a full life.
 

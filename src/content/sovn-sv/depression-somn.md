@@ -2,6 +2,7 @@
 tittel: "Depression och sömn — sambandet, spiralen och vägen ut"
 slug: depression-somn
 nb_slug: depresjon-sovn
+en_slug: depression-and-sleep
 seksjon: sovn
 kategori: psykologi
 kortbeskrivelse: "Depression och sömnproblem är djupt sammanflätade — och båda förvärrar varandra. Här är mekanismerna, drömmarnas roll och vad som faktiskt kan hjälpa."

@@ -9,6 +9,7 @@ dato: 2026-03-18
 oppdatert: 2026-06-13
 bilde: /bilder/sovn/sovnhygiene.jpg
 sv_slug: somnhygien
+en_slug: sleep-hygiene
 relaterte_sovn:
   - sovnproblemer
   - soverom-sovn

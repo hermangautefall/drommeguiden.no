@@ -69,7 +69,7 @@ Something deep and significant is taking place — a transition, a marking of so
 
 Jung was drawn to dance as one of the oldest archetypal forms of expression — the body's natural response to rhythm and life force. He described dance in dreams as a sign that libido, in the broad sense of life energy, is free and in motion — the opposite of stagnation.
 
-In Norwegian and Nordic folk tradition, dance has been present from the oldest rituals, tied to community, celebration, and abundance. Dreaming about dance touches something of this collective joy of the body in free movement.
+In Nordic folk tradition, dance has been present from the oldest rituals, tied to community, celebration, and abundance. Dreaming about dance touches something of this collective joy of the body in free movement.
 
 ## Sources and further reading
 

@@ -9,6 +9,7 @@ bilde: /bilder/sovn/beroemte-drommer.jpg
 sv_slug: beromda-drommar
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: famous-dreams
 relaterte_sovn:
   - hvorfor-drommer-vi
   - drommer-og-hjernen

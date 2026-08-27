@@ -7,6 +7,7 @@ kortbeskrivelse: "Soveromsmiljøet påvirker søvnkvaliteten mer enn de fleste t
 leseminutter: 8
 bilde: /bilder/sovn/soverom-sovn.jpg
 sv_slug: sovrum-somn
+en_slug: bedroom-and-sleep
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:

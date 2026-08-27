@@ -7,6 +7,7 @@ kortbeskrivelse: "Tenåringer sover ikke sent av latskap — biologi tvinger dem
 leseminutter: 8
 bilde: /bilder/sovn/tenaring-sovn.jpg
 sv_slug: tonaring-somn
+en_slug: teenagers-and-sleep
 dato: 2026-03-18
 oppdatert: 2026-06-13
 relaterte_sovn:
@@ -52,7 +53,7 @@ Den biologisk forsinkede søvnfasen forsterkes av skjermbruk. Tenåringer er de 
 
 Det skaper en dobbelt effekt: biologi og atferd trekker i samme retning, og sengelegging forskyves stadig later.
 
-## Hva som faktisk hjelper
+## Tiltak som virker for en tenåringsdøgnrytme
 
 **Morgenlys er viktigere enn kveldsstenging.** Å beordre tenåringen til å legge bort telefonen kl. 21:00 er nyttig, men ikke tilstrekkelig. Det effektive tillegget er sterkt morgenlys så tidlig som mulig — det er det kraftigste signalet for å forskyve den biologiske klokken tidligere.
 

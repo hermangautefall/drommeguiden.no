@@ -11,8 +11,12 @@ bilde: /bilder/sovn/depresjon-sovn.jpg
 nb_slug: depresjon-sovn
 sv_slug: depression-somn
 relaterte_sovn:
+  - insomnia
   - anxiety-and-sleep
-  - ptsd-and-dreams
+  - sleep-hygiene
+relaterte_guider:
+  - stress-and-dreams
+  - nightmares
 relaterte_drommer:
   - loneliness
   - hell
@@ -43,7 +47,7 @@ Dreaming during depression is clinically interesting and well described in sleep
 
 The shortened REM latency means emotionally charged dream material gets processed in the first hours of sleep — when sleep would normally be dominated by deep, restorative sleep instead. That produces nights that start with intense emotional processing rather than rest.
 
-Dream content during depression is typically marked by negative emotion, adversity, loss, and helplessness. Dark symbols show up consistently. That's not surprising — dreams process whatever emotional material is active.
+Dream content during depression is typically marked by negative emotion, adversity, loss, and helplessness. Dark symbols show up consistently — see the symbol page for [hell](/en/dreams/hell/) and the guide on [stress and dreams](/en/guides/stress-and-dreams/) for more on dark dream symbols in a psychological context. That's not surprising — dreams process whatever emotional material is active.
 
 One striking observation: some studies find that the more emotionally active the dream material is during depression, the better the prognosis tends to be. That may indicate the brain is actively processing the condition rather than shutting it out — a better starting point for recovery.
 
@@ -57,13 +61,13 @@ The relationship isn't just one-way damage. Treating sleep problems can have a d
 
 **Antidepressants and sleep.** Many antidepressants affect sleep — some positively, some negatively at first. SSRIs often markedly suppress REM sleep in the early stages of treatment, which can produce noticeable changes in dreaming (fewer or more intense dreams). This is expected and a normal part of treatment.
 
-## An important clarification
+## Where this information ends and medical care begins
 
 This article is informational, not diagnostic or therapeutic. If you recognize yourself in what's described here — serious sleep disruption combined with persistent low mood, loss of interest, low energy, or feelings of hopelessness — it's worth seeing a doctor.
 
 Depression is a treatable condition, and treating sleep is part of effective treatment.
 
-## The takeaway
+## A spiral that can be treated from either side
 
 Depression and sleep are deeply intertwined in a self-reinforcing spiral:
 

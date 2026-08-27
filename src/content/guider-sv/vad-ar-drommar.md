@@ -2,6 +2,7 @@
 tittel: "Vad är drömmar? Det vetenskapen faktiskt säger"
 slug: vad-ar-drommar
 nb_slug: hva-er-drommer
+en_slug: what-are-dreams
 kortbeskrivelse: "Vad händer egentligen när vi drömmer? Utforska sömnfaser, REM-sömn, Freud och Jung — och vad modern neurovetenskap säger om drömmarnas viktiga funktion."
 leseminutter: 8
 dato: 2026-03-18

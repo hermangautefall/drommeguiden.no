@@ -2,6 +2,7 @@
 tittel: "Sömnproblem och insomni — orsaker, typer och behandling"
 slug: somnproblem
 nb_slug: sovnproblemer
+en_slug: insomnia
 seksjon: sovn
 kategori: lidelser
 kortbeskrivelse: "Ungefär en av tre svenskar kämpar med sömnen. Här är vad sömnproblem egentligen är, vad som orsakar dem, och vad forskning säger fungerar för att behandla dem."

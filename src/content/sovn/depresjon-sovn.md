@@ -9,6 +9,7 @@ bilde: /bilder/sovn/depresjon-sovn.jpg
 sv_slug: depression-somn
 dato: 2026-03-18
 oppdatert: 2026-06-13
+en_slug: depression-and-sleep
 relaterte_sovn:
   - sovnproblemer
   - angst-sovn

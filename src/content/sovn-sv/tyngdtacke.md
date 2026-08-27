@@ -2,6 +2,7 @@
 tittel: "Tyngdtäcke — vad det är, vem det hjälper, och vad du bör välja?"
 slug: tyngdtacke
 nb_slug: vektet-teppe
+en_slug: weighted-blankets
 seksjon: sovn
 kategori: produkter
 kortbeskrivelse: "Tyngdtäcke har blivit populärt som sömnhjälpmedel — men vad säger forskning, vem hjälper det faktiskt, och vad bör du leta efter när du väljer?"

@@ -12,6 +12,8 @@ tolkninger_kort:
   - "En forvandling foregår under overflaten av bevisstheten"
   - "Noe som ødelegger langsomt — en giftig situasjon eller tanke"
 bilde: /bilder/symboler/orm.jpg
+sv_slug: mask
+en_slug: worm
 dato: 2026-03-18
 oppdatert: 2026-08-21
 author: 'default'

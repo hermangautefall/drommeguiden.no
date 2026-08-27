@@ -6,6 +6,8 @@ leseminutter: 8
 dato: 2026-08-25
 oppdatert: 2026-08-25
 bilde: /bilder/symboler/fjord.jpg
+sv_slug: nordiska-dromsymboler
+en_slug: nordic-dream-symbols
 ---
 
 ## Hvorfor en norsk drømmeguide ikke kan være en oversatt drømmeguide

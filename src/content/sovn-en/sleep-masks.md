@@ -14,6 +14,10 @@ author: 'default'
 relaterte_sovn:
   - bedroom-and-sleep
   - sleep-hygiene
+  - melatonin
+relaterte_guider:
+  - sleep-paralysis
+  - what-are-dreams
 ---
 
 Getting complete darkness during sleep takes real effort for a lot of people — streetlights, long summer daylight, screens left on standby all work against it.

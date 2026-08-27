@@ -3,7 +3,7 @@ tittel: "Caffeine and sleep — how coffee is affecting your night"
 slug: caffeine-and-sleep
 seksjon: sovn
 kategori: hygiene
-kortbeskrivelse: "Caffeine is the world's most widely used psychoactive substance, and one of the most common sleep thieves. Here's the mechanism, the half-life, and what to change."
+kortbeskrivelse: "Caffeine is the world's most widely used psychoactive substance, and a common sleep thief. Here's the mechanism, the half-life, and what to change."
 leseminutter: 7
 dato: 2026-03-18
 oppdatert: 2026-08-25
@@ -11,7 +11,13 @@ bilde: /bilder/sovn/koffein-sovn.jpg
 nb_slug: koffein-sovn
 sv_slug: koffein-somn
 relaterte_sovn:
+  - sleep-hygiene
+  - sleep-stages
+  - insomnia
   - alcohol-and-sleep
+relaterte_guider:
+  - stress-and-dreams
+  - what-are-dreams
 relaterte_drommer:
   - alcohol
 author: 'default'
@@ -74,7 +80,7 @@ Many people who cut coffee after 2 p.m. report that after a few weeks, they star
 
 **Taper gradually.** Quitting abruptly causes headaches and fatigue for two to four days — that's adenosine rebound. Reducing gradually over one to two weeks is easier to sustain.
 
-## The takeaway
+## Respecting the half-life
 
 Caffeine is an effective sleep thief because its half-life is much longer than most people think:
 

@@ -2,6 +2,7 @@
 tittel: "Berömda drömmar i historien — från Kekulé till Lincoln"
 slug: beromda-drommar
 nb_slug: beroemte-drommer
+en_slug: famous-dreams
 seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Några av historiens viktigaste upptäckter och beslut har blivit till i drömmarna. Här är de mest fascinerande dokumenterade fallen — och vad de kan lära oss."

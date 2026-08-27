@@ -73,7 +73,7 @@ It's worth remembering that colour symbolism varies. In Western tradition, white
 
 What do the colours mean to you, in your own cultural background and your personal life story?
 
-## Practical advice
+## Tracking colour in your own dream journal
 
 When you note your dreams in a [dream journal](/en/guides/dream-journal/), always record colours that felt especially intense or unusual. Over time, you'll notice patterns: maybe red always shows up during stressful periods, or blue during calmer ones. Your personal colour associations matter just as much as the cultural ones.
 
