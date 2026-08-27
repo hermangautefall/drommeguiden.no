@@ -51,6 +51,7 @@ export const pathSegments = {
     personvern: 'personvern',
     vilkar: 'vilkar',
     cookies: 'cookies',
+    journal: 'journal',
   },
   sv: {
     drommer: 'drommar',
@@ -62,6 +63,7 @@ export const pathSegments = {
     personvern: 'integritet',
     vilkar: 'villkor',
     cookies: 'cookies',
+    journal: 'journal',
   },
   en: {
     drommer: 'dreams',
@@ -73,5 +75,6 @@ export const pathSegments = {
     personvern: 'privacy',
     vilkar: 'terms',
     cookies: 'cookies',
+    journal: 'journal',
   },
 } as const;

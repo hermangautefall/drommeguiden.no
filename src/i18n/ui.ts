@@ -10,6 +10,7 @@ export const ui = {
     'nav.kontakt': 'Kontakt',
     'nav.personvern': 'Personvern',
     'nav.vilkar': 'Vilkår',
+    'nav.journal': 'Drømmejournal',
 
     'cta.utforskSymboler': 'Utforsk symboler',
     'cta.lesMer': 'Les mer',
@@ -63,6 +64,7 @@ export const ui = {
     'nav.kontakt': 'Kontakt',
     'nav.personvern': 'Integritet',
     'nav.vilkar': 'Villkor',
+    'nav.journal': 'Drömjournal',
 
     'cta.utforskSymboler': 'Utforska symboler',
     'cta.lesMer': 'Läs mer',
@@ -116,6 +118,7 @@ export const ui = {
     'nav.kontakt': 'Contact',
     'nav.personvern': 'Privacy',
     'nav.vilkar': 'Terms',
+    'nav.journal': 'Dream journal',
 
     'cta.utforskSymboler': 'Explore symbols',
     'cta.lesMer': 'Read more',

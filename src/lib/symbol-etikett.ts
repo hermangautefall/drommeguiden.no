@@ -24,6 +24,14 @@ const HODE: Record<Lang, RegExp> = {
   en: /^Dreaming (?:of|about) |^Dream about /,
 };
 
+/**
+ * Engelsk trenger ett steg til. Titlene heter «Dreaming of a beach», og naar
+ * bare «Dreaming of » fjernes blir etiketten «A beach». 95 av 215 engelske
+ * symboler starter slik, saa bade brikkene og enhver alfabetisk liste klumper
+ * seg under A. Artikkelen sier ingenting i en etikett, og fjernes.
+ */
+const ARTIKKEL_EN = /^(?:a|an|the) (?=\S)/i;
+
 /** Titler som ikke følger standardmønsteret, og som blir klumpete uten hjelp. */
 const OVERSTYR: Record<Lang, Record<string, string>> = {
   nb: {
@@ -68,9 +76,10 @@ export function symbolEtiketter(lang: Lang): Map<string, string> {
       }
       const rå = readFileSync(`./src/content/${MAPPE[lang]}/${fil}`, 'utf8');
       const t = rå.match(/^tittel: *"(.+)"$/m)?.[1];
-      const etikett = t
+      let etikett = t
         ? t.replace(HALE[lang], '').replace(HODE[lang], '')
         : slug.replace(/-/g, ' ');
+      if (lang === 'en') etikett = etikett.replace(ARTIKKEL_EN, '');
       m.set(slug, storForbokstav(etikett));
     }
   } catch {

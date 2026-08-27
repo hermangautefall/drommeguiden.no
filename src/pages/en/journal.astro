@@ -1,0 +1,115 @@
+---
+import Base from '../../layouts/Base.astro';
+import Drommejournal from '../../components/Drommejournal.astro';
+import { alternatesFor } from '../../lib/statiske-alternates';
+---
+
+<Base
+  lang="en"
+  tittel="Dream journal"
+  beskrivelse="A simple dream journal to write in each morning. Note the dream, tag the symbols and watch the patterns emerge. Everything stays in your own browser."
+  alternates={alternatesFor('journal')}
+>
+  <div class="journal-side">
+    <span class="static-label">Tool</span>
+    <h1 class="static-title">Dream journal</h1>
+
+    <div class="prose journal-intro">
+      <p>
+        What you remember of a dream disappears quickly. The first few minutes after waking are
+        usually the only ones you get — by breakfast there is rarely more than a mood left. That
+        is why a journal is the simplest and most effective thing you can do if you want to
+        understand your dreams better: not because writing interprets anything by itself, but
+        because it gives you something to interpret.
+      </p>
+      <p>
+        What makes a journal worth the effort is not the individual dream. It is what comes back.
+        A symbol you dismissed as coincidence the first time turns out to have appeared eight
+        times in two months. A feeling you associate with nightmares turns out to belong to an
+        entirely different kind of dream. Patterns that are invisible night by night become
+        obvious once they sit underneath one another.
+      </p>
+    </div>
+
+    <Drommejournal lang="en" />
+
+    <div class="prose journal-rad">
+      <h2>Getting the most out of the journal</h2>
+      <p>
+        <strong>Write before you do anything else.</strong> Don't check your phone, don't get up.
+        Dream recall fades fast from the moment you start engaging with the day. If all you have
+        is three words, write the three.
+      </p>
+      <p>
+        <strong>Write in the present tense.</strong> "I'm standing in a hallway and the door is
+        locked" pulls up more than "I dreamt I was standing in a hallway". The present tense keeps
+        you inside the scene, and the details come more easily.
+      </p>
+      <p>
+        <strong>Record the feeling, not just the events.</strong> Two people can dream almost the
+        same sequence of events and wake for completely different reasons. How you feel on waking
+        is often the best clue to what the dream was about — and it is also the first thing you
+        forget.
+      </p>
+      <p>
+        <strong>Tag the symbols, but don't interpret straight away.</strong> The tagging exists so
+        that you can count later. Interpretation can wait until you have fifteen entries and can
+        actually see what repeats.
+      </p>
+      <p>
+        <strong>Don't write every night.</strong> Most people who try to journal daily give up
+        within a fortnight. Three mornings a week for six months will tell you far more than
+        fourteen days in a row.
+      </p>
+
+      <h2>Privacy and storage</h2>
+      <p>
+        The journal lives entirely in your browser, in something called localStorage. Nothing is
+        sent to us, nothing is stored on a server, and we have no way of reading what you write.
+        That also means the journal belongs to this browser on this device: it won't follow you to
+        your phone, and it disappears if you clear your browsing data or use private browsing.
+        That is what the download button is for — use it now and then.
+      </p>
+
+      <h2>Read on</h2>
+      <p>
+        If you want to go deeper into the method, we have a full guide to
+        <a href="/en/guides/dream-journal/">keeping a dream journal</a>, covering setup, common
+        pitfalls and what a journal can show you over time. If you struggle to remember your
+        dreams at all, <a href="/en/guides/what-are-dreams/">what dreams are</a> is a good place
+        to start. And if the same dream keeps returning,
+        <a href="/en/guides/recurring-dreams/">recurring dreams</a> was written for exactly that.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .journal-side {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 24px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+  .journal-intro { margin-bottom: 2.5rem; }
+  .journal-rad { margin-top: 3rem; }
+  .journal-rad h2 { margin-top: 2.5rem; }
+</style>

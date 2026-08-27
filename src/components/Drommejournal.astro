@@ -1,0 +1,1024 @@
+---
+import { defaultLang, type Lang } from '../i18n/config';
+import { pathFor } from '../i18n/utils';
+import { symbolEtiketter } from '../lib/symbol-etikett';
+
+interface Props {
+  lang?: Lang;
+}
+const { lang = defaultLang } = Astro.props;
+
+// Alle symboler med lesbar etikett — brukes til å merke en drøm.
+const etiketter = symbolEtiketter(lang);
+const symbolBase = pathFor(lang, 'drommer');
+const symboler = [...etiketter.entries()]
+  .map(([slug, navn]) => ({ s: slug, n: navn }))
+  .sort((a, b) => a.n.localeCompare(b.n, lang === 'en' ? 'en' : lang));
+
+const T: Record<Lang, Record<string, string>> = {
+  nb: {
+    nyTittel: 'Skriv ned en drøm',
+    datoLabel: 'Natten til',
+    tekstLabel: 'Hva drømte du?',
+    tekstPlaceholder: 'Skriv så mye eller så lite du vil. Detaljene du husker først, er ofte de som bærer mest.',
+    folelseLabel: 'Følelsen da du våknet',
+    folelseValg: 'Velg en følelse',
+    symbolLabel: 'Symboler i drømmen',
+    symbolHjelp: 'Søk og velg. Du kan legge til flere.',
+    symbolPlaceholder: 'Søk etter et symbol …',
+    lagre: 'Lagre i journalen',
+    lagret: 'Lagret',
+    minJournal: 'Min journal',
+    tom: 'Journalen er tom ennå. Skriv ned den første drømmen din ovenfor — det tar ett minutt, og det er der mønstrene begynner.',
+    slett: 'Slett',
+    bekreftSlett: 'Slette denne oppføringen? Den kan ikke hentes tilbake.',
+    monstre: 'Dine mønstre',
+    antall: 'drømmer logget',
+    mestBrukte: 'Symboler du drømmer oftest om',
+    folelsesfordeling: 'Følelsen når du våkner',
+    forLite: 'Logg noen drømmer til, så begynner mønstrene å vise seg her.',
+    eksport: 'Last ned journalen',
+    eksportert: 'Eksportert',
+    eksportHjelp: 'Alt ligger bare i denne nettleseren. Tømmer du nettleserdata, forsvinner journalen — så last den ned innimellom.',
+    personvern: 'Journalen din lagres bare i din egen nettleser. Ingenting sendes til oss, og vi kan ikke lese den.',
+    tidligere: 'Refleksjoner fra symbolsidene',
+    tidligereHjelp: 'Dette er notater du har lagret nederst på enkeltsymboler. De ligger her fordi de hører hjemme sammen med resten.',
+    lesMer: 'Les om symbolet',
+    ingenSymboler: 'Ingen symboler valgt',
+    fjern: 'Fjern',
+  },
+  sv: {
+    nyTittel: 'Skriv ner en dröm',
+    datoLabel: 'Natten till',
+    tekstLabel: 'Vad drömde du?',
+    tekstPlaceholder: 'Skriv så mycket eller så lite du vill. Detaljerna du minns först är ofta de som bär mest.',
+    folelseLabel: 'Känslan när du vaknade',
+    folelseValg: 'Välj en känsla',
+    symbolLabel: 'Symboler i drömmen',
+    symbolHjelp: 'Sök och välj. Du kan lägga till flera.',
+    symbolPlaceholder: 'Sök efter en symbol …',
+    lagre: 'Spara i journalen',
+    lagret: 'Sparad',
+    minJournal: 'Min journal',
+    tom: 'Journalen är tom ännu. Skriv ner din första dröm ovan — det tar en minut, och det är där mönstren börjar.',
+    slett: 'Radera',
+    bekreftSlett: 'Radera den här anteckningen? Den går inte att få tillbaka.',
+    monstre: 'Dina mönster',
+    antall: 'drömmar loggade',
+    mestBrukte: 'Symboler du drömmer oftast om',
+    folelsesfordeling: 'Känslan när du vaknar',
+    forLite: 'Logga några drömmar till, så börjar mönstren visa sig här.',
+    eksport: 'Ladda ner journalen',
+    eksportert: 'Exporterad',
+    eksportHjelp: 'Allt ligger bara i den här webbläsaren. Rensar du webbläsardata försvinner journalen — så ladda ner den då och då.',
+    personvern: 'Din journal sparas bara i din egen webbläsare. Ingenting skickas till oss, och vi kan inte läsa den.',
+    tidligere: 'Reflektioner från symbolsidorna',
+    tidligereHjelp: 'Det här är anteckningar du sparat längst ner på enskilda symboler. De ligger här för att de hör hemma tillsammans med resten.',
+    lesMer: 'Läs om symbolen',
+    ingenSymboler: 'Inga symboler valda',
+    fjern: 'Ta bort',
+  },
+  en: {
+    nyTittel: 'Write down a dream',
+    datoLabel: 'Night of',
+    tekstLabel: 'What did you dream?',
+    tekstPlaceholder: 'Write as much or as little as you like. The details you remember first are usually the ones carrying the most.',
+    folelseLabel: 'How you felt on waking',
+    folelseValg: 'Pick a feeling',
+    symbolLabel: 'Symbols in the dream',
+    symbolHjelp: 'Search and pick. You can add several.',
+    symbolPlaceholder: 'Search for a symbol …',
+    lagre: 'Save to journal',
+    lagret: 'Saved',
+    minJournal: 'My journal',
+    tom: 'The journal is empty so far. Write down your first dream above — it takes a minute, and it is where the patterns start.',
+    slett: 'Delete',
+    bekreftSlett: 'Delete this entry? It cannot be recovered.',
+    monstre: 'Your patterns',
+    antall: 'dreams logged',
+    mestBrukte: 'Symbols you dream about most',
+    folelsesfordeling: 'How you feel on waking',
+    forLite: 'Log a few more dreams and the patterns will start to show here.',
+    eksport: 'Download your journal',
+    eksportert: 'Exported',
+    eksportHjelp: 'Everything lives only in this browser. Clearing your browser data removes the journal — so download it now and then.',
+    personvern: 'Your journal is stored only in your own browser. Nothing is sent to us, and we cannot read it.',
+    tidligere: 'Reflections from the symbol pages',
+    tidligereHjelp: 'These are notes you saved at the bottom of individual symbols. They live here because they belong with the rest.',
+    lesMer: 'Read about the symbol',
+    ingenSymboler: 'No symbols selected',
+    fjern: 'Remove',
+  },
+};
+const t = T[lang] ?? T.nb;
+
+const FOLELSER: Record<Lang, { v: string; l: string }[]> = {
+  nb: [
+    { v: 'ro', l: 'Ro' }, { v: 'uro', l: 'Uro' }, { v: 'glede', l: 'Glede' },
+    { v: 'sorg', l: 'Sorg' }, { v: 'frykt', l: 'Frykt' }, { v: 'forvirring', l: 'Forvirring' },
+    { v: 'lettelse', l: 'Lettelse' }, { v: 'sinne', l: 'Sinne' }, { v: 'noytral', l: 'Nøytral' },
+  ],
+  sv: [
+    { v: 'ro', l: 'Ro' }, { v: 'uro', l: 'Oro' }, { v: 'glede', l: 'Glädje' },
+    { v: 'sorg', l: 'Sorg' }, { v: 'frykt', l: 'Rädsla' }, { v: 'forvirring', l: 'Förvirring' },
+    { v: 'lettelse', l: 'Lättnad' }, { v: 'sinne', l: 'Ilska' }, { v: 'noytral', l: 'Neutral' },
+  ],
+  en: [
+    { v: 'ro', l: 'Calm' }, { v: 'uro', l: 'Unease' }, { v: 'glede', l: 'Joy' },
+    { v: 'sorg', l: 'Sadness' }, { v: 'frykt', l: 'Fear' }, { v: 'forvirring', l: 'Confusion' },
+    { v: 'lettelse', l: 'Relief' }, { v: 'sinne', l: 'Anger' }, { v: 'noytral', l: 'Neutral' },
+  ],
+};
+const folelser = FOLELSER[lang] ?? FOLELSER.nb;
+const dateLocale: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB' };
+---
+
+<div
+  class="dj"
+  data-dj
+  data-lang={lang}
+  data-locale={dateLocale[lang] ?? 'nb-NO'}
+  data-symbolbase={symbolBase}
+  data-symboler={JSON.stringify(symboler)}
+  data-folelser={JSON.stringify(folelser)}
+  data-tekst={JSON.stringify(t)}
+>
+  <!-- Ny oppføring -->
+  <section class="dj-card dj-ny">
+    <h2 class="dj-h2">{t.nyTittel}</h2>
+
+    <div class="dj-rad">
+      <label class="dj-felt dj-felt-dato">
+        <span class="dj-label">{t.datoLabel}</span>
+        <input type="date" data-dj-dato class="dj-input" />
+      </label>
+      <label class="dj-felt">
+        <span class="dj-label">{t.folelseLabel}</span>
+        <select data-dj-folelse class="dj-input">
+          <option value="">{t.folelseValg}</option>
+          {folelser.map(f => <option value={f.v}>{f.l}</option>)}
+        </select>
+      </label>
+    </div>
+
+    <label class="dj-felt">
+      <span class="dj-label">{t.tekstLabel}</span>
+      <textarea data-dj-tekst class="dj-input dj-textarea" rows="6" placeholder={t.tekstPlaceholder}></textarea>
+    </label>
+
+    <div class="dj-felt">
+      <span class="dj-label">{t.symbolLabel}</span>
+      <span class="dj-hjelp">{t.symbolHjelp}</span>
+      <input type="text" data-dj-symbolsok class="dj-input" placeholder={t.symbolPlaceholder} autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list" />
+      <ul class="dj-forslag" data-dj-forslag hidden></ul>
+      <div class="dj-merker" data-dj-merker></div>
+    </div>
+
+    <div class="dj-lagrerad">
+      <button type="button" class="dj-knapp" data-dj-lagre>{t.lagre}</button>
+      <span class="dj-lagret" data-dj-lagret hidden>{t.lagret}</span>
+    </div>
+    <p class="dj-personvern">{t.personvern}</p>
+  </section>
+
+  <!-- Mønstre -->
+  <section class="dj-card dj-monstre" data-dj-monstre hidden>
+    <h2 class="dj-h2">{t.monstre}</h2>
+    <div data-dj-monstre-innhold></div>
+  </section>
+
+  <!-- Journalen -->
+  <section class="dj-liste-seksjon">
+    <div class="dj-liste-topp">
+      <h2 class="dj-h2">{t.minJournal}</h2>
+      <button type="button" class="dj-knapp dj-knapp-sekundar" data-dj-eksport hidden>{t.eksport}</button>
+    </div>
+    <p class="dj-hjelp dj-eksporthjelp" data-dj-eksporthjelp hidden>{t.eksportHjelp}</p>
+    <div data-dj-liste></div>
+  </section>
+
+  <!-- Refleksjoner fra symbolsidene -->
+  <section class="dj-card dj-tidligere" data-dj-tidligere hidden>
+    <h2 class="dj-h2">{t.tidligere}</h2>
+    <p class="dj-hjelp">{t.tidligereHjelp}</p>
+    <div data-dj-tidligere-liste></div>
+  </section>
+</div>
+
+<!--
+  Maa vaere is:global: journaloppforingene bygges i nettleseren og faar derfor
+  ingen data-astro-cid-attributt. Alt er navnerommet under .dj slik at det ikke
+  lekker ut i resten av siden.
+-->
+<style is:global>
+  .dj {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+  }
+  .dj-card {
+    background: var(--color-card);
+    border: 1px solid var(--color-line);
+    border-radius: 12px;
+    padding: 1.75rem;
+    box-shadow: 0 2px 12px rgba(26, 31, 58, 0.05);
+  }
+  .dj-h2 {
+    font-family: var(--font-heading);
+    font-size: 1.6rem;
+    line-height: 1.2;
+    color: var(--color-text-heading);
+    margin: 0 0 1.25rem;
+  }
+  .dj-rad {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+  .dj-felt {
+    display: block;
+    margin-bottom: 1.25rem;
+  }
+  .dj-rad .dj-felt {
+    margin-bottom: 1.25rem;
+  }
+  .dj-label {
+    display: block;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-text-heading);
+    margin-bottom: 0.4rem;
+  }
+  .dj-hjelp {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+  }
+  .dj-input {
+    width: 100%;
+    font-family: inherit;
+    font-size: 1rem;
+    color: var(--color-text);
+    background: var(--color-bg-cream);
+    border: 1px solid var(--color-line);
+    border-radius: 8px;
+    padding: 0.65rem 0.8rem;
+  }
+  .dj-input:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 1px;
+  }
+  .dj-textarea {
+    resize: vertical;
+    min-height: 8rem;
+    line-height: 1.65;
+  }
+  .dj-forslag {
+    list-style: none;
+    margin: 0.35rem 0 0;
+    padding: 0.25rem;
+    max-height: 15rem;
+    overflow-y: auto;
+    background: var(--color-bg-cream);
+    border: 1px solid var(--color-line);
+    border-radius: 8px;
+  }
+  .dj-forslag li {
+    margin: 0;
+  }
+  .dj-forslag button {
+    display: block;
+    width: 100%;
+    text-align: left;
+    font: inherit;
+    font-size: 0.95rem;
+    color: var(--color-text);
+    background: none;
+    border: 0;
+    border-radius: 6px;
+    padding: 0.45rem 0.6rem;
+    cursor: pointer;
+  }
+  .dj-forslag button:hover,
+  .dj-forslag button:focus-visible {
+    background: var(--color-sand, #e8e0d4);
+    outline: none;
+  }
+  .dj-merker {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.65rem;
+  }
+  .dj-merke {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    color: var(--color-text-heading);
+    background: var(--color-bg-cream);
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    padding: 0.25rem 0.35rem 0.25rem 0.7rem;
+  }
+  .dj-merke button {
+    font: inherit;
+    line-height: 1;
+    color: var(--color-text-muted);
+    background: none;
+    border: 0;
+    border-radius: 50%;
+    width: 1.25rem;
+    height: 1.25rem;
+    cursor: pointer;
+  }
+  .dj-merke button:hover {
+    color: var(--color-primary);
+  }
+  .dj-lagrerad {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .dj-knapp {
+    font-family: var(--font-nav, inherit);
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--color-bg-cream);
+    background: var(--color-primary);
+    border: 1px solid var(--color-primary);
+    border-radius: 8px;
+    padding: 0.65rem 1.4rem;
+    cursor: pointer;
+  }
+  .dj-knapp:hover {
+    filter: brightness(0.94);
+  }
+  .dj-knapp-sekundar {
+    color: var(--color-primary);
+    background: none;
+  }
+  .dj-knapp-sekundar:hover {
+    background: var(--color-card);
+    filter: none;
+  }
+  .dj-knapp[disabled] {
+    opacity: 0.5;
+    cursor: default;
+  }
+  .dj-lagret {
+    font-size: 0.9rem;
+    color: var(--color-primary);
+  }
+  .dj-personvern {
+    font-size: 0.85rem;
+    line-height: 1.55;
+    color: var(--color-text-muted);
+    margin: 1.25rem 0 0;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-line);
+  }
+  .dj-liste-topp {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .dj-liste-topp .dj-h2 {
+    margin-bottom: 0.75rem;
+  }
+  .dj-eksporthjelp {
+    margin-bottom: 1.25rem;
+  }
+  .dj-tom {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+    background: var(--color-card);
+    border: 1px dashed var(--color-line);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 0;
+  }
+  .dj-oppforing {
+    background: var(--color-card);
+    border: 1px solid var(--color-line);
+    border-left: 3px solid var(--color-primary);
+    border-radius: 12px;
+    padding: 1.35rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .dj-opp-topp {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.6rem;
+  }
+  .dj-dato {
+    font-family: var(--font-heading);
+    font-size: 1.15rem;
+    color: var(--color-text-heading);
+  }
+  .dj-slett {
+    font: inherit;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  .dj-slett:hover {
+    color: var(--color-primary);
+  }
+  .dj-folelse {
+    display: inline-block;
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 0.6rem;
+  }
+  .dj-opp-tekst {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--color-text);
+    margin: 0 0 0.85rem;
+    white-space: pre-wrap;
+  }
+  .dj-opp-symboler {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .dj-opp-symboler a {
+    font-size: 0.85rem;
+    color: var(--color-primary);
+    background: var(--color-bg-cream);
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    padding: 0.25rem 0.7rem;
+    text-decoration: none;
+  }
+  .dj-opp-symboler a:hover {
+    text-decoration: underline;
+  }
+  .dj-tall {
+    font-family: var(--font-heading);
+    font-size: 2.75rem;
+    line-height: 1;
+    color: var(--color-primary);
+    display: block;
+  }
+  .dj-tall-etikett {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+  .dj-monster-blokk {
+    margin-top: 1.5rem;
+  }
+  .dj-monster-blokk h3 {
+    font-family: var(--font-heading);
+    font-size: 1.15rem;
+    color: var(--color-text-heading);
+    margin: 0 0 0.75rem;
+  }
+  .dj-stolpe {
+    display: grid;
+    grid-template-columns: minmax(6rem, 9rem) 1fr auto;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+  }
+  .dj-stolpe a,
+  .dj-stolpe span:first-child {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+  .dj-stolpe a:hover {
+    text-decoration: underline;
+    color: var(--color-primary);
+  }
+  .dj-stolpe-spor {
+    height: 0.55rem;
+    background: var(--color-bg-cream);
+    border-radius: 999px;
+    overflow: hidden;
+  }
+  .dj-stolpe-fyll {
+    display: block;
+    height: 100%;
+    background: var(--color-primary);
+    border-radius: 999px;
+  }
+  .dj-stolpe-tall {
+    color: var(--color-text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .dj-refleksjon {
+    border-top: 1px solid var(--color-line);
+    padding-top: 1rem;
+    margin-top: 1rem;
+  }
+  .dj-refleksjon:first-of-type {
+    border-top: 0;
+    padding-top: 0;
+    margin-top: 0;
+  }
+  .dj-refleksjon-topp {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.4rem;
+  }
+  .dj-refleksjon-topp a {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    color: var(--color-text-heading);
+    text-decoration: none;
+  }
+  .dj-refleksjon-topp a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+  .dj-refleksjon-topp time {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+  .dj-refleksjon p {
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: var(--color-text);
+    margin: 0 0 0.35rem;
+    white-space: pre-wrap;
+  }
+  @media (max-width: 600px) {
+    .dj-card {
+      padding: 1.25rem;
+    }
+    .dj-rad {
+      grid-template-columns: 1fr;
+      gap: 0;
+    }
+    .dj-stolpe {
+      grid-template-columns: minmax(5rem, 7rem) 1fr auto;
+    }
+  }
+</style>
+
+<script>
+  (function () {
+    const rot = document.querySelector('[data-dj]');
+    if (!rot) return;
+
+    const lang = rot.dataset.lang || 'nb';
+    const locale = rot.dataset.locale || 'nb-NO';
+    const symbolBase = rot.dataset.symbolbase || '/drommer/';
+    const t = JSON.parse(rot.dataset.tekst || '{}');
+    const symboler = JSON.parse(rot.dataset.symboler || '[]');
+    const folelser = JSON.parse(rot.dataset.folelser || '[]');
+
+    const NOKKEL = 'drommejournal:v1:' + lang;
+    const etikett = new Map(symboler.map((s) => [s.s, s.n]));
+    const folelseNavn = new Map(folelser.map((f) => [f.v, f.l]));
+
+    const el = {
+      dato: rot.querySelector('[data-dj-dato]'),
+      folelse: rot.querySelector('[data-dj-folelse]'),
+      tekst: rot.querySelector('[data-dj-tekst]'),
+      sok: rot.querySelector('[data-dj-symbolsok]'),
+      forslag: rot.querySelector('[data-dj-forslag]'),
+      merker: rot.querySelector('[data-dj-merker]'),
+      lagre: rot.querySelector('[data-dj-lagre]'),
+      lagret: rot.querySelector('[data-dj-lagret]'),
+      liste: rot.querySelector('[data-dj-liste]'),
+      eksport: rot.querySelector('[data-dj-eksport]'),
+      eksportHjelp: rot.querySelector('[data-dj-eksporthjelp]'),
+      monstre: rot.querySelector('[data-dj-monstre]'),
+      monstreInnhold: rot.querySelector('[data-dj-monstre-innhold]'),
+      tidligere: rot.querySelector('[data-dj-tidligere]'),
+      tidligereListe: rot.querySelector('[data-dj-tidligere-liste]'),
+    };
+
+    let valgte = [];
+
+    /* ---------- lagring ---------- */
+
+    function les() {
+      try {
+        const rå = localStorage.getItem(NOKKEL);
+        if (!rå) return [];
+        const data = JSON.parse(rå);
+        return Array.isArray(data) ? data : [];
+      } catch (e) {
+        return [];
+      }
+    }
+
+    function skriv(oppforinger) {
+      try {
+        localStorage.setItem(NOKKEL, JSON.stringify(oppforinger));
+        return true;
+      } catch (e) {
+        return false;
+      }
+    }
+
+    /* ---------- hjelpere ---------- */
+
+    function iDag() {
+      const n = new Date();
+      const m = new Date(n.getTime() - n.getTimezoneOffset() * 60000);
+      return m.toISOString().slice(0, 10);
+    }
+
+    function visDato(iso) {
+      const d = new Date(iso + 'T12:00:00');
+      if (isNaN(d.getTime())) return iso;
+      try {
+        return d.toLocaleDateString(locale, { day: 'numeric', month: 'long', year: 'numeric' });
+      } catch (e) {
+        return iso;
+      }
+    }
+
+    function lag(tag, klasse, tekst) {
+      const n = document.createElement(tag);
+      if (klasse) n.className = klasse;
+      if (tekst != null) n.textContent = tekst;
+      return n;
+    }
+
+    /* ---------- symbolvelger ---------- */
+
+    function tegnMerker() {
+      el.merker.textContent = '';
+      valgte.forEach((slug) => {
+        const chip = lag('span', 'dj-merke');
+        chip.appendChild(document.createTextNode(etikett.get(slug) || slug));
+        const fjern = lag('button', null, '×');
+        fjern.type = 'button';
+        fjern.setAttribute('aria-label', t.fjern + ': ' + (etikett.get(slug) || slug));
+        fjern.addEventListener('click', () => {
+          valgte = valgte.filter((s) => s !== slug);
+          tegnMerker();
+        });
+        chip.appendChild(fjern);
+        el.merker.appendChild(chip);
+      });
+    }
+
+    function lukkForslag() {
+      el.forslag.textContent = '';
+      el.forslag.hidden = true;
+      el.sok.setAttribute('aria-expanded', 'false');
+    }
+
+    function tegnForslag(sok) {
+      const q = sok.trim().toLowerCase();
+      if (q.length < 1) return lukkForslag();
+      const treff = symboler
+        .filter((s) => !valgte.includes(s.s) && s.n.toLowerCase().includes(q))
+        .sort((a, b) => {
+          const ai = a.n.toLowerCase().startsWith(q) ? 0 : 1;
+          const bi = b.n.toLowerCase().startsWith(q) ? 0 : 1;
+          return ai - bi || a.n.localeCompare(b.n, locale);
+        })
+        .slice(0, 8);
+      if (treff.length === 0) return lukkForslag();
+
+      el.forslag.textContent = '';
+      treff.forEach((s) => {
+        const li = lag('li');
+        const b = lag('button', null, s.n);
+        b.type = 'button';
+        b.addEventListener('click', () => {
+          if (!valgte.includes(s.s)) valgte.push(s.s);
+          el.sok.value = '';
+          tegnMerker();
+          lukkForslag();
+          el.sok.focus();
+        });
+        li.appendChild(b);
+        el.forslag.appendChild(li);
+      });
+      el.forslag.hidden = false;
+      el.sok.setAttribute('aria-expanded', 'true');
+    }
+
+    el.sok.addEventListener('input', () => tegnForslag(el.sok.value));
+    el.sok.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') lukkForslag();
+      if (e.key === 'ArrowDown' && !el.forslag.hidden) {
+        e.preventDefault();
+        const f = el.forslag.querySelector('button');
+        if (f) f.focus();
+      }
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        const f = el.forslag.querySelector('button');
+        if (f) f.click();
+      }
+    });
+    document.addEventListener('click', (e) => {
+      if (!el.sok.contains(e.target) && !el.forslag.contains(e.target)) lukkForslag();
+    });
+
+    /* ---------- lagre ny oppforing ---------- */
+
+    el.lagre.addEventListener('click', () => {
+      const tekst = el.tekst.value.trim();
+      if (!tekst) {
+        el.tekst.focus();
+        return;
+      }
+      const oppforinger = les();
+      oppforinger.push({
+        id: 'd' + Date.now() + Math.random().toString(36).slice(2, 7),
+        dato: el.dato.value || iDag(),
+        tekst: tekst,
+        folelse: el.folelse.value || '',
+        symboler: valgte.slice(),
+        opprettet: new Date().toISOString(),
+      });
+      if (!skriv(oppforinger)) return;
+
+      el.tekst.value = '';
+      el.folelse.value = '';
+      el.sok.value = '';
+      valgte = [];
+      tegnMerker();
+      lukkForslag();
+      el.dato.value = iDag();
+
+      el.lagret.hidden = false;
+      setTimeout(() => {
+        el.lagret.hidden = true;
+      }, 2600);
+
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', 'journal_entry_saved', { symbols: oppforinger[oppforinger.length - 1].symboler.length });
+      }
+      tegnAlt();
+    });
+
+    /* ---------- listen ---------- */
+
+    function tegnListe(oppforinger) {
+      el.liste.textContent = '';
+      if (oppforinger.length === 0) {
+        el.liste.appendChild(lag('p', 'dj-tom', t.tom));
+        el.eksport.hidden = true;
+        el.eksportHjelp.hidden = true;
+        return;
+      }
+      el.eksport.hidden = false;
+      el.eksportHjelp.hidden = false;
+
+      oppforinger
+        .slice()
+        .sort((a, b) => b.dato.localeCompare(a.dato) || (b.opprettet || '').localeCompare(a.opprettet || ''))
+        .forEach((o) => {
+          const art = lag('article', 'dj-oppforing');
+
+          const topp = lag('div', 'dj-opp-topp');
+          const tid = lag('time', 'dj-dato', visDato(o.dato));
+          tid.setAttribute('datetime', o.dato);
+          topp.appendChild(tid);
+          const slett = lag('button', 'dj-slett', t.slett);
+          slett.type = 'button';
+          slett.addEventListener('click', () => {
+            if (!window.confirm(t.bekreftSlett)) return;
+            skriv(les().filter((x) => x.id !== o.id));
+            tegnAlt();
+          });
+          topp.appendChild(slett);
+          art.appendChild(topp);
+
+          if (o.folelse && folelseNavn.has(o.folelse)) {
+            art.appendChild(lag('span', 'dj-folelse', folelseNavn.get(o.folelse)));
+          }
+
+          art.appendChild(lag('p', 'dj-opp-tekst', o.tekst));
+
+          if (o.symboler && o.symboler.length) {
+            const rad = lag('div', 'dj-opp-symboler');
+            o.symboler.forEach((slug) => {
+              if (!etikett.has(slug)) return;
+              const a = lag('a', null, etikett.get(slug));
+              a.href = symbolBase + slug + '/';
+              rad.appendChild(a);
+            });
+            if (rad.childNodes.length) art.appendChild(rad);
+          }
+
+          el.liste.appendChild(art);
+        });
+    }
+
+    /* ---------- monstre ---------- */
+
+    function tellOpp(oppforinger, hent) {
+      const m = new Map();
+      oppforinger.forEach((o) => {
+        hent(o).forEach((n) => m.set(n, (m.get(n) || 0) + 1));
+      });
+      return [...m.entries()].sort((a, b) => b[1] - a[1] || String(a[0]).localeCompare(String(b[0]), locale));
+    }
+
+    function stolper(rader, maks, lenkeBase) {
+      const boks = document.createDocumentFragment();
+      rader.forEach(([navn, antall, slug]) => {
+        const rad = lag('div', 'dj-stolpe');
+        if (lenkeBase && slug) {
+          const a = lag('a', null, navn);
+          a.href = lenkeBase + slug + '/';
+          rad.appendChild(a);
+        } else {
+          rad.appendChild(lag('span', null, navn));
+        }
+        const spor = lag('div', 'dj-stolpe-spor');
+        const fyll = lag('span', 'dj-stolpe-fyll');
+        fyll.style.width = Math.max(4, Math.round((antall / maks) * 100)) + '%';
+        spor.appendChild(fyll);
+        rad.appendChild(spor);
+        rad.appendChild(lag('span', 'dj-stolpe-tall', String(antall)));
+        boks.appendChild(rad);
+      });
+      return boks;
+    }
+
+    function tegnMonstre(oppforinger) {
+      if (oppforinger.length === 0) {
+        el.monstre.hidden = true;
+        return;
+      }
+      el.monstre.hidden = false;
+      const c = el.monstreInnhold;
+      c.textContent = '';
+
+      const tall = lag('div');
+      tall.appendChild(lag('strong', 'dj-tall', String(oppforinger.length)));
+      tall.appendChild(lag('span', 'dj-tall-etikett', t.antall));
+      c.appendChild(tall);
+
+      if (oppforinger.length < 3) {
+        c.appendChild(lag('p', 'dj-hjelp', t.forLite));
+        return;
+      }
+
+      const symbolTall = tellOpp(oppforinger, (o) => (o.symboler || []).filter((s) => etikett.has(s)));
+      if (symbolTall.length) {
+        const blokk = lag('div', 'dj-monster-blokk');
+        blokk.appendChild(lag('h3', null, t.mestBrukte));
+        const topp = symbolTall.slice(0, 6).map(([slug, n]) => [etikett.get(slug), n, slug]);
+        blokk.appendChild(stolper(topp, topp[0][1], symbolBase));
+        c.appendChild(blokk);
+      }
+
+      const folelseTall = tellOpp(oppforinger, (o) => (o.folelse && folelseNavn.has(o.folelse) ? [o.folelse] : []));
+      if (folelseTall.length) {
+        const blokk = lag('div', 'dj-monster-blokk');
+        blokk.appendChild(lag('h3', null, t.folelsesfordeling));
+        const topp = folelseTall.slice(0, 6).map(([v, n]) => [folelseNavn.get(v), n, null]);
+        blokk.appendChild(stolper(topp, topp[0][1], null));
+        c.appendChild(blokk);
+      }
+    }
+
+    /* ---------- refleksjoner fra symbolsidene ---------- */
+
+    function lesRefleksjoner() {
+      const ut = [];
+      let n = 0;
+      try {
+        n = localStorage.length;
+      } catch (e) {
+        return ut;
+      }
+      for (let i = 0; i < n; i++) {
+        const nokkel = localStorage.key(i);
+        if (!nokkel || nokkel.indexOf('reflection:') !== 0) continue;
+        const rest = nokkel.slice('reflection:'.length);
+        const skille = rest.lastIndexOf(':');
+        if (skille < 1) continue;
+        const slug = rest.slice(0, skille);
+        const dato = rest.slice(skille + 1);
+        if (!etikett.has(slug)) continue;
+        try {
+          const data = JSON.parse(localStorage.getItem(nokkel) || '{}');
+          // Nyere refleksjoner er merket med spraak. Uten den merkingen kan en
+          // slug som finnes paa flere spraak (orm, storm, hav) havne i feil
+          // journal — eldre oppforinger faller tilbake paa slug-sjekken over.
+          if (data.lang && data.lang !== lang) continue;
+          const svar = ['q1', 'q2', 'q3'].map((k) => data[k]).filter(Boolean);
+          if (svar.length) ut.push({ slug: slug, dato: dato, svar: svar });
+        } catch (e) {}
+      }
+      return ut.sort((a, b) => b.dato.localeCompare(a.dato));
+    }
+
+    function tegnRefleksjoner(refleksjoner) {
+      if (refleksjoner.length === 0) {
+        el.tidligere.hidden = true;
+        return;
+      }
+      el.tidligere.hidden = false;
+      el.tidligereListe.textContent = '';
+      refleksjoner.slice(0, 20).forEach((r) => {
+        const boks = lag('div', 'dj-refleksjon');
+        const topp = lag('div', 'dj-refleksjon-topp');
+        const a = lag('a', null, etikett.get(r.slug));
+        a.href = symbolBase + r.slug + '/';
+        topp.appendChild(a);
+        const tid = lag('time', null, visDato(r.dato));
+        tid.setAttribute('datetime', r.dato);
+        topp.appendChild(tid);
+        boks.appendChild(topp);
+        r.svar.forEach((s) => boks.appendChild(lag('p', null, s)));
+        el.tidligereListe.appendChild(boks);
+      });
+    }
+
+    /* ---------- eksport ---------- */
+
+    el.eksport.addEventListener('click', () => {
+      const oppforinger = les()
+        .slice()
+        .sort((a, b) => a.dato.localeCompare(b.dato));
+      const refleksjoner = lesRefleksjoner().slice().reverse();
+
+      const linjer = [];
+      linjer.push(t.minJournal);
+      linjer.push('='.repeat(t.minJournal.length));
+      linjer.push('');
+      linjer.push(t.eksportert + ' ' + visDato(iDag()));
+      linjer.push('');
+
+      oppforinger.forEach((o) => {
+        linjer.push('');
+        linjer.push('--- ' + visDato(o.dato) + ' ---');
+        if (o.folelse && folelseNavn.has(o.folelse)) {
+          linjer.push(t.folelseLabel + ': ' + folelseNavn.get(o.folelse));
+        }
+        const merker = (o.symboler || []).filter((s) => etikett.has(s)).map((s) => etikett.get(s));
+        if (merker.length) linjer.push(t.symbolLabel + ': ' + merker.join(', '));
+        linjer.push('');
+        linjer.push(o.tekst);
+      });
+
+      if (refleksjoner.length) {
+        linjer.push('');
+        linjer.push('');
+        linjer.push(t.tidligere);
+        linjer.push('='.repeat(t.tidligere.length));
+        refleksjoner.forEach((r) => {
+          linjer.push('');
+          linjer.push('--- ' + etikett.get(r.slug) + ', ' + visDato(r.dato) + ' ---');
+          r.svar.forEach((s) => linjer.push(s));
+        });
+      }
+
+      linjer.push('');
+      linjer.push('');
+      linjer.push('drommeguiden.no');
+      linjer.push('');
+
+      const blob = new Blob([linjer.join('\n')], { type: 'text/plain;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'drommejournal-' + iDag() + '.txt';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', 'journal_exported', { entries: oppforinger.length });
+      }
+    });
+
+    /* ---------- oppstart ---------- */
+
+    function tegnAlt() {
+      const oppforinger = les();
+      tegnListe(oppforinger);
+      tegnMonstre(oppforinger);
+      tegnRefleksjoner(lesRefleksjoner());
+    }
+
+    el.dato.value = iDag();
+    el.dato.max = iDag();
+    tegnMerker();
+    tegnAlt();
+  })();
+</script>

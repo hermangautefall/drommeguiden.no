@@ -152,6 +152,7 @@ function buildAllEntries(srcDir = 'src') {
     { no: '/personvern/', sv: '/sv/integritet/', en: '/en/privacy/',  noSrc: 'src/pages/personvern.astro',      svSrc: 'src/pages/sv/integritet.astro',      enSrc: 'src/pages/en/privacy.astro' },
     { no: '/vilkar/',     sv: '/sv/villkor/',    en: '/en/terms/',    noSrc: 'src/pages/vilkar.astro',           svSrc: 'src/pages/sv/villkor.astro',         enSrc: 'src/pages/en/terms.astro' },
     { no: '/cookies/',    sv: '/sv/cookies/',    en: '/en/cookies/',  noSrc: 'src/pages/cookies.astro',         svSrc: 'src/pages/sv/cookies.astro',         enSrc: 'src/pages/en/cookies.astro' },
+    { no: '/journal/',    sv: '/sv/journal/',    en: '/en/journal/',  noSrc: 'src/pages/journal.astro',         svSrc: 'src/pages/sv/journal.astro',         enSrc: 'src/pages/en/journal.astro' },
   ];
 
   const entries = [];

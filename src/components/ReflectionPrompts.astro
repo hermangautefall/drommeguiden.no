@@ -68,6 +68,7 @@ const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
   class="reflect"
   data-reflect
   data-slug={slug}
+  data-lang={lang}
   data-date-locale={dateLocale}
   data-questions={JSON.stringify(questions)}
   data-empty-text={labels.previousEmpty}
@@ -123,6 +124,7 @@ const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
   (function () {
     document.querySelectorAll('[data-reflect]').forEach(function (root) {
       const slug = root.getAttribute('data-slug') || '';
+      const lang = root.getAttribute('data-lang') || 'nb';
       const dateLocale = root.getAttribute('data-date-locale') || 'nb-NO';
       const questions = JSON.parse(root.getAttribute('data-questions') || '[]');
       const emptyText = root.getAttribute('data-empty-text') || '';
@@ -220,6 +222,7 @@ const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
           }
         });
         if (answered === 0) return;
+        data.lang = lang;
 
         try { localStorage.setItem(key, JSON.stringify(data)); } catch (e) {}
 

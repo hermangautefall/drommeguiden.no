@@ -20,6 +20,7 @@ const SIDEFILER: Record<string, Record<Lang, string>> = {
   cookies:    { nb: 'src/pages/cookies.astro',    sv: 'src/pages/sv/cookies.astro',    en: 'src/pages/en/cookies.astro' },
   vilkar:     { nb: 'src/pages/vilkar.astro',     sv: 'src/pages/sv/villkor.astro',    en: 'src/pages/en/terms.astro' },
   forside:    { nb: 'src/pages/index.astro',      sv: 'src/pages/sv/index.astro',      en: 'src/pages/en/index.astro' },
+  journal:    { nb: 'src/pages/journal.astro',    sv: 'src/pages/sv/journal.astro',    en: 'src/pages/en/journal.astro' },
 };
 
 const BASE = 'https://drommeguiden.no';

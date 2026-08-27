@@ -22,6 +22,7 @@ const navSymboler = pathFor(lang, 'drommer');
 const navKategori = pathFor(lang, 'kategori');
 const navGuider = pathFor(lang, 'guider');
 const navSovn = pathFor(lang, 'sovn');
+const navJournal = pathFor(lang, 'journal');
 const navOmOss = pathFor(lang, 'omOss');
 const navKontakt = pathFor(lang, 'kontakt');
 
@@ -58,6 +59,7 @@ const langLinks = (Object.keys(languages) as Lang[]).map(l => {
       <a href={navKategori} class="nav-link">{t('nav.kategorier')}</a>
       {seksjoner.guider && <a href={navGuider} class="nav-link">{t('nav.guider')}</a>}
       {seksjoner.sovn && <a href={navSovn} class="nav-link">{t('nav.sovn')}</a>}
+      <a href={navJournal} class="nav-link">{t('nav.journal')}</a>
     </div>
 
     <!-- Desktop right side: language switcher + CTA -->
@@ -127,6 +129,7 @@ const langLinks = (Object.keys(languages) as Lang[]).map(l => {
     <a href={navKategori} class="mobile-nav-link">{t('nav.kategorier')}</a>
     {seksjoner.guider && <a href={navGuider} class="mobile-nav-link">{t('nav.guider')}</a>}
     {seksjoner.sovn && <a href={navSovn} class="mobile-nav-link">{t('nav.sovn')}</a>}
+    <a href={navJournal} class="mobile-nav-link">{t('nav.journal')}</a>
     <div class="mobile-divider"></div>
     <a href={navOmOss} class="mobile-nav-link mobile-nav-link-small">{t('nav.omOss')}</a>
     <a href={navKontakt} class="mobile-nav-link mobile-nav-link-small">{t('nav.kontakt')}</a>

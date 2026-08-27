@@ -1,0 +1,122 @@
+---
+import Base from '../layouts/Base.astro';
+import Drommejournal from '../components/Drommejournal.astro';
+import { alternatesFor } from '../lib/statiske-alternates';
+---
+
+<Base
+  lang="nb"
+  tittel="Drømmejournal"
+  beskrivelse="En enkel drømmejournal du kan skrive i hver morgen. Noter drømmen, merk symbolene og se mønstrene over tid. Alt lagres kun i din egen nettleser."
+  alternates={alternatesFor('journal')}
+>
+  <div class="journal-side">
+    <span class="static-label">Verktøy</span>
+    <h1 class="static-title">Drømmejournal</h1>
+
+    <div class="prose journal-intro">
+      <p>
+        Det du husker av en drøm, forsvinner fort. De første minuttene etter at du våkner
+        er som regel de eneste du har — etter frokost er som oftest bare en stemning igjen.
+        Derfor er en journal det enkleste og mest effektive du kan gjøre hvis du vil forstå
+        drømmene dine bedre: ikke fordi skriving i seg selv tolker noe, men fordi den gir
+        deg noe å tolke.
+      </p>
+      <p>
+        Det som gjør en journal verdt innsatsen, er ikke den enkelte drømmen. Det er det
+        som dukker opp igjen. Et symbol du trodde var tilfeldig første gang, viser seg å
+        ha vært der åtte ganger på to måneder. En følelse du forbinder med mareritt, viser
+        seg å høre til en helt annen type drøm. Mønstre som er usynlige natt for natt,
+        blir tydelige når de står under hverandre.
+      </p>
+    </div>
+
+    <Drommejournal lang="nb" />
+
+    <div class="prose journal-rad">
+      <h2>Slik får du mest ut av journalen</h2>
+      <p>
+        <strong>Skriv før du gjør noe annet.</strong> Ikke sjekk telefonen, ikke stå opp.
+        Drømmehukommelsen svekkes raskt fra det øyeblikket du begynner å forholde deg til
+        dagen. Har du bare tre stikkord, skriv de tre.
+      </p>
+      <p>
+        <strong>Skriv i presens.</strong> «Jeg står i en gang og døra er låst» henter fram
+        mer enn «jeg drømte at jeg sto i en gang». Nåtidsformen holder deg i scenen, og
+        detaljene kommer lettere.
+      </p>
+      <p>
+        <strong>Noter følelsen, ikke bare handlingen.</strong> To personer kan drømme
+        nesten samme handling og våkne av helt forskjellige grunner. Følelsen når du
+        våkner er ofte den beste ledetråden til hva drømmen handlet om — og den er også
+        det første du glemmer.
+      </p>
+      <p>
+        <strong>Merk symbolene, men ikke tolk med en gang.</strong> Merkingen er til for
+        at du skal kunne telle senere. Tolkningen tåler å vente til du har femten
+        oppføringer og faktisk kan se hva som gjentar seg.
+      </p>
+      <p>
+        <strong>Ikke skriv hver natt.</strong> De fleste som prøver å journalføre daglig,
+        gir opp innen to uker. Tre morgener i uka i et halvt år gir deg langt mer enn
+        fjorten dager på rad.
+      </p>
+
+      <h2>Om personvern og lagring</h2>
+      <p>
+        Journalen ligger utelukkende i nettleseren din, i noe som heter localStorage.
+        Ingenting sendes til oss, ingenting lagres på en server, og vi har ingen
+        mulighet til å lese det du skriver. Det betyr også at journalen er knyttet til
+        akkurat denne nettleseren på akkurat denne enheten: den følger deg ikke over til
+        mobilen, og den forsvinner hvis du tømmer nettleserdata eller bruker privat
+        surfing. Derfor finnes nedlastingsknappen — bruk den innimellom.
+      </p>
+
+      <h2>Les videre</h2>
+      <p>
+        Vil du gå dypere inn i metoden, har vi en egen guide om
+        <a href="/guider/drommejournalen/">å føre drømmejournal</a> med mer om oppsett,
+        vanlige fallgruver og hva du kan lese ut av en journal over tid. Sliter du med å
+        huske drømmene i det hele tatt, er <a href="/guider/hva-er-drommer/">hva drømmer er</a>
+        et godt sted å begynne. Og opplever du de samme drømmene igjen og igjen, er
+        <a href="/guider/gjentakende-drommer/">gjentakende drømmer</a> skrevet for nettopp det.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .journal-side {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 24px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+  .journal-intro {
+    margin-bottom: 2.5rem;
+  }
+  .journal-rad {
+    margin-top: 3rem;
+  }
+  .journal-rad h2 {
+    margin-top: 2.5rem;
+  }
+</style>
