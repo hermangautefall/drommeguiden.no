@@ -48,6 +48,7 @@ const relaterteSovnArtikler = (relaterte_sovn || [])
   .map((s) => alleSovn.find((a: any) => a.data.slug === s))
   .filter(Boolean);
 const resolvedAuthor = getAuthor(author);
+const forfatterNavn = resolvedAuthor.navnPerSprak?.[lang] ?? resolvedAuthor.name;
 const og = await resolveOgImage(bilde);
 const lesetidLabelByLang: Record<Lang, string> = { nb: 'min lesetid', sv: 'min läsning', en: 'min read' };
 const lesetidLabel = lesetidLabelByLang[lang] ?? lesetidLabelByLang.nb;
@@ -108,7 +109,7 @@ const crumbs = [
   type="article"
   publishedTime={dato}
   modifiedTime={oppdatert ?? dato}
-  author={resolvedAuthor.name}
+  author={forfatterNavn}
   ogImage={og?.url}
   ogImageWidth={og?.width}
   ogImageHeight={og?.height}
@@ -148,7 +149,7 @@ const crumbs = [
         <h1 class="symbol-title">{tittel}</h1>
         <div class="symbol-byline-row">
           <span class="symbol-byline">
-            {bylineLabel} <a href={aboutUrl}>{resolvedAuthor.name}</a>
+            {bylineLabel} <a href={aboutUrl}>{forfatterNavn}</a>
           </span>
           <span class="symbol-byline-sep" aria-hidden="true">·</span>
           <span class="symbol-oppdatert">
@@ -224,7 +225,7 @@ const crumbs = [
           ...(bilde && { image: `${baseSite}${bilde}` }),
           author: {
             '@type': resolvedAuthor.type,
-            name: resolvedAuthor.name,
+            name: forfatterNavn,
             url: `${baseSite}${pathFor(lang, 'omOss')}`,
             ...(resolvedAuthor.sameAs.length > 0 && { sameAs: resolvedAuthor.sameAs }),
           },

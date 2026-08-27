@@ -9,6 +9,9 @@
 
 export interface Author {
   name: string;
+  /** Navn per sprak. Bylinen og schema.org skal ikke vise et norsk
+   *  redaksjonsnavn pa svenske og engelske sider. */
+  navnPerSprak?: Record<string, string>;
   url: string;
   /** schema.org-type. Redaksjonen er Organization; enkeltpersoner er Person. */
   type: 'Organization' | 'Person';
@@ -23,6 +26,11 @@ export interface Author {
 export const authors: Record<string, Author> = {
   default: {
     name: 'Drømmeguidens redaksjon',
+    navnPerSprak: {
+      nb: 'Drømmeguidens redaksjon',
+      sv: 'Drömguidens redaktion',
+      en: 'The Dream Guide editorial team',
+    },
     url: '/om-oss/',
     type: 'Organization',
     byline: 'Drømmeguidens redaksjon',

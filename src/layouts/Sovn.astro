@@ -40,6 +40,7 @@ interface Props {
 
 const { tittel, kortbeskrivelse, slug, kategori, leseminutter, dato, oppdatert, bilde, relaterte_sovn, relaterte_drommer, relaterte_guider, author, lang = defaultLang, alternates = [] } = Astro.props;
 const resolvedAuthor = getAuthor(author);
+const forfatterNavn = resolvedAuthor.navnPerSprak?.[lang] ?? resolvedAuthor.name;
 const og = await resolveOgImage(bilde);
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 const langConfig = languages[lang];
@@ -138,7 +139,7 @@ const crumbs = [
   type="article"
   publishedTime={dato}
   modifiedTime={oppdatert ?? dato}
-  author={resolvedAuthor.name}
+  author={forfatterNavn}
   ogImage={og?.url}
   ogImageWidth={og?.width}
   ogImageHeight={og?.height}
@@ -167,7 +168,7 @@ const crumbs = [
       </span>
       <div class="sovn-meta-row">
         <span class="sovn-meta sovn-byline">
-          {bylineLabel} <a href={aboutUrl}>{resolvedAuthor.name}</a>
+          {bylineLabel} <a href={aboutUrl}>{forfatterNavn}</a>
         </span>
         <span class="sovn-meta">{leseminutter} {labels.lesetid}</span>
         <span class="sovn-meta">
@@ -262,7 +263,7 @@ const crumbs = [
       ...(bilde && { image: `${baseSite}${bilde}` }),
       author: {
         '@type': resolvedAuthor.type,
-        name: resolvedAuthor.name,
+        name: forfatterNavn,
         url: `${baseSite}${pathFor(lang, 'omOss')}`,
         ...(resolvedAuthor.sameAs.length > 0 && { sameAs: resolvedAuthor.sameAs }),
       },

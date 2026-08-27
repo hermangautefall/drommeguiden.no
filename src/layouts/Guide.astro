@@ -28,16 +28,21 @@ const { tittel, kortbeskrivelse, slug, leseminutter, dato, oppdatert, bilde, lan
 const baseSite = 'https://drommeguiden.no';
 const guideUrl = `${baseSite}${pathFor(lang, 'guider')}${slug}/`;
 const forfatter = authors.default;
+const forfatterNavn = forfatter.navnPerSprak?.[lang] ?? forfatter.name;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 
-const labelsByLang: Record<Lang, { hjem: string; guider: string; breadcrumb: string; lesetid: string; innhold: string }> = {
-  nb: { hjem: 'Hjem', guider: 'Guider', breadcrumb: 'Brødsmuler', lesetid: 'min lesetid', innhold: 'Innhold' },
-  sv: { hjem: 'Hem', guider: 'Guider', breadcrumb: 'Brödsmulor', lesetid: 'min läsning', innhold: 'Innehåll' },
-  en: { hjem: 'Home', guider: 'Guides', breadcrumb: 'Breadcrumbs', lesetid: 'min read', innhold: 'Contents' },
+const labelsByLang: Record<Lang, { hjem: string; guider: string; breadcrumb: string; lesetid: string; innhold: string; byline: string; oppdatert: string }> = {
+  nb: { hjem: 'Hjem', guider: 'Guider', breadcrumb: 'Brødsmuler', lesetid: 'min lesetid', innhold: 'Innhold', byline: 'Skrevet av', oppdatert: 'Sist oppdatert' },
+  sv: { hjem: 'Hem', guider: 'Guider', breadcrumb: 'Brödsmulor', lesetid: 'min läsning', innhold: 'Innehåll', byline: 'Skriven av', oppdatert: 'Senast uppdaterad' },
+  en: { hjem: 'Home', guider: 'Guides', breadcrumb: 'Breadcrumbs', lesetid: 'min read', innhold: 'Contents', byline: 'Written by', oppdatert: 'Last updated' },
 };
 const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
 const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
+const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB' };
+const oppdatertDato = oppdatert ?? dato;
+const oppdatertFmt = oppdatertDato.toLocaleDateString(dateLocaleByLang[lang] ?? 'nb-NO', { day: 'numeric', month: 'long', year: 'numeric' });
+const aboutUrl = pathFor(lang, 'omOss');
 ---
 
 <Base tittel={tittel} beskrivelse={kortbeskrivelse} canonicalUrl={canonical} lang={lang} alternates={alternates}>
@@ -53,9 +58,17 @@ const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
 
     <!-- Header -->
     <header class="guide-header">
-      {leseminutter && (
-        <span class="guide-meta">{leseminutter} {labels.lesetid}</span>
-      )}
+      <div class="guide-meta-row">
+        <span class="guide-meta guide-byline">
+          {labels.byline} <a href={aboutUrl}>{forfatterNavn}</a>
+        </span>
+        {leseminutter && (
+          <span class="guide-meta">{leseminutter} {labels.lesetid}</span>
+        )}
+        <span class="guide-meta">
+          {labels.oppdatert} <time datetime={oppdatertDato.toISOString().slice(0, 10)}>{oppdatertFmt}</time>
+        </span>
+      </div>
       <h1 class="guide-title">{tittel}</h1>
       <p class="guide-intro">{kortbeskrivelse}</p>
     </header>
@@ -97,7 +110,7 @@ const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
       ...(bilde && { image: `${baseSite}${bilde}` }),
       author: {
         '@type': forfatter.type,
-        name: forfatter.name,
+        name: forfatterNavn,
         url: `${baseSite}${pathFor(lang, 'omOss')}`,
       },
       publisher: {
@@ -181,6 +194,22 @@ const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
   /* Header */
   .guide-header {
     margin-bottom: 36px;
+  }
+  .guide-meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 14px;
+    margin-bottom: 14px;
+  }
+  .guide-byline a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: rgba(45, 41, 38, 0.28);
+    text-underline-offset: 3px;
+  }
+  .guide-byline a:hover {
+    text-decoration-color: var(--color-primary);
   }
   .guide-meta {
     display: inline-block;
