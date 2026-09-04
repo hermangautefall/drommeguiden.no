@@ -169,31 +169,12 @@ const hreflangLinks = [
       @import '../styles/prose.css';
     </style>
 
-    <!-- Touch targets (WCAG 2.5.5 / Apple HIG — 80% mobil, iOS Safari).
-         Truly global (is:global) så regelen treffer elementer på tvers
-         av komponenter. .prose a bevisst utelatt for ikke å bryte
-         linjehøyden på inline brødtekstlenker. Scoped til mobil-bredde
-         (<768px) slik at desktop-layouten ikke endres. -->
+    <!-- Regler som maa gjelde paa tvers av komponenter. Se filens topp
+         for hvorfor de ikke kan ligge i den scopede global.css. -->
     <style is:global>
-      @media (max-width: 767px) {
-        :where(button, [role="button"]) {
-          min-block-size: 44px;
-        }
-        :where(
-          .footer-links a,
-          .relaterte-chip,
-          .category-card,
-          .kategori-card,
-          .section-link
-        ) {
-          min-block-size: 44px;
-        }
-        :where(.footer-links a, .section-link) {
-          display: inline-flex;
-          align-items: center;
-        }
-      }
+      @import '../styles/globalt.css';
     </style>
+
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XB1F95Y3GZ"></script>

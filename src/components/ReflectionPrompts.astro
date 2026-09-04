@@ -342,7 +342,10 @@ const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
     background: rgba(255, 255, 255, 0.8);
     padding: 10px 12px;
     font-family: var(--font-body);
-    font-size: 14px;
+    /* Maa vaere >= 16px. Under det zoomer iOS Safari inn naar feltet
+       faar fokus, og brukeren blir staaende med en forstorret side.
+       Feltet ligger paa alle 215 symbolsider x tre spraak. */
+    font-size: 16px;
     line-height: 1.6;
     color: var(--color-text-body);
     resize: vertical;
@@ -366,12 +369,13 @@ const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    min-block-size: 38px;
+    /* 44 px, se ShareButtons. Laa paa 38. */
+    min-block-size: 44px;
     padding: 0 20px;
     border-radius: var(--border-radius-pill, 100px);
     border: none;
     background: var(--color-primary);
-    color: #fff;
+    color: var(--color-bg-cream, #f5f1ea);
     font-family: var(--font-nav);
     font-size: 13px;
     font-weight: 600;

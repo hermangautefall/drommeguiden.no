@@ -123,8 +123,9 @@ const labels = labelsByLang[lang] ?? labelsByLang.nb;
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    padding: 7px 14px;
-    min-block-size: 36px;
+    padding: 10px 16px;
+    /* 44 px, se ShareButtons. Laa paa 36. */
+    min-block-size: 44px;
     border-radius: var(--border-radius-pill, 100px);
     background: transparent;
     border: 1px solid rgba(123, 111, 160, 0.18);
@@ -150,7 +151,7 @@ const labels = labelsByLang[lang] ?? labelsByLang.nb;
   }
   .helpfulness-btn-selected {
     background: var(--color-primary) !important;
-    color: #fff !important;
+    color: var(--color-bg-cream, #f5f1ea) !important;
     border-color: var(--color-primary) !important;
     opacity: 1 !important;
   }

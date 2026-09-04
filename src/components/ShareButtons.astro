@@ -270,7 +270,7 @@ const buttons = [
     border-radius: var(--border-radius-pill, 100px);
     border: none;
     background: var(--color-primary, #7B6FA0);
-    color: #fff;
+    color: var(--color-bg-cream, #f5f1ea);
     font-family: var(--font-nav);
     font-size: 15px;
     font-weight: 600;
@@ -307,9 +307,11 @@ const buttons = [
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 38px;
-    height: 38px;
-    min-block-size: 38px;
+    /* 44 px er minstemaalet i WCAG 2.5.5 og Apple HIG. Over 90 % av
+       trafikken er mobil, og delingsknappene laa paa 38. */
+    width: 44px;
+    height: 44px;
+    min-block-size: 44px;
     border-radius: 50%;
     border: 1px solid var(--share-border);
     background: var(--share-bg);
@@ -324,7 +326,7 @@ const buttons = [
     height: 16px;
   }
   .share-btn:hover {
-    color: #fff;
+    color: var(--color-bg-cream, #f5f1ea);
     background: var(--share-hover);
     border-color: var(--share-hover);
     text-decoration: none;

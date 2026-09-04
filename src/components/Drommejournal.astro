@@ -324,6 +324,7 @@ const dateLocale: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB'
     padding: 0.25rem 0.35rem 0.25rem 0.7rem;
   }
   .dj-merke button {
+    position: relative;
     font: inherit;
     line-height: 1;
     color: var(--color-text-muted);
@@ -332,7 +333,15 @@ const dateLocale: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB'
     border-radius: 50%;
     width: 1.25rem;
     height: 1.25rem;
+    min-block-size: 0;
     cursor: pointer;
+  }
+  /* Selve krysset skal vaere lite, men treffomraadet minst 44 px.
+     Et pseudoelement utvider flaten uten aa gjore merket hoyere. */
+  .dj-merke button::after {
+    content: '';
+    position: absolute;
+    inset: -12px;
   }
   .dj-merke button:hover {
     color: var(--color-primary);
@@ -570,6 +579,33 @@ const dateLocale: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB'
     }
     .dj-stolpe {
       grid-template-columns: minmax(5rem, 7rem) 1fr auto;
+    }
+    /* Primaerhandlingen i full bredde. En 171 px bred knapp nede til
+       venstre er lett aa bomme paa med tommelen, og den konkurrerer
+       med nettleserens egen linje nederst paa skjermen. */
+    .dj-lagrerad {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.65rem;
+    }
+    .dj-knapp {
+      width: 100%;
+      padding: 0.85rem 1.4rem;
+    }
+    .dj-lagret {
+      text-align: center;
+    }
+    .dj-liste-topp {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.5rem;
+    }
+    .dj-knapp-sekundar {
+      width: 100%;
+    }
+    /* Sletteknappen skal ikke ligge klemt inntil datoen */
+    .dj-opp-topp {
+      gap: 1.25rem;
     }
   }
 </style>

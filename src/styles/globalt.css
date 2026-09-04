@@ -1,0 +1,180 @@
+/* Regler som MÅ gjelde på tvers av komponenter.
+   ------------------------------------------------------------------
+   global.css importeres i en *scopet* <style> i Base.astro. Astro
+   legger da [data-astro-cid-<Base>] på hver selektor, og reglene
+   treffer bare elementer som står i Base.astro selv. Alt som skal
+   virke i andre komponenter og sider må ligge her, i en <style
+   is:global>.
+
+   Resten av global.css blir bevisst værende scopet: gjøres den
+   global, overstyrer `.bg-pattern > :not(.site-bg) { position:
+   relative }` posisjoneringen til mobilmenyen og dytter hele
+   sideinnholdet ~800 px ned. */
+
+/* --- box-sizing -------------------------------------------------
+   Reseten sto i global.css og var derfor scopet bort. Utenfor
+   Base.astro arvet alt content-box, mens nettleserens UA-stil gir
+   select og button border-box. Følgen: hvert felt skrevet som
+   `width: 100%` med padding ble bredere enn forelderen sin —
+   hero-søket rant 112 px ut av sin egen ramme, symbolsøket 38 px,
+   journalfeltene 29 px — og select-feltene ved siden av dem havnet
+   på en annen bredde enn input-feltene. */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* --- knapper ----------------------------------------------------
+   .btn-primary og .btn-secondary er definert i global.css, men
+   brukes bare i index.astro, 404.astro og sovn/index.astro — aldri i
+   Base.astro. Scopingen gjorde dem derfor døde: seksjons-CTA-ene på
+   forsiden («Se alle 14 guider», «Utforsk søvnseksjonen») og
+   tilbakelenken på 404 rendret som naken inline-tekst, 22 px høy.
+
+   Fargene er samtidig flyttet fra den gamle lilla paletten
+   (#6a5f8e / rgba(123,111,160,…)) til terrakottaen siden faktisk
+   bruker i dag. */
+.btn-primary,
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4em;
+  min-height: 44px;
+  padding: 12px 28px;
+  border-radius: var(--border-radius-pill, 999px);
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: var(--letter-spacing-btn, 0.01em);
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: var(--transition, all 0.2s ease);
+}
+.btn-primary {
+  background: var(--color-primary);
+  color: var(--color-bg-cream, #f5f1ea);
+  border: 1px solid var(--color-primary);
+  box-shadow: 0 2px 12px rgba(26, 31, 58, 0.08);
+}
+.btn-primary:hover {
+  filter: brightness(0.94);
+  color: var(--color-bg-cream, #f5f1ea);
+  text-decoration: none;
+  box-shadow: 0 4px 16px rgba(26, 31, 58, 0.12);
+}
+.btn-secondary {
+  background: transparent;
+  color: var(--color-primary);
+  border: 1px solid var(--color-primary);
+}
+.btn-secondary:hover {
+  background: var(--color-primary);
+  color: var(--color-bg-cream, #f5f1ea);
+  text-decoration: none;
+}
+
+/* --- stjernefelt i hero-bakgrunner ------------------------------
+   Samme scoping-problem: .starfield .star settes av DrommensDag og
+   to andre komponenter, ikke av Base. */
+.starfield {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.starfield .star {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: var(--color-bg-cream, #f5f1ea);
+  border-radius: 50%;
+  opacity: 0.3;
+  animation: twinkle var(--duration, 3s) ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
+}
+
+/* --- datofelt ---------------------------------------------------
+   iOS Safari sentrerer verdien i <input type="date"> som standard.
+   Ved siden av venstrestilte felt ser det ut som en feil, og det er
+   det eneste feltet i journalskjemaet som oppfører seg slik. */
+input[type='date'],
+input[type='time'],
+input[type='datetime-local'] {
+  -webkit-appearance: none;
+  appearance: none;
+  text-align: left;
+}
+
+/* --- trykkflater på mobil (WCAG 2.5.5 / Apple HIG) --------------
+   Over 90 % av trafikken er mobil. Målt på 375 px: delingsknappene
+   lå på 38 px, innholdsfortegnelsen 32 px, «var dette nyttig» 36 px
+   og dagens-drøm-lenken 27 px. Brødtekstlenker (.prose a) er
+   bevisst utelatt — de ville sprengt linjehøyden i artiklene. */
+@media (max-width: 767px) {
+  :where(button, [role='button']) {
+    min-block-size: 44px;
+  }
+  :where(
+      .footer-links a,
+      .relaterte-chip,
+      .category-card,
+      .kategori-card,
+      .section-link,
+      .share-btn,
+      .content-toc-link,
+      .helpfulness-btn,
+      .dag-link,
+      .mobile-lang-chip
+    ) {
+    min-block-size: 44px;
+  }
+  :where(
+      .footer-links a,
+      .section-link,
+      .share-btn,
+      .content-toc-link,
+      .helpfulness-btn,
+      .dag-link,
+      .mobile-lang-chip
+    ) {
+    display: inline-flex;
+    align-items: center;
+  }
+}
+
+/* --- brødsmuler og logoer ---------------------------------------
+   Brødsmulene er navigasjon, men lenkene måler 21–55 px brede og
+   23 px høye på mobil — «Dyr» er 21×23. Treffområdet utvides med et
+   pseudoelement slik at raden ikke vokser og typografien står. */
+@media (max-width: 767px) {
+  :where(
+      .breadcrumb,
+      .kategori-breadcrumb,
+      .sovn-breadcrumb,
+      .guide-breadcrumb
+    )
+    a {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+  }
+  :where(
+      .breadcrumb,
+      .kategori-breadcrumb,
+      .sovn-breadcrumb,
+      .guide-breadcrumb
+    )
+    a::after {
+    content: '';
+    position: absolute;
+    inset-block: -11px;
+    inset-inline: -6px;
+  }
+  :where(.header-logo, .footer-logo) {
+    min-block-size: 44px;
+    display: inline-flex;
+    align-items: center;
+  }
+}
