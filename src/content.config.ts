@@ -47,6 +47,30 @@ const sovnSchema = z
   })
   .passthrough();
 
+/**
+ * Symbolbetydning — hva et symbol har betydd kulturhistorisk, og hva det
+ * kan si aa se det i vaaken tilstand. Bevisst en egen samling, ikke en
+ * variant av `drommer`: `kategori` finnes ikke her, og `relaterte_drommer`
+ * peker motsatt vei av alt annet paa siden.
+ */
+const symbolerSchema = z
+  .object({
+    tittel: z.string(),
+    slug: z.string(),
+    kortbeskrivelse: z.string(),
+    tolkninger_kort: z.array(z.string()).optional(),
+    relaterte_drommer: z.array(z.string()).optional(),
+    bilde: z.string().optional(),
+    dato: z.coerce.date().optional(),
+    oppdatert: z.coerce.date().optional(),
+    sv_slug: z.string().optional(),
+    nb_slug: z.string().optional(),
+    en_slug: z.string().optional(),
+    author: z.string().optional(),
+    sensitivt: z.boolean().optional(),
+  })
+  .passthrough();
+
 const looseSchema = z.object({}).passthrough();
 
 export const collections = {
@@ -81,6 +105,18 @@ export const collections = {
   'kategorier-sv': defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/kategorier-sv' }),
     schema: looseSchema,
+  }),
+  symboler: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/symboler' }),
+    schema: symbolerSchema,
+  }),
+  'symboler-sv': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/symboler-sv' }),
+    schema: symbolerSchema,
+  }),
+  'symboler-en': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/symboler-en' }),
+    schema: symbolerSchema,
   }),
   'drommer-en': defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/drommer-en' }),

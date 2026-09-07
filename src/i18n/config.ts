@@ -52,6 +52,7 @@ export const pathSegments = {
     vilkar: 'vilkar',
     cookies: 'cookies',
     journal: 'journal',
+    symboler: 'symboler',
   },
   sv: {
     drommer: 'drommar',
@@ -64,6 +65,7 @@ export const pathSegments = {
     vilkar: 'villkor',
     cookies: 'cookies',
     journal: 'journal',
+    symboler: 'symboler',
   },
   en: {
     drommer: 'dreams',
@@ -76,5 +78,6 @@ export const pathSegments = {
     vilkar: 'terms',
     cookies: 'cookies',
     journal: 'journal',
+    symboler: 'symbols',
   },
 } as const;

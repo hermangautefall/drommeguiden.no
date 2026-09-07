@@ -63,6 +63,8 @@ Ett annat perspektiv handlar om lätthet, glädje och frihet. Fjärilen är skö
 
 I många kulturer är fjärilen också kopplad till de dödas själar — i Mexiko förknippas monarkfjärilarna med Día de los Muertos, där de sägs bära med sig förfädernas själar tillbaka. Den kinesiske filosofen Zhuangzi berättade den berömda drömmen om att vara en fjäril: vaknade han som en människa som hade drömt att han var en fjäril, eller var han en fjäril som nu drömde att han var en människa? Frågan pekar på något fjärilsdrömmar ofta rör vid — gränsen mellan dröm och verklighet, och hur skört och kortvarigt ett vackert tillstånd kan vara.
 
+Såg du däremot en fjäril i vaket tillstånd är det en annan fråga — då handlar det om [vad fjärilen har betytt som symbol](/sv/symboler/fjaril/).
+
 ## Källor och vidare läsning
 
 - Carl Gustav Jung, *Människan och hennes symboler* (1964) — förvandlingen från puppa till vingar, och fjärilen som gammal bild för själen själv.

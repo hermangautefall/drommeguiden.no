@@ -1,0 +1,560 @@
+---
+/**
+ * Layout for seksjonen «symbolbetydning» — hva et symbol har betydd
+ * kulturhistorisk, og hva det kan si å faktisk se det. Ikke drømmetydning.
+ *
+ * Bevisst en egen fil, ikke en variant av Symbol.astro: de to seksjonene
+ * har ulikt formaal og skal kunne utvikle seg hver for seg. Forskjellene
+ * er ReflectionPrompts (hoerer til droemmetydning, rendres ikke her),
+ * kategori (finnes ikke her), relaterte-boksen (peker over til
+ * droemmeartikkelen i stedet for til soesken-symboler) og FAQ-schemaet
+ * (spoersmaalene handler om aa se symbolet, ikke om aa droemme om det).
+ */
+import Base from './Base.astro';
+import TLDRBoks from '../components/TLDRBoks.astro';
+import BildeKreditt from '../components/BildeKreditt.astro';
+import ContentTOC from '../components/ContentTOC.astro';
+import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
+import TilDrommetydning from '../components/TilDrommetydning.astro';
+import ShareButtons from '../components/ShareButtons.astro';
+import AdSlot from '../components/AdSlot.astro';
+import HelpfulnessVote from '../components/HelpfulnessVote.astro';
+import { getCollection } from 'astro:content';
+import { defaultLang, languages, type Lang } from '../i18n/config';
+import { pathFor, homePath } from '../i18n/utils';
+import { useTranslations } from '../i18n/ui';
+import { getAuthor } from '../data/authors';
+import { resolveOgImage } from '../lib/og-image';
+
+interface AlternateLink {
+  lang: Lang;
+  url: string;
+}
+
+interface Props {
+  tittel: string;
+  kortbeskrivelse: string;
+  tolkninger_kort: string[];
+  relaterte_drommer?: string[];
+  slug: string;
+  dato: Date;
+  oppdatert?: Date;
+  bilde?: string;
+  leseminutter?: number;
+  author?: string;
+  sensitivt?: boolean;
+  lang?: Lang;
+  alternates?: AlternateLink[];
+}
+
+const { tittel, kortbeskrivelse, tolkninger_kort, relaterte_drommer, slug, dato, oppdatert, bilde, leseminutter, author, sensitivt, lang = defaultLang, alternates = [] } = Astro.props;
+const resolvedAuthor = getAuthor(author);
+const forfatterNavn = resolvedAuthor.navnPerSprak?.[lang] ?? resolvedAuthor.name;
+const og = await resolveOgImage(bilde);
+const lesetidLabelByLang: Record<Lang, string> = { nb: 'min lesetid', sv: 'min läsning', en: 'min read' };
+const lesetidLabel = lesetidLabelByLang[lang] ?? lesetidLabelByLang.nb;
+const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
+const displayTitle = tittel
+  .replace(/ — hva betyr det å se en\?/, '')
+  .replace(/ — vad betyder det att se en\?/, '')
+  .replace(/^Sommerfugl som symbol$/, 'Sommerfugl')
+  .replace(/ som symbol$/, '')
+  .replace(/^Seeing an? /i, '')
+  .replace(/ — hva betyr det\?/, '')
+  .replace(/ — what does it mean\?/i, '')
+  .replace(/^Drömmar om /i, '')
+  .replace(/^Drømmer om /i, '')
+  .replace(/^Dreaming of /i, '')
+  .replace(/^Dreams about /i, '');
+const t = useTranslations(lang);
+const langConfig = languages[lang];
+
+const baseSite = 'https://drommeguiden.no';
+const canonical = `${baseSite}${pathFor(lang, 'symboler', slug)}`;
+
+const aboutUrlByLang: Record<Lang, string> = { nb: '/om-oss/', sv: '/sv/om-oss/', en: '/en/about/' };
+const aboutUrl = aboutUrlByLang[lang] ?? aboutUrlByLang.nb;
+const bylineLabelByLang: Record<Lang, string> = { nb: 'Skrevet av', sv: 'Skriven av', en: 'Written by' };
+const bylineLabel = bylineLabelByLang[lang] ?? bylineLabelByLang.nb;
+const oppdatertLabelByLang: Record<Lang, string> = { nb: 'Sist oppdatert', sv: 'Senast uppdaterad', en: 'Last updated' };
+const oppdatertLabel = oppdatertLabelByLang[lang] ?? oppdatertLabelByLang.nb;
+const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB' };
+const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
+const oppdatertDato = oppdatert ?? dato;
+const oppdatertFmt = oppdatertDato.toLocaleDateString(dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
+
+const sensitivtTekstByLang: Record<Lang, string> = {
+  nb: 'Drømmetolkning er refleksjon, ikke diagnose. Hvis innholdet i drømmen eller artikkelen vekker sterke følelser, snakk med noen du stoler på eller kontakt Mental Helse på 116 123.',
+  sv: 'Drömtolkning är reflektion, inte diagnos. Om innehållet i drömmen eller artikeln väcker starka känslor, prata med någon du litar på eller kontakta Mind Självmordslinjen på 90101.',
+  en: 'Dream interpretation is reflection, not diagnosis. If the content of the dream or this article brings up strong feelings, talk to someone you trust or reach out to a helpline where you live.',
+};
+const sensitivtTekst = sensitivtTekstByLang[lang] ?? sensitivtTekstByLang.nb;
+const sensitivtLabelByLang: Record<Lang, string> = { nb: 'Til ettertanke', sv: 'Att tänka på', en: 'Something to consider' };
+const sensitivtLabel = sensitivtLabelByLang[lang] ?? sensitivtLabelByLang.nb;
+
+const labelsByLang: Record<Lang, { hjem: string; symboler: string; breadcrumb: string }> = {
+  nb: { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødsmuler' },
+  sv: { hjem: 'Hem', symboler: 'Symboler', breadcrumb: 'Brödsmulor' },
+  en: { hjem: 'Home', symboler: 'Symbols', breadcrumb: 'Breadcrumbs' },
+};
+const labels = labelsByLang[lang] ?? labelsByLang.nb;
+
+const seksjonsnavnByLang: Record<Lang, string> = {
+  nb: 'Symbolbetydning',
+  sv: 'Symbolbetydelse',
+  en: 'Symbol meaning',
+};
+const seksjonsnavn = seksjonsnavnByLang[lang] ?? seksjonsnavnByLang.nb;
+
+const crumbs = [
+  { name: labels.hjem,  url: homePath(lang) },
+  { name: seksjonsnavn, url: pathFor(lang, 'symboler') },
+  { name: displayTitle, url: pathFor(lang, 'symboler', slug) },
+];
+---
+
+<Base
+  tittel={tittel}
+  beskrivelse={kortbeskrivelse}
+  canonicalUrl={canonical}
+  type="article"
+  publishedTime={dato}
+  modifiedTime={oppdatert ?? dato}
+  author={forfatterNavn}
+  ogImage={og?.url}
+  ogImageWidth={og?.width}
+  ogImageHeight={og?.height}
+  lang={lang}
+  alternates={alternates}
+  progress={true}
+>
+  <article class="symbol-article">
+    <!-- Hero -->
+    <div class="symbol-hero">
+      {bilde && (
+        <div class="symbol-hero-bg">
+          <img src={bilde} alt={displayTitle} loading="eager" />
+          <div class="symbol-hero-overlay"></div>
+        </div>
+      )}
+      <div class="symbol-hero-content">
+        <!-- Breadcrumb -->
+        <nav class="breadcrumb" aria-label={labels.breadcrumb}>
+          {crumbs.map((c, i) => (
+            <>
+              {i > 0 && <span class="breadcrumb-sep" aria-hidden="true">/</span>}
+              {i === crumbs.length - 1
+                ? <span class="breadcrumb-current">{c.name}</span>
+                : <a href={c.url}>{c.name}</a>}
+            </>
+          ))}
+        </nav>
+        <BreadcrumbSchema items={crumbs} />
+
+        <div class="symbol-meta-row">
+          <span class="symbol-kategori-badge">{seksjonsnavn}</span>
+          {leseminutter && (
+            <span class="symbol-lesetid">{leseminutter} {lesetidLabel}</span>
+          )}
+        </div>
+        <h1 class="symbol-title">{tittel}</h1>
+        <div class="symbol-byline-row">
+          <span class="symbol-byline">
+            {bylineLabel} <a href={aboutUrl}>{forfatterNavn}</a>
+          </span>
+          <span class="symbol-byline-sep" aria-hidden="true">·</span>
+          <span class="symbol-oppdatert">
+            {oppdatertLabel}: <time datetime={oppdatertDato.toISOString().slice(0, 10)}>{oppdatertFmt}</time>
+          </span>
+        </div>
+        <p class="symbol-intro">{kortbeskrivelse}</p>
+        <ShareButtons url={canonical} title={tittel} variant="inline" lang={lang} />
+      </div>
+      {bilde && bildeFilnavn && (
+        <div class="symbol-hero-credit">
+          <BildeKreditt filnavn={bildeFilnavn} />
+        </div>
+      )}
+    </div>
+
+    <!-- Wave transition -->
+    <div class="symbol-wave" aria-hidden="true">
+      <svg viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 60 C200 20 400 40 600 25 C800 10 1000 35 1200 15 L1200 0 L0 0Z" fill="var(--color-bg-cream)" opacity="0.5"/>
+        <path d="M0 60 C150 35 350 50 550 30 C750 10 950 45 1200 20 L1200 0 L0 0Z" fill="var(--color-bg-cream)"/>
+      </svg>
+    </div>
+
+    <!-- Content area -->
+    <div class="symbol-layout">
+      <ContentTOC variant="sticky" lang={lang} contentId="symbol-prose" minHeadings={4} accentColor="#C08070" />
+
+      <div class="symbol-content">
+        <TLDRBoks tolkninger={tolkninger_kort} lang={lang} />
+
+        <ContentTOC variant="accordion" lang={lang} contentId="symbol-prose" minHeadings={4} accentColor="#C08070" />
+
+        <div class="prose" id="symbol-prose">
+          <slot />
+        </div>
+
+        <HelpfulnessVote slug={slug} lang={lang} />
+
+        {sensitivt && (
+          <aside class="symbol-disclaimer" role="note" aria-label={sensitivtLabel}>
+            <span class="symbol-disclaimer-label">{sensitivtLabel}</span>
+            <p>{sensitivtTekst}</p>
+          </aside>
+        )}
+
+        <AdSlot format="bottom" lang={lang} />
+
+        <TilDrommetydning slugs={relaterte_drommer || []} lang={lang} />
+      </div>
+
+      <AdSlot format="sidebar" lang={lang} />
+    </div>
+  </article>
+
+  <!-- FAQPage + Article schema -->
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: tittel,
+          description: kortbeskrivelse,
+          datePublished: dato.toISOString(),
+          dateModified: (oppdatert ?? dato).toISOString(),
+          inLanguage: langConfig.htmlLang,
+          url: canonical,
+          ...(bilde && { image: `${baseSite}${bilde}` }),
+          author: {
+            '@type': resolvedAuthor.type,
+            name: forfatterNavn,
+            url: `${baseSite}${pathFor(lang, 'omOss')}`,
+            ...(resolvedAuthor.sameAs.length > 0 && { sameAs: resolvedAuthor.sameAs }),
+          },
+          publisher: {
+            '@type': 'Organization',
+            name: langConfig.brand,
+            url: baseSite,
+          },
+        },
+        {
+          '@type': 'FAQPage',
+          inLanguage: langConfig.htmlLang,
+          mainEntity: tolkninger_kort.map((tolkning, i) => {
+            // Sluggen er transkribert (ø→o, ä→a), saa «fjaril» ville
+            // staatt feilstavet i Googles rike resultater. displayTitle
+            // er ordet slik det faktisk skrives paa spraaket.
+            const symbol = displayTitle.toLocaleLowerCase(langConfig.htmlLang);
+            // Spoersmaalene handler om aa SE symbolet, ikke om aa droemme
+            // om det. Det er hele grunnen til at seksjonen finnes: sidene
+            // rangerte paa «hva betyr sommerfugl» og «fjäril betydelse» med
+            // en tittel som lovet droemmetydning.
+            const patternsByLang: Record<Lang, string[]> = {
+              nb: [
+                `Hva betyr det å se en ${symbol}?`,
+                `Hva symboliserer ${symbol}en?`,
+                `Er det et varsel å se en ${symbol}?`,
+              ],
+              sv: [
+                `Vad betyder det att se en ${symbol}?`,
+                `Vad symboliserar ${symbol}en?`,
+                `Är det ett varsel att se en ${symbol}?`,
+              ],
+              en: [
+                `What does it mean to see a ${symbol}?`,
+                `What does a ${symbol} symbolize?`,
+                `Is seeing a ${symbol} an omen?`,
+              ],
+            };
+            const patterns = patternsByLang[lang] ?? patternsByLang.nb;
+            return {
+              '@type': 'Question',
+              name: patterns[i % patterns.length],
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: tolkning,
+              },
+            };
+          }),
+        },
+      ],
+    })}
+  />
+</Base>
+
+<style>
+  .symbol-article {
+    margin: -40px -16px 0;
+  }
+  @media (min-width: 768px) {
+    .symbol-article {
+      margin: -40px -24px 0;
+    }
+  }
+
+  /* ========== HERO ========== */
+  .symbol-hero {
+    position: relative;
+    min-height: 360px;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+  }
+  @media (min-width: 768px) {
+    .symbol-hero {
+      min-height: 440px;
+    }
+  }
+
+  .symbol-hero-bg {
+    position: absolute;
+    inset: 0;
+  }
+  .symbol-hero-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .symbol-hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(15, 19, 40, 0.92) 0%,
+      rgba(15, 19, 40, 0.6) 40%,
+      rgba(15, 19, 40, 0.25) 70%,
+      rgba(15, 19, 40, 0.1) 100%
+    );
+  }
+
+  .symbol-hero-content {
+    position: relative;
+    z-index: 2;
+    padding: 80px 20px 40px;
+    max-width: 720px;
+    animation: fadeInUp 0.5s ease-out both;
+  }
+  @media (min-width: 768px) {
+    .symbol-hero-content {
+      padding: 140px 48px 56px;
+    }
+  }
+
+  .symbol-hero-credit {
+    position: absolute;
+    bottom: 12px;
+    right: 16px;
+    z-index: 3;
+    opacity: 0.5;
+    font-size: 11px;
+  }
+
+  /* ========== WAVE TRANSITION ========== */
+  .symbol-wave {
+    margin-top: -30px;
+    position: relative;
+    z-index: 3;
+  }
+  .symbol-wave svg {
+    display: block;
+    width: 100%;
+    height: 40px;
+  }
+
+  /* ========== BREADCRUMB ========== */
+  .breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    font-family: var(--font-nav);
+    margin-bottom: 24px;
+  }
+  .breadcrumb a {
+    color: rgba(242, 237, 230, 0.5);
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  .breadcrumb a:hover {
+    color: rgba(242, 237, 230, 0.9);
+    text-decoration: none;
+  }
+  .breadcrumb-sep {
+    color: rgba(242, 237, 230, 0.25);
+    font-size: 11px;
+  }
+  .breadcrumb-current {
+    color: rgba(242, 237, 230, 0.75);
+  }
+
+  /* ========== META ROW ========== */
+  .symbol-meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .symbol-kategori-badge {
+    display: inline-block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    background: rgba(192, 128, 112, 0.15);
+    padding: 5px 14px;
+    border-radius: var(--border-radius-pill);
+  }
+  .symbol-lesetid {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(242, 237, 230, 0.55);
+    letter-spacing: 0.3px;
+  }
+
+  /* ========== TITLE & INTRO ========== */
+  .symbol-title {
+    font-family: var(--font-heading);
+    font-size: 30px;
+    line-height: 1.15;
+    color: #f2ede6;
+    margin-bottom: 14px;
+    font-weight: 400;
+    text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+    word-wrap: break-word;
+    hyphens: auto;
+  }
+  @media (min-width: 480px) {
+    .symbol-title {
+      font-size: 36px;
+    }
+  }
+  @media (min-width: 768px) {
+    .symbol-title {
+      font-size: 48px;
+    }
+  }
+
+  .symbol-intro {
+    font-size: 16px;
+    line-height: 1.7;
+    color: rgba(242, 237, 230, 0.7);
+    max-width: 540px;
+  }
+
+  /* ========== BYLINE ========== */
+  .symbol-byline-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin: 14px 0 18px;
+    font-family: var(--font-nav);
+    font-size: 12px;
+    color: rgba(242, 237, 230, 0.6);
+    letter-spacing: 0.3px;
+  }
+  .symbol-byline a {
+    color: rgba(242, 237, 230, 0.85);
+    text-decoration: underline;
+    text-decoration-color: rgba(242, 237, 230, 0.25);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 0.2s ease;
+  }
+  .symbol-byline a:hover {
+    text-decoration-color: rgba(242, 237, 230, 0.7);
+  }
+  .symbol-byline-sep {
+    opacity: 0.45;
+  }
+
+  /* ========== SENSITIVT-DISCLAIMER ========== */
+  .symbol-disclaimer {
+    margin: 40px 0 0;
+    padding: 14px 18px;
+    background: rgba(192, 128, 112, 0.06);
+    border-left: 3px solid var(--color-accent);
+    border-radius: 8px;
+  }
+  .symbol-disclaimer-label {
+    display: inline-block;
+    font-family: var(--font-nav);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 6px;
+  }
+  .symbol-disclaimer p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-body);
+  }
+
+  /* ========== CONTENT AREA ========== */
+  .symbol-layout {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 32px 20px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  /* Større container på desktop hvor annonse-sidebar er synlig */
+  @media (min-width: 1100px) {
+    .symbol-layout {
+      max-width: 1280px;
+    }
+  }
+  @media (min-width: 768px) {
+    .symbol-layout {
+      flex-direction: row;
+      gap: 48px;
+      padding: 48px 24px 0;
+    }
+  }
+  .symbol-content {
+    flex: 1;
+    min-width: 0;
+    max-width: 720px;
+  }
+  @media (min-width: 768px) {
+    .symbol-content {
+      margin: 0;
+    }
+  }
+
+  /* ========== NO-IMAGE FALLBACK ========== */
+  .symbol-hero:not(:has(.symbol-hero-bg)) {
+    background: linear-gradient(
+      160deg,
+      #0f1328 0%,
+      #1a2340 40%,
+      #0f2030 100%
+    );
+    min-height: 300px;
+  }
+  @media (min-width: 768px) {
+    .symbol-hero:not(:has(.symbol-hero-bg)) {
+      min-height: 360px;
+    }
+  }
+
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>

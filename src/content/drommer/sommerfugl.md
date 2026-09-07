@@ -54,6 +54,8 @@ I mange kulturer er sommerfuglen også knyttet til de dødes sjeler — i Mexico
 
 Utforsk gjerne flere [natursymboler i drømmer](/kategori/natur/) hvis du vil se sommerfuglen i sammenheng med andre bilder fra naturen.
 
+Så du derimot en sommerfugl i våken tilstand, er det et annet spørsmål — det handler om [hva sommerfuglen har betydd som symbol](/symboler/sommerfugl/).
+
 ## Kilder og videre lesning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — forvandlingen fra puppe til vinger, og sommerfuglen som gammelt bilde på sjelen selv.

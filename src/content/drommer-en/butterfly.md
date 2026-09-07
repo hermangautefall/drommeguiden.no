@@ -61,6 +61,8 @@ Another perspective is about lightness, joy, and freedom. The butterfly is beaut
 
 In many cultures, the butterfly is also linked to the souls of the dead — in Mexico, monarch butterflies are associated with Día de los Muertos, said to carry the souls of ancestors back for a visit. The Chinese philosopher Zhuangzi told the famous story of dreaming he was a butterfly: did he wake as a man who had dreamed he was a butterfly, or was he a butterfly now dreaming he was a man? The question touches on something butterfly dreams often stir up — the blurred line between dream and reality, and how fragile and fleeting a beautiful state can be.
 
+If you saw a butterfly while awake, though, that is a different question — it is about [what the butterfly has meant as a symbol](/en/symbols/butterfly/).
+
 ## Sources and further reading
 
 - Carl Gustav Jung, *Man and His Symbols* (1964) — the transformation from chrysalis to wings, and the butterfly as an ancient image of the soul itself.

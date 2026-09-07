@@ -92,6 +92,9 @@ function buildAllEntries(srcDir = 'src') {
   const guider     = loadCollection(`${srcDir}/content/guider`);
   const guiderSv   = loadCollection(`${srcDir}/content/guider-sv`);
   const guiderEn   = loadCollection(`${srcDir}/content/guider-en`);
+  const symboler     = loadCollection(`${srcDir}/content/symboler`);
+  const symbolerSv   = loadCollection(`${srcDir}/content/symboler-sv`);
+  const symbolerEn   = loadCollection(`${srcDir}/content/symboler-en`);
   const kategorier   = loadCollection(`${srcDir}/content/kategorier`);
   const kategorierSv = loadCollection(`${srcDir}/content/kategorier-sv`);
   const kategorierEn = loadCollection(`${srcDir}/content/kategorier-en`);
@@ -210,6 +213,32 @@ function buildAllEntries(srcDir = 'src') {
       image: s.bilde || null,
       alternates: nbUrl ? mkAlternates(nbUrl, svUrl, url) : null,
     });
+  }
+
+  // Symbolbetydning — egen seksjon, kobles gjennom nb_slug som resten
+  // av siden. Ligger etter drommer fordi den deler bilde med dem.
+  const symbSvAvNb = Object.fromEntries(symbolerSv.map((x) => [x.nb_slug || x.slug, x.slug]));
+  const symbEnAvNb = Object.fromEntries(symbolerEn.map((x) => [x.nb_slug || x.slug, x.slug]));
+  const symbUrl = { nb: (s) => `/symboler/${s}/`, sv: (s) => `/sv/symboler/${s}/`, en: (s) => `/en/symbols/${s}/` };
+  for (const s of symboler) {
+    const url = symbUrl.nb(s.slug);
+    const svU = symbSvAvNb[s.slug] ? symbUrl.sv(symbSvAvNb[s.slug]) : null;
+    const enU = symbEnAvNb[s.slug] ? symbUrl.en(symbEnAvNb[s.slug]) : null;
+    entries.push({ url, lang: 'nb', lastmod: toIsoDate(s.oppdatert || s.dato), image: s.bilde || null, alternates: mkAlternates(url, svU, enU) });
+  }
+  for (const s of symbolerSv) {
+    const nb = s.nb_slug || s.slug;
+    const url = symbUrl.sv(s.slug);
+    const nbU = symboler.some((x) => x.slug === nb) ? symbUrl.nb(nb) : null;
+    const enU = symbEnAvNb[nb] ? symbUrl.en(symbEnAvNb[nb]) : null;
+    entries.push({ url, lang: 'sv', lastmod: toIsoDate(s.oppdatert || s.dato), image: s.bilde || null, alternates: nbU ? mkAlternates(nbU, url, enU) : null });
+  }
+  for (const s of symbolerEn) {
+    const nb = s.nb_slug || s.slug;
+    const url = symbUrl.en(s.slug);
+    const nbU = symboler.some((x) => x.slug === nb) ? symbUrl.nb(nb) : null;
+    const svU = symbSvAvNb[nb] ? symbUrl.sv(symbSvAvNb[nb]) : null;
+    entries.push({ url, lang: 'en', lastmod: toIsoDate(s.oppdatert || s.dato), image: s.bilde || null, alternates: nbU ? mkAlternates(nbU, svU, url) : null });
   }
 
   // Sovn
