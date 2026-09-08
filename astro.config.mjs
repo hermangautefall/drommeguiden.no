@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import remarkAutoLinkSymbols from './src/lib/remark-auto-link-symbols.mjs';
 import remarkAdSlots from './src/lib/remark-ad-slots.mjs';
+import remarkAffiliate from './src/lib/remark-affiliate.mjs';
 import remarkStripRecommendations from './src/lib/remark-strip-recommendations.mjs';
 import customSitemap from './src/lib/sitemap-integration.mjs';
 
@@ -49,6 +50,7 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [
       remarkStripRecommendations,
+      remarkAffiliate,
       [
         remarkAutoLinkSymbols,
         {

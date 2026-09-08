@@ -30,9 +30,12 @@ export default function remarkAdSlots() {
   return function transformer(tree, file) {
     const filePath = String(file?.path || file?.history?.[0] || '');
     // Bare drommer- og sovn-kollektioner (alle språk)
-    const inDrommer = /[/\\]content[/\\]drommer(?:-sv|-en)?[/\\]/.test(filePath);
+    // Droemmeartiklene har faatt affiliate-banneret i denne posisjonen
+    // (se remark-affiliate.mjs). To annonseblokker rett under hverandre
+    // ville vaert for tungt over folden, saa AdSense-slotten er tatt ut
+    // her. Bunn- og sidebar-slottene i layouten staar urort.
     const inSovn = /[/\\]content[/\\]sovn(?:-sv|-en)?[/\\]/.test(filePath);
-    if (!inDrommer && !inSovn) return;
+    if (!inSovn) return;
 
     const lang = /-sv[/\\]/.test(filePath) ? 'sv' : /-en[/\\]/.test(filePath) ? 'en' : 'nb';
 

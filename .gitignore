@@ -24,3 +24,7 @@ npm-debug.log*
 
 # Templates (not site content)
 _MAL_*.md
+
+# Raa annonsekreativer. De optimaliserte versjonene ligger i
+# public/bilder/annonser/ og er de som faktisk serveres.
+/ads/

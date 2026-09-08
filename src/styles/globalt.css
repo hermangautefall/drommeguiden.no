@@ -178,3 +178,67 @@ input[type='datetime-local'] {
     align-items: center;
   }
 }
+
+/* --- affiliate-banner ------------------------------------------
+   Injiseres av remark-affiliate.mjs rett etter foerste H2 i
+   droemmeartiklene. Maa vaere global: markup fra en remark-plugin
+   faar ikke Astros scope-attributt.
+
+   Kreativet er portrett (3:4). Uten en hoydebegrensning ville det
+   dekket ~450 px paa 375 px skjerm og dyttet all brodtekst under
+   folden. Bredden er derfor kappet, ikke bare satt til 100 %. */
+.affil {
+  display: block;
+  margin: 32px auto;
+  padding: 12px;
+  max-width: 720px;
+  text-align: center;
+  background: var(--color-card, #fbf9f5);
+  border: 1px dashed var(--color-line, rgba(40, 35, 28, 0.14));
+  border-radius: 12px;
+  box-sizing: border-box;
+}
+.affil-label {
+  display: block;
+  font-family: var(--font-nav, system-ui, sans-serif);
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--color-text-muted, #6b6560);
+  margin-bottom: 10px;
+}
+.affil-link {
+  display: inline-block;
+  max-width: 300px;
+  width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  line-height: 0;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.affil-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(26, 31, 58, 0.14);
+}
+.affil-link:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 3px;
+}
+.affil-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+@media (min-width: 768px) {
+  .affil-link {
+    max-width: 340px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .affil-link:hover {
+    transform: none;
+  }
+}
