@@ -184,35 +184,31 @@ input[type='datetime-local'] {
    droemmeartiklene. Maa vaere global: markup fra en remark-plugin
    faar ikke Astros scope-attributt.
 
-   Kreativet er portrett (3:4). Uten en hoydebegrensning ville det
-   dekket ~450 px paa 375 px skjerm og dyttet all brodtekst under
-   folden. Bredden er derfor kappet, ikke bare satt til 100 %. */
+   Ramme og bakgrunn er fjernet — kreativet staar for seg selv.
+   Merkingen er beholdt i diskret form: markedsfoeringsloven § 3 og
+   den svenske marknadsfoeringslagen § 9 krever at reklame tydelig
+   framstaar som reklame. */
 .affil {
   display: block;
-  margin: 32px auto;
-  padding: 12px;
-  max-width: 720px;
+  margin: 32px auto 36px;
   text-align: center;
-  background: var(--color-card, #fbf9f5);
-  border: 1px dashed var(--color-line, rgba(40, 35, 28, 0.14));
-  border-radius: 12px;
-  box-sizing: border-box;
 }
 .affil-label {
   display: block;
   font-family: var(--font-nav, system-ui, sans-serif);
-  font-size: 10px;
+  font-size: 9.5px;
   font-weight: 500;
-  letter-spacing: 1.5px;
+  letter-spacing: 1.4px;
   text-transform: uppercase;
   color: var(--color-text-muted, #6b6560);
-  margin-bottom: 10px;
+  opacity: 0.6;
+  margin-bottom: 8px;
 }
 .affil-link {
   display: inline-block;
   max-width: 300px;
   width: 100%;
-  border-radius: 10px;
+  border-radius: 12px;
   overflow: hidden;
   line-height: 0;
   text-decoration: none;
@@ -220,7 +216,7 @@ input[type='datetime-local'] {
 }
 .affil-link:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(26, 31, 58, 0.14);
+  box-shadow: 0 8px 24px rgba(26, 31, 58, 0.16);
 }
 .affil-link:focus-visible {
   outline: 2px solid var(--color-primary);
@@ -230,7 +226,7 @@ input[type='datetime-local'] {
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 12px;
 }
 @media (min-width: 768px) {
   .affil-link {
