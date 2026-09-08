@@ -271,9 +271,22 @@ Frontmatter i oversettelsene:
 - engelsk: `nb_slug: [norsk slug]`, kildeoverskrift `## Sources and further reading`
 - den norske filen får `sv_slug:` og `en_slug:` tilbake
 
-Merk at `kategori` skal være den **norske** kategoriverdien også i svenske og
-engelske filer — det er nøkkelen kategorisidene grupperer på. En svensk fil med
-`kategori: djur` faller ut av kategorisiden.
+`kategori` skal ha den **lokaliserte** verdien, ikke den norske.
+`Kategori.astro` matcher `s.data.kategori === slug`, der `slug` er
+kategorifilens egen slug på det språket. En svensk fil med `kategori: dyr`
+faller derfor ut av kategorisiden — den skal ha `djur`.
+
+| nb | sv | en |
+|---|---|---|
+| `dyr` | `djur` | `animals` |
+| `vann` | `vatten` | `water` |
+| `mennesker` | `manniskor` | `people` |
+| `steder` | `platser` | `places` |
+| `kropp` | `kropp` | `body` |
+| `hendelser` | `handelser` | `events` |
+| `gjenstander` | `foremal` | `objects` |
+| `natur` | `natur` | `nature` |
+| `aandelig` | `andlig` | `spiritual` |
 
 Engelske titler skrives «Dreaming of a beach — what does it mean?». Etiketten
 som vises i brikker utledes automatisk, og artikkelen (`a`, `an`, `the`)
