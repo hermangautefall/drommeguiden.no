@@ -1,9 +1,9 @@
 ---
-tittel: "Drömma om räv — vad betyder det?"
+tittel: "Drömma om räv — vem är den listiga i drömmen?"
 slug: rav
 nb_slug: rev
 kategori: djur
-kortbeskrivelse: "Har du drömt om räv? Räven i drömmar symboliserar ofta list, intelligens och anpassningsförmåga — men kan också varsla om bedrägeri. Läs tolkningarna."
+kortbeskrivelse: "Räven står för list och anpassning, men frågan är vem den representerar. Ibland är den någon annan i ditt liv, ibland en sida av dig själv."
 relaterte:
   - ulv
   - kraka

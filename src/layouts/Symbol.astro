@@ -53,13 +53,23 @@ const og = await resolveOgImage(bilde);
 const lesetidLabelByLang: Record<Lang, string> = { nb: 'min lesetid', sv: 'min läsning', en: 'min read' };
 const lesetidLabel = lesetidLabelByLang[lang] ?? lesetidLabelByLang.nb;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
-const displayTitle = tittel
-  .replace(/ — hva betyr det\?/, '')
-  .replace(/ — what does it mean\?/i, '')
-  .replace(/^Drömmar om /i, '')
-  .replace(/^Drømmer om /i, '')
-  .replace(/^Dreaming of /i, '')
-  .replace(/^Dreams about /i, '');
+// Brukes i broedsmulen og i BreadcrumbSchema, som Google leser.
+// «Droemma om » (entall) manglet i strippelista, saa 225 av 238 svenske
+// sider hadde broedsmulen «Droemma om hund» i stedet for «Hund». De norske
+// manglet stor forbokstav.
+const displayTitle = ((t: string) => {
+  const s = t
+    .replace(/ — [^—]*\?$/, '')
+    .replace(/^Drömmar om /i, '')
+    .replace(/^Drömma om /i, '')
+    .replace(/^Drömt om /i, '')
+    .replace(/^Drømmer om /i, '')
+    .replace(/^Drømme om /i, '')
+    .replace(/^Drømt om /i, '')
+    .replace(/^Dreaming (?:of|about) /i, '')
+    .replace(/^Dreams about /i, '');
+  return s.charAt(0).toUpperCase() + s.slice(1);
+})(tittel);
 const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
 const t = useTranslations(lang);
 const langConfig = languages[lang];

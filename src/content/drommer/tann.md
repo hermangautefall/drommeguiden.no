@@ -1,8 +1,8 @@
 ---
-tittel: "Drømmer om tenner — hva betyr det?"
+tittel: "Drømmer om å miste tenner — hva betyr det?"
 slug: tann
 kategori: kropp
-kortbeskrivelse: "Har du drømt om tenner som faller ut? Tanndrømmer er svært vanlige og kan handle om selvbilde, angst og endring. Les de vanligste tolkningene."
+kortbeskrivelse: "Alle søkene handler om å miste tenner, så det er dét siden svarer på. Drømmen er svært vanlig, og den har både en kulturhistorie og en kroppslig side."
 relaterte:
   - naken
   - speil

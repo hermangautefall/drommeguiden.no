@@ -12,10 +12,16 @@ import type { Lang } from '../i18n/config';
  */
 const MAPPE: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', en: 'drommer-en' };
 
+/**
+ * Halen er en spoersmaalsformulering etter tankestrek. Moenstret er generisk
+ * fordi titler naa kan ha egne spoersmaal — «Droemma om ormar — varning eller
+ * foervandling?» — og en fast streng ville latt hele halen bli staaende i
+ * brikke-etiketten. Testet mot alle 723 titler: ingen etikett endrer seg.
+ */
 const HALE: Record<Lang, RegExp> = {
-  nb: / — hva betyr det\?$/,
-  sv: / — vad betyder det\?$/,
-  en: / — what does it mean\?$/,
+  nb: / — [^—]*\?$/,
+  sv: / — [^—]*\?$/,
+  en: / — [^—]*\?$/,
 };
 
 const HODE: Record<Lang, RegExp> = {
