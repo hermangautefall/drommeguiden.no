@@ -5,6 +5,7 @@ import ContentTOC from '../components/ContentTOC.astro';
 import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import AdSlot from '../components/AdSlot.astro';
+import AffiliateSlot from '../components/AffiliateSlot.astro';
 import HelpfulnessVote from '../components/HelpfulnessVote.astro';
 import { getAuthor } from '../data/authors';
 import { resolveOgImage } from '../lib/og-image';
@@ -202,7 +203,7 @@ const crumbs = [
           <p>{disclaimer}</p>
         </aside>
 
-        <AdSlot format="bottom" lang={lang} />
+        <AffiliateSlot annonse="yusleep" format="bottom" lang={lang} />
 
         <!-- Related sovn articles -->
         {relaterteSovnArtikler.length > 0 && (
@@ -244,7 +245,7 @@ const crumbs = [
 
       </div>
 
-      <AdSlot format="sidebar" lang={lang} />
+      <AffiliateSlot annonse="yusleep" format="sidebar" lang={lang} />
     </div>
   </article>
 

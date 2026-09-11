@@ -238,3 +238,29 @@ input[type='datetime-local'] {
     transform: none;
   }
 }
+
+/* --- affiliate: formatvarianter ---------------------------------
+   Grunnstilen over gjelder in-content. Bunn og sidebar trenger egen
+   plassering. Kvadratiske kreativer taaler bredere visning enn de
+   staaende, men taket holdes likt for at siden skal se rolig ut. */
+.affil-bottom {
+  margin: 48px auto 28px;
+  max-width: 720px;
+}
+.affil-sidebar {
+  display: none;
+}
+@media (min-width: 1100px) {
+  .affil-sidebar {
+    display: block;
+    width: 300px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 100px;
+    align-self: flex-start;
+    margin: 0;
+  }
+  .affil-sidebar .affil-link {
+    max-width: 300px;
+  }
+}

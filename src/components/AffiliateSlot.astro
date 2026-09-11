@@ -1,0 +1,15 @@
+---
+import { affiliateHtml } from '../lib/affiliate-html.mjs';
+import { defaultLang, type Lang } from '../i18n/config';
+
+interface Props {
+  annonse: 'soulmate' | 'yusleep';
+  format?: 'in-content' | 'bottom' | 'sidebar';
+  lang?: Lang;
+}
+
+const { annonse, format = 'bottom', lang = defaultLang } = Astro.props;
+const html = affiliateHtml({ annonse, format, lang });
+---
+
+<Fragment set:html={html} />

@@ -7,6 +7,7 @@ import ContentTOC from '../components/ContentTOC.astro';
 import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import AdSlot from '../components/AdSlot.astro';
+import AffiliateSlot from '../components/AffiliateSlot.astro';
 import HelpfulnessVote from '../components/HelpfulnessVote.astro';
 import ReflectionPrompts from '../components/ReflectionPrompts.astro';
 import RelatertSovn from '../components/RelatertSovn.astro';
@@ -208,7 +209,7 @@ const crumbs = [
 
         <ReflectionPrompts slug={slug} displayName={slug.replace(/-/g, ' ')} lang={lang} />
 
-        <AdSlot format="bottom" lang={lang} />
+        <AffiliateSlot annonse="yusleep" format="bottom" lang={lang} />
 
         <RelaterteBoks relaterte={relaterte || []} lang={lang} />
         <RelatertSovn artikler={relaterteSovnArtikler} lang={lang} />
