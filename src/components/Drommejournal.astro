@@ -78,6 +78,37 @@ const T: Record<Lang, Record<string, string>> = {
     ingenSymboler: 'Inga symboler valda',
     fjern: 'Ta bort',
   },
+  da: {
+    nyTittel: 'Skriv en drøm ned',
+    datoLabel: 'Natten til',
+    tekstLabel: 'Hvad drømte du?',
+    tekstPlaceholder: 'Skriv så meget eller så lidt du vil. De detaljer du husker først, er ofte dem der bærer mest.',
+    folelseLabel: 'Følelsen da du vågnede',
+    folelseValg: 'Vælg en følelse',
+    symbolLabel: 'Symboler i drømmen',
+    symbolHjelp: 'Søg og vælg. Du kan tilføje flere.',
+    symbolPlaceholder: 'Søg efter et symbol …',
+    lagre: 'Gem i journalen',
+    lagret: 'Gemt',
+    minJournal: 'Min journal',
+    tom: 'Journalen er tom endnu. Skriv din første drøm ned ovenfor — det tager ét minut, og det er der mønstrene begynder.',
+    slett: 'Slet',
+    bekreftSlett: 'Slette denne optegnelse? Den kan ikke hentes tilbage.',
+    monstre: 'Dine mønstre',
+    antall: 'drømme noteret',
+    mestBrukte: 'Symboler du drømmer oftest om',
+    folelsesfordeling: 'Følelsen når du vågner',
+    forLite: 'Notér nogle drømme til, så begynder mønstrene at vise sig her.',
+    eksport: 'Hent journalen',
+    eksportert: 'Hentet',
+    eksportHjelp: 'Alt ligger kun i denne browser. Rydder du browserdata, forsvinder journalen — så hent den ned en gang imellem.',
+    personvern: 'Din journal gemmes kun i din egen browser. Intet sendes til os, og vi kan ikke læse den.',
+    tidligere: 'Refleksioner fra symbolsiderne',
+    tidligereHjelp: 'Det er noter du har gemt nederst på enkelte symboler. De ligger her, fordi de hører sammen med resten.',
+    lesMer: 'Læs om symbolet',
+    ingenSymboler: 'Ingen symboler valgt',
+    fjern: 'Fjern',
+  },
   en: {
     nyTittel: 'Write down a dream',
     datoLabel: 'Night of',
@@ -123,6 +154,11 @@ const FOLELSER: Record<Lang, { v: string; l: string }[]> = {
     { v: 'sorg', l: 'Sorg' }, { v: 'frykt', l: 'Rädsla' }, { v: 'forvirring', l: 'Förvirring' },
     { v: 'lettelse', l: 'Lättnad' }, { v: 'sinne', l: 'Ilska' }, { v: 'noytral', l: 'Neutral' },
   ],
+  da: [
+    { v: 'ro', l: 'Ro' }, { v: 'uro', l: 'Uro' }, { v: 'glede', l: 'Glæde' },
+    { v: 'sorg', l: 'Sorg' }, { v: 'frykt', l: 'Frygt' }, { v: 'forvirring', l: 'Forvirring' },
+    { v: 'lettelse', l: 'Lettelse' }, { v: 'sinne', l: 'Vrede' }, { v: 'noytral', l: 'Neutral' },
+  ],
   en: [
     { v: 'ro', l: 'Calm' }, { v: 'uro', l: 'Unease' }, { v: 'glede', l: 'Joy' },
     { v: 'sorg', l: 'Sadness' }, { v: 'frykt', l: 'Fear' }, { v: 'forvirring', l: 'Confusion' },
@@ -130,7 +166,7 @@ const FOLELSER: Record<Lang, { v: string; l: string }[]> = {
   ],
 };
 const folelser = FOLELSER[lang] ?? FOLELSER.nb;
-const dateLocale: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB' };
+const dateLocale: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', en: 'en-GB' };
 ---
 
 <div

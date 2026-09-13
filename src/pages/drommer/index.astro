@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 import SymbolKort from '../../components/SymbolKort.astro';
 import { getCollection } from 'astro:content';
@@ -14,10 +15,7 @@ const kategorier = ['dyr', 'vann', 'kropp', 'steder', 'hendelser', 'mennesker', 
   beskrivelse="Søk blant 214 norske drømmesymboler og finn ut hva drømmen din egentlig betyr — sortert etter tema, med korte og ærlige tolkninger per symbol (2026)."
   lang="nb"
   canonicalUrl="https://drommeguiden.no/drommer/"
-  alternates={[
-    { lang: 'nb', url: 'https://drommeguiden.no/drommer/' },
-    { lang: 'sv', url: 'https://drommeguiden.no/sv/drommar/' },
-  ]}
+  alternates={alternatesFor('drommerIndex')}
 >
   <div class="drommer-page">
     <!-- Header -->

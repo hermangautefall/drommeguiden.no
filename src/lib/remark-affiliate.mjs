@@ -15,8 +15,8 @@
 import { affiliateHtml } from './affiliate-html.mjs';
 
 const REGLER = [
-  { mnst: /[/\\]content[/\\]drommer(?:-sv|-en)?[/\\]/, annonse: 'soulmate' },
-  { mnst: /[/\\]content[/\\]sovn(?:-sv|-en)?[/\\]/, annonse: 'yusleep' },
+  { mnst: /[/\\]content[/\\]drommer(?:-sv|-da|-en)?[/\\]/, annonse: 'soulmate' },
+  { mnst: /[/\\]content[/\\]sovn(?:-sv|-da|-en)?[/\\]/, annonse: 'yusleep' },
 ];
 
 export default function remarkAffiliate() {
@@ -25,7 +25,7 @@ export default function remarkAffiliate() {
     const regel = REGLER.find((r) => r.mnst.test(filePath));
     if (!regel) return;
 
-    const lang = /-sv[/\\]/.test(filePath) ? 'sv' : /-en[/\\]/.test(filePath) ? 'en' : 'nb';
+    const lang = /-sv[/\\]/.test(filePath) ? 'sv' : /-da[/\\]/.test(filePath) ? 'da' : /-en[/\\]/.test(filePath) ? 'en' : 'nb';
 
     const children = tree.children || [];
     const i = children.findIndex((n) => n.type === 'heading' && n.depth === 2);

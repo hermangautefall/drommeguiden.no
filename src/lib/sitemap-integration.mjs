@@ -3,6 +3,7 @@
 // Genererer:
 //   - dist/sitemap-no.xml  (alle norske URLer)
 //   - dist/sitemap-sv.xml  (alle svenske URLer)
+//   - dist/sitemap-da.xml  (alle danske URLer)
 //   - dist/sitemap-en.xml  (alle engelske URLer)
 //   - dist/sitemap-index.xml (referer til alle)
 //
@@ -95,6 +96,11 @@ function buildAllEntries(srcDir = 'src') {
   const symboler     = loadCollection(`${srcDir}/content/symboler`);
   const symbolerSv   = loadCollection(`${srcDir}/content/symboler-sv`);
   const symbolerEn   = loadCollection(`${srcDir}/content/symboler-en`);
+  const drommerDa    = loadCollection(`${srcDir}/content/drommer-da`);
+  const sovnDa       = loadCollection(`${srcDir}/content/sovn-da`);
+  const guiderDa     = loadCollection(`${srcDir}/content/guider-da`);
+  const kategorierDa = loadCollection(`${srcDir}/content/kategorier-da`);
+  const symbolerDa   = loadCollection(`${srcDir}/content/symboler-da`);
   const kategorier   = loadCollection(`${srcDir}/content/kategorier`);
   const kategorierSv = loadCollection(`${srcDir}/content/kategorier-sv`);
   const kategorierEn = loadCollection(`${srcDir}/content/kategorier-en`);
@@ -133,216 +139,109 @@ function buildAllEntries(srcDir = 'src') {
 
   // Bygg alternates-objekt med de språkversjonene som finnes.
   // x-default peker alltid til NB når NB finnes.
-  function mkAlternates(nbUrl, svUrl, enUrl) {
-    if (!svUrl && !enUrl) return null;
-    const alt = {};
-    if (nbUrl) alt.nb = nbUrl;
-    if (svUrl) alt.sv = svUrl;
-    if (enUrl) alt.en = enUrl;
-    if (nbUrl) alt['x-default'] = nbUrl;
-    return alt;
-  }
+  // Spraakgenerisk oppbygging. Tidligere hadde hver seksjon én loekke per
+  // spraak som hardkodet de andre to — tolv loekker for tre spraak, seksten
+  // for fire. Naa defineres hver seksjon én gang, og spraakene kommer fra
+  // supportedLangs-ekvivalenten under. nb_slug er ryggraden, som ellers paa
+  // siden; norske filer har den ikke selv, saa der brukes slug.
+  const SPRAAK = ['nb', 'sv', 'da', 'en'];
 
-  // Statiske sider: hardkodede tripler
-  const staticPairs = [
-    { no: '/',            sv: '/sv/',            en: '/en/',          noSrc: 'src/pages/index.astro',           svSrc: 'src/pages/sv/index.astro',           enSrc: 'src/pages/en/index.astro' },
-    { no: '/drommer/',    sv: '/sv/drommar/',    en: '/en/dreams/',   noSrc: 'src/pages/drommer/index.astro',   svSrc: 'src/pages/sv/drommar/index.astro',   enSrc: 'src/pages/en/dreams/index.astro' },
-    { no: '/kategori/',   sv: '/sv/kategori/',   en: '/en/category/', noSrc: 'src/pages/kategori/index.astro',  svSrc: 'src/pages/sv/kategori/index.astro',  enSrc: 'src/pages/en/category/index.astro' },
-    { no: '/guider/',     sv: '/sv/guider/',     en: '/en/guides/',   noSrc: 'src/pages/guider/index.astro',    svSrc: 'src/pages/sv/guider/index.astro',    enSrc: 'src/pages/en/guides/index.astro' },
-    { no: '/sovn/',       sv: '/sv/somn/',       en: '/en/sleep/',    noSrc: 'src/pages/sovn/index.astro',      svSrc: 'src/pages/sv/somn/index.astro',      enSrc: 'src/pages/en/sleep/index.astro' },
-    { no: '/om-oss/',     sv: '/sv/om-oss/',     en: '/en/about/',    noSrc: 'src/pages/om-oss.astro',          svSrc: 'src/pages/sv/om-oss.astro',          enSrc: 'src/pages/en/about.astro' },
-    { no: '/kontakt/',    sv: '/sv/kontakt/',    en: '/en/contact/',  noSrc: 'src/pages/kontakt.astro',         svSrc: 'src/pages/sv/kontakt.astro',         enSrc: 'src/pages/en/contact.astro' },
-    { no: '/personvern/', sv: '/sv/integritet/', en: '/en/privacy/',  noSrc: 'src/pages/personvern.astro',      svSrc: 'src/pages/sv/integritet.astro',      enSrc: 'src/pages/en/privacy.astro' },
-    { no: '/vilkar/',     sv: '/sv/villkor/',    en: '/en/terms/',    noSrc: 'src/pages/vilkar.astro',           svSrc: 'src/pages/sv/villkor.astro',         enSrc: 'src/pages/en/terms.astro' },
-    { no: '/cookies/',    sv: '/sv/cookies/',    en: '/en/cookies/',  noSrc: 'src/pages/cookies.astro',         svSrc: 'src/pages/sv/cookies.astro',         enSrc: 'src/pages/en/cookies.astro' },
-    { no: '/journal/',    sv: '/sv/journal/',    en: '/en/journal/',  noSrc: 'src/pages/journal.astro',         svSrc: 'src/pages/sv/journal.astro',         enSrc: 'src/pages/en/journal.astro' },
+  const SEKSJONER = [
+    {
+      navn: 'drommer', bilde: true,
+      data: { nb: drommer, sv: drommerSv, da: drommerDa, en: drommerEn },
+      url: { nb: (s) => `/drommer/${s}/`, sv: (s) => `/sv/drommar/${s}/`, da: (s) => `/da/dromme/${s}/`, en: (s) => `/en/dreams/${s}/` },
+    },
+    {
+      navn: 'symboler', bilde: true,
+      data: { nb: symboler, sv: symbolerSv, da: symbolerDa, en: symbolerEn },
+      url: { nb: (s) => `/symboler/${s}/`, sv: (s) => `/sv/symboler/${s}/`, da: (s) => `/da/symboler/${s}/`, en: (s) => `/en/symbols/${s}/` },
+    },
+    {
+      navn: 'sovn', bilde: false,
+      data: { nb: sovn, sv: sovnSv, da: sovnDa, en: sovnEn },
+      url: { nb: (s) => `/sovn/${s}/`, sv: (s) => `/sv/somn/${s}/`, da: (s) => `/da/sovn/${s}/`, en: (s) => `/en/sleep/${s}/` },
+    },
+    {
+      navn: 'guider', bilde: false,
+      data: { nb: guider, sv: guiderSv, da: guiderDa, en: guiderEn },
+      url: { nb: (s) => `/guider/${s}/`, sv: (s) => `/sv/guider/${s}/`, da: (s) => `/da/guider/${s}/`, en: (s) => `/en/guides/${s}/` },
+    },
+    {
+      navn: 'kategorier', bilde: false,
+      data: { nb: kategorier, sv: kategorierSv, da: kategorierDa, en: kategorierEn },
+      url: { nb: (s) => `/kategori/${s}/`, sv: (s) => `/sv/kategori/${s}/`, da: (s) => `/da/kategori/${s}/`, en: (s) => `/en/category/${s}/` },
+    },
+  ];
+
+  // Statiske sider: én rad per side, med URL og kildefil per spraak.
+  const statiske = [
+    { nb: ['/', 'src/pages/index.astro'], sv: ['/sv/', 'src/pages/sv/index.astro'], da: ['/da/', 'src/pages/da/index.astro'], en: ['/en/', 'src/pages/en/index.astro'] },
+    { nb: ['/drommer/', 'src/pages/drommer/index.astro'], sv: ['/sv/drommar/', 'src/pages/sv/drommar/index.astro'], da: ['/da/dromme/', 'src/pages/da/dromme/index.astro'], en: ['/en/dreams/', 'src/pages/en/dreams/index.astro'] },
+    { nb: ['/kategori/', 'src/pages/kategori/index.astro'], sv: ['/sv/kategori/', 'src/pages/sv/kategori/index.astro'], da: ['/da/kategori/', 'src/pages/da/kategori/index.astro'], en: ['/en/category/', 'src/pages/en/category/index.astro'] },
+    { nb: ['/guider/', 'src/pages/guider/index.astro'], sv: ['/sv/guider/', 'src/pages/sv/guider/index.astro'], da: ['/da/guider/', 'src/pages/da/guider/index.astro'], en: ['/en/guides/', 'src/pages/en/guides/index.astro'] },
+    { nb: ['/sovn/', 'src/pages/sovn/index.astro'], sv: ['/sv/somn/', 'src/pages/sv/somn/index.astro'], da: ['/da/sovn/', 'src/pages/da/sovn/index.astro'], en: ['/en/sleep/', 'src/pages/en/sleep/index.astro'] },
+    { nb: ['/om-oss/', 'src/pages/om-oss.astro'], sv: ['/sv/om-oss/', 'src/pages/sv/om-oss.astro'], da: ['/da/om-os/', 'src/pages/da/om-os.astro'], en: ['/en/about/', 'src/pages/en/about.astro'] },
+    { nb: ['/kontakt/', 'src/pages/kontakt.astro'], sv: ['/sv/kontakt/', 'src/pages/sv/kontakt.astro'], da: ['/da/kontakt/', 'src/pages/da/kontakt.astro'], en: ['/en/contact/', 'src/pages/en/contact.astro'] },
+    { nb: ['/personvern/', 'src/pages/personvern.astro'], sv: ['/sv/integritet/', 'src/pages/sv/integritet.astro'], da: ['/da/privatliv/', 'src/pages/da/privatliv.astro'], en: ['/en/privacy/', 'src/pages/en/privacy.astro'] },
+    { nb: ['/vilkar/', 'src/pages/vilkar.astro'], sv: ['/sv/villkor/', 'src/pages/sv/villkor.astro'], da: ['/da/vilkar/', 'src/pages/da/vilkar.astro'], en: ['/en/terms/', 'src/pages/en/terms.astro'] },
+    { nb: ['/cookies/', 'src/pages/cookies.astro'], sv: ['/sv/cookies/', 'src/pages/sv/cookies.astro'], da: ['/da/cookies/', 'src/pages/da/cookies.astro'], en: ['/en/cookies/', 'src/pages/en/cookies.astro'] },
+    { nb: ['/journal/', 'src/pages/journal.astro'], sv: ['/sv/journal/', 'src/pages/sv/journal.astro'], da: ['/da/journal/', 'src/pages/da/journal.astro'], en: ['/en/journal/', 'src/pages/en/journal.astro'] },
   ];
 
   const entries = [];
 
-  // Statiske sider (EN-oppføring bare hvis siden finnes OG har innhold).
-  // Tomme listesider (f.eks. /en/sleep/ uten sovn-en-artikler) holdes ute
-  // av sitemapen slik at vi ikke ber Google indeksere tynne sider.
-  const enTommeSeksjoner = new Set();
-  if (sovnEn.length === 0) enTommeSeksjoner.add('/en/sleep/');
-  if (guiderEn.length === 0) enTommeSeksjoner.add('/en/guides/');
+  // Tomme listesider holdes ute av sitemapen — vi ber ikke Google indeksere
+  // en oversiktsside uten innhold bak seg.
+  const tommeSeksjoner = new Set();
+  for (const [url, liste] of [
+    ['/en/sleep/', sovnEn], ['/en/guides/', guiderEn],
+    ['/da/sovn/', sovnDa], ['/da/guider/', guiderDa],
+    ['/da/dromme/', drommerDa], ['/da/kategori/', kategorierDa],
+  ]) if (liste.length === 0) tommeSeksjoner.add(url);
 
-  for (const p of staticPairs) {
-    const enExists = existsSync(p.enSrc) && !enTommeSeksjoner.has(p.en);
-    const enUrl = enExists ? p.en : null;
-    const alternates = { nb: p.no, sv: p.sv, ...(enUrl ? { en: enUrl } : {}), 'x-default': p.no };
-    entries.push({ url: p.no, lang: 'nb', lastmod: fileMtimeIso(p.noSrc), alternates });
-    entries.push({ url: p.sv, lang: 'sv', lastmod: fileMtimeIso(p.svSrc), alternates });
-    if (enExists) {
-      entries.push({ url: enUrl, lang: 'en', lastmod: fileMtimeIso(p.enSrc), alternates });
+  for (const rad of statiske) {
+    const finnes = {};
+    for (const l of SPRAAK) {
+      const [url, src] = rad[l] || [];
+      if (url && existsSync(src) && !tommeSeksjoner.has(url)) finnes[l] = { url, src };
+    }
+    if (!finnes.nb) continue;
+    const alternates = {};
+    for (const l of SPRAAK) if (finnes[l]) alternates[l] = finnes[l].url;
+    alternates['x-default'] = finnes.nb.url;
+    for (const l of SPRAAK) {
+      if (!finnes[l]) continue;
+      entries.push({ url: finnes[l].url, lang: l, lastmod: fileMtimeIso(finnes[l].src), alternates });
     }
   }
 
-  // Drommer (symbol-sider — får image)
-  for (const s of drommer) {
-    const url = `/drommer/${s.slug}/`;
-    const svUrl = noDrommerToSv[s.slug] ? `/sv/drommar/${noDrommerToSv[s.slug]}/` : null;
-    const enUrl = noDrommerToEn[s.slug] ? `/en/dreams/${noDrommerToEn[s.slug]}/` : null;
-    entries.push({
-      url, lang: 'nb',
-      lastmod: toIsoDate(s.oppdatert || s.dato),
-      image: s.bilde || null,
-      alternates: mkAlternates(url, svUrl, enUrl),
-    });
-  }
-  for (const s of drommerSv) {
-    const nbSlug = svDrommerToNo[s.slug];
-    const url = `/sv/drommar/${s.slug}/`;
-    const nbUrl = nbSlug ? `/drommer/${nbSlug}/` : null;
-    const enUrl = nbSlug && noDrommerToEn[nbSlug] ? `/en/dreams/${noDrommerToEn[nbSlug]}/` : null;
-    entries.push({
-      url, lang: 'sv',
-      lastmod: toIsoDate(s.oppdatert || s.dato),
-      image: s.bilde || null,
-      alternates: nbUrl ? mkAlternates(nbUrl, url, enUrl) : null,
-    });
-  }
-  for (const s of drommerEn) {
-    const nbSlug = enDrommerToNo[s.slug];
-    const url = `/en/dreams/${s.slug}/`;
-    const nbUrl = nbSlug ? `/drommer/${nbSlug}/` : null;
-    const svUrl = nbSlug && noDrommerToSv[nbSlug] ? `/sv/drommar/${noDrommerToSv[nbSlug]}/` : null;
-    entries.push({
-      url, lang: 'en',
-      lastmod: toIsoDate(s.oppdatert || s.dato),
-      image: s.bilde || null,
-      alternates: nbUrl ? mkAlternates(nbUrl, svUrl, url) : null,
-    });
-  }
-
-  // Symbolbetydning — egen seksjon, kobles gjennom nb_slug som resten
-  // av siden. Ligger etter drommer fordi den deler bilde med dem.
-  const symbSvAvNb = Object.fromEntries(symbolerSv.map((x) => [x.nb_slug || x.slug, x.slug]));
-  const symbEnAvNb = Object.fromEntries(symbolerEn.map((x) => [x.nb_slug || x.slug, x.slug]));
-  const symbUrl = { nb: (s) => `/symboler/${s}/`, sv: (s) => `/sv/symboler/${s}/`, en: (s) => `/en/symbols/${s}/` };
-  for (const s of symboler) {
-    const url = symbUrl.nb(s.slug);
-    const svU = symbSvAvNb[s.slug] ? symbUrl.sv(symbSvAvNb[s.slug]) : null;
-    const enU = symbEnAvNb[s.slug] ? symbUrl.en(symbEnAvNb[s.slug]) : null;
-    entries.push({ url, lang: 'nb', lastmod: toIsoDate(s.oppdatert || s.dato), image: s.bilde || null, alternates: mkAlternates(url, svU, enU) });
-  }
-  for (const s of symbolerSv) {
-    const nb = s.nb_slug || s.slug;
-    const url = symbUrl.sv(s.slug);
-    const nbU = symboler.some((x) => x.slug === nb) ? symbUrl.nb(nb) : null;
-    const enU = symbEnAvNb[nb] ? symbUrl.en(symbEnAvNb[nb]) : null;
-    entries.push({ url, lang: 'sv', lastmod: toIsoDate(s.oppdatert || s.dato), image: s.bilde || null, alternates: nbU ? mkAlternates(nbU, url, enU) : null });
-  }
-  for (const s of symbolerEn) {
-    const nb = s.nb_slug || s.slug;
-    const url = symbUrl.en(s.slug);
-    const nbU = symboler.some((x) => x.slug === nb) ? symbUrl.nb(nb) : null;
-    const svU = symbSvAvNb[nb] ? symbUrl.sv(symbSvAvNb[nb]) : null;
-    entries.push({ url, lang: 'en', lastmod: toIsoDate(s.oppdatert || s.dato), image: s.bilde || null, alternates: nbU ? mkAlternates(nbU, svU, url) : null });
-  }
-
-  // Sovn
-  for (const s of sovn) {
-    const url = `/sovn/${s.slug}/`;
-    const svUrl = noSovnToSv[s.slug] ? `/sv/somn/${noSovnToSv[s.slug]}/` : null;
-    const enUrl = noSovnToEn[s.slug] ? `/en/sleep/${noSovnToEn[s.slug]}/` : null;
-    entries.push({
-      url, lang: 'nb',
-      lastmod: toIsoDate(s.oppdatert || s.dato),
-      alternates: mkAlternates(url, svUrl, enUrl),
-    });
-  }
-  for (const s of sovnSv) {
-    const nbSlug = svSovnToNo[s.slug];
-    const url = `/sv/somn/${s.slug}/`;
-    const nbUrl = nbSlug ? `/sovn/${nbSlug}/` : null;
-    const enUrl = nbSlug && noSovnToEn[nbSlug] ? `/en/sleep/${noSovnToEn[nbSlug]}/` : null;
-    entries.push({
-      url, lang: 'sv',
-      lastmod: toIsoDate(s.oppdatert || s.dato),
-      alternates: nbUrl ? mkAlternates(nbUrl, url, enUrl) : null,
-    });
-  }
-  for (const s of sovnEn) {
-    const nbSlug = enSovnToNo[s.slug];
-    const url = `/en/sleep/${s.slug}/`;
-    const nbUrl = nbSlug ? `/sovn/${nbSlug}/` : null;
-    const svUrl = nbSlug && noSovnToSv[nbSlug] ? `/sv/somn/${noSovnToSv[nbSlug]}/` : null;
-    entries.push({
-      url, lang: 'en',
-      lastmod: toIsoDate(s.oppdatert || s.dato),
-      alternates: nbUrl ? mkAlternates(nbUrl, svUrl, url) : null,
-    });
-  }
-
-  // Guider
-  for (const g of guider) {
-    const url = `/guider/${g.slug}/`;
-    const svUrl = noGuiderToSv[g.slug] ? `/sv/guider/${noGuiderToSv[g.slug]}/` : null;
-    const enUrl = noGuiderToEn[g.slug] ? `/en/guides/${noGuiderToEn[g.slug]}/` : null;
-    entries.push({
-      url, lang: 'nb',
-      lastmod: toIsoDate(g.oppdatert || g.dato),
-      alternates: mkAlternates(url, svUrl, enUrl),
-    });
-  }
-  for (const g of guiderSv) {
-    const nbSlug = svGuiderToNo[g.slug];
-    const url = `/sv/guider/${g.slug}/`;
-    const nbUrl = nbSlug ? `/guider/${nbSlug}/` : null;
-    const enUrl = nbSlug && noGuiderToEn[nbSlug] ? `/en/guides/${noGuiderToEn[nbSlug]}/` : null;
-    entries.push({
-      url, lang: 'sv',
-      lastmod: toIsoDate(g.oppdatert || g.dato),
-      alternates: nbUrl ? mkAlternates(nbUrl, url, enUrl) : null,
-    });
-  }
-  for (const g of guiderEn) {
-    const nbSlug = enGuiderToNo[g.slug];
-    const url = `/en/guides/${g.slug}/`;
-    const nbUrl = nbSlug ? `/guider/${nbSlug}/` : null;
-    const svUrl = nbSlug && noGuiderToSv[nbSlug] ? `/sv/guider/${noGuiderToSv[nbSlug]}/` : null;
-    entries.push({
-      url, lang: 'en',
-      lastmod: toIsoDate(g.oppdatert || g.dato),
-      alternates: nbUrl ? mkAlternates(nbUrl, svUrl, url) : null,
-    });
-  }
-
-  // Kategori
-  for (const k of kategorier) {
-    const url = `/kategori/${k.slug}/`;
-    const svUrl = noToSvKat[k.slug] ? `/sv/kategori/${noToSvKat[k.slug]}/` : null;
-    const enSlug = noToEnKat[k.slug];
-    const enUrl = enSlug && kategorierEn.some(e => e.slug === enSlug) ? `/en/category/${enSlug}/` : null;
-    entries.push({
-      url, lang: 'nb',
-      lastmod: toIsoDate(k.oppdatert || k.dato),
-      alternates: mkAlternates(url, svUrl, enUrl),
-    });
-  }
-  for (const k of kategorierSv) {
-    const nbSlug = svToNoKat[k.slug];
-    const url = `/sv/kategori/${k.slug}/`;
-    const nbUrl = nbSlug ? `/kategori/${nbSlug}/` : null;
-    const enSlug = nbSlug ? noToEnKat[nbSlug] : null;
-    const enUrl = enSlug && kategorierEn.some(e => e.slug === enSlug) ? `/en/category/${enSlug}/` : null;
-    entries.push({
-      url, lang: 'sv',
-      lastmod: toIsoDate(k.oppdatert || k.dato),
-      alternates: nbUrl ? mkAlternates(nbUrl, url, enUrl) : null,
-    });
-  }
-  for (const k of kategorierEn) {
-    const nbSlug = enToNoKat[k.slug];
-    const url = `/en/category/${k.slug}/`;
-    const nbUrl = nbSlug ? `/kategori/${nbSlug}/` : null;
-    const svUrl = nbSlug && noToSvKat[nbSlug] ? `/sv/kategori/${noToSvKat[nbSlug]}/` : null;
-    entries.push({
-      url, lang: 'en',
-      lastmod: toIsoDate(k.oppdatert || k.dato),
-      alternates: nbUrl ? mkAlternates(nbUrl, svUrl, url) : null,
-    });
+  for (const sek of SEKSJONER) {
+    // nb_slug → slug per spraak
+    const kart = {};
+    for (const l of SPRAAK) {
+      for (const x of sek.data[l] || []) {
+        const nb = x.nb_slug || x.slug;
+        (kart[nb] ||= {})[l] = x;
+      }
+    }
+    for (const [nb, perLang] of Object.entries(kart)) {
+      const alternates = {};
+      for (const l of SPRAAK) if (perLang[l]) alternates[l] = sek.url[l](perLang[l].slug);
+      const flere = Object.keys(alternates).length > 1;
+      if (perLang.nb) alternates['x-default'] = sek.url.nb(perLang.nb.slug);
+      for (const l of SPRAAK) {
+        const x = perLang[l];
+        if (!x) continue;
+        entries.push({
+          url: sek.url[l](x.slug),
+          lang: l,
+          lastmod: toIsoDate(x.oppdatert || x.dato),
+          image: sek.bilde ? x.bilde || null : null,
+          alternates: flere && perLang.nb ? alternates : null,
+        });
+      }
+    }
   }
 
   return entries;
@@ -392,10 +291,13 @@ export default function customSitemap() {
         const byLang = lang => entries.filter(e => e.lang === lang).sort((a, b) => a.url.localeCompare(b.url));
         const noEntries = byLang('nb');
         const svEntries = byLang('sv');
+        const daEntries = byLang('da');
         const enEntries = byLang('en');
 
         const maps = [];
         writeFileSync(outDir + 'sitemap-no.xml', renderSitemap(noEntries));
+        writeFileSync(outDir + 'sitemap-da.xml', renderSitemap(daEntries));
+        if (daEntries.length) maps.push('sitemap-da.xml');
         maps.push('sitemap-no.xml');
         writeFileSync(outDir + 'sitemap-sv.xml', renderSitemap(svEntries));
         maps.push('sitemap-sv.xml');
@@ -414,7 +316,7 @@ export default function customSitemap() {
           try { unlinkSync(outDir + old); } catch {}
         }
 
-        console.log(`[custom-sitemap] NO: ${noEntries.length}, SV: ${svEntries.length}, EN: ${enEntries.length}, sum ${entries.length}`);
+        console.log(`[custom-sitemap] NO: ${noEntries.length}, SV: ${svEntries.length}, DA: ${daEntries.length}, EN: ${enEntries.length}, sum ${entries.length}`);
       },
     },
   };

@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
@@ -10,10 +11,7 @@ const guider = await getCollection('guider');
   beskrivelse="Utforsk våre guider om drømmer, søvn og drømmetolkning. Lær om lucid drømming, mareritt og mye mer."
   lang="nb"
   canonicalUrl="https://drommeguiden.no/guider/"
-  alternates={[
-    { lang: 'nb', url: 'https://drommeguiden.no/guider/' },
-    { lang: 'sv', url: 'https://drommeguiden.no/sv/guider/' },
-  ]}
+  alternates={alternatesFor('guiderIndex')}
 >
   <div class="guider-page">
     <!-- Header -->

@@ -10,7 +10,7 @@ import type { Lang } from '../i18n/config';
  * `text-transform: capitalize` ble det «Avdod Person». Etiketten utledes nå
  * fra artikkelens egen tittel.
  */
-const MAPPE: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', en: 'drommer-en' };
+const MAPPE: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', da: 'drommer-da', en: 'drommer-en' };
 
 /**
  * Halen er en spoersmaalsformulering etter tankestrek. Moenstret er generisk
@@ -21,12 +21,14 @@ const MAPPE: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', en: 'drom
 const HALE: Record<Lang, RegExp> = {
   nb: / — [^—]*\?$/,
   sv: / — [^—]*\?$/,
+  da: / — [^—]*\?$/,
   en: / — [^—]*\?$/,
 };
 
 const HODE: Record<Lang, RegExp> = {
   nb: /^Drømmer om |^Drømme om |^Drømt om /,
   sv: /^Drömmar om |^Drömma om |^Drömt om /,
+  da: /^Drømme om |^Drømmer om |^Drømt om /,
   en: /^Dreaming (?:of|about) |^Dream about /,
 };
 
@@ -58,6 +60,7 @@ const OVERSTYR: Record<Lang, Record<string, string>> = {
     'frammande-sex': 'sex med främling',
     'frammande': 'en främling',
   },
+  da: {},
   en: {},
 };
 

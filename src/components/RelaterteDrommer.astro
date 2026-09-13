@@ -18,11 +18,12 @@ const hasItems = Array.isArray(artikler) && artikler.length > 0;
 const labelsByLang: Record<Lang, { badge: string; title: string }> = {
   nb: { badge: 'Drømmesymboler', title: 'Relaterte drømmesymboler' },
   sv: { badge: 'Drömsymboler', title: 'Relaterade drömsymboler' },
+  da: { badge: 'Drømmesymboler', title: 'Relaterede drømmesymboler' },
   en: { badge: 'Dream symbols', title: 'Related dream symbols' },
 };
 const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
-const singleBadgeByLang: Record<Lang, string> = { nb: 'Drømmesymbol', sv: 'Drömsymbol', en: 'Dream symbol' };
+const singleBadgeByLang: Record<Lang, string> = { nb: 'Drømmesymbol', sv: 'Drömsymbol', da: 'Drømmesymbol', en: 'Dream symbol' };
 
 function displayName(tittel: string): string {
   return tittel

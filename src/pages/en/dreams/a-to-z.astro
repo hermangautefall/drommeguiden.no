@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../../lib/statiske-alternates';
 import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import type { Lang } from '../../../i18n/config';
@@ -39,11 +40,6 @@ for (const item of items) {
 const letterOrder = ALPHABET.filter((l) => groups[l]);
 if (groups['#']) letterOrder.push('#');
 
-const alternates: { lang: Lang; url: string }[] = [
-  { lang: 'nb', url: 'https://drommeguiden.no/drommer/a-til-aa/' },
-  { lang: 'sv', url: 'https://drommeguiden.no/sv/drommar/a-till-o/' },
-  { lang: 'en', url: 'https://drommeguiden.no/en/dreams/a-to-z/' },
-];
 ---
 
 <Base
@@ -51,7 +47,7 @@ const alternates: { lang: Lang; url: string }[] = [
   tittel="All dream symbols — A to Z"
   beskrivelse="A complete alphabetical overview of every dream symbol on the Dream Guide. Browse from A to Z and find the meaning of your dream."
   canonicalUrl="https://drommeguiden.no/en/dreams/a-to-z/"
-  alternates={alternates}
+  alternates={alternatesFor('aTilAa')}
 >
   <div class="atoz-page">
     <header class="atoz-header">

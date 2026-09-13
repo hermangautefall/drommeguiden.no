@@ -13,6 +13,7 @@ import type { Lang } from '../i18n/config';
 const mappe: Record<Lang, string> = {
   nb: 'drommer',
   sv: 'drommer-sv',
+  da: 'drommer-da',
   en: 'drommer-en',
 };
 

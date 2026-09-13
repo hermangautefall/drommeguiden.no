@@ -17,7 +17,7 @@ function escape(s: string): string {
 
 export function adSlotHtml(opts: AdSlotOptions): string {
   const { format, slotId = 'placeholder', dataAdFormat = 'auto', lang = 'nb' } = opts;
-  const labelByLang: Record<string, string> = { nb: 'Annonse', sv: 'Annons', en: 'Advertisement' };
+  const labelByLang: Record<string, string> = { nb: 'Annonse', sv: 'Annons', da: 'Annonce', en: 'Advertisement' };
   const label = labelByLang[lang] ?? labelByLang.nb;
   const isPlaceholder = slotId === 'placeholder';
 

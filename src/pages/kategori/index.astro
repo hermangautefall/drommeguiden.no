@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
@@ -26,6 +27,9 @@ const kategorierMedAntall = kategorier.map(kat => ({
 <Base
   tittel="Alle kategorier"
   beskrivelse="Utforsk drømmesymboler sortert etter kategori. Dyr, vann, kropp, steder, hendelser og mer."
+  lang="nb"
+  canonicalUrl="https://drommeguiden.no/kategori/"
+  alternates={alternatesFor('kategoriIndex')}
 >
   <div class="kategori-index">
     <span class="kategori-label">Tematisk oversikt</span>

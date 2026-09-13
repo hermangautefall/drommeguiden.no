@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../lib/statiske-alternates';
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
@@ -24,10 +25,7 @@ const artiklerPerKategori = kategorier.map(kat => ({
   beskrivelse="Alt du trenger å vite om søvn: søvnfaser, søvnhygiene, søvnproblemer og sammenhengen mellom søvn og drømmer. Basert på forskning."
   canonicalUrl="https://drommeguiden.no/sovn/"
   lang="nb"
-  alternates={[
-    { lang: 'nb', url: 'https://drommeguiden.no/sovn/' },
-    { lang: 'sv', url: 'https://drommeguiden.no/sv/somn/' },
-  ]}
+  alternates={alternatesFor('sovnIndex')}
 >
   <div class="sovn-hub">
     <!-- Hero -->

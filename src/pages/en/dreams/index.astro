@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../../lib/statiske-alternates';
 import Base from '../../../layouts/Base.astro';
 import SymbolKort from '../../../components/SymbolKort.astro';
 import { getCollection } from 'astro:content';
@@ -19,11 +20,6 @@ const kategoriLabels: Record<string, string> = {
   gjenstander: 'Objects',
 };
 
-const alternates: { lang: Lang; url: string }[] = [
-  { lang: 'nb', url: 'https://drommeguiden.no/drommer/' },
-  { lang: 'sv', url: 'https://drommeguiden.no/sv/drommar/' },
-  { lang: 'en', url: 'https://drommeguiden.no/en/dreams/' },
-];
 ---
 
 <Base
@@ -31,7 +27,7 @@ const alternates: { lang: Lang; url: string }[] = [
   beskrivelse="Explore dream symbols with interpretations in English. Search for your symbol and find out what your dream means — sorted by category and theme."
   lang="en"
   canonicalUrl="https://drommeguiden.no/en/dreams/"
-  alternates={alternates}
+  alternates={alternatesFor('drommerIndex')}
 >
   <div class="drommer-page">
     <div class="drommer-header">

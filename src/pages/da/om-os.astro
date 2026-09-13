@@ -1,0 +1,67 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+import { getAuthor } from '../../data/authors';
+
+const author = getAuthor('default');
+const navn = author.navnPerSprak?.da ?? author.name;
+---
+
+<Base
+  lang="da"
+  tittel="Om os"
+  beskrivelse="Drømmeguiden er lavet til dig der vågner med en drøm i hovedet og gerne vil vide hvad den betyder. Se hvem vi er, og hvordan vi arbejder."
+  alternates={alternatesFor('omOss')}
+>
+  <div class="static-page">
+    <span class="static-label">Om os</span>
+    <h1 class="static-title">Om Drømmeguiden</h1>
+
+    <div class="prose">
+      <p>
+        Drømmeguiden er lavet til dig der vågner med en drøm i hovedet og gerne vil vide hvad den betyder. Vi mener at drømme er en værdifuld kilde til selvindsigt — ikke magi eller spådomskunst, men et vindue ind til det ubevidste som fortjener at blive taget alvorligt.
+      </p>
+
+      <h2>Hvem står bag</h2>
+      <p>Drømmeguiden drives og redigeres af <strong>{navn}</strong>.</p>
+
+      <h2>Hvorfor siden findes</h2>
+      <p>
+        Det meste der findes om drømme på dansk er enten korte, overfladiske opslagsværker eller magiske spådomssider uden faglig forankring. Vi mente at emnet fortjente noget bedre — en seriøs, varm og læseværdig ressurs der hverken er reduktiv eller mystisk. Vi skriver fordi drømmene er en del af menneskelivet som har fascineret os på tværs af tid og kulturer, og fordi nattens billedsprog fortjener samme respekt som dagens.
+      </p>
+
+      <h2>Sådan arbejder vi med drømmetydning</h2>
+      <p>
+        Vi kombinerer tre kilder når vi skriver om drømmesymboler. <strong>Nordisk arv</strong> giver os et lokalt symbolsprog som ofte mangler i internationale drømmebøger. <strong>Jungiansk psykologi</strong> giver os et sprog for det ubevidstes arketyper, persona og individuationsprocessen. <strong>Sammenlignende kultur og religion</strong> giver perspektiver fra islam, hinduisme, buddhisme, oprindelige traditioner og verdens mytologier — fordi drømme aldrig har været et rent lokalt fænomen.
+      </p>
+      <p>
+        Vi undgår bevidst absolutte påstande. Du vil aldrig læse «denne drøm BETYDER at...» hos os; du vil læse «kan betyde», «tolkes ofte som» og «spørg dig selv». Drømme er personlige, og tolkningen er altid din egen.
+      </p>
+
+      <h2>Sådan arbejder vi med søvnstoffet</h2>
+      <p>
+        Søvnsektionen står på en anden fod end drømmesiderne. Her skriver vi om søvnvidenskab, søvnhygiejne og søvnforstyrrelser med udgangspunkt i fagfællebedømt forskning, kliniske retningslinjer og sundhedsmyndighedernes anbefalinger. Vi giver aldrig konkrete medicinske råd. Søvnbesvær der varer ved eller plager dig, skal altid udredes af din egen læge eller en søvnspecialist.
+      </p>
+
+      <h2>Vi er ikke terapeuter</h2>
+      <p>
+        Det er vigtigt at dette står tydeligt: vi er ikke psykologer, psykiatere, terapeuter eller læger. Indholdet erstatter ikke professionel sundhedshjælp. Vi tilbyder <em>refleksion</em>, ikke <em>diagnose</em>. Kæmper du med tilbagevendende mareridt, alvorlige søvnforstyrrelser, traumer eller psykisk sygdom, opfordrer vi dig kraftigt til at tale med din egen læge eller en kvalificeret behandler.
+      </p>
+
+      <h2>Rettelser og tilbagemeldinger</h2>
+      <p>
+        Vi tager imod tilbagemeldinger, rettelser og forslag med åbne arme. Har du set en faktuel fejl, en uklarhed, et symbol du savner, eller en kulturel vinkel vi har ramt skævt? <a href="/da/kontakt/">Sig til</a>.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

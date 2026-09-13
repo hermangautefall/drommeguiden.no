@@ -1,0 +1,159 @@
+---
+import { alternatesFor } from '../../../lib/statiske-alternates';
+import Base from '../../../layouts/Base.astro';
+import SymbolKort from '../../../components/SymbolKort.astro';
+import { getCollection } from 'astro:content';
+
+const drommer = await getCollection('drommer-da');
+const sortert = drommer.sort((a, b) => a.data.tittel.localeCompare(b.data.tittel, 'da'));
+
+const kategorier = ['dyr', 'vand', 'krop', 'steder', 'haendelser', 'mennesker', 'natur', 'genstande', 'aandeligt'];
+const kategoriLabels: Record<string, string> = {
+  dyr: 'Dyr',
+  vand: 'Vand',
+  krop: 'Krop',
+  steder: 'Steder',
+  haendelser: 'Hændelser',
+  mennesker: 'Mennesker',
+  natur: 'Natur',
+  genstande: 'Genstande',
+  aandeligt: 'Åndeligt',
+};
+---
+
+<Base
+  tittel="Drømmesymboler — find betydningen af din drøm"
+  beskrivelse="Udforsk drømmesymboler med tolkninger på dansk. Søg efter dit symbol og find ud af hvad din drøm betyder — sorteret efter kategori og tema."
+  lang="da"
+  canonicalUrl="https://drommeguiden.no/da/dromme/"
+  alternates={alternatesFor('drommerIndex')}
+>
+  <div class="drommer-page">
+    <div class="drommer-header">
+      <span class="drommer-label">Komplet oversigt</span>
+      <h1 class="drommer-title">Alle drømmesymboler</h1>
+      <p class="drommer-subtitle">
+        {drommer.length} symboler — søg eller filtrér for at finde dit symbol.
+      </p>
+      <p class="drommer-subhint">
+        Vil du hellere bladre? Se den
+        <a href="/da/dromme/a-til-aa/">alfabetiske A&nbsp;til&nbsp;Å-oversigt</a>.
+      </p>
+    </div>
+
+    <div class="drommer-search">
+      <input
+        type="text"
+        id="filtrer-sok"
+        placeholder="Søg blandt symboler..."
+        autocomplete="off"
+        class="drommer-search-input"
+      />
+    </div>
+
+    <div class="drommer-filters">
+      <button class="kategori-filter aktiv" data-kategori="alle">Alle</button>
+      {kategorier.map((kat) => (
+        <button class="kategori-filter" data-kategori={kat}>
+          {kategoriLabels[kat] || kat}
+        </button>
+      ))}
+    </div>
+
+    <div id="symbol-grid" class="drommer-grid">
+      {sortert.map((d) => (
+        <div class="symbol-item" data-kategori={d.data.kategori} data-tittel={d.data.tittel.toLowerCase()} data-slug={d.data.slug}>
+          <SymbolKort
+            tittel={d.data.tittel}
+            slug={d.data.slug}
+            kortbeskrivelse={d.data.kortbeskrivelse}
+            kategori={d.data.kategori}
+            bilde={d.data.bilde}
+            lang="da"
+          />
+        </div>
+      ))}
+    </div>
+
+    <p id="ingen-treff" class="drommer-empty hidden">
+      Ingen symboler fundet. Prøv et andet søgeord eller filter.
+    </p>
+  </div>
+
+  <style>
+    .drommer-page { max-width: 960px; margin: 0 auto; }
+    .drommer-header { margin-bottom: 32px; }
+    .drommer-label {
+      display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+      letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px;
+    }
+    .drommer-title {
+      font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+      margin-bottom: 10px; font-weight: 400;
+    }
+    @media (min-width: 768px) { .drommer-title { font-size: 48px; } }
+    .drommer-subtitle { font-size: 16px; color: var(--color-text-muted); line-height: 1.6; }
+    .drommer-subhint { font-size: 14px; color: var(--color-text-muted); margin-top: 6px; }
+    .drommer-subhint a { color: var(--color-primary); font-weight: 500; }
+
+    .drommer-search { margin-bottom: 20px; }
+    .drommer-search-input {
+      width: 100%; max-width: 400px; padding: 12px 18px; border-radius: 12px;
+      border: 1px solid rgba(123, 111, 160, 0.15); background: rgba(255, 255, 255, 0.7);
+      color: var(--color-text-body); font-size: 16px; font-family: var(--font-body); transition: all 0.2s ease;
+    }
+    .drommer-search-input::placeholder { color: var(--color-text-muted); }
+    .drommer-search-input:focus {
+      outline: none; border-color: var(--color-primary);
+      box-shadow: 0 0 0 3px rgba(123, 111, 160, 0.1);
+    }
+
+    .drommer-filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 32px; }
+    .kategori-filter {
+      padding: 8px 16px; border-radius: 100px; font-size: 13px; font-family: var(--font-nav);
+      font-weight: 500; border: 1px solid rgba(123, 111, 160, 0.12);
+      background: rgba(255, 255, 255, 0.6); color: var(--color-text-muted);
+      cursor: pointer; transition: all 0.2s ease;
+    }
+    .kategori-filter:hover:not(.aktiv) { border-color: var(--color-primary); color: var(--color-primary); }
+    .kategori-filter.aktiv { background: var(--color-primary); color: white; border-color: var(--color-primary); }
+
+    .drommer-grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
+    @media (min-width: 480px) { .drommer-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 768px) { .drommer-grid { grid-template-columns: repeat(3, 1fr); } }
+
+    .drommer-empty { text-align: center; color: var(--color-text-muted); padding: 48px 0; font-size: 15px; }
+    .hidden { display: none; }
+  </style>
+
+  <script>
+    const filterButtons = document.querySelectorAll('.kategori-filter');
+    const items = document.querySelectorAll('.symbol-item');
+    const searchInput = document.getElementById('filtrer-sok') as HTMLInputElement;
+    const ingenTreff = document.getElementById('ingen-treff');
+    let activeKategori = 'alle';
+
+    function filterItems() {
+      const query = searchInput?.value.toLowerCase().trim() || '';
+      let visibleCount = 0;
+      items.forEach((item) => {
+        const el = item as HTMLElement;
+        const matchesKategori = activeKategori === 'alle' || el.dataset.kategori === activeKategori;
+        const matchesSearch = query.length < 2 || el.dataset.tittel?.includes(query) || el.dataset.slug?.includes(query);
+        if (matchesKategori && matchesSearch) { el.style.display = ''; visibleCount++; }
+        else { el.style.display = 'none'; }
+      });
+      if (ingenTreff) ingenTreff.style.display = visibleCount === 0 ? 'block' : 'none';
+    }
+
+    filterButtons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        filterButtons.forEach((b) => b.classList.remove('aktiv'));
+        btn.classList.add('aktiv');
+        activeKategori = (btn as HTMLElement).dataset.kategori || 'alle';
+        filterItems();
+      });
+    });
+    searchInput?.addEventListener('input', filterItems);
+  </script>
+</Base>

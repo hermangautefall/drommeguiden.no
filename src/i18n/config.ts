@@ -21,6 +21,17 @@ export const languages = {
     brand: 'Drömguiden',
     dir: 'ltr',
   },
+  da: {
+    code: 'da',
+    locale: 'da_DK',
+    flag: '🇩🇰',
+    label: 'Dansk',
+    shortLabel: 'DA',
+    htmlLang: 'da',
+    basePath: '/da',
+    brand: 'Drømmeguiden',
+    dir: 'ltr',
+  },
   en: {
     code: 'en',
     locale: 'en_US',
@@ -38,7 +49,7 @@ export type Lang = keyof typeof languages;
 
 export const defaultLang: Lang = 'nb';
 
-export const supportedLangs: Lang[] = ['nb', 'sv', 'en'];
+export const supportedLangs: Lang[] = ['nb', 'sv', 'da', 'en'];
 
 export const pathSegments = {
   nb: {
@@ -63,6 +74,19 @@ export const pathSegments = {
     kontakt: 'kontakt',
     personvern: 'integritet',
     vilkar: 'villkor',
+    cookies: 'cookies',
+    journal: 'journal',
+    symboler: 'symboler',
+  },
+  da: {
+    drommer: 'dromme',
+    kategori: 'kategori',
+    guider: 'guider',
+    sovn: 'sovn',
+    omOss: 'om-os',
+    kontakt: 'kontakt',
+    personvern: 'privatliv',
+    vilkar: 'vilkar',
     cookies: 'cookies',
     journal: 'journal',
     symboler: 'symboler',

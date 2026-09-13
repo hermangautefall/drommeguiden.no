@@ -1,0 +1,86 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="da"
+  tittel="Privatlivspolitik"
+  beskrivelse="Læs Drømmeguidens privatlivspolitik. Hvilke oplysninger vi indsamler, hvorfor vi gør det, og hvilke rettigheder du har efter GDPR."
+  alternates={alternatesFor('personvern')}
+>
+  <div class="static-page">
+    <span class="static-label">Privatliv</span>
+    <h1 class="static-title">Privatlivspolitik</h1>
+
+    <div class="prose">
+      <p>
+        Denne politik beskriver hvilke oplysninger drommeguiden.no indsamler, hvorfor, og hvilke rettigheder du har. Sidst opdateret 11. september 2026.
+      </p>
+
+      <h2>Hvem er vi</h2>
+      <p>
+        Drommeguiden.no er et redaktionelt websted om drømme og søvn. Siden er statisk og har ingen brugerkonti, ingen indlogning og ingen database med personoplysninger.
+      </p>
+
+      <h2>Hvilke oplysninger vi indsamler</h2>
+      <p>
+        Vi indsamler ikke navn, e-mail eller kontaktoplysninger, medmindre du selv skriver til os. Det vi indsamler, sker gennem tredjepartstjenester som beskrevet nedenfor, og handler om brug af siden — ikke om dig som person.
+      </p>
+      <p>
+        Skriver du til os på e-mail, opbevarer vi beskeden så længe det er nødvendigt for at besvare den.
+      </p>
+
+      <h2>Tjenester vi bruger</h2>
+      <p>
+        <strong>Google Analytics</strong> giver os anonymiseret statistik over hvilke sider der læses. <strong>Google AdSense</strong> viser annoncer og sætter cookies til det formål. <strong>Cloudflare</strong> leverer siden og sætter tekniske cookies der er nødvendige for drift og sikkerhed.
+      </p>
+
+      <h2>Annoncer og partnerlinks</h2>
+      <p>
+        Siden finansieres af annoncer. Ud over AdSense viser vi <strong>partnerlinks</strong> (affiliate) — annoncer hvor vi modtager en provision hvis du klikker og køber noget. Disse er altid mærket «Annonce», og de koster dig ikke mere end hvis du gik direkte til udbyderen.
+      </p>
+      <p>
+        Vi anbefaler ikke produkterne redaktionelt. At en annonce vises på siden, er ikke en faglig vurdering fra os.
+      </p>
+
+      <h2>Drømmejournalen</h2>
+      <p>
+        Skriver du i <a href="/da/journal/">drømmejournalen</a>, gemmes teksten udelukkende i din egen browser (localStorage). Intet sendes til os, intet gemmes på en server, og vi kan ikke læse det du skriver.
+      </p>
+
+      <h2>Behandlingsgrundlag</h2>
+      <p>
+        Tekniske cookies bruges med hjemmel i legitim interesse i at kunne levere siden. Analyse- og annoncecookies sættes kun hvis du har givet samtykke i cookiebanneret.
+      </p>
+
+      <h2>Dine rettigheder efter GDPR</h2>
+      <p>
+        Du har ret til indsigt i, rettelse af og sletning af oplysninger om dig, ret til at begrænse behandlingen, ret til dataportabilitet og ret til at gøre indsigelse. Da vi ikke opbevarer personoplysninger om dig ud over eventuel e-mailkorrespondance, vil en anmodning som regel dreje sig om den.
+      </p>
+      <p>
+        Du kan klage til Datatilsynet hvis du mener behandlingen er i strid med reglerne.
+      </p>
+
+      <h2>Sådan trækker du dit samtykke tilbage</h2>
+      <p>
+        Du kan til enhver tid ændre eller trække dit samtykke tilbage via cookieindstillingerne på siden, eller ved at slette cookies i din browser. Se <a href="/da/cookies/">cookiesiden</a> for detaljer.
+      </p>
+
+      <h2>Kontakt</h2>
+      <p>
+        Spørgsmål om denne politik kan sendes til <a href="mailto:hej@drommeguiden.no">hej@drommeguiden.no</a>.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

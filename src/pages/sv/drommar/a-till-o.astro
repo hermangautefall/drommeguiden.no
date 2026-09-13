@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../../lib/statiske-alternates';
 import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
@@ -41,10 +42,7 @@ if (groups['#']) letterOrder.push('#');
   tittel="Alla drömsymboler — A till Ö"
   beskrivelse="Komplett alfabetisk översikt över alla drömsymboler på Drömguiden. Bläddra från A till Ö och hitta betydelsen av din dröm."
   canonicalUrl="https://drommeguiden.no/sv/drommar/a-till-o/"
-  alternates={[
-    { lang: 'nb', url: 'https://drommeguiden.no/drommer/a-til-aa/' },
-    { lang: 'sv', url: 'https://drommeguiden.no/sv/drommar/a-till-o/' },
-  ]}
+  alternates={alternatesFor('aTilAa')}
 >
   <div class="atoz-page">
     <header class="atoz-header">

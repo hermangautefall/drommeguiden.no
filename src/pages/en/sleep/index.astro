@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../../lib/statiske-alternates';
 import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import type { Lang } from '../../../i18n/config';
@@ -19,11 +20,6 @@ const artiklerPerKategori = kategorier.map(kat => ({
   artikler: alleArtikler.filter(a => a.data.kategori === kat.id),
 })).filter(k => k.artikler.length > 0);
 
-const alternates: { lang: Lang; url: string }[] = [
-  { lang: 'nb', url: 'https://drommeguiden.no/sovn/' },
-  { lang: 'sv', url: 'https://drommeguiden.no/sv/somn/' },
-  { lang: 'en', url: 'https://drommeguiden.no/en/sleep/' },
-];
 
 // Tom samling => ikke indekser (unngå tynn side i indeks)
 const erTom = alleArtikler.length === 0;
@@ -35,7 +31,7 @@ const erTom = alleArtikler.length === 0;
   beskrivelse="Everything you need to know about sleep: sleep stages, sleep hygiene, sleep problems and the link between sleep and dreams. Grounded in research."
   lang="en"
   canonicalUrl="https://drommeguiden.no/en/sleep/"
-  alternates={alternates}
+  alternates={alternatesFor('sovnIndex')}
 >
   <div class="sovn-hub">
     <section class="sovn-hero">

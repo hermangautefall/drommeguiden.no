@@ -42,6 +42,20 @@ const labelsByLang: Record<Lang, {
     delete: 'Radera',
     confirmDelete: 'Radera denna reflektion?',
   },
+  da: {
+    heading: 'Drømmeguiden anbefaler',
+    intro: 'Drømme giver sjældent ét enkelt svar — de taler til dig gennem billeder og følelser. Spørg dig selv:',
+    q1: 'Hvilken følelse sad tilbage, da du vågnede?',
+    q2: 'Hvad sker der i dit liv lige nu?',
+    q3: `Har du drømt om ${displayName} flere gange?`,
+    placeholder: 'Skriv din refleksion her...',
+    save: 'Gem min refleksion',
+    saved: 'Gemt!',
+    previousTitle: 'Tidligere refleksioner',
+    previousEmpty: 'Ingen gemte refleksioner endnu — begynd ovenfor.',
+    delete: 'Slet',
+    confirmDelete: 'Slette denne refleksion?',
+  },
   en: {
     heading: 'The Dream Guide recommends',
     intro: 'Dreams rarely give a simple answer — they speak to you through images and feelings. Ask yourself:',
@@ -60,7 +74,7 @@ const labelsByLang: Record<Lang, {
 const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
 const questions = [labels.q1, labels.q2, labels.q3];
-const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB' };
+const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', en: 'en-GB' };
 const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
 ---
 

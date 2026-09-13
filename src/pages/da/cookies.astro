@@ -1,0 +1,65 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="da"
+  tittel="Cookies"
+  beskrivelse="Sådan bruger Drømmeguiden cookies — hvilke der er nødvendige, hvilke der kræver samtykke, og hvordan du ændrer dine valg."
+  alternates={alternatesFor('cookies')}
+>
+  <div class="static-page">
+    <span class="static-label">Cookies</span>
+    <h1 class="static-title">Om cookies</h1>
+
+    <div class="prose">
+      <p>
+        En cookie er en lille tekstfil som et websted gemmer i din browser. Nogle er nødvendige for at siden overhovedet fungerer; andre bruges til statistik og annoncer og sættes kun hvis du siger ja. Sidst opdateret 11. september 2026.
+      </p>
+
+      <h2>Nødvendige cookies</h2>
+      <p>
+        Disse sættes af <strong>Cloudflare</strong>, som leverer siden, og bruges til sikkerhed og drift. De kan ikke fravælges, fordi siden ikke kan vises uden dem. De identificerer dig ikke som person.
+      </p>
+
+      <h2>Statistik</h2>
+      <p>
+        <strong>Google Analytics</strong> fortæller os hvilke sider der læses, og hvor længe. Vi bruger det til at prioritere hvad vi skriver om. Dataene er anonymiserede, og vi kan ikke se hvem enkeltbesøgende er.
+      </p>
+
+      <h2>Annoncer</h2>
+      <p>
+        <strong>Google AdSense</strong> sætter cookies for at vise annoncer og måle effekten af dem. Har du givet samtykke til personligt tilpassede annoncer, kan de også bruges til at tilpasse hvad du ser.
+      </p>
+      <p>
+        Partnerlinks (affiliate) på siden bruger cookies hos udbyderen til at registrere at klikket kom herfra. Det sker først når du klikker på annoncen, ikke ved blot at se den.
+      </p>
+
+      <h2>Drømmejournalen bruger ikke cookies</h2>
+      <p>
+        Journalen gemmer i <code>localStorage</code>, ikke i cookies. Det betyder at teksten bliver i din browser og aldrig sendes nogen steder hen — men også at den forsvinder hvis du rydder dine browserdata.
+      </p>
+
+      <h2>Sådan ændrer du dine valg</h2>
+      <p>
+        Du kan til enhver tid ændre samtykket via cookieindstillingerne på siden. Du kan også blokere eller slette cookies i din browsers indstillinger. Blokerer du alle cookies, vil dele af siden kunne holde op med at fungere.
+      </p>
+
+      <h2>Spørgsmål</h2>
+      <p>
+        Skriv til <a href="mailto:hej@drommeguiden.no">hej@drommeguiden.no</a>.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

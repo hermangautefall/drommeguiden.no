@@ -10,9 +10,9 @@ interface Props {
 }
 
 const { relaterte, lang = defaultLang } = Astro.props;
-const labelByLang: Record<Lang, string> = { nb: 'Utforsk videre', sv: 'Utforska vidare', en: 'Explore further' };
+const labelByLang: Record<Lang, string> = { nb: 'Utforsk videre', sv: 'Utforska vidare', da: 'Udforsk videre', en: 'Explore further' };
 const label = labelByLang[lang] ?? labelByLang.nb;
-const titleByLang: Record<Lang, string> = { nb: 'Relaterte drømmesymboler', sv: 'Relaterade drömsymboler', en: 'Related dream symbols' };
+const titleByLang: Record<Lang, string> = { nb: 'Relaterte drømmesymboler', sv: 'Relaterade drömsymboler', da: 'Relaterede drømmesymboler', en: 'Related dream symbols' };
 const title = titleByLang[lang] ?? titleByLang.nb;
 
 // Dropp slugger uten artikkel — de ble tidligere rendret som doede lenker

@@ -1,0 +1,52 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="da"
+  tittel="Kontakt"
+  beskrivelse="Har du et spørgsmål om et drømmesymbol, et forslag til noget vi mangler, eller en rettelse? Skriv til os — vi læser alle henvendelser."
+  alternates={alternatesFor('kontakt')}
+>
+  <div class="static-page">
+    <span class="static-label">Kontakt</span>
+    <h1 class="static-title">Kontakt os</h1>
+
+    <div class="prose">
+      <p>
+        Vi sætter pris på at høre fra vores læsere. Uanset om du har et spørgsmål om et drømmesymbol, gerne vil foreslå et symbol vi mangler, eller bare vil dele en drøm der ikke slipper dig — vi læser alle beskeder.
+      </p>
+
+      <p>Skriv til os på:</p>
+
+      <p class="kontakt-email">
+        <a href="mailto:hej@drommeguiden.no">hej@drommeguiden.no</a>
+      </p>
+
+      <p>
+        Vi bestræber os på at svare inden for et par hverdage. Skriv gerne i emnefeltet hvad henvendelsen drejer sig om, så er det lettere for os at hjælpe.
+      </p>
+
+      <h2>Rettelser er velkomne</h2>
+      <p>
+        Har du fundet en faktuel fejl, en uklarhed eller en kulturel vinkel vi har ramt skævt? Sig til. Drømmeguiden er et levende projekt, og kvaliteten afhænger af at læserne siger fra når noget ikke passer.
+      </p>
+
+      <h2>Det vi ikke tilbyder</h2>
+      <p>
+        Drømmeguiden tilbyder ikke personlig drømmetydning eller terapeutisk rådgivning. Oplever du tilbagevendende mareridt eller søvnproblemer der påvirker din hverdag, anbefaler vi at du taler med din egen læge.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

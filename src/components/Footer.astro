@@ -26,6 +26,12 @@ const popularSlugsByLang: Record<Lang, { slug: string; label: string }[]> = {
     { slug: 'ex', label: 'Ex' },
     { slug: 'flyga', label: 'Flyga' },
   ],
+  da: [
+    { slug: 'slange', label: 'Slange' },
+    { slug: 'taender', label: 'Tænder' },
+    { slug: 'hund', label: 'Hund' },
+    { slug: 'at-flyve', label: 'At flyve' },
+  ],
   en: [
     { slug: 'snake', label: 'Snake' },
     { slug: 'ocean', label: 'Ocean' },
@@ -40,8 +46,8 @@ const drommerBase = pathFor(lang, 'drommer');
 // Ikke lenk til seksjoner som er tomme på dette språket
 const seksjoner = seksjonerMedInnhold(lang);
 
-const azHrefByLang: Record<Lang, string> = { nb: '/drommer/a-til-aa/', sv: '/sv/drommar/a-till-o/', en: '/en/dreams/a-to-z/' };
-const azLabelByLang: Record<Lang, string> = { nb: 'A til Å', sv: 'A till Ö', en: 'A to Z' };
+const azHrefByLang: Record<Lang, string> = { nb: '/drommer/a-til-aa/', sv: '/sv/drommar/a-till-o/', da: '/da/dromme/a-til-aa/', en: '/en/dreams/a-to-z/' };
+const azLabelByLang: Record<Lang, string> = { nb: 'A til Å', sv: 'A till Ö', da: 'A til Å', en: 'A to Z' };
 ---
 
 <footer class="site-footer">

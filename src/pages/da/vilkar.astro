@@ -1,0 +1,73 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="da"
+  tittel="Vilkår"
+  beskrivelse="Vilkår for brug af Drømmeguiden. Hvad indholdet er og ikke er, ophavsret, ansvarsfraskrivelse og hvordan annoncer er mærket."
+  alternates={alternatesFor('vilkar')}
+>
+  <div class="static-page">
+    <span class="static-label">Vilkår</span>
+    <h1 class="static-title">Vilkår for brug</h1>
+
+    <div class="prose">
+      <p>
+        Ved at bruge drommeguiden.no accepterer du vilkårene nedenfor. Sidst opdateret 11. september 2026.
+      </p>
+
+      <h2>Hvad indholdet er</h2>
+      <p>
+        Drømmeguiden er en redaktionel ressurs om drømme og søvn. Indholdet bygger på psykologisk faglitteratur, søvnforskning og kulturhistorie, og det er skrevet til refleksion — ikke som facit.
+      </p>
+
+      <h2>Hvad indholdet ikke er</h2>
+      <p>
+        Vi er ikke psykologer, læger eller terapeuter. Intet på siden er medicinsk, psykologisk eller juridisk rådgivning, og det erstatter ikke professionel hjælp. Drømmetydning er refleksion, ikke diagnose.
+      </p>
+      <p>
+        Vi hævder ikke at drømme varsler fremtiden. Hvor vi gengiver folketro og nordisk drømmetradition, gør vi det som kulturhistorie.
+      </p>
+
+      <h2>Søg hjælp når du har brug for det</h2>
+      <p>
+        Har du tilbagevendende mareridt, alvorlige søvnproblemer eller psykiske vanskeligheder, så kontakt din egen læge. Har du det svært, kan du ringe til Livslinien på 70 201 201.
+      </p>
+
+      <h2>Ophavsret</h2>
+      <p>
+        Teksterne på siden er vores eget arbejde og må ikke kopieres og genudgives uden aftale. Kortere citater med tydelig kildeangivelse og link er velkomne. Billederne kommer fra Pexels og er krediteret ved den enkelte artikel.
+      </p>
+
+      <h2>Annoncer og partnerlinks</h2>
+      <p>
+        Siden finansieres af annoncer. Nogle af dem er <strong>partnerlinks</strong>, hvor vi modtager en provision hvis du klikker og køber. Alle annoncer er mærket «Annonce», og et køb koster dig ikke mere end hvis du gik direkte til udbyderen.
+      </p>
+      <p>
+        At en annonce vises, er ikke en redaktionel anbefaling. Vi står ikke inde for produkterne og har intet ansvar for aftaler du indgår med tredjepart.
+      </p>
+
+      <h2>Ansvarsfraskrivelse</h2>
+      <p>
+        Vi bestræber os på at holde indholdet korrekt og opdateret, men kan ikke garantere at alt til enhver tid er fejlfrit. Brug af siden sker på eget ansvar. Finder du en fejl, sætter vi pris på at høre det.
+      </p>
+
+      <h2>Ændringer</h2>
+      <p>
+        Vilkårene kan blive opdateret. Væsentlige ændringer markeres med ny dato øverst.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

@@ -109,6 +109,60 @@ export const ui = {
     'dato.publisert': 'Publicerad',
     'dato.oppdatert': 'Uppdaterad',
   },
+  da: {
+    'nav.symboler': 'Symboler',
+    'nav.kategorier': 'Kategorier',
+    'nav.guider': 'Guider',
+    'nav.sovn': 'Søvn',
+    'nav.omOss': 'Om os',
+    'nav.kontakt': 'Kontakt',
+    'nav.personvern': 'Privatliv',
+    'nav.vilkar': 'Vilkår',
+    'nav.journal': 'Drømmejournal',
+
+    'cta.utforskSymboler': 'Udforsk symboler',
+    'cta.lesMer': 'Læs mere',
+    'cta.tilbake': 'Tilbage',
+    'cta.lesGuidene': 'Læs guiderne',
+
+    'hero.undertittel': 'Udforsk den danske drømmeguide',
+    'hero.beskrivelse': 'Søg blandt over 200 drømmesymboler — fra slanger og hav til tænder og det at flyve. Bygget på både forskning og folketro.',
+
+    'sok.placeholder': 'Søg efter et drømmesymbol...',
+
+    'footer.tagline': 'Den danske guide til drømme og deres betydning.',
+    'footer.utforsk': 'Udforsk',
+    'footer.populart': 'Populært',
+    'footer.info': 'Info',
+    'footer.copyright': 'Alle rettigheder forbeholdes.',
+
+    'symbol.tolkningerTittel': 'Almindelige tolkninger',
+    'symbol.tlDr': 'Hurtig tolkning',
+    'symbol.metaPublisert': 'Udgivet',
+    'symbol.lesetid': 'min læsetid',
+    'symbol.relaterte': 'Relaterede drømmesymboler',
+    'symbol.utforskVidere': 'Udforsk videre',
+
+    'sovn.tittel': 'Søvn',
+    'sovn.subtitle': 'Videnskab, vaner og bedre nætter — alt det du har brug for at vide om søvn, bygget på forskning.',
+    'sovn.artikler': 'artikler',
+    'sovn.seksjon': 'Søvnsektionen',
+    'sovn.forbindelsen': 'Forbindelsen',
+    'sovn.bridgeTittel': 'Søvn og drømme hænger sammen',
+    'sovn.bridgeTekst': 'Drømmene opstår under REM-søvnen — og søvnkvaliteten påvirker direkte, hvad du drømmer. Udforsk over 200 drømmesymboler i vores komplette drømmeguide.',
+    'sovn.bridgeCta': 'Udforsk drømmesymboler',
+
+    'sitemap.alle': 'Alle drømmesymboler',
+    'sitemap.alleSovn': 'Alle søvnartikler',
+    'sitemap.alleGuider': 'Alle guider',
+    'sitemap.alleKategorier': 'Alle kategorier',
+
+    'lang.label': 'Sprog',
+    'lang.bytt': 'Skift sprog',
+
+    'dato.publisert': 'Udgivet',
+    'dato.oppdatert': 'Opdateret',
+  },
   en: {
     'nav.symboler': 'Symbols',
     'nav.kategorier': 'Categories',

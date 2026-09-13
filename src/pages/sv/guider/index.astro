@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../../lib/statiske-alternates';
 import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
@@ -11,10 +12,7 @@ const sortert = guider.sort((a, b) => b.data.dato.getTime() - a.data.dato.getTim
   beskrivelse="Fördjupande guider om drömmar, drömtolkning, drömjournal och hur du förstår dina drömmar bättre."
   lang="sv"
   canonicalUrl="https://drommeguiden.no/sv/guider/"
-  alternates={[
-    { lang: 'nb', url: 'https://drommeguiden.no/guider/' },
-    { lang: 'sv', url: 'https://drommeguiden.no/sv/guider/' },
-  ]}
+  alternates={alternatesFor('guiderIndex')}
 >
   <div class="guider-page">
     <div class="guider-header">

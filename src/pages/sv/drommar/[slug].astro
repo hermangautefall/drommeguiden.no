@@ -1,11 +1,11 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Symbol from '../../../layouts/Symbol.astro';
-import { pathFor } from '../../../i18n/utils';
+import { symbolAlternates } from '../../../lib/symbol-alternates';
 
 export async function getStaticPaths() {
-  const drommer = await getCollection('drommer-sv');
-  return drommer.map((entry) => ({
+  const artikler = await getCollection('drommer-sv');
+  return artikler.map((entry) => ({
     params: { slug: entry.data.slug },
     props: { entry },
   }));
@@ -13,30 +13,12 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const alleEn = await getCollection('drommer-en');
+
+// Hreflang utledes av nb_slug for alle spraak, se lib/symbol-alternates.ts
+const alternates = await symbolAlternates(entry.data.nb_slug ?? entry.data.slug);
 
 const wordCount = (entry.body ?? '').trim().split(/\s+/).filter(Boolean).length;
 const leseminutter = Math.max(1, Math.round(wordCount / 200));
-
-const alternates: { lang: 'nb' | 'sv' | 'en'; url: string }[] = [
-  { lang: 'sv', url: `https://drommeguiden.no${pathFor('sv', 'drommer', entry.data.slug)}` },
-];
-if (entry.data.nb_slug) {
-  alternates.push({
-    lang: 'nb',
-    url: `https://drommeguiden.no${pathFor('nb', 'drommer', entry.data.nb_slug)}`,
-  });
-}
-// EN kobles via felles nb_slug
-const enMatch = entry.data.nb_slug
-  ? alleEn.find((e: any) => e.data.nb_slug === entry.data.nb_slug)
-  : undefined;
-if (enMatch) {
-  alternates.push({
-    lang: 'en',
-    url: `https://drommeguiden.no${pathFor('en', 'drommer', enMatch.data.slug)}`,
-  });
-}
 ---
 
 <Symbol

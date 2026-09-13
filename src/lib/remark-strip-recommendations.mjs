@@ -23,7 +23,7 @@ export default function remarkStripRecommendations() {
   return function transformer(tree, file) {
     const filePath = String(file?.path || file?.history?.[0] || '');
     // Bare drommer-kollektioner (NO + SV + EN)
-    if (!/[/\\]content[/\\]drommer(-sv|-en)?[/\\]/.test(filePath)) return;
+    if (!/[/\\]content[/\\]drommer(-sv|-da|-en)?[/\\]/.test(filePath)) return;
 
     const children = tree.children || [];
     let startIdx = -1;

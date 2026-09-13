@@ -42,7 +42,7 @@ interface Props {
 }
 
 const { tittel, kortbeskrivelse, tolkninger_kort, relaterte, relaterte_sovn, slug, kategori, dato, oppdatert, bilde, leseminutter, author, sensitivt, lang = defaultLang, alternates = [] } = Astro.props;
-const sovnCollectionByLang: Record<Lang, string> = { nb: 'sovn', sv: 'sovn-sv', en: 'sovn-en' };
+const sovnCollectionByLang: Record<Lang, string> = { nb: 'sovn', sv: 'sovn-sv', da: 'sovn-da', en: 'sovn-en' };
 const sovnCollection = sovnCollectionByLang[lang] ?? sovnCollectionByLang.nb;
 const alleSovn = await getCollection(sovnCollection as any);
 const relaterteSovnArtikler = (relaterte_sovn || [])
@@ -51,7 +51,7 @@ const relaterteSovnArtikler = (relaterte_sovn || [])
 const resolvedAuthor = getAuthor(author);
 const forfatterNavn = resolvedAuthor.navnPerSprak?.[lang] ?? resolvedAuthor.name;
 const og = await resolveOgImage(bilde);
-const lesetidLabelByLang: Record<Lang, string> = { nb: 'min lesetid', sv: 'min läsning', en: 'min read' };
+const lesetidLabelByLang: Record<Lang, string> = { nb: 'min lesetid', sv: 'min läsning', da: 'min læsetid', en: 'min read' };
 const lesetidLabel = lesetidLabelByLang[lang] ?? lesetidLabelByLang.nb;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 // Brukes i broedsmulen og i BreadcrumbSchema, som Google leser.
@@ -78,13 +78,13 @@ const langConfig = languages[lang];
 const baseSite = 'https://drommeguiden.no';
 const canonical = `${baseSite}${pathFor(lang, 'drommer', slug)}`;
 
-const aboutUrlByLang: Record<Lang, string> = { nb: '/om-oss/', sv: '/sv/om-oss/', en: '/en/about/' };
+const aboutUrlByLang: Record<Lang, string> = { nb: '/om-oss/', sv: '/sv/om-oss/', da: '/da/om-os/', en: '/en/about/' };
 const aboutUrl = aboutUrlByLang[lang] ?? aboutUrlByLang.nb;
-const bylineLabelByLang: Record<Lang, string> = { nb: 'Skrevet av', sv: 'Skriven av', en: 'Written by' };
+const bylineLabelByLang: Record<Lang, string> = { nb: 'Skrevet av', sv: 'Skriven av', da: 'Skrevet af', en: 'Written by' };
 const bylineLabel = bylineLabelByLang[lang] ?? bylineLabelByLang.nb;
-const oppdatertLabelByLang: Record<Lang, string> = { nb: 'Sist oppdatert', sv: 'Senast uppdaterad', en: 'Last updated' };
+const oppdatertLabelByLang: Record<Lang, string> = { nb: 'Sist oppdatert', sv: 'Senast uppdaterad', da: 'Sidst opdateret', en: 'Last updated' };
 const oppdatertLabel = oppdatertLabelByLang[lang] ?? oppdatertLabelByLang.nb;
-const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', en: 'en-GB' };
+const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', en: 'en-GB' };
 const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
 const oppdatertDato = oppdatert ?? dato;
 const oppdatertFmt = oppdatertDato.toLocaleDateString(dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
@@ -92,15 +92,17 @@ const oppdatertFmt = oppdatertDato.toLocaleDateString(dateLocale, { day: 'numeri
 const sensitivtTekstByLang: Record<Lang, string> = {
   nb: 'Drømmetolkning er refleksjon, ikke diagnose. Hvis innholdet i drømmen eller artikkelen vekker sterke følelser, snakk med noen du stoler på eller kontakt Mental Helse på 116 123.',
   sv: 'Drömtolkning är reflektion, inte diagnos. Om innehållet i drömmen eller artikeln väcker starka känslor, prata med någon du litar på eller kontakta Mind Självmordslinjen på 90101.',
+  da: 'Drømmetydning er refleksion, ikke diagnose. Hvis indholdet i drømmen eller artiklen vækker stærke følelser, så tal med en du stoler på, eller kontakt Livslinien på 70 201 201.',
   en: 'Dream interpretation is reflection, not diagnosis. If the content of the dream or this article brings up strong feelings, talk to someone you trust or reach out to a helpline where you live.',
 };
 const sensitivtTekst = sensitivtTekstByLang[lang] ?? sensitivtTekstByLang.nb;
-const sensitivtLabelByLang: Record<Lang, string> = { nb: 'Til ettertanke', sv: 'Att tänka på', en: 'Something to consider' };
+const sensitivtLabelByLang: Record<Lang, string> = { nb: 'Til ettertanke', sv: 'Att tänka på', da: 'Til eftertanke', en: 'Something to consider' };
 const sensitivtLabel = sensitivtLabelByLang[lang] ?? sensitivtLabelByLang.nb;
 
 const labelsByLang: Record<Lang, { hjem: string; symboler: string; breadcrumb: string }> = {
   nb: { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødsmuler' },
   sv: { hjem: 'Hem', symboler: 'Symboler', breadcrumb: 'Brödsmulor' },
+  da: { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødkrummer' },
   en: { hjem: 'Home', symboler: 'Symbols', breadcrumb: 'Breadcrumbs' },
 };
 const labels = labelsByLang[lang] ?? labelsByLang.nb;
@@ -250,7 +252,12 @@ const crumbs = [
           '@type': 'FAQPage',
           inLanguage: langConfig.htmlLang,
           mainEntity: tolkninger_kort.map((tolkning, i) => {
-            const symbol = slug.replace(/-/g, ' ');
+            // Sluggen er transkribert (ø→o, ä→a, æ→ae), saa «fjaril» og
+            // «taender» ville staatt feilstavet i Googles rike resultater.
+            // displayTitle er ordet slik det faktisk skrives paa spraaket.
+            // Samme rettelse ble gjort i SymbolBetydning.astro; den hoerer
+            // hjemme begge steder.
+            const symbol = displayTitle.toLocaleLowerCase(langConfig.htmlLang);
             const patternsByLang: Record<Lang, string[]> = {
               nb: [
                 `Hva betyr det å drømme om ${symbol}?`,
@@ -261,6 +268,11 @@ const crumbs = [
                 `Vad betyder det att drömma om ${symbol}?`,
                 `Vad symboliserar ${symbol} i drömmar?`,
                 `Är det dåligt att drömma om ${symbol}?`,
+              ],
+              da: [
+                `Hvad betyder det at drømme om ${symbol}?`,
+                `Hvad symboliserer ${symbol} i drømme?`,
+                `Er det dårligt at drømme om ${symbol}?`,
               ],
               en: [
                 `What does it mean to dream about ${symbol}?`,

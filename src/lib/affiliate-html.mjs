@@ -18,6 +18,7 @@ const ANNONSER = {
     alt: {
       nb: 'Annonse: tjeneste som tegner et portrett av din fremtidige partner',
       sv: 'Annons: tjänst som ritar ett porträtt av din framtida partner',
+      da: 'Annonce: tjeneste der tegner et portræt af din fremtidige partner',
       en: 'Advertisement: service that draws a portrait of your future partner',
     },
   },
@@ -29,12 +30,13 @@ const ANNONSER = {
     alt: {
       nb: 'Annonse: kosttilskudd som markedsføres for bedre nattesøvn',
       sv: 'Annons: kosttillskott som marknadsförs för bättre nattsömn',
+      da: 'Annonce: kosttilskud der markedsføres for bedre nattesøvn',
       en: 'Advertisement: supplement marketed for better sleep at night',
     },
   },
 };
 
-const MERKING = { nb: 'Annonse', sv: 'Annons', en: 'Advertisement' };
+const MERKING = { nb: 'Annonse', sv: 'Annons', da: 'Annonce', en: 'Advertisement' };
 
 function esc(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;')

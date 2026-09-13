@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../../lib/statiske-alternates';
 import Base from '../../../layouts/Base.astro';
 import SymbolKort from '../../../components/SymbolKort.astro';
 import { getCollection } from 'astro:content';
@@ -24,10 +25,7 @@ const kategoriLabels: Record<string, string> = {
   beskrivelse="Utforska drömsymboler med tolkningar på svenska. Sök efter din symbol och ta reda på vad din dröm betyder — sorterat efter kategori och tema."
   lang="sv"
   canonicalUrl="https://drommeguiden.no/sv/drommar/"
-  alternates={[
-    { lang: 'nb', url: 'https://drommeguiden.no/drommer/' },
-    { lang: 'sv', url: 'https://drommeguiden.no/sv/drommar/' },
-  ]}
+  alternates={alternatesFor('drommerIndex')}
 >
   <div class="drommer-page">
     <div class="drommer-header">

@@ -1,0 +1,247 @@
+---
+import { getCollection } from 'astro:content';
+import type { Lang } from '../i18n/config';
+
+/**
+ * Dagens symbol paa forsiden.
+ *
+ * Laa tidligere som tre naer identiske filer — DrommensDag, DrommensDagSV og
+ * DrommensDagEN — som bare skilte seg paa samling, sti, etikett og
+ * maanedsnavn. Da dansk kom til, ville det blitt en fjerde kopi av 177
+ * linjer. Samme grunn som for symbol-alternates.ts: settene sklir fra
+ * hverandre naar de vedlikeholdes hver for seg.
+ *
+ * id-suffikset holdes som foer (norsk uten, de andre med) slik at markup og
+ * klientscript er uendret for spraakene som allerede var i drift.
+ */
+interface Props {
+  lang?: Lang;
+}
+const { lang = 'nb' } = Astro.props;
+
+const SAMLING: Record<Lang, string> = {
+  nb: 'drommer', sv: 'drommer-sv', da: 'drommer-da', en: 'drommer-en',
+};
+const SUFFIKS: Record<Lang, string> = { nb: '', sv: '-sv', da: '-da', en: '-en' };
+const VARIABEL: Record<Lang, string> = {
+  nb: '__drommensData', sv: '__drommensDataSV', da: '__drommensDataDA', en: '__drommensDataEN',
+};
+const ETIKETT: Record<Lang, string> = {
+  nb: '✦ SYMBOLET I FOKUS I DAG',
+  sv: '✦ DAGENS SYMBOL',
+  da: '✦ DAGENS SYMBOL',
+  en: "✦ TODAY'S SYMBOL",
+};
+const LENKETEKST: Record<Lang, string> = {
+  nb: 'Les full tolkning',
+  sv: 'Läs full tolkning',
+  da: 'Læs hele tolkningen',
+  en: 'Read full interpretation',
+};
+const STI: Record<Lang, string> = {
+  nb: '/drommer/', sv: '/sv/drommar/', da: '/da/dromme/', en: '/en/dreams/',
+};
+const MAANEDER: Record<Lang, string[]> = {
+  nb: ['januar','februar','mars','april','mai','juni','juli','august','september','oktober','november','desember'],
+  sv: ['januari','februari','mars','april','maj','juni','juli','augusti','september','oktober','november','december'],
+  da: ['januar','februar','marts','april','maj','juni','juli','august','september','oktober','november','december'],
+  en: ['January','February','March','April','May','June','July','August','September','October','November','December'],
+};
+// Engelsk setter maaneden foerst; de nordiske spraakene dagen foerst, og
+// norsk og dansk med punktum etter dagen.
+const DATOFORM: Record<Lang, 'dag-punktum' | 'dag' | 'maaned-foerst'> = {
+  nb: 'dag-punktum', sv: 'dag', da: 'dag-punktum', en: 'maaned-foerst',
+};
+
+// Dansk bruker den generelle halen fordi titlene der er varierte fra start
+// («— hvorfor er den saa almindelig?»), ikke én fast mal.
+function kortNavn(tittel: string, l: Lang): string {
+  if (l === 'sv') return tittel.replace(/ — vad betyder det\?/, '').replace('Drömmar om ', '').replace('Drömma om ', '');
+  if (l === 'en') return tittel.replace(/ — what does it mean\?/, '').replace(/^Dreaming (?:of|about) /, '').replace(/^Dream about /, '');
+  if (l === 'da') return tittel.replace(/ — [^—]*\?$/, '').replace(/^Drømme om /, '');
+  return tittel.replace(/ — hva betyr det\?/, '').replace('Drømmer om ', '');
+}
+
+const suffiks = SUFFIKS[lang];
+const stiBase = STI[lang];
+
+// Hent ALLE symboler ved build-tid og send som JSON til klienten
+const alleSymboler = await getCollection(SAMLING[lang] as any);
+// Sensitive symboler (overfall, dodsfall, sykdom, selvskading ...) holdes
+// utenfor rotasjonen. De hoerer hjemme i samlingen, men ikke som dagens
+// utvalgte pa forsiden — det er det forste en ny leser moter.
+const egnetForForsiden = alleSymboler.filter((s: any) => !s.data.sensitivt);
+const sorterteSymboler = [...egnetForForsiden].sort((a, b) => a.data.slug.localeCompare(b.data.slug));
+
+// Bygg en kompakt liste med bare det klienten trenger
+const symbolData = sorterteSymboler.map(s => ({
+  slug: s.data.slug,
+  navn: kortNavn(s.data.tittel, lang),
+  desc: s.data.kortbeskrivelse || '',
+  bilde: s.data.bilde || '',
+}));
+
+// Symbolet roterer per dag. Tidligere ble hele samlingen (~49 kB JSON) sendt
+// til klienten, og selve kortet stod som "Laster..." i HTML-en — det var alt
+// en crawler eller en leser uten JS fikk se. Na regnes byggedagens symbol ut
+// her og rendres direkte, mens klienten bare far et lite vindu med de neste
+// dagene og oppdaterer kortet hvis leserens lokale dato er en annen.
+const MS_PER_DAG = 86400000;
+const byggDag = Math.floor(Date.now() / MS_PER_DAG);
+const dagensSymbol = symbolData[byggDag % symbolData.length];
+const vindu = Object.fromEntries(
+  Array.from({ length: 60 }, (_, i) => [byggDag + i, symbolData[(byggDag + i) % symbolData.length]]),
+);
+---
+
+<!-- Skjult data brukt av klient-scriptet -->
+<script is:inline define:vars={{ vindu, variabel: VARIABEL[lang] }}>
+  window[variabel] = vindu;
+</script>
+
+<div class="drommens-dag-wrapper" id={`drommens-dag${suffiks}`}>
+  <p class="dag-label">{ETIKETT[lang]}</p>
+  <div class={dagensSymbol.bilde ? "dag-image" : "dag-image dag-image-fallback"} id={`dag-image-container${suffiks}`}>{dagensSymbol.bilde ? <img src={dagensSymbol.bilde} alt={dagensSymbol.navn} loading="lazy" /> : '✨'}</div>
+  <h2 class="dag-navn" id={`dag-navn${suffiks}`}>{dagensSymbol.navn}</h2>
+  <p class="dag-beskrivelse" id={`dag-beskrivelse${suffiks}`}>{dagensSymbol.desc}</p>
+  <div class="dag-separator"></div>
+  <a href={`${stiBase}${dagensSymbol.slug}/`} class="dag-link hover:no-underline" id={`dag-link${suffiks}`}>
+    {LENKETEKST[lang]} <span aria-hidden="true">&rarr;</span>
+  </a>
+  <p class="dag-dato" id={`dag-dato${suffiks}`}></p>
+</div>
+
+<script is:inline define:vars={{ suffiks, stiBase, variabel: VARIABEL[lang], months: MAANEDER[lang], form: DATOFORM[lang] }}>
+  (function() {
+    var now = new Date();
+    var datoEl = document.getElementById('dag-dato' + suffiks);
+    if (datoEl) {
+      datoEl.textContent = form === 'maaned-foerst'
+        ? months[now.getMonth()] + ' ' + now.getDate() + ', ' + now.getFullYear()
+        : now.getDate() + (form === 'dag-punktum' ? '. ' : ' ') + months[now.getMonth()] + ' ' + now.getFullYear();
+    }
+
+    // Kortet er allerede rendret med byggedagens symbol. Vinduet dekker de
+    // neste 60 dagene; er leserens dato utenfor, star det rendrede igjen.
+    var data = window[variabel];
+    var symbol = data && data[Math.floor(now.getTime() / 86400000)];
+    if (!symbol) return;
+
+    var navnEl = document.getElementById('dag-navn' + suffiks);
+    var descEl = document.getElementById('dag-beskrivelse' + suffiks);
+    var linkEl = document.getElementById('dag-link' + suffiks);
+    var imgContainer = document.getElementById('dag-image-container' + suffiks);
+
+    if (navnEl) navnEl.textContent = symbol.navn;
+    if (descEl) descEl.textContent = symbol.desc;
+    if (linkEl) linkEl.href = stiBase + symbol.slug + '/';
+    if (imgContainer && symbol.bilde) {
+      imgContainer.className = 'dag-image';
+      imgContainer.innerHTML = '<img src="' + symbol.bilde + '" alt="' + symbol.navn + '" loading="lazy" />';
+    }
+  })();
+</script>
+
+<style>
+  .drommens-dag-wrapper {
+    text-align: center;
+    padding: 38px 36px 34px;
+    animation: fadeInUp 0.8s ease-out;
+  }
+
+  .dag-label {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 24px;
+  }
+
+  .dag-image {
+    width: 128px;
+    height: 128px;
+    margin: 0 auto 22px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid var(--color-line);
+    box-shadow: inset -14px -16px 34px rgba(120, 95, 55, .22), 0 18px 40px -18px rgba(150, 120, 70, .5);
+    animation: fadeInScale 1s ease-out 0.3s both;
+  }
+  .dag-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .dag-image-fallback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 52px;
+    border: none;
+    background: radial-gradient(circle at 36% 32%, #fbf6ec, #e6d6bd 46%, #cbb489 100%);
+  }
+
+  .dag-navn {
+    font-family: var(--font-heading);
+    font-size: 44px;
+    color: var(--color-text-heading);
+    margin-bottom: 14px;
+    font-weight: 500;
+    text-transform: lowercase;
+  }
+
+  .dag-beskrivelse {
+    font-family: var(--font-body);
+    font-size: 15px;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    max-width: 32ch;
+    margin: 0 auto 22px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .dag-separator {
+    width: 34px;
+    height: 1px;
+    background: var(--color-line);
+    margin: 0 auto 22px;
+  }
+
+  .dag-link {
+    font-family: var(--font-nav);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--color-accent);
+    text-decoration: none;
+    transition: gap 0.2s ease, opacity 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+  }
+  .dag-link:hover {
+    gap: 13px;
+  }
+
+  .dag-dato {
+    font-family: var(--font-nav);
+    font-size: 12px;
+    color: var(--color-text-faint);
+    letter-spacing: 0.04em;
+    margin-top: 22px;
+  }
+
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes fadeInScale {
+    from { opacity: 0; transform: scale(0.8); }
+    to { opacity: 1; transform: scale(1); }
+  }
+</style>

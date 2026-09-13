@@ -13,7 +13,7 @@ function escapeHtml(s) {
 }
 
 function buildHtml(lang) {
-  const label = { nb: 'Annonse', sv: 'Annons', en: 'Advertisement' }[lang] ?? 'Annonse';
+  const label = { nb: 'Annonse', sv: 'Annons', da: 'Annonce', en: 'Advertisement' }[lang] ?? 'Annonse';
   const slotId = 'placeholder';
   const dataAdFormat = 'auto';
   // Push-skriptet utelates når slotId === 'placeholder' (ingen AdSense-
@@ -34,10 +34,10 @@ export default function remarkAdSlots() {
     // (se remark-affiliate.mjs). To annonseblokker rett under hverandre
     // ville vaert for tungt over folden, saa AdSense-slotten er tatt ut
     // her. Bunn- og sidebar-slottene i layouten staar urort.
-    const inSovn = /[/\\]content[/\\]sovn(?:-sv|-en)?[/\\]/.test(filePath);
+    const inSovn = /[/\\]content[/\\]sovn(?:-sv|-da|-en)?[/\\]/.test(filePath);
     if (!inSovn) return;
 
-    const lang = /-sv[/\\]/.test(filePath) ? 'sv' : /-en[/\\]/.test(filePath) ? 'en' : 'nb';
+    const lang = /-sv[/\\]/.test(filePath) ? 'sv' : /-da[/\\]/.test(filePath) ? 'da' : /-en[/\\]/.test(filePath) ? 'en' : 'nb';
 
     // Finn første H2 (depth=2) på toppnivå av treet
     const children = tree.children || [];

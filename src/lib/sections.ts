@@ -14,7 +14,7 @@ import type { Lang } from '../i18n/config';
  * mot en tom samling logger en advarsel, og Header/Footer rendres på hver
  * eneste side. Dette kjører bare ved bygg (statisk output).
  */
-const suffix: Record<Lang, string> = { nb: '', sv: '-sv', en: '-en' };
+const suffix: Record<Lang, string> = { nb: '', sv: '-sv', da: '-da', en: '-en' };
 
 function harInnhold(base: string, lang: Lang): boolean {
   try {

@@ -1,4 +1,5 @@
 ---
+import { alternatesFor } from '../../../lib/statiske-alternates';
 import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import type { Lang } from '../../../i18n/config';
@@ -6,11 +7,6 @@ import type { Lang } from '../../../i18n/config';
 const guider = await getCollection('guider-en');
 const sortert = guider.sort((a, b) => b.data.dato.getTime() - a.data.dato.getTime());
 
-const alternates: { lang: Lang; url: string }[] = [
-  { lang: 'nb', url: 'https://drommeguiden.no/guider/' },
-  { lang: 'sv', url: 'https://drommeguiden.no/sv/guider/' },
-  { lang: 'en', url: 'https://drommeguiden.no/en/guides/' },
-];
 
 // Tom samling => ikke indekser (unngå tynn side i indeks)
 const erTom = guider.length === 0;
@@ -22,7 +18,7 @@ const erTom = guider.length === 0;
   beskrivelse="In-depth guides on dreams, dream interpretation, dream journaling and how to better understand your dreams."
   lang="en"
   canonicalUrl="https://drommeguiden.no/en/guides/"
-  alternates={alternates}
+  alternates={alternatesFor('guiderIndex')}
 >
   <div class="guider-page">
     <div class="guider-header">

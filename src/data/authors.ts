@@ -29,6 +29,7 @@ export const authors: Record<string, Author> = {
     navnPerSprak: {
       nb: 'Drømmeguidens redaksjon',
       sv: 'Drömguidens redaktion',
+      da: 'Drømmeguidens redaktion',
       en: 'The Dream Guide editorial team',
     },
     url: '/om-oss/',

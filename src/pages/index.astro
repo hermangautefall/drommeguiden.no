@@ -1,7 +1,8 @@
 ---
+import { symbolEtiketter } from '../lib/symbol-etikett';
 import { alternatesFor } from '../lib/statiske-alternates';
 import Base from '../layouts/Base.astro';
-import DrommensDag from '../components/DrommensDag.astro';
+import DagensSymbol from '../components/DagensSymbol.astro';
 import SiteSchema from '../components/SiteSchema.astro';
 import { getCollection } from 'astro:content';
 
@@ -33,6 +34,10 @@ const kategorier = [
   { slug: 'gjenstander', tittel: 'Gjenstander', emoji: '🔑' },
   { slug: 'aandelig', tittel: 'Åndelig', emoji: '✨' },
 ];
+
+// Kortet skrev ut sluggen direkte, og siden slugger er transkribert
+// (taender, afdod-person, at-flyve) sto det feilstavet paa forsiden.
+const etiketter = symbolEtiketter('nb');
 
 const kategorierMedAntall = kategorier.map(kat => ({
   ...kat,
@@ -113,7 +118,7 @@ const katIkoner = [
       </div>
 
       <div class="hero-dag-wrapper">
-        <DrommensDag />
+        <DagensSymbol lang="nb" />
       </div>
     </div>
   </section>
@@ -164,7 +169,7 @@ const katIkoner = [
           )}
           <div class="symbol-card-body">
             <h3 class="symbol-card-title">
-              {d.data.slug.replace(/-/g, ' ')}
+              {etiketter.get(d.data.slug) ?? d.data.slug.replace(/-/g, ' ')}
             </h3>
             <p class="symbol-card-desc">{d.data.kortbeskrivelse}</p>
             <span class="symbol-card-cta">
@@ -190,7 +195,7 @@ const katIkoner = [
             <span class="ico" set:html={katIkoner[i]}></span>
             <span class="cat-meta">
               <h4>{kat.tittel}</h4>
-              <span>{kat.antall} symboler</span>
+              <span>{kat.antall} {kat.antall === 1 ? 'symbol' : 'symboler'}</span>
             </span>
           </a>
         ))}
