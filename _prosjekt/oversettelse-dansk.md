@@ -141,8 +141,17 @@ en ordrett søkefrase, og dansk skal ligne søsterspråkene, ikke kilden.
 Frasen er den naturlige danske formen: `hund`, `slanger`, `at miste tænder`,
 `en afdød person`, `at dræbe nogen`.
 
+**Legg den til — ikke bytt ut kildens egen første overskrift.** Har den norske
+artikkelen en egen, særegen åpningsoverskrift (`## Det du bærer synlig for hele
+verden`), skal den bli stående som overskrift nummer to, oversatt. Skriv da to–tre
+setninger som innledning under malen. Slik beholder vi både søkefrasen og
+kildens redaksjonelle overskrift.
+
 Eneste unntak: starter artikkelen rett på en annen H2 uten innledningsprosa,
 la den stå — to overskrifter på rad er verre enn en manglende.
+
+En håndfull tidlige filer bytter ut i stedet for å legge til. Begge former leser
+godt, så de er ikke rettet — men nye artikler skal legge til.
 
 ---
 

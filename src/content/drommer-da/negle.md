@@ -69,7 +69,7 @@ Noget ved din selvpræsentation eller dine grænser opleves som skjult eller då
 
 ## Neglen som ydre signal
 
-Negle har en overraskende rig folkloristisk tradition. I norsk folkemedicin og folketro blev afklippede negle og hår behandlet med forsigtighed — de var en del af personen og kunne bruges i magi. At efterlade negle uforsigtigt var at efterlade sig sårbar.
+Negle har en overraskende rig folkloristisk tradition. I nordisk folkemedicin og folketro blev afklippede negle og hår behandlet med forsigtighed — de var en del af personen og kunne bruges i magi. At efterlade negle uforsigtigt var at efterlade sig sårbar.
 
 I japansk shinto-tradition er negle og hår de kropsdele, der er tættest forbundet med den levende ånd (tamashii) — de vokser efter døden, de bærer personens essens.
 
