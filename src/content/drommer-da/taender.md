@@ -19,6 +19,8 @@ da_slug: taender
 author: 'default'
 ---
 
+## Hvad betyder det at drømme om at miste tænder?
+
 Få drømme efterlader så tydelig en fornemmelse i kroppen. Du mærker det med
 tungen inden du er vågen — en tand der sidder løst, og så en til. Nogle spytter
 dem ud i hånden. Andre ser dem smuldre som kridt.

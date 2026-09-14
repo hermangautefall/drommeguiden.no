@@ -19,6 +19,8 @@ da_slug: slange
 author: 'default'
 ---
 
+## Hvad betyder det at drømme om slanger?
+
 Få dyr har fået lov at betyde så meget modstridende på én gang som slangen. Det
 samme billede har i årtusinder stået for både død og lægedom, gift og visdom.
 Netop den dobbelthed er formentlig grunden til at slangedrømme sidder i kroppen

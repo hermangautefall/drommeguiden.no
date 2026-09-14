@@ -19,6 +19,8 @@ da_slug: edderkop
 author: 'default'
 ---
 
+## Hvad betyder det at drømme om edderkopper?
+
 Den sidder stille midt i noget den selv har bygget. Edderkoppen bevæger sig sjældent
 meget i drømme — det er spindet og ventetiden folk husker, ikke dyret.
 

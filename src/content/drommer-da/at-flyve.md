@@ -3,7 +3,7 @@ tittel: "Drømme om at flyve — hvor meget styrede du selv?"
 slug: at-flyve
 nb_slug: flyging
 kategori: haendelser
-kortbeskrivelse: "Flyvedrømme hører til de få vi vågner glade fra. De handler ofte om frihed og overblik — og om hvor meget kontrol du havde undervejs."
+kortbeskrivelse: "Flyvedrømme hører til de få vi vågner glade fra. De handler ofte om frihed og overblik — og om hvor meget kontrol du selv havde undervejs."
 relaterte:
   - falde
   - at-do
@@ -18,6 +18,8 @@ oppdatert: 2026-09-11
 da_slug: at-flyve
 author: 'default'
 ---
+
+## Hvad betyder det at drømme om at flyve?
 
 Flyvedrømme hører til de få de fleste gerne vil have igen. Folk beskriver dem år efter,
 og de husker som regel ikke hvor de fløj hen — men hvordan det føltes.

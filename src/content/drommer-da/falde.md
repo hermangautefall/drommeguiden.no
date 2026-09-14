@@ -19,6 +19,8 @@ da_slug: falde
 author: 'default'
 ---
 
+## Hvad betyder det at drømme om at falde?
+
 Du er lige ved at sove, og så falder du. Ikke langt — bare et ryk, og så er du vågen
 igen med hjertet i halsen. Eller det varer længere: et fald gennem noget uden bund,
 og du når aldrig ned.

@@ -3,7 +3,7 @@ tittel: "Drømme om kat — hvem er den uafhængige i drømmen?"
 slug: kat
 nb_slug: katt
 kategori: dyr
-kortbeskrivelse: "Katten gør som den vil, og det er hele pointen. I drømme bærer den uafhængighed, intuition og noget der ikke lader sig styre af dig."
+kortbeskrivelse: "Katten gør som den vil, og det er hele pointen. I drømme bærer den uafhængighed, intuition og noget der slet ikke lader sig styre af dig."
 relaterte:
   - hund
   - slange
@@ -18,6 +18,8 @@ oppdatert: 2026-09-11
 da_slug: kat
 author: 'default'
 ---
+
+## Hvad betyder det at drømme om kat?
 
 Katten i drømmen kommer eller kommer ikke. Den sidder et sted og ser på dig, eller
 den går forbi uden at registrere at du er der. Netop den ligegyldigheden er det folk

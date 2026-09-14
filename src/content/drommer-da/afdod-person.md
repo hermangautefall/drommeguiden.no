@@ -20,6 +20,8 @@ sensitivt: true
 author: 'default'
 ---
 
+## Hvad betyder det at drømme om en afdød person?
+
 Hun står i døren, eller han sidder ved bordet, og samtalen fortsætter som om
 ingenting er sket. Det usædvanlige ved drømme om afdøde er ikke at de findes, men
 hvor sjældent de er ubehagelige.

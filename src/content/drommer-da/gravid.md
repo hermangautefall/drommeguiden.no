@@ -19,6 +19,8 @@ da_slug: gravid
 author: 'default'
 ---
 
+## Hvad betyder det at drømme om at være gravid?
+
 Du mærker det i drømmen før du ser det. Maven er anderledes, eller nogen siger det
 til dig, og reaktionen spænder fra glæde til ren panik. Mange vågner og skal bruge et
 øjeblik på at finde ud af om det var virkeligt.

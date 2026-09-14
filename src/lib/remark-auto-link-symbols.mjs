@@ -23,6 +23,22 @@ function countText(node) {
   return node.children.reduce((sum, c) => sum + countText(c), 0);
 }
 
+// Sluggene er transkribert (ø→o, æ→ae, å→aa), saa soekeordet maa skrives
+// tilbake foer det leter i broedteksten: «taender» finner aldri «tænder».
+// Norsk har samme problem — «sno», «orn», «bjorn» har aldri auto-lenket — men
+// der er det status quo, og aa endre det naa ville flytte lenker paa 241 sider
+// som allerede er maalt. Dansk starter blankt, saa der gjoeres det riktig.
+function utranskriber(slug) {
+  return slug.replace(/oe/g, 'ø').replace(/ae/g, 'æ').replace(/aa/g, 'å');
+}
+
+// Bare enkeltord auto-lenkes. «at-draebe», «din-bror» og «sex-med-eksen» er
+// verbfraser og eiendomsuttrykk — de opptrer aldri ordrett i broedteksten, og
+// et delvis treff ville lenket feil ord.
+function erEnkeltord(slug) {
+  return !slug.includes('-');
+}
+
 // Slugs som er for tvetydige til auto-linking (kolliderer med
 // vanlige norske ord/grammatikk).
 const DENY_LIST = new Set([
@@ -33,6 +49,20 @@ const DENY_LIST = new Set([
   // handler om å drømme om en vei. De fem manuelle lenkene i teksten
   // står igjen; de er valgt bevisst av en skribent.
   'vei',
+]);
+
+// Dansk: samme problem som «vei» paa norsk, pluss korte ord som kolliderer
+// med vanlig grammatikk.
+const DENY_DA = new Set([
+  'vej',    // «paa vej mod», «komme nogen vegne» — nesten alltid metaforisk
+  'ar',     // for kort, treffer forkortelser og fremmedord
+  'eg',     // eg (eik) vs «eg» i sammensetninger
+  'is',     // «is» inngaar i mange ord og faste uttrykk
+  'ild',    // «ild» brukes metaforisk like ofte som konkret
+  'lys',    // «lyser», «i lyset af» — verbet og fraser dominerer
+  'mad',    // «mader» er verbet
+  'ko',     // for kort
+  'bi',     // for kort, kolliderer med bi- som prefiks
 ]);
 
 // Ord der den generiske suffiks-regelen treffer feil. Den bøyer stammen
@@ -52,15 +82,21 @@ const MONSTER_OVERSTYRING = {
   mat: /\bmat(?:en)?\b/i,
 };
 
-function loadSymbols(contentDir) {
+function loadSymbols(contentDir, spraak = 'nb') {
   const files = readdirSync(contentDir).filter(f => f.endsWith('.md'));
   const symbols = [];
   for (const f of files) {
     const content = readFileSync(join(contentDir, f), 'utf8');
     const slugMatch = content.match(/^slug:\s*(.+)$/m);
     const slug = (slugMatch?.[1] || basename(f, '.md')).trim().replace(/^["']|["']$/g, '');
-    if (DENY_LIST.has(slug)) continue;
-    const searchWords = slug.replace(/-/g, ' ');
+    if (spraak === 'da') {
+      if (DENY_DA.has(slug) || !erEnkeltord(slug)) continue;
+    } else if (DENY_LIST.has(slug)) {
+      continue;
+    }
+    const searchWords = spraak === 'da'
+      ? utranskriber(slug)
+      : slug.replace(/-/g, ' ');
     const escaped = searchWords.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     // Suffiks-listen avhenger av stammeending — ellers får vi falske
     // treff som "far" + "t" → "fart" (hastighet, ikke far).
@@ -70,8 +106,12 @@ function loadSymbols(contentDir) {
     //     (slange → slangen, hode → hodet, drager, dragene)
     const lastChar = searchWords[searchWords.length - 1].toLowerCase();
     const endsInVowel = 'aeiouyæøå'.includes(lastChar);
-    const suffix = endsInVowel ? '(?:n|t|r|ne|s)?' : '(?:en|et|er|ene|s)?';
-    const pattern = MONSTER_OVERSTYRING[slug]
+    // Dansk boeyer flertall bestemt paa -erne/-rne der norsk har -ene/-ne
+    // (bilerne, slangerne), og ubestemt flertall kan vaere -e (huse).
+    const suffix = spraak === 'da'
+      ? (endsInVowel ? '(?:n|t|r|rne|ne|s)?' : '(?:en|et|er|erne|ene|e|s)?')
+      : (endsInVowel ? '(?:n|t|r|ne|s)?' : '(?:en|et|er|ene|s)?');
+    const pattern = (spraak === 'da' ? undefined : MONSTER_OVERSTYRING[slug])
       ?? new RegExp(`\\b${escaped}${suffix}\\b`, 'i');
     symbols.push({ slug, pattern });
   }
@@ -86,20 +126,29 @@ export default function remarkAutoLinkSymbols(options = {}) {
     onComplete,
   } = options;
 
-  let symbolsCache = null;
-  function getSymbols() {
-    if (!symbolsCache) symbolsCache = loadSymbols(contentDir);
-    return symbolsCache;
+  // Ett oppsett per spraak. Norsk har vaert eneste bruker; dansk kommer til
+  // med egen samling, egen sti og egen boeyning. Svensk og engelsk staar
+  // utenfor med vilje — deres interne lenker er satt for haand.
+  const SPRAAK = [
+    { kode: 'nb', moenster: /[/\\]content[/\\]drommer[/\\][^/\\]+\.md$/,
+      mappe: contentDir, sti: '/drommer/' },
+    { kode: 'da', moenster: /[/\\]content[/\\]drommer-da[/\\][^/\\]+\.md$/,
+      mappe: 'src/content/drommer-da', sti: '/da/dromme/' },
+  ];
+
+  const symbolsCache = new Map();
+  function getSymbols(s) {
+    if (!symbolsCache.has(s.kode)) symbolsCache.set(s.kode, loadSymbols(s.mappe, s.kode));
+    return symbolsCache.get(s.kode);
   }
 
   return function transformer(tree, file) {
     const filePath = String(file?.path || file?.history?.[0] || '');
-    // Kjør kun på NO drommer-kollektion
-    if (!/[/\\]content[/\\]drommer[/\\][^/\\]+\.md$/.test(filePath)) return;
-    if (filePath.includes('drommer-sv')) return;
+    const spraak = SPRAAK.find(s => s.moenster.test(filePath));
+    if (!spraak) return;
 
     const ownSlug = basename(filePath, '.md');
-    const candidates = getSymbols().filter(s => s.slug !== ownSlug);
+    const candidates = getSymbols(spraak).filter(s => s.slug !== ownSlug);
 
     const linkedSlugs = new Set();
     let linkCount = 0;
@@ -111,7 +160,7 @@ export default function remarkAutoLinkSymbols(options = {}) {
     let manualCount = 0;
     (function collectExisting(node) {
       if (node.type === 'link' && typeof node.url === 'string') {
-        const m = node.url.match(/^\/drommer\/([^/]+)\/?$/);
+        const m = node.url.match(new RegExp(`^${spraak.sti}([^/]+)/?$`));
         if (m) {
           linkedSlugs.add(m[1]);
           manualCount++;
@@ -138,7 +187,7 @@ export default function remarkAutoLinkSymbols(options = {}) {
 
         const linkNode = {
           type: 'link',
-          url: `/drommer/${sym.slug}/`,
+          url: `${spraak.sti}${sym.slug}/`,
           title: null,
           data: { hProperties: { 'data-auto-link': 'symbol' } },
           children: [{ type: 'text', value: matchText }],
@@ -197,6 +246,6 @@ export default function remarkAutoLinkSymbols(options = {}) {
 
     walk(tree);
 
-    if (onComplete) onComplete({ slug: ownSlug, count: linkCount, manual: manualCount });
+    if (onComplete) onComplete({ slug: ownSlug, count: linkCount, manual: manualCount, spraak: spraak.kode });
   };
 }

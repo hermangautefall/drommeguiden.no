@@ -19,6 +19,8 @@ da_slug: hund
 author: 'default'
 ---
 
+## Hvad betyder det at drømme om hund?
+
 Hunden er det dyr mennesket har levet tættest på i længst tid, og det mærkes i
 drømmene. Den optræder oftere end de fleste andre dyr, og den vækker sjældent
 ligegyldighed — folk husker enten en varme eller en frygt.

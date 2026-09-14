@@ -53,8 +53,8 @@ export default defineConfig({
       [
         remarkAutoLinkSymbols,
         {
-          onComplete: ({ slug, count, manual }) => {
-            autoLinkStats.set(slug, { count, manual });
+          onComplete: ({ slug, count, manual, spraak }) => {
+            autoLinkStats.set(`${spraak}:${slug}`, { count, manual });
           },
         },
       ],

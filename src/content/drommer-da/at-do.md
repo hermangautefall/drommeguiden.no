@@ -20,6 +20,8 @@ da_slug: at-do
 author: 'default'
 ---
 
+## Hvad betyder det at drømme om at dø?
+
 At vågne fra en drøm hvor man dør, sidder i kroppen længe. Hjertet banker, det tager
 nogle sekunder at lande i virkeligheden, og følelsen bliver hængende ind i dagen.
 
