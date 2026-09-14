@@ -80,6 +80,16 @@ for f in filer:
         if felt(fm((NB / f'{nb}.md').read_text()), 'bilde'):
             feil['mangler bilde som den norske har'].append(n)
 
+    # sensitivt styrer om disclaimeren med hjelpetelefon vises. Mangler det,
+    # forsvinner disclaimeren uten at noe feiler.
+    if nb and (NB / f'{nb}.md').exists():
+        nbt = (NB / f'{nb}.md').read_text()
+        d_sens = bool(re.search(r'^sensitivt: *true', t, re.M))
+        n_sens = bool(re.search(r'^sensitivt: *true', nbt, re.M))
+        if d_sens != n_sens:
+            feil['sensitivt stemmer ikke med den norske'].append(
+                f"{n}: dansk={d_sens}, norsk={n_sens}")
+
     tk = liste(front, 'tolkninger_kort')
     if len(tk) < 3:
         feil['faerre enn tre tolkninger_kort'].append(f"{n}: {len(tk)}")

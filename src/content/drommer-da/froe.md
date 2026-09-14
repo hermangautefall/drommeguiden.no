@@ -1,5 +1,5 @@
 ---
-tittel: "Drømme om frø — hvilken forvandling er på vej?"
+tittel: "Drømme om frø — hvad er du ved at vokse fra?"
 slug: froe
 nb_slug: frosk
 kategori: dyr

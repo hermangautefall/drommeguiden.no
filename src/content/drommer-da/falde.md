@@ -3,6 +3,7 @@ tittel: "Drømme om at falde — hvorfor vågner du med et ryk?"
 slug: falde
 nb_slug: falle
 kategori: haendelser
+sensitivt: true
 kortbeskrivelse: "Du falder, og rykket vækker dig. Faldedrømmen har en velkendt fysisk forklaring, men den kommer også i helt bestemte perioder af livet."
 relaterte:
   - at-flyve
