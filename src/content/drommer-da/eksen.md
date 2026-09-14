@@ -19,7 +19,7 @@ da_slug: eksen
 author: 'default'
 ---
 
-## Nej, det betyder næsten aldrig at du vil have eksen tilbage
+## Hvad betyder det at drømme om eksen?
 
 Det er som regel det første spørgsmål der melder sig i det øjeblik du vågner: har jeg stadig følelser for eksen? Næsten altid er svaret nej — eller i hvert fald ikke på den måde du frygter. At have drømt om eksen handler i de allerfleste tilfælde ikke om et ønske om at komme tilbage til forholdet. Det handler om noget i dig selv: en følelse der endnu ikke er færdigbearbejdet, en egenskab du forbinder med personen, eller et kapitel der er ved at blive afsluttet for altid.
 

@@ -19,7 +19,7 @@ da_slug: at-vaere-noegen
 author: 'default'
 ---
 
-## Rummet lægger ikke mærke til dig
+## Hvad betyder det at drømme om at være nøgen?
 
 Du står midt i en forsamling — et klasseværelse, et mødelokale, et sted du egentlig kender godt — og opdager pludselig at du er nøgen. Hjertet hopper, du kigger febrilsk efter noget at dække dig med, måske et bord eller en jakke der aldrig helt rækker. Men når du kigger dig omkring, sker der noget uventet: næsten ingen reagerer. Folk fortsætter deres samtale, vender sig væk, eller kigger lige igennem dig som om der overhovedet ikke er noget galt.
 

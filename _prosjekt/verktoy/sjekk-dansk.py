@@ -95,15 +95,38 @@ for f in filer:
     if '## Kilder og videre læsning' not in t:
         feil['mangler kildeseksjon'].append(n)
 
+    # Foerste H2 skal vaere soekefrasen. Svensk har den paa 238 av 241 og
+    # engelsk paa 237 — den erstatter kildens egen foerste overskrift, den
+    # legges ikke over den. Fire filer slapp gjennom uten, og én fikk begge.
+    kropp = re.sub(r'^---.*?\n---\n', '', t, flags=re.S).lstrip('\n')
+    forste = re.match(r'## (.+)', kropp)
+    if not forste:
+        feil['starter ikke med en H2'].append(n)
+    elif not forste.group(1).startswith('Hvad betyder det at drømme om'):
+        feil['foerste H2 er ikke soekefrasen'].append(f"{n}: {forste.group(1)[:44]}")
+
+# Aa peke paa en slug som er planlagt men ikke skrevet ennaa er ikke en feil:
+# finnes-symbol.ts dropper den stille, saa det blir aldri en doed lenke, og
+# brikken dukker opp av seg selv naar artikkelen lander. Den skal synes, men
+# den skal ikke felle porten.
+VARSEL = {'relaterte peker paa slug som ikke er skrevet ennaa'}
+
 print(f"  {len(filer)} danske artikler sjekket\n")
-if not feil:
-    print("  ✓ alt i orden")
-    sys.exit(0)
-for k in sorted(feil):
-    v = feil[k]
+ekte = {k: v for k, v in feil.items() if k not in VARSEL}
+varsler = {k: v for k, v in feil.items() if k in VARSEL}
+
+for k in sorted(ekte):
+    v = ekte[k]
     print(f"  ✗ {k}  ({len(v)})")
     for x in v[:8]:
         print(f"      {x}")
     if len(v) > 8:
         print(f"      … og {len(v)-8} til")
-sys.exit(1)
+for k in sorted(varsler):
+    v = varsler[k]
+    print(f"  · {k}  ({len(v)})  — venter paa at artikkelen skrives")
+    for x in v[:6]:
+        print(f"      {x}")
+if not ekte:
+    print("\n  ✓ ingen feil")
+sys.exit(1 if ekte else 0)

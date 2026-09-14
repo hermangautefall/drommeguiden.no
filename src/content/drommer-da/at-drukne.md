@@ -20,7 +20,7 @@ da_slug: at-drukne
 author: 'default'
 ---
 
-## Et kropsligt alarmsignal, ikke et faktisk varsel
+## Hvad betyder det at drømme om at drukne?
 
 At drømme om at drukne hører til blandt de mest intense oplevelser drømmelivet kan byde på. Du vågner måske med et sæt, pulsen i vejret, kroppen stadig spændt som om faren var reel. Det er en ubehagelig måde at vågne på, men det er godt at vide: denne drøm handler så godt som aldrig om vand i bogstavelig forstand, og endnu sjældnere om noget der faktisk kommer til at ske dig. Den handler næsten altid om følelser — og det den forsøger at fortælle dig, kan være værd at lytte til.
 

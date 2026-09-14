@@ -19,7 +19,7 @@ da_slug: bil
 author: 'default'
 ---
 
-## Et ungt symbol i et gammelt billedsprog
+## Hvad betyder det at drømme om bil?
 
 Bilen er et ungt symbol set i lyset af drømmenes historie. Huse, skov og
 bjerge har fulgt mennesker i drømme i årtusinder; bilen har kun været en del
