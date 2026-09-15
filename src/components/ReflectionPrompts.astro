@@ -56,6 +56,20 @@ const labelsByLang: Record<Lang, {
     delete: 'Slet',
     confirmDelete: 'Slette denne refleksion?',
   },
+  de: {
+    heading: 'Der Traumdeuter empfiehlt',
+    intro: 'Träume geben selten eine einfache Antwort — sie sprechen in Bildern und Gefühlen zu dir. Frag dich selbst:',
+    q1: 'Welches Gefühl blieb zurück, als du aufgewacht bist?',
+    q2: 'Was geht gerade in deinem Leben vor?',
+    q3: `Hast du schon öfter von ${displayName} geträumt?`,
+    placeholder: 'Schreib deine Gedanken hier auf ...',
+    save: 'Notiz speichern',
+    saved: 'Gespeichert!',
+    previousTitle: 'Frühere Notizen',
+    previousEmpty: 'Noch keine gespeicherten Notizen — fang oben an.',
+    delete: 'Löschen',
+    confirmDelete: 'Diese Notiz löschen?',
+  },
   en: {
     heading: 'The Dream Guide recommends',
     intro: 'Dreams rarely give a simple answer — they speak to you through images and feelings. Ask yourself:',
@@ -74,7 +88,7 @@ const labelsByLang: Record<Lang, {
 const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
 const questions = [labels.q1, labels.q2, labels.q3];
-const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', en: 'en-GB' };
+const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', de: 'de-DE', en: 'en-GB' };
 const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
 ---
 

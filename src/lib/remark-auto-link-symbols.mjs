@@ -134,6 +134,8 @@ export default function remarkAutoLinkSymbols(options = {}) {
       mappe: contentDir, sti: '/drommer/' },
     { kode: 'da', moenster: /[/\\]content[/\\]drommer-da[/\\][^/\\]+\.md$/,
       mappe: 'src/content/drommer-da', sti: '/da/dromme/' },
+    { kode: 'de', moenster: /[/\\]content[/\\]drommer-de[/\\][^/\\]+\.md$/,
+      mappe: 'src/content/drommer-de', sti: '/de/traeume/' },
   ];
 
   const symbolsCache = new Map();

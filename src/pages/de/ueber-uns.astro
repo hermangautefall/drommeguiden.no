@@ -1,0 +1,102 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+import { getAuthor } from '../../data/authors';
+
+const author = getAuthor('default');
+const navn = author.navnPerSprak?.de ?? author.name;
+---
+
+<Base
+  lang="de"
+  tittel="Über uns"
+  beskrivelse="Der Traumdeuter ist für dich gemacht, wenn du mit einem Traum im Kopf aufwachst und wissen willst, was er bedeutet. So arbeiten wir."
+  alternates={alternatesFor('omOss')}
+>
+  <div class="static-page">
+    <span class="static-label">Über uns</span>
+    <h1 class="static-title">Über den Traumdeuter</h1>
+
+    <div class="prose">
+      <p>
+        Der Traumdeuter ist für dich gemacht, wenn du mit einem Traum im Kopf
+        aufwachst und wissen willst, was er bedeutet. Wir halten Träume für eine
+        wertvolle Quelle der Selbsterkenntnis — nicht für Magie oder
+        Wahrsagerei, sondern für ein Fenster ins Unbewusste, das es verdient,
+        ernst genommen zu werden.
+      </p>
+
+      <h2>Wer dahintersteht</h2>
+      <p>Der Traumdeuter wird von <strong>{navn}</strong> betrieben und redigiert.</p>
+
+      <h2>Warum es diese Seite gibt</h2>
+      <p>
+        Das meiste, was es über Träume zu lesen gibt, ist entweder ein kurzes,
+        oberflächliches Nachschlagewerk oder eine Wahrsageseite ohne fachliche
+        Grundlage. Wir fanden, das Thema verdient etwas Besseres — eine
+        seriöse, warme und lesbare Quelle, die weder verkürzt noch mystifiziert.
+        Wir schreiben, weil Träume zum Menschsein gehören und über Zeiten und
+        Kulturen hinweg fasziniert haben, und weil die Bildsprache der Nacht
+        denselben Respekt verdient wie die des Tages.
+      </p>
+
+      <h2>Wie wir an die Traumdeutung herangehen</h2>
+      <p>
+        Wir stützen uns auf drei Quellen. <strong>Nordisches Erbe</strong> gibt
+        uns eine Symbolsprache, die in internationalen Traumbüchern oft fehlt.
+        Die <strong>jungianische Psychologie</strong> liefert die Begriffe für
+        Archetypen, Persona und den Individuationsprozess.
+        <strong>Vergleichende Kultur- und Religionsgeschichte</strong> bringt
+        Perspektiven aus Islam, Hinduismus, Buddhismus, indigenen Traditionen
+        und den Mythologien der Welt — denn Träume waren nie ein rein lokales
+        Phänomen.
+      </p>
+      <p>
+        Absolute Aussagen vermeiden wir bewusst. Du wirst bei uns nie lesen
+        «dieser Traum BEDEUTET, dass …»; du wirst lesen «kann bedeuten», «wird
+        oft gedeutet als» und «frag dich selbst». Träume sind persönlich, und
+        die Deutung bleibt immer deine eigene.
+      </p>
+
+      <h2>Wie wir an das Thema Schlaf herangehen</h2>
+      <p>
+        Der Schlafbereich steht auf einem anderen Fundament als die Traumseiten.
+        Hier schreiben wir über Schlafforschung, Schlafhygiene und
+        Schlafstörungen auf Grundlage begutachteter Studien, klinischer
+        Leitlinien und der Empfehlungen von Gesundheitsbehörden. Konkrete
+        medizinische Ratschläge geben wir nie. Schlafprobleme, die anhalten oder
+        dich belasten, gehören immer in die Hände deiner Hausärztin, deines
+        Hausarztes oder einer Schlafmedizinerin.
+      </p>
+
+      <h2>Wir sind keine Therapeuten</h2>
+      <p>
+        Das soll deutlich dastehen: Wir sind weder Psychologinnen noch
+        Psychiater, Therapeutinnen oder Ärzte. Die Inhalte ersetzen keine
+        professionelle Hilfe. Wir bieten <em>Anregung zum Nachdenken</em>,
+        keine <em>Diagnose</em>. Wenn du mit wiederkehrenden Albträumen,
+        ernsten Schlafstörungen, Traumata oder einer psychischen Erkrankung zu
+        kämpfen hast, sprich bitte mit deiner Ärztin oder einer qualifizierten
+        Fachperson.
+      </p>
+
+      <h2>Korrekturen und Rückmeldungen</h2>
+      <p>
+        Rückmeldungen, Korrekturen und Vorschläge nehmen wir mit offenen Armen
+        entgegen. Hast du einen sachlichen Fehler entdeckt, eine unklare Stelle,
+        ein Symbol, das dir fehlt, oder einen kulturellen Zusammenhang, den wir
+        schief getroffen haben? <a href="/de/kontakt/">Sag Bescheid</a>.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

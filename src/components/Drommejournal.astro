@@ -109,6 +109,37 @@ const T: Record<Lang, Record<string, string>> = {
     ingenSymboler: 'Ingen symboler valgt',
     fjern: 'Fjern',
   },
+  de: {
+    nyTittel: 'Einen Traum aufschreiben',
+    datoLabel: 'Nacht auf den',
+    tekstLabel: 'Wovon hast du geträumt?',
+    tekstPlaceholder: 'Schreib so viel oder so wenig du möchtest. Die Einzelheiten, die dir zuerst einfallen, tragen oft am meisten.',
+    folelseLabel: 'Das Gefühl beim Aufwachen',
+    folelseValg: 'Ein Gefühl wählen',
+    symbolLabel: 'Symbole im Traum',
+    symbolHjelp: 'Suchen und auswählen. Du kannst mehrere hinzufügen.',
+    symbolPlaceholder: 'Nach einem Symbol suchen …',
+    lagre: 'Im Tagebuch speichern',
+    lagret: 'Gespeichert',
+    minJournal: 'Mein Tagebuch',
+    tom: 'Das Tagebuch ist noch leer. Schreib oben deinen ersten Traum auf — das dauert eine Minute, und dort fangen die Muster an.',
+    slett: 'Löschen',
+    bekreftSlett: 'Diesen Eintrag löschen? Er lässt sich nicht wiederherstellen.',
+    monstre: 'Deine Muster',
+    antall: 'Träume festgehalten',
+    mestBrukte: 'Symbole, von denen du am häufigsten träumst',
+    folelsesfordeling: 'Das Gefühl beim Aufwachen',
+    forLite: 'Halte noch ein paar Träume fest, dann zeichnen sich hier Muster ab.',
+    eksport: 'Tagebuch herunterladen',
+    eksportert: 'Heruntergeladen',
+    eksportHjelp: 'Alles liegt nur in diesem Browser. Löschst du deine Browserdaten, ist das Tagebuch weg — lade es also hin und wieder herunter.',
+    personvern: 'Dein Tagebuch wird nur in deinem eigenen Browser gespeichert. Nichts wird an uns gesendet, und wir können es nicht lesen.',
+    tidligere: 'Notizen von den Symbolseiten',
+    tidligereHjelp: 'Das sind Notizen, die du unten auf einzelnen Symbolseiten gespeichert hast. Sie stehen hier, weil sie zum Rest gehören.',
+    lesMer: 'Über das Symbol lesen',
+    ingenSymboler: 'Keine Symbole ausgewählt',
+    fjern: 'Entfernen',
+  },
   en: {
     nyTittel: 'Write down a dream',
     datoLabel: 'Night of',
@@ -159,6 +190,11 @@ const FOLELSER: Record<Lang, { v: string; l: string }[]> = {
     { v: 'sorg', l: 'Sorg' }, { v: 'frykt', l: 'Frygt' }, { v: 'forvirring', l: 'Forvirring' },
     { v: 'lettelse', l: 'Lettelse' }, { v: 'sinne', l: 'Vrede' }, { v: 'noytral', l: 'Neutral' },
   ],
+  de: [
+    { v: 'ro', l: 'Ruhe' }, { v: 'uro', l: 'Unruhe' }, { v: 'glede', l: 'Freude' },
+    { v: 'sorg', l: 'Trauer' }, { v: 'frykt', l: 'Angst' }, { v: 'forvirring', l: 'Verwirrung' },
+    { v: 'lettelse', l: 'Erleichterung' }, { v: 'sinne', l: 'Wut' }, { v: 'noytral', l: 'Neutral' },
+  ],
   en: [
     { v: 'ro', l: 'Calm' }, { v: 'uro', l: 'Unease' }, { v: 'glede', l: 'Joy' },
     { v: 'sorg', l: 'Sadness' }, { v: 'frykt', l: 'Fear' }, { v: 'forvirring', l: 'Confusion' },
@@ -166,7 +202,7 @@ const FOLELSER: Record<Lang, { v: string; l: string }[]> = {
   ],
 };
 const folelser = FOLELSER[lang] ?? FOLELSER.nb;
-const dateLocale: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', en: 'en-GB' };
+const dateLocale: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', de: 'de-DE', en: 'en-GB' };
 ---
 
 <div

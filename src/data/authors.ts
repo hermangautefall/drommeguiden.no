@@ -30,6 +30,7 @@ export const authors: Record<string, Author> = {
       nb: 'Drømmeguidens redaksjon',
       sv: 'Drömguidens redaktion',
       da: 'Drømmeguidens redaktion',
+      de: 'Die Redaktion des Traumdeuters',
       en: 'The Dream Guide editorial team',
     },
     url: '/om-oss/',

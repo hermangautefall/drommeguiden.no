@@ -1,0 +1,84 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="de"
+  tittel="Cookies"
+  beskrivelse="So verwendet der Traumdeuter Cookies — welche notwendig sind, welche deine Einwilligung brauchen, und wie du deine Auswahl änderst."
+  alternates={alternatesFor('cookies')}
+>
+  <div class="static-page">
+    <span class="static-label">Cookies</span>
+    <h1 class="static-title">Über Cookies</h1>
+
+    <div class="prose">
+      <p>
+        Ein Cookie ist eine kleine Textdatei, die eine Website in deinem Browser
+        ablegt. Manche sind nötig, damit die Seite überhaupt funktioniert;
+        andere dienen der Statistik und der Werbung und werden nur gesetzt, wenn
+        du zustimmst. Zuletzt aktualisiert am 14. September 2026.
+      </p>
+
+      <h2>Notwendige Cookies</h2>
+      <p>
+        Diese setzt <strong>Cloudflare</strong>, worüber die Seite ausgeliefert
+        wird. Sie dienen der Sicherheit und dem Betrieb und lassen sich nicht
+        abwählen, weil die Seite ohne sie nicht angezeigt werden kann. Sie
+        identifizieren dich nicht als Person.
+      </p>
+
+      <h2>Statistik</h2>
+      <p>
+        <strong>Google Analytics</strong> zeigt uns, welche Seiten gelesen
+        werden und wie lange. Wir nutzen das, um zu entscheiden, worüber wir als
+        Nächstes schreiben. Die Daten sind anonymisiert — wir können nicht
+        sehen, wer einzelne Besucherinnen und Besucher sind.
+      </p>
+
+      <h2>Werbung</h2>
+      <p>
+        <strong>Google AdSense</strong> setzt Cookies, um Anzeigen auszuspielen
+        und ihre Wirkung zu messen. Hast du personalisierter Werbung zugestimmt,
+        können sie auch dazu dienen, die Auswahl an dich anzupassen.
+      </p>
+      <p>
+        Partnerlinks (Affiliate) auf der Seite nutzen Cookies beim Anbieter, um
+        festzuhalten, dass der Klick von hier kam. Das geschieht erst, wenn du
+        die Anzeige anklickst, nicht schon beim Anzeigen.
+      </p>
+
+      <h2>Das Traumtagebuch nutzt keine Cookies</h2>
+      <p>
+        Das Tagebuch speichert im <code>localStorage</code>, nicht in Cookies.
+        Der Text bleibt also in deinem Browser und wird nirgendwohin gesendet —
+        das heißt aber auch, dass er verschwindet, wenn du deine Browserdaten
+        löschst.
+      </p>
+
+      <h2>So änderst du deine Auswahl</h2>
+      <p>
+        Du kannst deine Einwilligung jederzeit über die Cookie-Einstellungen auf
+        der Seite ändern. Ebenso kannst du Cookies in den Einstellungen deines
+        Browsers blockieren oder löschen. Blockierst du alle, funktionieren
+        Teile der Seite möglicherweise nicht mehr.
+      </p>
+
+      <h2>Fragen</h2>
+      <p>
+        Schreib an <a href="mailto:hej@drommeguiden.no">hej@drommeguiden.no</a>.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

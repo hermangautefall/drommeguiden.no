@@ -1,0 +1,98 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="de"
+  tittel="Nutzungsbedingungen"
+  beskrivelse="Nutzungsbedingungen des Traumdeuters: was die Inhalte sind und was nicht, Urheberrecht, Haftungsausschluss und wie Anzeigen gekennzeichnet sind."
+  alternates={alternatesFor('vilkar')}
+>
+  <div class="static-page">
+    <span class="static-label">Nutzungsbedingungen</span>
+    <h1 class="static-title">Nutzungsbedingungen</h1>
+
+    <div class="prose">
+      <p>
+        Mit der Nutzung von drommeguiden.no akzeptierst du die folgenden
+        Bedingungen. Zuletzt aktualisiert am 14. September 2026.
+      </p>
+
+      <h2>Was die Inhalte sind</h2>
+      <p>
+        Der Traumdeuter ist eine redaktionelle Quelle über Träume und Schlaf.
+        Die Inhalte stützen sich auf psychologische Fachliteratur,
+        Schlafforschung und Kulturgeschichte und sind als Anregung zum
+        Nachdenken geschrieben — nicht als Wahrheit.
+      </p>
+
+      <h2>Was die Inhalte nicht sind</h2>
+      <p>
+        Wir sind weder Psychologinnen noch Ärzte oder Therapeuten. Nichts auf
+        dieser Seite ist medizinische, psychologische oder rechtliche Beratung,
+        und nichts ersetzt professionelle Hilfe. Traumdeutung ist Nachdenken,
+        keine Diagnose.
+      </p>
+      <p>
+        Wir behaupten nicht, dass Träume die Zukunft vorhersagen. Wo wir
+        Überlieferung und nordische Traumtradition wiedergeben, tun wir das als
+        Kulturgeschichte.
+      </p>
+
+      <h2>Hol dir Hilfe, wenn du sie brauchst</h2>
+      <p>
+        Wenn du unter wiederkehrenden Albträumen, ernsten Schlafproblemen oder
+        psychischen Schwierigkeiten leidest, wende dich an deine Hausärztin oder
+        deinen Hausarzt. Wenn es dir schlecht geht, erreichst du die
+        Telefonseelsorge rund um die Uhr und kostenfrei unter 0800 111 0 111.
+      </p>
+
+      <h2>Urheberrecht</h2>
+      <p>
+        Die Texte auf dieser Seite sind unsere eigene Arbeit und dürfen ohne
+        Absprache nicht kopiert und erneut veröffentlicht werden. Kürzere Zitate
+        mit deutlicher Quellenangabe und Link sind willkommen. Die Bilder stammen
+        von Pexels und sind beim jeweiligen Artikel ausgewiesen.
+      </p>
+
+      <h2>Werbung und Partnerlinks</h2>
+      <p>
+        Die Seite finanziert sich über Werbung. Ein Teil davon sind
+        <strong>Partnerlinks</strong>, für die wir eine Provision erhalten, wenn
+        du klickst und etwas kaufst. Alle Anzeigen sind mit «Anzeige»
+        gekennzeichnet, und ein Kauf kostet dich nicht mehr, als wenn du direkt
+        zum Anbieter gegangen wärst.
+      </p>
+      <p>
+        Dass eine Anzeige erscheint, ist keine redaktionelle Empfehlung. Wir
+        stehen nicht für die Produkte ein und übernehmen keine Verantwortung für
+        Verträge, die du mit Dritten schließt.
+      </p>
+
+      <h2>Haftungsausschluss</h2>
+      <p>
+        Wir bemühen uns, die Inhalte richtig und aktuell zu halten, können aber
+        nicht garantieren, dass jederzeit alles fehlerfrei ist. Die Nutzung der
+        Seite erfolgt auf eigene Verantwortung. Findest du einen Fehler, freuen
+        wir uns über einen Hinweis.
+      </p>
+
+      <h2>Änderungen</h2>
+      <p>
+        Diese Bedingungen können aktualisiert werden. Wesentliche Änderungen
+        werden mit neuem Datum oben gekennzeichnet.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

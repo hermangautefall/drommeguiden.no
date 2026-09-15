@@ -20,37 +20,41 @@ interface Props {
 const { lang = 'nb' } = Astro.props;
 
 const SAMLING: Record<Lang, string> = {
-  nb: 'drommer', sv: 'drommer-sv', da: 'drommer-da', en: 'drommer-en',
+  nb: 'drommer', sv: 'drommer-sv', da: 'drommer-da', de: 'drommer-de', en: 'drommer-en',
 };
-const SUFFIKS: Record<Lang, string> = { nb: '', sv: '-sv', da: '-da', en: '-en' };
+const SUFFIKS: Record<Lang, string> = { nb: '', sv: '-sv', da: '-da', de: '-de', en: '-en' };
 const VARIABEL: Record<Lang, string> = {
-  nb: '__drommensData', sv: '__drommensDataSV', da: '__drommensDataDA', en: '__drommensDataEN',
+  nb: '__drommensData', sv: '__drommensDataSV', da: '__drommensDataDA',
+  de: '__drommensDataDE', en: '__drommensDataEN',
 };
 const ETIKETT: Record<Lang, string> = {
   nb: '✦ SYMBOLET I FOKUS I DAG',
   sv: '✦ DAGENS SYMBOL',
   da: '✦ DAGENS SYMBOL',
+  de: '✦ SYMBOL DES TAGES',
   en: "✦ TODAY'S SYMBOL",
 };
 const LENKETEKST: Record<Lang, string> = {
   nb: 'Les full tolkning',
   sv: 'Läs full tolkning',
   da: 'Læs hele tolkningen',
+  de: 'Ganze Deutung lesen',
   en: 'Read full interpretation',
 };
 const STI: Record<Lang, string> = {
-  nb: '/drommer/', sv: '/sv/drommar/', da: '/da/dromme/', en: '/en/dreams/',
+  nb: '/drommer/', sv: '/sv/drommar/', da: '/da/dromme/', de: '/de/traeume/', en: '/en/dreams/',
 };
 const MAANEDER: Record<Lang, string[]> = {
   nb: ['januar','februar','mars','april','mai','juni','juli','august','september','oktober','november','desember'],
   sv: ['januari','februari','mars','april','maj','juni','juli','augusti','september','oktober','november','december'],
   da: ['januar','februar','marts','april','maj','juni','juli','august','september','oktober','november','december'],
+  de: ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'],
   en: ['January','February','March','April','May','June','July','August','September','October','November','December'],
 };
 // Engelsk setter maaneden foerst; de nordiske spraakene dagen foerst, og
 // norsk og dansk med punktum etter dagen.
 const DATOFORM: Record<Lang, 'dag-punktum' | 'dag' | 'maaned-foerst'> = {
-  nb: 'dag-punktum', sv: 'dag', da: 'dag-punktum', en: 'maaned-foerst',
+  nb: 'dag-punktum', sv: 'dag', da: 'dag-punktum', de: 'dag-punktum', en: 'maaned-foerst',
 };
 
 // Dansk bruker den generelle halen fordi titlene der er varierte fra start
@@ -59,6 +63,7 @@ function kortNavn(tittel: string, l: Lang): string {
   if (l === 'sv') return tittel.replace(/ — vad betyder det\?/, '').replace('Drömmar om ', '').replace('Drömma om ', '');
   if (l === 'en') return tittel.replace(/ — what does it mean\?/, '').replace(/^Dreaming (?:of|about) /, '').replace(/^Dream about /, '');
   if (l === 'da') return tittel.replace(/ — [^—]*\?$/, '').replace(/^Drømme om /, '');
+  if (l === 'de') return tittel.replace(/ — [^—]*\?$/, '').replace(/^Träume von |^Träumen von |^Vom /, '');
   return tittel.replace(/ — hva betyr det\?/, '').replace('Drømmer om ', '');
 }
 
@@ -86,14 +91,18 @@ const symbolData = sorterteSymboler.map(s => ({
 // en crawler eller en leser uten JS fikk se. Na regnes byggedagens symbol ut
 // her og rendres direkte, mens klienten bare far et lite vindu med de neste
 // dagene og oppdaterer kortet hvis leserens lokale dato er en annen.
+// Et nytt spraak starter med tom samling. Da skal kortet ikke rendres i det
+// hele tatt — ikke krasje paa symbolData[NaN].
+const harInnhold = symbolData.length > 0;
 const MS_PER_DAG = 86400000;
 const byggDag = Math.floor(Date.now() / MS_PER_DAG);
-const dagensSymbol = symbolData[byggDag % symbolData.length];
-const vindu = Object.fromEntries(
+const dagensSymbol = harInnhold ? symbolData[byggDag % symbolData.length] : null;
+const vindu = harInnhold ? Object.fromEntries(
   Array.from({ length: 60 }, (_, i) => [byggDag + i, symbolData[(byggDag + i) % symbolData.length]]),
-);
+) : {};
 ---
 
+{harInnhold && (
 <!-- Skjult data brukt av klient-scriptet -->
 <script is:inline define:vars={{ vindu, variabel: VARIABEL[lang] }}>
   window[variabel] = vindu;
@@ -141,6 +150,7 @@ const vindu = Object.fromEntries(
     }
   })();
 </script>
+)}
 
 <style>
   .drommens-dag-wrapper {

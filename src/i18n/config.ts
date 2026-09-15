@@ -32,6 +32,17 @@ export const languages = {
     brand: 'Drømmeguiden',
     dir: 'ltr',
   },
+  de: {
+    code: 'de',
+    locale: 'de_DE',
+    flag: '🇩🇪',
+    label: 'Deutsch',
+    shortLabel: 'DE',
+    htmlLang: 'de',
+    basePath: '/de',
+    brand: 'Der Traumdeuter',
+    dir: 'ltr',
+  },
   en: {
     code: 'en',
     locale: 'en_US',
@@ -49,7 +60,7 @@ export type Lang = keyof typeof languages;
 
 export const defaultLang: Lang = 'nb';
 
-export const supportedLangs: Lang[] = ['nb', 'sv', 'da', 'en'];
+export const supportedLangs: Lang[] = ['nb', 'sv', 'da', 'de', 'en'];
 
 export const pathSegments = {
   nb: {
@@ -90,6 +101,19 @@ export const pathSegments = {
     cookies: 'cookies',
     journal: 'journal',
     symboler: 'symboler',
+  },
+  de: {
+    drommer: 'traeume',
+    kategori: 'kategorie',
+    guider: 'ratgeber',
+    sovn: 'schlaf',
+    omOss: 'ueber-uns',
+    kontakt: 'kontakt',
+    personvern: 'datenschutz',
+    vilkar: 'nutzungsbedingungen',
+    cookies: 'cookies',
+    journal: 'traumtagebuch',
+    symboler: 'symbole',
   },
   en: {
     drommer: 'dreams',

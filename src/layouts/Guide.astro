@@ -35,12 +35,13 @@ const labelsByLang: Record<Lang, { hjem: string; guider: string; breadcrumb: str
   nb: { hjem: 'Hjem', guider: 'Guider', breadcrumb: 'Brødsmuler', lesetid: 'min lesetid', innhold: 'Innhold', byline: 'Skrevet av', oppdatert: 'Sist oppdatert' },
   sv: { hjem: 'Hem', guider: 'Guider', breadcrumb: 'Brödsmulor', lesetid: 'min läsning', innhold: 'Innehåll', byline: 'Skriven av', oppdatert: 'Senast uppdaterad' },
   da: { hjem: 'Hjem', guider: 'Guider', breadcrumb: 'Brødkrummer', lesetid: 'min læsetid', innhold: 'Indhold', byline: 'Skrevet af', oppdatert: 'Sidst opdateret' },
+  de: { hjem: 'Start', guider: 'Ratgeber', breadcrumb: 'Brotkrumen', lesetid: 'Min. Lesezeit', innhold: 'Inhalt', byline: 'Geschrieben von', oppdatert: 'Zuletzt aktualisiert' },
   en: { hjem: 'Home', guider: 'Guides', breadcrumb: 'Breadcrumbs', lesetid: 'min read', innhold: 'Contents', byline: 'Written by', oppdatert: 'Last updated' },
 };
 const labels = labelsByLang[lang] ?? labelsByLang.nb;
 
 const canonical = `https://drommeguiden.no${pathFor(lang, 'guider', slug)}`;
-const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', en: 'en-GB' };
+const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', de: 'de-DE', en: 'en-GB' };
 const oppdatertDato = oppdatert ?? dato;
 const oppdatertFmt = oppdatertDato.toLocaleDateString(dateLocaleByLang[lang] ?? 'nb-NO', { day: 'numeric', month: 'long', year: 'numeric' });
 const aboutUrl = pathFor(lang, 'omOss');

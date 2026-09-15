@@ -1,0 +1,119 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="de"
+  tittel="Datenschutzerklärung"
+  beskrivelse="Die Datenschutzerklärung des Traumdeuters: welche Daten erhoben werden, warum, und welche Rechte dir nach der DSGVO zustehen."
+  alternates={alternatesFor('personvern')}
+>
+  <div class="static-page">
+    <span class="static-label">Datenschutz</span>
+    <h1 class="static-title">Datenschutzerklärung</h1>
+
+    <div class="prose">
+      <p>
+        Diese Erklärung beschreibt, welche Daten drommeguiden.no erhebt, warum,
+        und welche Rechte du hast. Zuletzt aktualisiert am 14. September 2026.
+      </p>
+
+      <h2>Wer wir sind</h2>
+      <p>
+        Drommeguiden.no ist eine redaktionelle Website über Träume und Schlaf.
+        Die Seite ist statisch: Es gibt keine Benutzerkonten, keine Anmeldung
+        und keine Datenbank mit personenbezogenen Daten.
+      </p>
+
+      <h2>Welche Daten wir erheben</h2>
+      <p>
+        Wir erheben weder Namen noch E-Mail-Adressen oder Kontaktdaten, außer du
+        schreibst uns selbst. Was erhoben wird, geschieht über die unten
+        genannten Drittanbieter und betrifft die Nutzung der Seite — nicht dich
+        als Person.
+      </p>
+      <p>
+        Schreibst du uns eine E-Mail, bewahren wir die Nachricht so lange auf,
+        wie es zur Beantwortung nötig ist.
+      </p>
+
+      <h2>Dienste, die wir nutzen</h2>
+      <p>
+        <strong>Google Analytics</strong> liefert uns anonymisierte Statistiken
+        darüber, welche Seiten gelesen werden. <strong>Google AdSense</strong>
+        spielt Anzeigen aus und setzt dafür Cookies. <strong>Cloudflare</strong>
+        liefert die Seite aus und setzt technische Cookies, die für Betrieb und
+        Sicherheit notwendig sind.
+      </p>
+
+      <h2>Werbung und Partnerlinks</h2>
+      <p>
+        Die Seite finanziert sich über Werbung. Neben AdSense zeigen wir
+        <strong>Partnerlinks</strong> (Affiliate) — Anzeigen, für die wir eine
+        Provision erhalten, wenn du klickst und etwas kaufst. Sie sind immer mit
+        «Anzeige» gekennzeichnet, und ein Kauf kostet dich nicht mehr, als wenn
+        du direkt zum Anbieter gegangen wärst. Klickst du eine solche Anzeige
+        an, setzt der Anbieter bei sich ein Cookie, das festhält, dass der Klick
+        von hier kam. Das geschieht erst beim Klick, nicht schon beim Anzeigen.
+      </p>
+      <p>
+        Wir empfehlen diese Produkte nicht redaktionell. Dass eine Anzeige auf
+        der Seite erscheint, ist keine fachliche Bewertung unsererseits.
+      </p>
+
+      <h2>Das Traumtagebuch</h2>
+      <p>
+        Schreibst du im <a href="/de/traumtagebuch/">Traumtagebuch</a>, wird der
+        Text ausschließlich in deinem eigenen Browser gespeichert
+        (localStorage). Nichts wird an uns gesendet, nichts liegt auf einem
+        Server, und wir können nicht lesen, was du schreibst.
+      </p>
+
+      <h2>Rechtsgrundlage</h2>
+      <p>
+        Technische Cookies werden auf Grundlage des berechtigten Interesses am
+        Betrieb der Seite gesetzt. Analyse- und Werbe-Cookies werden nur
+        gesetzt, wenn du im Cookie-Banner eingewilligt hast.
+      </p>
+
+      <h2>Deine Rechte nach der DSGVO</h2>
+      <p>
+        Du hast das Recht auf Auskunft, Berichtigung und Löschung deiner Daten,
+        auf Einschränkung der Verarbeitung, auf Datenübertragbarkeit und auf
+        Widerspruch. Da wir über eine etwaige E-Mail-Korrespondenz hinaus keine
+        personenbezogenen Daten von dir speichern, wird sich eine Anfrage in der
+        Regel darauf beziehen.
+      </p>
+      <p>
+        Wenn du der Ansicht bist, dass die Verarbeitung gegen geltendes Recht
+        verstößt, kannst du dich bei der für dich zuständigen
+        Datenschutzaufsichtsbehörde beschweren.
+      </p>
+
+      <h2>So widerrufst du deine Einwilligung</h2>
+      <p>
+        Du kannst deine Einwilligung jederzeit über die Cookie-Einstellungen auf
+        der Seite ändern oder widerrufen, oder indem du die Cookies in deinem
+        Browser löschst. Einzelheiten stehen auf der
+        <a href="/de/cookies/">Cookie-Seite</a>.
+      </p>
+
+      <h2>Kontakt</h2>
+      <p>
+        Fragen zu dieser Erklärung kannst du an
+        <a href="mailto:hej@drommeguiden.no">hej@drommeguiden.no</a> richten.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

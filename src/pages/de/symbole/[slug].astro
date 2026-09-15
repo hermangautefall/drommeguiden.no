@@ -1,0 +1,57 @@
+---
+import { getCollection, render } from 'astro:content';
+import SymbolBetydning from '../../../layouts/SymbolBetydning.astro';
+import { pathFor } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const sider = await getCollection('symboler-de');
+  return sider.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+// Hreflang bygges av nb_slug, som er ryggraden i spraakkoblingen paa siden.
+// da_slug/en_slug er snarveier og kan mangle; da slaas motparten opp.
+const alleNb = await getCollection('symboler');
+const alleSv = await getCollection('symboler-de');
+const alleEn = await getCollection('symboler-en');
+const nb = entry.data.nb_slug ?? (('de' === 'nb') ? entry.data.slug : undefined);
+
+const alternates: { lang: 'nb' | 'sv' | 'en'; url: string }[] = [];
+if (nb && alleNb.some((e: any) => e.data.slug === nb)) {
+  alternates.push({ lang: 'nb', url: `https://drommeguiden.no${pathFor('nb', 'symboler', nb)}` });
+}
+const sv = alleSv.find((e: any) => (e.data.nb_slug ?? e.data.slug) === nb);
+if (sv) {
+  alternates.push({ lang: 'de', url: `https://drommeguiden.no${pathFor('de', 'symboler', sv.data.slug)}` });
+}
+const en = alleEn.find((e: any) => (e.data.nb_slug ?? e.data.slug) === nb);
+if (en) {
+  alternates.push({ lang: 'en', url: `https://drommeguiden.no${pathFor('en', 'symboler', en.data.slug)}` });
+}
+
+const wordCount = (entry.body ?? '').trim().split(/\s+/).filter(Boolean).length;
+const leseminutter = Math.max(1, Math.round(wordCount / 200));
+---
+
+<SymbolBetydning
+  tittel={entry.data.tittel}
+  kortbeskrivelse={entry.data.kortbeskrivelse}
+  tolkninger_kort={entry.data.tolkninger_kort ?? []}
+  relaterte_drommer={entry.data.relaterte_drommer ?? []}
+  slug={entry.data.slug}
+  dato={entry.data.dato}
+  oppdatert={entry.data.oppdatert}
+  bilde={entry.data.bilde}
+  leseminutter={leseminutter}
+  author={entry.data.author}
+  sensitivt={entry.data.sensitivt}
+  lang="de"
+  alternates={alternates}
+>
+  <Content />
+</SymbolBetydning>

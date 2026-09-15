@@ -17,6 +17,7 @@ const SAMLING: Record<Lang, string> = {
   nb: 'drommer',
   sv: 'drommer-sv',
   da: 'drommer-da',
+  de: 'drommer-de',
   en: 'drommer-en',
 };
 

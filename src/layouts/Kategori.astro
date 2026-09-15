@@ -15,7 +15,7 @@ interface Props {
 
 const { tittel, kortbeskrivelse, slug, lang = 'nb', alternates = [] } = Astro.props;
 
-const collectionNameByLang: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', da: 'drommer-da', en: 'drommer-en' };
+const collectionNameByLang: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', da: 'drommer-da', de: 'drommer-de', en: 'drommer-en' };
 const collectionName = collectionNameByLang[lang] ?? collectionNameByLang.nb;
 const alleSymboler = await getCollection(collectionName as any);
 const symbolerIKategori = alleSymboler.filter((s) => s.data.kategori === slug);
@@ -32,6 +32,10 @@ const emojiMapByLang: Record<Lang, Record<string, string>> = {
   da: {
     dyr: '🐾', vand: '🌊', krop: '🫀', steder: '🏠',
     haendelser: '⚡', mennesker: '👤', natur: '🌿', genstande: '🔑', aandeligt: '✨',
+  },
+  de: {
+    tiere: '🐾', wasser: '🌊', koerper: '🫀', orte: '🏠',
+    ereignisse: '⚡', menschen: '👤', natur: '🌿', gegenstaende: '🔑', spirituelles: '✨',
   },
   en: {
     animals: '🐾', water: '🌊', body: '🫀', places: '🏠',
@@ -67,6 +71,14 @@ const labelsByLang: Record<Lang, { home: string; categories: string; breadcrumb:
     allLabel: 'Alle symboler',
     allTitle: 'Udforsk symbolerne',
   },
+  de: {
+    home: 'Start',
+    categories: 'Kategorien',
+    breadcrumb: 'Brotkrumen',
+    countSuffix: 'Traumsymbole',
+    allLabel: 'Alle Symbole',
+    allTitle: 'Die Symbole erkunden',
+  },
   en: {
     home: 'Home',
     categories: 'Categories',
@@ -82,15 +94,16 @@ const canonicalUrlByLang: Record<Lang, string> = {
   nb: `https://drommeguiden.no/kategori/${slug}/`,
   sv: `https://drommeguiden.no/sv/kategori/${slug}/`,
   da: `https://drommeguiden.no/da/kategori/${slug}/`,
+  de: `https://drommeguiden.no/de/kategorie/${slug}/`,
   en: `https://drommeguiden.no/en/category/${slug}/`,
 };
 const canonicalUrl = canonicalUrlByLang[lang] ?? canonicalUrlByLang.nb;
 
-const homeHrefByLang: Record<Lang, string> = { nb: '/', sv: '/sv/', da: '/da/', en: '/en/' };
+const homeHrefByLang: Record<Lang, string> = { nb: '/', sv: '/sv/', da: '/da/', de: '/de/', en: '/en/' };
 const homeHref = homeHrefByLang[lang] ?? homeHrefByLang.nb;
-const categoriesHrefByLang: Record<Lang, string> = { nb: '/kategori/', sv: '/sv/kategori/', da: '/da/kategori/', en: '/en/category/' };
+const categoriesHrefByLang: Record<Lang, string> = { nb: '/kategori/', sv: '/sv/kategori/', da: '/da/kategori/', de: '/de/kategorie/', en: '/en/category/' };
 const categoriesHref = categoriesHrefByLang[lang] ?? categoriesHrefByLang.nb;
-const selfHrefByLang: Record<Lang, string> = { nb: `/kategori/${slug}/`, sv: `/sv/kategori/${slug}/`, da: `/da/kategori/${slug}/`, en: `/en/category/${slug}/` };
+const selfHrefByLang: Record<Lang, string> = { nb: `/kategori/${slug}/`, sv: `/sv/kategori/${slug}/`, da: `/da/kategori/${slug}/`, de: `/de/kategorie/${slug}/`, en: `/en/category/${slug}/` };
 const selfHref = selfHrefByLang[lang] ?? selfHrefByLang.nb;
 
 const crumbs = [

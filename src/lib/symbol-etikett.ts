@@ -10,7 +10,7 @@ import type { Lang } from '../i18n/config';
  * `text-transform: capitalize` ble det «Avdod Person». Etiketten utledes nå
  * fra artikkelens egen tittel.
  */
-const MAPPE: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', da: 'drommer-da', en: 'drommer-en' };
+const MAPPE: Record<Lang, string> = { nb: 'drommer', sv: 'drommer-sv', da: 'drommer-da', de: 'drommer-de', en: 'drommer-en' };
 
 /**
  * Halen er en spoersmaalsformulering etter tankestrek. Moenstret er generisk
@@ -22,6 +22,7 @@ const HALE: Record<Lang, RegExp> = {
   nb: / — [^—]*\?$/,
   sv: / — [^—]*\?$/,
   da: / — [^—]*\?$/,
+  de: / — [^—]*\?$/,
   en: / — [^—]*\?$/,
 };
 
@@ -29,6 +30,8 @@ const HODE: Record<Lang, RegExp> = {
   nb: /^Drømmer om |^Drømme om |^Drømt om /,
   sv: /^Drömmar om |^Drömma om |^Drömt om /,
   da: /^Drømme om |^Drømmer om |^Drømt om /,
+  // Tysk: «Träume von» styrer dativ, «Träumen von» og «Vom … träumen» finnes ogsaa.
+  de: /^Träume von |^Träumen von |^Vom |^Von /,
   en: /^Dreaming (?:of|about) |^Dream about /,
 };
 
@@ -61,6 +64,7 @@ const OVERSTYR: Record<Lang, Record<string, string>> = {
     'frammande': 'en främling',
   },
   da: {},
+  de: {},
   en: {},
 };
 

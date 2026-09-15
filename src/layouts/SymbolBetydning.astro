@@ -52,7 +52,7 @@ const { tittel, kortbeskrivelse, tolkninger_kort, relaterte_drommer, slug, dato,
 const resolvedAuthor = getAuthor(author);
 const forfatterNavn = resolvedAuthor.navnPerSprak?.[lang] ?? resolvedAuthor.name;
 const og = await resolveOgImage(bilde);
-const lesetidLabelByLang: Record<Lang, string> = { nb: 'min lesetid', sv: 'min läsning', da: 'min læsetid', en: 'min read' };
+const lesetidLabelByLang: Record<Lang, string> = { nb: 'min lesetid', sv: 'min läsning', da: 'min læsetid', de: 'Min. Lesezeit', en: 'min read' };
 const lesetidLabel = lesetidLabelByLang[lang] ?? lesetidLabelByLang.nb;
 const bildeFilnavn = bilde ? bilde.split('/').pop() : undefined;
 const displayTitle = tittel
@@ -73,13 +73,13 @@ const langConfig = languages[lang];
 const baseSite = 'https://drommeguiden.no';
 const canonical = `${baseSite}${pathFor(lang, 'symboler', slug)}`;
 
-const aboutUrlByLang: Record<Lang, string> = { nb: '/om-oss/', sv: '/sv/om-oss/', da: '/da/om-os/', en: '/en/about/' };
+const aboutUrlByLang: Record<Lang, string> = { nb: '/om-oss/', sv: '/sv/om-oss/', da: '/da/om-os/', de: '/de/ueber-uns/', en: '/en/about/' };
 const aboutUrl = aboutUrlByLang[lang] ?? aboutUrlByLang.nb;
-const bylineLabelByLang: Record<Lang, string> = { nb: 'Skrevet av', sv: 'Skriven av', da: 'Skrevet af', en: 'Written by' };
+const bylineLabelByLang: Record<Lang, string> = { nb: 'Skrevet av', sv: 'Skriven av', da: 'Skrevet af', de: 'Geschrieben von', en: 'Written by' };
 const bylineLabel = bylineLabelByLang[lang] ?? bylineLabelByLang.nb;
-const oppdatertLabelByLang: Record<Lang, string> = { nb: 'Sist oppdatert', sv: 'Senast uppdaterad', da: 'Sidst opdateret', en: 'Last updated' };
+const oppdatertLabelByLang: Record<Lang, string> = { nb: 'Sist oppdatert', sv: 'Senast uppdaterad', da: 'Sidst opdateret', de: 'Zuletzt aktualisiert', en: 'Last updated' };
 const oppdatertLabel = oppdatertLabelByLang[lang] ?? oppdatertLabelByLang.nb;
-const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', en: 'en-GB' };
+const dateLocaleByLang: Record<Lang, string> = { nb: 'nb-NO', sv: 'sv-SE', da: 'da-DK', de: 'de-DE', en: 'en-GB' };
 const dateLocale = dateLocaleByLang[lang] ?? dateLocaleByLang.nb;
 const oppdatertDato = oppdatert ?? dato;
 const oppdatertFmt = oppdatertDato.toLocaleDateString(dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
@@ -88,16 +88,18 @@ const sensitivtTekstByLang: Record<Lang, string> = {
   nb: 'Drømmetolkning er refleksjon, ikke diagnose. Hvis innholdet i drømmen eller artikkelen vekker sterke følelser, snakk med noen du stoler på eller kontakt Mental Helse på 116 123.',
   sv: 'Drömtolkning är reflektion, inte diagnos. Om innehållet i drömmen eller artikeln väcker starka känslor, prata med någon du litar på eller kontakta Mind Självmordslinjen på 90101.',
   da: 'Drømmetydning er refleksion, ikke diagnose. Hvis indholdet i drømmen eller artiklen vækker stærke følelser, så tal med en du stoler på, eller kontakt Livslinien på 70 201 201.',
+  de: 'Traumdeutung ist Nachdenken, keine Diagnose. Wenn der Inhalt des Traums oder dieses Artikels starke Gefühle auslöst, sprich mit jemandem, dem du vertraust, oder wende dich an die Telefonseelsorge unter 0800 111 0 111.',
   en: 'Dream interpretation is reflection, not diagnosis. If the content of the dream or this article brings up strong feelings, talk to someone you trust or reach out to a helpline where you live.',
 };
 const sensitivtTekst = sensitivtTekstByLang[lang] ?? sensitivtTekstByLang.nb;
-const sensitivtLabelByLang: Record<Lang, string> = { nb: 'Til ettertanke', sv: 'Att tänka på', da: 'Til eftertanke', en: 'Something to consider' };
+const sensitivtLabelByLang: Record<Lang, string> = { nb: 'Til ettertanke', sv: 'Att tänka på', da: 'Til eftertanke', de: 'Zum Nachdenken', en: 'Something to consider' };
 const sensitivtLabel = sensitivtLabelByLang[lang] ?? sensitivtLabelByLang.nb;
 
 const labelsByLang: Record<Lang, { hjem: string; symboler: string; breadcrumb: string }> = {
   nb: { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødsmuler' },
   sv: { hjem: 'Hem', symboler: 'Symboler', breadcrumb: 'Brödsmulor' },
   da: { hjem: 'Hjem', symboler: 'Symboler', breadcrumb: 'Brødkrummer' },
+  de: { hjem: 'Start', symboler: 'Symbole', breadcrumb: 'Brotkrumen' },
   en: { hjem: 'Home', symboler: 'Symbols', breadcrumb: 'Breadcrumbs' },
 };
 const labels = labelsByLang[lang] ?? labelsByLang.nb;
@@ -106,6 +108,7 @@ const seksjonsnavnByLang: Record<Lang, string> = {
   nb: 'Symbolbetydning',
   sv: 'Symbolbetydelse',
   da: 'Symbolbetydning',
+  de: 'Symbolbedeutung',
   en: 'Symbol meaning',
 };
 const seksjonsnavn = seksjonsnavnByLang[lang] ?? seksjonsnavnByLang.nb;
@@ -274,6 +277,11 @@ const crumbs = [
                 `Hvad betyder det at se en ${symbol}?`,
                 `Hvad symboliserer ${symbol}en?`,
                 `Er det et varsel at se en ${symbol}?`,
+              ],
+              de: [
+                `Was bedeutet es, ${symbol} zu sehen?`,
+                `Wofür steht ${symbol}?`,
+                `Ist es ein Vorzeichen, ${symbol} zu sehen?`,
               ],
               en: [
                 `What does it mean to see a ${symbol}?`,

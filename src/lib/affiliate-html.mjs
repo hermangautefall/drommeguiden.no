@@ -36,7 +36,7 @@ const ANNONSER = {
   },
 };
 
-const MERKING = { nb: 'Annonse', sv: 'Annons', da: 'Annonce', en: 'Advertisement' };
+const MERKING = { nb: 'Annonse', sv: 'Annons', da: 'Annonce', de: 'Anzeige', en: 'Advertisement' };
 
 function esc(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;')

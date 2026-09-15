@@ -19,6 +19,7 @@ const drommerSchema = z
     oppdatert: z.coerce.date().optional(),
     sv_slug: z.string().optional(),
     da_slug: z.string().optional(),
+    de_slug: z.string().optional(),
     nb_slug: z.string().optional(),
     en_slug: z.string().optional(),
     author: z.string().optional(),
@@ -40,6 +41,7 @@ const sovnSchema = z
     bilde: z.string().optional(),
     sv_slug: z.string().optional(),
     da_slug: z.string().optional(),
+    de_slug: z.string().optional(),
     nb_slug: z.string().optional(),
     en_slug: z.string().optional(),
     author: z.string().optional(),
@@ -67,6 +69,7 @@ const symbolerSchema = z
     oppdatert: z.coerce.date().optional(),
     sv_slug: z.string().optional(),
     da_slug: z.string().optional(),
+    de_slug: z.string().optional(),
     nb_slug: z.string().optional(),
     en_slug: z.string().optional(),
     author: z.string().optional(),
@@ -125,20 +128,40 @@ export const collections = {
     loader: glob({ pattern: '**/*.md', base: './src/content/drommer-da' }),
     schema: drommerSchema,
   }),
+  'drommer-de': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/drommer-de' }),
+    schema: drommerSchema,
+  }),
   'sovn-da': defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/sovn-da' }),
+    schema: sovnSchema,
+  }),
+  'sovn-de': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/sovn-de' }),
     schema: sovnSchema,
   }),
   'guider-da': defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/guider-da' }),
     schema: looseSchema,
   }),
+  'guider-de': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/guider-de' }),
+    schema: looseSchema,
+  }),
   'kategorier-da': defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/kategorier-da' }),
     schema: looseSchema,
   }),
+  'kategorier-de': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/kategorier-de' }),
+    schema: looseSchema,
+  }),
   'symboler-da': defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/symboler-da' }),
+    schema: symbolerSchema,
+  }),
+  'symboler-de': defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/symboler-de' }),
     schema: symbolerSchema,
   }),
   'drommer-en': defineCollection({

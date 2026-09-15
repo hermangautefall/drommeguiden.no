@@ -1,0 +1,62 @@
+---
+import { alternatesFor } from '../../lib/statiske-alternates';
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  lang="de"
+  tittel="Kontakt"
+  beskrivelse="Hast du eine Frage zu einem Traumsymbol, einen Vorschlag für ein fehlendes, oder eine Korrektur? Schreib uns — wir lesen jede Nachricht."
+  alternates={alternatesFor('kontakt')}
+>
+  <div class="static-page">
+    <span class="static-label">Kontakt</span>
+    <h1 class="static-title">Schreib uns</h1>
+
+    <div class="prose">
+      <p>
+        Wir hören gern von unseren Leserinnen und Lesern. Ob du eine Frage zu
+        einem Traumsymbol hast, ein Symbol vorschlagen möchtest, das uns fehlt,
+        oder einfach einen Traum teilen willst, der dich nicht loslässt — wir
+        lesen jede Nachricht.
+      </p>
+
+      <p>Schreib uns an:</p>
+
+      <p class="kontakt-email">
+        <a href="mailto:hej@drommeguiden.no">hej@drommeguiden.no</a>
+      </p>
+
+      <p>
+        Wir bemühen uns, innerhalb weniger Werktage zu antworten. Schreib gern
+        in den Betreff, worum es geht — dann können wir schneller helfen.
+      </p>
+
+      <h2>Korrekturen sind willkommen</h2>
+      <p>
+        Hast du einen sachlichen Fehler gefunden, eine unklare Stelle oder einen
+        kulturellen Zusammenhang, den wir schief getroffen haben? Sag Bescheid.
+        Der Traumdeuter ist ein lebendiges Projekt, und seine Qualität hängt
+        davon ab, dass Leserinnen und Leser sich melden, wenn etwas nicht stimmt.
+      </p>
+
+      <h2>Was wir nicht anbieten</h2>
+      <p>
+        Der Traumdeuter bietet keine persönliche Traumdeutung und keine
+        therapeutische Beratung an. Wenn du unter wiederkehrenden Albträumen
+        oder Schlafproblemen leidest, die deinen Alltag beeinträchtigen,
+        sprich bitte mit deiner Hausärztin oder deinem Hausarzt.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .static-page { max-width: 720px; margin: 0 auto; }
+  .static-label { display: block; font-family: var(--font-nav); font-size: 11px; font-weight: 600;
+    letter-spacing: 1.5px; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 10px; }
+  .static-title { font-family: var(--font-heading); font-size: 36px; color: var(--color-text-heading);
+    margin-bottom: 32px; font-weight: 400; }
+  @media (min-width: 768px) { .static-title { font-size: 44px; } }
+  .prose h2 { margin-top: 2.5rem; }
+</style>

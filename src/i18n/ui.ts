@@ -163,6 +163,61 @@ export const ui = {
     'dato.publisert': 'Udgivet',
     'dato.oppdatert': 'Opdateret',
   },
+  de: {
+    'nav.symboler': 'Symbole',
+    'nav.kategorier': 'Kategorien',
+    'nav.guider': 'Ratgeber',
+    'nav.sovn': 'Schlaf',
+    'nav.omOss': 'Über uns',
+    'nav.kontakt': 'Kontakt',
+    'nav.personvern': 'Datenschutz',
+    'nav.vilkar': 'Nutzungsbedingungen',
+    'nav.journal': 'Traumtagebuch',
+
+    'cta.utforskSymboler': 'Symbole erkunden',
+    'cta.lesMer': 'Mehr lesen',
+    'cta.tilbake': 'Zurück',
+    'cta.lesGuidene': 'Die Ratgeber lesen',
+
+    'hero.undertittel': 'Erkunde den deutschen Traumdeuter',
+    'hero.beskrivelse': 'Suche in über 200 Traumsymbolen — von Schlangen und Meer bis zu Zähnen und dem Fliegen. Gestützt auf Forschung und Überlieferung.',
+
+    'sok.placeholder': 'Nach einem Traumsymbol suchen ...',
+
+    'footer.tagline': 'Der deutsche Wegweiser zu Träumen und ihrer Bedeutung.',
+    'footer.utforsk': 'Erkunden',
+    'footer.populart': 'Beliebt',
+    'footer.info': 'Info',
+    'footer.copyright': 'Alle Rechte vorbehalten.',
+
+    'symbol.tolkningerTittel': 'Häufige Deutungen',
+    'symbol.tlDr': 'Kurzdeutung',
+    'symbol.metaPublisert': 'Veröffentlicht',
+    'symbol.lesetid': 'Min. Lesezeit',
+    'symbol.relaterte': 'Verwandte Traumsymbole',
+    'symbol.utforskVidere': 'Weiter erkunden',
+
+    'sovn.tittel': 'Schlaf',
+    'sovn.subtitle': 'Forschung, Gewohnheiten und bessere Nächte — alles, was du über Schlaf wissen musst, gestützt auf Studien.',
+    'sovn.artikler': 'Artikel',
+    'sovn.seksjon': 'Schlafbereich',
+    'sovn.forbindelsen': 'Der Zusammenhang',
+    'sovn.bridgeTittel': 'Schlaf und Träume hängen zusammen',
+    'sovn.bridgeTekst': 'Träume entstehen im REM-Schlaf — und die Schlafqualität wirkt sich unmittelbar darauf aus, wovon du träumst. Erkunde über 200 Traumsymbole in unserem vollständigen Traumdeuter.',
+    'sovn.bridgeCta': 'Traumsymbole erkunden',
+
+    'sitemap.alle': 'Alle Traumsymbole',
+    'sitemap.alleSovn': 'Alle Schlafartikel',
+    'sitemap.alleGuider': 'Alle Ratgeber',
+    'sitemap.alleKategorier': 'Alle Kategorien',
+
+    'lang.label': 'Sprache',
+    'lang.bytt': 'Sprache wechseln',
+
+    'dato.publisert': 'Veröffentlicht',
+    'dato.oppdatert': 'Aktualisiert',
+  },
+
   en: {
     'nav.symboler': 'Symbols',
     'nav.kategorier': 'Categories',

@@ -83,6 +83,12 @@ function escXml(s) {
 }
 
 // ---------------- Bygg URL-liste ----------------
+// Spraakene sitemap-en dekker. Brukes baade naar oppfoeringene bygges og
+// naar filene skrives, saa den maa ligge paa modulnivaa.
+const SPRAAK = ['nb', 'sv', 'da', 'de', 'en'];
+// Norsk sitemap heter «no», ikke «nb».
+const FILNAVN = { nb: 'no', sv: 'sv', da: 'da', de: 'de', en: 'en' };
+
 function buildAllEntries(srcDir = 'src') {
   const drommer    = loadCollection(`${srcDir}/content/drommer`);
   const drommerSv  = loadCollection(`${srcDir}/content/drommer-sv`);
@@ -97,10 +103,15 @@ function buildAllEntries(srcDir = 'src') {
   const symbolerSv   = loadCollection(`${srcDir}/content/symboler-sv`);
   const symbolerEn   = loadCollection(`${srcDir}/content/symboler-en`);
   const drommerDa    = loadCollection(`${srcDir}/content/drommer-da`);
+  const drommerDe    = loadCollection(`${srcDir}/content/drommer-de`);
   const sovnDa       = loadCollection(`${srcDir}/content/sovn-da`);
+  const sovnDe    = loadCollection(`${srcDir}/content/sovn-de`);
   const guiderDa     = loadCollection(`${srcDir}/content/guider-da`);
+  const guiderDe    = loadCollection(`${srcDir}/content/guider-de`);
   const kategorierDa = loadCollection(`${srcDir}/content/kategorier-da`);
+  const kategorierDe    = loadCollection(`${srcDir}/content/kategorier-de`);
   const symbolerDa   = loadCollection(`${srcDir}/content/symboler-da`);
+  const symbolerDe    = loadCollection(`${srcDir}/content/symboler-de`);
   const kategorier   = loadCollection(`${srcDir}/content/kategorier`);
   const kategorierSv = loadCollection(`${srcDir}/content/kategorier-sv`);
   const kategorierEn = loadCollection(`${srcDir}/content/kategorier-en`);
@@ -144,61 +155,66 @@ function buildAllEntries(srcDir = 'src') {
   // for fire. Naa defineres hver seksjon én gang, og spraakene kommer fra
   // supportedLangs-ekvivalenten under. nb_slug er ryggraden, som ellers paa
   // siden; norske filer har den ikke selv, saa der brukes slug.
-  const SPRAAK = ['nb', 'sv', 'da', 'en'];
 
   const SEKSJONER = [
     {
       navn: 'drommer', bilde: true,
-      data: { nb: drommer, sv: drommerSv, da: drommerDa, en: drommerEn },
-      url: { nb: (s) => `/drommer/${s}/`, sv: (s) => `/sv/drommar/${s}/`, da: (s) => `/da/dromme/${s}/`, en: (s) => `/en/dreams/${s}/` },
+      data: { nb: drommer, sv: drommerSv, da: drommerDa, de: drommerDe, en: drommerEn },
+      url: { nb: (s) => `/drommer/${s}/`, sv: (s) => `/sv/drommar/${s}/`, da: (s) => `/da/dromme/${s}/`, de: (s) => `/de/traeume/${s}/`, en: (s) => `/en/dreams/${s}/` },
     },
     {
       navn: 'symboler', bilde: true,
-      data: { nb: symboler, sv: symbolerSv, da: symbolerDa, en: symbolerEn },
-      url: { nb: (s) => `/symboler/${s}/`, sv: (s) => `/sv/symboler/${s}/`, da: (s) => `/da/symboler/${s}/`, en: (s) => `/en/symbols/${s}/` },
+      data: { nb: symboler, sv: symbolerSv, da: symbolerDa, de: symbolerDe, en: symbolerEn },
+      url: { nb: (s) => `/symboler/${s}/`, sv: (s) => `/sv/symboler/${s}/`, da: (s) => `/da/symboler/${s}/`, de: (s) => `/de/symbole/${s}/`, en: (s) => `/en/symbols/${s}/` },
     },
     {
       navn: 'sovn', bilde: false,
-      data: { nb: sovn, sv: sovnSv, da: sovnDa, en: sovnEn },
-      url: { nb: (s) => `/sovn/${s}/`, sv: (s) => `/sv/somn/${s}/`, da: (s) => `/da/sovn/${s}/`, en: (s) => `/en/sleep/${s}/` },
+      data: { nb: sovn, sv: sovnSv, da: sovnDa, de: sovnDe, en: sovnEn },
+      url: { nb: (s) => `/sovn/${s}/`, sv: (s) => `/sv/somn/${s}/`, da: (s) => `/da/sovn/${s}/`, de: (s) => `/de/schlaf/${s}/`, en: (s) => `/en/sleep/${s}/` },
     },
     {
       navn: 'guider', bilde: false,
-      data: { nb: guider, sv: guiderSv, da: guiderDa, en: guiderEn },
-      url: { nb: (s) => `/guider/${s}/`, sv: (s) => `/sv/guider/${s}/`, da: (s) => `/da/guider/${s}/`, en: (s) => `/en/guides/${s}/` },
+      data: { nb: guider, sv: guiderSv, da: guiderDa, de: guiderDe, en: guiderEn },
+      url: { nb: (s) => `/guider/${s}/`, sv: (s) => `/sv/guider/${s}/`, da: (s) => `/da/guider/${s}/`, de: (s) => `/de/ratgeber/${s}/`, en: (s) => `/en/guides/${s}/` },
     },
     {
       navn: 'kategorier', bilde: false,
-      data: { nb: kategorier, sv: kategorierSv, da: kategorierDa, en: kategorierEn },
-      url: { nb: (s) => `/kategori/${s}/`, sv: (s) => `/sv/kategori/${s}/`, da: (s) => `/da/kategori/${s}/`, en: (s) => `/en/category/${s}/` },
+      data: { nb: kategorier, sv: kategorierSv, da: kategorierDa, de: kategorierDe, en: kategorierEn },
+      url: { nb: (s) => `/kategori/${s}/`, sv: (s) => `/sv/kategori/${s}/`, da: (s) => `/da/kategori/${s}/`, de: (s) => `/de/kategorie/${s}/`, en: (s) => `/en/category/${s}/` },
     },
   ];
 
   // Statiske sider: én rad per side, med URL og kildefil per spraak.
   const statiske = [
-    { nb: ['/', 'src/pages/index.astro'], sv: ['/sv/', 'src/pages/sv/index.astro'], da: ['/da/', 'src/pages/da/index.astro'], en: ['/en/', 'src/pages/en/index.astro'] },
-    { nb: ['/drommer/', 'src/pages/drommer/index.astro'], sv: ['/sv/drommar/', 'src/pages/sv/drommar/index.astro'], da: ['/da/dromme/', 'src/pages/da/dromme/index.astro'], en: ['/en/dreams/', 'src/pages/en/dreams/index.astro'] },
-    { nb: ['/kategori/', 'src/pages/kategori/index.astro'], sv: ['/sv/kategori/', 'src/pages/sv/kategori/index.astro'], da: ['/da/kategori/', 'src/pages/da/kategori/index.astro'], en: ['/en/category/', 'src/pages/en/category/index.astro'] },
-    { nb: ['/guider/', 'src/pages/guider/index.astro'], sv: ['/sv/guider/', 'src/pages/sv/guider/index.astro'], da: ['/da/guider/', 'src/pages/da/guider/index.astro'], en: ['/en/guides/', 'src/pages/en/guides/index.astro'] },
-    { nb: ['/sovn/', 'src/pages/sovn/index.astro'], sv: ['/sv/somn/', 'src/pages/sv/somn/index.astro'], da: ['/da/sovn/', 'src/pages/da/sovn/index.astro'], en: ['/en/sleep/', 'src/pages/en/sleep/index.astro'] },
-    { nb: ['/om-oss/', 'src/pages/om-oss.astro'], sv: ['/sv/om-oss/', 'src/pages/sv/om-oss.astro'], da: ['/da/om-os/', 'src/pages/da/om-os.astro'], en: ['/en/about/', 'src/pages/en/about.astro'] },
-    { nb: ['/kontakt/', 'src/pages/kontakt.astro'], sv: ['/sv/kontakt/', 'src/pages/sv/kontakt.astro'], da: ['/da/kontakt/', 'src/pages/da/kontakt.astro'], en: ['/en/contact/', 'src/pages/en/contact.astro'] },
-    { nb: ['/personvern/', 'src/pages/personvern.astro'], sv: ['/sv/integritet/', 'src/pages/sv/integritet.astro'], da: ['/da/privatliv/', 'src/pages/da/privatliv.astro'], en: ['/en/privacy/', 'src/pages/en/privacy.astro'] },
-    { nb: ['/vilkar/', 'src/pages/vilkar.astro'], sv: ['/sv/villkor/', 'src/pages/sv/villkor.astro'], da: ['/da/vilkar/', 'src/pages/da/vilkar.astro'], en: ['/en/terms/', 'src/pages/en/terms.astro'] },
-    { nb: ['/cookies/', 'src/pages/cookies.astro'], sv: ['/sv/cookies/', 'src/pages/sv/cookies.astro'], da: ['/da/cookies/', 'src/pages/da/cookies.astro'], en: ['/en/cookies/', 'src/pages/en/cookies.astro'] },
-    { nb: ['/journal/', 'src/pages/journal.astro'], sv: ['/sv/journal/', 'src/pages/sv/journal.astro'], da: ['/da/journal/', 'src/pages/da/journal.astro'], en: ['/en/journal/', 'src/pages/en/journal.astro'] },
+    { nb: ['/', 'src/pages/index.astro'], sv: ['/sv/', 'src/pages/sv/index.astro'], da: ['/da/', 'src/pages/da/index.astro'], de: ['/de/', 'src/pages/de/index.astro'], en: ['/en/', 'src/pages/en/index.astro'] },
+    { nb: ['/drommer/', 'src/pages/drommer/index.astro'], sv: ['/sv/drommar/', 'src/pages/sv/drommar/index.astro'], da: ['/da/dromme/', 'src/pages/da/dromme/index.astro'], de: ['/de/traeume/', 'src/pages/de/traeume/index.astro'], en: ['/en/dreams/', 'src/pages/en/dreams/index.astro'] },
+    { nb: ['/kategori/', 'src/pages/kategori/index.astro'], sv: ['/sv/kategori/', 'src/pages/sv/kategori/index.astro'], da: ['/da/kategori/', 'src/pages/da/kategori/index.astro'], de: ['/de/kategorie/', 'src/pages/de/kategorie/index.astro'], en: ['/en/category/', 'src/pages/en/category/index.astro'] },
+    { nb: ['/guider/', 'src/pages/guider/index.astro'], sv: ['/sv/guider/', 'src/pages/sv/guider/index.astro'], da: ['/da/guider/', 'src/pages/da/guider/index.astro'], de: ['/de/ratgeber/', 'src/pages/de/ratgeber/index.astro'], en: ['/en/guides/', 'src/pages/en/guides/index.astro'] },
+    { nb: ['/sovn/', 'src/pages/sovn/index.astro'], sv: ['/sv/somn/', 'src/pages/sv/somn/index.astro'], da: ['/da/sovn/', 'src/pages/da/sovn/index.astro'], de: ['/de/schlaf/', 'src/pages/de/schlaf/index.astro'], en: ['/en/sleep/', 'src/pages/en/sleep/index.astro'] },
+    { nb: ['/om-oss/', 'src/pages/om-oss.astro'], sv: ['/sv/om-oss/', 'src/pages/sv/om-oss.astro'], da: ['/da/om-os/', 'src/pages/da/om-os.astro'], de: ['/de/ueber-uns/', 'src/pages/de/ueber-uns.astro'], en: ['/en/about/', 'src/pages/en/about.astro'] },
+    { nb: ['/kontakt/', 'src/pages/kontakt.astro'], sv: ['/sv/kontakt/', 'src/pages/sv/kontakt.astro'], da: ['/da/kontakt/', 'src/pages/da/kontakt.astro'], de: ['/de/kontakt/', 'src/pages/de/kontakt.astro'], en: ['/en/contact/', 'src/pages/en/contact.astro'] },
+    { nb: ['/personvern/', 'src/pages/personvern.astro'], sv: ['/sv/integritet/', 'src/pages/sv/integritet.astro'], da: ['/da/privatliv/', 'src/pages/da/privatliv.astro'], de: ['/de/datenschutz/', 'src/pages/de/datenschutz.astro'], en: ['/en/privacy/', 'src/pages/en/privacy.astro'] },
+    { nb: ['/vilkar/', 'src/pages/vilkar.astro'], sv: ['/sv/villkor/', 'src/pages/sv/villkor.astro'], da: ['/da/vilkar/', 'src/pages/da/vilkar.astro'], de: ['/de/nutzungsbedingungen/', 'src/pages/de/nutzungsbedingungen.astro'], en: ['/en/terms/', 'src/pages/en/terms.astro'] },
+    { nb: ['/cookies/', 'src/pages/cookies.astro'], sv: ['/sv/cookies/', 'src/pages/sv/cookies.astro'], da: ['/da/cookies/', 'src/pages/da/cookies.astro'], de: ['/de/cookies/', 'src/pages/de/cookies.astro'], en: ['/en/cookies/', 'src/pages/en/cookies.astro'] },
+    { nb: ['/journal/', 'src/pages/journal.astro'], sv: ['/sv/journal/', 'src/pages/sv/journal.astro'], da: ['/da/journal/', 'src/pages/da/journal.astro'], de: ['/de/traumtagebuch/', 'src/pages/de/traumtagebuch.astro'], en: ['/en/journal/', 'src/pages/en/journal.astro'] },
   ];
 
   const entries = [];
 
   // Tomme listesider holdes ute av sitemapen — vi ber ikke Google indeksere
   // en oversiktsside uten innhold bak seg.
+  // Utledes fra SEKSJONER i stedet for en haandholdt liste. Den gamle listen
+  // maatte utvides for hvert nye spraak, og det ble glemt: tyske /ratgeber/ og
+  // /schlaf/ havnet i sitemapen selv om samlingene var tomme.
   const tommeSeksjoner = new Set();
-  for (const [url, liste] of [
-    ['/en/sleep/', sovnEn], ['/en/guides/', guiderEn],
-    ['/da/sovn/', sovnDa], ['/da/guider/', guiderDa],
-    ['/da/dromme/', drommerDa], ['/da/kategori/', kategorierDa],
-  ]) if (liste.length === 0) tommeSeksjoner.add(url);
+  for (const sek of SEKSJONER) {
+    for (const l of SPRAAK) {
+      const liste = sek.data[l];
+      if (!liste || liste.length) continue;
+      // Seksjonsforsiden er lenken uten slug: /de/schlaf/ av /de/schlaf/${s}/
+      tommeSeksjoner.add(sek.url[l] ? sek.url[l]('').replace(/\/+$/, '/') : '');
+    }
+  }
 
   for (const rad of statiske) {
     const finnes = {};
@@ -289,23 +305,18 @@ export default function customSitemap() {
         const entries = buildAllEntries();
 
         const byLang = lang => entries.filter(e => e.lang === lang).sort((a, b) => a.url.localeCompare(b.url));
-        const noEntries = byLang('nb');
-        const svEntries = byLang('sv');
-        const daEntries = byLang('da');
-        const enEntries = byLang('en');
+        // Filnavnet foelger ikke spraakkoden overalt: norsk heter «no».
+        // Tomme spraak utelates, saa vi aldri publiserer en tom sitemap i
+        // indeksen. Blokken stod tidligere utskrevet per spraak, og et nytt
+        // spraak maatte huskes fire steder.
+        const perSpraak = Object.fromEntries(SPRAAK.map(x => [x, byLang(x)]));
 
         const maps = [];
-        writeFileSync(outDir + 'sitemap-no.xml', renderSitemap(noEntries));
-        writeFileSync(outDir + 'sitemap-da.xml', renderSitemap(daEntries));
-        if (daEntries.length) maps.push('sitemap-da.xml');
-        maps.push('sitemap-no.xml');
-        writeFileSync(outDir + 'sitemap-sv.xml', renderSitemap(svEntries));
-        maps.push('sitemap-sv.xml');
-        // EN-sitemap skrives bare når det faktisk finnes engelske sider,
-        // så vi ikke publiserer en tom sitemap i indeksen.
-        if (enEntries.length > 0) {
-          writeFileSync(outDir + 'sitemap-en.xml', renderSitemap(enEntries));
-          maps.push('sitemap-en.xml');
+        for (const x of SPRAAK) {
+          if (!perSpraak[x].length) continue;
+          const fil = `sitemap-${FILNAVN[x]}.xml`;
+          writeFileSync(outDir + fil, renderSitemap(perSpraak[x]));
+          maps.push(fil);
         }
 
         const today = new Date().toISOString().slice(0, 10);
@@ -316,7 +327,9 @@ export default function customSitemap() {
           try { unlinkSync(outDir + old); } catch {}
         }
 
-        console.log(`[custom-sitemap] NO: ${noEntries.length}, SV: ${svEntries.length}, DA: ${daEntries.length}, EN: ${enEntries.length}, sum ${entries.length}`);
+        console.log('[custom-sitemap] '
+          + SPRAAK.map(x => `${FILNAVN[x].toUpperCase()}: ${perSpraak[x].length}`).join(', ')
+          + `, sum ${entries.length}`);
       },
     },
   };

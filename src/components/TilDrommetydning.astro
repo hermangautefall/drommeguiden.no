@@ -21,11 +21,12 @@ interface Props {
 }
 
 const { slugs, lang = defaultLang } = Astro.props;
-const labelByLang: Record<Lang, string> = { nb: 'Drømte du det i stedet?', sv: 'Drömde du det i stället?', da: 'Drømte du det i stedet?', en: 'Did you dream it instead?' };
+const labelByLang: Record<Lang, string> = { nb: 'Drømte du det i stedet?', sv: 'Drömde du det i stället?', da: 'Drømte du det i stedet?', de: 'Hast du stattdessen davon geträumt?', en: 'Did you dream it instead?' };
 const titleByLang: Record<Lang, string> = {
   nb: 'Les drømmetydningen',
   sv: 'Läs drömtydningen',
   da: 'Læs drømmetydningen',
+  de: 'Die Traumdeutung lesen',
   en: 'Read the dream interpretation',
 };
 const label = labelByLang[lang] ?? labelByLang.nb;

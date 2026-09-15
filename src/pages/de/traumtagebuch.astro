@@ -1,0 +1,121 @@
+---
+import Base from '../../layouts/Base.astro';
+import Drommejournal from '../../components/Drommejournal.astro';
+import { alternatesFor } from '../../lib/statiske-alternates';
+---
+
+<Base
+  lang="de"
+  tittel="Traumtagebuch"
+  beskrivelse="Ein einfaches Traumtagebuch für jeden Morgen. Notiere den Traum, markiere die Symbole und sieh die Muster entstehen. Alles bleibt in deinem Browser."
+  canonicalUrl="https://drommeguiden.no/de/traumtagebuch/"
+  alternates={alternatesFor('journal')}
+>
+  <div class="journal-side">
+    <span class="static-label">Werkzeug</span>
+    <h1 class="static-title">Traumtagebuch</h1>
+
+    <div class="prose journal-intro">
+      <p>
+        Was du von einem Traum behältst, verschwindet schnell. Die ersten
+        Minuten nach dem Aufwachen sind meist die einzigen, die du hast — beim
+        Frühstück bleibt selten mehr als eine Stimmung. Deshalb ist ein Tagebuch
+        das Einfachste und Wirksamste, was du tun kannst, wenn du deine Träume
+        besser verstehen willst: nicht weil das Schreiben selbst etwas deutet,
+        sondern weil es dir etwas gibt, worauf du zurückblicken kannst.
+      </p>
+      <p>
+        Was das Tagebuch die Mühe wert macht, ist nicht der einzelne Traum. Es
+        ist das, was wiederkehrt. Ein Symbol, das du beim ersten Mal für Zufall
+        gehalten hast, ist in zwei Monaten achtmal aufgetaucht. Ein Gefühl, das
+        du mit Albträumen verbindest, gehört in Wahrheit zu einer ganz anderen
+        Art von Traum. Muster, die Nacht für Nacht unsichtbar sind, treten
+        hervor, wenn sie untereinander stehen.
+      </p>
+    </div>
+
+    <Drommejournal lang="de" />
+
+    <div class="prose journal-rad">
+      <h2>So holst du das meiste heraus</h2>
+      <p>
+        <strong>Schreib, bevor du etwas anderes tust.</strong> Lass das Handy
+        liegen und steh nicht auf. Die Traumerinnerung verblasst schnell, sobald
+        du anfängst, dich auf den Tag einzustellen. Hast du nur drei Stichworte,
+        dann sind es eben diese drei.
+      </p>
+      <p>
+        <strong>Schreib im Präsens.</strong> «Ich stehe in einem Flur, und die
+        Tür ist verschlossen» holt mehr hervor als «ich träumte, ich stünde in
+        einem Flur». Die Gegenwartsform hält dich in der Szene, und die Details
+        kommen leichter.
+      </p>
+      <p>
+        <strong>Notiere das Gefühl, nicht nur das Geschehen.</strong> Zwei
+        Menschen können fast denselben Ablauf träumen und aus völlig
+        verschiedenen Gründen aufwachen. Das Gefühl beim Aufwachen ist oft die
+        beste Spur — und zugleich das Erste, was du vergisst.
+      </p>
+      <p>
+        <strong>Markiere die Symbole, aber deute nicht sofort.</strong> Die
+        Markierung ist dafür da, dass du später zählen kannst. Die Deutung hat
+        Zeit, bis du fünfzehn Einträge und etwas zum Vergleichen hast.
+      </p>
+      <p>
+        <strong>Schreib nicht jede Nacht.</strong> Die meisten, die es täglich
+        versuchen, geben innerhalb von zwei Wochen auf. Drei Morgen pro Woche
+        über ein halbes Jahr bringen dir weit mehr als vierzehn Tage am Stück.
+      </p>
+
+      <h2>Datenschutz und Speicherung</h2>
+      <p>
+        Das Tagebuch liegt ausschließlich in deinem Browser, in etwas, das
+        localStorage heißt. Nichts wird an uns gesendet, nichts liegt auf einem
+        Server, und wir haben keine Möglichkeit zu lesen, was du schreibst. Das
+        bedeutet auch: Das Tagebuch gehört zu genau diesem Browser auf genau
+        diesem Gerät. Es wandert nicht aufs Handy mit, und es verschwindet, wenn
+        du deine Browserdaten löschst oder privat surfst. Deshalb gibt es den
+        Download-Knopf — nutz ihn ab und zu.
+      </p>
+
+      <h2>Weiterlesen</h2>
+      <p>
+        Willst du tiefer in ein einzelnes Symbol einsteigen, findest du die
+        Deutungen unter <a href="/de/traeume/">Traumsymbole</a>, sortiert auch
+        <a href="/de/kategorie/">nach Thema</a>. Weißt du nicht, wo du anfangen
+        sollst: Der Traum vom Zähneverlieren und der vom Fallen gehören zu den
+        Träumen, die fast jeder kennt.
+      </p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .journal-side {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .static-label {
+    display: block;
+    font-family: var(--font-nav);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: 10px;
+  }
+  .static-title {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    color: var(--color-text-heading);
+    margin-bottom: 24px;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .static-title { font-size: 44px; }
+  }
+  .journal-intro { margin-bottom: 2.5rem; }
+  .journal-rad { margin-top: 3rem; }
+  .journal-rad h2 { margin-top: 2.5rem; }
+</style>

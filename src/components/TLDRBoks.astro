@@ -7,7 +7,7 @@ interface Props {
 }
 
 const { tolkninger, lang = defaultLang } = Astro.props;
-const labelByLang: Record<Lang, string> = { nb: 'Kort oppsummert', sv: 'Kort sammanfattat', da: 'Kort fortalt', en: 'In short' };
+const labelByLang: Record<Lang, string> = { nb: 'Kort oppsummert', sv: 'Kort sammanfattat', da: 'Kort fortalt', de: 'Kurz gesagt', en: 'In short' };
 const label = labelByLang[lang] ?? labelByLang.nb;
 ---
 
