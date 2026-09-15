@@ -21,7 +21,7 @@ author: 'default'
 
 ## Was bedeutet es, von einem Löwen zu träumen?
 
-Der Löwe wird die Königin des Tierreichs genannt — und genau das ist er auch in der Traumsymbolik: ein Symbol für königliche Macht, Mut und natürliche Autorität. Von einem Löwen zu träumen gehört zu den intensiveren Tierträumen, und er bleibt oft noch lange nach dem Aufwachen in Erinnerung.
+Der Löwe wird der König der Tiere genannt — und genau das ist er auch in der Traumsymbolik: ein Symbol für königliche Macht, Mut und natürliche Autorität. Von einem Löwen zu träumen gehört zu den intensiveren Tierträumen, und er bleibt oft noch lange nach dem Aufwachen in Erinnerung.
 
 Ob der Löwe im Traum freundlich oder feindselig, ruhig oder wütend war, verändert die Deutung erheblich.
 

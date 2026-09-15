@@ -124,7 +124,7 @@ das der Freiheit nahekommt, die viele in Flugträumen beschreiben.
 
 ## Quellen und weiterführende Literatur
 
-- Carl Gustav Jung, *Man and His Symbols* (1964) — der Flug als Bild für Freiheit
+- Carl Gustav Jung, *Der Mensch und seine Symbole* (1964) — der Flug als Bild für Freiheit
   und Überblick und für das Sich-Erheben über eine Situation.
 - Matthew Walker, *Why We Sleep* (2017) — der REM-Schlaf und der Zustand des
   Körpers während der körperlich lebhaftesten Träume.

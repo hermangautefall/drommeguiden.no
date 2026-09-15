@@ -21,7 +21,7 @@ author: 'default'
 
 ## What does it mean to dream about a lion?
 
-The lion is called the queen of the animal kingdom — and in dream symbolism, that's exactly what it is: a symbol of royal power, courage, and natural authority. Dreaming of a lion is one of the more intense animal dreams, and it tends to stay with you long after you wake.
+The lion is called the king of the animals — and in dream symbolism, that's exactly what it is: a symbol of royal power, courage, and natural authority. Dreaming of a lion is one of the more intense animal dreams, and it tends to stay with you long after you wake.
 
 Whether the lion in the dream was friendly or hostile, calm or enraged, changes the interpretation considerably.
 

@@ -131,7 +131,7 @@ etwas Ähnliches: dass jenseits der Tür etwas Neues anfangen darf.
 
 ## Quellen und weiterführende Literatur
 
-- Carl Gustav Jung, *Man and His Symbols* (1964) — die Schwelle zwischen zwei
+- Carl Gustav Jung, *Der Mensch und seine Symbole* (1964) — die Schwelle zwischen zwei
   Zuständen, eines der meistgenutzten Bilder für den Übergang.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — die
   Kontinuitätshypothese: Eine offene oder geschlossene Tür spiegelt, wie sich die

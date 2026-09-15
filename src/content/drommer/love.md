@@ -19,7 +19,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om løve?
 
-Løven kalles dyrekongenes dronning — og i drømmesymbolikken er den nøyaktig det: et symbol på royal kraft, mot og naturlig autoritet. Å drømme om løve er en av de mer intense dyredrømmene, og den setter seg gjerne fast i bevisstheten lenge etter at du har våknet.
+Løven kalles dyrenes konge — og i drømmesymbolikken er den nøyaktig det: et symbol på royal kraft, mot og naturlig autoritet. Å drømme om løve er en av de mer intense dyredrømmene, og den setter seg gjerne fast i bevisstheten lenge etter at du har våknet.
 
 Om løven i drømmen var vennlig eller fiendtlig, rolig eller rasende — det forandrer tolkningen betydelig.
 
