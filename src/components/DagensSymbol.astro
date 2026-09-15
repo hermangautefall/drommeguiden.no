@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import type { Lang } from '../i18n/config';
+import { deNominativ } from '../lib/symbol-etikett';
 
 /**
  * Dagens symbol paa forsiden.
@@ -63,7 +64,13 @@ function kortNavn(tittel: string, l: Lang): string {
   if (l === 'sv') return tittel.replace(/ — vad betyder det\?/, '').replace('Drömmar om ', '').replace('Drömma om ', '');
   if (l === 'en') return tittel.replace(/ — what does it mean\?/, '').replace(/^Dreaming (?:of|about) /, '').replace(/^Dream about /, '');
   if (l === 'da') return tittel.replace(/ — [^—]*\?$/, '').replace(/^Drømme om /, '');
-  if (l === 'de') return tittel.replace(/ — [^—]*\?$/, '').replace(/^Träume von |^Träumen von |^Vom /, '');
+  if (l === 'de') {
+    const kort = tittel
+      .replace(/ — [^—]*\?$/, '')
+      .replace(/^Träume vom |^Träumen vom |^Träume von |^Träumen von |^Vom |^Von /, '')
+      .replace(/^(?:der|die|das|den|dem|des|ein|eine|einer|einem|einen|eines) (?=\S)/i, '');
+    return deNominativ(kort.charAt(0).toUpperCase() + kort.slice(1));
+  }
   return tittel.replace(/ — hva betyr det\?/, '').replace('Drømmer om ', '');
 }
 

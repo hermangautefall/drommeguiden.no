@@ -28,12 +28,17 @@ HARD = [
     (r'\bbekommen\b(?= to )',       'falsk venn: bekommen = erhalten, ikke «to become» (= werden)'),
     (r'\bsensibel\b',               'falsk venn: sensibel = empfindlich, ikke «sensible» (= vernünftig)'),
     (r'\bbrav\b',                   'falsk venn: brav = artig, ikke «brave» (= mutig)'),
-    (r'\bGift\b',                   'falsk venn: Gift = poison. Gave = Geschenk'),
     # engelske ord som ofte blir staaende
     (r'\b(the|and|with|from|about|dream|dreams|dreaming|meaning|means|often|when|your|you)\b',
      'engelsk ord staar igjen'),
     (r'\b(interpretation|symbol)s\b', 'engelsk flertall — tysk: Deutungen / Symbole'),
 ]
+
+# Fjernet: «Gift». Regelen skulle fange det engelske «gift» som ble staaende,
+# men tysk «Gift» betyr gift og er et helt vanlig ord — i slangeartikkelen staar
+# «Sie kann Gift und Heilmittel zugleich sein», som er presist riktig. Moensteret
+# gaar igjen: regler som treffer vanlige, korrekte ord i maalspraaket er de som
+# feiler. Det er fjerde gang paa tvers av dansk og tysk.
 
 MYK = [
     (r'\bmachen Sinn\b',   'anglisisme: «Sinn ergeben» er tysk, «Sinn machen» er oversatt make sense'),

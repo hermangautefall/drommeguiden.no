@@ -1,4 +1,5 @@
 ---
+import { deNominativ } from '../lib/symbol-etikett';
 import Base from './Base.astro';
 import TLDRBoks from '../components/TLDRBoks.astro';
 import RelaterteBoks from '../components/RelaterteBoks.astro';
@@ -74,7 +75,8 @@ const displayTitle = ((t: string) => {
     .replace(/^(?:der|die|das|den|dem|des|ein|eine|einer|einem|einen|eines) (?=\S)/i, '')
     .replace(/^Dreaming (?:of|about) /i, '')
     .replace(/^Dreams about /i, '');
-  return s.charAt(0).toUpperCase() + s.slice(1);
+  const stor = s.charAt(0).toUpperCase() + s.slice(1);
+  return lang === 'de' ? deNominativ(stor) : stor;
 })(tittel);
 const kategoriTittel = kategori.charAt(0).toUpperCase() + kategori.slice(1);
 const t = useTranslations(lang);

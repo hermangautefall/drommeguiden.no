@@ -68,16 +68,48 @@ const OVERSTYR: Record<Lang, Record<string, string>> = {
   },
   da: {},
   de: {
-    // Dativ henger igjen naar artikkelen fjernes: «Traeume von einer
-    // verstorbenen Person» gir «verstorbenen Person». Nominativ er riktig
-    // i en etikett som staar for seg selv.
+    // Tysk boeyer etter «von», saa dativen henger igjen naar preposisjonen
+    // fjernes: «Traeume von Haaren» gir «Haaren», «von Voegeln» gir «Voegeln».
+    // En etikett som staar for seg selv skal vaere nominativ. Dativ flertall
+    // paa -n kan ikke strippes mekanisk — «Schlangen» er korrekt nominativ.
     'verstorbene-person': 'verstorbene Person',
+    'haare': 'Haare',
+    'vogel': 'Vögel',
+    // Verbfraser blir hele setninger uten hjelp.
+    'jemanden-toeten': 'jemanden töten',
   },
   en: {},
 };
 
 function storForbokstav(s: string): string {
   return s.charAt(0).toUpperCase() + s.slice(1);
+}
+
+/**
+ * Tysk dativ → nominativ for etiketter som staar for seg selv.
+ *
+ * «Traeume von Haaren» gir «Haaren» naar preposisjonen fjernes, men en etikett
+ * i en broedsmule eller paa et kort skal vaere nominativ. Dativ flertall paa -n
+ * kan ikke strippes mekanisk — «Schlangen» og «Voegeln» ser like ut, men bare
+ * den andre er boeyd. Derfor en liste.
+ *
+ * Ligger her fordi tre steder trenger den: symbolEtiketter, displayTitle i
+ * Symbol.astro og kortNavn i DagensSymbol.astro.
+ */
+const DE_NOMINATIV: Record<string, string> = {
+  'Haaren': 'Haare',
+  'Vögeln': 'Vögel',
+  'Verstorbenen Person': 'Verstorbene Person',
+  'Verstorbenen person': 'Verstorbene Person',
+};
+
+/** Tyske titler som er verbfraser og trenger et eget, kort navn. */
+const DE_KORTFORM: Record<string, string> = {
+  'Träume davon, jemanden zu töten': 'jemanden töten',
+};
+
+export function deNominativ(s: string): string {
+  return DE_KORTFORM[s] ?? DE_NOMINATIV[s] ?? s;
 }
 
 const cache = new Map<Lang, Map<string, string>>();
