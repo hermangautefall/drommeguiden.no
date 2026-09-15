@@ -22,25 +22,27 @@ import re, sys, pathlib
 TEKNISKE_FELT = re.compile(r'^\s*(nb_slug|en_slug|de_slug|bilde|slug|dato|oppdatert|author|kategori)\s*:')
 
 HARD = [
-    (r'\b(Sie|Ihnen|Ihre[nmrs]?|Ihr)\b(?! *[a-zäöüß])', 'siden bruker «du» — ikke bland inn høflighetsform'),
-    (r'\beventuell?(e[nmrs]?)?\b',  'falsk venn: eventuell = «möglich», ikke «eventually» (= schließlich)'),
-    (r'\baktuell?(e[nmrs]?)?\b',    'falsk venn: aktuell = «derzeitig», ikke «actually» (= eigentlich)'),
-    (r'\bbekommen\b(?= to )',       'falsk venn: bekommen = erhalten, ikke «to become» (= werden)'),
-    (r'\bsensibel\b',               'falsk venn: sensibel = empfindlich, ikke «sensible» (= vernünftig)'),
-    (r'\bbrav\b',                   'falsk venn: brav = artig, ikke «brave» (= mutig)'),
-    # engelske ord som ofte blir staaende
+    # Hoeflighetsform. «Sie» i setningsstart er ogsaa «sie» (hun/de), saa bare
+    # forekomster inne i en setning teller — pluss «Ihnen»/«Ihre», som ikke har
+    # noen liten motpart midt i en setning.
+    (r'(?<=[a-zäöüß,] )(Sie|Ihnen|Ihre[nmrs]?|Ihrem)\b', 'siden bruker «du» — ikke bland inn høflighetsform'),
     (r'\b(the|and|with|from|about|dream|dreams|dreaming|meaning|means|often|when|your|you)\b',
      'engelsk ord staar igjen'),
     (r'\b(interpretation|symbol)s\b', 'engelsk flertall — tysk: Deutungen / Symbole'),
 ]
 
-# Fjernet: «Gift». Regelen skulle fange det engelske «gift» som ble staaende,
-# men tysk «Gift» betyr gift og er et helt vanlig ord — i slangeartikkelen staar
-# «Sie kann Gift und Heilmittel zugleich sein», som er presist riktig. Moensteret
-# gaar igjen: regler som treffer vanlige, korrekte ord i maalspraaket er de som
-# feiler. Det er fjerde gang paa tvers av dansk og tysk.
-
+# De klassiske falske vennene staar her, ikke i HARD, og grunnen er verdt aa
+# skrive ned: «eventuell», «aktuell», «bekommen», «sensibel» og «brav» er ALLE
+# helt vanlige, korrekte tyske ord. En falsk venn er bare feil naar den
+# misbrukes, og ordet ser likt ut begge veier — et regexfilter kan ikke se
+# forskjell. Sju ganger paa tvers av dansk og tysk har en regel som treffer et
+# vanlig ord i maalspraaket vist seg aa vaere feil. «aktuelle Beziehung» er
+# naavaerende forhold og helt riktig; «Gift» betyr gift.
 MYK = [
+    (r'\beventuell?(e[nmrs]?)?\b',  'sjekk: eventuell = möglich. «Eventually» er schließlich'),
+    (r'\baktuell?(e[nmrs]?)?\b',    'sjekk: aktuell = derzeitig. «Actually» er eigentlich'),
+    (r'\bsensibel\b',               'sjekk: sensibel = empfindlich. «Sensible» er vernünftig'),
+    (r'\bbrav\b',                   'sjekk: brav = artig. «Brave» er mutig'),
     (r'\bmachen Sinn\b',   'anglisisme: «Sinn ergeben» er tysk, «Sinn machen» er oversatt make sense'),
     (r'\bin 20\d\d\b',     'anglisisme: tysk skriver «20XX» eller «im Jahr 20XX», ikke «in 20XX»'),
     (r'\brealisieren\b',   'anglisisme naar det betyr «erkennen»'),
