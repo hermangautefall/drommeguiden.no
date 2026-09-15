@@ -110,9 +110,11 @@ for f in filer:
     if '## Quellen und weiterführende Literatur' not in t:
         feil['mangler kildeseksjon'].append(n)
 
-    # Foerste H2 skal vaere soekefrasen. Svensk har den paa 238 av 241 og
-    # engelsk paa 237 — den erstatter kildens egen foerste overskrift, den
-    # legges ikke over den. Fire filer slapp gjennom uten, og én fikk begge.
+    # Foerste H2 skal vaere soekefrasen. 237 av 241 engelske kilder har den
+    # allerede, saa der oversettes den direkte. De faa som mangler den — wasp
+    # er en — skal ha malen LAGT TIL over kildens egen foerste overskrift, som
+    # blir staaende som nummer to. Kommentaren her sa tidligere det motsatte;
+    # den var arvet fra den danske porten, der moensteret er et annet.
     kropp = re.sub(r'^---.*?\n---\n', '', t, flags=re.S).lstrip('\n')
     forste = re.match(r'## (.+)', kropp)
     if not forste:
