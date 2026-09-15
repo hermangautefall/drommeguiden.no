@@ -66,7 +66,11 @@ def skann(sti):
         # "anfoerselstegn" — «The Nature and Functions of Dreaming» og
         # «Behavioral and Brain Sciences» SKAL vaere engelske. Regelen om
         # engelske restord maa derfor ikke lese inni dem.
-        uten_titler = re.sub(r'\*[^*]+\*|"[^"]+"|«[^»]+»', lambda x: ' ' * len(x.group(0)), linje)
+        # Titler staar i *kursiv*, "doble", 'enkle' eller «vinkler». Enkle
+        # anfoerselstegn er ogsaa apostrof, saa det kreves noe lengde for aa
+        # unngaa at et enkeltord blankes ut.
+        uten_titler = re.sub(r"\*[^*]+\*|\"[^\"]+\"|«[^»]+»|'[^']{10,}'",
+                             lambda x: ' ' * len(x.group(0)), linje)
         for regler, ut in ((HARD, h), (MYK, m)):
             for moenster, forkl in regler:
                 maal = uten_titler if 'engelsk ord' in forkl or 'engelsk flertall' in forkl else linje
