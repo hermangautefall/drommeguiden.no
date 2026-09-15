@@ -30,6 +30,27 @@ export interface Seksjoner {
   sovn: boolean;
 }
 
+/**
+ * Hvilke av de oppgitte sluggene som faktisk finnes som artikkel.
+ *
+ * Fotlenkene var en fast liste per spraak. Da tysk kom til, pekte de fire
+ * tyske paa artikler som ikke var skrevet ennaa — 22 sider med doede lenker.
+ * Listen kan naa inneholde slugger vi vil ha naar korpuset er ferdig; de som
+ * mangler faller stille ut til de er skrevet.
+ */
+export function finnesSlugger(lang: Lang, slugger: string[]): Set<string> {
+  try {
+    const filer = new Set(
+      readdirSync(`./src/content/drommer${suffix[lang]}`)
+        .filter((f) => f.endsWith('.md'))
+        .map((f) => f.slice(0, -3)),
+    );
+    return new Set(slugger.filter((s) => filer.has(s)));
+  } catch {
+    return new Set();
+  }
+}
+
 export function seksjonerMedInnhold(lang: Lang): Seksjoner {
   return { guider: harInnhold('guider', lang), sovn: harInnhold('sovn', lang) };
 }

@@ -2,7 +2,7 @@
 import { languages, defaultLang, type Lang } from '../i18n/config';
 import { useTranslations } from '../i18n/ui';
 import { pathFor, homePath } from '../i18n/utils';
-import { seksjonerMedInnhold } from '../lib/sections';
+import { seksjonerMedInnhold, finnesSlugger } from '../lib/sections';
 
 interface Props {
   lang?: Lang;
@@ -45,7 +45,8 @@ const popularSlugsByLang: Record<Lang, { slug: string; label: string }[]> = {
     { slug: 'flying', label: 'Flying' },
   ],
 };
-const popularSlugs = popularSlugsByLang[lang] ?? popularSlugsByLang.nb;
+const finnes = finnesSlugger(lang, (popularSlugsByLang[lang] ?? popularSlugsByLang.nb).map((x) => x.slug));
+const popularSlugs = (popularSlugsByLang[lang] ?? popularSlugsByLang.nb).filter((x) => finnes.has(x.slug));
 
 const drommerBase = pathFor(lang, 'drommer');
 
