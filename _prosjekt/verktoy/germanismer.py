@@ -57,9 +57,15 @@ def skann(sti):
             continue
         if i_kode:
             continue
+        # Bok- og tidsskrifttitler siteres uoversatt og staar i *kursiv* eller
+        # "anfoerselstegn" — «The Nature and Functions of Dreaming» og
+        # «Behavioral and Brain Sciences» SKAL vaere engelske. Regelen om
+        # engelske restord maa derfor ikke lese inni dem.
+        uten_titler = re.sub(r'\*[^*]+\*|"[^"]+"|«[^»]+»', lambda x: ' ' * len(x.group(0)), linje)
         for regler, ut in ((HARD, h), (MYK, m)):
             for moenster, forkl in regler:
-                for t in re.finditer(moenster, linje):
+                maal = uten_titler if 'engelsk ord' in forkl or 'engelsk flertall' in forkl else linje
+                for t in re.finditer(moenster, maal):
                     ut.append((lnr, t.group(0), forkl,
                                linje[max(0, t.start()-32):t.end()+32].strip()))
     return h, m

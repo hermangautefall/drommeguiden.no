@@ -31,7 +31,7 @@ const HODE: Record<Lang, RegExp> = {
   sv: /^Drömmar om |^Drömma om |^Drömt om /,
   da: /^Drømme om |^Drømmer om |^Drømt om /,
   // Tysk: «Träume von» styrer dativ, «Träumen von» og «Vom … träumen» finnes ogsaa.
-  de: /^Träume von |^Träumen von |^Vom |^Von /,
+  de: /^Träume vom |^Träumen vom |^Träume von |^Träumen von |^Vom |^Von /,
   en: /^Dreaming (?:of|about) |^Dream about /,
 };
 
@@ -42,6 +42,9 @@ const HODE: Record<Lang, RegExp> = {
  * seg under A. Artikkelen sier ingenting i en etikett, og fjernes.
  */
 const ARTIKKEL_EN = /^(?:a|an|the) (?=\S)/i;
+
+/** Tysk boeyer artikkelen etter kasus: «Traeume von einer …» gir «einer …». */
+const ARTIKKEL_DE = /^(?:der|die|das|den|dem|des|ein|eine|einer|einem|einen|eines) (?=\S)/i;
 
 /** Titler som ikke følger standardmønsteret, og som blir klumpete uten hjelp. */
 const OVERSTYR: Record<Lang, Record<string, string>> = {
@@ -64,7 +67,12 @@ const OVERSTYR: Record<Lang, Record<string, string>> = {
     'frammande': 'en främling',
   },
   da: {},
-  de: {},
+  de: {
+    // Dativ henger igjen naar artikkelen fjernes: «Traeume von einer
+    // verstorbenen Person» gir «verstorbenen Person». Nominativ er riktig
+    // i en etikett som staar for seg selv.
+    'verstorbene-person': 'verstorbene Person',
+  },
   en: {},
 };
 
@@ -93,6 +101,7 @@ export function symbolEtiketter(lang: Lang): Map<string, string> {
         ? t.replace(HALE[lang], '').replace(HODE[lang], '')
         : slug.replace(/-/g, ' ');
       if (lang === 'en') etikett = etikett.replace(ARTIKKEL_EN, '');
+      if (lang === 'de') etikett = etikett.replace(ARTIKKEL_DE, '');
       m.set(slug, storForbokstav(etikett));
     }
   } catch {

@@ -67,6 +67,11 @@ const displayTitle = ((t: string) => {
     .replace(/^Drømmer om /i, '')
     .replace(/^Drømme om /i, '')
     .replace(/^Drømt om /i, '')
+    .replace(/^Träume vom /i, '')
+    .replace(/^Träumen vom /i, '')
+    .replace(/^Träume von /i, '')
+    .replace(/^Träumen von /i, '')
+    .replace(/^(?:der|die|das|den|dem|des|ein|eine|einer|einem|einen|eines) (?=\S)/i, '')
     .replace(/^Dreaming (?:of|about) /i, '')
     .replace(/^Dreams about /i, '');
   return s.charAt(0).toUpperCase() + s.slice(1);
