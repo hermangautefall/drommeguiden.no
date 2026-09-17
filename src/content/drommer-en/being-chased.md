@@ -30,7 +30,7 @@ This dream is so common that it is considered one of the classic archetypal drea
 
 ### You may be avoiding something that is catching up with you
 
-The most common — and best documented — reading of the chase dream has to do with avoidance. Something in your life is following you: an unfinished conflict, a decision you keep postponing, a conversation you are dreading, a truth you would rather not look at. Many people find that chase dreams shade into dreams of [falling](/en/dreams/falling/) or of being trapped in a dark room. And the longer you run, the closer it seems to get.
+The most common — and best documented — reading of the chase dream has to do with avoidance. Something in your life is following you: an unfinished conflict, a decision you keep postponing, a conversation you are dreading, a truth you would rather not look at. And the longer you run, the clearer it can feel that running does not help — not in the dream, and not in life either.
 
 The pursuer is rarely random. Whether it is a monster, a stranger, someone you know, or just a vague sense of threat, it tends to stand for something concrete you are steering around. The dream's message is simple and direct: running does not help.
 

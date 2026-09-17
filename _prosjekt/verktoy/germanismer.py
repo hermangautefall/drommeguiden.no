@@ -38,6 +38,12 @@ HARD = [
 # forskjell. Sju ganger paa tvers av dansk og tysk har en regel som treffer et
 # vanlig ord i maalspraaket vist seg aa vaere feil. «aktuelle Beziehung» er
 # naavaerende forhold og helt riktig; «Gift» betyr gift.
+# Fjernet ogsaa «kontrollieren». Alle seks forekomster i korpuset betyr «ha
+# kontroll over», som er helt vanlig tysk; anglisismen ville vaert aa bruke det
+# for «überprüfen». To agenter flagget den uavhengig av hverandre. Samme
+# moenster som «Gift» og de falske vennene: et vanlig, korrekt ord i
+# maalspraaket lar seg ikke skille fra sin egen feilbruk med regex.
+
 MYK = [
     (r'\beventuell?(e[nmrs]?)?\b',  'sjekk: eventuell = möglich. «Eventually» er schließlich'),
     (r'\baktuell?(e[nmrs]?)?\b',    'sjekk: aktuell = derzeitig. «Actually» er eigentlich'),
@@ -46,7 +52,6 @@ MYK = [
     (r'\bmachen Sinn\b',   'anglisisme: «Sinn ergeben» er tysk, «Sinn machen» er oversatt make sense'),
     (r'\bin 20\d\d\b',     'anglisisme: tysk skriver «20XX» eller «im Jahr 20XX», ikke «in 20XX»'),
     (r'\brealisieren\b',   'anglisisme naar det betyr «erkennen»'),
-    (r'\bkontrollieren\b', 'anglisisme naar det betyr «überprüfen»'),
     (r'\bAppartement\b',   'tysk: Wohnung'),
     (r'\bsupporten?\b',    'tysk: unterstützen'),
     (r'\bTeenager\b',      'ok, men sjekk om «Jugendliche» passer bedre'),
