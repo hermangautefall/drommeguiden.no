@@ -132,6 +132,11 @@ la den stå.
 - Aldri absolutte påstander. `kann bedeuten`, `wird oft gedeutet als` — aldri
   `bedeutet, dass`.
 - Behold alle kildehenvisninger. Seksjonen heter `## Quellen und weiterführende Literatur`.
+- **Verk med etablert tysk utgave siteres med den tyske tittelen.** Jung:
+  `*Der Mensch und seine Symbole*` og `*Erinnerungen, Träume, Gedanken*`. Freud:
+  `*Die Traumdeutung*`. Artemidoros: `*Oneirokritika*`. Øvrige fagbøker —
+  Domhoff, Hartmann, Walker, Hall & Van de Castle, Revonsuo-artikkelen —
+  beholder engelsk tittel, slik resten av korpuset gjør.
 - **Ingen manuelle interne lenker.** Fjern lenkemarkeringen fra alt og la ordene
   stå som vanlig tekst. En remark-plugin legger inn tyske lenker automatisk ved
   bygg, og gjør det på nytt hver gang — så artikler du skriver nå får lenker
