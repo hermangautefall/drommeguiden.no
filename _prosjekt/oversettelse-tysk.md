@@ -141,10 +141,12 @@ la den stå.
   | Jung: `*Der Mensch und seine Symbole*` | Domhoff: `*The Scientific Study of Dreams*` |
   | Jung: `*Erinnerungen, Träume, Gedanken*` | Hartmann: `*The Nature and Functions of Dreaming*` |
   | Freud: `*Die Traumdeutung*` | Hall & Van de Castle: `*The Content Analysis of Dreams*` |
-  | Artemidoros: `*Oneirokritika*` | Cartwright: `*The Twenty-four Hour Mind*` |
+  | Artemidor von Daldis: `*Oneirokritika*` | Cartwright: `*The Twenty-four Hour Mind*` |
   | Bachelard: `*Psychoanalyse des Feuers*` | Walker: `*Why We Sleep*` |
 
-  Artemidoros skrives `*Oneirokritika*`, ikke `*Oneirokritik*`.
+  Forfatternavnet er `Artemidor von Daldis` på tysk, ikke `Artemidoros` — slik
+  alle 47 forekomstene i korpuset skriver det. Verket er `*Oneirokritika*`,
+  ikke `*Oneirokritik*`.
 - **Ingen manuelle interne lenker.** Fjern lenkemarkeringen fra alt og la ordene
   stå som vanlig tekst. En remark-plugin legger inn tyske lenker automatisk ved
   bygg, og gjør det på nytt hver gang — så artikler du skriver nå får lenker
