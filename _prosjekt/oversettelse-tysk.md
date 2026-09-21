@@ -63,9 +63,9 @@ relaterte:
   - <tysk slug fra slugkartet>
 tolkninger_kort:
   - "<tre korte tyske punkter>"
+dato: <kopier fra den engelske filen>
+oppdatert: <kopier fra den engelske filen>
 bilde: <kopier uendret fra den engelske filen>
-dato: <kopier>
-oppdatert: <kopier>
 author: 'default'
 ---
 ```
