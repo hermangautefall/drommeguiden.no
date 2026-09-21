@@ -26,7 +26,7 @@ Der Chef, von dem du träumst, ist genauso sehr eine innere Figur wie eine äuß
 
 ## Deine Beziehung zur Autorität
 
-### Dein Verhältnis zu Autorität
+### Der Chef als Stellvertreter für etwas Größeres
 
 Der Chef im Traum steht oft für das weiter gefasste Prinzip der Autorität — nicht nur für diese eine Person, sondern für jede Kraft in deinem Leben, die dich beurteilt, Ansprüche stellt und entscheidet, was als gut genug zählt. Von deinem Chef zu träumen kann bedeuten, dass du gerade dein eigenes Verhältnis zu diesen Kräften verarbeitest: Respektierst du sie, fürchtest du sie, oder fängst du an, sie infrage zu stellen?
 

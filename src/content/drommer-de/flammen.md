@@ -81,7 +81,7 @@ Prometheus stahl den Göttern das Feuer und schenkte es der Menschheit — und w
 
 Carl Jung verband Feuer mit der Libido im weiten Sinn — Lebensenergie, die nach Ausdruck sucht. Als er die Feuerträume seiner Patienten untersuchte, stellte er fest, dass sie fast immer mit Phasen starker innerer Bewegung zusammenfielen: Verwandlungen, Durchbrüchen, Krisen, die den Keim von etwas Neuem in sich trugen. Feuer im Traum war selten ein schlechtes Zeichen — es war ein Zeichen dafür, dass etwas lebendig war.
 
-Der französische Philosoph Gaston Bachelard widmete der Psychologie des Feuers ein ganzes Buch — *The Psychoanalysis of Fire* — und kam zu dem Schluss, dass Feuer zu den ersten und grundlegendsten Objekten menschlichen Träumens und Vorstellens gehört. Wir sind darauf angelegt, in Flammen zu starren.
+Der französische Philosoph Gaston Bachelard widmete der Psychologie des Feuers ein ganzes Buch — *Psychoanalyse des Feuers* — und kam zu dem Schluss, dass Feuer zu den ersten und grundlegendsten Objekten menschlichen Träumens und Vorstellens gehört. Wir sind darauf angelegt, in Flammen zu starren.
 
 ## Quellen und weiterführende Literatur
 

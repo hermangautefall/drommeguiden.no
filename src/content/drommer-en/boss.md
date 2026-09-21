@@ -26,7 +26,7 @@ The boss you dream about is just as much an inner figure as an external person.
 
 ## Your relationship with authority
 
-### Your relationship to authority
+### The boss as a stand-in for something larger
 
 The boss in the dream often represents the wider principle of authority — not just that specific person, but every force in your life that judges you, sets demands, and decides what counts as good enough. Dreaming about your boss can mean you're processing your own relationship to these forces: do you respect them, fear them, or are you starting to challenge them?
 

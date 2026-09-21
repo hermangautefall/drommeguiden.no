@@ -70,5 +70,5 @@ Auch die moderne Schlafforschung zeigt, dass Menschen, die tatsächlich schwange
 
 ## Quellen und weiterführende Literatur
 
-- Artemidor von Daldis, *Oneirokritik* (ca. 150–200 n. Chr.) — Schwangerschaft als Traummotiv in der ältesten Traumliteratur, verbunden mit Zukunft und Abstammung.
+- Artemidor von Daldis, *Oneirokritika* (ca. 150–200 n. Chr.) — Schwangerschaft als Traummotiv in der ältesten Traumliteratur, verbunden mit Zukunft und Abstammung.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — die Kontinuitätshypothese: etwas, das im Stillen wächst, findet seinen Platz im Traum.

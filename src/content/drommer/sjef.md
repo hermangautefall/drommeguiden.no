@@ -27,7 +27,7 @@ Den sjefen du drømmer om er like mye en indre figur som en ekstern person.
 
 ## Forholdet ditt til autoritet
 
-### Din relasjon til autoritet
+### Sjefen som står for noe større
 
 Sjefen i drømmen representerer gjerne autoritetsprinsippet bredere — ikke bare den konkrete personen, men alle de kreftene i livet ditt som vurderer deg, setter krav og avgjør hva som er bra nok. Å drømme om sjefen kan bety at du bearbeider din egen relasjon til disse kreftene: respekterer du dem, frykter du dem, eller er du i ferd med å utfordre dem?
 

@@ -83,6 +83,6 @@ Neuere Schlafforschung nähert sich Zahnträumen aus einer anderen Richtung. Zah
 
 ## Quellen und weiterführende Literatur
 
-- Artemidor von Daldis, *Oneirokritik* (ca. 150–200 n. Chr.) — Zahnverlust als eines der ältesten dokumentierten Traummotive, die wir kennen.
+- Artemidor von Daldis, *Oneirokritika* (ca. 150–200 n. Chr.) — Zahnverlust als eines der ältesten dokumentierten Traummotive, die wir kennen.
 - Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative Daten darüber, wie verbreitet das Zahnmotiv über Kulturen und Altersgruppen hinweg ist.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — die Kontinuitätshypothese, und warum Zahnträume in Phasen der Belastung auftreten.
