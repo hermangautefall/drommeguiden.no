@@ -6,8 +6,8 @@ kategori: foremal
 kortbeskrivelse: "Har du drömt om mat? Matdrömmar handlar om näring, otillfredsställda behov och begär — här är de vanligaste tolkningarna av att drömma om mat."
 relaterte:
   - baby
-  - mamma
-  - kropp
+  - mor
+  - naken
 tolkninger_kort:
   - "Ett grundläggande behov — fysiskt eller känslomässigt — är inte tillgodosett"
   - "Begär, njutning och tillåtelse att njuta av livet"

@@ -5,7 +5,7 @@ nb_slug: far
 kategori: manniskor
 kortbeskrivelse: "Har du drömt om din pappa? Drömmar om pappa handlar om auktoritet och förväntningar — här är de vanligaste tolkningarna av vad det kan betyda för dig."
 relaterte:
-  - mamma
+  - mor
   - chef
   - hus
 tolkninger_kort:

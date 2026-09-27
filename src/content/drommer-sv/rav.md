@@ -5,7 +5,7 @@ nb_slug: rev
 kategori: djur
 kortbeskrivelse: "Räven står för list och anpassning, men frågan är vem den representerar. Ibland är den någon annan i ditt liv, ibland en sida av dig själv."
 relaterte:
-  - ulv
+  - varg
   - kraka
   - hund
 tolkninger_kort:
@@ -45,7 +45,7 @@ Räven överlever i nästan alla miljöer — från djupa [skogar](/sv/drommar/s
 **Om räven är vänlig:**
 Tolkas gärna som att din egen klokskap och intuition är en resurs just nu. Lita på dina instinkter.
 
-**Om räven följer dig eller jagar dig (se även [varg](/sv/drommar/ulv/) för liknande jaktmotiv):**
+**Om räven följer dig eller jagar dig (se även [varg](/sv/drommar/varg/) för liknande jaktmotiv):**
 Kan betyda att något du försöker undvika hinner ifatt dig — eller att en smart person i ditt liv har ögat på dig.
 
 **Om räven stjäl något:**

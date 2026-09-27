@@ -7,7 +7,7 @@ sensitivt: true
 kortbeskrivelse: "Drömt om att ett barn drunknar? Det är en av de vanligaste skräckdrömmarna föräldrar har — och aldrig en spådom, utan en bild på rädslan att förlora det sårbara."
 relaterte:
   - drunkna
-  - miste-baby
+  - forlora-barn
   - barn
 tolkninger_kort:
   - "Rädsla att förlora något sårbart och kärt som du är ansvarig för"

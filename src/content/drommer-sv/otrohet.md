@@ -7,7 +7,7 @@ sensitivt: true
 kortbeskrivelse: "Nästan aldrig. Drömmar om otrohet speglar oftare egen osäkerhet än verkliga svek — här är vad de brukar handla om, och vem som var otrogen mot vem."
 relaterte:
   - partner
-  - exet
+  - ex
   - sex
 tolkninger_kort:
   - "En osäkerhet eller sårbarhet i din relation gör sig gällande"
@@ -56,7 +56,7 @@ Ibland kan drömmens otrohet spegla egna känslor du inte kännats vid — en mi
 Speglar oftast din egen osäkerhet och övergivenhetsrädsla — inte en faktisk misstanke. Drömmens skyldiga partner är ofta en bild av dig själv och din sårbarhet.
 
 **Om det var du som var otrogen:**
-Kan handla om undertryckta dragningar, en känsla av att något saknas i förhållandet, eller en önskan om något du inte tillåter dig själv. Se även drömmar om [exet](/sv/drommar/exet/) för mer om gamla relationers plats i drömmarna.
+Kan handla om undertryckta dragningar, en känsla av att något saknas i förhållandet, eller en önskan om något du inte tillåter dig själv. Se även drömmar om [exet](/sv/drommar/ex/) för mer om gamla relationers plats i drömmarna.
 
 **Om du upptäckte det:**
 Den intensiva känslan av avslöjande och svek — brott mot tillit — är kärnan. Vad i ditt liv gör att du känner dig sviken eller inte litar helt?
@@ -65,7 +65,7 @@ Den intensiva känslan av avslöjande och svek — brott mot tillit — är kär
 En önskan om försoning och att gå vidare — antingen i relationen eller med dig själv.
 
 **Om drömmen upprepas:**
-En ihållande osäkerhet som behöver uppmärksamhet — kanske ett samtal med partnern hade hjälpt mer än analysen av drömmen. Läs mer om [återkommande drömmar](/sv/guider/atervandande-drommar/) och vad de försöker berätta för dig.
+En ihållande osäkerhet som behöver uppmärksamhet — kanske ett samtal med partnern hade hjälpt mer än analysen av drömmen. Läs mer om [återkommande drömmar](/sv/guider/aterkommande-drommar/) och vad de försöker berätta för dig.
 
 ## Sveket som inre bild
 

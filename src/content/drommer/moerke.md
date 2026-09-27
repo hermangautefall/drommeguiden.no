@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drømt om mørke? Mørket i drømmene er sjelden bare t
 relaterte:
   - morkt-rom
   - kjeller
-  - morkt-rom
+  - forfulgt
 tolkninger_kort:
   - "Det ubevisste og det ukjente — mørket er ikke tomt, men fullt av det du ennå ikke ser"
   - "Frykt for det ukontrollerte og uoversiktlige — det som ikke kan planlegges"

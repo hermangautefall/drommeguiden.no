@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om eld? Eld i drömmar är en av de mäktigaste 
 relaterte:
   - brand
   - sol
-  - forvandling
+  - fjaril
 tolkninger_kort:
   - "Transformation — något bränns bort för att något nytt ska växa"
   - "Passion, livsenergi och en kraft som är svår att kontrollera"

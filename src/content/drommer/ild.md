@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drømt om ild? Ild i drømmer er ett av de mektigste sy
 relaterte:
   - brann
   - sol
-  - forvandling
+  - sommerfugl
 tolkninger_kort:
   - "Transformasjon — noe brennes bort for at noe nytt skal vokse"
   - "Lidenskap, livsenergi og en kraft som er vanskelig å kontrollere"

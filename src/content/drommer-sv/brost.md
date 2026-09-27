@@ -6,7 +6,7 @@ kategori: kropp
 kortbeskrivelse: "Har du drömt om bröst? Bröst i drömmarna handlar sällan om sexualitet — det är en av de djupaste symbolerna för näring, omsorg och livgivande kraft vi har."
 relaterte:
   - amma
-  - mamma
+  - mor
   - baby
 tolkninger_kort:
   - "Näring och omsorg — något eller någon behöver det du har att ge"
@@ -40,7 +40,7 @@ Om du i drömmen upplevde obehag av att visa brösten, kan det spegla en känsla
 
 ### Mors-arketypen och feminin livskraft
 
-Jung beskrev mors-arketypen som en av de mest primära i människopsyket — och dess kärnsymbol är just det närande bröstet. Det är inte det individuella bröstet hos din [mamma](/sv/drommar/mamma/), utan själva bilden av livgivande kraft, skydd och villkorslös omsorg.
+Jung beskrev mors-arketypen som en av de mest primära i människopsyket — och dess kärnsymbol är just det närande bröstet. Det är inte det individuella bröstet hos din [mamma](/sv/drommar/mor/), utan själva bilden av livgivande kraft, skydd och villkorslös omsorg.
 
 Att drömma om bröst kan då spegla ett djupt behov av att bli omhändertagen — eller en kontakt med din egen kapacitet att ge sådan omsorg.
 

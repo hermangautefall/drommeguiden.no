@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drømt om mat? Matdrømmer handler om næring, udekte b
 relaterte:
   - baby
   - mor
-  - kropp
+  - mage
 tolkninger_kort:
   - "Et grunnleggende behov — fysisk eller emosjonelt — er ikke møtt"
   - "Begjær, nytelse og tillatelse til å nyte livet"

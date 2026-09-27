@@ -7,7 +7,7 @@ kortbeskrivelse: "Drömt att du är gravid? Det är en av de vanligaste drömmar
 relaterte:
   - baby
   - barn
-  - mamma
+  - mor
 tolkninger_kort:
   - "Något nytt och viktigt växer fram i ditt liv"
   - "En idé, ett projekt eller en förändring är i sin spädaste början"

@@ -6,7 +6,7 @@ kortbeskrivelse: "Drømt om kjole? Klær handler om identitet, rollen du spiller
 relaterte:
   - naken
   - bryllup
-  - kropp
+  - speil
 tolkninger_kort:
   - "Identiteten du viser frem og rollen du spiller for andre"
   - "Noe feminint, festlig eller spesielt i anledning"

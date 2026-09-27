@@ -7,7 +7,7 @@ kortbeskrivelse: "Män drömmer om att vara gravida oftare än man tror. Det är
 relaterte:
   - gravid
   - baby
-  - fodsel
+  - fodelse
 tolkninger_kort:
   - "Ett kreativt projekt, en idé eller en livsförändring håller på att mogna i dig"
   - "Omsorgsbehov och en önskan att skapa och nära något fram i världen"

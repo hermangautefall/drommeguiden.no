@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drømt om nisse? Nissen er norsk folkloretradisjonens v
 relaterte:
   - hus
   - troll
-  - jul
+  - stavkirke
 tolkninger_kort:
   - "En beskyttende kraft som passer på hjemmet og det nære"
   - "Noe gammelt og tradisjonstungt som krever respekt og anerkjennelse"

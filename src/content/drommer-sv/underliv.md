@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om underliv? Det är centrum för livets ursprun
 relaterte:
   - gravid
   - brost
-  - fodsel
+  - fodelse
 tolkninger_kort:
   - "Skapande kraft och livets ursprung — den kreativa energin som bor i dig"
   - "Instinkter och det primära — kontakten med kroppens djupaste visdom"
@@ -58,7 +58,7 @@ Något hos din skapande kraft, sexualitet eller vitalitet är sårbart eller kr�
 Kulturellt eller personligt betingade spärrar mot kontakt med det primära och instinktiva.
 
 **Om det handlade om graviditet eller födsel:**
-Se [gravid](/sv/drommar/gravid/) och [föda](/sv/drommar/foedsel/) för de mest relevanta tolkningarna.
+Se [gravid](/sv/drommar/gravid/) och [föda](/sv/drommar/fodelse/) för de mest relevanta tolkningarna.
 
 **Om det var sjukdom eller rädsla:**
 Något grundläggande i ditt liv upplevs som hotat — att kontakta läkare är alltid rätt vid fysisk oro.

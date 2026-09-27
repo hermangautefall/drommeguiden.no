@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drømt om føtter? Føtter bærer deg gjennom livet og 
 relaterte:
   - bein
   - vei
-  - vei
+  - falle
 tolkninger_kort:
   - "Grunnlag og forankring — hva du står på og hvem som bærer deg"
   - "Retning og fremdrift — er du på riktig vei, og tar du de nødvendige skrittene?"

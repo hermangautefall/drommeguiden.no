@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drømt om fødsel? Fødselsdrømmer er blant de mektigs
 relaterte:
   - gravid
   - baby
-  - forvandling
+  - sommerfugl
 tolkninger_kort:
   - "Noe nytt og viktig er i ferd med å komme til verden i livet ditt"
   - "En del av deg selv er klar til å vise seg — en ny identitet eller evne"

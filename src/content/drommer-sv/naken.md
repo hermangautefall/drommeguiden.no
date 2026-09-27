@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om att vara naken? Nakendrömmar handlar ofta om
 relaterte:
   - skola
   - spegel
-  - exet
+  - ex
   - falla
 tolkninger_kort:
   - "Du känner dig sårbar eller exponerad i en situation"

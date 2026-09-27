@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om fötter? Fötter bär dig genom livet och hå
 relaterte:
   - ben
   - vag
-  - skor
+  - falla
 tolkninger_kort:
   - "Grund och förankring — vad du står på och vem som bär dig"
   - "Riktning och framdrift — är du på rätt väg, och tar du de nödvändiga stegen?"

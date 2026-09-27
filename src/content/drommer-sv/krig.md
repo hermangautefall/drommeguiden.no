@@ -5,7 +5,7 @@ kategori: handelser
 sensitivt: true
 kortbeskrivelse: "Har du drömt om krig? Krigsdrömmar är intensiva och kan ha många orsaker — från inre konflikt till bearbetning av nyheter och den kollektiva oro vi bär på."
 relaterte:
-  - forfulgt
+  - forfoljd
   - do
   - storm
 tolkninger_kort:
@@ -37,7 +37,7 @@ Det kan handla om ett val du inte klarar av att ta, en konflikt mellan plikt och
 
 Vi lever i en tid där krig och konflikt är närvarande i nyhetsflödet på ett sätt som påverkar oss även om vi inte är direkt berörda. Hjärnans nattliga bearbetning inkluderar detta — bilder, berättelser och känslor från världen omkring oss kan ta form som krigsscener i drömmarna.
 
-Dessa drömmar är inte tecken på sjukdom eller fara — de är tecken på ett sinne som bearbetar och försöker integrera det som händer i världen. De är särskilt vanliga i perioder när krig, katastrofer eller stora politiska händelser dominerar nyhetsbilden. Drömmar om [jordbävning](/sv/drommar/jordskjelv/) och [stormar](/sv/drommar/storm/) följer ofta samma mönster.
+Dessa drömmar är inte tecken på sjukdom eller fara — de är tecken på ett sinne som bearbetar och försöker integrera det som händer i världen. De är särskilt vanliga i perioder när krig, katastrofer eller stora politiska händelser dominerar nyhetsbilden. Drömmar om [jordbävning](/sv/drommar/jordbavning/) och [stormar](/sv/drommar/storm/) följer ofta samma mönster.
 
 ### En kamp för något du tror på
 
@@ -61,7 +61,7 @@ Undvikande — en konflikt i ditt liv som du försöker hålla avstånd till ist
 Du är medveten om konflikten men är inte mitt i den. En observatörsposition som kan spegla distans eller hjälplöshet.
 
 **Om du förlorade någon i kriget:**
-Sorg och förlust kopplad till något eller någon — det som går förlorat i konflikt är ofta något värdefullt. Se också drömmar om [avlidna personer](/sv/drommar/avdod-person/) för mer om förlusttematik.
+Sorg och förlust kopplad till något eller någon — det som går förlorat i konflikt är ofta något värdefullt. Se också drömmar om [avlidna personer](/sv/drommar/avliden-person/) för mer om förlusttematik.
 
 **Om kriget tog slut:**
 En lösning är möjlig. Fred och försoning finns inom räckhåll — antingen i ett inre eller yttre landskap.

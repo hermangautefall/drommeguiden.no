@@ -115,7 +115,10 @@ const seksjonsnavn = seksjonsnavnByLang[lang] ?? seksjonsnavnByLang.nb;
 
 const crumbs = [
   { name: labels.hjem,  url: homePath(lang) },
-  { name: seksjonsnavn, url: pathFor(lang, 'symboler') },
+  // Seksjonen /symboler/ har ingen indeksside, saa mellomleddet pekte paa 404
+  // i brødsmulene og i BreadcrumbList-schemaet. Peker naa paa droemmeindeksen,
+  // slik Symbol.astro gjør. Seksjonsnavnet lever videre i badgen under.
+  { name: labels.symboler, url: pathFor(lang, 'drommer') },
   { name: displayTitle, url: pathFor(lang, 'symboler', slug) },
 ];
 ---

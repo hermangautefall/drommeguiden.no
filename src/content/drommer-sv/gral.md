@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om att gräla? Gräl i drömmarna är sällan om
 relaterte:
   - slass
   - otrohet-partner
-  - skiljas
+  - separation
 tolkninger_kort:
   - "En inre konflikt mellan två sidor av dig själv, dramatiserad genom två personer"
   - "Något oavklarat eller osagt i en verklig relation som behöver uppmärksamhet"

@@ -6,7 +6,7 @@ kategori: manniskor
 sensitivt: true
 kortbeskrivelse: "Har du drömt om en avliden person? Sådana drömmar är mycket vanliga och upplevs som tröstande besök — här är de vanligaste tolkningarna av vad det betyder."
 relaterte:
-  - mamma
+  - mor
   - pappa
   - do
 tolkninger_kort:
@@ -44,7 +44,7 @@ Om du i drömmen äntligen får säga det du inte fick sagt, eller om ni förson
 
 ### Ett tröstande besök
 
-Många som har drömt om avlidna kära — vare sig det är [mamma](/sv/drommar/mamma/) eller [pappa](/sv/drommar/pappa/) — beskriver upplevelsen annorlunda än vanliga drömmar: personen ser frisk och hel ut, det är ett lugn och en klarhet i mötet, och du vet ibland i drömmen att de egentligen är borta — men ändå är där. Dessa drömmar upplevs sällan som skrämmande. De upplevs som besök.
+Många som har drömt om avlidna kära — vare sig det är [mamma](/sv/drommar/mor/) eller [pappa](/sv/drommar/pappa/) — beskriver upplevelsen annorlunda än vanliga drömmar: personen ser frisk och hel ut, det är ett lugn och en klarhet i mötet, och du vet ibland i drömmen att de egentligen är borta — men ändå är där. Dessa drömmar upplevs sällan som skrämmande. De upplevs som besök.
 
 Oavsett vad man tror om vad som händer efter döden är denna typ av dröm något mycket många människor har, och något mycket många beskriver som en av de viktigaste och mest tröstande upplevelserna i sorgetiden.
 

@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drömt om en födsel? Födelsedrömmar är bland de mä
 relaterte:
   - gravid
   - baby
-  - forvandling
+  - fjaril
 tolkninger_kort:
   - "Något nytt och viktigt är på väg att komma till världen i ditt liv"
   - "En del av dig själv är redo att visa sig — en ny identitet eller förmåga"

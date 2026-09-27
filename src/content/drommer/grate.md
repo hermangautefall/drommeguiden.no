@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drømt om å gråte? Gråt i drømmer er sjelden bare t
 relaterte:
   - do
   - avdod-person
-  - sorg
+  - ensomhet
 tolkninger_kort:
   - "En emosjonell utladning — noe trenger å få slippe ut"
   - "En sorg, et tap eller en lengsel som ikke er ferdig bearbeidet"

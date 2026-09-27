@@ -4,8 +4,8 @@ slug: ko
 kategori: djur
 kortbeskrivelse: "Har du drömt om en ko? Kor i drömmar symboliserar näring, tålamod och det jordnära — här är de vanligaste tolkningarna av vad drömmen betyder för dig."
 relaterte:
-  - hest
-  - sau
+  - hast
+  - far
   - mor
 tolkninger_kort:
   - "Näring, omsorg och det som ger livet näring och substans"
@@ -26,7 +26,7 @@ Kon är ett av de äldsta och mest universellt vördade djuren i människans kul
 
 ### Näring och det som ger substans
 
-Den vanligaste tolkningen handlar om näring — inte bara mat, utan det som ger livet substans och mening. Kon ger mjölk dagligen, tålmodigt, utan dramatik. Drömmens ko kan spegla något i ditt liv som ger dig näring på ett stilla och ihållande sätt — en relation, en praktik, ett arbete. Se också [mamma](/sv/drommar/mamma/) som drömsymbol för omsorg och näring.
+Den vanligaste tolkningen handlar om näring — inte bara mat, utan det som ger livet substans och mening. Kon ger mjölk dagligen, tålmodigt, utan dramatik. Drömmens ko kan spegla något i ditt liv som ger dig näring på ett stilla och ihållande sätt — en relation, en praktik, ett arbete. Se också [mamma](/sv/drommar/mor/) som drömsymbol för omsorg och näring.
 
 ### Fruktsamhet och naturligt överflöd
 
@@ -45,7 +45,7 @@ Kon är tålmodig och jordnära — den springer inte, den hastar inte. Den finn
 Något som skulle ge näring gör det inte. En resurs är uttömd.
 
 **Om kon var aggressiv:**
-Den lugna, närande kraften har blivit pressad för långt — något tålmodigt har nått sin gräns. Se också [häst](/sv/drommar/hest/) för en annan kraftfull husdjurssymbol.
+Den lugna, närande kraften har blivit pressad för långt — något tålmodigt har nått sin gräns. Se också [häst](/sv/drommar/hast/) för en annan kraftfull husdjurssymbol.
 
 **Om det var många kor:**
 Rikedom, överflöd och många resurser.
@@ -57,7 +57,7 @@ Du tar aktivt till dig det som finns tillgängligt — du skördar från det som
 
 Den nordiska urdjurskon Auðumbla är en av de mest säregna bilderna i nordisk kosmologi — hon stod i kaosens is och slickade fram gudarna ur isen medan hon gav mjölk för att nära jätten Ymer. Kon finns där från begynnelsen, hon ger näring till det som blir till. I nordisk tradition är kon inte ett banalt husdjur — hon är skapelsens första moder.
 
-Jung skulle ha sett kon som en manifestation av "Den stora modern" i sin mest närande och jordnära form — lugn, fruktbar och ostoppbar i sin generositet. Se också [får](/sv/drommar/sau/) för en annan mild husdjurssymbol.
+Jung skulle ha sett kon som en manifestation av "Den stora modern" i sin mest närande och jordnära form — lugn, fruktbar och ostoppbar i sin generositet. Se också [får](/sv/drommar/far/) för en annan mild husdjurssymbol.
 
 ## Källor och vidare läsning
 

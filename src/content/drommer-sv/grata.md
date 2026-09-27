@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om att gråta? Gråt i drömmar är sällan bara
 relaterte:
   - do
   - avliden-person
-  - sorg
+  - ensamhet
 tolkninger_kort:
   - "En emotionell urladdning — något behöver få komma ut"
   - "En sorg, en förlust eller en längtan som inte är färdigbearbetad"
@@ -42,7 +42,7 @@ Inte all gråt är sorg. Att gråta av lättnad, av glädje, av rörelse — des
 
 ### Empati och medkänsla
 
-Att gråta för någon annan i drömmen — till exempel för [mamma](/sv/drommar/mamma/) eller [pappa](/sv/drommar/pappa/), eller för någon som har det svårt — är ett tecken på djup empatisk kapacitet. Drömmens gråt är då inte din egen sorg, utan din förmåga att känna andras.
+Att gråta för någon annan i drömmen — till exempel för [mamma](/sv/drommar/mor/) eller [pappa](/sv/drommar/pappa/), eller för någon som har det svårt — är ett tecken på djup empatisk kapacitet. Drömmens gråt är då inte din egen sorg, utan din förmåga att känna andras.
 
 ### Ensam eller inför andra — och vilka tårar det var
 

@@ -7,7 +7,7 @@ kortbeskrivelse: "Har du drömt om en tomte? Tomten är den nordiska folktrons v
 relaterte:
   - hus
   - troll
-  - jul
+  - stavkyrka
 tolkninger_kort:
   - "En skyddande kraft som vakar över hemmet och det nära"
   - "Något gammalt och traditionstungt som kräver respekt och erkännande"

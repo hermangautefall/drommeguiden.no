@@ -5,7 +5,7 @@ nb_slug: sosiale-medier
 kategori: foremal
 kortbeskrivelse: "Har du drömt om sociala medier? Instagram, TikTok och Facebook i drömmarna speglar förhållandet mellan vem du är och vem du visar upp — och behovet av att bli sedd."
 relaterte:
-  - internett
+  - internet
   - telefon
   - naken
 tolkninger_kort:
@@ -58,7 +58,7 @@ Ibland handlar drömmens sociala medier inte om det som visas, utan om det som i
 
 ## Persona i digital form
 
-Sociala medier som drömsymbol är ännu nyare än [internet](/sv/drommar/internett/) generellt — och växer snabbt. Det är förenligt med det vi vet om hur drömmarna speglar vardagslivets starkaste symboler: där telefonen och TV:n dominerade förra generationens drömmar, dominerar Instagram och TikTok nu.
+Sociala medier som drömsymbol är ännu nyare än [internet](/sv/drommar/internet/) generellt — och växer snabbt. Det är förenligt med det vi vet om hur drömmarna speglar vardagslivets starkaste symboler: där telefonen och TV:n dominerade förra generationens drömmar, dominerar Instagram och TikTok nu.
 
 Det fascinerande är att sociala mediers djupaste psykologiska mekanismer — bekräftelse, jämförelse, identitetsprojektion — inte är nya. De är uråldriga mänskliga behov klädda i ny teknologisk skrud. Drömmens sociala medier är därmed en modern arketyp.
 

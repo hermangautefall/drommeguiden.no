@@ -5,7 +5,7 @@ kategori: handelser
 kortbeskrivelse: "Har du drömt om sex? Sexuella drömmar är mycket vanliga och betyder sällan det de ser ut som — här är vad de egentligen handlar om och betyder för dig."
 relaterte:
   - partner
-  - exet
+  - ex
   - naken
 tolkninger_kort:
   - "En önskan om närhet, samhörighet och att bli sedd av någon"
@@ -47,7 +47,7 @@ I jungiansk psykologi är sexuell energi i drömmar nära knuten till det Jung k
 
 ### Försoning och integration
 
-Sexuella drömmar om någon du har ett svårt förhållande till — ett ex, en konfliktfylld relation, en person du är kluven till — kan handla om en djupare önskan om försoning eller integration. Att närma sig någon i drömmen är att närma sig det de representerar. Drömmar om [exet](/sv/drommar/exet/) har ofta just denna försonande kvalitet.
+Sexuella drömmar om någon du har ett svårt förhållande till — ett ex, en konfliktfylld relation, en person du är kluven till — kan handla om en djupare önskan om försoning eller integration. Att närma sig någon i drömmen är att närma sig det de representerar. Drömmar om [exet](/sv/drommar/ex/) har ofta just denna försonande kvalitet.
 
 ## Egenskapen, inte personen
 
@@ -61,7 +61,7 @@ Representerar troligen en egenskap — inte personen själv. Vad beundrar du hos
 Egenskaperna de symboliserar i kulturen: frihet, framgång, skönhet, mod. Vad är det du egentligen längtar efter?
 
 **Om partnern var en främling:**
-En okänd sida av dig själv — en kompletterande kvalitet som vill integreras. Se även drömmar om [främlingar](/sv/drommar/framling/) för mer om okända gestalter i drömmarna.
+En okänd sida av dig själv — en kompletterande kvalitet som vill integreras. Se även drömmar om [främlingar](/sv/drommar/frammande/) för mer om okända gestalter i drömmarna.
 
 **Om partnern var någon det skulle varit opassande med:**
 Inte ett tecken på undertryckta önskningar — snarare ett tecken på att personen representerar något starkt för dig. Hjärnan väljer starka symboler.

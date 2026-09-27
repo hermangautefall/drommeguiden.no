@@ -6,7 +6,7 @@ kortbeskrivelse: "Har du drömt om att amma? Amning i drömmar handlar om att ge
 relaterte:
   - baby
   - gravid
-  - mamma
+  - mor
 tolkninger_kort:
   - "Att ge av din innersta kraft och näring till något eller någon som behöver dig"
   - "Gränser och resurser — ger du mer än du har? Är du uttömd av omsorg?"
@@ -68,7 +68,7 @@ Omsorg kostar dig något. Priset är verkligt och märks i kroppen.
 
 ## Amningen som urbild
 
-Amning som symbol för gudomlig omsorg och näring är universell: Isis som ammar Horus är ett av de äldsta bildmotiven i människans konst. Maria lactans — den ammande Maria — är ett centralt motiv i europeisk konst från medeltiden. Bilden av en ammande [mamma](/sv/drommar/mamma/) är ett av arketypernas mest ursprungliga.
+Amning som symbol för gudomlig omsorg och näring är universell: Isis som ammar Horus är ett av de äldsta bildmotiven i människans konst. Maria lactans — den ammande Maria — är ett centralt motiv i europeisk konst från medeltiden. Bilden av en ammande [mamma](/sv/drommar/mor/) är ett av arketypernas mest ursprungliga.
 
 Jung skulle ha sett amningen som ett uttryck för den stora modersarketypens näringsfunktion — den djupaste, mest arkaiska bilden av omsorg och livsuppehälle. Det är inte begränsat till kvinnor: mannen som drömmer om amning är i kontakt med den närande, omsorgsfulla sidan av sitt psyke.
 

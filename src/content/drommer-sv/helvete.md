@@ -77,7 +77,7 @@ Bilden kan också handla om skuld och hård självdom — en rädsla för straff
 
 Den goda nyheten är att en helvetesdröm oftast handlar om ett svårt känslotillstånd — inte ett bokstavligt dödsrike. Många myter berättar om en resa ner i underjorden och upp igen — som Orfeus, eller Dantes färd genom Inferno — där nedstigningen är början på en förvandling, inte ett slut. Att sätta ord på det du bär på kan vara första steget ut: ofta är den enda vägen ut, igenom. Se även drömmar om [djävulen](/sv/drommar/djavul/), [fängelse](/sv/drommar/fangelse/) eller [ett mörkt rum](/sv/drommar/morkt-rum/).
 
-*Upplever du drömmar som åtföljs av bestående känslor av förtvivlan, skuld eller hjälplöshet i vardagen, kan det vara nyttigt att prata med någon — antingen en vän, en fackperson, eller någon du litar på. Läs mer om [mardrömmar](/sv/guider/mardrommar/) och hur du hanterar dem.*
+*Upplever du drömmar som åtföljs av bestående känslor av förtvivlan, skuld eller hjälplöshet i vardagen, kan det vara nyttigt att prata med någon — antingen en vän, en fackperson, eller någon du litar på. Läs mer om [mardrömmar](/sv/guider/mardrom/) och hur du hanterar dem.*
 
 ## Källor och vidare läsning
 

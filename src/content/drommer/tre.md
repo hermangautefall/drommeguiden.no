@@ -5,7 +5,7 @@ kategori: natur
 kortbeskrivelse: "Har du drømt om et tre? Trær er ett av de mektigste symbolene i drømmeverdenen — her er de vanligste tolkningene av hva drømmen egentlig betyr."
 relaterte:
   - skog
-  - rot
+  - fjell
   - blomst
 tolkninger_kort:
   - "Din livsenergi, vekst og det som holder deg rotfestet"

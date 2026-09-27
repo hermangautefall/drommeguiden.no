@@ -5,7 +5,7 @@ nb_slug: kjaereste
 kategori: manniskor
 kortbeskrivelse: "Har du drömt om din partner? Sådana drömmar speglar relationen som du verkligen upplever den — här är de vanligaste tolkningarna av vad det betyder."
 relaterte:
-  - exet
+  - ex
   - brollop
   - frammande
 tolkninger_kort:
@@ -38,7 +38,7 @@ Att drömma om partnern i romantiska eller intensiva situationer kan helt enkelt
 
 ### Rädsla för svek eller förlust
 
-En av de vanligaste och mest obehagliga varianterna är att partnern är otrogen i drömmen. Detta är sällan ett förvarning om att det faktiskt sker — det speglar mycket oftare en egen osäkerhet, en gammal sårhet från tidigare relationer — kanske knuten till [exet](/sv/drommar/exet/) — eller en period med distans och otydlighet mellan er.
+En av de vanligaste och mest obehagliga varianterna är att partnern är otrogen i drömmen. Detta är sällan ett förvarning om att det faktiskt sker — det speglar mycket oftare en egen osäkerhet, en gammal sårhet från tidigare relationer — kanske knuten till [exet](/sv/drommar/ex/) — eller en period med distans och otydlighet mellan er.
 
 ## Stämningen mellan er
 

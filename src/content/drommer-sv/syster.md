@@ -6,7 +6,7 @@ kategori: manniskor
 kortbeskrivelse: "Har du drömt om din syster? Syskondrömmar speglar nära relationer och sidor av dig själv — här är de vanligaste tolkningarna av vad det betyder."
 relaterte:
   - bror
-  - mamma
+  - mor
   - pappa
 tolkninger_kort:
   - "En sida av dig själv som du ser i systern speglas tillbaka till dig"
@@ -34,7 +34,7 @@ Vad representerar systern i drömmen? Är hon friare, tryggare, modigare än du?
 
 ### Något ouppklarat mellan er
 
-Syskonrelationer bär på mycket — gammal rivalitet, olika behandling från [föräldrar](/sv/drommar/mamma/), stora och små sår som aldrig blev uttalade. Drömmar om systern kan komma fram när något mellan er inte är färdigbearbetat. Inte nödvändigtvis en aktiv konflikt — men något som ligger och pyr.
+Syskonrelationer bär på mycket — gammal rivalitet, olika behandling från [föräldrar](/sv/drommar/mor/), stora och små sår som aldrig blev uttalade. Drömmar om systern kan komma fram när något mellan er inte är färdigbearbetat. Inte nödvändigtvis en aktiv konflikt — men något som ligger och pyr.
 
 ### Tillhörighet och gemensamma rötter
 

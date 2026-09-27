@@ -93,7 +93,7 @@ vilken del av dig själv den egentligen representerar. Många upplever att
 förföljelsedrömmar glider över i drömmar om [att falla](/sv/drommar/falla/)
 eller att bli fångad i ett [mörkt rum](/sv/drommar/morkt-rum/), och sådana
 drömmar räknas som en klassisk form av [mardröm](/sv/guider/mardrom/). Med
-[lucid drömning](/sv/guider/lucid-dromning/) kan man också öva på att vända
+[lucid drömning](/sv/guider/klardromning/) kan man också öva på att vända
 sig om och möta förföljaren mitt i drömmen själv.
 
 > 💡 **Läs även:** [Ångest och sömn](/sv/somn/angest-somn/) — om varför otrygghet ger så levande drömmar.

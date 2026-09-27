@@ -7,7 +7,7 @@ sensitivt: true
 kortbeskrivelse: "Drömt om att partnern är otrogen? Det handlar nästan aldrig om faktisk otrohet. Läs vad drömmen egentligen betyder — och varför den är en av de mest störande."
 relaterte:
   - otrohet
-  - exet
+  - ex
   - partner
 tolkninger_kort:
   - "Otrygghet och rädsla för att inte räcka till i förhållandet — inte misstanke om otrohet"

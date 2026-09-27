@@ -5,7 +5,7 @@ nb_slug: skog
 kategori: platser
 kortbeskrivelse: "Har du drömt om skog? Skogen i drömmar är en kraftfull symbol för det omedvetna, tillväxt och vildmark. Läs de vanligaste tolkningarna och vad drömmen betyder."
 relaterte:
-  - ulv
+  - varg
   - bjorn
   - morkt-rum
   - berg
@@ -39,7 +39,7 @@ Många upplever skogsdrömmar i perioder med stora livsförändringar, där de g
 
 Skogen kan också spegla något du bär på utan att ha bearbetat det. Kanske är det en konflikt du undvikit, en sorg du inte gett plats, eller ett beslut som legat oklart för länge. Skogen i drömmen blir då en bild av det som behöver komma fram i ljuset.
 
-Om du i drömmen känner dig rädd eller vilse kan det förstärka denna tolkning. Djur som dyker upp i skogen har ofta sin egen symbolik — att möta en [varg](/sv/drommar/ulv/) bland träden kan peka mot instinkter eller faror, medan en [björn](/sv/drommar/bjorn/) kan representera skydd eller tillbakadragen kraft.
+Om du i drömmen känner dig rädd eller vilse kan det förstärka denna tolkning. Djur som dyker upp i skogen har ofta sin egen symbolik — att möta en [varg](/sv/drommar/varg/) bland träden kan peka mot instinkter eller faror, medan en [björn](/sv/drommar/bjorn/) kan representera skydd eller tillbakadragen kraft.
 
 Det är också värt att lägga märke till om skogen är mörk eller ljus. En mörk, tät skog har gemensamma drag med drömmar om [mörka rum](/sv/drommar/morkt-rum/) — båda handlar om det okända och det outforskade.
 

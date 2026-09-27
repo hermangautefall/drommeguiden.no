@@ -5,7 +5,7 @@ nb_slug: musikk
 kategori: foremal
 kortbeskrivelse: "Har du drömt om musik? Musik i drömmar symboliserar inre harmoni, kreativitet och själen i fri rörelse — här är de vanligaste tolkningarna."
 relaterte:
-  - flygning
+  - flyga
   - fjaril
   - hav
 tolkninger_kort:
@@ -28,7 +28,7 @@ Vilken sorts musik du hörde eller spelade, och vilken känsla den väckte, är 
 
 ### Kreativitet och uttryck som söker plats
 
-Den vanligaste tolkningen handlar om en kreativ sida av dig själv som önskar mer rum. Musik är skaparkraft i sin renaste form — och att drömma om den kan betyda att du har något inom dig som vill ut, något du inte har fått uttrycka, något kreativt som har legat oanvänt för länge. Drömmar om [flygning](/sv/drommar/flygning/) bär på en liknande känsla av frihet och utfoldelse.
+Den vanligaste tolkningen handlar om en kreativ sida av dig själv som önskar mer rum. Musik är skaparkraft i sin renaste form — och att drömma om den kan betyda att du har något inom dig som vill ut, något du inte har fått uttrycka, något kreativt som har legat oanvänt för länge. Drömmar om [flygning](/sv/drommar/flyga/) bär på en liknande känsla av frihet och utfoldelse.
 
 Drömmen är en inbjudan: vad skulle du skapa om du tillät dig själv?
 

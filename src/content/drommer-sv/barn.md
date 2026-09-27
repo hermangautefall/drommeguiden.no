@@ -6,7 +6,7 @@ kategori: manniskor
 kortbeskrivelse: "Har du drömt om barn? Barndrömmar handlar ofta om ditt inre barn och nya början — här är de vanligaste tolkningarna av vad det kan betyda för dig."
 relaterte:
   - baby
-  - mamma
+  - mor
   - gravid
 tolkninger_kort:
   - "Ditt inre barn — lekfullhet och sårbarhet — behöver uppmärksamhet"

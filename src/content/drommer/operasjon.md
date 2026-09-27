@@ -7,7 +7,7 @@ kortbeskrivelse: "Drømt om operasjon? Operasjoner handler om reparasjon, kontro
 relaterte:
   - sykdom
   - sykehus
-  - kropp
+  - blod
 tolkninger_kort:
   - "Noe i livet ditt repareres, fjernes eller justeres"
   - "En prosess der du overleverer kontrollen for å bli hel"
