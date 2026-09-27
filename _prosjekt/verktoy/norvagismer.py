@@ -103,6 +103,14 @@ def skann(sti):
 if __name__ == '__main__':
     vis_myk = '--myk' in sys.argv
     filer = [a for a in sys.argv[1:] if not a.startswith('--')]
+    if not filer:
+        # En port som staar aapen naar ingen gaar gjennom den, er ikke en port.
+        # Uten argumenter skannet den null filer og meldte HARD 0 — jeg trodde
+        # korpuset var rent i en hel runde foer jeg saa at «0 filer» stod der.
+        rot = pathlib.Path(__file__).resolve().parents[2] / 'src/content/drommer-da'
+        filer = sorted(str(f) for f in rot.glob('*.md'))
+        if not filer:
+            sys.exit(f'  fant ingen filer i {rot}')
     th = tm = 0
     for f in filer:
         h, m = skann(f)

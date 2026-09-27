@@ -51,7 +51,7 @@ I religiøse og kulturelle tradisjoner er det å vaske andres føtter ett av de 
 Du er godt forankret. Grunnlaget ditt holder.
 
 **Hvis føttene var skadet, såre eller svake:**
-Noe ved ditt fundament er ustabilt. Hva er det du egentlig stå på?
+Noe ved ditt fundament er ustabilt. Hva er det du egentlig står på?
 
 **Hvis du gikk barfot:**
 Direkte kontakt med bakken — enten sårbart og eksponert, eller jordnært og autentisk, avhengig av konteksten.

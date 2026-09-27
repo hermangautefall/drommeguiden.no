@@ -71,11 +71,11 @@ En klarhet — något du var orolig för visar sig inte ha hänt. Spänning som 
 
 ## Cykeln i kultur och tabu
 
-Menstruationens symbolik är en av de äldsta i mänskliga kulturer. Månen — den månatliga cykeln — är etymologiskt kopplad till menstruation i de flesta indoeuropeiska språk (svenska: månad, menstruation). De två cyklerna — månens och livmoderns — sågs i arkaiskt tänkande som en och samma.
+Menstruationens symbolik är en av de äldsta i mänskliga kulturer. Månaden — den månatliga cykeln — är etymologiskt kopplad till menstruation i de flesta indoeuropeiska språk (svenska: månad, menstruation). De två cyklerna — månens och livmoderns — sågs i arkaiskt tänkande som en och samma.
 
 I många ursprungstraditioner är menstruationstiden en krafttid — inte en period av svaghet, utan en tid med tillgång till vision och insikt. Många kulturer praktiserade menstruationsriter där kvinnor drog sig undan för att drömma och ta emot insikt för gemenskapen.
 
-Det är en av drömpsykologins stora blinda fläckar att menstruation som drömsymbol behandlats så lite — kanske för att drömpsykologin länge dominerades av manliga teoretiker. Det ger drommeguiden.no ett tydligt möjlighetsfönster: detta är en underserverad, verkligt sökt symbolsida.
+Det är en av drömpsykologins stora blinda fläckar att menstruation som drömsymbol behandlats så lite — kanske för att drömpsykologin länge dominerades av manliga teoretiker.
 
 ## Källor och vidare läsning
 

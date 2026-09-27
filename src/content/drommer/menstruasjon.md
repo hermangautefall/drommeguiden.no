@@ -9,7 +9,7 @@ relaterte:
   - underliv
 tolkninger_kort:
   - "Syklus og fornyelse — det regelmessige renselsesmønsteret i kropp og liv"
-  - "Kreativ kraft og feminin vitalitet — menstrusasjonen som livets rytme"
+  - "Kreativ kraft og feminin vitalitet — menstruasjonen som livets rytme"
   - "En naturlig avslutning som gjør plass til noe nytt — renselse og ny begynnelse"
 bilde: /bilder/symboler/menstruasjon.jpg
 dato: 2026-03-18
@@ -70,11 +70,11 @@ En avklaring — noe du var urolig for, viser seg å ikke ha skjedd. Spenning so
 
 ## Syklusen i kultur og tabu
 
-Menstruasjonens symbolikk er en av de eldste i menneskekulturene. Manen — den månedlige syklusen — er etymologisk knyttet til menstruasjon i de fleste indoeuropeiske språk (norsk: måned, menstruasjon). De to syklusene — månens og livmorens — ble i arkaisk tenkning sett som ett.
+Menstruasjonens symbolikk er en av de eldste i menneskekulturene. Måneden — den månedlige syklusen — er etymologisk knyttet til menstruasjon i de fleste indoeuropeiske språk (norsk: måned, menstruasjon). De to syklusene — månens og livmorens — ble i arkaisk tenkning sett som ett.
 
 I mange urfolkstradisjoner er menstruasjonstiden en krafttid — ikke en svakhetsperiode, men en tid med tilgang til visjon og innsikt. Mange kulturer praktiserte menstruasjonsriter der kvinner trakk seg tilbake for å drømme og motta innsikt for fellesskapet.
 
-Det er en av drømmepsykologiens store blindflekker at menstruasjon som drømmesymbol er lite behandlet — kanskje fordi drømmepsykologien lenge ble dominert av mannlige teoretikere. Det gir drommeguiden.no et klart mulighetsvindu: dette er en underservert, reelt søkt symbolside.
+Det er en av drømmepsykologiens store blindflekker at menstruasjon som drømmesymbol er lite behandlet — kanskje fordi drømmepsykologien lenge ble dominert av mannlige teoretikere.
 
 ## Kilder og videre lesning
 
