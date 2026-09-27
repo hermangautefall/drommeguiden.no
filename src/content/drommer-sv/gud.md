@@ -3,7 +3,7 @@ tittel: "Drömma om Gud — vad betyder det?"
 slug: gud
 nb_slug: gud
 kategori: andlig
-kortbeskrivelse: "Har du drömt om Gud? Det är en av de mäktigaste drömmarna en människa kan ha — den pekar mot något större än det personliga jaget och din djupaste inre auktoritet."
+kortbeskrivelse: "Har du drömt om Gud? Det är en av de mäktigaste drömmar en människa kan ha — den pekar mot något större än jaget och din djupaste inre auktoritet."
 relaterte:
   - anglar
   - djavul

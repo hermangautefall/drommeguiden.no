@@ -3,7 +3,7 @@ tittel: "Drömma om katt — vad betyder det?"
 slug: katt
 nb_slug: katt
 kategori: djur
-kortbeskrivelse: "Drömt om katt? Katter symboliserar oberoende, intuition och det okända — men svart katt betyder något annat. Läs de 5 vanligaste tolkningarna och vad din dröm betyder."
+kortbeskrivelse: "Drömt om katt? Katter symboliserar oberoende, intuition och det okända — men en svart katt betyder något annat. Här är de 5 vanligaste tolkningarna."
 relaterte:
   - hund
   - spindel

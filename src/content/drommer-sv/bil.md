@@ -3,7 +3,7 @@ tittel: "Drömma om bil — vad betyder det?"
 slug: bil
 nb_slug: bil
 kategori: handelser
-kortbeskrivelse: "Drömt om bil? Bilen i drömmen handlar om riktning, kontroll och val i livet – inte trafik. Läs de 4 vanligaste tolkningarna och ta reda på vad din dröm egentligen betyder."
+kortbeskrivelse: "Drömt om bil? Bilen i drömmen handlar om riktning, kontroll och val i livet – inte trafik. Här är de 4 vanligaste tolkningarna av vad den betyder."
 relaterte:
   - falla
   - hast

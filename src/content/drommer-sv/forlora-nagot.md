@@ -3,7 +3,7 @@ tittel: "Drömmar om att förlora något — vad betyder det?"
 slug: forlora-nagot
 nb_slug: miste-noe
 kategori: handelser
-kortbeskrivelse: "Har du drömt om att förlora något? Att förlora väska, nycklar, telefon eller något värdefullt i dröm speglar ofta en rädsla för förlust av kontroll eller identitet."
+kortbeskrivelse: "Har du drömt om att förlora något? Att tappa väska, nycklar eller något värdefullt i dröm speglar ofta rädsla för förlust av kontroll eller identitet."
 relaterte:
   - forfoljd
   - sen

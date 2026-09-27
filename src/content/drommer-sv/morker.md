@@ -3,7 +3,7 @@ tittel: "Drömma om mörker — vad betyder det?"
 slug: morker
 nb_slug: moerke
 kategori: natur
-kortbeskrivelse: "Har du drömt om mörker? Mörkret i drömmarna är sällan bara hotande — det är det okända, det omedvetna och det som ännu inte fått form. Det har något att säga dig."
+kortbeskrivelse: "Har du drömt om mörker? Mörkret i drömmarna är sällan bara hotande — det är det okända, det omedvetna och det som ännu inte har fått någon form."
 relaterte:
   - morkt-rum
   - kallare

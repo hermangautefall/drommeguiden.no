@@ -3,7 +3,7 @@ tittel: "Drömma om sex med ex — vad betyder det?"
 slug: ex-sex
 nb_slug: eksen-sex
 kategori: andlig
-kortbeskrivelse: "Drömt om sex med ditt ex? Det är en av de vanligaste och mest förvirrande drömmarna. Svaret är sällan att du vill ha dem tillbaka — här är vad det egentligen betyder."
+kortbeskrivelse: "Drömt om sex med ditt ex? En av de vanligaste och mest förvirrande drömmarna. Svaret är sällan att du vill ha dem tillbaka — här är vad den betyder."
 relaterte:
   - ex
   - samlag

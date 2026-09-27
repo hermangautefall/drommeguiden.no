@@ -2,7 +2,7 @@
 tittel: "Dreaming of being pregnant as a man — what does it mean?"
 slug: pregnant-man
 kategori: body
-kortbeskrivelse: "Men dream of being pregnant more often than people think. It makes sense — pregnancy is the dream world's strongest image for creative potential that's ripening."
+kortbeskrivelse: "Men dream of being pregnant more often than people think. It makes sense — pregnancy is the dream world's strongest image for ripening potential."
 relaterte:
   - pregnant
   - birth

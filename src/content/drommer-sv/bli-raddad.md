@@ -3,7 +3,7 @@ tittel: "Drömma om att bli räddad — vad betyder det?"
 slug: bli-raddad
 nb_slug: bli-reddet
 kategori: handelser
-kortbeskrivelse: "Har du drömt om att bli räddad? Det är ett av de mest helande drömscenarierna — en signal om att något i dig behöver hjälp, och att hjälpen faktiskt finns tillgänglig."
+kortbeskrivelse: "Har du drömt om att bli räddad? Det är ett av de mest helande drömscenarierna — en signal om att något i dig behöver hjälp, och att hjälpen finns."
 relaterte:
   - radda-nagon
   - forfoljd

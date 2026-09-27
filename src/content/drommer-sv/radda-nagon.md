@@ -3,7 +3,7 @@ tittel: "Drömma om att rädda någon — vad betyder det?"
 slug: radda-nagon
 nb_slug: redde-noen
 kategori: handelser
-kortbeskrivelse: "Har du drömt om att rädda någon? Räddningsdrömmarna är bland de mest meningsfulla vi har — den du räddar är nästan alltid en del av dig själv som behöver din hjälp."
+kortbeskrivelse: "Har du drömt om att rädda någon? Räddningsdrömmar är bland de mest meningsfulla vi har — den du räddar är nästan alltid en del av dig själv."
 relaterte:
   - bli-raddad
   - drunkna

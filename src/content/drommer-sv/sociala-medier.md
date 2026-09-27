@@ -3,7 +3,7 @@ tittel: "Drömmar om sociala medier — vad betyder det?"
 slug: sociala-medier
 nb_slug: sosiale-medier
 kategori: foremal
-kortbeskrivelse: "Har du drömt om sociala medier? Instagram, TikTok och Facebook i drömmarna speglar förhållandet mellan vem du är och vem du visar upp — och behovet av att bli sedd."
+kortbeskrivelse: "Har du drömt om sociala medier? Instagram, TikTok och Facebook i drömmen speglar vem du är mot vem du visar upp — och behovet av att bli sedd."
 relaterte:
   - internet
   - telefon

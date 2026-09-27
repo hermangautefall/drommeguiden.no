@@ -3,7 +3,7 @@ tittel: "Drömma om lycka — vad betyder det?"
 slug: lycka
 nb_slug: lykke
 kategori: handelser
-kortbeskrivelse: "Har du drömt om lycka — en ren, intensiv glädje? Sådana drömmar är sällsynta och värdefulla. De visar dig något om vad du verkligen behöver och vad livet kan rymma."
+kortbeskrivelse: "Har du drömt om lycka — en ren, intensiv glädje? Sådana drömmar är sällsynta. De visar något om vad du verkligen behöver och vad livet kan rymma."
 relaterte:
   - vinna
   - karlek

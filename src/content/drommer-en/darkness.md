@@ -2,7 +2,7 @@
 tittel: "Dreaming of darkness — what does it mean?"
 slug: darkness
 kategori: nature
-kortbeskrivelse: "Dreamed about darkness? Darkness in dreams is rarely just threatening — it's the unknown, the unconscious, and what hasn't taken form yet. It has something to say."
+kortbeskrivelse: "Dreamed about darkness? Darkness in dreams is rarely only threatening — it's the unknown, the unconscious, and what hasn't yet taken form in you."
 relaterte:
   - forest
   - mushroom

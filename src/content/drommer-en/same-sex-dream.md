@@ -2,7 +2,7 @@
 tittel: "Dreaming of same-sex intimacy — what does it mean?"
 slug: same-sex-dream
 kategori: spiritual
-kortbeskrivelse: "Dreamed about sex with someone of the same sex? It's one of the most common dreams across every sexual orientation, and it rarely says anything about your identity."
+kortbeskrivelse: "Dreamed about sex with someone of the same sex? It's one of the most common dreams across every orientation, and rarely says anything about you."
 relaterte:
   - sex
   - naked

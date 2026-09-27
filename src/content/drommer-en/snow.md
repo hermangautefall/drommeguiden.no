@@ -2,7 +2,7 @@
 tittel: "Dreaming of snow — what does it mean?"
 slug: snow
 kategori: nature
-kortbeskrivelse: "Have you dreamed about snow? Snow in dreams often symbolises purity, stillness, and rest — but can also point to coldness and isolation. See the interpretations."
+kortbeskrivelse: "Have you dreamed about snow? Snow in dreams often symbolises purity, stillness and rest — but it can also point to coldness and quiet isolation."
 relaterte:
   - rain
   - storm

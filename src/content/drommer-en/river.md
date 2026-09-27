@@ -2,7 +2,7 @@
 tittel: "Dreaming of a river — what does it mean?"
 slug: river
 kategori: water
-kortbeskrivelse: "Have you dreamed about a river? The river is one of the strongest symbols of life's movement and time — here are the most common interpretations of what it means."
+kortbeskrivelse: "Have you dreamed about a river? The river is one of the strongest symbols of life's movement and time — here are the most common interpretations."
 relaterte:
   - ocean
   - bridge

@@ -2,7 +2,7 @@
 tittel: "Dreaming of work — what does it mean?"
 slug: work
 kategori: events
-kortbeskrivelse: "Dreamed about work? Work dreams are among the most common adults have — they mirror identity, performance, and the endless question of whether you're doing enough."
+kortbeskrivelse: "Dreamed about work? Work dreams are among the most common adults have — they mirror identity, performance, and the question of doing enough."
 relaterte:
   - boss
   - school

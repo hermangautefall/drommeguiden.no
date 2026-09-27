@@ -3,7 +3,7 @@ tittel: "Drömma om naglar — vad betyder det?"
 slug: naglar
 nb_slug: nagle
 kategori: kropp
-kortbeskrivelse: "Har du drömt om naglar? Naglar i drömmarna handlar om gränser, skydd och kontroll över det egna uttrycket — och om vad du håller fast vid eller släpper taget om."
+kortbeskrivelse: "Har du drömt om naglar? Naglar i drömmarna handlar om gränser, skydd och kontroll över det egna uttrycket — och om vad du håller fast vid i livet."
 relaterte:
   - hander
   - hud

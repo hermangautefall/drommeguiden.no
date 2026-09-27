@@ -3,7 +3,7 @@ tittel: "Drömma om att vinna — vad betyder det?"
 slug: vinna
 nb_slug: vinne
 kategori: handelser
-kortbeskrivelse: "Har du drömt om att vinna? Seger i drömmen handlar om bemästrande, självbekräftelse och ett behov av erkännande — och vad du vinner säger vad du egentligen söker."
+kortbeskrivelse: "Har du drömt om att vinna? Seger i drömmen handlar om bemästrande och behov av erkännande — och vad du vinner säger vad du egentligen söker."
 relaterte:
   - forlora
   - vinna-pengar

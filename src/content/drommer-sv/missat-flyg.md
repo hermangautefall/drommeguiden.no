@@ -2,7 +2,7 @@
 tittel: "Drömma om att missa flyget — vad betyder det?"
 slug: missat-flyg
 kategori: handelser
-kortbeskrivelse: "Drömt om att missa flyget? Det är en av de vanligaste moderna ångestdrömmarna — och den speglar rädslan för att komma för sent, missa möjligheter och inte hänga med."
+kortbeskrivelse: "Drömt om att missa flyget? En av de vanligaste moderna ångestdrömmarna — den speglar rädslan för att komma för sent och missa sina möjligheter."
 relaterte:
   - flygkrasch
   - sen
