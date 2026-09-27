@@ -54,7 +54,7 @@ En frygt for det ukontrollerbare og pludselige — noget der kan komme uden vars
 **Hvis du så lynet, men ikke hørte tordenen:**
 Indsigten er der, men konsekvenserne er endnu ikke kommet. Noget er i bevægelse.
 
-## Det pludselige — indsigt og chok
+## Guddommelig kraft og det ukontrollable
 
 Lyn kan tolkes som et glimt af indsigt — et pludseligt »aha«-øjeblik, hvor noget bliver klart for dig på et splitsekund, en opvågnen eller en sandhed, der slår ned med fuld kraft. Den slags drømme kan komme i perioder, hvor du er ved at forstå noget vigtigt om dig selv eller dit liv, selv om bevidstheden endnu ikke helt har indhentet det.
 

@@ -59,7 +59,7 @@ The insight is there, but the consequences haven't arrived yet. Something is in 
 
 ---
 
-## Sudden insight and shock
+## Divine power and the uncontrollable
 
 Lightning can be read as a flash of insight — a sudden "aha" moment where something becomes clear to you in a split second, an awakening or a truth striking with full force. Dreams like this can arrive during periods when you're in the process of understanding something important about yourself or your life, even if your conscious mind hasn't quite caught up yet.
 

@@ -52,6 +52,13 @@ HARD = [
     (r'\bjente',                  'jente → pige'),
     (r'\bgutt',                   'gutt → dreng'),
     (r'\bsau\b',                  'sau → får'),
+    # Funnet av en agent, ikke av meg: dansk «sø» betyr innsjø, ikke hav, saa
+    # «sjødyr» blir «sødyr» = innsjødyr. Riktig er «havdyr». Og «ransake» er
+    # «ransage» paa dansk. Begge er korrekt STAVET dansk og slapp gjennom alle
+    # de andre reglene — et regexfilter fanger bare det det er fortalt om.
+    (r'\bsødyr',                    'sødyr = innsjødyr paa dansk. Havdyr er ordet'),
+    (r'\bsøvand',                   'sø = innsjø paa dansk → havvand'),
+    (r'\bransak',                   'ransake → ransage'),
     (r'\bmørke?t? rom\b',         'rom → rum'),
     (r'\bhvit',                   'hvit → hvid'),
     (r'\bsvart\b',                'svart → sort'),

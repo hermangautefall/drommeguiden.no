@@ -60,7 +60,7 @@ Die Erkenntnis ist da, aber die Konsequenzen sind noch nicht angekommen. Etwas i
 
 ---
 
-## Plötzliche Erkenntnis und Schock
+## Göttliche Macht und das Unkontrollierbare
 
 Der Blitz lässt sich als Erkenntnisblitz lesen — ein plötzlicher Aha-Moment, in dem dir etwas im Bruchteil einer Sekunde klar wird, ein Erwachen oder eine Wahrheit, die mit voller Wucht einschlägt. Solche Träume können in Phasen auftauchen, in denen du gerade dabei bist, etwas Wichtiges über dich selbst oder dein Leben zu verstehen, auch wenn dein waches Bewusstsein noch nicht ganz nachgekommen ist.
 

@@ -52,7 +52,7 @@ En frykt for det ukontrollerbare og plutselige — noe som kan komme uten forvar
 **Hvis du så lynet men hørte ikke tordenen:**
 Innsikten er der, men konsekvensene er ennå ikke kommet. Noe er i bevegelse.
 
-## Det plutselige — innsikt og sjokk
+## Guddommelig kraft og det ukontrollerbare
 
 Lyn kan tolkes som et glimt av innsikt — et plutselig "aha"-øyeblikk der noe blir klart for deg på et splitsekund, en oppvåkning eller en sannhet som slår ned med full kraft. Slike drømmer kan komme i perioder der du er i ferd med å forstå noe viktig om deg selv eller livet ditt, selv om bevisstheten ikke har innhentet det helt ennå.
 

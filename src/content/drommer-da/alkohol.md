@@ -39,7 +39,7 @@ At drømme om at drikke for at glemme eller dæmpe noget kan spejle et ønske om
 
 ### Social tilhørighed og fællesskab
 
-Alkohol er socialt ladet i den norske kultur — skålen rundt bordet, vinglasset der markerer, at noget er særligt. At drømme om at drikke i godt selskab kan spejle et behov for mere fællesskab, mere tilhørsforhold, mere af det, der markerer, at noget er værd at fejre.
+Alkohol er socialt ladet i nordisk kultur — skålen rundt bordet, vinglasset der markerer, at noget er særligt. At drømme om at drikke i godt selskab kan spejle et behov for mere fællesskab, mere tilhørsforhold, mere af det, der markerer, at noget er værd at fejre.
 
 ## Hvem drak, og hvordan føltes det
 
@@ -58,9 +58,9 @@ En meget almindelig drøm — ikke et tegn på svaghed, men på at hjernen bearb
 **Hvis andre drak, men ikke dig:**
 Udenforskab eller en valgt afstand til noget socialt.
 
-## Mellem fest og skyld i den norske kultur
+## Mellem fest og skyld
 
-Alkohol har en kompleks plads i den norske kultur — på den ene side en stærk drikkekulturtradition, på den anden en lige så stærk afholdskultur. Denne ambivalens gør alkoholdrømmene ekstra ladede for mange nordmænd: begær og skyld kan eksistere side om side.
+Alkohol har en sammensat plads i nordisk kultur — på den ene side en stærk drikketradition, på den anden en lige så stærk afholdsbevægelse, som stod særlig stærkt i Norge. Den ambivalens gør alkoholdrømme ekstra ladede for mange: begær og skyld kan eksistere side om side.
 
 Psykologisk set er alkohol i drømmene knyttet til Dionysos — den græske gud for ekstatisk frigørelse, det irrationelle og det, der bryder med det ordnede. Drømmen inviterer dig til at undersøge: hvad har du brug for at slippe lidt op på? Læs mere om, hvad drømme egentlig er, for at forstå underbevidsthedens sprog bedre.
 
