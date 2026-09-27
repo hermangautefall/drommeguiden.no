@@ -20,7 +20,7 @@ author: 'default'
 
 ## Vad betyder det att drömma om drake?
 
-Drakar är bland de mest dramatiska och laddade symboler som kan dyka upp i drömvärlden. De finns i mytologier från hela världen — från fornnordiska sagor till kinesiska traditioner — och bär med sig en enorm symbolisk tyngd. Vill du lära dig mer om varför vi drömmer? Läs vår guide om [vad drömmar egentligen är](/sv/guider/vad-ar-drommar/). Att drömma om en drake är sällan en vardaglig dröm. Den fångar uppmärksamheten och sätter sig fast.
+Drakar är bland de mest dramatiska och laddade symboler som kan dyka upp i drömvärlden. De finns i mytologier från hela världen — från fornnordiska sagor till kinesiska traditioner — och bär med sig en enorm symbolisk tyngd. Att drömma om en drake är sällan en vardaglig dröm. Den fångar uppmärksamheten och sätter sig fast.
 
 Tolkningarna varierar mycket beroende på vad som hände i drömmen och vilken känsla draken väckte i dig.
 

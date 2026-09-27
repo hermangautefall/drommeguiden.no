@@ -35,7 +35,7 @@ Hvis du er en mann som drømmer om intimitet med en annen mann, kan det handle o
 
 For Jung representerte seksuelle drømmer mellom personer av samme kjønn en spesiell variant av den indre integrasjonen: psyken utforsker ikke det andre kjønns egenskaper (anima/animus), men selve samhørigheten med eget kjønns dypere dimensjon.
 
-En mann som drømmer om intimitet med en annen mann møter kanskje sin dypeste maskulinitet — ikke den overfladiske, prestasjonsorienterte versjonen, men noe mer grunnleggende og autentisk. En kvinner som drømmer om intimitet med en annen kvinne møter kanskje sin dypeste femininitet — ikke den sosialt pålagte, men den genuine.
+En mann som drømmer om intimitet med en annen mann møter kanskje sin dypeste maskulinitet — ikke den overfladiske, prestasjonsorienterte versjonen, men noe mer grunnleggende og autentisk. En kvinne som drømmer om intimitet med en annen kvinne møter kanskje sin dypeste femininitet — ikke den sosialt pålagte, men den genuine.
 
 ### Lengsel etter emosjonell nærhet med eget kjønn
 

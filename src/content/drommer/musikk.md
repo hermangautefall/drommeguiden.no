@@ -60,7 +60,7 @@ Noe blokkerer det kreative uttrykket ditt — en hemning, en frykt, en situasjon
 
 Musikk er et av de fenomenene Jung var mest fascinert av — fordi den opererer direkte på det ubevisste uten å gå veien om rasjonell tanke. Han beskrev musikk som "et direkte uttrykk for sjelen" og mente at drømmenes musikk ofte kommuniserte noe som psyken ikke hadde ord for.
 
-For Herman og andre musikere er musikk ikke bare et symbol — det er en identitet og en levemåte. Å drømme om musikk kan da ha en enda mer direkte og personlig resonans: det handler om kjernen i hvem man er og hva man er her for å gjøre.
+For musikere er musikk ikke bare et symbol — det er en identitet og en levemåte. Å drømme om musikk kan da ha en enda mer direkte og personlig resonans: det handler om kjernen i hvem man er og hva man er her for å gjøre.
 
 ## Kilder og videre lesning
 

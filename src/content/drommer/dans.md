@@ -67,7 +67,7 @@ Noe dypt og betydningsfullt finner sted — en overgang, en markering.
 
 Jung var opptatt av dansen som ett av de eldste arketypiske uttrykkene — kroppens naturlige svar på rytme og livskraft. Han beskrev dansen i drømmene som et tegn på at libido (livsenergi i vid forstand) er fri og i bevegelse — det motsatte av stagnasjon og depresjon.
 
-I norrøn og norsk tradisjon er dansen til stede fra de eldste ritualene — bruktdans, springdans, hallingspark — og den er knyttet til fellesskap, høytid og overskudd. Å drømme om dans i norsk kulturell kontekst berører noe av denne kollektive gleden ved kropp i fri bevegelse.
+I norrøn og norsk tradisjon er dansen til stede fra de eldste ritualene — bygdedans, springdans, halling — og den er knyttet til fellesskap, høytid og overskudd. Å drømme om dans i norsk kulturell kontekst berører noe av denne kollektive gleden ved kropp i fri bevegelse.
 
 ## Kilder og videre lesning
 

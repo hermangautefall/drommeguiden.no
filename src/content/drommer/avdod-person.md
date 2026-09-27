@@ -37,7 +37,7 @@ Slike drømmer kommer ofte hyppig like etter tapet, avtar med tiden, og dukker s
 
 ## Det uoppgjorte som får sin plass
 
-Mange drømmer om avdøde bærer på noe uoppgjort — et ord som aldri ble sagt, en klem som ikke ble gitt, en konflikt som aldri fant sin løsning i virkeligheten. Drømmen kan gi underbevisstheten en arena for å fullføre det virkeligheten ikke rakk. Får du endelig sagt det du ikke fikk sagt, eller forsoner dere dere i drømmen — ta det gjerne på alvor. Mange beskriver slike drømmer som noe av det mest helende de har opplevd i sorgen.
+Mange drømmer om avdøde bærer på noe uoppgjort — et ord som aldri ble sagt, en klem som ikke ble gitt, en konflikt som aldri fant sin løsning i virkeligheten. Drømmen kan gi underbevisstheten en arena for å fullføre det virkeligheten ikke rakk. Får du endelig sagt det du ikke fikk sagt, eller forsoner dere i drømmen — ta det gjerne på alvor. Mange beskriver slike drømmer som noe av det mest helende de har opplevd i sorgen.
 
 ## Variasjoner du ikke trenger å bekymre deg for
 

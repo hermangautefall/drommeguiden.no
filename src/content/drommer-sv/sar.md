@@ -67,7 +67,7 @@ Ett omedvetet sår — något som gör ont men vars källa du ännu inte identif
 
 ## Såret som synlig sårbarhet
 
-Sårsymboliken är universell i människans mytologiska tänkande. Den sårade hjälten är ett genomgående arketypiskt motiv: Akilles i hälen, Siegfried mellan skulderbladen, Amfortas med det oläkbara såret i Parsifal. Alla är män vars styrka är absolut — förutom i en enda punkt. Den punkten är såren.
+Sårsymboliken är universell i människans mytologiska tänkande. Den sårade hjälten är ett genomgående arketypiskt motiv: Akilles i hälen, Siegfried mellan skulderbladen, Amfortas med det oläkbara såret i Parsifal. Alla är män vars styrka är absolut — förutom i en enda punkt. Den punkten är såret.
 
 Jung använde begreppet "det sårade Självet" om den psykiska smärta som uppstår i individuationsprocessen — mötet med Skuggan, med undertryckta sidor av Självet, med livets oundvikliga förluster. Sår i drömmarna är gärna markörer för dessa mötespunkter.
 

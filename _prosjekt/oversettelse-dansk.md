@@ -167,6 +167,29 @@ godt, så de er ikke rettet — men nye artikler skal legge til.
 
 ---
 
+## Norge, Norden og Danmark
+
+Korpuset var uenig med seg selv her, og to agenter i samme pulje gjorde
+motsatt ting. Dette er regelen nå. Den har tre tilfeller, og forskjellen
+mellom dem er om Norge er *emnet* eller bare *adressen*.
+
+**Er Norge emnet — la det stå.** Askeladden er norsk folketro. Avholds-
+bevegelsen stod sterkest i Norge. Stavkirker står i Norge. Å skrive «dansk
+folketro» om Askeladden er ikke lokalisering, det er en usann påstand.
+
+**Er påstanden sann for hele Norden — generaliser.** Svensk løste `strand.md`
+slik: «Norden är ett kustfolk». Det er sant for Danmark og Norge og Sverige,
+og ingen leser snubler i det.
+
+**Er den adressert til leseren og sann for Danmark — lokaliser.** «I Norge er
+regn en stor del av hverdagen» blir «I Danmark». Og når kilden navngir norske
+folkedanser i en setning om *leserens* kultur, skal dansk navngi danske —
+svensk gjorde nettopp det og skrev polska, långdans, ringdans.
+
+Prøven er enkel: ville en dansk leser stusse over å bli fortalt dette om seg
+selv? `bjerg.md` beholder «I Norge», fordi danskere ikke har fjell i
+hverdagslandskapet. Å lokalisere den ville gjort setningen usann.
+
 ## Tone og innhold
 
 - Varm, respektfull, nysgjerrig. Ikke akademisk, ikke mystisk.

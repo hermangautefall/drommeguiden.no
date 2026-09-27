@@ -19,7 +19,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om drage?
 
-Fra Fåfne som vokter gullet i norrøne sagn til den kinesiske lykkedraken som leder an i nyttårsopptoget — drager har dukket opp i mytologier over hele verden og bærer med seg en enorm symbolsk tyngde. Vil du lære mer om hvorfor vi drømmer? Les vår guide om [hva drømmer egentlig er](/guider/hva-er-drommer/). Å drømme om en drage er sjelden en hverdagslig drøm. Den fanger oppmerksomheten og setter seg fast.
+Fra Fåfne som vokter gullet i norrøne sagn til den kinesiske lykkedraken som leder an i nyttårsopptoget — drager har dukket opp i mytologier over hele verden og bærer med seg en enorm symbolsk tyngde. Å drømme om en drage er sjelden en hverdagslig drøm. Den fanger oppmerksomheten og setter seg fast.
 
 Tolkningene varierer mye avhengig av hva som skjedde i drømmen og hvilken følelse dragen vekket i deg.
 
