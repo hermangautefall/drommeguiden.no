@@ -9,7 +9,7 @@ kortbeskrivelse: "Ungefär en av tre svenskar kämpar med sömnen. Här är vad 
 leseminutter: 10
 dato: 2026-03-18
 oppdatert: 2026-06-01
-bilde: /bilder/sovn/somnproblem.jpg
+bilde: /bilder/sovn/sovnproblemer.jpg
 relaterte_sovn:
   - somnhygien
   - angest-somn

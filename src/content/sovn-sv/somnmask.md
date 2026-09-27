@@ -7,7 +7,7 @@ seksjon: sovn
 kategori: produkter
 kortbeskrivelse: "Mörker är en av sömnens viktigaste förutsättningar. Här är vad som gör sömnmasker och mörkläggningsgardiner effektiva, och vad du bör leta efter när du väljer."
 leseminutter: 6
-bilde: /bilder/sovn/somnmask.jpg
+bilde: /bilder/sovn/sovnmaske.jpg
 dato: 2026-03-18
 oppdatert: 2026-06-01
 relaterte_sovn:

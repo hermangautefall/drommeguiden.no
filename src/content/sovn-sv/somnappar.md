@@ -7,7 +7,7 @@ seksjon: sovn
 kategori: produkter
 kortbeskrivelse: "Sömnappar som Sleep Cycle, Oura Ring och Apple Watch lovar insikt i din sömnkvalitet. Här är vad de faktiskt mäter, vad de inte kan, och vem de passar för."
 leseminutter: 8
-bilde: /bilder/sovn/somnappar.jpg
+bilde: /bilder/sovn/sovnapper.jpg
 dato: 2026-03-18
 oppdatert: 2026-06-01
 relaterte_sovn:

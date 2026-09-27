@@ -5,7 +5,7 @@ nb_slug: hva-er-sovn
 en_slug: what-is-sleep
 seksjon: sovn
 kategori: vitenskap
-kortbeskrivelse: "Sömn är inte passiv vila — det är en av kroppens mest aktiva processer. Här är vad forskningen vet om vad sömn egentligen är och varför vi inte kan leva utan den."
+kortbeskrivelse: "Sömn är inte passiv vila — det är en av kroppens mest aktiva processer. Här är vad forskningen vet om vad sömn är och varför vi behöver den."
 leseminutter: 9
 dato: 2026-03-22
 oppdatert: 2026-08-24

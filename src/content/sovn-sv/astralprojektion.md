@@ -5,7 +5,7 @@ nb_slug: astralprosjeksjon
 en_slug: astral-projection
 seksjon: sovn
 kategori: psykologi
-kortbeskrivelse: "Astralprojektion och out-of-body experiences upplevs som extraordinärt verkliga. Här är vad neurovetenskapen och sömnforskningen säger om vad som faktiskt händer."
+kortbeskrivelse: "Astralprojektion och out-of-body experiences upplevs som extraordinärt verkliga. Här är vad neurovetenskapen säger om vad som faktiskt sker."
 leseminutter: 8
 bilde: /bilder/sovn/astralprosjeksjon.jpg
 dato: 2026-03-18

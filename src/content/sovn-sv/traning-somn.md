@@ -7,7 +7,7 @@ seksjon: sovn
 kategori: hygiene
 kortbeskrivelse: "Träning är ett av de bästa sömnmedlen som finns — men timing och intensitet avgör om det hjälper eller skadar din sömn. Här är vad forskning säger."
 leseminutter: 7
-bilde: /bilder/sovn/traning-somn.jpg
+bilde: /bilder/sovn/trening-sovn.jpg
 dato: 2026-03-18
 oppdatert: 2026-06-01
 relaterte_sovn:

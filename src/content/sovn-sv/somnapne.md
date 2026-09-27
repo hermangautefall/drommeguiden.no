@@ -7,7 +7,7 @@ seksjon: sovn
 kategori: lidelser
 kortbeskrivelse: "Sömnapné är en av de vanligaste och mest underskattade sömnstörningarna. Här är symtomen du bör känna till, vad som orsakar det, och vad behandlingen innebär."
 leseminutter: 9
-bilde: /bilder/sovn/somnapne.jpg
+bilde: /bilder/sovn/sovnapne.jpg
 dato: 2026-03-18
 oppdatert: 2026-06-01
 relaterte_sovn:

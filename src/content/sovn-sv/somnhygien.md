@@ -9,7 +9,7 @@ kortbeskrivelse: "Sömnhygien är samlingen av vanor och miljöfaktorer som påv
 leseminutter: 10
 dato: 2026-03-18
 oppdatert: 2026-06-01
-bilde: /bilder/sovn/somnhygien.jpg
+bilde: /bilder/sovn/sovnhygiene.jpg
 relaterte_sovn:
   - somnproblem
   - sovrum-somn

@@ -7,7 +7,7 @@ seksjon: sovn
 kategori: produkter
 kortbeskrivelse: "Tyngdtäcke har blivit populärt som sömnhjälpmedel — men vad säger forskning, vem hjälper det faktiskt, och vad bör du leta efter när du väljer?"
 leseminutter: 8
-bilde: /bilder/sovn/tyngdtacke.jpg
+bilde: /bilder/sovn/vektet-teppe.jpg
 dato: 2026-03-18
 oppdatert: 2026-06-01
 relaterte_sovn:

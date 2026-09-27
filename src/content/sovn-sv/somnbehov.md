@@ -7,7 +7,7 @@ seksjon: sovn
 kategori: vitenskap
 kortbeskrivelse: "Åtta timmar är genomsnittet — men sömnbehovet varierar betydligt mellan människor. Här är vad forskning säger om sömnbehov, och hur du hittar ditt eget."
 leseminutter: 7
-bilde: /bilder/sovn/somnbehov.jpg
+bilde: /bilder/sovn/sovnbehov.jpg
 dato: 2026-03-18
 oppdatert: 2026-06-01
 relaterte_sovn:

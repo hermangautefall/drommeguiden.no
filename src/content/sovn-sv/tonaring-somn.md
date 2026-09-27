@@ -7,7 +7,7 @@ seksjon: sovn
 kategori: livsfaser
 kortbeskrivelse: "Tonåringar sover inte sent av lathet — biologin tvingar dem till det. Här är vad som händer med sömnen i tonåren, och vad som faktiskt kan hjälpa."
 leseminutter: 8
-bilde: /bilder/sovn/tonaring-somn.jpg
+bilde: /bilder/sovn/tenaring-sovn.jpg
 dato: 2026-03-18
 oppdatert: 2026-06-01
 relaterte_sovn:

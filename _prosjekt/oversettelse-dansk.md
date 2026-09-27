@@ -190,6 +190,20 @@ Prøven er enkel: ville en dansk leser stusse over å bli fortalt dette om seg
 selv? `bjerg.md` beholder «I Norge», fordi danskere ikke har fjell i
 hverdagslandskapet. Å lokalisere den ville gjort setningen usann.
 
+**Og når avsnittet er begge deler samtidig — generaliser.** Dette er tilfellet
+som er lett å ta feil av, og en agent gjorde det: `vej.md` åpnet med «I norsk
+kulturell sammenheng er ferden dypt forankret» og avsluttet med «Å drømme om
+vei berører noe av *denne* arven». Rammen er norsk, konklusjonen er adressert
+til leseren — og dansken blir fortalt at hen berører en arv hen nettopp fikk
+vite at nordmenn har.
+
+Agenten siterte `bjerg.md` som presedens, men de to er ikke like: `bjerg.md`
+omtaler nordmenn i tredjeperson hele veien og henger sammen. Kjennetegnet er
+ordet «denne». Peker en avsluttende setning tilbake på en ramme leseren ikke
+er en del av, må rammen utvides. «I nordisk kulturell sammenheng» løser det,
+og da må det som ikke er sant for Danmark ut av oppregningen — «til fjells»
+røk, «langs kysten» ble stående.
+
 ## Tone og innhold
 
 - Varm, respektfull, nysgjerrig. Ikke akademisk, ikke mystisk.

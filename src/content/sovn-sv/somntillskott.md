@@ -7,7 +7,7 @@ seksjon: sovn
 kategori: produkter
 kortbeskrivelse: "Magnesium, L-tean, valeriana, ashwagandha — hyllan med sömntillskott är överväldigande. Här är vad forskning faktiskt säger om vilka som fungerar."
 leseminutter: 9
-bilde: /bilder/sovn/somntillskott.jpg
+bilde: /bilder/sovn/sovntilskudd.jpg
 dato: 2026-03-18
 oppdatert: 2026-06-01
 relaterte_sovn:

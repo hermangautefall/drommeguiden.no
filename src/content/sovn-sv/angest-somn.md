@@ -5,7 +5,7 @@ nb_slug: angst-sovn
 en_slug: anxiety-and-sleep
 seksjon: sovn
 kategori: psykologi
-kortbeskrivelse: "Ångest och sömnproblem förstärker varandra i en självförstärkande spiral. Här är mekanismerna bakom, och vad forskningen säger faktiskt fungerar för att bryta cirkeln."
+kortbeskrivelse: "Ångest och sömnproblem förstärker varandra i en självförstärkande spiral. Här är mekanismerna bakom, och vad forskningen säger bryter cirkeln."
 leseminutter: 9
 bilde: /bilder/sovn/angst-sovn.jpg
 dato: 2026-03-18

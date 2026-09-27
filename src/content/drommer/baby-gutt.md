@@ -41,11 +41,11 @@ Et jentebarn kan peke på at det nye som er på vei krever omsorg, intuisjon og 
 
 ### Viktig: dette gjelder uavhengig av drømmerens kjønn
 
-Menn som drømmer om en babyjente er ikke i kontakt med "det feminine" som noe fremmed — de er i kontakt med sin anima, den feminine siden av sin egen psyke. Kvinner som drømmer om en babygut er i kontakt med sin animus.
+Menn som drømmer om en babyjente er ikke i kontakt med "det feminine" som noe fremmed — de er i kontakt med sin anima, den feminine siden av sin egen psyke. Kvinner som drømmer om en babygutt er i kontakt med sin animus.
 
 Begge er like verdifulle og like meningsfulle.
 
-## Det nye som krever noe av deg av baby generelt
+## Det nye som krever noe av deg
 
 ### Et nytt prosjekt, en ny fase, en ny side av deg selv
 
@@ -59,7 +59,7 @@ En baby krever total omsorg. Drømmens baby speiler gjerne noe i livet ditt som 
 
 For dem som er gravide, prøver å bli gravide, eller er nylige foreldre: babydrømmene er en direkte bearbeiding av den største livsendringen de fleste gjennomgår. Kjønnet kan da speile ønsker, forventninger eller bekymringer knyttet til det konkrete barnet.
 
-## Guttebarnets alder og tilstand
+## Babyens alder og tilstand
 
 **Hvis babyen var frisk og lykkelig:**
 Det nye som er på vei har godt potensial. Noe utvikler seg vel.
