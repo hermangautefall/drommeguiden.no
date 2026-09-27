@@ -62,7 +62,7 @@ Ein Schlüssel im Traum kann als Zugang, Kontrolle oder Lösung für etwas gedeu
 
 Schlüssel zu halten kann im Traum mit Verantwortung und Eigentum zu tun haben, während dir Schlüssel gegeben zu werden oft als Vertrauen gedeutet wird, oder als eine neue Rolle, die in dein Leben tritt. Es kann sich auch lohnen zu bemerken, zu welchen Türen die Schlüssel passen — und zu welchen nicht.
 
-Kulturell stehen Schlüssel seit langem als Symbol für Autorität und Freiheit, vom Schlüssel zur Stadt, der geehrten Gästen überreicht wird, bis zum Bild des Schlüssels des Kerkermeisters, der jemanden zugleich einsperren und befreien kann. In der Märchentradition ist der verbotene Schlüssel ein vertrautes Motiv — Blaubart, Aschenputtel — und er markiert immer eine Grenze zwischen dem, was erlaubt ist, und dem, was nicht erlaubt ist. Von einem Schlüssel zu träumen, bei dem du dir nicht sicher bist, ob du ihn benutzen sollst, kann genau von dieser Art Grenze in deinem eigenen Leben handeln.
+Kulturell stehen Schlüssel seit langem als Symbol für Autorität und Freiheit, vom Schlüssel zur Stadt, der geehrten Gästen überreicht wird, bis zum Bild des Schlüssels des Kerkermeisters, der jemanden zugleich einsperren und befreien kann. In der Märchentradition ist der verbotene Schlüssel ein vertrautes Motiv — Blaubart — und er markiert immer eine Grenze zwischen dem, was erlaubt ist, und dem, was nicht erlaubt ist. Von einem Schlüssel zu träumen, bei dem du dir nicht sicher bist, ob du ihn benutzen sollst, kann genau von dieser Art Grenze in deinem eigenen Leben handeln.
 
 ## Quellen und weiterführende Literatur
 

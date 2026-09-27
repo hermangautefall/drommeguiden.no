@@ -45,7 +45,6 @@ HARD = [
     (r'\bfortell',                'fortelle → fortælle'),
     (r'\bviktig',                 'viktig → vigtig'),
     (r'\bmåte\b',                 'måte → måde'),
-    (r'\bgate\b',                 'gate → gade'),
     (r'\bbok\b',                  'bok → bog'),
     (r'\bsitt(e|er)\b',           'sitte/sitter → sidde/sidder'),
     (r'\btenner\b',               'tenner → tænder'),
@@ -70,6 +69,11 @@ HARD = [
 ]
 
 MYK = [
+    # «gate» var HARD til en agent skrev om lufthavnen: «pas, gate, tid, koe».
+    # Norsk «gate» er gade, men dansk har laant det engelske «gate» for
+    # boarding gate, og det er det ordet en danske bruker der. Samme felle
+    # som «gjorde», «kjole» og «naa»: regelen traff et korrekt dansk ord.
+    (r'\bgate\b',     'norsk gate=gade? eller lufthavnens «gate», som er ekte dansk'),
     (r'\bnå\b',        'norsk «nå»=nu? dansk «nå»=naa frem til — sjekk betydningen'),
     (r'\bmot\b',       'mot → mod (med mindre det er substantivet «mod»)'),
     (r'\but\b',        'ut → ud'),

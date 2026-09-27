@@ -153,8 +153,14 @@ verden`), skal den bli stående som overskrift nummer to, oversatt. Skriv da to�
 setninger som innledning under malen. Slik beholder vi både søkefrasen og
 kildens redaksjonelle overskrift.
 
-Eneste unntak: starter artikkelen rett på en annen H2 uten innledningsprosa,
-la den stå — to overskrifter på rad er verre enn en manglende.
+Dette gjelder også når kilden starter rett på en annen H2 uten
+innledningsprosa. Her sto det tidligere et unntak — «la den stå, to
+overskrifter på rad er verre enn en manglende» — og det var feil. To agenter
+oppdaget det uavhengig av hverandre på samme dag: av 33 norske kilder med
+akkurat det mønsteret hadde alle 32 som var oversatt fra før likevel lagt til
+mal-overskriften, og `sjekk-dansk.py` avviser filen hvis du lar være. Unntaket
+beskrev en praksis som aldri har eksistert. Legg til mal-overskriften og skriv
+to–tre setninger under den, som ellers.
 
 En håndfull tidlige filer bytter ut i stedet for å legge til. Begge former leser
 godt, så de er ikke rettet — men nye artikler skal legge til.

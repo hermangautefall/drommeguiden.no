@@ -51,7 +51,7 @@ Reddet du et barn, trenger din indre barneside oppmerksomhet — sårbarhet, lek
 
 Helten som redder den svake er ett av mytologiens mest universelle motiver — fra Heracles som befrir Promethevs til Sigurd som vekker Brynhild fra sin trollsøvn. I alle disse narrativene er redningshandlingen ikke bare ekstern — den er transformerende for helten selv.
 
-I norsk folkemedisin og eventyrtradisjon er Askeladden prototypen: han hjelper de han møter på veien, og hjelpen han gir, bringer ham til slutt til suksess. Det som reddes, redder til gjengjeld den som reddet. Drømmens redning bærer dette mønsteret: det du hjelper frem, hjelper deg tilbake.
+I norsk folketro og eventyrtradisjon er Askeladden prototypen: han hjelper de han møter på veien, og hjelpen han gir, bringer ham til slutt til suksess. Det som reddes, redder til gjengjeld den som reddet. Drømmens redning bærer dette mønsteret: det du hjelper frem, hjelper deg tilbake.
 
 ## Kilder og videre lesning
 

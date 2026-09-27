@@ -73,7 +73,7 @@ Den primitiva sidan av dig själv har tagit över — kanske nödvändigt i en p
 
 Trollet är i nordisk och skandinavisk tradition den arketypiska andre — det som inte är mänskligt, inte är kristet, inte är civiliserat. Det bor i berg (Dovre, Jotunheimen), i skog, i och under broar. Det är territoriellt, det är gammalt, och det följer sina egna lagar.
 
-I nordisk sagovärld är trollet alltid prövningen. Askungen vinner inte genom att stärka sig — han vinner genom klokhet, genom list, genom att hålla huvudet kallt och se trollets svagheter. Konfrontationen är oundviklig; det är sättet den genomförs på som avgör.
+I nordisk sagovärld är trollet alltid prövningen. Askeladden vinner inte genom att stärka sig — han vinner genom klokhet, genom list, genom att hålla huvudet kallt och se trollets svagheter. Konfrontationen är oundviklig; det är sättet den genomförs på som avgör.
 
 Carl Jung beskrev det han kallade Skuggan — de aspekter av psyket vi inte kännas vid — som en av de viktigaste och mest brådskande arketyperna att integrera. Det man undertrycker växer. Det man aldrig ser i ansiktet styr en bakifrån. Trollet i nordisk folklora är Skuggan i sin mest konkreta, kulturellt förankrade form. Det är inte tillfälligt att trollet spricker i ljuset — eftersom det är exakt vad som händer med Skuggan när den erkänns.
 

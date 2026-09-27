@@ -62,7 +62,7 @@ A key in a dream can be read as access, control, or a solution to something that
 
 Holding keys in a dream can be about responsibility and ownership, while being given keys is often read as trust, or a new role coming into your life. It can also be worth noticing which doors the keys fit — and which they don't.
 
-Culturally, keys have long stood as a symbol of authority and freedom, from the key to the city handed to honoured guests, to the image of the jailer's key that can both lock someone in and set them free. In fairy-tale tradition, the forbidden key is a familiar motif — Bluebeard, Cinderella — and it always marks a line between what's allowed and what isn't. Dreaming about a key you're not sure whether to use can be about exactly that kind of boundary in your own life.
+Culturally, keys have long stood as a symbol of authority and freedom, from the key to the city handed to honoured guests, to the image of the jailer's key that can both lock someone in and set them free. In fairy-tale tradition, the forbidden key is a familiar motif — Bluebeard — and it always marks a line between what's allowed and what isn't. Dreaming about a key you're not sure whether to use can be about exactly that kind of boundary in your own life.
 
 ## Sources and further reading
 
