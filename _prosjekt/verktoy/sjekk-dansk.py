@@ -112,7 +112,12 @@ for f in filer:
     forste = re.match(r'## (.+)', kropp)
     if not forste:
         feil['starter ikke med en H2'].append(n)
-    elif not forste.group(1).startswith('Hvad betyder det at drømme om'):
+    # Sjekken krevde én bestemt ordlyd, men kilden har selv varianter:
+    # «Hva betyr det at en mann drømmer om å være gravid?» er soekefrasen like
+    # fullt. Naa kreves bare at foerste H2 ER et «Hvad betyder det»-spoersmaal,
+    # ikke at den treffer én streng.
+    elif not (forste.group(1).startswith('Hvad betyder det')
+              and forste.group(1).rstrip().endswith('?')):
         feil['foerste H2 er ikke soekefrasen'].append(f"{n}: {forste.group(1)[:44]}")
 
 # Aa peke paa en slug som er planlagt men ikke skrevet ennaa er ikke en feil:

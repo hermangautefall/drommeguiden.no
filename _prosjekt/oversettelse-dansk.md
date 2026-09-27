@@ -141,7 +141,13 @@ en ordrett søkefrase, og dansk skal ligne søsterspråkene, ikke kilden.
 Frasen er den naturlige danske formen: `hund`, `slanger`, `at miste tænder`,
 `en afdød person`, `at dræbe nogen`.
 
-**Legg den til — ikke bytt ut kildens egen første overskrift.** Har den norske
+**Er kildens egen første overskrift allerede søkefrasen — bare formulert
+annerledes — så oversett den direkte og legg ikke til noe.** «Hva betyr det at
+en mann drømmer om å være gravid?» *er* søkefrasen, selv om ordlyden avviker fra
+malen. Legger du malen over den, får du to nesten like overskrifter etter
+hverandre, som er nettopp det vi prøver å unngå.
+
+**Ellers: legg den til — ikke bytt ut kildens egen første overskrift.** Har den norske
 artikkelen en egen, særegen åpningsoverskrift (`## Det du bærer synlig for hele
 verden`), skal den bli stående som overskrift nummer to, oversatt. Skriv da to–tre
 setninger som innledning under malen. Slik beholder vi både søkefrasen og
@@ -181,6 +187,19 @@ python3 _prosjekt/verktoy/norvagismer.py src/content/drommer-da/<dine-filer>.md
 
 Den skal svare `HARD 0`. Gjør den ikke det, er teksten ikke ferdig oversatt.
 Rett og kjør på nytt. Myke treff leses, men er ikke nødvendigvis feil.
+
+**Er kontrakten uenig med de ferdige eksemplene, følg eksemplene og si fra.**
+Det skjedde to ganger i den tyske runden — først om et forfatternavn, så om
+rekkefølgen på frontmatter-feltene — og begge ganger hadde korpuset rett og
+kontrakten feil. Du skal ikke bruke tid på å gjette hvilken som gjelder: følg
+det som faktisk står i de godkjente filene, og skriv i rapporten hva som spriker.
+
+**Oppdager du en feil, dublett eller uklarhet i den norske kilden — oversett
+trofast og flagg det.** Ikke rett det stille. Regelen har allerede avdekket
+ekte feil i kildematerialet: en løve kalt «dyrekongenes dronning», en setning
+som sto ordrett to steder i samme artikkel, og en H2 med en nesten identisk H3
+rett under. En oversetter skal ikke gjette på om kilden mener noe annet enn den
+sier — men når feilen først er sett, hører den hjemme i originalen også.
 
 **Hvis skannet flagger noe du mener er korrekt dansk — ikke skriv om teksten
 for å blidgjøre det.** Skriv det i rapporten i stedet, så retter jeg regelen.
