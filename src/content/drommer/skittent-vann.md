@@ -88,6 +88,6 @@ der vannets form og din avstand til det er temaet. Den skiller seg også fra å
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant for at drømmen melder seg i perioder uten
   oversikt.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data, relevant fordi de viser hvor stor plass vann tar blant drømmenes
   omgivelser.

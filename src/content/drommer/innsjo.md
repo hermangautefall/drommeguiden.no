@@ -83,7 +83,7 @@ er en del av hvorfor den føles så rolig.
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om vann som bilde på det
   ubevisste, relevant for hvorfor en stille overflate over dypt vann leses som den
   gjør.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data, relevant fordi de viser hvor stor plass naturomgivelser tar blant
   drømmenes scener.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —

@@ -126,6 +126,6 @@ har undervejs.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, om hvordan følelsen af kontrol eller retning i en
   bildrøm ofte hænger sammen med reelle situationer i det vågne liv.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams*
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams*
   (1966) — normative data der viser hvor almindelige køretøjer og
   transportscener er i moderne drømmemateriale.

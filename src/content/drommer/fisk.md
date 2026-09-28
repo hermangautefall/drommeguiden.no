@@ -83,7 +83,7 @@ sådan — det som lever under overflaten — som bærer betydningen.
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om fisken som arketypisk
   bilde på innhold fra det ubevisste, og om vann som dets element.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data på hvilke dyr som faktisk opptrer i drømmer.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant for at fisk er vanligere i drømmene til folk som

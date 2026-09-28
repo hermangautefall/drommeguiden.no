@@ -91,6 +91,6 @@ verdt å ta det som en anledning til å tenke over hva som faktisk er usagt.
   drømmen sitter så lenge etter oppvåkning.
 - Matthew Walker, *Why We Sleep* (2017) — om REM-søvnen og muskellammelsen som
   også omfatter stemmen.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data, relevant fordi de viser hvor stor plass mislykkede handlinger
   tar i vanlige drømmer.

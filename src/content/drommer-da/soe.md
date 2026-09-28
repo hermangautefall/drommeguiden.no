@@ -64,5 +64,5 @@ Drømmen adskiller sig fra fjorden, der har havets vand i et indelukket landskab
 ## Kilder og videre læsning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om vand som billede på det ubevidste, relevant for hvorfor en stille overflade over dybt vand læses, som den gør.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads naturomgivelser fylder blandt drømmenes scener.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads naturomgivelser fylder blandt drømmenes scener.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, relevant for at drømmen melder sig i perioder, der selv er rolige.

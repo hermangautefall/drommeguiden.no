@@ -64,5 +64,5 @@ Sker det, er det værd at notere, hvad der ændrer sig mellem gangene. Et rum, d
 ## Kilder og videre læsning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om huset som arketypisk billede på psyken, som er selve forudsætningen for, at et ukendt rum kan læses som noget uudforsket.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor dominerende indendørs omgivelser er i drømme overhovedet.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor dominerende indendørs omgivelser er i drømme overhovedet.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, relevant for hvorfor det er dit eget hjem og ikke en tilfældig bygning, der huser rummet.

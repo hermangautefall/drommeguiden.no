@@ -64,7 +64,7 @@ særtilfælde.
 
 - Stephen LaBerge, *Lucid Dreaming* (1985) — om klardrømme, hvor flyvning er et af de
   hyppigst rapporterede motiver.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data på hvor udbredt motivet er.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen,
   relevant for at drømmen melder sig når noget er lettet.

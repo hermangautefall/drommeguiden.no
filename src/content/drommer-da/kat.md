@@ -65,7 +65,7 @@ Sorg over et dyr er rigtig sorg. Drømmen behandler den sådan.
 
 ## Kilder og videre læsning
 
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data på hvilke dyr der optræder i drømme.
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om dyr som arketypiske
   billeder, relevant for kattens rolle som det selvstændige.

@@ -65,4 +65,4 @@ Drømmen adskiller sig fra at svømme, som foregår på overfladen og handler om
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om nedstigning i vand som billede på at undersøge det ubevidste, hvilket er selve forudsætningen for denne drøms tolkning.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, relevant for at drømmen melder sig hos folk, der allerede er i en undersøgende fase.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor sjældne frivillige handlinger er sammenlignet med det, der sker med drømmeren.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor sjældne frivillige handlinger er sammenlignet med det, der sker med drømmeren.

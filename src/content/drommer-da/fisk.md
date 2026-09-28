@@ -64,5 +64,5 @@ Drømmen ligger tæt på artikler om enkeltarter som laks og guldfisk, men adski
 ## Kilder og videre læsning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om fisken som arketypisk billede på indhold fra det ubevidste, og om vand som dens element.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data om, hvilke dyr der faktisk optræder i drømme.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data om, hvilke dyr der faktisk optræder i drømme.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, relevant for at fisk er mere almindelig i drømmene hos folk, der har et forhold til hav og fiskeri.

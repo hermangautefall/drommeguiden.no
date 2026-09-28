@@ -81,7 +81,7 @@ som sådan — det som lever under ytan — som bär betydelsen.
 
 - Carl Gustav Jung, *Människan och hennes symboler* (1964) — om fisken som arketypisk
   bild för innehåll från det omedvetna, och om vatten som dess element.
-- Calvin Hall och Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normativa data på vilka djur som faktiskt uppträder i drömmar.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant för att fisk är vanligare i drömmarna hos folk som har

@@ -85,7 +85,7 @@ rummet gjorde första natten.
 - Carl Gustav Jung, *Människan och hennes symboler* (1964) — om huset som
   arketypisk bild för psyket, som är själva förutsättningen för att ett okänt rum
   kan läsas som något outforskat.
-- Calvin Hall och Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normativa data, relevant eftersom de visar hur dominerande inomhusmiljöer är i
   drömmar över huvud taget.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —

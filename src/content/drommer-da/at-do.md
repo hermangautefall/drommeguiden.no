@@ -69,5 +69,5 @@ begynde, og Livslinien kan kontaktes på 70 201 201 hele døgnet.
   arketypiske billeder på forandring.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen,
   relevant for at drømmen melder sig i overgangsperioder.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data, relevant for hvor udbredt motivet er.

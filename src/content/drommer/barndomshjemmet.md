@@ -90,7 +90,7 @@ virkelig og presist. Det er ikke et hvilket som helst hjem. Det er ditt.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant for at barndomshjemmet melder seg i perioder
   der spørsmål om tilhørighet er aktuelle igjen.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data, relevant fordi de viser hvor stor plass kjente hjem har blant
   drømmenes omgivelser.
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om huset som bilde på

@@ -75,7 +75,7 @@ findes uden for sindet.
 - Artemidoros fra Daldis, *Oneirocritica* (ca. 150–200 e.Kr.) — den ældste
   bevarede systematiske behandling af tanddrømme, relevant som kulturhistorie og
   ikke som dokumentation.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data, relevant fordi de viser hvor udbredt motivet faktisk er.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant for at drømmen melder sig i perioder hvor noget

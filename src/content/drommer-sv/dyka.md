@@ -84,6 +84,6 @@ om att navigera. Här går du nedåt, och riktningen är poängen.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant för att drömmen anmäler sig hos folk som redan är i
   ett undersökande skede.
-- Calvin Hall och Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normativa data, relevant eftersom de visar hur ovanliga frivilliga handlingar är
   jämfört med det som händer drömmaren.

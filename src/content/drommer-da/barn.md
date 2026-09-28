@@ -97,5 +97,5 @@ en ny form.
   nye, det sårbare og det der endnu ikke er færdigudviklet i os.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitets-
   hypotesen, og hvorfor forældre drømmer om børn oftere end andre.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   hvor ofte børn optræder i drømme, og i hvilke roller.

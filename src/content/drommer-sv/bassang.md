@@ -87,5 +87,5 @@ som bär betydelsen.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant för att kända platser från det egna livet
   dominerar drömmarnas miljöer.
-- Calvin Hall och Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normativa data på hur ofta andra människor är närvarande i drömmar.

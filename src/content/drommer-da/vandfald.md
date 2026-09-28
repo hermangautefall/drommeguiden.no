@@ -65,4 +65,4 @@ Drømmen ligger tæt på, men adskiller sig fra at drømme om en flod, hvor det 
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om vand som billede på det ubevidste, relevant for hvorfor et fald i vand læses som noget uomstødeligt.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, relevant for at drømmen melder sig, når noget tilbageholdt er ved at give efter.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads naturomgivelser fylder i drømme.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads naturomgivelser fylder i drømme.

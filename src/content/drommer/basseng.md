@@ -85,5 +85,5 @@ der bevegelsen er temaet. Her er det rammen rundt vannet som bærer betydningen.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant for at kjente steder fra eget liv dominerer
   drømmenes omgivelser.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data på hvor ofte andre mennesker er til stede i drømmer.

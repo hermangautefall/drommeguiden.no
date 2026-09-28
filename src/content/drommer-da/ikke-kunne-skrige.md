@@ -68,4 +68,4 @@ Kommer den ofte, og altid med det samme ansigt på den anden side, er det værd 
 
 - Ernest Hartmann, *The Nature and Functions of Dreaming* (2011) — om mareridt og følelsesmæssig bearbejdning, relevant for hvorfor hjælpeløsheden i denne drøm sidder så længe efter opvågningen.
 - Matthew Walker, *Why We Sleep* (2017) — om REM-søvnen og muskellammelsen, der også omfatter stemmen.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads mislykkede handlinger fylder i almindelige drømme.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads mislykkede handlinger fylder i almindelige drømme.

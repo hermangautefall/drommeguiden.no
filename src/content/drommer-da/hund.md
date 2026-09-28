@@ -64,7 +64,7 @@ hverken mærkeligt eller overdrevet.
 
 ## Kilder og videre læsning
 
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data på hvilke dyr der faktisk optræder i drømme, hvor hunden ligger højt.
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om dyr som arketypiske
   billeder, relevant for hundens rolle som følgesvend.

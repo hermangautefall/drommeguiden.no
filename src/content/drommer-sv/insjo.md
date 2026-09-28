@@ -83,7 +83,7 @@ en del av varför den känns så lugn.
 - Carl Gustav Jung, *Människan och hennes symboler* (1964) — om vatten som bild för
   det omedvetna, relevant för varför en stilla yta över djupt vatten läses som den
   gör.
-- Calvin Hall och Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normativa data, relevant eftersom de visar hur stor plats naturmiljöer tar bland
   drömmarnas scener.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —

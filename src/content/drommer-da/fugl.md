@@ -117,5 +117,5 @@ en ravn ofte bærer noget mere mystisk og tankefuldt med sig. Se også
   som en af antikkens mest udbredte former for varsling.
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — fuglen som
   billede på sjælen i bevægelse og på det der løfter sig over situationen.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams*
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams*
   (1966) — normative data om hvor ofte dyr og fugle optræder i drømme.

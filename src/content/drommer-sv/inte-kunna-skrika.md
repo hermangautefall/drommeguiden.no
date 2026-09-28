@@ -92,6 +92,6 @@ det som ett tillfälle att fundera över vad som faktiskt är osagt.
   drömmen sitter så länge efter uppvaknandet.
 - Matthew Walker, *Why We Sleep* (2017) — om REM-sömnen och den muskelförlamning
   som också omfattar rösten.
-- Calvin Hall och Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normativa data, relevant eftersom de visar hur stor plats misslyckade
   handlingar tar i vanliga drömmar.

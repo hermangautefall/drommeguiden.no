@@ -70,5 +70,5 @@ end om drømmen.
   arketypiske billeder på individuation.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen,
   relevant for at drømmen melder sig når noget er undervejs i vågen tilstand.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data, relevant fordi de viser at motivet ikke er forbeholdt gravide.

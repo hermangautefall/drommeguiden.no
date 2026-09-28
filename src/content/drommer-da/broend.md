@@ -64,5 +64,5 @@ Drømmen ligger tæt på kælderen: begge er nedadgående rum knyttet til et hus
 ## Kilder og videre læsning
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om nedadgående rum som billede på det ubevidste, relevant for brøndens form og hvad den gør ved tolkningen.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor dominerende kendte bygninger og grunde er i drømmenes omgivelser.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor dominerende kendte bygninger og grunde er i drømmenes omgivelser.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, relevant for at brønden gerne hører til et sted, drømmeren faktisk har været.

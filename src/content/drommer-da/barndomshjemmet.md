@@ -66,5 +66,5 @@ Drømmen ligger tæt på beslægtede drømme om hus generelt og om at være barn
 ## Kilder og videre læsning
 
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, relevant for at barndomshjemmet melder sig i perioder, hvor spørgsmål om tilhørsforhold er aktuelle igen.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads kendte hjem har blandt drømmenes omgivelser.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads kendte hjem har blandt drømmenes omgivelser.
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om huset som billede på psyken, relevant for hvorfor rummene i drømmen sjældent stemmer helt med de virkelige.

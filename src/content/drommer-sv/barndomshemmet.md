@@ -88,7 +88,7 @@ platsen är verklig och precis. Det är inte vilket hem som helst. Det är ditt.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant för att barndomshemmet anmäler sig i perioder
   då frågor om tillhörighet är aktuella igen.
-- Calvin Hall och Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normativa data, relevant eftersom de visar hur stor plats kända hem tar bland
   drömmarnas miljöer.
 - Carl Gustav Jung, *Människan och hennes symboler* (1964) — om huset som bild för

@@ -84,7 +84,7 @@ något du ska använda.
 
 - Carl Gustav Jung, *Människan och hennes symboler* (1964) — om nedåtgående rum som bild
   för det omedvetna, relevant för brunnens form och vad den gör med tolkningen.
-- Calvin Hall och Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normativa data, relevant eftersom de visar hur dominerande kända byggnader och tomter
   är i drömmarnas miljöer.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —

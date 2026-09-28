@@ -86,6 +86,6 @@ där det är strömmen och riktningen som bär. Här är det fallet.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
   kontinuitetshypotesen, relevant för att drömmen anmäler sig när något återhållet
   håller på att ge efter.
-- Calvin Hall och Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normativa data, relevant eftersom de visar hur stor plats naturmiljöer tar i
   drömmar.

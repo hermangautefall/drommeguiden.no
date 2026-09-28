@@ -65,4 +65,4 @@ Drømmen ligger tæt på, men adskiller sig fra at drømme om at svømme, hvor b
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om vand som billede på det ubevidste, relevant for hvad det gør ved billedet, når vandet får kanter.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, relevant for at kendte steder fra eget liv dominerer drømmenes omgivelser.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data om, hvor ofte andre mennesker er til stede i drømme.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data om, hvor ofte andre mennesker er til stede i drømme.

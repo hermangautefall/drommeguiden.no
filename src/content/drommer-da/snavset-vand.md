@@ -65,4 +65,4 @@ Drømmen ligger tæt på, men adskiller sig fra at drømme om vand generelt, hvo
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om vand som billede på det ubevidste, relevant for hvorfor det er sigtet og ikke vandet, der bærer betydningen.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — kontinuitetshypotesen, relevant for at drømmen melder sig i perioder uden overblik.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads vand fylder blandt drømmenes omgivelser.
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) — normative data, relevant fordi de viser, hvor stor en plads vand fylder blandt drømmenes omgivelser.

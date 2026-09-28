@@ -65,5 +65,5 @@ dyret. Dræbte du den, beskrives det ofte som en lettelse der holdt sig ind i da
   relevant for hvorfor netop edderkopper aktiverer så hurtigt.
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om væveren som arketypisk
   figur, relevant for spindet som billede på noget bygget.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data på dyr i drømme.

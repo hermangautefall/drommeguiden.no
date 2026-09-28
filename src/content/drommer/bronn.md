@@ -84,7 +84,7 @@ skal bruke.
 
 - Carl Gustav Jung, *Mennesket og dets symboler* (1964) — om nedadgående rom som
   bilde på det ubevisste, relevant for brønnens form og hva den gjør med tolkningen.
-- Calvin Hall og Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
+- Calvin Hall & Robert Van de Castle, *The Content Analysis of Dreams* (1966) —
   normative data, relevant fordi de viser hvor dominerende kjente bygninger og
   tomter er i drømmenes omgivelser.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) —
