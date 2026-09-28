@@ -69,7 +69,7 @@ Noe i fortiden din har satt merker du ikke har erkjent. Psyken peker på noe du 
 
 Arr har en rik symbolikk i mange kulturer — og de fleste lesningene er positive. Samuraiens arr var tegn på kamp og ære. Skandinaviske sagahelter var ikke vakre uten sår — de ble beskrevet med arrene sine som del av sin identitet. "Han var arret fra mange kamper" var ikke et klagemål, men en hyllest.
 
-Det tyske begrepet "Narbe" (arr) er etymologisk knyttet til samme rot som "Erfahrung" (erfaring) — å ha arr er å ha erfaring. Noe lignende finnes i norsk folkelig forståelse: den som er merket av livet, er den som har levd det.
+Det tyske ordet for erfaring, *Erfahrung*, kommer av *fahren* — å fare, å reise: erfaringen er det du har reist gjennom. Å ha arr er å ha erfaring i samme forstand. Noe lignende finnes i norsk folkelig forståelse: den som er merket av livet, er den som har levd det.
 
 Jung brukte "skadet healer"-arketypen — den Sårede Heleren — som ett av de viktigste mønstrene i menneskepsyken. Det er nettopp den som bærer arr som har den dypeste kapasiteten til å hjelpe andre: fordi de vet hva det koster. Drømmens arr er noen ganger dette: psykens anerkjennelse av din dybde.
 

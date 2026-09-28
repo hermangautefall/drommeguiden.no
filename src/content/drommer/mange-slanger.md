@@ -62,7 +62,7 @@ normalt, og drømmen blir da mildere.
 Den mest urovekkende plasseringen. Sengen er stedet for hvile, og noe som
 forstyrrer nettopp der, får ekstra vekt.
 
-**Hvis de laget en knute eller et sammenfiltret kne:**
+**Hvis de laget en knute eller en sammenfiltret floke:**
 Bildet på noe uløselig. Beskrives ofte i perioder der flere saker har vokst
 sammen og ikke lenger lar seg skille.
 

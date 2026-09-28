@@ -70,7 +70,7 @@ Något i ditt förflutna har satt märken du inte har erkänt. Psyket pekar på 
 
 Ärr har en rik symbolik i många kulturer — och de flesta läsningarna är positiva. Samurajens ärr var tecken på strid och ära. Skandinaviska sagahjältar var inte vackra utan sår — de beskrevs med sina ärr som del av sin identitet. "Han var ärrad från många strider" var inte ett klagomål, utan en hyllning.
 
-Det tyska begreppet "Narbe" (ärr) är etymologiskt knutet till samma rot som "Erfahrung" (erfarenhet) — att ha ärr är att ha erfarenhet. Något liknande finns i nordisk folklig förståelse: den som är märkt av livet, är den som har levt det.
+Det tyska ordet för erfarenhet, *Erfahrung*, kommer av *fahren* — att fara, att resa: erfarenheten är det du har rest igenom. Att ha ärr är att ha erfarenhet i samma mening. Något liknande finns i nordisk folklig förståelse: den som är märkt av livet, är den som har levt det.
 
 Jung använde "sårad helare"-arketypen — den Sårade Helaren — som ett av de viktigaste mönstren i människans psyke. Det är just den som bär ärr som har den djupaste förmågan att hjälpa andra: eftersom de vet vad det kostar. Drömmens ärr är ibland detta: psykets erkännande av ditt djup.
 

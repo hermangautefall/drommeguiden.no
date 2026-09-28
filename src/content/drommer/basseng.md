@@ -50,7 +50,7 @@ om vannet i seg selv.
 
 ## Hva som skjedde i bassenget
 
-**Hvis vannet var tomt:**
+**Hvis bassenget var tomt:**
 Et tomt basseng er et av de mer urovekkende bildene i denne familien. Formen er
 der, men innholdet mangler.
 

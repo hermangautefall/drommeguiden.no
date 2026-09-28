@@ -59,7 +59,7 @@ Det er verdt å nevne: av og til er oasen i drømmene ikke det den ser ut til. E
 
 Oasen er ett av de eldste religiøse og mytologiske bildene i de store ørkenkulturer — egyptisk, hebraisk, arabisk. Paradisets hage er alltid en plass med vann, skygge og frukt midt i noe som ellers er øde. Det er ikke tilfeldig: for kulturer som lever med ørkenen, er det å finne vann det helligste av alle handlinger.
 
-I det jødisk-kristne narrative er ørkenvandrinen og oasen sentralt: Israels folk i ørkenen, Elia som kollapser og finner mat under Juniperen, Jesus i ørkenen i førti dager. Oasen er ikke bare hvile — den er Guds forsyn midt i det menneskelige umulige.
+I det jødisk-kristne narrative er ørkenvandringen og oasen sentralt: Israels folk i ørkenen, Elia som kollapser og finner mat under gyvelbusken, Jesus i ørkenen i førti dager. Oasen er ikke bare hvile — den er Guds forsyn midt i det menneskelige umulige.
 
 I psykologisk forstand er oasen et symbol på det Jung kalte den "transcenderende funksjon" — det punktet der psyken finner en ny syntese når to motpoler har brukt hverandre ut. Etter den psykiske ørkenen: oasen.
 
