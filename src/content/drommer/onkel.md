@@ -74,7 +74,7 @@ Onkelens rolle varierer dramatisk på tvers av kulturer, og dette gjør drømmen
 
 I matrilineære samfunn — som hos *Akan* i Vest-Afrika, *Mosuo* i Sør-Kina, og hos flere oprinnelige amerikanske folk som *Hopi* og *Haudenosaunee* (Irokesere) — er mors bror, *avunculus*, den viktigste mannlige figuren i barnets liv. Han har ansvar for utdanning, beskyttelse og overføring av eiendom. I disse tradisjonene er onkelen mer "far enn faren". Det legger en interessant tyngde til hvordan onkelen kan virke i drøm: ikke som perifer figur, men som primær maskulin støtte og myndighet.
 
-I kinesisk slektskap finnes flere distinkte ord for ulike onkler — *bófù* (eldre brors far), *shūfù* (yngre brors far), *jiùfù* (mors bror) — fordi hver rolle har egen sosial funksjon. Drømmens onkel kan dermed bære på spesifikke kulturelle assosiasjoner avhengig av hvilken side han kommer fra.
+I kinesisk slektskap finnes flere distinkte ord for ulike onkler — *bófù* (farens eldre bror), *shūfù* (farens yngre bror), *jiùfù* (mors bror) — fordi hver rolle har egen sosial funksjon. Drømmens onkel kan dermed bære på spesifikke kulturelle assosiasjoner avhengig av hvilken side han kommer fra.
 
 Carl Jung beskrev "den vise gamle mann" (*Senex*) som en arketype for indre veiledning. Senere arketypiske psykologer som James Hillman har pekt på at *onkelfiguren* er en mildere og mer tilgjengelig versjon av denne arketypen — Senex i hverdagsskjorte. Han kan veilede uten å dømme.
 

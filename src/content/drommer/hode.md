@@ -69,7 +69,7 @@ Nye tanker, nye ideer eller ny vekst i bevisstheten — noe er i ferd med å spi
 
 ## Hodet som sjelens sete
 
-I gresk tradisjon var hodet setet for sjelen — Aristoteles mente fornuften bodde i hodet, mens hjertet var kroppens sentrum. Descartes berømte "cogito ergo sum" — "jeg tenker, altså er jeg" — plasserer identiteten selv i tenkningen. Å drømme om hodet er å drømme om selve eksistensbevistet.
+I gresk tradisjon var hodet setet for sjelen — Aristoteles mente fornuften bodde i hodet, mens hjertet var kroppens sentrum. Descartes berømte "cogito ergo sum" — "jeg tenker, altså er jeg" — plasserer identiteten selv i tenkningen. Å drømme om hodet er å drømme om selve eksistensbevisstheten.
 
 Carl Jung mente derimot at overdreven vekt på hodet — på det rasjonelle og bevisste — var en av den moderne menneskenes store farer. Drømmer der hodet er i ubalanse med resten av kroppen kan i jungiansk forstand peke mot en psyke som trenger å komme tilbake til helheten — der kroppen, følelsene og det ubevisste inkluderes.
 

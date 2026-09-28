@@ -26,7 +26,7 @@ Skam er en av de tyngste og mest universelle menneskelige emosjoner. Den er ikke
 
 ### Selvkritikk og den indre dommerstemmen
 
-Drømmens skam er nesten alltid et bilde på selvkritikk. Den indre dommerstemmen — den som sier at du ikke er god nok, at du er for lite, for mye, for feil — kan ta mange former i drømmene. Av og til er den representert som skam: en overveldende følelse av å ikke dutte inn i kravene som stilles.
+Drømmens skam er nesten alltid et bilde på selvkritikk. Den indre dommerstemmen — den som sier at du ikke er god nok, at du er for lite, for mye, for feil — kan ta mange former i drømmene. Av og til er den representert som skam: en overveldende følelse av ikke å leve opp til kravene som stilles.
 
 Spørsmålet er: hvem er det egentlig som skammer deg? Og er den dommen rettferdig?
 

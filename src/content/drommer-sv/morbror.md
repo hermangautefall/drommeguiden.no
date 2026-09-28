@@ -75,7 +75,7 @@ Morbroderns och farbroderns roll varierar dramatiskt mellan kulturer, och det g�
 
 I matrilinjära samhällen — som hos *Akan* i Västafrika, *Mosuo* i sydvästra Kina, och hos flera ursprungsbefolkningar i Nordamerika som *Hopi* och *Haudenosaunee* (Irokeser) — är moderns bror, *avunculus*, den viktigaste manliga figuren i barnets liv. Han har ansvar för utbildning, skydd och överföring av egendom. I dessa traditioner är morbrodern mer "far än fadern". Det ger en intressant tyngd åt hur morbrodern kan verka i drömmen: inte som perifer figur, utan som primärt maskulint stöd och myndighet.
 
-I kinesisk släktskap finns flera distinkta ord för olika farbröder — *bófù* (äldre brors fader), *shūfù* (yngre brors fader), *jiùfù* (moders bror) — eftersom varje roll har en egen social funktion. Drömmens morbror kan därmed bära på specifika kulturella associationer beroende på vilken sida han kommer från.
+I kinesisk släktskap finns flera distinkta ord för olika farbröder — *bófù* (faderns äldre bror), *shūfù* (faderns yngre bror), *jiùfù* (moders bror) — eftersom varje roll har en egen social funktion. Drömmens morbror kan därmed bära på specifika kulturella associationer beroende på vilken sida han kommer från.
 
 Carl Jung beskrev "den vise gamle mannen" (*Senex*) som en arketyp för inre vägledning. Senare arketypspsykologer som James Hillman har pekat på att *morbrors- eller farbrorsfiguren* är en mildare och mer tillgänglig version av denna arketyp — Senex i vardagsskjorta. Han kan vägleda utan att döma.
 

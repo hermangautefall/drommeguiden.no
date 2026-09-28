@@ -35,7 +35,7 @@ For mange er mørket ubehagelig fordi det er uoversiktlig og ukontrollerbart. Du
 
 ### Begynnelsens mørke
 
-I skapelsesberetninger fra alle kulturer begynner skapelsen i mørket. "I begynnelsen var det tomt, og mørket lå over dypet." Mørket er ikke slutten — det er begynnelsen. Det er det tilstanden der ting ennå ikke har funnet sin form, men er på vei.
+I skapelsesberetninger fra alle kulturer begynner skapelsen i mørket. "I begynnelsen var det tomt, og mørket lå over dypet." Mørket er ikke slutten — det er begynnelsen. Det er tilstanden der ting ennå ikke har funnet sin form, men er på vei.
 
 Drømmens mørke kan speile at du er i en slik tilstand: noe er i ferd med å ta form, men er ennå ikke synlig. Det er ikke et problem å løse. Det er et stadium å stå i.
 

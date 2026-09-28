@@ -54,7 +54,7 @@ Frihet, energi og bevegelsesglede. Du er i flyt. Se også [ryggen](/drommer/rygg
 
 ## Fundamentet vi står på
 
-Bein som symbol på fundament er universalt — fra det å "stå med beggje beina på jorda" til uttrykket "å ha beina på nakken". Det å stå, gå og løpe er av de mest grunnleggende menneskelige handlingene, og i drømmene er de tett knyttet til psykologisk frihet og styrke.
+Bein som symbol på fundament er universalt — fra det å "stå med begge beina på jorda" til uttrykket "å ha beina på nakken". Det å stå, gå og løpe er av de mest grunnleggende menneskelige handlingene, og i drømmene er de tett knyttet til psykologisk frihet og styrke.
 
 Jung ville sett sterke bein som et symbol på en velutviklet evne til å navigere verden — et Ego som er trygt forankret og kan bevege seg med selvtillit. Drømmer om [hender](/drommer/hender/) handler derimot om handling og evnen til å gripe verden.
 

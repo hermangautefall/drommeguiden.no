@@ -33,7 +33,7 @@ Jord er der frøene plantes — og drømmens jord handler om potensial. Noe voks
 
 ### Det jordnære og materielle
 
-Å "ha beggje beina på jorda" er ikke tilfeldig — jord representerer det konkrete, det materielle, det hverdagslige. Drømmens jord kan minne deg om å forankre deg i det virkelige og nære fremfor å fly for høyt.
+Å "ha begge beina på jorda" er ikke tilfeldig — jord representerer det konkrete, det materielle, det hverdagslige. Drømmens jord kan minne deg om å forankre deg i det virkelige og nære fremfor å fly for høyt.
 
 ## Jordens tilstand
 

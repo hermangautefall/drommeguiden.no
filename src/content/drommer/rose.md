@@ -59,9 +59,9 @@ Av og til er tolkningen enklere og mer direkte: en lengsel etter det romantiske,
 
 Rosen er det vestlige kulturkretsets fremste kjærlighetssymbol — Afrodite, Venus, Maria, alle bærer rosen. I keltisk tradisjon er rosen forbundet med de fem elementene i dens fem kronblader. I islamsk mystikk er rosen bilde på Guds kjærlighet til skapelsen.
 
-I norrøn tradisjon er det blomsten — hverken rosen spesifikt eller blomster generelt — som er forbundet med Freyja og kjærlighetens kraft. Men rosens dobbelnatur av skjønnhet og torner gjenspeiles i det norrøne bildet av livet selv: det gode er aldri gratis, og det som er verdt å ha, er verdt å kjempe for.
+I norrøn tradisjon er det ikke rosen som er forbundet med Freyja og kjærlighetens kraft. Men rosens dobbelnatur av skjønnhet og torner gjenspeiles i det norrøne bildet av livet selv: det gode er aldri gratis, og det som er verdt å ha, er verdt å kjempe for.
 
-Freud tolket rose-aperingen seksuelt — som enhver blomst. Jung så den som ett av de arketypiske bildene på mandalaens helhet: rosen som blomstrer i sentrum er selvet som realiseres.
+Freud tolket rosen seksuelt — som enhver blomst. Jung så den som ett av de arketypiske bildene på mandalaens helhet: rosen som blomstrer i sentrum er selvet som realiseres.
 
 ## Kilder og videre lesning
 

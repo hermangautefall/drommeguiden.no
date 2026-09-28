@@ -31,7 +31,7 @@ Den vanligste tolkningen handler om en forbindelse til noe gammelt og hellig —
 
 ### To tradisjoner flettet i hverandre
 
-Stavkirken er et bilde på synkretisme — på at to verdener kan eksistere i samme rom uten at den ene fullstendig utslettor den andre. Drømmens stavkirke kan representere en situasjon i livet der to ting som tilsynelatende er motsetninger faktisk kan leve side om side: det gamle og det nye, det tradisjonelle og det moderne, to sider av deg selv du tror er uforenlige.
+Stavkirken er et bilde på synkretisme — på at to verdener kan eksistere i samme rom uten at den ene fullstendig utsletter den andre. Drømmens stavkirke kan representere en situasjon i livet der to ting som tilsynelatende er motsetninger faktisk kan leve side om side: det gamle og det nye, det tradisjonelle og det moderne, to sider av deg selv du tror er uforenlige.
 
 ### Et hellig rom — det som er større enn hverdagen
 

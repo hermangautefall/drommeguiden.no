@@ -47,10 +47,10 @@ Har du nylig tapt noe — en konkurranse, en mulighet, et forhold, en jobb? Drø
 
 ## Hva du tapte, og for hvem
 
-**Hvis du tap mot noen du kjenner:**
+**Hvis du tapte mot noen du kjenner:**
 Sammenligning og konkurranse med en spesifikk person — hva har de som du vil ha, og er den sammenligningen rettferdig?
 
-**Hvis du tape mot en ukjent:**
+**Hvis du tapte mot en ukjent:**
 Generalisert mestringsangst — ikke knyttet til en spesifikk person, men til en livssituasjon.
 
 **Hvis tapet kjentes urettferdig:**

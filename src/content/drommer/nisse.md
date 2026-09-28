@@ -19,7 +19,7 @@ author: 'default'
 
 ## Hva betyr det å drømme om nisse?
 
-Nissen er ikke bare en julenisse — den er langt eldre og langt mer alvorlig enn det. Den norrøne tomten og gardsnissen er husguddommen, den lille skikkelsen som passer på gård og fe og folk, som sørger for at ting går bra så lenge han respekteres og mater seg med grøt på julaften.
+Nissen er ikke bare en julenisse — den er langt eldre og langt mer alvorlig enn det. Den norrøne tomten og gardsnissen er husguddommen, den lille skikkelsen som passer på gård og fe og folk, som sørger for at ting går bra så lenge han respekteres og mates med grøt på julaften.
 
 Ikke behandle ham dårlig. Det har aldri gått bra.
 

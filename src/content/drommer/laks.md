@@ -9,7 +9,7 @@ relaterte:
   - hval
 tolkninger_kort:
   - "Kraften til å svømme mot strømmen mot noe du vet er ditt mål"
-  - "Instinktiv hjemlengt og tilbakevending til røttene"
+  - "Instinktiv hjemlengsel og tilbakevending til røttene"
   - "En transformerende reise som koster alt — men som er nødvendig"
 bilde: /bilder/symboler/laks.jpg
 dato: 2026-03-18
@@ -31,9 +31,9 @@ Den vanligste og sterkeste tolkningen handler om mot og målrettethet mot noe du
 
 Hva er det du vet du skal mot — og hva holder deg tilbake fra å svømme dit?
 
-### Hjemlengt og tilbakevending til røttene
+### Hjemlengsel og tilbakevending til røttene
 
-Laksen returnerer til røttene for å fullbyrde livet — til akkurat den elven den ble født i, ikke en annen. Drømmens laks kan representere en lengsel etter røttene dine, etter der du kom fra, etter noe grunnleggende og opprinnelig i deg selv. En kallar hjem.
+Laksen returnerer til røttene for å fullbyrde livet — til akkurat den elven den ble født i, ikke en annen. Drømmens laks kan representere en lengsel etter røttene dine, etter der du kom fra, etter noe grunnleggende og opprinnelig i deg selv. Et kall hjem.
 
 ### En reise som koster alt
 
@@ -42,7 +42,7 @@ Laksens gytevandring er en énveisreise — den overlever ikke gytingen. Det er 
 ## Om laksen nådde frem
 
 **Hvis laksen svømte opp elven:**
-Et tydelig og målrettet kjør mot noe viktig — imponeerende mot.
+Et tydelig og målrettet kjør mot noe viktig — imponerende mot.
 
 **Hvis du fisket laks:**
 Du søker å gripe noe verdifullt og vill — noe som ikke gir seg uten motstand.
