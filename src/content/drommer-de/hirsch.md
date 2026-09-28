@@ -33,7 +33,7 @@ Der Hirsch ist kein Raubtier — er ist Beute, oft gejagt vom Wolf. Im Traum kan
 
 ### Spirituelle Suche und Intuition
 
-In vielen Traditionen ist der Hirsch ein Führungstier — eines, das die Seele zu etwas Heiligem oder Bedeutsamem führt. Von einem Hirsch zu träumen, ähnlich wie von einem Pferd zu träumen, kann eine Einladung sein, genauer auf deine innere Stimme und Intuition zu hören, und vielleicht nach etwas zu suchen, das dem Leben eine tiefere Bedeutung gibt. Diese Träume tauchen oft in Übergangsphasen auf, in denen „etwas Spirituelles" seinen Weg zurück ins Leben findet.
+In vielen Traditionen ist der Hirsch ein Führungstier — eines, das die Seele zu etwas Heiligem oder Bedeutsamem führt. Von einem Hirsch zu träumen, ähnlich wie von einem Pferd zu träumen, kann eine Einladung sein, genauer auf deine innere Stimme und Intuition zu hören, und vielleicht nach etwas zu suchen, das dem Leben eine tiefere Bedeutung gibt. Diese Träume tauchen oft in Übergangsphasen auf, in denen „etwas Spirituelles“ seinen Weg zurück ins Leben findet.
 
 ### Würde unter Druck
 
@@ -55,7 +55,7 @@ Wie sich der Hirsch im Traum verhält, verändert die Bedeutung. Schaut dich der
 
 Der Hirsch ist eines der ältesten und wiederkehrendsten spirituellen Symbole der menschlichen Kultur und erscheint von Höhlenmalereien bis zum zeitgenössischen Erzählen. Über keltische, buddhistische, hinduistische, christliche, chinesische und nordamerikanisch-indigene Traditionen hinweg kehrt der Hirsch immer wieder als Führer zwischen den Welten wieder, als Gestalt von Sanftheit und Würde, und — besonders der weiße Hirsch — als Zeichen von etwas Heiligem und Seltenem. In der nordischen Mythologie grasen vier Hirsche an der Spitze des Weltenbaums Yggdrasil und fressen von seinen Blättern als Teil seines Ökosystems statt als Bedrohung dafür — ein kleines, aber aufschlussreiches Detail dafür, wie der Hirsch seit langem als zur heiligen Ordnung der Dinge gehörig gelesen wird, nicht als ihr Gegenspieler.
 
-Jung beschrieb den Hirsch als archetypisch für die *Anima* — die innere weibliche Seite, den sanften und intuitiven Aspekt der Psyche. Spätere archetypische Psychologen haben betont, dass der Hirsch im Traum oft „die verletzliche Seele" darstellt, die darum bittet, gesehen zu werden, ohne gejagt zu werden. Der Hirsch in deinem Traum sagt: Mach mich nicht zur Beute — lass mich schön und frei sein.
+Jung beschrieb den Hirsch als archetypisch für die *Anima* — die innere weibliche Seite, den sanften und intuitiven Aspekt der Psyche. Spätere archetypische Psychologen haben betont, dass der Hirsch im Traum oft „die verletzliche Seele“ darstellt, die darum bittet, gesehen zu werden, ohne gejagt zu werden. Der Hirsch in deinem Traum sagt: Mach mich nicht zur Beute — lass mich schön und frei sein.
 
 ## Quellen und weiterführende Literatur
 

@@ -70,9 +70,9 @@ Eine unbewusste Wunde — etwas, das wehtut, dessen Ursprung du aber noch nicht 
 
 Die Symbolik der Wunde ist über das gesamte menschliche mythologische Denken hinweg universell. Der verwundete Held ist ein wiederkehrendes archetypisches Motiv: Achilles an der Ferse, Siegfried zwischen den Schulterblättern, Amfortas mit seiner nicht heilenden Wunde in der Geschichte von Parzival. Sie alle sind Männer, deren Stärke nahezu absolut ist — außer an einer Stelle. Diese Stelle ist die Wunde.
 
-Jung benutzte die Formulierung „das verwundete Selbst" für den psychischen Schmerz, der während der Individuation entsteht — die Begegnung mit der Schattenseite, mit verdrängten Anteilen des Selbst, mit den unvermeidlichen Verlusten des Lebens. Wunden im Traum sind oft Markierungen genau dieser Begegnungspunkte.
+Jung benutzte die Formulierung „das verwundete Selbst“ für den psychischen Schmerz, der während der Individuation entsteht — die Begegnung mit der Schattenseite, mit verdrängten Anteilen des Selbst, mit den unvermeidlichen Verlusten des Lebens. Wunden im Traum sind oft Markierungen genau dieser Begegnungspunkte.
 
-Die volksmedizinische Tradition unterscheidet in den meisten Kulturen zwischen einer Wunde, die heilt, und einer Wunde, die „lebt". Eine Wunde, die „lebt", hat eine spirituelle oder emotionale Ladung angenommen und heilt nicht allein durch körperliche Behandlung. Die Wunde im Traum gehört oft zu dieser Kategorie. Eine Narbe ist das, was bleibt, wenn sich eine solche Wunde endlich schließt.
+Die volksmedizinische Tradition unterscheidet in den meisten Kulturen zwischen einer Wunde, die heilt, und einer Wunde, die „lebt“. Eine Wunde, die „lebt“, hat eine spirituelle oder emotionale Ladung angenommen und heilt nicht allein durch körperliche Behandlung. Die Wunde im Traum gehört oft zu dieser Kategorie. Eine Narbe ist das, was bleibt, wenn sich eine solche Wunde endlich schließt.
 
 ## Quellen und weiterführende Literatur
 

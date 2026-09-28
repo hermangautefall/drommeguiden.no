@@ -55,7 +55,7 @@ Wie sich das Krokodil verhält, verändert die Deutung erheblich. Greift es an, 
 
 Das Krokodil lässt sich als Bild verborgener Gefahr lesen — etwas, das ruhig unter der Oberfläche liegt und ohne Vorwarnung zuschlägt. Der Traum kann von einer Bedrohung handeln, die du noch nicht ganz erkannt hast, oder von urtümlichem Instinkt und Aggression, die unter einer ruhigen Oberfläche lauern, in dir selbst oder in anderen.
 
-Ein eng verwandter Faden ist die Täuschung: Der Ausdruck „Krokodilstränen" verweist auf falsches Gefühl und Unaufrichtigkeit. Der Traum kann ein Signal sein, dass etwas oder jemand nicht ganz das ist, was er zu sein scheint, oder dass eine scheinbar harmlose Situation tatsächlich einen Stachel in sich trägt.
+Ein eng verwandter Faden ist die Täuschung: Der Ausdruck „Krokodilstränen“ verweist auf falsches Gefühl und Unaufrichtigkeit. Der Traum kann ein Signal sein, dass etwas oder jemand nicht ganz das ist, was er zu sein scheint, oder dass eine scheinbar harmlose Situation tatsächlich einen Stachel in sich trägt.
 
 Im alten Ägypten war Sobek der Krokodilsgott, verbunden mit Gefahr und Schutz zugleich — er stand für die Fruchtbarkeit des Nils ebenso wie für dessen tödliche Kraft, gleichermaßen verehrt und gefürchtet. Als eine der ältesten noch lebenden Abstammungslinien des Planeten lässt sich das Krokodil im Traum als Bild tiefer, instinktiver, überlebensgetriebener Kräfte in der Psyche lesen — uralte Anteile von uns, die im Alltag selten zu Wort kommen.
 

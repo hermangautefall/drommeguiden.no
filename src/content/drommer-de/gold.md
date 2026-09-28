@@ -31,7 +31,7 @@ Die wichtigste Deutung hat mit Wert zu tun — nicht unbedingt mit Geld, sondern
 
 ### Dein höchstes Ziel und das, wonach du strebst
 
-Gold steht ganz oben auf dem olympischen Siegertreppchen — und im Traum kann es für etwas stehen, wonach du strebst, einen Maßstab, den du an dich selbst anlegst, ein Niveau, das du erreichen willst. „Gold zu finden" kann bedeuten, dass etwas, wonach du gesucht hast, in Reichweite ist.
+Gold steht ganz oben auf dem olympischen Siegertreppchen — und im Traum kann es für etwas stehen, wonach du strebst, einen Maßstab, den du an dich selbst anlegst, ein Niveau, das du erreichen willst. „Gold zu finden“ kann bedeuten, dass etwas, wonach du gesucht hast, in Reichweite ist.
 
 ### Der authentische Kern des Selbst
 
@@ -39,7 +39,7 @@ In der jungschen Psychologie ist Gold ein Symbol für das Selbst — den authent
 
 ### Materialismus und falsches Gold
 
-Träume, in denen sich das Gold als unecht herausstellt — oder in denen Gier nach Gold etwas zerstört —, tragen eine Warnung in sich. „Es ist nicht alles Gold, was glänzt" ist mehr als nur ein Sprichwort. Das falsche Gold im Traum warnt davor, etwas zu jagen, das wertvoll aussieht, es aber nicht ist.
+Träume, in denen sich das Gold als unecht herausstellt — oder in denen Gier nach Gold etwas zerstört —, tragen eine Warnung in sich. „Es ist nicht alles Gold, was glänzt“ ist mehr als nur ein Sprichwort. Das falsche Gold im Traum warnt davor, etwas zu jagen, das wertvoll aussieht, es aber nicht ist.
 
 ## Was du mit dem Gold getan hast
 
@@ -60,11 +60,11 @@ Fülle und Anerkennung des reichen Lebens, das du führst oder geführt hast.
 
 ## Wert, Echtheit und Wandlung
 
-Gold war immer das Maß für das Kostbare, und in Träumen fungiert es oft als Bild deines eigenen Werts — der Talente, Eigenschaften oder inneren Reichtümer, die du in dir trägst, vielleicht ohne sie selbst immer zu sehen. Gold in einem Traum zu finden kann gelesen werden, als wäre etwas in dir bereit, entdeckt oder gewürdigt zu werden — eine Art „Gold", das bisher verborgen lag.
+Gold war immer das Maß für das Kostbare, und in Träumen fungiert es oft als Bild deines eigenen Werts — der Talente, Eigenschaften oder inneren Reichtümer, die du in dir trägst, vielleicht ohne sie selbst immer zu sehen. Gold in einem Traum zu finden kann gelesen werden, als wäre etwas in dir bereit, entdeckt oder gewürdigt zu werden — eine Art „Gold“, das bisher verborgen lag.
 
 Aber Gold hat auch eine Schattenseite. Die Verlockung des Reichtums kann als Gier oder Ehrgeiz gelesen werden, der außer Kontrolle geraten ist, und der Traum stellt vielleicht die Frage: Ist das echter Wert, oder nur etwas, das glänzt? Der Unterschied zwischen Gold und Katzengold — was nach viel aussieht, es aber nicht ist — mag genau das sein, worauf dich der Traum aufmerksam machen will.
 
-In der Alchemie ging es bei der Verwandlung von Blei in Gold nie nur um Metall — die Alchemisten selbst beschrieben sie als Bild innerer Arbeit, bei der etwas Rohes und Ungeschliffenes in einem Menschen nach und nach verfeinert wird. So gesehen kann das Gold in deinem Traum zu einem Zeichen für Wachstum und Wandlung werden, die bereits im Gange sind. Gold kann auch einfach ein Bild für Meisterschaft und Belohnung sein — „der Goldstandard", der Erfolg in etwas, in das du viel investiert hast, oder endlich etwas zu gewinnen, wonach du lange gestrebt hast.
+In der Alchemie ging es bei der Verwandlung von Blei in Gold nie nur um Metall — die Alchemisten selbst beschrieben sie als Bild innerer Arbeit, bei der etwas Rohes und Ungeschliffenes in einem Menschen nach und nach verfeinert wird. So gesehen kann das Gold in deinem Traum zu einem Zeichen für Wachstum und Wandlung werden, die bereits im Gange sind. Gold kann auch einfach ein Bild für Meisterschaft und Belohnung sein — „der Goldstandard“, der Erfolg in etwas, in das du viel investiert hast, oder endlich etwas zu gewinnen, wonach du lange gestrebt hast.
 
 ## Quellen und weiterführende Literatur
 

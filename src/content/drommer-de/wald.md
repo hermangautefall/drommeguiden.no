@@ -73,7 +73,7 @@ Ein positives Zeichen. Es kann bedeuten, dass du beginnst, nach einer verwirrend
 
 ## Das Unbekannte, das Märchen, und der Weg hindurch
 
-In Märchen und Volkserzählungen aus aller Welt ist der Wald der Ort, an dem Verwandlung geschieht — wo der Held hindurch muss, um zu dem zu werden, was er werden soll. Denk an Hänsel und Gretel, Rotkäppchen, oder Dante, der mitten im Leben in „einen dunklen Wald" gerät. Von einem Aufenthalt im Wald zu träumen lässt sich als ähnliche Prüfung lesen: eine Übergangsphase, in der etwas in dir auf die Probe gestellt wird, und in der der Weg hindurch — nicht darum herum — dich vorwärtsträgt.
+In Märchen und Volkserzählungen aus aller Welt ist der Wald der Ort, an dem Verwandlung geschieht — wo der Held hindurch muss, um zu dem zu werden, was er werden soll. Denk an Hänsel und Gretel, Rotkäppchen, oder Dante, der mitten im Leben in „einen dunklen Wald“ gerät. Von einem Aufenthalt im Wald zu träumen lässt sich als ähnliche Prüfung lesen: eine Übergangsphase, in der etwas in dir auf die Probe gestellt wird, und in der der Weg hindurch — nicht darum herum — dich vorwärtsträgt.
 
 Der Wald ist auch ein kraftvolles Bild der Natur und der Wildheit in dir. Die Bäume, die Wurzeln, und das summende Leben unter dem Boden können ein Bedürfnis spiegeln, zu wachsen, Wurzeln zu schlagen, oder dich mit einem instinktiveren, körperlicheren Teil deiner selbst zu verbinden, der unter den Anforderungen des Alltags in den Schatten geraten ist. Die japanische Praxis des *Shinrin-Yoku*, des Waldbadens, beruht genau auf dieser Idee: dass Zeit unter Bäumen eine erholsame, fast heilende Wirkung hat — etwas, das sich in Träumen zeigen kann, in denen es sich gut anfühlt, im Wald zu sein.
 

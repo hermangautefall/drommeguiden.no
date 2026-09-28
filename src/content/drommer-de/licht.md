@@ -27,7 +27,7 @@ Licht ist ein nahezu universelles Symbol für Bewusstsein und Hoffnung — in de
 
 ### Bewusstsein und Einsicht
 
-Die häufigste Deutung hat mit Verstehen zu tun — die Redewendung „ein Licht geht einem auf" kommt nicht von ungefähr. Das Licht in deinem Traum steht für eine aufkommende Einsicht, ein Verständnis, das sich klärt, etwas, das verborgen war und jetzt sichtbar wird. Ein Licht, das im Dunkeln aufflammt — vielleicht von einer Flamme —, ist eines der stärksten Traumbilder für ein plötzliches Erkennen.
+Die häufigste Deutung hat mit Verstehen zu tun — die Redewendung „ein Licht geht einem auf“ kommt nicht von ungefähr. Das Licht in deinem Traum steht für eine aufkommende Einsicht, ein Verständnis, das sich klärt, etwas, das verborgen war und jetzt sichtbar wird. Ein Licht, das im Dunkeln aufflammt — vielleicht von einer Flamme —, ist eines der stärksten Traumbilder für ein plötzliches Erkennen.
 
 ### Hoffnung und Orientierung
 

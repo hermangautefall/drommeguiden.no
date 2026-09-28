@@ -83,7 +83,7 @@ Ein schlafender Bär ist ein starkes Signal, dass du Ruhe brauchst. Körper und 
 
 Der Bär lässt sich als Bild roher Kraft lesen, die mit tiefer Stille abwechselt. Denk an den Winterschlaf: Der Bär zieht sich zurück, sammelt in der Stille neue Kraft und tritt verändert wieder hervor, wenn die Zeit reif ist. Bärenträume können deshalb von einem Bedürfnis handeln, dich eine Weile zurückzuziehen — oder von einer Kraft in dir, die gerade wartet und bereit ist, wieder gerufen zu werden.
 
-Der Bär trägt auch eine starke beschützende, fast mütterliche Kraft. Denk an die „Bärenmutter", die ihre Jungen ohne zu zögern verteidigt — der Traum kann spiegeln, wie weit du gehen würdest, um jemanden oder etwas zu beschützen, das du liebst, oder ein Bedürfnis, selbst mit dieser Intensität umsorgt zu werden.
+Der Bär trägt auch eine starke beschützende, fast mütterliche Kraft. Denk an die „Bärenmutter“, die ihre Jungen ohne zu zögern verteidigt — der Traum kann spiegeln, wie weit du gehen würdest, um jemanden oder etwas zu beschützen, das du liebst, oder ein Bedürfnis, selbst mit dieser Intensität umsorgt zu werden.
 
 Wirkt der Bär im Traum bedrohlich, kann das als überwältigendes Problem gelesen werden, als eine mächtige Person in deinem Leben, oder als ein Zorn — deiner oder der eines anderen —, dem du dich irgendwann stellen musst. In vielen indigenen Traditionen der nördlichen Hemisphäre, sowohl bei nordamerikanischen als auch bei sibirischen Völkern, galt der Bär als mächtiger Geist und Heiler, als ein Wesen, das die menschliche Welt mit etwas Größerem verbindet. Diese Verehrung lebt auch am Nachthimmel weiter, in dem Sternbild, das die alten Griechen mit Kallisto verbanden — dem Großen Bären.
 

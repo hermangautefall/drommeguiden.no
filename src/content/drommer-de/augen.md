@@ -60,9 +60,9 @@ Ein klassisches Symbol für spirituelle Einsicht und erwachende Intuition — ei
 
 Das Auge ist eines der universellsten Symbole der menschlichen Kultur und taucht in ganz unterschiedlichen Zusammenhängen auf — vom ägyptischen Auge des Horus bis zum allsehenden Auge in religiöser Kunst. Viele dieser Traditionen teilen die Vorstellung, dass das Auge die Fähigkeit darstellt, zu sehen, was anderen verborgen bleibt: eine Verbindung zur Wahrheit, zu klarer Sicht und zu einer tieferen Art des Verstehens.
 
-In vielen Kulturen rund ums Mittelmeer und im Nahen Osten gibt es außerdem den Glauben an den „bösen Blick" — die Vorstellung, dass ein Blick Neid oder böse Absicht tragen kann, und dass man sich davor schützen kann. Träume, in denen du dich von vielen Augen beobachtet fühlst, oder von einem Blick, dem du nicht entkommst, können genau dieses Gefühl widerspiegeln: beurteilt, durchschaut oder auf eine beunruhigende Weise verfolgt zu werden.
+In vielen Kulturen rund ums Mittelmeer und im Nahen Osten gibt es außerdem den Glauben an den „bösen Blick“ — die Vorstellung, dass ein Blick Neid oder böse Absicht tragen kann, und dass man sich davor schützen kann. Träume, in denen du dich von vielen Augen beobachtet fühlst, oder von einem Blick, dem du nicht entkommst, können genau dieses Gefühl widerspiegeln: beurteilt, durchschaut oder auf eine beunruhigende Weise verfolgt zu werden.
 
-Gleichzeitig tragen hinduistische und buddhistische Traditionen die Vorstellung vom „dritten Auge" — ein Symbol für Intuition und innere Einsicht, für die Fähigkeit, über das Sichtbare hinauszusehen. Geschlossene oder blinde Augen in einem Traum lassen sich dagegen als Ausdruck von Vermeidung lesen — etwas in deinem Leben, dem du dich noch nicht direkt stellen willst, oder das du bewusst nicht sehen möchtest.
+Gleichzeitig tragen hinduistische und buddhistische Traditionen die Vorstellung vom „dritten Auge“ — ein Symbol für Intuition und innere Einsicht, für die Fähigkeit, über das Sichtbare hinauszusehen. Geschlossene oder blinde Augen in einem Traum lassen sich dagegen als Ausdruck von Vermeidung lesen — etwas in deinem Leben, dem du dich noch nicht direkt stellen willst, oder das du bewusst nicht sehen möchtest.
 
 ## Quellen und weiterführende Literatur
 

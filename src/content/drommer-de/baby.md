@@ -79,7 +79,7 @@ Ein Baby im Traum zu nähren symbolisiert oft Fürsorge, Großzügigkeit und Hin
 
 Ein Baby im Traum lässt sich oft als Bild von etwas Neuem verstehen, das in deinem Leben Gestalt annimmt — ein Projekt, eine Beziehung, eine Lebensphase, oder eine Seite an dir, die gerade wächst. So wie ein Baby Zeit und Nahrung braucht, um sich zu entwickeln, weist der Traum vielleicht auf etwas hin, das sich noch in einem frühen und zerbrechlichen Stadium befindet.
 
-Gleichzeitig kann das Baby für Verletzlichkeit stehen — einen kleinen, neuen Teil von dir, der Fürsorge, Schutz und Aufmerksamkeit braucht. In der modernen Therapiesprache wird das oft das „innere Kind" genannt: die Anteile von uns, die offen, echt und auf Fürsorge angewiesen sind, und die wir manchmal wieder neu kennenlernen müssen.
+Gleichzeitig kann das Baby für Verletzlichkeit stehen — einen kleinen, neuen Teil von dir, der Fürsorge, Schutz und Aufmerksamkeit braucht. In der modernen Therapiesprache wird das oft das „innere Kind“ genannt: die Anteile von uns, die offen, echt und auf Fürsorge angewiesen sind, und die wir manchmal wieder neu kennenlernen müssen.
 
 Über Kulturen und Epochen hinweg ist der Säugling ein Symbol für Hoffnung, Potenzial und einen frischen Anfang. Der Traum stellt oft die Frage: Was ist das Neue, das gerade deine Aufmerksamkeit braucht, und gibt es einen Teil von dir, der sich nach mehr Fürsorge sehnt?
 

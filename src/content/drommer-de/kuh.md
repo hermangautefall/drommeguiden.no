@@ -45,7 +45,7 @@ Der Zustand der Kuh im Traum sagt viel darüber aus, wie du ihn deuten solltest.
 
 Die nordische Urkuh Auðumbla ist eines der seltsamsten Bilder der altnordischen Kosmologie — sie stand im Eis des Urchaos und leckte die Götter aus dem Frost frei, während ihre Milch den Riesen Ymir nährte. Die Kuh ist von Anfang an da; sie nährt das, was gerade entsteht. In der nordischen Tradition ist sie kein gewöhnliches Nutztier — sie ist die erste Mutter der Schöpfung.
 
-Jung hätte die Kuh vermutlich als Ausprägung der „Großen Mutter" in ihrer nährendsten, erdverbundensten Form gesehen — ruhig, fruchtbar und unaufhaltsam in ihrer Großzügigkeit. Auch das Schaf ist als sanftes Symbol für Nutztiere ein verwandtes Bild.
+Jung hätte die Kuh vermutlich als Ausprägung der „Großen Mutter“ in ihrer nährendsten, erdverbundensten Form gesehen — ruhig, fruchtbar und unaufhaltsam in ihrer Großzügigkeit. Auch das Schaf ist als sanftes Symbol für Nutztiere ein verwandtes Bild.
 
 ## Quellen und weiterführende Literatur
 

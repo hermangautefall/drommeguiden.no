@@ -33,7 +33,7 @@ Die häufigste Deutung handelt davon, dich durch etwas Fließendes und Unvorhers
 
 ### Sich über Wasser halten
 
-Schwimmen ist der körperliche Ausdruck davon, „sich über Wasser zu halten", und Träume davon spiegeln oft Phasen, in denen es echte Anstrengung braucht, mitzuhalten, nicht unterzugehen, trotz Widerstand weiterzukommen.
+Schwimmen ist der körperliche Ausdruck davon, „sich über Wasser zu halten“, und Träume davon spiegeln oft Phasen, in denen es echte Anstrengung braucht, mitzuhalten, nicht unterzugehen, trotz Widerstand weiterzukommen.
 
 ### Freiheit und Fluss
 

@@ -40,13 +40,13 @@ Die Frage, die der Traum stellt, lautet: Worüber bist du wütend? Und hast du d
 
 In der Traumsymbolik ist das Töten einer Person oft ein Bild für den Wunsch, etwas zu beenden — keine Person, sondern das, wofür diese Person steht. Eine Beziehung, eine Situation, eine Rolle, ein Teil von dir selbst. Die Person im Traum kann für den Job stehen, den du verlassen möchtest, für die Beziehung, deren Ende du erwägst, oder für eine alte Version deiner selbst, die du nicht mehr sein willst.
 
-Diese Figur zu „töten" ist die Art des Unterbewusstseins, einen Wunsch nach einem endgültigen Abschluss zu verarbeiten — etwas, das im wirklichen Leben schwer einzugestehen sein kann.
+Diese Figur zu „töten“ ist die Art des Unterbewusstseins, einen Wunsch nach einem endgültigen Abschluss zu verarbeiten — etwas, das im wirklichen Leben schwer einzugestehen sein kann.
 
 ### Ein innerer Konflikt
 
 Manchmal ist die Person, die du tötest, überhaupt keine äußere Figur, sondern ein Teil von dir selbst. Ein innerer Konflikt zwischen zwei Seiten — dem vorsichtigen und dem mutigen Selbst, dem pflichtbewussten und dem freien, wer du bist und wer du sein willst — kann sich im Traum als gewaltsame Begegnung abspielen.
 
-Jung nannte diese Begegnung das Treffen mit dem Schatten: die Seiten von uns, die wir nicht anerkennen, die aber dennoch gehört werden wollen. Diese Seiten im Traum zu „töten" ist kein Sieg — es ist ein Zeichen, dass der Konflikt noch ungelöst ist.
+Jung nannte diese Begegnung das Treffen mit dem Schatten: die Seiten von uns, die wir nicht anerkennen, die aber dennoch gehört werden wollen. Diese Seiten im Traum zu „töten“ ist kein Sieg — es ist ein Zeichen, dass der Konflikt noch ungelöst ist.
 
 ### Kontrolle und Macht in einer Situation, in der du sie nicht hast
 
@@ -73,7 +73,7 @@ Das kann eine emotionale Distanz zu jemandem oder etwas in deinem Leben widerspi
 
 Es lohnt sich, klar zu sagen: Davon zu träumen, jemanden zu töten, spiegelt fast nie einen tatsächlichen Wunsch wider, jemandem zu schaden. Das ist ein sehr verbreiteter Traum, und der Verstand greift zu einem extremen, dramatischen Bild einfach, weil es wirkungsvoll ist — nicht, weil es wörtlich gemeint ist.
 
-Die häufigste Deutung hat damit zu tun, im übertragenen Sinn etwas „zu Tode zu bringen": eine Gewohnheit zu beenden, eine Rolle aufzugeben, eine Beziehung abzuschließen oder eine alte Version deiner selbst sterben zu lassen, damit etwas Neues an ihre Stelle treten kann. Das Opfer im Traum steht oft genau für das, was du tief im Inneren loswerden willst — keine echte Person.
+Die häufigste Deutung hat damit zu tun, im übertragenen Sinn etwas „zu Tode zu bringen“: eine Gewohnheit zu beenden, eine Rolle aufzugeben, eine Beziehung abzuschließen oder eine alte Version deiner selbst sterben zu lassen, damit etwas Neues an ihre Stelle treten kann. Das Opfer im Traum steht oft genau für das, was du tief im Inneren loswerden willst — keine echte Person.
 
 Für andere kann der Traum ein sicheres Ventil für Zorn oder Frustration sein, die im wachen Leben keinen Raum finden, oder er kann davon handeln, Kontrolle und Macht in einer Situation zurückzugewinnen, in der du dich machtlos fühlst. Die Schuldgefühle, die dem Traum so oft folgen, sind fast immer ein Zeichen dafür, dass du ein nachdenklicher Mensch bist — kein Beweis für irgendetwas anderes.
 

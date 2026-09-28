@@ -50,7 +50,7 @@ Auf einer tieferen Ebene können Hände im Traum deine eigene Identität darstel
 
 Wenn die Hände im Traum anders aussehen als sonst — vielleicht alt, jung, oder als gehörten sie jemand anderem —, kann das darauf hindeuten, dass du gerade Veränderungen in deinem Selbstbild erlebst. Vielleicht fühlst du dich nicht wie du selbst, oder du wirst zu einer anderen Version deiner selbst. Solche Träume haben Gemeinsamkeiten mit Träumen von Spiegeln, in denen Selbstbild und Identität ebenfalls zentrale Themen sind.
 
-Sind die Hände schmutzig oder mit Blut bedeckt, kann das auf Schuld hindeuten oder auf eine Handlung, die du bereust. Der Ausdruck „Blut an den Händen" ist tief in unserer Kultur verankert, und Träume greifen solche Metaphern oft auf.
+Sind die Hände schmutzig oder mit Blut bedeckt, kann das auf Schuld hindeuten oder auf eine Handlung, die du bereust. Der Ausdruck „Blut an den Händen“ ist tief in unserer Kultur verankert, und Träume greifen solche Metaphern oft auf.
 
 ---
 
@@ -74,11 +74,11 @@ Kann das Gefühl von Verletzlichkeit oder Ehrlichkeit verstärken — du zeigst 
 
 ## Handlungsfähigkeit, Verbindung und das, was wir tun
 
-Hände sind das, womit wir handeln — sie tun, erschaffen, formen und greifen. Von Händen zu träumen kann deshalb von Handlungsfähigkeit handeln: Hast du das Gefühl, dein Leben im Griff zu haben, oder fühlt es sich an, als könntest du an deiner Situation nichts ändern? Der Ausdruck „die Dinge selbst in die Hand nehmen" sagt viel darüber aus, wofür Hände im Traum oft stehen — Kompetenz, Initiative und die Fähigkeit, das Geschehen zu beeinflussen.
+Hände sind das, womit wir handeln — sie tun, erschaffen, formen und greifen. Von Händen zu träumen kann deshalb von Handlungsfähigkeit handeln: Hast du das Gefühl, dein Leben im Griff zu haben, oder fühlt es sich an, als könntest du an deiner Situation nichts ändern? Der Ausdruck „die Dinge selbst in die Hand nehmen“ sagt viel darüber aus, wofür Hände im Traum oft stehen — Kompetenz, Initiative und die Fähigkeit, das Geschehen zu beeinflussen.
 
 Hände sind auch das, womit wir uns anderen entgegenstrecken. Sie geben und empfangen, helfen und halten. Ein Traum von Händen kann deshalb deine Beziehungen spiegeln — eine helfende Hand, jemandes Hand zu halten, oder etwas oder jemanden loszulassen. Solche Bilder können von Nähe, Vertrauen oder einer Verbindung handeln, die sich verändert.
 
-Waren die Hände im Traum schmutzig oder verletzt, kann das auf Schuld hindeuten — „Blut an den Händen" — oder auf etwas, das dir sehr viel abverlangt hat. Gebundene oder gelähmte Hände wiederum können ein Gefühl der Machtlosigkeit spiegeln, nicht eingreifen zu können, wo du es möchtest. Hände sind auch Werkzeuge des Ausdrucks — Handwerk, Kreativität, und die Gesten, mit denen wir kommunizieren. In vielen Kulturen wurde die Hand als eine Art Landkarte des Lebens und Charakters eines Menschen „gelesen" — eine Erinnerung daran, wie viel wir mit diesen beiden Körperteilen verbinden.
+Waren die Hände im Traum schmutzig oder verletzt, kann das auf Schuld hindeuten — „Blut an den Händen“ — oder auf etwas, das dir sehr viel abverlangt hat. Gebundene oder gelähmte Hände wiederum können ein Gefühl der Machtlosigkeit spiegeln, nicht eingreifen zu können, wo du es möchtest. Hände sind auch Werkzeuge des Ausdrucks — Handwerk, Kreativität, und die Gesten, mit denen wir kommunizieren. In vielen Kulturen wurde die Hand als eine Art Landkarte des Lebens und Charakters eines Menschen „gelesen“ — eine Erinnerung daran, wie viel wir mit diesen beiden Körperteilen verbinden.
 
 ## Quellen und weiterführende Literatur
 

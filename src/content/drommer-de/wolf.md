@@ -45,7 +45,7 @@ Die Verbindung des Wolfs zum Hund ist hier bemerkenswert. In Träumen steht der 
 
 ### Bedrohung und Angst
 
-Für viele Menschen ist der Wolf in erster Linie ein gefährliches Tier, und Träume, in denen sich der Wolf bedrohlich verhält, werden oft als Bild einer äußeren Bedrohung oder einer inneren Angst gedeutet. Vielleicht gibt es jemanden in deinem Leben, den du als „Wolf im Schafspelz" erlebst — jemanden, der seine wahren Absichten verbirgt. Oder vielleicht steht der Wolf für eine Angst, die du in dir trägst, der du dich aber noch nicht gestellt hast.
+Für viele Menschen ist der Wolf in erster Linie ein gefährliches Tier, und Träume, in denen sich der Wolf bedrohlich verhält, werden oft als Bild einer äußeren Bedrohung oder einer inneren Angst gedeutet. Vielleicht gibt es jemanden in deinem Leben, den du als „Wolf im Schafspelz“ erlebst — jemanden, der seine wahren Absichten verbirgt. Oder vielleicht steht der Wolf für eine Angst, die du in dir trägst, der du dich aber noch nicht gestellt hast.
 
 Ein Wolf, der dich im Traum jagt, kann auf etwas hindeuten, vor dem du davonzulaufen versuchst. Es könnte eine unbequeme Wahrheit sein, ein Gefühl, das du nicht zugeben willst, oder eine Situation, die immer weiter eskaliert, weil du nicht eingegriffen hast. Bei solchen Träumen lohnt es sich zu fragen, wofür der Wolf eigentlich steht. Die Antwort liegt selten im Tier selbst, sondern in dem, was das Tier in dir aufwühlt.
 
@@ -75,9 +75,9 @@ Ein positives Zeichen, das auf Versöhnung mit deiner eigenen Schattenseite hind
 
 Ein Wolf im Traum lässt sich als Bild des ungezähmten Teils deiner selbst lesen — Instinkt, Freiheit, und eine Lebenskraft, die sich nicht immer sauber in ein geordnetes Leben fügt. Gleichzeitig ist der Wolf ein Rudeltier, sodass der Traum genauso gut von Treue, Zugehörigkeit und dem Bedürfnis handeln kann, sich als Teil von etwas zu fühlen.
 
-Wie sich der Wolf im Traum verhält, prägt oft die Deutung. Ein bedrohlicher oder jagender Wolf kann als Angst, Konflikt, oder als deine eigenen Triebe und ein „Hunger" gelesen werden, der sich schwer kontrollieren lässt. Ein Wolf, der stattdessen an deiner Seite geht, oder ruhig und aufmerksam wirkt, kann als Verbündeter gelesen werden — eine Erinnerung daran, dass du mehr mit deinen Instinkten in Kontakt bist, als du denkst.
+Wie sich der Wolf im Traum verhält, prägt oft die Deutung. Ein bedrohlicher oder jagender Wolf kann als Angst, Konflikt, oder als deine eigenen Triebe und ein „Hunger“ gelesen werden, der sich schwer kontrollieren lässt. Ein Wolf, der stattdessen an deiner Seite geht, oder ruhig und aufmerksam wirkt, kann als Verbündeter gelesen werden — eine Erinnerung daran, dass du mehr mit deinen Instinkten in Kontakt bist, als du denkst.
 
-Der Wolf trägt in Erzählungen auch zwei sehr unterschiedliche Gesichter. Im Märchen von Rotkäppchen steht er für Verkleidung und Gefahr — der „Wolf im Schafspelz", der die Ahnungslose täuscht. Doch in der Legende von Rom war es eine Wölfin, die die Gründer Romulus und Remus säugte und rettete und damit selbst zu einem Symbol für Schutz und Ursprung wurde. Vielleicht handelt der Traum davon, wo du zwischen diesen beiden Bildern stehst — ob du den Wolf gerade als Bedrohung erlebst, oder als etwas, das über dich wacht.
+Der Wolf trägt in Erzählungen auch zwei sehr unterschiedliche Gesichter. Im Märchen von Rotkäppchen steht er für Verkleidung und Gefahr — der „Wolf im Schafspelz“, der die Ahnungslose täuscht. Doch in der Legende von Rom war es eine Wölfin, die die Gründer Romulus und Remus säugte und rettete und damit selbst zu einem Symbol für Schutz und Ursprung wurde. Vielleicht handelt der Traum davon, wo du zwischen diesen beiden Bildern stehst — ob du den Wolf gerade als Bedrohung erlebst, oder als etwas, das über dich wacht.
 
 ## Quellen und weiterführende Literatur
 

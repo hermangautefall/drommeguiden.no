@@ -23,7 +23,7 @@ author: 'default'
 
 Im Traum zu weinen ist einer der intensiveren Träume, die wir haben können, und einer von denen, die am längsten nachwirken — viele Menschen wachen mit echten Tränen auf den Wangen auf, oder mit einer Schwere in der Brust, die lange nach dem Aufwachen bleibt. Solche Träume sind selten bedeutungslos, und sie sind selten nur ein Spiegel von Traurigkeit.
 
-Tränen im Traum sind das stärkste Bild der Psyche für emotionale Entladung — und sie verdienen es, mit Offenheit begegnet zu werden, statt als „nur ein Traum" abgetan zu werden.
+Tränen im Traum sind das stärkste Bild der Psyche für emotionale Entladung — und sie verdienen es, mit Offenheit begegnet zu werden, statt als „nur ein Traum“ abgetan zu werden.
 
 ## Häufige Weinträume und was sie bedeuten
 
@@ -67,7 +67,7 @@ Besonders starke emotionale Verarbeitung — Körper und Geist waren beide voll 
 
 ## Tränen, die Erleichterung bringen
 
-Forschung zur emotionalen Funktion von Träumen legt nahe, dass der REM-Schlaf eine wichtige Rolle bei der Regulierung und Verarbeitung schwieriger Gefühle spielt. Das Gehirn scheint Träume zu nutzen, um emotionale Prozesse „abzuschließen" — und im Traum zu weinen ist eines der klarsten Zeichen dafür, dass diese Verarbeitung aktiv stattfindet, oft als gesundes Ventil. Manche Menschen wachen mit einem Gefühl der Leichtigkeit auf, während andere tatsächlich Tränen auf den Wangen finden, sobald sie die Augen öffnen.
+Forschung zur emotionalen Funktion von Träumen legt nahe, dass der REM-Schlaf eine wichtige Rolle bei der Regulierung und Verarbeitung schwieriger Gefühle spielt. Das Gehirn scheint Träume zu nutzen, um emotionale Prozesse „abzuschließen“ — und im Traum zu weinen ist eines der klarsten Zeichen dafür, dass diese Verarbeitung aktiv stattfindet, oft als gesundes Ventil. Manche Menschen wachen mit einem Gefühl der Leichtigkeit auf, während andere tatsächlich Tränen auf den Wangen finden, sobald sie die Augen öffnen.
 
 Im Traum zu weinen kann auch Raum schaffen für Gefühle, die du dir im Wachzustand nicht ganz erlaubst zu fühlen. In einer Kultur, in der wir nicht immer leicht vor anderen weinen, kann der Traum zu einem Ort werden, an dem diese Gefühle endlich herauskommen dürfen — ohne dass jemand zusieht.
 

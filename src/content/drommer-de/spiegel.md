@@ -77,7 +77,7 @@ Ein Spiegel im Traum wird oft als Bild dafür gelesen, wie du dich gerade selbst
 
 Dem fremden Gesicht im Spiegel zu begegnen — oder einer Version von dir selbst, die du nicht erkennst — kann bedeuten, vor einer Seite von dir zu stehen, die du versteckt oder weggeschoben hast, eine Art Doppelgänger, der gesehen werden will. Solche Begegnungen sind selten angenehm, aber sie können auch die Tür zu einer ehrlicheren Selbstbetrachtung öffnen.
 
-Spiegel stehen in Geschichten und Volksüberlieferungen seit Langem für Wahrheit und Selbsterkenntnis, vom sprechenden Spiegel des Schneewittchens bis zu Narziss, gefangen von seinem eigenen Spiegelbild im Wasser. In vielen Volkstraditionen wurden Spiegel auch als Portale oder „Seelenfänger" gesehen — teils der Grund, warum sie nach einem Todesfall in der Familie einst verhängt wurden, und warum ein zerbrochener Spiegel als Vorzeichen von Unglück galt. Dieses Erbe ist mit ein Grund, warum Spiegel in Träumen sich oft aufgeladener anfühlen als ein alltäglicher Gegenstand.
+Spiegel stehen in Geschichten und Volksüberlieferungen seit Langem für Wahrheit und Selbsterkenntnis, vom sprechenden Spiegel des Schneewittchens bis zu Narziss, gefangen von seinem eigenen Spiegelbild im Wasser. In vielen Volkstraditionen wurden Spiegel auch als Portale oder „Seelenfänger“ gesehen — teils der Grund, warum sie nach einem Todesfall in der Familie einst verhängt wurden, und warum ein zerbrochener Spiegel als Vorzeichen von Unglück galt. Dieses Erbe ist mit ein Grund, warum Spiegel in Träumen sich oft aufgeladener anfühlen als ein alltäglicher Gegenstand.
 
 ## Quellen und weiterführende Literatur
 

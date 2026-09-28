@@ -69,7 +69,7 @@ Ein Impuls zu dienen, eine Demut, oder eine Fürsorge für die grundlegendsten B
 
 ## Halt, Richtung und der Weg vor dir
 
-Füße sind das Fundament, auf dem du stehst — das, was dich geerdet und stabil macht. „Auf eigenen Füßen stehen" und „festen Boden unter den Füßen finden" sind Redewendungen, die genau darauf hinweisen: ein grundlegendes Gefühl von Sicherheit im Leben. Träume von starken, sicheren Füßen können das Gefühl spiegeln, fest im Leben zu stehen, während unsichere oder schmerzende Füße darauf hindeuten können, dass sich der Boden weniger stabil anfühlt, als dir lieb wäre.
+Füße sind das Fundament, auf dem du stehst — das, was dich geerdet und stabil macht. „Auf eigenen Füßen stehen“ und „festen Boden unter den Füßen finden“ sind Redewendungen, die genau darauf hinweisen: ein grundlegendes Gefühl von Sicherheit im Leben. Träume von starken, sicheren Füßen können das Gefühl spiegeln, fest im Leben zu stehen, während unsichere oder schmerzende Füße darauf hindeuten können, dass sich der Boden weniger stabil anfühlt, als dir lieb wäre.
 
 Füße tragen dich zugleich vorwärts — es geht um Richtung und Bewegung. Ein Traum vom Gehen kann davon handeln, wohin dein Weg führt, ob du dich auf etwas zubewegst, das du willst, oder ob du überhaupt vorankommst. Festzustecken, oder nicht vorwärtszukommen, egal wie viel du gehst, kann eine Phase spiegeln, in der sich etwas im Leben festgefahren anfühlt.
 

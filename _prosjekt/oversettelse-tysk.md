@@ -126,6 +126,17 @@ la den stå.
 
 ---
 
+## Anførselstegn
+
+Tysk åpner med `„` og lukker med `“`. Ikke med `"`.
+
+Dette sto feil i 178 sitater fordelt på 99 filer før det ble oppdaget, og grunnen
+er verdt å kjenne: hver pulje kopierte mønsteret fra forbildefilene den fikk
+utdelt, så feilen forplantet seg gjennom hver eneste runde uten at noen skrev den
+inn bevisst. `germanismer.py` har nå en HARD-regel for den.
+
+Nordiske `«…»` hører ikke hjemme i tysk brødtekst i det hele tatt.
+
 ## Tone og innhold
 
 - Varm, respektfull, nysgjerrig. Ikke akademisk, ikke mystisk.

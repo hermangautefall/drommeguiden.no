@@ -61,7 +61,7 @@ Ein überraschender Fund im eigenen Gepäck — etwas, das du mit dir trägst, o
 
 Ein Koffer im Traum lässt sich als Bild von Reise und Übergang lesen — dass sich etwas in deinem Leben in Bewegung setzt, oder dass eine neue Phase näher rückt. Einen Koffer zu packen kann Vorbereitung spiegeln, während Unsicherheit darüber, was mitkommen soll, als Unsicherheit über die Reise oder den Übergang selbst gelesen werden kann.
 
-Der Ausdruck „emotionaler Ballast" kommt nicht von ungefähr — der Koffer lässt sich als das lesen, was du an vergangenen Erfahrungen, unerledigten Dingen oder alten Mustern mit dir trägst. Ein schwerer Koffer kann deshalb ein Gefühl spiegeln, zu viel zu tragen, während ein verlorener Koffer als Angst gelesen werden kann, einen Teil von dir selbst zu verlieren, oder mitten in einem Übergang die Kontrolle zu verlieren.
+Der Ausdruck „emotionaler Ballast“ kommt nicht von ungefähr — der Koffer lässt sich als das lesen, was du an vergangenen Erfahrungen, unerledigten Dingen oder alten Mustern mit dir trägst. Ein schwerer Koffer kann deshalb ein Gefühl spiegeln, zu viel zu tragen, während ein verlorener Koffer als Angst gelesen werden kann, einen Teil von dir selbst zu verlieren, oder mitten in einem Übergang die Kontrolle zu verlieren.
 
 Was du in den Koffer packst und was du weglässt, kann auch deine Prioritäten spiegeln — was dir gerade wirklich wichtig ist, und welche Identität du weiterträgst. Die Reise kann sich wie Freiheit und neue Möglichkeit anfühlen, doch der Koffer erinnert zugleich an das Gewicht dessen, was wir nicht ganz loslassen können.
 

@@ -56,7 +56,7 @@ Zwei Seiten, die sich kaum unterscheiden lassen — etwas in dir ist gespalten, 
 Zwei eigenständige, vielleicht sogar gegensätzliche Seiten. Wofür stand jede von ihnen?
 
 **Warst du selbst der Zwilling:**
-Du erlebst dich selbst als doppelt — wer bist du wirklich, und wer ist „das andere Du"?
+Du erlebst dich selbst als doppelt — wer bist du wirklich, und wer ist „das andere Du“?
 
 **War ein Zwilling krank oder schwach:**
 Eine Seite von dir braucht Fürsorge. Die starke und die zerbrechliche Seite von etwas bestehen nebeneinander.

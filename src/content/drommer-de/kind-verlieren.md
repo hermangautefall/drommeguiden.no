@@ -69,7 +69,7 @@ Für alle, die im wirklichen Leben ein Kind verloren haben: Diese Träume sind T
 
 Träume vom Verlust eines Kindes gehören zu den am häufigsten berichteten Träumen, die Eltern haben, und sie stehen nur sehr selten mit etwas tatsächlich Geschehenem in Verbindung. Sie gehören zu der Kategorie, die Ernest Hartmann emotionale Verarbeitung nennt: Die Psyche nimmt das stärkste Gefühl, das du in dir trägst, und gibt ihm sein stärkstes Bild. Das sind Verarbeitungsträume, keine Warnungen.
 
-In vielen Kulturen gibt es die Tradition, solche Träume nicht laut auszusprechen — aus Angst, dass das Aussprechen „herbeiruft", was sie zeigen. Das ist ein nachvollziehbares Stück Volksglauben, aber die Traumforschung findet dafür keinen Beleg.
+In vielen Kulturen gibt es die Tradition, solche Träume nicht laut auszusprechen — aus Angst, dass das Aussprechen „herbeiruft“, was sie zeigen. Das ist ein nachvollziehbares Stück Volksglauben, aber die Traumforschung findet dafür keinen Beleg.
 
 Doch schon in der Grundidee des Traums liegt etwas zutiefst Menschliches: Eltern in jeder Kultur, in jeder Zeit, haben davon geträumt, das zu verlieren, was ihnen am teuersten ist. Es ist der Preis dafür, jemanden zu lieben.
 

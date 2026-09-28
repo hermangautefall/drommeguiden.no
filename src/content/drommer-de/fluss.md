@@ -83,7 +83,7 @@ Gefühle, die nicht mehr in ihre Grenzen passen — etwas wird überwältigend.
 
 ## Der Strom des Lebens und der Lauf des Gefühls
 
-Heraklits berühmter Satz — dass man nie zweimal in denselben Fluss steigen kann — ist vielleicht die knappste philosophische Formulierung dessen, wofür der Fluss steht. Alles ist im Fluss, nichts steht wirklich still, und doch erkennen wir den Fluss von Tag zu Tag als „denselben" wieder. Von einem Fluss zu träumen lässt sich als Erinnerung genau daran lesen: dass Veränderung die einzige Konstante ist, und dass der Versuch, an etwas festzuhalten, das sich von Natur aus bewegt, oft dort entsteht, wo die Reibung herkommt.
+Heraklits berühmter Satz — dass man nie zweimal in denselben Fluss steigen kann — ist vielleicht die knappste philosophische Formulierung dessen, wofür der Fluss steht. Alles ist im Fluss, nichts steht wirklich still, und doch erkennen wir den Fluss von Tag zu Tag als „denselben“ wieder. Von einem Fluss zu träumen lässt sich als Erinnerung genau daran lesen: dass Veränderung die einzige Konstante ist, und dass der Versuch, an etwas festzuhalten, das sich von Natur aus bewegt, oft dort entsteht, wo die Reibung herkommt.
 
 Viele Flussträume handeln im Grunde von Gefühlen, die in Bewegung sind statt festzustecken. Wo stehendes Wasser tief und abgeschlossen wirken kann, ist ein Fluss immer auf dem Weg irgendwohin — er verarbeitet, trägt, verwandelt. Ein klarer, gleichmäßiger Fluss kann Gefühle spiegeln, die frei fließen und ihre natürliche Form finden, während ein Fluss voller Strudel oder Gegenströmungen auf etwas in dir hindeuten kann, das gerade verarbeitet wird, aber noch keine Ruhe gefunden hat.
 

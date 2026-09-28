@@ -75,7 +75,7 @@ Ein positives Zeichen, das auf den Wunsch nach Echtheit hindeuten kann, und auf 
 
 Sigmund Freud schrieb in seiner Traumdeutung ausführlich über das, was er den Verlegenheitstraum der Nacktheit nannte. Er verband ihn mit der unbeschwerten Nacktheit der frühen Kindheit — einer Zeit, in der der Körper natürlich und schamfrei war — und las den Traum als Ausdruck der Spannung zwischen dem Wunsch, sich frei zu zeigen, und der Scham, die wir später daran zu knüpfen lernen. Diese Deutung trifft noch heute auf viele Menschen zu, die von Nacktheit träumen.
 
-Ein anderer Blickwinkel betrifft Verletzlichkeit und Bloßstellung. Die Angst, im tiefsten Sinne „gesehen" zu werden — bewertet, durchschaut, oder als Hochstapler entlarvt —, tragen sehr viele Menschen mit sich, besonders in Phasen, in denen sie eine Leistung erbringen oder sich vor anderen zeigen müssen. Der Nackttraum wird dann zu einem Bild davon, dein wahres Ich zu zeigen, ohne die Maske, die du sonst trägst.
+Ein anderer Blickwinkel betrifft Verletzlichkeit und Bloßstellung. Die Angst, im tiefsten Sinne „gesehen“ zu werden — bewertet, durchschaut, oder als Hochstapler entlarvt —, tragen sehr viele Menschen mit sich, besonders in Phasen, in denen sie eine Leistung erbringen oder sich vor anderen zeigen müssen. Der Nackttraum wird dann zu einem Bild davon, dein wahres Ich zu zeigen, ohne die Maske, die du sonst trägst.
 
 Ein Detail lohnt sich dabei festzuhalten, denn es wiederholt sich in vielen Nackträumen: Oft bemerkt niemand sonst im Traum die Nacktheit überhaupt, oder es ist ihnen einfach egal. Das sagt etwas Wesentliches aus — die Angst vor Bewertung entsteht oft in uns selbst und lebt eher in uns als darin, wie andere uns tatsächlich sehen.
 

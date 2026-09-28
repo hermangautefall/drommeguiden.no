@@ -28,7 +28,7 @@ Die Stimmung des Traums — ob der Elefant ruhig, stressig, hilfsbereit oder bed
 
 ### Weisheit, Erinnerung und die Vergangenheit
 
-„Ein Elefant vergisst nie" — und im Traum kann der Elefant genau dafür stehen: etwas aus der Vergangenheit, das wichtig ist, eine Erinnerung, die Bedeutung trägt, oder eine alte Weisheit, die gerade jetzt relevant ist. Vielleicht hast du in einer Phase von einem Elefanten geträumt, in der du etwas verarbeitest, das schon lange zurückliegt.
+„Ein Elefant vergisst nie“ — und im Traum kann der Elefant genau dafür stehen: etwas aus der Vergangenheit, das wichtig ist, eine Erinnerung, die Bedeutung trägt, oder eine alte Weisheit, die gerade jetzt relevant ist. Vielleicht hast du in einer Phase von einem Elefanten geträumt, in der du etwas verarbeitest, das schon lange zurückliegt.
 
 ### Eine schwere Last, die du trägst
 
@@ -54,11 +54,11 @@ Du bist in Kontakt mit einer großen Kraft und lenkst sie. Beherrschung und Kont
 
 ## Erinnerung, Weisheit und Kraft
 
-Der Elefant wird oft mit Erinnerung assoziiert — „ein Elefant vergisst nie" — und mit einer Weisheit, die daher kommt, lange gelebt und viel gesehen zu haben. Von einem Elefanten zu träumen lässt sich als Bild von Geduld und einer sanften, besonnenen Kraft lesen: eine Stärke, die sich nicht beweisen muss, aber da ist, wenn sie gebraucht wird.
+Der Elefant wird oft mit Erinnerung assoziiert — „ein Elefant vergisst nie“ — und mit einer Weisheit, die daher kommt, lange gelebt und viel gesehen zu haben. Von einem Elefanten zu träumen lässt sich als Bild von Geduld und einer sanften, besonnenen Kraft lesen: eine Stärke, die sich nicht beweisen muss, aber da ist, wenn sie gebraucht wird.
 
 In der hinduistischen Tradition ist Ganesha, der elefantenköpfige Gott, eine der beliebtesten Figuren — bekannt dafür, Hindernisse zu beseitigen und Türen zu neuen Anfängen zu öffnen. In der buddhistischen Erzähltradition soll Königin Maya von einem weißen Elefanten geträumt haben, bevor Buddha geboren wurde, und der Elefant wurde dadurch zu einem heiligen Omen für etwas Großes, das im Kommen ist. Der weiße Elefant steht seither als Bild eines disziplinierten, ruhigen Geistes — vielleicht eine Eigenschaft, auf die dein Traum hinweist, die du besitzt oder mehr davon brauchst.
 
-Der Traum kann auch von „dem Elefanten im Raum" handeln — etwas Großem und Offensichtlichem, über das du oder andere nicht sprechen wollen. In anderen Fällen lässt sich der Elefant stattdessen als schwere Last lesen, die du trägst, etwas, das sowohl Kraft als auch Geduld erfordert, das du aber letztlich zu tragen imstande bist.
+Der Traum kann auch von „dem Elefanten im Raum“ handeln — etwas Großem und Offensichtlichem, über das du oder andere nicht sprechen wollen. In anderen Fällen lässt sich der Elefant stattdessen als schwere Last lesen, die du trägst, etwas, das sowohl Kraft als auch Geduld erfordert, das du aber letztlich zu tragen imstande bist.
 
 ## Quellen und weiterführende Literatur
 

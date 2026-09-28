@@ -72,7 +72,7 @@ Ein positives Zeichen. Der Traum kann spiegeln, dass du Hilfe oder Unterstützun
 
 ## Wenn Gefühle über dir zusammenschlagen
 
-Träume vom Ertrinken spiegeln oft das Gefühl wider, überwältigt zu sein — schließlich sprechen wir davon, in Arbeit, Trauer oder Sorgen zu „ertrinken", wenn alles zu viel wird. Im Traum ist das Wasser das Gefühl selbst: etwas, das schneller steigt, als wir mithalten können, bis es uns schließlich über den Kopf wächst.
+Träume vom Ertrinken spiegeln oft das Gefühl wider, überwältigt zu sein — schließlich sprechen wir davon, in Arbeit, Trauer oder Sorgen zu „ertrinken“, wenn alles zu viel wird. Im Traum ist das Wasser das Gefühl selbst: etwas, das schneller steigt, als wir mithalten können, bis es uns schließlich über den Kopf wächst.
 
 Diese Träume sind meist intensiv, mit einem starken Gefühl von Panik und einem voll aktivierten Alarmsystem des Körpers. Es kann schlicht unangenehm sein, aus ihnen aufzuwachen. Für manche kann ein Ertrinkungstraum sogar eine rein physiologische Erklärung haben — etwa wenn die Atmung im Schlaf unregelmäßig oder behindert war —, aber meistens deutet er auf etwas hin, das im Wachleben auf dir lastet.
 

@@ -72,7 +72,7 @@ Kaum ein Wesen hat die Menschheit durch so viele Mythen und Symbole begleitet wi
 
 Die Schlange ist außerdem eng mit Heilung verbunden. Der Äskulapstab, eine einzelne Schlange, die sich um einen Stab windet, stammt aus der griechischen Mythologie und stellt den Gott der Medizin dar — das Symbol wird bis heute in der Medizin verwendet. Darin zeigt sich etwas von der grundlegenden Zweideutigkeit der Schlange: Sie kann Gift und Heilmittel zugleich sein, Gefahr und Kur, oft beides gleichzeitig.
 
-Sigmund Freud verwies auf die Schlange als eines der meistdiskutierten phallischen Symbole in Träumen und verband sie mit unterdrücktem Verlangen oder Sexualität. In der hinduistischen und yogischen Tradition findet sich eine andere Deutung: Kundalini, die „aufgerollte Schlange" der Energie, von der man sagt, sie ruhe am unteren Ende der Wirbelsäule, verbunden mit spirituellem Erwachen. Welche dieser Deutungen am besten passt, hängt oft davon ab, wie sich die Schlange in deinem Traum verhalten hat — und welches Gefühl sie in dir geweckt hat.
+Sigmund Freud verwies auf die Schlange als eines der meistdiskutierten phallischen Symbole in Träumen und verband sie mit unterdrücktem Verlangen oder Sexualität. In der hinduistischen und yogischen Tradition findet sich eine andere Deutung: Kundalini, die „aufgerollte Schlange“ der Energie, von der man sagt, sie ruhe am unteren Ende der Wirbelsäule, verbunden mit spirituellem Erwachen. Welche dieser Deutungen am besten passt, hängt oft davon ab, wie sich die Schlange in deinem Traum verhalten hat — und welches Gefühl sie in dir geweckt hat.
 
 ## Quellen und weiterführende Literatur
 

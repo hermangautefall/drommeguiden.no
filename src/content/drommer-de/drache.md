@@ -51,7 +51,7 @@ Ist der Drache schön und majestätisch, geht es im Traum wahrscheinlich um Bewu
 
 ## Der Schatten, Fáfnir, und der bewachte Schatz
 
-Carl Jung sah Drachen als archetypische Symbole des „Schattens" — der Seiten von uns, die wir nicht anerkennen wollen, die aber enorme Energie tragen. Die Schlange teilt diese archetypische Rolle in der Traumsymbolik. Dem Drachen im Traum zu begegnen ist, in jungianischen Begriffen, eine Einladung, dem zu begegnen, was wir in uns selbst fürchten.
+Carl Jung sah Drachen als archetypische Symbole des „Schattens“ — der Seiten von uns, die wir nicht anerkennen wollen, die aber enorme Energie tragen. Die Schlange teilt diese archetypische Rolle in der Traumsymbolik. Dem Drachen im Traum zu begegnen ist, in jungianischen Begriffen, eine Einladung, dem zu begegnen, was wir in uns selbst fürchten.
 
 In der nordischen Mythologie sind Drachen (Schlangen) die Hüter von Schätzen — Fáfnir in der Sage von Sigurd ist das Paradebeispiel. Den Drachen zu erschlagen bedeutet, sich Zugang zu verborgenem Reichtum zu verschaffen, doch es verlangt Mut und Klugheit. Der Traum kann das spiegeln: Etwas Wertvolles ist in Reichweite, aber es zu erreichen verlangt von dir, den Mut zu haben, dem zu begegnen, was es bewacht.
 

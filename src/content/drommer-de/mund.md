@@ -55,11 +55,11 @@ Sieh dir dazu das Symbol Zähne an — das gehört zu den häufigsten Körpertr�
 
 ## Stimme, Worte und das, was wir aufnehmen
 
-Der Mund ist der Ort, an dem Worte geformt werden — und Träume vom Mund handeln oft von deiner Stimme: was du sagst, was du nicht herausbringst, und was du bereust, gesagt zu haben. „Sich auf die Zunge beißen" ist ein Bild der Selbstbeherrschung, das auf zwei Arten wirken kann — manchmal zahlt sich Zurückhaltung aus, ein anderes Mal fühlt es sich an, als würdest du zum Schweigen gebracht. Ein Mund, der sich nicht öffnen will, oder den du nicht dazu bringst zu sprechen, kann im Traum auf das Gefühl hindeuten, nicht gehört zu werden oder keine Chance zu bekommen.
+Der Mund ist der Ort, an dem Worte geformt werden — und Träume vom Mund handeln oft von deiner Stimme: was du sagst, was du nicht herausbringst, und was du bereust, gesagt zu haben. „Sich auf die Zunge beißen“ ist ein Bild der Selbstbeherrschung, das auf zwei Arten wirken kann — manchmal zahlt sich Zurückhaltung aus, ein anderes Mal fühlt es sich an, als würdest du zum Schweigen gebracht. Ein Mund, der sich nicht öffnen will, oder den du nicht dazu bringst zu sprechen, kann im Traum auf das Gefühl hindeuten, nicht gehört zu werden oder keine Chance zu bekommen.
 
 Was im Traum tatsächlich aus dem Mund herauskommt, lohnt sich ebenfalls zu beachten — waren die Worte wahr, hart, freundlich oder unehrlich? Träume spiegeln oft, wie du zu Wahrheit und Ehrlichkeit in deiner Kommunikation stehst, sowohl mit anderen als auch mit dir selbst.
 
-Der Mund ist auch ein Eingangstor — dort nehmen wir Nahrung auf, aber auch Ideen, Eindrücke und Einflüsse von außen. Ein Traum vom Mund kann deshalb im weiteren Sinne von Appetit handeln: was du willst, wovon du dich beeinflussen lässt, oder worin du vielleicht kritischer sein solltest, was du „schluckst". Mundträume überschneiden sich oft mit Zahnträumen, und beide können sich um Sorgen bezüglich Aussehen, Kommunikation oder Kontrolle drehen.
+Der Mund ist auch ein Eingangstor — dort nehmen wir Nahrung auf, aber auch Ideen, Eindrücke und Einflüsse von außen. Ein Traum vom Mund kann deshalb im weiteren Sinne von Appetit handeln: was du willst, wovon du dich beeinflussen lässt, oder worin du vielleicht kritischer sein solltest, was du „schluckst“. Mundträume überschneiden sich oft mit Zahnträumen, und beide können sich um Sorgen bezüglich Aussehen, Kommunikation oder Kontrolle drehen.
 
 ## Quellen und weiterführende Literatur
 

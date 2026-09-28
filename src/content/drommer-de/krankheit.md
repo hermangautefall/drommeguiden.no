@@ -61,7 +61,7 @@ Du suchst und findest Hilfe und Unterstützung — sei es tatsächlich oder symb
 
 ## Wenn etwas heilen muss — Körper und Geist
 
-Von Krankheit zu träumen lässt sich oft als die Art von Körper und Geist lesen, einem emotionalen Unwohlsein Worte zu geben — etwas, das auf dir lastet, eine Situation, die dich vor Sorge „krank macht", oder Gefühle, denen du im Wachzustand wenig Raum gegeben hast. Der Traum gibt einem Bild, was sich schwer in Worte fassen lässt.
+Von Krankheit zu träumen lässt sich oft als die Art von Körper und Geist lesen, einem emotionalen Unwohlsein Worte zu geben — etwas, das auf dir lastet, eine Situation, die dich vor Sorge „krank macht“, oder Gefühle, denen du im Wachzustand wenig Raum gegeben hast. Der Traum gibt einem Bild, was sich schwer in Worte fassen lässt.
 
 Solche Träume können auch eine Erinnerung daran sein, auf dich zu achten — ein wenig langsamer zu machen, dich auszuruhen und Bedürfnisse anzuerkennen, die du vielleicht beiseitegeschoben hast. Fürsorge zu brauchen ist kein Versagen; der Traum ist vielleicht einfach die Art des Geistes zu sagen, dass es Zeit ist, auf den Körper zu hören.
 

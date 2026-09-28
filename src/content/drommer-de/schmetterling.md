@@ -33,7 +33,7 @@ Die häufigste Deutung ist Verwandlung — ein Prozess, der entweder schon im Ga
 
 ### Die Seele und das Spirituelle
 
-In der griechischen Mythologie bedeutet das Wort „Psyche" sowohl Seele als auch Schmetterling. Der Traum kann eine spirituelle Dimension tragen — eine Erinnerung daran, dass du mehr bist als das Sichtbare, dass etwas Leichtes und Bleibendes in dir ist, das nicht an das Irdische gebunden ist.
+In der griechischen Mythologie bedeutet das Wort „Psyche“ sowohl Seele als auch Schmetterling. Der Traum kann eine spirituelle Dimension tragen — eine Erinnerung daran, dass du mehr bist als das Sichtbare, dass etwas Leichtes und Bleibendes in dir ist, das nicht an das Irdische gebunden ist.
 
 ### Leichtigkeit und Freude
 
@@ -55,7 +55,7 @@ Eine Verwandlung, die schwierig ist, oder ein Prozess, der auf Widerstand trifft
 
 ## Verwandlung, Seele und Leichtigkeit
 
-Die grundlegendste Perspektive dreht sich um die Verwandlung selbst. Die Metamorphose von der Raupe über die Puppe zum Schmetterling ist eines der konkretesten Bilder der Natur für tiefgreifenden persönlichen Wandel — eine alte Form zurückzulassen und als etwas Neues hervorzutreten. Auf Griechisch bedeutet das Wort „Psyche" sowohl „Seele" als auch „Schmetterling", und diese doppelte Bedeutung begleitet das Symbol seit Jahrtausenden: der Schmetterling als die eigene Gestalt der Seele.
+Die grundlegendste Perspektive dreht sich um die Verwandlung selbst. Die Metamorphose von der Raupe über die Puppe zum Schmetterling ist eines der konkretesten Bilder der Natur für tiefgreifenden persönlichen Wandel — eine alte Form zurückzulassen und als etwas Neues hervorzutreten. Auf Griechisch bedeutet das Wort „Psyche“ sowohl „Seele“ als auch „Schmetterling“, und diese doppelte Bedeutung begleitet das Symbol seit Jahrtausenden: der Schmetterling als die eigene Gestalt der Seele.
 
 Eine andere Perspektive dreht sich um Leichtigkeit, Freude und Freiheit. Der Schmetterling ist Schönheit in ihrer flüchtigsten Form — ein Wesen, das kurz, aber intensiv lebt, und uns daran erinnert, im Augenblick zu bleiben. Der Traum kann eine sanfte, hoffnungsvolle Botschaft tragen: dass etwas Leichtes und Schönes auf dem Weg in dein Leben ist.
 

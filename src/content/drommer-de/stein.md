@@ -33,7 +33,7 @@ Ein Stein verändert sich nicht — und im Traum steht er oft für etwas, das h�
 
 ### Gewicht und das, was sich schwer bewegen lässt
 
-Steine sind schwer. Ein Stein in deinem Traum kann eine Last darstellen — etwas, das schwer zu tragen ist, etwas so Festes, dass es sich der Veränderung widersetzt, eine Situation, die feststeckt und Zeit oder echte Anstrengung braucht, um sich zu bewegen. Was fühlt sich in deinem Leben gerade „schwer wie ein Stein" an?
+Steine sind schwer. Ein Stein in deinem Traum kann eine Last darstellen — etwas, das schwer zu tragen ist, etwas so Festes, dass es sich der Veränderung widersetzt, eine Situation, die feststeckt und Zeit oder echte Anstrengung braucht, um sich zu bewegen. Was fühlt sich in deinem Leben gerade „schwer wie ein Stein“ an?
 
 ### Stärke und Festigkeit
 
@@ -75,7 +75,7 @@ Was du für beständig hieltst, erweist sich als nicht so beständig. Eine Annah
 
 ## Ein Bild dessen, was Bestand hat
 
-Nur wenige Objekte haben über so viele Kulturen und so lange Zeit hinweg so viel Gewicht getragen wie der Stein. In der islamischen Tradition ist der Schwarze Stein, der in die Ecke der Kaaba eingelassen ist, eines der heiligsten physischen Objekte des Glaubens, berührt oder geküsst von Millionen Pilgern jedes Jahr. In der jüdisch-christlichen Tradition verankert Stein einige der ältesten Geschichten: Jakobs Leiter erhob sich von einem Stein, den er als Kissen benutzt hatte, die Gebote wurden in steinerne Tafeln gemeißelt, und Jesus wird in der frühen Kirche als ihr „Eckstein" beschrieben. Megalithische Kulturen — von Stonehenge bis zu den Menhiren der Bretagne und Irlands — errichteten gewaltige Steine, um Zeit, Ritual und Abstammung zu markieren, und verliehen dem Stein damit eine Art Gedächtnis, das älter ist als die Schrift selbst.
+Nur wenige Objekte haben über so viele Kulturen und so lange Zeit hinweg so viel Gewicht getragen wie der Stein. In der islamischen Tradition ist der Schwarze Stein, der in die Ecke der Kaaba eingelassen ist, eines der heiligsten physischen Objekte des Glaubens, berührt oder geküsst von Millionen Pilgern jedes Jahr. In der jüdisch-christlichen Tradition verankert Stein einige der ältesten Geschichten: Jakobs Leiter erhob sich von einem Stein, den er als Kissen benutzt hatte, die Gebote wurden in steinerne Tafeln gemeißelt, und Jesus wird in der frühen Kirche als ihr „Eckstein“ beschrieben. Megalithische Kulturen — von Stonehenge bis zu den Menhiren der Bretagne und Irlands — errichteten gewaltige Steine, um Zeit, Ritual und Abstammung zu markieren, und verliehen dem Stein damit eine Art Gedächtnis, das älter ist als die Schrift selbst.
 
 In der Alchemie, und später im jungianischen Denken, stand der *lapis philosophorum* — der Stein der Weisen — als Ziel des gesamten Verwandlungsprozesses: das dauerhafte, integrierte, authentische Selbst, geläutert durch alles, was es durchgemacht hat. So gelesen kann ein Stein in deinem Traum ein Bild für etwas in dir sein, das eine Prüfung überstanden hat, fest geworden ist und real wurde.
 

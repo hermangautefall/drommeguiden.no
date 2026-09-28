@@ -56,7 +56,7 @@ Freiheit, Energie und die Freude an der Bewegung. Du bist im Flow.
 
 ## Das Fundament, auf dem wir stehen
 
-Beine als Symbol für das Fundament sind nahezu universell — von „auf eigenen Beinen stehen" bis „wieder festen Boden unter den Füßen bekommen". Stehen, Gehen und Laufen gehören zu den grundlegendsten menschlichen Handlungen, und im Traum sind sie eng mit psychologischer Freiheit und Stärke verbunden.
+Beine als Symbol für das Fundament sind nahezu universell — von „auf eigenen Beinen stehen“ bis „wieder festen Boden unter den Füßen bekommen“. Stehen, Gehen und Laufen gehören zu den grundlegendsten menschlichen Handlungen, und im Traum sind sie eng mit psychologischer Freiheit und Stärke verbunden.
 
 Jung hätte starke Beine vermutlich als Symbol für eine gut entwickelte Fähigkeit gesehen, sich in der Welt zu bewegen — ein Ich, das sicher verankert ist und sich mit Zuversicht bewegen kann. Träume von Händen dagegen handeln eher vom Handeln selbst und von der Fähigkeit, die Welt zu ergreifen.
 

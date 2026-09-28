@@ -35,7 +35,7 @@ Der Traum muss nicht von ihr als Person handeln — er kann von dem handeln, wof
 
 ### Deine innere Stimme und dein Gewissen
 
-In der jungianischen Psychologie steht die Mutter im Traum oft für das, was Jung die „Große Mutter" nannte — eine archetypische Kraft, die zugleich gibt und fordert, die nährt und Grenzen setzt. Der Traum kann deine eigene innere Stimme spiegeln: Ein Teil von dir weiß, was richtig ist, und leiht sich dafür die Gestalt deiner Mutter.
+In der jungianischen Psychologie steht die Mutter im Traum oft für das, was Jung die „Große Mutter“ nannte — eine archetypische Kraft, die zugleich gibt und fordert, die nährt und Grenzen setzt. Der Traum kann deine eigene innere Stimme spiegeln: Ein Teil von dir weiß, was richtig ist, und leiht sich dafür die Gestalt deiner Mutter.
 
 War sie im Traum besorgt, enttäuscht oder stolz auf dich, frag dich, ob das etwas spiegelt, das du gerade selbst über dich und deine Entscheidungen denkst.
 

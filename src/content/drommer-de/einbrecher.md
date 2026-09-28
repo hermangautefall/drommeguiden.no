@@ -44,7 +44,7 @@ Der Traum gibt diesem Unbehagen eine konkrete Gestalt: einen Einbrecher, auf den
 
 Carl Jung hätte den Einbrecher im Traum wahrscheinlich als Erscheinungsform des Schattens gesehen — der Seiten von uns, die wir nicht anerkennen, die aber trotzdem hineinwollen. Ein Teil von dir, den du ausgesperrt hast, der aber weiter anklopft.
 
-Der Einbrecher als Stellvertreter für den Schatten ist in der Realität selten gefährlich — er ist einfach ungebeten. „Die Tür zu öffnen" und zu sehen, wer dort ist, kann überraschende Einsicht darin geben, was du unterdrückst.
+Der Einbrecher als Stellvertreter für den Schatten ist in der Realität selten gefährlich — er ist einfach ungebeten. „Die Tür zu öffnen“ und zu sehen, wer dort ist, kann überraschende Einsicht darin geben, was du unterdrückst.
 
 ### Angst vor dem Unkontrollierbaren
 

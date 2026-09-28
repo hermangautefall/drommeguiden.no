@@ -45,7 +45,7 @@ Die Deutung kann aber auch in die andere Richtung gehen: Wenn du im Traum viel B
 
 ### Familie, Zugehörigkeit und tiefe Bindungen
 
-Die Redewendung „Blut ist dicker als Wasser" gibt es in vielen Kulturen, und im Traum kann Blut die tiefsten Bindungen darstellen, die wir haben — zur Familie, zu Vorfahren, oder zu Menschen, mit denen wir auf einer grundlegenden Ebene verbunden sind. Von Blut zu träumen kann sich deshalb um die Beziehungen drehen, die dich prägen, ob im positiven oder im negativen Sinn.
+Die Redewendung „Blut ist dicker als Wasser“ gibt es in vielen Kulturen, und im Traum kann Blut die tiefsten Bindungen darstellen, die wir haben — zur Familie, zu Vorfahren, oder zu Menschen, mit denen wir auf einer grundlegenden Ebene verbunden sind. Von Blut zu träumen kann sich deshalb um die Beziehungen drehen, die dich prägen, ob im positiven oder im negativen Sinn.
 
 Wenn du davon träumst, mit jemand anderem Blut zu teilen, kann das eine tiefe Verbindung widerspiegeln — das Gefühl, wirklich zusammenzugehören. Blut kann aber auch familiäre Verpflichtungen darstellen, die auf dir lasten, ein Erbe, das du unfreiwillig trägst, oder Muster, die sich über Generationen wiederholt haben und die du vielleicht bereit bist zu durchbrechen.
 
@@ -75,9 +75,9 @@ Kann ein vages Unbehagen widerspiegeln — das Gefühl, dass etwas nicht stimmt,
 
 Kaum ein Symbol trägt so viel Gewicht wie Blut, und es kehrt weltweit über Kulturen hinweg auf auffallend ähnliche Weise wieder: Blut ist Leben, Blut ist Verwandtschaft, und Blut ist Opfer — oft alles zugleich. Es ist ein Symbol, das sowohl Schöpfung als auch Tod in sich trägt, und Träume von Blut borgen sich oft etwas von dieser Doppeldeutigkeit.
 
-Eine gängige Art, solche Träume zu lesen, unterscheidet zwischen Blutverlust und dem Gefühl, dass das Blut „kocht". Davon zu träumen, ausgeblutet zu werden, kann auf ein Gefühl von Erschöpfung, Auszehrung oder Energieverlust hindeuten — vielleicht ein Zeichen, dass jemand oder etwas mehr nimmt, als es zurückgibt. Blut kann andererseits auch für starke Gefühle in Bewegung stehen: Leidenschaft, Zorn, oder etwas, das kurz vor dem Ausbruch steht — so wie wir davon sprechen, dass Blut „kocht".
+Eine gängige Art, solche Träume zu lesen, unterscheidet zwischen Blutverlust und dem Gefühl, dass das Blut „kocht“. Davon zu träumen, ausgeblutet zu werden, kann auf ein Gefühl von Erschöpfung, Auszehrung oder Energieverlust hindeuten — vielleicht ein Zeichen, dass jemand oder etwas mehr nimmt, als es zurückgibt. Blut kann andererseits auch für starke Gefühle in Bewegung stehen: Leidenschaft, Zorn, oder etwas, das kurz vor dem Ausbruch steht — so wie wir davon sprechen, dass Blut „kocht“.
 
-Blut ist außerdem mit Abstammung und Erbe verbunden — mit dem, was wir „im Blut haben", was Generationen miteinander verbindet, im Guten wie im Schlechten. In vielen religiösen und rituellen Traditionen gilt Blut zudem als heilig: verwendet in Bündnissen, Opfern und Reinigungsriten. Ein Traum von Blut kann deshalb etwas sehr Grundlegendes berühren — Fragen von Herkunft, Zugehörigkeit, und dem, was wir von denen weitertragen, die vor uns kamen.
+Blut ist außerdem mit Abstammung und Erbe verbunden — mit dem, was wir „im Blut haben“, was Generationen miteinander verbindet, im Guten wie im Schlechten. In vielen religiösen und rituellen Traditionen gilt Blut zudem als heilig: verwendet in Bündnissen, Opfern und Reinigungsriten. Ein Traum von Blut kann deshalb etwas sehr Grundlegendes berühren — Fragen von Herkunft, Zugehörigkeit, und dem, was wir von denen weitertragen, die vor uns kamen.
 
 ## Quellen und weiterführende Literatur
 

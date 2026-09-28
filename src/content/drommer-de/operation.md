@@ -44,7 +44,7 @@ Operiert zu werden bedeutet, geöffnet zu werden — dein Inneres offengelegt zu
 
 Eine Operation ist eines der stärksten Bilder der Traumsprache für psychologische Arbeit — in dich hineinzugehen und etwas zu entfernen, das dort nicht hingehört. Eine Operation im Traum kann signalisieren, dass innere Arbeit im Gange ist: Therapie, die Verarbeitung einer schwierigen Erinnerung, eine Entscheidung darüber, was losgelassen werden muss.
 
-### Ein Zeichen, dass etwas „in einem Zug" geschehen muss
+### Ein Zeichen, dass etwas „in einem Zug“ geschehen muss
 
 Eine Operation ist kein allmählicher Prozess — sie ist konkret, geplant und abschließend. Eine Operation im Traum kann die Erkenntnis darstellen, dass sich etwas in deinem Leben nicht durch Abwarten lösen lässt — es braucht einen bewussten, entschlossenen Eingriff.
 
@@ -76,7 +76,7 @@ Du befindest dich in einem Zwischenzustand — weder schlafend noch wach, weder 
 
 ## Heilung, Verletzlichkeit und das Herausschneiden dessen, was wehtut
 
-Operationsträume lassen sich als Bild der Heilung lesen — dass etwas, das eine Weile wehgetan hat, jetzt entfernt oder korrigiert wird. Es kann um eine Gewohnheit gehen, eine Beziehung oder eine Last, die an dir zehrt, etwas, das der Traum als etwas rahmt, das „herausgeschnitten" werden muss, damit etwas Besseres seinen Platz einnehmen kann. Auch wenn das Bild drastisch ist, deutet es meist auf etwas Positives hin: eine Veränderung, die dich am Ende freier macht.
+Operationsträume lassen sich als Bild der Heilung lesen — dass etwas, das eine Weile wehgetan hat, jetzt entfernt oder korrigiert wird. Es kann um eine Gewohnheit gehen, eine Beziehung oder eine Last, die an dir zehrt, etwas, das der Traum als etwas rahmt, das „herausgeschnitten“ werden muss, damit etwas Besseres seinen Platz einnehmen kann. Auch wenn das Bild drastisch ist, deutet es meist auf etwas Positives hin: eine Veränderung, die dich am Ende freier macht.
 
 Auf dem Operationstisch zu liegen kann auch ein Gefühl von Verletzlichkeit widerspiegeln, in den Händen eines anderen zu sein — die Kontrolle für eine Weile abgeben zu müssen und darauf zu vertrauen, dass andere gut für dich sorgen. Das kann sich im Traum unangenehm anfühlen, aber es geht dabei oft eher um Vertrauen als um Gefahr: eine Erinnerung daran, dass es in Ordnung ist, sich durch etwas Schweres helfen zu lassen.
 

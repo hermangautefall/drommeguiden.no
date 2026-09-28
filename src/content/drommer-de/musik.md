@@ -60,7 +60,7 @@ Etwas blockiert deinen kreativen Ausdruck — eine Hemmung, eine Angst, eine Sit
 
 ## Noten als Sprache ohne Worte
 
-Musik ist eines der Phänomene, die Jung am meisten faszinierten — weil sie direkt auf das Unbewusste wirkt und den rationalen Verstand umgeht. Er beschrieb Musik als „einen unmittelbaren Ausdruck der Seele" und glaubte, dass Musik im Traum oft etwas mitteilte, wofür die Psyche keine Worte hatte.
+Musik ist eines der Phänomene, die Jung am meisten faszinierten — weil sie direkt auf das Unbewusste wirkt und den rationalen Verstand umgeht. Er beschrieb Musik als „einen unmittelbaren Ausdruck der Seele“ und glaubte, dass Musik im Traum oft etwas mitteilte, wofür die Psyche keine Worte hatte.
 
 Besonders für Musiker ist Musik nicht nur ein Symbol — sie ist eine Identität und eine Lebensweise. Von Musik zu träumen kann dann eine noch direktere und persönlichere Resonanz tragen: Es geht um den Kern dessen, wer du bist und wofür du hier bist.
 

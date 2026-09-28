@@ -43,7 +43,7 @@ Von Wespen gejagt zu werden lässt sich als etwas Aggressives lesen, das dir nac
 
 ## Scharfe Gefühle, und was besser ungestört bleibt
 
-Ein verwandter Blickwinkel betrifft Zorn und scharfe Gefühle. Die Wespe kann Reizbarkeit oder Feindseligkeit darstellen — deine eigene, oder etwas, das du von anderen aufnimmst. Ein „stechendes" Wort, eine spitze Bemerkung, oder eine Situation, in der sich jemand aggressiv verhält, ohne die produktive Süße, die wir mit einer Biene verbinden.
+Ein verwandter Blickwinkel betrifft Zorn und scharfe Gefühle. Die Wespe kann Reizbarkeit oder Feindseligkeit darstellen — deine eigene, oder etwas, das du von anderen aufnimmst. Ein „stechendes“ Wort, eine spitze Bemerkung, oder eine Situation, in der sich jemand aggressiv verhält, ohne die produktive Süße, die wir mit einer Biene verbinden.
 
 Schließlich kann die Wespe einfach für kleinere Sorgen stehen, die nicht loslassen — eine anhaltende, summende Unruhe im Hinterkopf. Es lohnt sich zu fragen, welche Energie die Wespe in deinem Traum eigentlich trug: War es Aggression, die heraus wollte, oder eine Warnung vor etwas, das mehr Vorsicht verlangt?
 

@@ -65,9 +65,9 @@ Achte darauf. Es ist oft etwas, das du bereits weißt und hören musst, überbra
 
 ## Fortdauernde Bindungen: Träume, die die Beziehung weitertragen
 
-In der modernen Trauerforschung gibt es das Konzept der „fortdauernden Bindungen" (engl. continuing bonds) — die Idee, dass gesunde Trauer nicht darin besteht, „loszulassen", sondern eine neue Form der Verbindung zu der Person zu finden, die gegangen ist. Träume sind einer der Orte, an denen diese Bindung weiterlebt. Studien unter anderem aus der Palliativpflege zeigen, dass Trauerträume sehr häufig sind und dass die meisten Menschen, die sie erleben, sie als bedeutsam und tröstlich beschreiben, nicht als beängstigend.
+In der modernen Trauerforschung gibt es das Konzept der „fortdauernden Bindungen“ (engl. continuing bonds) — die Idee, dass gesunde Trauer nicht darin besteht, „loszulassen“, sondern eine neue Form der Verbindung zu der Person zu finden, die gegangen ist. Träume sind einer der Orte, an denen diese Bindung weiterlebt. Studien unter anderem aus der Palliativpflege zeigen, dass Trauerträume sehr häufig sind und dass die meisten Menschen, die sie erleben, sie als bedeutsam und tröstlich beschreiben, nicht als beängstigend.
 
-Eine bestimmte Kategorie wird oft als „Besuchsträume" bezeichnet — ungewöhnlich lebendige und friedliche Träume, in denen die verstorbene Person wohlauf, ruhig und vollständig präsent erscheint, und du wachst mit dem Gefühl auf, dass etwas Reales geschehen ist. Dieses Phänomen ist in nahezu jeder Kultur und Epoche beschrieben worden und gehört zu den universellsten Traumerfahrungen, die Menschen teilen.
+Eine bestimmte Kategorie wird oft als „Besuchsträume“ bezeichnet — ungewöhnlich lebendige und friedliche Träume, in denen die verstorbene Person wohlauf, ruhig und vollständig präsent erscheint, und du wachst mit dem Gefühl auf, dass etwas Reales geschehen ist. Dieses Phänomen ist in nahezu jeder Kultur und Epoche beschrieben worden und gehört zu den universellsten Traumerfahrungen, die Menschen teilen.
 
 Vor allem lassen sich diese Träume als die Art des Geistes verstehen, Raum für das zu schaffen, was ungesagt blieb. Die verstorbene Person existiert weiter als innere Gestalt — eine Stimme, ein Blick, eine Präsenz —, die du in dir weiterträgst, und der Traum wird zu einem Ort, an dem sich diese Bindung wieder zeigen kann.
 

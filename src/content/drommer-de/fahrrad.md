@@ -41,7 +41,7 @@ Das Fahrrad ist das Fahrzeug der Freiheit — keine Treibstoffkosten, kein Stau,
 
 ### Ein Kreislauf in deinem Leben
 
-Das englische Wort für Fahrrad, *bicycle*, trägt in seiner Wurzel *kyklos*, griechisch für „Kreis", die Vorstellung von Wiederholung und Kreisen. Das Fahrrad im Traum kann auf einen Lebenszyklus hinweisen, in dem du dich befindest: eine Phase, die sich wiederholt, ein gemusterter Rhythmus von Höhen und Tiefen, oder eine Bewegung von einem Standpunkt zurück zu einem anderen, an dem du schon einmal gestanden hast — aber jetzt mit etwas mehr Erfahrung.
+Das englische Wort für Fahrrad, *bicycle*, trägt in seiner Wurzel *kyklos*, griechisch für „Kreis“, die Vorstellung von Wiederholung und Kreisen. Das Fahrrad im Traum kann auf einen Lebenszyklus hinweisen, in dem du dich befindest: eine Phase, die sich wiederholt, ein gemusterter Rhythmus von Höhen und Tiefen, oder eine Bewegung von einem Standpunkt zurück zu einem anderen, an dem du schon einmal gestanden hast — aber jetzt mit etwas mehr Erfahrung.
 
 ## Bergauf, bergab, oder aus dem Gleichgewicht
 

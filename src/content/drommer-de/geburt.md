@@ -43,7 +43,7 @@ Wer oder was wird geboren? Das ist die zentrale Frage.
 
 ### Ein kreativer Prozess, der Früchte trägt
 
-Geburt und Kreativität sind kulturübergreifend miteinander verbunden — wir „gebären" Ideen, wir „bringen Projekte auf die Welt", wir sprechen vom „Erschaffen" wie von einer Art Wehen. Die Geburt im Traum kann einen kreativen Prozess spiegeln, der sich seinem Ende nähert — etwas, das du gebaut, geschrieben, komponiert oder gemacht hast, ist bereit, der Welt zu begegnen.
+Geburt und Kreativität sind kulturübergreifend miteinander verbunden — wir „gebären“ Ideen, wir „bringen Projekte auf die Welt“, wir sprechen vom „Erschaffen“ wie von einer Art Wehen. Die Geburt im Traum kann einen kreativen Prozess spiegeln, der sich seinem Ende nähert — etwas, das du gebaut, geschrieben, komponiert oder gemacht hast, ist bereit, der Welt zu begegnen.
 
 ### Verantwortung und Fürsorge
 
@@ -78,7 +78,7 @@ Sieh dir auch die Seite über das Schwangersein an — etwas ist im Verborgenen 
 
 ## Das Neue, das geboren wird
 
-Viele Geburtsträume tauchen in Phasen auf, in denen etwas Neues in deinem Leben zu keimen beginnt — eine Idee, ein Projekt, ein Plan, den du schon eine Weile mit dir trägst. Die Bildsprache des Traums lässt sich als Zeichen lesen, dass das, was still gewachsen ist, jetzt bereit ist, sich der Welt zu zeigen. Kreativität hat ihre eigene Zeit, und die Geburt im Traum kann markieren, dass etwas „ausgetragen" ist und darauf wartet, hervorzutreten.
+Viele Geburtsträume tauchen in Phasen auf, in denen etwas Neues in deinem Leben zu keimen beginnt — eine Idee, ein Projekt, ein Plan, den du schon eine Weile mit dir trägst. Die Bildsprache des Traums lässt sich als Zeichen lesen, dass das, was still gewachsen ist, jetzt bereit ist, sich der Welt zu zeigen. Kreativität hat ihre eigene Zeit, und die Geburt im Traum kann markieren, dass etwas „ausgetragen“ ist und darauf wartet, hervorzutreten.
 
 Ein anderes Mal geht es um eine größere Wandlung in dir selbst — eine neue Lebensphase, eine neue Rolle, eine neue Sicht darauf, wer du bist. Die Wehen vor der Geburt lassen sich dann als Bild der Anstrengung und Geduld lesen, die allem Bedeutsamen oft vorausgehen. Unterwegs kann es sich fordernd anfühlen, doch der Traum weist meist nach vorn, auf etwas, das gerade Gestalt annimmt.
 

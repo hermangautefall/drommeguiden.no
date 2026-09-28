@@ -71,7 +71,7 @@ Ein Wunsch nach Freiheit, Sicherheit und Wahlmöglichkeiten — oder eine Art, e
 
 Geld in Träumen dreht sich selten um wörtliches Geld — es wird eher als Bild von Selbstwertgefühl, persönlichem Wert und den Ressourcen gedeutet, die du in dir trägst. Geld im Traum zu finden kann darauf hindeuten, dass du eine Fähigkeit oder ein Talent entdeckst, dessen Wert du bisher nicht erkannt hattest; Geld zu verlieren kann mit der Angst zu tun haben, Status, Kontrolle oder Selbstvertrauen zu verlieren.
 
-Einige frühe Psychoanalytiker, darunter Freud und Ferenczi, verbanden Geld und Gold mit einem Bedürfnis nach Kontrolle und einer Neigung zum Zurückhalten — eine historische Kuriosität, die immer noch relevant wirken kann für jeden, der sich in einem „Horten" von Sicherheit wiedererkennt. In der Volksüberlieferung ist das Bild alles andere als einheitlich: In manchen Traditionen ist es ein Zeichen von Glück, von Geld zu träumen; in anderen das Gegenteil — vom Geld träumen, zum Verlust erwachen.
+Einige frühe Psychoanalytiker, darunter Freud und Ferenczi, verbanden Geld und Gold mit einem Bedürfnis nach Kontrolle und einer Neigung zum Zurückhalten — eine historische Kuriosität, die immer noch relevant wirken kann für jeden, der sich in einem „Horten“ von Sicherheit wiedererkennt. In der Volksüberlieferung ist das Bild alles andere als einheitlich: In manchen Traditionen ist es ein Zeichen von Glück, von Geld zu träumen; in anderen das Gegenteil — vom Geld träumen, zum Verlust erwachen.
 
 Am Ende können Geldträume auch von Macht und Energie handeln: was du wertschätzt, wer die Kontrolle hat, und wie sich diese Fragen in deinen Beziehungen zeigen.
 

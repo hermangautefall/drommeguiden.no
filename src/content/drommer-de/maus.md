@@ -58,7 +58,7 @@ Du packst etwas Kleines, aber Lästiges an und kümmerst dich darum.
 
 ## Kleine Sorgen und die leise Art von Stärke
 
-Eine naheliegende Deutung hat mit den kleinen, nagenden Sorgen zu tun. Die Maus kann Schüchternheit darstellen, ein Gefühl von Kleinheit oder Bedeutungslosigkeit, oder kleinere Probleme, die am Rand deines Bewusstseins nagen. Etwas, das an dir „nagt" — nicht groß genug, um es direkt anzugehen, aber genug, um dir jeden Tag ein wenig Aufmerksamkeit zu stehlen.
+Eine naheliegende Deutung hat mit den kleinen, nagenden Sorgen zu tun. Die Maus kann Schüchternheit darstellen, ein Gefühl von Kleinheit oder Bedeutungslosigkeit, oder kleinere Probleme, die am Rand deines Bewusstseins nagen. Etwas, das an dir „nagt“ — nicht groß genug, um es direkt anzugehen, aber genug, um dir jeden Tag ein wenig Aufmerksamkeit zu stehlen.
 
 Eine andere Deutung liegt in der Bescheidenheit. Die Maus lebt am Rand, oft unbemerkt, und kann deshalb eine Aufmerksamkeit für Details widerspiegeln, die leicht übersehen wird — oder ein Gefühl, selbst übersehen zu werden, still und ungesehen in einer Situation, in der andere mehr Raum einnehmen.
 

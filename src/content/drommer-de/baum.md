@@ -35,7 +35,7 @@ Der Zustand des Baumes ist ein direktes Spiegelbild deines inneren Zustands.
 
 ### Familie, Abstammung und Wurzeln
 
-Der Baum ist das universelle Bild für Abstammung — „Stammbaum" ist kein Wort, das zufällig entstanden ist. Von einem Baum zu träumen kann von der Familie handeln, aus der du kommst, von deinen Wurzeln, von der Geschichte und den Werten, die du mit dir trägst. Die Wurzeln sind das, worauf du gebaut bist; der Stamm ist, wer du bist; die Krone ist, was du weitergibst.
+Der Baum ist das universelle Bild für Abstammung — „Stammbaum“ ist kein Wort, das zufällig entstanden ist. Von einem Baum zu träumen kann von der Familie handeln, aus der du kommst, von deinen Wurzeln, von der Geschichte und den Werten, die du mit dir trägst. Die Wurzeln sind das, worauf du gebaut bist; der Stamm ist, wer du bist; die Krone ist, was du weitergibst.
 
 Träume von Baumwurzeln sind besonders eindringlich — sie handeln davon, worin du verwurzelt bist, und ob dieses Fundament hält.
 

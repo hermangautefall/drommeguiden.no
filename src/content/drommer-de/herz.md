@@ -33,7 +33,7 @@ Die gängigste Deutung von Herzträumen hat mit dem Gefühlsleben zu tun — dei
 
 ### Mut und deinem Herzen folgen
 
-„Sich ein Herz fassen" ist als Redewendung kein Zufall — in vielen Traditionen ist das Herz der Sitz des Mutes. Vom Herzen zu träumen kann in Phasen auftauchen, in denen du vor einer Entscheidung stehst, die genau das verlangt: im Einklang mit dem zu handeln, was du tief im Inneren als richtig erkennst, selbst wenn dein Verstand dagegen protestiert.
+„Sich ein Herz fassen“ ist als Redewendung kein Zufall — in vielen Traditionen ist das Herz der Sitz des Mutes. Vom Herzen zu träumen kann in Phasen auftauchen, in denen du vor einer Entscheidung stehst, die genau das verlangt: im Einklang mit dem zu handeln, was du tief im Inneren als richtig erkennst, selbst wenn dein Verstand dagegen protestiert.
 
 Der Traum kann eine Frage stellen: Was sagt dein Herz, und traust du dich, darauf zu hören?
 
@@ -67,11 +67,11 @@ Du hältst etwas zutiefst Persönliches und Verletzliches in Händen — viellei
 
 ## Das Zentrum des Fühlens und was wir wirklich empfinden
 
-Das Herz ist in vielerlei Hinsicht die Adresse des Gefühlslebens — wir sagen, etwas „geht uns zu Herzen", dass wir „unserem Herzen folgen", oder dass uns „das Herz bis zum Hals schlägt". Vom Herzen zu träumen kann deshalb von Liebe, Mitgefühl und emotionaler Ehrlichkeit handeln: Was fühlst du eigentlich, unter all dem Praktischen und Vernünftigen, das die Tage füllt?
+Das Herz ist in vielerlei Hinsicht die Adresse des Gefühlslebens — wir sagen, etwas „geht uns zu Herzen“, dass wir „unserem Herzen folgen“, oder dass uns „das Herz bis zum Hals schlägt“. Vom Herzen zu träumen kann deshalb von Liebe, Mitgefühl und emotionaler Ehrlichkeit handeln: Was fühlst du eigentlich, unter all dem Praktischen und Vernünftigen, das die Tage füllt?
 
 Gleichzeitig ist das Herz ein Organ, und auch der Körper spricht durch Träume. Herzträume können gelegentlich eine zugrunde liegende Sorge um die Gesundheit spiegeln, oder Stress und Angst, die sich im Körper festgesetzt haben — das hämmernde Herz der Angst ist eine vertraute körperliche Erfahrung. In der Regel ist der Traum symbolisch, aber es lohnt sich trotzdem, hinzuhören, wenn das Unbehagen auch im Wachzustand anhält.
 
-„Herz" steht auch für Mut und für den Kern einer Sache — „sich ein Herz fassen" bedeutet, sich zu trauen zu zeigen, was man fühlt, und „der Kern der Sache" weist darauf hin, was wirklich zählt. Kulturell galt das Herz seit langem als Sitz der Seele und der Gefühle: Im alten Ägypten wurde das Herz nach dem Tod bewahrt und gegen die Feder der Maat aufgewogen, während das Gehirn als unwichtig verworfen wurde. Träume vom Herzen können deshalb auf deine Grundwerte hindeuten — was dir am wichtigsten ist, und ob du im Einklang damit lebst.
+„Herz“ steht auch für Mut und für den Kern einer Sache — „sich ein Herz fassen“ bedeutet, sich zu trauen zu zeigen, was man fühlt, und „der Kern der Sache“ weist darauf hin, was wirklich zählt. Kulturell galt das Herz seit langem als Sitz der Seele und der Gefühle: Im alten Ägypten wurde das Herz nach dem Tod bewahrt und gegen die Feder der Maat aufgewogen, während das Gehirn als unwichtig verworfen wurde. Träume vom Herzen können deshalb auf deine Grundwerte hindeuten — was dir am wichtigsten ist, und ob du im Einklang damit lebst.
 
 ## Quellen und weiterführende Literatur
 

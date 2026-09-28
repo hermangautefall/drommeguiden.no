@@ -29,7 +29,7 @@ In der nordischen Mythologie gehört der Wurm — oder die Schlange — zu den b
 
 ### Etwas wird tief drinnen verarbeitet, ungesehen
 
-Die häufigste Deutung von Wurmträumen hat mit Prozessen zu tun, die unterhalb des bewussten Wahrnehmens ablaufen — im Unbewussten, in den „Tiefen der Erde" der Psyche. Etwas wird durchgearbeitet, abgebaut und verwandelt, ohne dass du dir dessen ganz bewusst bist.
+Die häufigste Deutung von Wurmträumen hat mit Prozessen zu tun, die unterhalb des bewussten Wahrnehmens ablaufen — im Unbewussten, in den „Tiefen der Erde“ der Psyche. Etwas wird durchgearbeitet, abgebaut und verwandelt, ohne dass du dir dessen ganz bewusst bist.
 
 Das ist nicht zwangsläufig negativ. Der Wurm ist die große Recycling-Kraft der Natur — er baut das Alte ab, damit etwas Neues wachsen kann. Ein Wurm in deinem Traum kann widerspiegeln, dass ein innerer Prozess im Gange ist, auch wenn du das Ergebnis noch nicht sehen kannst.
 

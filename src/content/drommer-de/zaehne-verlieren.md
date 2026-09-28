@@ -75,7 +75,7 @@ Diese Variante verstärkt die Deutung rund um das Selbstbild. Der Spiegel steht 
 
 ## Von der antiken Deutung zur modernen Schlafforschung
 
-Der Zahntraum ist nichts Neues. Bereits in der Oneirokritik — dem ältesten systematischen Traumbuch, das wir kennen, geschrieben von Artemidor im 2. Jahrhundert nach Christus — wurden Zähne als Stellvertreter für Mitglieder des Haushalts gedeutet. Zähne im Traum zu verlieren konnte den Verlust von Familie oder Verwandten vorhersagen, oder den Verlust von Geld und Besitz. Der Gedanke, dass Zähne für die engsten Angehörigen „einstehen", hat sich in verschiedenen Formen bis heute gehalten.
+Der Zahntraum ist nichts Neues. Bereits in der Oneirokritik — dem ältesten systematischen Traumbuch, das wir kennen, geschrieben von Artemidor im 2. Jahrhundert nach Christus — wurden Zähne als Stellvertreter für Mitglieder des Haushalts gedeutet. Zähne im Traum zu verlieren konnte den Verlust von Familie oder Verwandten vorhersagen, oder den Verlust von Geld und Besitz. Der Gedanke, dass Zähne für die engsten Angehörigen „einstehen“, hat sich in verschiedenen Formen bis heute gehalten.
 
 In volkstümlichen Überlieferungen, die in Teilen Europas und Griechenlands weit verbreitet waren, wurde der Verlust von Zähnen im Traum oft als Zeichen von Krankheit oder Tod in der Familie verstanden — ein hartnäckiger Aberglaube, der heute meist als Metapher für Verlust gelesen wird, nicht als wörtliche Warnung.
 

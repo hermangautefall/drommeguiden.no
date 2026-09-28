@@ -70,7 +70,7 @@ Ein anhaltender innerer Zustand, der Aufmerksamkeit braucht. Mit jemandem zu spr
 
 ## Innere Qual — und der Weg hinaus
 
-Die Hölle im Traum lässt sich als Zustand von Leid, Schuld, Angst oder dem Gefühl lesen, in einer schmerzhaften Situation gefangen zu sein — was wir umgangssprachlich „die Hölle auf Erden" nennen könnten. Der Traum gibt einer inneren Qual Worte, der man kaum zu entkommen scheint, und er kann eine Krise oder eine Phase spiegeln, die zu lange gedauert hat.
+Die Hölle im Traum lässt sich als Zustand von Leid, Schuld, Angst oder dem Gefühl lesen, in einer schmerzhaften Situation gefangen zu sein — was wir umgangssprachlich „die Hölle auf Erden“ nennen könnten. Der Traum gibt einer inneren Qual Worte, der man kaum zu entkommen scheint, und er kann eine Krise oder eine Phase spiegeln, die zu lange gedauert hat.
 
 Das Bild kann auch von Schuld und hartem Selbsturteil handeln — einer Angst vor Strafe, oder einem Gewissen, das sich vom Wegweiser zum Bestrafer gewandelt hat. Die Hölle im Traum ist dann kein Ort außerhalb von dir, sondern ein Spiegel dafür, wie du dich selbst beurteilst.
 

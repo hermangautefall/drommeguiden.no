@@ -29,7 +29,7 @@ Es geht im Traum selten nur um ihn.
 
 ### Autorität, Regeln und Erwartungen
 
-In der Traumsymbolik steht der Vater oft für das, was Jung das „Autoritätsprinzip" nannte — den Teil, der Regeln aufstellt, Forderungen stellt und Leistung bewertet. Von deinem Vater zu träumen kann eine Situation spiegeln, in der du dich beurteilt fühlst, in der du versuchst, etwas zu erfüllen, oder in der du deine eigenen Entscheidungen und deine Richtung im Leben infrage stellst.
+In der Traumsymbolik steht der Vater oft für das, was Jung das „Autoritätsprinzip“ nannte — den Teil, der Regeln aufstellt, Forderungen stellt und Leistung bewertet. Von deinem Vater zu träumen kann eine Situation spiegeln, in der du dich beurteilt fühlst, in der du versuchst, etwas zu erfüllen, oder in der du deine eigenen Entscheidungen und deine Richtung im Leben infrage stellst.
 
 Es ist nicht immer die tatsächliche Stimme deines Vaters, die du in diesen Träumen hörst — genauso gut kann es dein eigener innerer Kritiker oder dein eigener Ehrgeiz sein, der sich sein Gesicht leiht.
 
@@ -60,7 +60,7 @@ Ein Besuch, den viele als realer als gewöhnliche Träume beschreiben — eine F
 
 ## Autorität, Schutz und innere Stimmen
 
-Der Vater im Traum kann oft für Autorität, Struktur und die Regeln und Erwartungen stehen, an denen wir uns zu orientieren gelernt haben. Für viele Menschen erscheint die Vaterfigur als eine Art „innerer Kritiker" — eine Stimme, die urteilt, misst und Maßstäbe setzt, und der der Traum ein Gesicht und eine Geschichte geben kann.
+Der Vater im Traum kann oft für Autorität, Struktur und die Regeln und Erwartungen stehen, an denen wir uns zu orientieren gelernt haben. Für viele Menschen erscheint die Vaterfigur als eine Art „innerer Kritiker“ — eine Stimme, die urteilt, misst und Maßstäbe setzt, und der der Traum ein Gesicht und eine Geschichte geben kann.
 
 Die Vaterfigur nimmt auch in der frühen Psychoanalyse einen zentralen Platz ein, wo die Beziehung zum Vater als Schlüssel dafür galt, wie wir Regeln und Gewissen verinnerlichen — was später Teil unseres eigenen Über-Ichs wird. Fühlt sich der Vater im Traum unterstützend an, kann es um Orientierung und Sicherheit bei einer Entscheidung gehen; ist er abwesend oder streng, kann der Traum stattdessen auf ungestillte Bedürfnisse hinweisen, auf die Angst, beurteilt zu werden, oder auf Unbehagen gegenüber Autorität im Allgemeinen.
 

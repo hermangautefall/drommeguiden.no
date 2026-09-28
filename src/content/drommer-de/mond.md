@@ -56,7 +56,7 @@ Das Unbewusste ist gerade sehr nah am Bewusstsein. Etwas will an die Oberfläche
 
 ## Der Mond zwischen Glauben und Zeitrechnung
 
-Jung betrachtete den Mond als eines der wichtigsten archetypischen Symbole des Unbewussten — besonders für das, was er die „Anima" im Mann nannte, und für das tiefere weibliche Prinzip im weiteren Sinne. Mondträume sind in seiner Lesart eine Einladung, in die tieferen Schichten der Psyche einzutreten.
+Jung betrachtete den Mond als eines der wichtigsten archetypischen Symbole des Unbewussten — besonders für das, was er die „Anima“ im Mann nannte, und für das tiefere weibliche Prinzip im weiteren Sinne. Mondträume sind in seiner Lesart eine Einladung, in die tieferen Schichten der Psyche einzutreten.
 
 In der nordischen Mythologie ist Máni der Mondgott — eine männliche Gestalt, anders als der weibliche Mond vieler anderer Mythologien, was dem Symbol in diesem kulturellen Zusammenhang eine etwas andere Qualität gibt: beständig, rhythmisch, tragend, nicht nur romantisch und emotional aufgeladen. Träume vom Meer teilen einen Großteil dieser Symbolik von Tiefe und Unbewusstem.
 

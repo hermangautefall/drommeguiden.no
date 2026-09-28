@@ -31,7 +31,7 @@ Sagen wir es gleich zu Beginn ganz offen: Ein solcher Traum verändert nicht dei
 
 Psychologisch gesehen ist gleichgeschlechtliche Intimität im Traum eines der stärksten Symbole für Selbstakzeptanz — für die Versöhnung mit Seiten an dir, die du auf Abstand hältst. Es ist ein Bild dafür, etwas an dir anzunehmen und zu umarmen, das du vielleicht fürchtest, dessen du dich schämst, oder das du nicht ganz anerkennst.
 
-Bist du ein Mann, der von Intimität mit einem anderen Mann träumt, könnte es darum gehen, dich Verletzlichkeit, Fürsorge, Kreativität, oder anderen Eigenschaften anzunähern, die du mit „dem Weiblichen" verbunden und vielleicht unterdrückt hast. Bist du eine Frau, die von Intimität mit einer anderen Frau träumt, könnte es darum gehen, deine eigene Stärke, Unabhängigkeit, oder deinen Selbstrespekt anzunehmen.
+Bist du ein Mann, der von Intimität mit einem anderen Mann träumt, könnte es darum gehen, dich Verletzlichkeit, Fürsorge, Kreativität, oder anderen Eigenschaften anzunähern, die du mit „dem Weiblichen“ verbunden und vielleicht unterdrückt hast. Bist du eine Frau, die von Intimität mit einer anderen Frau träumt, könnte es darum gehen, deine eigene Stärke, Unabhängigkeit, oder deinen Selbstrespekt anzunehmen.
 
 ### Jungs Anima und Animus — die innere Integration
 

@@ -29,7 +29,7 @@ Ein Kind im Traum ist selten nur ein Kind — meist steht es für etwas in dir.
 
 ### Dein inneres Kind
 
-Die klassischste psychologische Deutung von Kindern in Träumen — eng verwandt mit Träumen von einem Baby — hat mit dem zu tun, was Jung den „Puer" nannte, das innere Kind: der Teil in uns, der spontan, kreativ, verspielt und verletzlich zugleich ist. Von einem Kind zu träumen kann bedeuten, dass diese Seite von dir mehr Raum, mehr Fürsorge oder mehr Freiheit braucht, als du ihr gerade gibst.
+Die klassischste psychologische Deutung von Kindern in Träumen — eng verwandt mit Träumen von einem Baby — hat mit dem zu tun, was Jung den „Puer“ nannte, das innere Kind: der Teil in uns, der spontan, kreativ, verspielt und verletzlich zugleich ist. Von einem Kind zu träumen kann bedeuten, dass diese Seite von dir mehr Raum, mehr Fürsorge oder mehr Freiheit braucht, als du ihr gerade gibst.
 
 Vielleicht hast du in einer Lebensphase von einem Kind geträumt, die sehr ernst, durchstrukturiert und pflichtgebunden geworden ist — und der Traum erinnert dich daran, dass auch etwas Leichteres und Freieres leben will.
 

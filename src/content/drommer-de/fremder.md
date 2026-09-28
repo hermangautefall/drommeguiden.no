@@ -34,7 +34,7 @@ Ein Fremder, der mutig ist, wo du vorsichtig bist, oder kreativ, wo du starr bis
 
 ### Der Schatten und das Unterdrückte
 
-Carl Jung nannte die Teile von uns, die wir nicht anerkennen, den „Schatten" — und im Traum nimmt der Schatten oft die Gestalt eines Fremden an. Besonders wenn die unbekannte Person im Traum bedrohlich oder erschreckend war — ähnlich wie in Träumen vom Verfolgtwerden — oder etwas tat, das du selbst nie tun würdest, kann das auf Seiten von dir hindeuten, die du unterdrückt hast oder nicht anerkennen willst.
+Carl Jung nannte die Teile von uns, die wir nicht anerkennen, den „Schatten“ — und im Traum nimmt der Schatten oft die Gestalt eines Fremden an. Besonders wenn die unbekannte Person im Traum bedrohlich oder erschreckend war — ähnlich wie in Träumen vom Verfolgtwerden — oder etwas tat, das du selbst nie tun würdest, kann das auf Seiten von dir hindeuten, die du unterdrückt hast oder nicht anerkennen willst.
 
 Dieser Figur im Traum zu begegnen ist nicht gefährlich — im Gegenteil, es ist ein Zeichen dafür, dass deine Psyche daran arbeitet, diese Seiten von dir zu integrieren.
 
@@ -61,7 +61,7 @@ Kann eine Situation widerspiegeln, in der du dich anonym, übersehen fühlst, od
 
 ## Das Unbekannte in dir und in der Welt
 
-Ein Fremder im Traum trägt oft ein unbekanntes Potenzial in sich — eine Eigenschaft, ein Talent oder eine Haltung, der du in dir selbst noch nicht begegnet bist. Davon zu träumen, dir selbst „verkleidet" zu begegnen, lässt sich als Zeichen dafür lesen, dass etwas in dir bereit ist, entdeckt oder genutzt zu werden, auch wenn es sich noch fremd anfühlt.
+Ein Fremder im Traum trägt oft ein unbekanntes Potenzial in sich — eine Eigenschaft, ein Talent oder eine Haltung, der du in dir selbst noch nicht begegnet bist. Davon zu träumen, dir selbst „verkleidet“ zu begegnen, lässt sich als Zeichen dafür lesen, dass etwas in dir bereit ist, entdeckt oder genutzt zu werden, auch wenn es sich noch fremd anfühlt.
 
 Der Traum kann auch widerspiegeln, wie du dich generell zu Neuem verhältst — Veränderungen, neue Menschen, unbekannte Situationen auf dem Weg in dein Leben. Ob sich der Fremde im Traum entspannend oder beunruhigend anfühlt, kann etwas darüber sagen, wie offen oder vorsichtig du gerade gegenüber dem Unerwarteten bist.
 

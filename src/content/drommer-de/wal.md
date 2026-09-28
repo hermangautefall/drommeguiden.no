@@ -62,7 +62,7 @@ Etwas Gewaltiges und Wertvolles ist in Gefahr. Eine Kraft, die Hilfe oder Aufmer
 
 Im Traum lässt sich der Wal als Bild des tiefen Unbewussten lesen — starke Gefühle, die sich weit unter der Oberfläche bewegen. Wenn etwas derart Gewaltiges auftaucht, um zu atmen, kann das als Zeichen gelesen werden, dass ein großes Gefühl, eine Erkenntnis oder eine Seite von dir ans Licht kommt, nachdem sie sich still in der Stille der Tiefe gesammelt hat.
 
-Die größten Geschöpfe im Meer wecken oft ein Gefühl von Ehrfurcht — etwas Erhabenes und Überwältigendes, eine Erinnerung an Kräfte, die weit größer sind als ein einzelner Mensch. In der biblischen Geschichte von Jona wird der Mann vom Wal „verschlungen" — ein Bild, das oft als eine Zeit der Dunkelheit, des Rückzugs oder der Krise gelesen wird, die dennoch die Möglichkeit der Verwandlung in sich trägt. Eine innere Reise, bevor man verändert wieder hervortritt.
+Die größten Geschöpfe im Meer wecken oft ein Gefühl von Ehrfurcht — etwas Erhabenes und Überwältigendes, eine Erinnerung an Kräfte, die weit größer sind als ein einzelner Mensch. In der biblischen Geschichte von Jona wird der Mann vom Wal „verschlungen“ — ein Bild, das oft als eine Zeit der Dunkelheit, des Rückzugs oder der Krise gelesen wird, die dennoch die Möglichkeit der Verwandlung in sich trägt. Eine innere Reise, bevor man verändert wieder hervortritt.
 
 Der Gesang des Wals — eine tiefe Kommunikation, die sich über gewaltige Entfernungen trägt — lässt sich auch als Symbol für etwas lesen, das versucht, dich aus größerer Ferne zu erreichen als gewöhnlich. In manchen Traditionen gilt der Wal als Hüter uralten Wissens, eine Erinnerung, die weit in die Vergangenheit zurückreicht.
 

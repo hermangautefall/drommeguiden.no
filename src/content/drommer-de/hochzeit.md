@@ -41,7 +41,7 @@ Dieses Thema der Bindung teilt der Hochzeitstraum mit Träumen von Häusern, die
 
 ### Eine Vereinigung innerer Gegensätze
 
-Aus einer tieferen, psychologischen Perspektive kann die Hochzeit im Traum eine innere Vereinigung symbolisieren. Carl Jung nannte das „hieros gamos" — die heilige Hochzeit — eine Verschmelzung von Gegensätzen innerhalb der Persönlichkeit. Es kann um die Integration männlicher und weiblicher Seiten gehen, des Rationalen und des Emotionalen, oder des Bewussten und des Unbewussten.
+Aus einer tieferen, psychologischen Perspektive kann die Hochzeit im Traum eine innere Vereinigung symbolisieren. Carl Jung nannte das „hieros gamos“ — die heilige Hochzeit — eine Verschmelzung von Gegensätzen innerhalb der Persönlichkeit. Es kann um die Integration männlicher und weiblicher Seiten gehen, des Rationalen und des Emotionalen, oder des Bewussten und des Unbewussten.
 
 Diese Deutung ist besonders naheliegend, wenn du spürst, dass du dich gerade in einer Phase persönlicher Entwicklung befindest. Vielleicht hast du begonnen, Seiten an dir zu akzeptieren, die du früher abgelehnt hast. Vielleicht findest du eine neue Balance zwischen Arbeit und Freizeit, zwischen Pflicht und Verlangen, zwischen Kontrolle und Spontaneität.
 

@@ -34,7 +34,7 @@ Sterne erinnern uns an die schiere Größe des Universums — und im Traum könn
 
 ### Ein Traum oder ein Ziel
 
-Die Redewendung „nach den Sternen greifen" kommt nicht von ungefähr — Sterne symbolisieren hohe Ambitionen, die Träume, die schwer zu erreichen sind, dem Leben aber Richtung geben. Von Sternen zu träumen kann einen Ehrgeiz oder ein Ziel widerspiegeln, das die Dunkelheit erhellt.
+Die Redewendung „nach den Sternen greifen“ kommt nicht von ungefähr — Sterne symbolisieren hohe Ambitionen, die Träume, die schwer zu erreichen sind, dem Leben aber Richtung geben. Von Sternen zu träumen kann einen Ehrgeiz oder ein Ziel widerspiegeln, das die Dunkelheit erhellt.
 
 ## Ob der Himmel klar war
 

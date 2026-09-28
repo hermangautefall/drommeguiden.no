@@ -113,13 +113,13 @@ Sorgen kleiner wirken.
 Der Psychologe Alfred Adler interessierte sich dafür, wie Träume Ehrgeiz und
 Streben ausdrücken können. In seinem Denken konnten Flugträume von dem Wunsch
 handeln, etwas zu meistern, sich über eine schwierige Lage zu erheben oder eine
-Position «über» anderen einzunehmen — nicht unbedingt aus Überlegenheit, sondern
+Position „über“ anderen einzunehmen — nicht unbedingt aus Überlegenheit, sondern
 als Zeichen dafür, dass jemand auf etwas Größeres hinarbeitet.
 
 Fliegen gehört außerdem zu den häufigsten Erfahrungen in luziden Träumen, in
 denen die Träumende teilweise bei Bewusstsein ist und ein starkes Gefühl von
 Kontrolle erleben kann. Mehrere Traditionen kennen zudem die Vorstellung einer
-«Seelenreise» — dass sich etwas in uns lösen und frei bewegen kann — ein Bild,
+„Seelenreise“ — dass sich etwas in uns lösen und frei bewegen kann — ein Bild,
 das der Freiheit nahekommt, die viele in Flugträumen beschreiben.
 
 ## Quellen und weiterführende Literatur

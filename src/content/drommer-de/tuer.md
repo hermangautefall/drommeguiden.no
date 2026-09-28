@@ -113,7 +113,7 @@ Eine Tür im Traum lässt sich als Schwelle lesen, als Entscheidung oder als
 Übergang. Eine offene Tür wird oft als neue Möglichkeit oder Einladung gedeutet,
 während eine geschlossene oder verschlossene Tür auf ein Hindernis hinweisen
 kann, auf eine Chance, die gerade nicht in Reichweite liegt — oder auf die Frage,
-ob du den nötigen «Schlüssel» hast. Träume voller Türen können von Entscheidungen
+ob du den nötigen „Schlüssel“ hast. Träume voller Türen können von Entscheidungen
 handeln, die auf dich warten, und davon zu spüren, welcher Weg wirklich deiner
 ist.
 

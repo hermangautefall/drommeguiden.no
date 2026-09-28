@@ -77,7 +77,7 @@ Der Bruder im Traum ist vielleicht gar nicht wirklich er — er kann eine Gestal
 
 ## Verwandtschaft, Spiegel und Loyalität
 
-Ein Bruder im Traum steht oft für einen Teil von dir selbst — eine Art „Schattenbruder", der Eigenschaften trägt, die du erkennst, teilst, oder lieber wegschieben würdest. Der Traum kann eine alte Kindheitsdynamik an die Oberfläche bringen: Wer war „der Fähige", wer war „der Freie", wer bekam welche Rolle in der Familie — und welche dieser Rollen trägst du noch, bewusst oder unbewusst?
+Ein Bruder im Traum steht oft für einen Teil von dir selbst — eine Art „Schattenbruder“, der Eigenschaften trägt, die du erkennst, teilst, oder lieber wegschieben würdest. Der Traum kann eine alte Kindheitsdynamik an die Oberfläche bringen: Wer war „der Fähige“, wer war „der Freie“, wer bekam welche Rolle in der Familie — und welche dieser Rollen trägst du noch, bewusst oder unbewusst?
 
 Die Geschwisterbeziehung hält oft beide Extreme gleichzeitig — Rivalität und tiefe Loyalität. Ein Traum von deinem Bruder kann von Konkurrenz, Vergleich, oder einer alten Spannung handeln, die nie ausgesprochen wurde. Er kann aber genauso gut von der Bindung der Brüderlichkeit handeln: demjenigen, der an deiner Seite steht, dem du vertrauen kannst, selbst wenn alles andere versagt. Welches Gefühl im Traum am stärksten war, sagt oft etwas darüber aus, wo du gerade in der Beziehung stehst.
 

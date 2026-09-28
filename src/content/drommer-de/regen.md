@@ -37,7 +37,7 @@ Achte darauf, ob sich der Regen im Traum angenehm oder unangenehm anfühlt. Ein 
 
 ### Traurigkeit, Wehmut und innerer Schmerz
 
-Regen hat eine natürliche Verbindung zu Traurigkeit. Wir sprechen davon, „unter einer dunklen Wolke" zu stehen, wenn es uns schlecht geht, und diese Art von Metapher sitzt tief in unserem Denken über Gefühle. Träume von Regen — besonders grauem, kaltem, anhaltendem Regen — können eine Phase von Trauer, Verlust oder Wehmut in deinem Leben widerspiegeln.
+Regen hat eine natürliche Verbindung zu Traurigkeit. Wir sprechen davon, „unter einer dunklen Wolke“ zu stehen, wenn es uns schlecht geht, und diese Art von Metapher sitzt tief in unserem Denken über Gefühle. Träume von Regen — besonders grauem, kaltem, anhaltendem Regen — können eine Phase von Trauer, Verlust oder Wehmut in deinem Leben widerspiegeln.
 
 Das muss keinen dramatischen Verlust bedeuten. Genauso gut kann es eine leise Traurigkeit sein: eine Sehnsucht nach etwas, das einmal war, eine Enttäuschung, die du noch nicht ganz verarbeitet hast, oder eine Einsamkeit, die sich eingeschlichen hat, ohne dass du sie benannt hast. Der Regen im Traum gibt diesem Gefühl eine Form, und diese Form kann es leichter machen zu erkennen, was da eigentlich ist.
 

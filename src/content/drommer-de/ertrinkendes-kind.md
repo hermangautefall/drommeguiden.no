@@ -44,7 +44,7 @@ Ertrinken ist eines der stärksten Bilder der Traumwelt für das Überwältigtwe
 
 ### Die Verarbeitung eines realen Risikos
 
-Eltern kleiner Kinder leben mit einem ständigen Grundbewusstsein für Wasser, Verkehr und gefährliche Situationen. Die Träume verarbeiten dieses alltägliche Risikobewusstsein; sie sind die Art des Gehirns, das zu „proben", wovor es sich fürchtet, um vorbereitet zu sein.
+Eltern kleiner Kinder leben mit einem ständigen Grundbewusstsein für Wasser, Verkehr und gefährliche Situationen. Die Träume verarbeiten dieses alltägliche Risikobewusstsein; sie sind die Art des Gehirns, das zu „proben“, wovor es sich fürchtet, um vorbereitet zu sein.
 
 Es ist keine Warnung. Es ist das Risikobewusstsein, das seine gewöhnliche nächtliche Arbeit verrichtet.
 

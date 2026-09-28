@@ -33,7 +33,7 @@ Im Kern der Kleidsymbolik stehen Identität und Selbstdarstellung — was du der
 
 ### Ein besonderer Anlass
 
-Das Kleid ist keine Alltagskleidung — es ist für etwas gedacht. Ein Hochzeitskleid, ein Festkleid, ein Konfirmationskleid. Das Kleid in deinem Traum kann die Erwartung von etwas Wichtigem widerspiegeln, das sich nähert, oder eine Sehnsucht danach, etwas zu markieren. Ein Kleid bereithängen zu sehen, es aber nicht anzuziehen, signalisiert oft, dass „etwas wartet" in deinem Leben.
+Das Kleid ist keine Alltagskleidung — es ist für etwas gedacht. Ein Hochzeitskleid, ein Festkleid, ein Konfirmationskleid. Das Kleid in deinem Traum kann die Erwartung von etwas Wichtigem widerspiegeln, das sich nähert, oder eine Sehnsucht danach, etwas zu markieren. Ein Kleid bereithängen zu sehen, es aber nicht anzuziehen, signalisiert oft, dass „etwas wartet“ in deinem Leben.
 
 ### Das Feminine und das Elegante
 

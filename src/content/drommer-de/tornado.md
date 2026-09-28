@@ -59,7 +59,7 @@ Das Zentrum des Chaos — eine überraschende Ruhe mitten im Sturm.
 
 Ein Tornado lässt sich als Bild überwältigender Gefühle lesen — insbesondere Wut oder Angst —, die sich unkontrollierbar anfühlen und alles auf ihrem Weg mitreißen. Davon zu träumen, von einem Tornado erfasst zu werden, kann ein Gefühl spiegeln, im Chaos gefangen zu sein, in dem Gefühle kreisen, ohne zur Ruhe zu kommen.
 
-Der Tornado lässt sich auch als plötzliche, zerstörerische Veränderung lesen — ein Umbruch, der das Leben in kurzer Zeit auf den Kopf stellt: eine Krise, oder eine instabile Situation oder Person, die man treffend als „einen Wirbelwind" bezeichnen könnte. Im Kern des Symbols steht oft ein Kontrollverlust — das Gefühl, machtlos gegen eine Kraft zu sein, die dich hineinzieht, wie der Trichter eines Tornados.
+Der Tornado lässt sich auch als plötzliche, zerstörerische Veränderung lesen — ein Umbruch, der das Leben in kurzer Zeit auf den Kopf stellt: eine Krise, oder eine instabile Situation oder Person, die man treffend als „einen Wirbelwind“ bezeichnen könnte. Im Kern des Symbols steht oft ein Kontrollverlust — das Gefühl, machtlos gegen eine Kraft zu sein, die dich hineinzieht, wie der Trichter eines Tornados.
 
 In einem eher zeitgenössischen kulturellen Licht kann der Tornado auch an den Übergang in *Der Zauberer von Oz* erinnern — den Wirbelsturm, der dich aus dem Vertrauten herausreißt und in eine völlig neue, unbekannte Welt trägt. So gelesen kann der Traum von einer großen Verwandlung handeln, bei der das, was beängstigend wirkt, zugleich die Tür zu etwas Neuem öffnet.
 

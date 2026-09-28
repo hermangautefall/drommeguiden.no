@@ -41,7 +41,7 @@ Eine der aufschlussreicheren Deutungen von Ex-Träumen besagt, dass der frühere
 
 Frag dich selbst: Wofür stand dein Ex für dich? Sicherheit? Aufregung? Freiheit? Bestätigung? Es besteht eine gute Chance, dass der Traum von diesem Bedürfnis handelt — nicht von der Person. Vielleicht vermisst du die Sicherheit, die dein Ex dir gab, ohne die Person selbst zu vermissen. Oder vielleicht träumst du von einer Version deiner selbst aus der Zeit, als ihr zusammen wart — mutiger, spontaner, oder offener.
 
-Diese Deutung kann befreiend sein, weil sie den Fokus von der anderen Person auf dich selbst verlagert. Der Traum sagt nicht „du willst diese Person zurück" — er sagt „da ist etwas in dir, das Aufmerksamkeit braucht". Träume von Spiegeln erkunden ein ähnliches Thema von Selbstreflexion und Projektion.
+Diese Deutung kann befreiend sein, weil sie den Fokus von der anderen Person auf dich selbst verlagert. Der Traum sagt nicht „du willst diese Person zurück“ — er sagt „da ist etwas in dir, das Aufmerksamkeit braucht“. Träume von Spiegeln erkunden ein ähnliches Thema von Selbstreflexion und Projektion.
 
 ### Du bist bereit, weiterzuziehen
 
@@ -77,7 +77,7 @@ Nach der Kontinuitätshypothese in der Traumforschung spiegeln Träume oft das w
 
 Es kann auch helfen, sich zu fragen, wofür dein Ex tatsächlich steht. Vielleicht steht er oder sie für eine Eigenschaft, die du bewundert hast, eine Version deiner selbst aus jener Zeit, ein Gefühl von Freiheit oder Leidenschaft, das du mit eurer gemeinsamen Zeit verbindest — oder eine Wunde, die nie ganz verheilt ist. Der Traum handelt davon, nicht von der Person selbst.
 
-Der Schlafforscher Matthew Walker hat den REM-Schlaf als eine Art „nächtliche Therapie" beschrieben: Das Gehirn kehrt zu emotional aufgeladenen Erinnerungen zurück, um ihre Intensität mit der Zeit abzumildern. Alte Beziehungen sind oft genau diese Art von aufgeladener Erinnerung und können deshalb wieder auftauchen — besonders in Stressphasen, oder wenn du eine neue Beziehung eingehst, die alte Bindungsmuster aktiviert.
+Der Schlafforscher Matthew Walker hat den REM-Schlaf als eine Art „nächtliche Therapie“ beschrieben: Das Gehirn kehrt zu emotional aufgeladenen Erinnerungen zurück, um ihre Intensität mit der Zeit abzumildern. Alte Beziehungen sind oft genau diese Art von aufgeladener Erinnerung und können deshalb wieder auftauchen — besonders in Stressphasen, oder wenn du eine neue Beziehung eingehst, die alte Bindungsmuster aktiviert.
 
 ## Quellen und weiterführende Literatur
 

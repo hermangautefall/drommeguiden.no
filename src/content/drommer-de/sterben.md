@@ -34,7 +34,7 @@ Die mit Abstand häufigste und am besten belegte Deutung des Sterbens im Traum h
 
 Vielleicht hast du vom Sterben geträumt in einer Phase, in der du etwas Wichtiges abschließt: eine Beziehung, einen Job, einen Lebensabschnitt, eine Version deiner selbst, die du nicht mehr bist. Viele Menschen träumen in solchen Zeiten auch von verstorbenen geliebten Menschen. Das Unterbewusstsein greift zum dramatischsten Bild, das es zur Verfügung hat — den Tod —, um zu markieren, dass dies ein echter und bedeutsamer Übergang ist, keine oberflächliche Veränderung.
 
-Jung nannte das den Individuationsprozess: die lebenslange Reise dahin, wer du wirklich bist, bei der alte Identitäten und Rollen „sterben" müssen, damit neue wachsen können.
+Jung nannte das den Individuationsprozess: die lebenslange Reise dahin, wer du wirklich bist, bei der alte Identitäten und Rollen „sterben“ müssen, damit neue wachsen können.
 
 ### Befreiung von etwas Belastendem
 
@@ -44,7 +44,7 @@ Das ist nicht gefährlich — im Gegenteil, es kann ein Zeichen für gesunde Sel
 
 ### Verarbeitung existenzieller Angst
 
-Wir sind alle sterblich, und die meisten von uns tragen eine gewisse Angst davor, ohne im Alltag darüber nachzudenken. Träume sind eine der Arenen, in denen das Unterbewusstsein diese tiefen existenziellen Fragen zu verarbeiten scheint — ohne dass wir uns aktiv damit „auseinandersetzen" müssen.
+Wir sind alle sterblich, und die meisten von uns tragen eine gewisse Angst davor, ohne im Alltag darüber nachzudenken. Träume sind eine der Arenen, in denen das Unterbewusstsein diese tiefen existenziellen Fragen zu verarbeiten scheint — ohne dass wir uns aktiv damit „auseinandersetzen“ müssen.
 
 Vom eigenen Tod zu träumen ist für viele Menschen einfach eine Art, etwas Wahres und Unausweichliches zu verarbeiten — etwas erträglicher gemacht dadurch, dass die Psyche es im Schlaf symbolisch durcharbeiten darf.
 

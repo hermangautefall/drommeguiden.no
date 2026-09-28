@@ -66,7 +66,7 @@ Eine dramatische Störung deiner Pläne oder deiner Richtung — etwas, das nich
 
 Ein Zug kann als die Reise deines Lebens gelesen werden, aber auf einem festen Gleis — einer vorgegebenen Route folgend, den Erwartungen anderer, oder einem Kurs, auf den du dich bereits festgelegt hast. Verglichen mit dem Fahren eines Autos gibt dir ein Zug deutlich weniger Kontrolle: Du kannst ihn nicht steuern, sondern nur wählen, ob du an Bord bist. Der Traum kann auftauchen, wenn du spürst, dass sich das Leben von selbst vorwärtsbewegt, in eine Richtung, die jemand anderes bestimmt hat.
 
-Der klassische „Zug verpassen"-Traum wird oft als Angst gedeutet, eine Gelegenheit verstreichen zu lassen — dass du zu spät bist, oder dass die Chance bereits vorbei ist. Im falschen Zug zu sitzen, oder nicht aussteigen zu können, kann wiederum auf ein Gefühl hindeuten, auf einem Weg festzustecken, den du dir nicht selbst ausgesucht hast.
+Der klassische „Zug verpassen“-Traum wird oft als Angst gedeutet, eine Gelegenheit verstreichen zu lassen — dass du zu spät bist, oder dass die Chance bereits vorbei ist. Im falschen Zug zu sitzen, oder nicht aussteigen zu können, kann wiederum auf ein Gefühl hindeuten, auf einem Weg festzustecken, den du dir nicht selbst ausgesucht hast.
 
 Weil ein Zug viele Menschen gleichzeitig befördert, kann der Traum auch vom Kollektiv handeln — mit anderen mitzufahren, oder ein Gefühl, dass das Leben nach einem Fahrplan läuft, den du nicht selbst festgelegt hast.
 

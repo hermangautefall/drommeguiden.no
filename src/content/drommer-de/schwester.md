@@ -64,7 +64,7 @@ Eine Schwester im Traum kann als Spiegel deiner selbst fungieren — weibliche E
 
 Schwesternschaft trägt sowohl Unterstützung als auch Rivalität in sich, oft nebeneinander. Der Traum kann Solidarität und Nähe spiegeln — dass sie eine der wenigen Personen ist, die dich wirklich kennt. Genauso gut kann er aber alte Konkurrenz hervorholen, besonders rund um Identität, Aussehen oder Leistung — Dinge, die zwischen euch vielleicht nie laut ausgesprochen wurden.
 
-Der Traum kann auch einfach von deiner tatsächlichen Beziehung zu ihr handeln — ungelösten Gefühlen, einer Sehnsucht nach mehr Kontakt, oder einer Sorge, die du trägst. Und im weiteren Sinn kann „Schwesternschaft" im Traum weibliche Freundschaft und Solidarität im Allgemeinen darstellen — eine gewählte Familie, nicht nur eine biologische.
+Der Traum kann auch einfach von deiner tatsächlichen Beziehung zu ihr handeln — ungelösten Gefühlen, einer Sehnsucht nach mehr Kontakt, oder einer Sorge, die du trägst. Und im weiteren Sinn kann „Schwesternschaft“ im Traum weibliche Freundschaft und Solidarität im Allgemeinen darstellen — eine gewählte Familie, nicht nur eine biologische.
 
 ## Quellen und weiterführende Literatur
 

@@ -67,7 +67,7 @@ Es lohnt sich nachzudenken: Was verbindest du mit Genuss und Sexualität? Ist es
 
 ## Lösung in Körper und Psyche
 
-Freud las alle Träume mit sexueller Lösung als Ausdruck verdrängter sexueller Wünsche. Jung erweiterte den Blick: Der Orgasmus als Symbol ist eines der stärksten Bilder der Psyche für Ganzheit, Lösung und das Überwinden eines geteilten Selbst. In mystischen Traditionen — vom Kundalini des tantrischen Yoga bis zur „göttlichen Vereinigung" mittelalterlicher Mystiker — wurde sexuelle Ekstase seit langem als Bild dafür gelesen, wie die Seele mit etwas Größerem verschmilzt.
+Freud las alle Träume mit sexueller Lösung als Ausdruck verdrängter sexueller Wünsche. Jung erweiterte den Blick: Der Orgasmus als Symbol ist eines der stärksten Bilder der Psyche für Ganzheit, Lösung und das Überwinden eines geteilten Selbst. In mystischen Traditionen — vom Kundalini des tantrischen Yoga bis zur „göttlichen Vereinigung“ mittelalterlicher Mystiker — wurde sexuelle Ekstase seit langem als Bild dafür gelesen, wie die Seele mit etwas Größerem verschmilzt.
 
 ## Quellen und weiterführende Literatur
 

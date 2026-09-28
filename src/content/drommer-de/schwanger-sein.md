@@ -62,7 +62,7 @@ Angst davor, bei etwas zu scheitern, in das du viel investiert hast. Eine Verlet
 
 ## Etwas, das im Begriff ist zu entstehen
 
-Schwangerschaftsträume sind nicht Menschen vorbehalten, die ein Kind erwarten oder sich eines wünschen. Genauso oft geht es um etwas anderes, das im Gange ist — ein Projekt, eine Idee, ein neuer Lebensabschnitt oder etwas Kreatives, das langsam Gestalt annimmt und sich darauf vorbereitet, „geboren" zu werden. Der Traum leiht sich ein Bild vom Körper, um die Geschichte eines Prozesses zu erzählen, der für die Außenwelt noch nicht sichtbar ist.
+Schwangerschaftsträume sind nicht Menschen vorbehalten, die ein Kind erwarten oder sich eines wünschen. Genauso oft geht es um etwas anderes, das im Gange ist — ein Projekt, eine Idee, ein neuer Lebensabschnitt oder etwas Kreatives, das langsam Gestalt annimmt und sich darauf vorbereitet, „geboren“ zu werden. Der Traum leiht sich ein Bild vom Körper, um die Geschichte eines Prozesses zu erzählen, der für die Außenwelt noch nicht sichtbar ist.
 
 Der griechische Traumdeuter Artemidor schrieb bereits im 2. Jahrhundert, dass solche Träume im Licht der träumenden Person gelesen werden müssten — dasselbe Bild könne für unterschiedliche Menschen völlig Unterschiedliches bedeuten, je nach ihren Lebensumständen. Diese Denkweise hält sich bis heute: Ein Schwangerschaftstraum bei jemandem, der ein Kind erwartet, kann etwas völlig anderes bedeuten als derselbe Traum bei jemandem, der gerade einen neuen Job begonnen hat.
 

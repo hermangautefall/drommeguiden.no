@@ -41,7 +41,7 @@ Die Scheren des Krebses greifen zu und halten fest — und der Krebs im Traum ka
 
 ### Ein Leben zwischen zwei Welten
 
-Der Krebs ist amphibisch — er lebt in der Gezeitenzone, zwischen Meer und Land. Der Krebs im Traum kann dafür stehen, in gewissem Sinne „dazwischen" zu sein: zwischen zwei Lebensabschnitten, zwei Identitäten, zwei Gemeinschaften, zwischen Kindheit und Erwachsensein. Er ist nicht verloren — er ist genau im Übergang selbst in seinem Element.
+Der Krebs ist amphibisch — er lebt in der Gezeitenzone, zwischen Meer und Land. Der Krebs im Traum kann dafür stehen, in gewissem Sinne „dazwischen“ zu sein: zwischen zwei Lebensabschnitten, zwei Identitäten, zwei Gemeinschaften, zwischen Kindheit und Erwachsensein. Er ist nicht verloren — er ist genau im Übergang selbst in seinem Element.
 
 ### Das Mütterliche und das Beschützende
 
@@ -55,7 +55,7 @@ Wie sich der Krebs im Traum verhält, verändert die Deutung. Hat er dich gezwic
 
 Der harte Panzer und die starken Scheren des Krebses lassen sich im Traum als Bild von Selbstschutz und emotionalem Panzerwerk lesen. Mit den Scheren festzuhalten, während etwas Weiches im Inneren geschützt wird, kann eine Phase spiegeln, in der du ein verletzliches Inneres schützt — und der Traum fragt vielleicht, was genau du bewachst, und ob der Panzer dicker geworden ist, als er sein müsste.
 
-Der seitliche Gang des Krebses ist ein weiteres bekanntes Merkmal — er geht selten etwas frontal an, sondern bewegt sich stattdessen im Winkel, indirekt. Im Traum lässt sich das als indirekte Art lesen, ein Problem zu behandeln: ein Ausweichen, oder ein vorsichtigerer, schräger Zugang zu etwas, dem du dich eigentlich nähern willst. In der Astrologie ist der Krebs das Tierkreiszeichen, das für Zuhause, Familie, emotionale Sensibilität und Fürsorge steht, und bekannt für seine eigene, besondere Hartnäckigkeit — die Neigung, an etwas „festzuhalten".
+Der seitliche Gang des Krebses ist ein weiteres bekanntes Merkmal — er geht selten etwas frontal an, sondern bewegt sich stattdessen im Winkel, indirekt. Im Traum lässt sich das als indirekte Art lesen, ein Problem zu behandeln: ein Ausweichen, oder ein vorsichtigerer, schräger Zugang zu etwas, dem du dich eigentlich nähern willst. In der Astrologie ist der Krebs das Tierkreiszeichen, das für Zuhause, Familie, emotionale Sensibilität und Fürsorge steht, und bekannt für seine eigene, besondere Hartnäckigkeit — die Neigung, an etwas „festzuhalten“.
 
 Der Krebs wirft außerdem seinen Panzer ab, um zu wachsen — er lässt seinen alten Schutz zurück, um größer zu werden. Das lässt sich als Bild einer Übergangsphase lesen: eine Zeit, in der alte Schutzmechanismen nicht mehr passen, und in der eine gewisse Verletzlichkeit ein natürlicher Teil der eigenen Weiterentwicklung ist.
 

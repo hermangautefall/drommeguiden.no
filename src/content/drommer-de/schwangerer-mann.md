@@ -31,7 +31,7 @@ Schwangerschaft ist das stärkste biologische Bild, das wir für verborgenes Wac
 
 Es könnte ein Projekt sein, an dem du schon lange arbeitest. Eine Idee, die noch nicht bereit ist, geteilt zu werden. Ein Plan, der in Bewegung ist, aber noch nicht abgeschlossen. Eine Lebensveränderung, die kommt, aber für niemand anderen sichtbar ist.
 
-Frag dich selbst: Was in meinem Leben befindet sich gerade in einer „heranreifenden" Phase?
+Frag dich selbst: Was in meinem Leben befindet sich gerade in einer „heranreifenden“ Phase?
 
 ### Ein Zug zur Fürsorge und zum Erschaffen
 

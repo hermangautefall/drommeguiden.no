@@ -37,7 +37,7 @@ Das Schwein ist bemerkenswert intelligent, wird aber so behandelt, als wäre es 
 
 ### Etwas, dessen du dich schämst
 
-In der westlichen Kultur trägt das Schwein eine kulturelle Verbindung zu Scham — „dreckig", schmutzig, hemmungslos. Von einem Schwein zu träumen kann für etwas stehen, das du verborgen hältst, etwas, zu dem du dich nicht bekennen willst, einen Impuls oder ein Bedürfnis, das du als zu grob oder zu roh empfindest.
+In der westlichen Kultur trägt das Schwein eine kulturelle Verbindung zu Scham — „dreckig“, schmutzig, hemmungslos. Von einem Schwein zu träumen kann für etwas stehen, das du verborgen hältst, etwas, zu dem du dich nicht bekennen willst, einen Impuls oder ein Bedürfnis, das du als zu grob oder zu roh empfindest.
 
 ## Üppig, im Schlamm, oder mit aggressivem Appetit
 
@@ -54,5 +54,5 @@ Jung hätte den Schweinetraum vermutlich als Einladung gesehen, die Seiten des L
 ## Quellen und weiterführende Literatur
 
 - Artemidor von Daldis, *Oneirokritika* (ca. 150–200 n. Chr.) — Nutztiere und Überfluss als Traummotiv, ohne die Scham, die spätere Zeiten dem Tier anhefteten.
-- Carl Gustav Jung, *Der Mensch und seine Symbole* (1964) — der Schatten und der Appetit: Was wir „schweinisch" nennen, ist oft das, wozu wir uns selbst nicht bekennen wollen.
+- Carl Gustav Jung, *Der Mensch und seine Symbole* (1964) — der Schatten und der Appetit: Was wir „schweinisch“ nennen, ist oft das, wozu wir uns selbst nicht bekennen wollen.
 - G. William Domhoff, *The Scientific Study of Dreams* (2003) — die Kontinuitätshypothese, und warum der Zustand des Schweins die Deutung färbt.

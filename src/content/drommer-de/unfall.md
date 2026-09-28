@@ -76,7 +76,7 @@ Forschung zu Urteilsvermögen und Entscheidungsfindung hat gezeigt, wie systemat
 
 Moderne Traumaforschung, einschließlich der Arbeit von Bessel van der Kolk, zeigt, dass unverarbeitetes Trauma oft in Träumen als wiederkehrende Unfallszenen wieder auftaucht. Wenn Unfallträume sehr häufig sind oder an ein bestimmtes Ereignis in deinem Leben gebunden sind, kann das ein Zeichen sein, dass etwas verarbeitet werden muss. Träume allein lösen kein Trauma — sie sind eine Botschaft, keine Behandlung.
 
-Jung sah Unfälle in Träumen als Szenen, in denen das Bewusstsein mit dem Unbewussten „zusammenstößt" — in denen etwas, das die Psyche zurückgehalten hat, endlich durchbricht. Das ist nicht zwangsläufig eine Katastrophe — es kann auch der Beginn einer größeren inneren Ganzheit sein. Der Unfall in deinem Traum ist, in dieser Lesart, ein Schwellenmarker: Etwas Altes endet abrupt, damit etwas Neues beginnen kann.
+Jung sah Unfälle in Träumen als Szenen, in denen das Bewusstsein mit dem Unbewussten „zusammenstößt“ — in denen etwas, das die Psyche zurückgehalten hat, endlich durchbricht. Das ist nicht zwangsläufig eine Katastrophe — es kann auch der Beginn einer größeren inneren Ganzheit sein. Der Unfall in deinem Traum ist, in dieser Lesart, ein Schwellenmarker: Etwas Altes endet abrupt, damit etwas Neues beginnen kann.
 
 ## Quellen und weiterführende Literatur
 

@@ -22,6 +22,11 @@ import re, sys, pathlib
 TEKNISKE_FELT = re.compile(r'^\s*(nb_slug|en_slug|de_slug|bilde|slug|dato|oppdatert|author|kategori)\s*:')
 
 HARD = [
+    # Tysk aapner med „ og lukker med “. Hele korpuset aapnet riktig og lukket
+    # med et rett ASCII-hermetegn — 178 ganger i 99 filer — fordi hver pulje
+    # kopierte moensteret fra forbildefilene den fikk utdelt. Regelen kan ikke
+    # gi falske positiver: en „ som lukkes med " er alltid feil.
+    (r'\u201e[^\u201e\u201c"]{1,300}"', 'tysk lukker med “, ikke med rett hermetegn'),
     # Hoeflighetsform. «Sie» i setningsstart er ogsaa «sie» (hun/de), saa bare
     # forekomster inne i en setning teller — pluss «Ihnen»/«Ihre», som ikke har
     # noen liten motpart midt i en setning.

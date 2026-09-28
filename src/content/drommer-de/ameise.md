@@ -55,9 +55,9 @@ Du betrachtest etwas Fleißiges und Organisiertes, vielleicht mit etwas Abstand.
 
 ## Fleiß, Zusammenarbeit, und kleine Schritte
 
-Die Ameise ist in vielerlei Hinsicht das Sinnbild von Fleiß und Zusammenarbeit schlechthin. Das Buch der Sprüche drückt es so aus: „Geh hin zur Ameise, du Fauler, sieh ihre Weise an und werde weise" — ein Aufruf, vorauszuplanen, solange noch Zeit dafür ist, so wie die Ameise Nahrung vor dem Winter sammelt. Ameisen im Traum können genau diese Energie tragen: eine Erinnerung, dass kleine, stetige Schritte sich am Ende zu etwas Großem summieren.
+Die Ameise ist in vielerlei Hinsicht das Sinnbild von Fleiß und Zusammenarbeit schlechthin. Das Buch der Sprüche drückt es so aus: „Geh hin zur Ameise, du Fauler, sieh ihre Weise an und werde weise“ — ein Aufruf, vorauszuplanen, solange noch Zeit dafür ist, so wie die Ameise Nahrung vor dem Winter sammelt. Ameisen im Traum können genau diese Energie tragen: eine Erinnerung, dass kleine, stetige Schritte sich am Ende zu etwas Großem summieren.
 
-Zugleich verweist der Ameisenhaufen auf eine Spannung zwischen dem Einzelnen und dem Kollektiv. Jede Ameise ist allein fast nichts, aber gemeinsam bauen sie etwas, das sie alle überdauert. Der Traum kann daher von deiner Rolle in einem Team oder einer Gruppe handeln — bist du Teil von etwas Bedeutsamem, oder fühlst du dich auf „nur ein Rädchen" in einer größeren Maschine reduziert?
+Zugleich verweist der Ameisenhaufen auf eine Spannung zwischen dem Einzelnen und dem Kollektiv. Jede Ameise ist allein fast nichts, aber gemeinsam bauen sie etwas, das sie alle überdauert. Der Traum kann daher von deiner Rolle in einem Team oder einer Gruppe handeln — bist du Teil von etwas Bedeutsamem, oder fühlst du dich auf „nur ein Rädchen“ in einer größeren Maschine reduziert?
 
 Wenn Ameisen in großer Zahl auftauchen — krabbelnd, schwärmend, überfallend — kann das auch ein alltäglicheres Gefühl spiegeln: viele kleine, nagende Dinge, die sich angehäuft haben und jetzt alle auf einmal Aufmerksamkeit verlangen. Die Biene teilt etwas vom Fleiß der Ameise, doch während die Biene oft mit süßeren Belohnungen verbunden ist, geht es bei der Ameise mehr um den Prozess selbst — die Arbeit, die Zusammenarbeit, und die lange Strecke.
 
