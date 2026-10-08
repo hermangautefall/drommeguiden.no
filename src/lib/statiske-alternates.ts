@@ -1,6 +1,7 @@
 import { existsSync } from 'node:fs';
 import { supportedLangs, type Lang, pathSegments } from '../i18n/config';
 import { pathFor, homePath } from '../i18n/utils';
+import { seksjonerMedInnhold, type Seksjoner } from './sections';
 
 /**
  * Fullt sett hreflang-alternativer for en statisk side.
@@ -30,6 +31,26 @@ const SIDEFILER: Record<string, Record<Lang, string>> = {
   aTilAa:        { nb: 'src/pages/drommer/a-til-aa.astro', sv: 'src/pages/sv/drommar/a-till-o.astro', da: 'src/pages/da/dromme/a-til-aa.astro', de: 'src/pages/de/traeume/a-bis-z.astro', en: 'src/pages/en/dreams/a-to-z.astro' },
 };
 
+/**
+ * Seksjoner som kan staa tomme paa et spraak.
+ *
+ * Sidefilen finnes for alle fem spraak, men dansk og tysk har verken guider
+ * eller soevnartikler ennaa, saa de to indekssidene rendres tomme og settes
+ * til noindex. Likevel listet hreflang dem: den norske guide-siden erklaerte
+ * hreflang="da" mot en side den samtidig ba Google om ikke aa indeksere.
+ *
+ * Google ignorerer en hreflang-klynge der et ledd er noindex — saa feilen
+ * rammet ikke bare de tomme sidene, men koblingen mellom nb, sv og en ogsaa.
+ * Search Console meldte «Ekskludert med en noindex-tag», og det var symptomet.
+ *
+ * Et spraak faller naa ut av settet til seksjonen har innhold, og kommer inn
+ * igjen av seg selv naar den foerste artikkelen er skrevet.
+ */
+const KREVER_INNHOLD: Partial<Record<keyof typeof SIDEFILER, keyof Seksjoner>> = {
+  sovnIndex: 'sovn',
+  guiderIndex: 'guider',
+};
+
 /** Seksjonsforsider: hvilken pathSegments-noekkel URL-en bygges av. */
 const SEKSJON: Partial<Record<keyof typeof SIDEFILER, keyof typeof pathSegments.nb>> = {
   drommerIndex: 'drommer',
@@ -55,6 +76,10 @@ export function alternatesFor(side: keyof typeof SIDEFILER): Alternate[] {
   const filer = SIDEFILER[side];
   return supportedLangs
     .filter((l) => existsSync(filer[l]))
+    .filter((l) => {
+      const seksjon = KREVER_INNHOLD[side];
+      return !seksjon || seksjonerMedInnhold(l)[seksjon];
+    })
     .map((l) => ({
       lang: l,
       url:
